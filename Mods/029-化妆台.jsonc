@@ -1,0 +1,118 @@
+{
+  "MarniiMods Hairstyles": [//2025.11.29
+    {
+      "NamespaceHash": "Content::830224812",
+      "Source": "Stylist table",
+      "Trans": {"SC":"造型设计台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3172624003",
+      "Source": "Used to create skins from Marniimods: Hairstyles",
+      "Trans": {"SC":"用于从Marnii模组制作发型皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3613610237",
+      "Source": "Antler crown (1)",
+      "Trans": {"SC":"鹿角冠(1)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3719841168",
+      "Source": "You can use this skin to accessorise yourself. Can be applied on boots, helmet or gloves.",
+      "Trans": {"SC":"你可以用这个皮肤来装饰自己，可以装在靴子，头盔或手套上。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1508661022",
+      "Source": "Antler crown (2)",
+      "Trans": {"SC":"鹿角冠(2)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2504415104",
+      "Source": "Antler crown (3)",
+      "Trans": {"SC":"鹿角冠(3)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3914759905",
+      "Source": "Chainmail circlet",
+      "Trans": {"SC":"金属环饰","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3494345750",
+      "Source": "Crown v1",
+      "Trans": {"SC":"皇冠 V1","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::645134776",
+      "Source": "Earring v1",
+      "Trans": {"SC":"耳环 V1","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::885413462",
+      "Source": "Earring v2",
+      "Trans": {"SC":"耳环 V2","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2356818227",
+      "Source": "Earring v3",
+      "Trans": {"SC":"耳环 V3","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::691826933",
+      "Source": "Flower Crown",
+      "Trans": {"SC":"花皇冠","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2320921130",
+      "Source": "Jeweled Headpiece",
+      "Trans": {"SC":"宝石链饰","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3733986691",
+      "Source": "Style yourself",
+      "Trans": {"SC":"自己的风格。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1915229288",
+      "Source": "Norse",
+      "Trans": {"SC":"北欧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::964471952",
+      "Source": "Braided",
+      "Trans": {"SC":"辫子","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3685472787",
+      "Source": "Noble",
+      "Trans": {"SC":"贵族","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3227422137",
+      "Source": "Viking beards",
+      "Trans": {"SC":"维京胡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3131577367",
+      "Source": "Face framing",
+      "Trans": {"SC":"修饰脸型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

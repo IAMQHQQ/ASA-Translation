@@ -1,0 +1,466 @@
+{
+  "Mysterious: Geno Pack": [
+    {
+      "NamespaceHash": "Content::1117721575",
+      "Source": "Genoraptor",
+      "Trans": {"SC":"基因迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1969609965",
+      "Source": "Genotyrant",
+      "Trans": {"SC":"基因暴君","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4053624574",
+      "Source": "Scorched Genoraptor",
+      "Trans": {"SC":"焦土基因迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2444310212",
+      "Source": "Alpha Genotyrant",
+      "Trans": {"SC":"精英基因暴君","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1495456821",
+      "Source": "Tek Genotyrant",
+      "Trans": {"SC":"泰克基因暴君","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1272997960",
+      "Source": "Aberrant Genoraptor",
+      "Trans": {"SC":"畸变基因迅猛龙","JA":"畸變基因迅猛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2789997006",
+      "Source": "Alpha Genoraptor",
+      "Trans": {"SC":"精英基因迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::51466688",
+      "Source": "Genotyrant Heart",
+      "Trans": {"SC":"基因暴君心脏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::514050307",
+      "Source": "Genoraptor has natural armor.",
+      "Trans": {"SC":"基因迅猛龙拥有天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3648476323",
+      "Source": "Chibi-Felyne",
+      "Trans": {"SC":"袖珍-艾露猫","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3059056971",
+      "Source": "Genotyrant has natural armor.",
+      "Trans": {"SC":"基因暴君拥有天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4078830200",
+      "Source": "Chibi-Doro",
+      "Trans": {"SC":"袖珍-Doro","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2256302308",
+      "Source": "Genoraptor Saddle",
+      "Trans": {"SC":"基因迅猛龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1175945970",
+      "Source": "Equip a Genoraptor with this to ride it.",
+      "Trans": {"SC":"装备到基因迅猛龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::414928047",
+      "Source": "Chibi-Genoraptor",
+      "Trans": {"SC":"袖珍-基因迅猛龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1911078496",
+      "Source": "Genotyrant Saddle",
+      "Trans": {"SC":"基因暴君鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1591568252",
+      "Source": "Equip a Genotyrant with this to ride it.",
+      "Trans": {"SC":"装备到基因暴君上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::792822693",
+      "Source": "Chibi-Genotyrant",
+      "Trans": {"SC":"袖珍-基因暴君","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::960705723",
+      "Source": "Chibi-Tek Genotyrant",
+      "Trans": {"SC":"袖珍-泰克基因暴君","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2647950713",
+      "Source": "Artificial Genoraptor Egg",
+      "Trans": {"SC":"人造基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2444819159",
+      "Source": "Use it to obtain an true egg.",
+      "Trans": {"SC":"使用它来获得一个真正的蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1898643025",
+      "Source": "Artificial Genoraptor Egg (AB)",
+      "Trans": {"SC":"人造畸变基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3047185120",
+      "Source": "Genoraptor Cowboy Hat",
+      "Trans": {"SC":"基因迅猛龙牛仔帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3020688303",
+      "Source": "Equip it on the saddle.A hat with a strong western flavor.",
+      "Trans": {"SC":"装备在鞍上。一顶充满西部风情的帽子。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2673338573",
+      "Source": "Artificial Genoraptor Egg (EX)",
+      "Trans": {"SC":"人造灭绝基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4249573167",
+      "Source": "Genoraptor Bone Helmet",
+      "Trans": {"SC":"基因迅猛龙骨盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1770276323",
+      "Source": "Equip it on the saddle.",
+      "Trans": {"SC":"装备在鞍上。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2613871659",
+      "Source": "Artificial Genoraptor Egg (SE)",
+      "Trans": {"SC":"人造焦土基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4162781347",
+      "Source": "Indomrex Indio Crista Hat ",
+      "Trans": {"SC":"暴虐霸王龙印第安冠帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3835422480",
+      "Source": "Give your Indominus Rex a new look of hat.Place it on its saddle like an official skin.",
+      "Trans": {"SC":"给你的暴虐霸王龙换上新帽子的外观。像官方皮肤一样放置在它的鞍上。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2024938053",
+      "Source": "Artificial Genotyrant Egg",
+      "Trans": {"SC":"人造基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1184516543",
+      "Source": "Artificial Genotyrant Egg (AB)",
+      "Trans": {"SC":"人造畸变基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2833735459",
+      "Source": "Artificial Genotyrant Egg (EX)",
+      "Trans": {"SC":"人造灭绝基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::213531983",
+      "Source": "Artificial Tek Genotyrant Egg",
+      "Trans": {"SC":"人造泰克基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1647752676",
+      "Source": "Use it to obtain an true egg. It is a biological weapon jointly developed by my friends Horobi and Pineapple.",
+      "Trans": {"SC":"使用它来获得一个真正的蛋。它是由我的朋友Horobi和Pineapple共同开发的生物武器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2893820869",
+      "Source": "Artificial Genotyrant Egg (SE)",
+      "Trans": {"SC":"人造焦土基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2020840163",
+      "Source": "From now on, as long as you attract the attention of Genotyrant, it will accept your challenge.Attack it to make it yield!",
+      "Trans": {"SC":"从现在起，只要你吸引了基因暴君的注意，它就会接受你的挑战。攻击它，让它屈服！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1904813751",
+      "Source": "Fertilized Aberrant Genoraptor Egg",
+      "Trans": {"SC":"受精的畸变基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::961117251",
+      "Source": "Fertilized Genoraptor Egg",
+      "Trans": {"SC":"受精的基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2723648049",
+      "Source": "Fertilized Scorched Genoraptor Egg",
+      "Trans": {"SC":"受精的焦土基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::891715057",
+      "Source": "Fertilized Genotyrant  Egg",
+      "Trans": {"SC":"受精的基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3056490585",
+      "Source": "Fertilized Tek Genotyrant Egg",
+      "Trans": {"SC":"受精的泰克基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2477157790",
+      "Source": "Genoraptor Movie Costume",
+      "Trans": {"SC":"基因迅猛龙电影服装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1350674675",
+      "Source": "Make your Genoraptor look like a movie style.",
+      "Trans": {"SC":"让你的基因迅猛龙看起来像电影风格。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2841810209",
+      "Source": "Genoraptor JOJO Costume",
+      "Trans": {"SC":"基因迅猛龙JOJO服装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1856060661",
+      "Source": "wyyyyyyy!!!",
+      "Trans": {"SC":"wyyyyyyy!!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::184005830",
+      "Source": "Apex Slayer",
+      "Trans": {"SC":"顶级杀手","JA":"頂級殺手"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3690659614",
+      "Source": "Your mount believed that it was necessary to deal with the enemies seriously. Damage +15%, Resistance +15%.",
+      "Trans": {"SC":"你的坐骑认为有必要认真对付敌人。伤害+15%，抗性+15%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2162037263",
+      "Source": "Lacerated!",
+      "Trans": {"SC":"撕裂！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2333253197",
+      "Source": "You are lacerated! You are constantly being hurt.",
+      "Trans": {"SC":"你被撕裂了！你正在持续受伤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1676678431",
+      "Source": "Improve damage, speed, and health recovery.",
+      "Trans": {"SC":"提高伤害、速度和生命恢复。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3566948135",
+      "Source": "Resting.",
+      "Trans": {"SC":"休息中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2356601900",
+      "Source": "Gradually recover health until reaching 50% of max.",
+      "Trans": {"SC":"逐渐恢复生命值，直至最大生命值的50%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2823856843",
+      "Source": "Indoraptor Rider",
+      "Trans": {"SC":"暴虐迅猛龙骑手","JA":"暴虐迅猛龙騎手"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1662734627",
+      "Source": "You have now gained additional damage and resistance.",
+      "Trans": {"SC":"你现在获得了额外的伤害和抗性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::282960318",
+      "Source": "Genotyrant's Partner",
+      "Trans": {"SC":"基因暴君的伙伴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::511192595",
+      "Source": "The battle of taming begins now!",
+      "Trans": {"SC":"驯服之战现在开始！","JA":"馴服之戰現在开始！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1908085453",
+      "Source": "It's taking you seriously.",
+      "Trans": {"SC":"它开始认真对待你了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2716592070",
+      "Source": "Hybrid Monster",
+      "Trans": {"SC":"混种怪物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1218238231",
+      "Source": "Suppressed!!!",
+      "Trans": {"SC":"压制！！！","JA":"壓制！！！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "57FCA8DA440965D49D0D058A027884B8",
+      "Source": "Bite / Claw Combo",
+      "Trans": {"SC":"撕咬/利爪连击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2480025527"}
+    },
+    {
+      "NamespaceHash": "B294F85F42604529244DED8462661147",
+      "Source": "Pounce / Kick",
+      "Trans": {"SC":"猛扑/踢击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1197949246"}
+    },
+    {
+      "NamespaceHash": "9314F23C4FBF2D4B992329B205C2E8ED",
+      "Source": "Tailwhip",
+      "Trans": {"SC":"甩尾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2239977729"}
+    },
+    {
+      "NamespaceHash": "149C9DCB44990917D5A580B2A2DAF889",
+      "Source": "Switch Mode",
+      "Trans": {"SC":"切换模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1635334699"}
+    },
+    {
+      "NamespaceHash": "9DADA6F743B1EC897DFCC1BA6808275F",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "82E821194C55FB841DE1FFBA1F10CB5C",
+      "Source": "Predator Vision",
+      "Trans": {"SC":"捕食者视觉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2357388882"}
+    },
+    {
+      "NamespaceHash": "49DE0FA64EAD7367F0C0F1BCE3893855",
+      "Source": "Rest",
+      "Trans": {"SC":"休息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3576765682"}
+    },
+    {
+      "NamespaceHash": "78DFE92C4C35DA5FAE36939290E7AA8C",
+      "Source": "Climb / Zipline",
+      "Trans": {"SC":"攀爬/滑索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"608934897"}
+    },
+    {
+      "NamespaceHash": "D9524CCF44B9E0150C61A681582442EF",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "C8EE9ABF4DD61FC24A3C1E8E6B7ED6C9",
+      "Source": "Camo",
+      "Trans": {"SC":"伪装","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1884388101"}
+    },
+    {
+      "NamespaceHash": "872FA67D4EABF0119FD72AB247F47D98",
+      "Source": "Grab",
+      "Trans": {"SC":"抓取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+    },
+    {
+      "NamespaceHash": "29316EE2490004D4DA067C959115E185",
+      "Source": "Ram Attack",
+      "Trans": {"SC":"冲撞攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1961903414"}
+    },
+    {
+      "NamespaceHash": "D8B5D603421029E51C9010A49DBD6308",
+      "Source": "Execute Unconscious",
+      "Trans": {"SC":"处决昏迷目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3636877880"}
+    },
+    {
+      "NamespaceHash": "76AC949748EB6CC179E110B409290D14",
+      "Source": "Team Interaction",
+      "Trans": {"SC":"团队互动","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3785238927"}
+    },
+    {
+      "NamespaceHash": "C9CBA64C4DB8F7E11C44AE8DCEBF3133",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "3B3095CB41FFC6C21C4A44AAC78E0971",
+      "Source": "Rest / Turn In Place",
+      "Trans": {"SC":"休息/原地转身","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2059255381"}
+    },
+    {
+      "NamespaceHash": "19EC1C0A4CBCE11D61802BACD1CE5229",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    }
+  ]
+}

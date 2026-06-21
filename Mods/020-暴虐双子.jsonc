@@ -1,0 +1,964 @@
+{
+  "暴虐双子": [//2025.11.29
+    {
+      "NamespaceHash": "Content::3021863870",
+      "Source": "Moro Raptor Gen 2",
+      "Trans": {"SC":"Gen2-暴虐迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::883363235",
+      "Source": "Moro Raptor",
+      "Trans": {"SC":"暴虐迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2171835397",
+      "Source": "Moro Rex",
+      "Trans": {"SC":"暴虐霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4088170762",
+      "Source": "Indominus Rex Egg",
+      "Trans": {"SC":"暴虐霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::554019343",
+      "Source": "Fertilized Moro Rex Egg",
+      "Trans": {"SC":"受精的暴虐霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4174050295",
+      "Source": "Moro's Engineering Station",
+      "Trans": {"SC":"基因工程站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2268389791",
+      "Source": "This is the crafting station for all the machines for creating hybrids",
+      "Trans": {"SC":"这是制造所有基因生物培育设备的制作站！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1671146852",
+      "Source": "Pure Carno DNA Vial",
+      "Trans": {"SC":"纯肉食牛龙基因瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2676077538",
+      "Source": "100% Pure Carno DNA.",
+      "Trans": {"SC":"100%纯度肉食牛龙基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::837471592",
+      "Source": "Pure Giga DNA Vial",
+      "Trans": {"SC":"纯南方巨兽龙基因瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2429075394",
+      "Source": "100% Pure Giga DNA.",
+      "Trans": {"SC":"100%纯度南方巨兽龙基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2267199911",
+      "Source": "Pure MoroRaptor DNA Vial",
+      "Trans": {"SC":"纯暴虐迅猛龙基因瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::966020365",
+      "Source": "100% Pure IndoRaptor DNA.",
+      "Trans": {"SC":"100%纯度暴虐迅猛龙基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4224830409",
+      "Source": "Pure Moro Rex DNA Vial",
+      "Trans": {"SC":"纯暴虐霸王龙基因瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3229796945",
+      "Source": "100% Pure Indom DNA.",
+      "Trans": {"SC":"100%纯度暴虐霸王龙基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1966177752",
+      "Source": "Pure Raptor DNA Vial",
+      "Trans": {"SC":"纯迅猛龙基因瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::608592127",
+      "Source": "100% Pure Raptor DNA.",
+      "Trans": {"SC":"100%纯度迅猛龙基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::830142829",
+      "Source": "Pure Rex DNA Vial",
+      "Trans": {"SC":"纯霸王龙基因瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2697170409",
+      "Source": "100% Pure Rex DNA.",
+      "Trans": {"SC":"100%纯度霸王龙基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4039832003",
+      "Source": "Pure Therizino DNA Vial",
+      "Trans": {"SC":"纯镰刀龙基因瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::149275855",
+      "Source": "MoroRaptor Genome 2",
+      "Trans": {"SC":"暴虐迅猛龙基因组2号","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4104651396",
+      "Source": "(Requires Pure IndoRaptor DNA to make.) This Genome is no different from Indom Genome 1, just an alternate way to craft.",
+      "Trans": {"SC":"（需要纯暴虐迅猛龙基因才能制作。）该基因组与暴虐基因组1号并无区别，只是另一种制作方式而已。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2958664618",
+      "Source": "MoroRaptor Genome 3",
+      "Trans": {"SC":"暴虐迅猛龙基因组3号","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1770481519",
+      "Source": "(Requires Pure IndoRaptor DNA to make.) This Genome is no different from Indom Genome 1 or 2, just an alternate way to craft.",
+      "Trans": {"SC":"（需要纯暴虐迅猛龙基因才能制作。）该基因组与暴虐基因组1号或2号并无区别，只是另一种制作方式而已。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2546306914",
+      "Source": "MoroRaptor Genome",
+      "Trans": {"SC":"暴虐迅猛龙基因组1号","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2255350642",
+      "Source": "(Requires a Mix of Indominus Rex and Raptor DNA to make.) This Genome is no different from Indom Genome 2, just an alternate way to craft.",
+      "Trans": {"SC":"（需要混合暴虐霸王龙和迅猛龙的基因才能制作。）该基因组与暴虐基因组2号并无区别，只是另一种制作方式而已。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2340603478",
+      "Source": "Moro Rex Genome 2",
+      "Trans": {"SC":"暴虐霸王龙基因组2号","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::149532139",
+      "Source": "(Requires Pure Indom DNA to make.) This Genome is no different from Indom Genome 1, just an alternate way to craft.",
+      "Trans": {"SC":"（需要纯暴虐霸王龙基因才能制作。）该基因组与暴虐基因组1号并无区别，只是另一种制作方式而已。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::475814458",
+      "Source": "Moro Rex Genome",
+      "Trans": {"SC":"暴虐霸王龙基因组1号","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::343407108",
+      "Source": "(Requires a Mix of Different pure dino DNA's to make.) This Genome is no different from Indom Genome 2, just an alternate way to craft.",
+      "Trans": {"SC":"（需要混合不同的纯恐龙基因才能制作。）该基因组与暴虐基因组2号并无区别，只是另一种制作方式而已。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4269365575",
+      "Source": "DNA Extractor",
+      "Trans": {"SC":"基因提取器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2647883397",
+      "Source": "Requires Power Cells to function. Put required creature remains in this machine to extract small amounts of DNA from them. It works like a forge where you have no specific blueprint since you can extract DNA from multiple creature parts of the same creature. Remains such as eggs, Fertilized Eggs, alpha drops and regular drops of that specific dino will work. The amount of DNA / Petri Dishes you get depends on the creature part, for example Fertilized eggs give more than non fertilized eggs. (Dinosaur Remains allowed are Giga, Rex, Therizino, Raptor, Carno.)",
+      "Trans": {"SC":"需要能量电池才能运行。将所需的生物遗骸(战利品)放入这台机器中，可从中提取少量DNA。它的运作方式类似熔炉，无需特定蓝图，因为你可以从同一生物的多个身体部位中提取DNA。诸如特定恐龙的蛋、受精卵、精英龙掉落物和普通掉落物都适用。你获得的DNA数量/培养皿数量取决于生物部位，例如受精卵比未受精卵提供的更多。（允许使用的恐龙遗骸包括南方巨兽龙、霸王龙、镰刀龙、迅猛龙、肉食牛龙。）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3091691573",
+      "Source": "GMH Incubator",
+      "Trans": {"SC":"GMH孵化器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1960674013",
+      "Source": "Must contain Power Cells to run. Hatches ONLY Genetically Modified Hybrid Eggs (crafted eggs). NOT Fertilized Hybrid eggs that are received from breeding.",
+      "Trans": {"SC":"必须装入能量电池才能运行。仅孵化转基因蛋（手工制作的蛋）。不孵化通过繁殖获得的受精蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3615563689",
+      "Source": "Rex Petri Dish",
+      "Trans": {"SC":"霸王龙培养皿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2613817562",
+      "Source": "Small Extractant of Rex DNA. This is not a pure DNA Strand, meaning that you must use this to make 100% pure DNA",
+      "Trans": {"SC":"霸王龙基因小型提取剂(培养皿)。这并非纯基因链，意味着你必须使用它来制作100%纯度的基因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1517289217",
+      "Source": "MoroRaptor Petri Dish",
+      "Trans": {"SC":"暴虐迅猛龙培养皿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::614777923",
+      "Source": "Carno Petri Dish",
+      "Trans": {"SC":"肉食牛龙培养皿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::203457245",
+      "Source": "Giga Petri Dish",
+      "Trans": {"SC":"南方巨兽龙培养皿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::141521273",
+      "Source": "Small Extractant of Carno DNA. This is not a pure DNA Strand, meaning that you must use this to make 100% pure DNA",
+      "Trans": {"SC":"肉食牛龙基因小型提取剂(培养皿)。这并非纯基因链，意味着你必须使用它来制作100%纯度的基因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1827575682",
+      "Source": "Small Extractant of Giga DNA. This is not a pure DNA Strand, meaning that you must use this to make 100% pure DNA",
+      "Trans": {"SC":"南方巨兽龙基因小型提取剂(培养皿)。这并非纯基因链，意味着你必须使用它来制作100%纯度的基因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::512275538",
+      "Source": "Moro Rex Petri Dish",
+      "Trans": {"SC":"暴虐霸王龙培养皿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2998777374",
+      "Source": "Small Extractant of Indom DNA. This is not a pure DNA Strand, meaning that you must use this to make 100% pure DNA",
+      "Trans": {"SC":"暴虐霸王龙基因小型提取剂(培养皿)。这并非纯基因链，意味着你必须使用它来制作100%纯度的基因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::665387035",
+      "Source": "Small Extractant of IndoRaptor DNA. This is not a pure DNA Strand, meaning that you must use this to make 100% pure DNA",
+      "Trans": {"SC":"暴虐迅猛龙基因小型提取剂(培养皿)。这并非纯基因链，意味着你必须使用它来制作100%纯度的基因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::171612923",
+      "Source": "Raptor Petri Dish",
+      "Trans": {"SC":"迅猛龙培养皿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3197213571",
+      "Source": "Small Extractant of Raptor DNA. This is not a pure DNA Strand, meaning that you must use this to make 100% pure DNA",
+      "Trans": {"SC":"迅猛龙基因小型提取剂(培养皿)。这并非纯基因链，意味着你必须使用它来制作100%纯度的基因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2274006348",
+      "Source": "Therizino Petri Dish",
+      "Trans": {"SC":"镰刀龙培养皿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3800430079",
+      "Source": "Small Extractant of Therizino DNA. This is not a pure DNA Strand, meaning that you must use this to make 100% pure DNA",
+      "Trans": {"SC":"镰刀龙基因小型提取剂(培养皿)。这并非纯基因链，意味着你必须使用它来制作100%纯度的基因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4270116196",
+      "Source": "Power Cells",
+      "Trans": {"SC":"能量电池","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::101691268",
+      "Source": "These power cells are what power all of the machines and equippment used to create hybrids.",
+      "Trans": {"SC":"这些能量电池为所有用于基因工程的机器和设备提供动力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::813172351",
+      "Source": "DNA Sequencer",
+      "Trans": {"SC":"基因测序仪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1889860610",
+      "Source": "Must contain Power Cells to run. Turns 100% DNA Vials into Hybrid embryos.",
+      "Trans": {"SC":"需要装入能量电池才能运行。可将100%纯度的基因瓶转化为基因蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3477591782",
+      "Source": "DNA Synthesizer",
+      "Trans": {"SC":"基因合成仪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1225854027",
+      "Source": "Must contain Power Cells to run. Turns DNA Petri dishes into Pure DNA strand vials",
+      "Trans": {"SC":"需要装入能量电池才能运行。可将基因培养皿转化为纯基因瓶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4020307632",
+      "Source": "MoroRaptor Egg",
+      "Trans": {"SC":"暴虐迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1521336971",
+      "Source": "Fertilized MoroRaptor Egg",
+      "Trans": {"SC":"受精的暴虐迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2332332654",
+      "Source": "MoroRaptor Gen2 Egg",
+      "Trans": {"SC":"Gen2-暴虐迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::370425419",
+      "Source": "Fertilized MoroRaptor Gen2 Egg",
+      "Trans": {"SC":"受精的Gen2-暴虐迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::322343214",
+      "Source": "GE MoroRaptor Egg",
+      "Trans": {"SC":"暴虐迅猛龙基因蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2922338097",
+      "Source": "In order to hatch, place this egg into a GMH Incubator, left click on the egg, then click the button that appears labeled \"hatch egg\" and hatch it! This Specific Genetically Created (Crafted) Egg can only be hatched in the GMH Incubator. Fertilized Eggs obtained from breeding can be hatched Normally (NOT IN THE GMH Incubator)",
+      "Trans": {"SC":"要孵化这枚蛋，需将其放入GMH孵化器中，左键点击蛋，然后点击出现的 “孵化蛋” 按钮进行孵化！这种特定的基因培育（手工制作）蛋只能在GMH孵化器中孵化。通过繁殖获得的受精蛋可正常孵化（不可在GMH孵化器中孵化）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::94113687",
+      "Source": "GE MoroRaptor Gen 2 Egg",
+      "Trans": {"SC":"Gen2-暴虐迅猛龙基因蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2884518478",
+      "Source": "In order to hatch, place this egg into a GMH Incubator, left click on the egg, then click the button that appears labeled \"hatch egg\" and hatch it! This Specific Genetically Created (Crafted) Egg can only be hatched in the GMH Incubator. Fertilized Eggs obtained from breeding can be hatched Normally (NOT IN THE GMH Incubator) MoroRaptor Gen 2 has color regions and Normal MoroRaptors have none.",
+      "Trans": {"SC":"要进行孵化，请将这枚蛋放入GMH孵化器，左键点击蛋，然后点击出现的标有 “孵化蛋” 的按钮进行孵化！这种特定的基因培育（手工制作）蛋只能在GMH孵化器中孵化。通过繁殖获得的受精蛋可正常孵化（不可在 GMH 孵化器中孵化）。二代暴虐迅猛龙有颜色分区，而普通暴虐迅猛龙则没有。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4153715304",
+      "Source": "IndoRaptor has tough natural hide that can hold up against most things.",
+      "Trans": {"SC":"暴虐迅猛龙有着坚硬的外壳，可以充当天然的护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3786996200",
+      "Source": "Moro Raptor Tooth",
+      "Trans": {"SC":"暴虐迅猛龙牙齿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1417159281",
+      "Source": "This trophy proves you are a skilled hybrid killer. Perhaps you can use this to create another creature....",
+      "Trans": {"SC":"这个战利品证明你是一名技艺高超的杂交生物杀手。或许你可以用它来创造另一种生物……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1685966126",
+      "Source": "Moro Rex Rib",
+      "Trans": {"SC":"暴虐霸王龙肋骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2239060539",
+      "Source": "Lockwoods Trike Skull Monument",
+      "Trans": {"SC":"洛克伍德三角龙颅骨纪念碑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2495879342",
+      "Source": "A Special Trophy and gravesite for a certain hybrid. ;)",
+      "Trans": {"SC":"一个特殊的战利品，也是某个杂交生物的墓地。;)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4095990967",
+      "Source": "The Indominus Rex has tough hide that acts as natural armor.",
+      "Trans": {"SC":"暴虐霸王龙有着坚硬的外壳，可以充当天然的护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3702417872",
+      "Source": "Genetically Engineered Moro Rex Egg",
+      "Trans": {"SC":"暴虐霸王龙基因蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3057666413",
+      "Source": "In order to hatch, place this egg into a GMH Incubator and hatch it! This Specific Genetically Created (Crafted) Egg can only be hatched in the GMH Incubator. Fertilized Eggs obtained from breeding can be hatched Normally (NOT IN THE GMH Incubator)",
+      "Trans": {"SC":"要孵化这枚蛋，需将其放入GMH孵化器中进行孵化！这种特定的基因培育（人工制作）蛋只能在GMH孵化器中孵化。通过繁殖获得的受精蛋可正常孵化（不可在GMH孵化器中孵化）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3520550899",
+      "Source": "Moros Indomitable Duo Admin Menu Remote",
+      "Trans": {"SC":"暴虐双子管理器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1047030823",
+      "Source": "This device is an Admin Spawn / Configure Menu for Moro's Indomitable Duo Mod. Engram can only be unlocked and used in creative mode (gcm).",
+      "Trans": {"SC":"此设备是Moro的暴虐龙模组管理员生成/配置菜单。该技能印记只能在创造模式(GCM)中解锁和使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::465759180",
+      "Source": "Indo Raptor",
+      "Trans": {"SC":"暴虐迅猛龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2359306278",
+      "Source": "Indo Raptor Gen2",
+      "Trans": {"SC":"Gen2-暴虐迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1879014170",
+      "Source": "Indominus Rex",
+      "Trans": {"SC":"暴虐霸王龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::543126108",
+      "Source": "Hatch Egg",
+      "Trans": {"SC":"孵化蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3135592142",
+      "Source": "Bite & Rip",
+      "Trans": {"SC":"撕咬&撕裂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2399042167",
+      "Source": "Grab Immunity",
+      "Trans": {"SC":"抓起冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1897401797",
+      "Source": "None",
+      "Trans": {"SC":"无","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3694544438",
+      "Source": "EchoLocation",
+      "Trans": {"SC":"回声定位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4035670861",
+      "Source": "Engineering Station",
+      "Trans": {"SC":"基因工程站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::285761330",
+      "Source": "Put in creature remains to extract DNA from them",
+      "Trans": {"SC":"放入生物遗骸(战利品.蛋)以从中提取 DNA","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2866346686",
+      "Source": "Power with PowerCells, put egg in inventory and select it to bring up the hatch egg button",
+      "Trans": {"SC":"用能量电池供电，将蛋放入物品栏并选中它，即可调出 “孵化蛋” 按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1327843250",
+      "Source": "Must contain Gasoline. Crafts machines for hybrid creation process & power cells",
+      "Trans": {"SC":"必须含有汽油。用于制造基因生物创造过程所需的机器和能量电池。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3538904644",
+      "Source": "Must contain Power Cells to run. Turns 100% DNA Vials into Hybrid embryos. To craft egg it requires a Indom Genome and a Fertilized Rex egg.",
+      "Trans": {"SC":"必须装入能量电池才能运行。可将100%纯度的基因瓶转化为基因蛋。要制作基因蛋，需要一个暴虐龙基因组和一个受精霸王龙蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3695031325",
+      "Source": "Must contain Power Cells to run. Turns PetriDishes into pure DNA Strands",
+      "Trans": {"SC":"必须装入能量电池才能运行。可将培养皿转化为纯基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "965A815A46C0D662740376AEFB434810",
+      "Source": "Toggle Controls Visability",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1178157849"}
+    },
+    {
+      "NamespaceHash": "74F9DC404817FA306D1BB29486054535",
+      "Source": "Defense Mode",
+      "Trans": {"SC":"防御模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"143287309"}
+    },
+    {
+      "NamespaceHash": "B1BD5B2F48EC23F7795DAD83C746BA5F",
+      "Source": "Stance Change",
+      "Trans": {"SC":"交换姿势","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3220258136"}
+    },
+    {
+      "NamespaceHash": "9DEBB648495A0D40B6C7B5927BDB5941",
+      "Source": "Pounce",
+      "Trans": {"SC":"突袭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2670575332"}
+    },
+    {
+      "NamespaceHash": "01943C904E2947013D45638EA583869C",
+      "Source": "Toggle Controls Visability",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1178157849"}
+    },
+    {
+      "NamespaceHash": "C29A32CF4D6F6E02F70BA59B9E6ABC48",
+      "Source": "Resting Mode",
+      "Trans": {"SC":"休息模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1744651747"}
+    },
+    {
+      "NamespaceHash": "E2FC399E4CA0C61B6A3EAB9E5289511B",
+      "Source": "Thermal Vision",
+      "Trans": {"SC":"红外感应","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"732598601"}
+    },
+    {
+      "NamespaceHash": "C7F2623840647B682C10BDBEE3DE3F2A",
+      "Source": "Grab",
+      "Trans": {"SC":"抓起","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+    },
+    {
+      "NamespaceHash": "7FED2D0B4ECAEE9E2ACC2AA2B987F0CC",
+      "Source": "Communication Roar",
+      "Trans": {"SC":"战吼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2438628686"}
+    },
+    {
+      "NamespaceHash": "B2BDB5814CF43A200BB015879ACC81D1",
+      "Source": "Camo",
+      "Trans": {"SC":"伪装","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1884388101"}
+    },
+    {
+      "NamespaceHash": "7A4A26754031420D51F6F89066DC32E1",
+      "Source": "FootStomp",
+      "Trans": {"SC":"跺脚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"319931762"}
+    },
+    {
+      "NamespaceHash": "BF00853448185720A7315793E4A313EE",
+      "Source": "TailSwipe",
+      "Trans": {"SC":"扫尾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1204679846"}
+    },
+    {
+      "NamespaceHash": "9ABE3C3A434D5C5533872CADE1D0310B",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "856893A44B3EDD84BDEC42AF047B6A05",
+      "Source": "Moros Indomitable Duo Admin Menu",
+      "Trans": {"SC":"暴虐龙管理器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3654074574"}
+    },
+    {
+      "NamespaceHash": "A41D95B44204493AFC0850980E91D25A",
+      "Source": "SpawnDinos",
+      "Trans": {"SC":"生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4147162385"}
+    },
+    {
+      "NamespaceHash": "B08ADA6C4E5CE8B9DFE25686EC7F6628",
+      "Source": "Configure Settings",
+      "Trans": {"SC":"配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2541883398"}
+    },
+    {
+      "NamespaceHash": "6335BF3C46694022336A6CBB7426755C",
+      "Source": "Spawn Items",
+      "Trans": {"SC":"生成物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2805398202"}
+    },
+    {
+      "NamespaceHash": "91F8E3DA45024D4D43980AB901A342C2",
+      "Source": "Developer Debug Log",
+      "Trans": {"SC":"开发者日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"517185625"}
+    },
+    {
+      "NamespaceHash": "B8553E22434FDA8437A42C8FBA508409",
+      "Source": "MoroRex",
+      "Trans": {"SC":"暴虐霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2293955352"}
+    },
+    {
+      "NamespaceHash": "557D7BFC44DDB424B4C73594403FF055",
+      "Source": "MoroRaptor",
+      "Trans": {"SC":"暴虐迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1295323263"}
+    },
+    {
+      "NamespaceHash": "E80FD39D4DABDFABBB73C2B612E6AB12",
+      "Source": "MoroRaptor Gen2",
+      "Trans": {"SC":"Gen2-暴虐迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2447642504"}
+    },
+    {
+      "NamespaceHash": "F1A273F5481C8C8AA7753A85ECF2E52F",
+      "Source": "Apply Changes",
+      "Trans": {"SC":"应用配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3022180510"}
+    },
+    {
+      "NamespaceHash": "06D20CED4EBE7DB8D29603ADE3C74ACF",
+      "Source": "Category",
+      "Trans": {"SC":"类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1406190996"}
+    },
+    {
+      "NamespaceHash": "BEB568A3449B2AC51883D2B87D60A25A",
+      "Source": "Restore to Default",
+      "Trans": {"SC":"重置默认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3350930907"}
+    },
+    {
+      "NamespaceHash": "2CBA417C4DF00B057FE8C4A2DFDA5AAA",
+      "Source": "Restore to Default",
+      "Trans": {"SC":"重置默认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3350930907"}
+    },
+    {
+      "NamespaceHash": "6DB2016A498EA6435C2838B9803124D5",
+      "Source": "Apply Changes",
+      "Trans": {"SC":"应用配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3022180510"}
+    },
+    {
+      "NamespaceHash": "E669B78044F6C098857E1FBE88E82461",
+      "Source": "Dev Debugging Tools",
+      "Trans": {"SC":"开发调试工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"7833592"}
+    },
+    {
+      "NamespaceHash": "606223D442AE2E38B3CA8CBD8E643F45",
+      "Source": "Print Engram Paths",
+      "Trans": {"SC":"打印印痕路径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3635314562"}
+    },
+    {
+      "NamespaceHash": "08A774824A489A15758012B9AC4D7BAA",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "3F12CE2641EC3A491FA547A046D011A9",
+      "Source": "Available Biomes",
+      "Trans": {"SC":"可生成的生态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"317768194"}
+    },
+    {
+      "NamespaceHash": "86526B6B413EAE0F764D66B27199B014",
+      "Source": "Restricted Biomes",
+      "Trans": {"SC":"限制生成的生态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2978122806"}
+    },
+    {
+      "NamespaceHash": "A9CC067240D84B0A5987738C4A8617A5",
+      "Source": "Confirm",
+      "Trans": {"SC":"确认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"438339643"}
+    },
+    {
+      "NamespaceHash": "6910E146488E524CE6C75AA5421DEADE",
+      "Source": "ClawSwipe",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1638898692"}
+    },
+    {
+      "NamespaceHash": "260A8A0A4AF37DDA8EAC02AA46D93EEB",
+      "Source": "Claw Swipe",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2380052121"}
+    },
+    {
+      "NamespaceHash": "BF47E9344F58B3427C9689BEB8D68DB5",
+      "Source": "Melee",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1993336256"}
+    },
+    {
+      "NamespaceHash": "Content::688849126",
+      "Source": "100% Pure Therizino DNA.",
+      "Trans": {"SC":"100%纯度镰刀龙基因链。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1816893284",
+      "Source": "IndoRaptor is Ripping You Apart!",
+      "Trans": {"SC":"暴虐迅猛龙正在把你撕碎！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::BC84163F41B4F726EEA74FAA056695DA",
+      "Source": "Show Side Controls List ({State})",
+      "Trans": {"SC":"显示侧边控制列表（{State}）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3851043122"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::F41F8AE048CBEEE6FBD0419AA037E969",
+      "Source": "Show Abilities HUD ({State})",
+      "Trans": {"SC":"显示技能 HUD（{State}）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"28376815"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::FDE73918444E9FBFB130519257597B14",
+      "Source": "{Toggle} Auto HeadButt (when running)",
+      "Trans": {"SC":"{Toggle} 自动头槌（奔跑时）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"241627882"}
+    },
+    {
+      "NamespaceHash": "AE190D194C2E2CA6691A69A375A48C84",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "0EF6A62F444B698D1FE0B497AA4C73BF",
+      "Source": "Snap Bite",
+      "Trans": {"SC":"猛咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3864216775"}
+    },
+    {
+      "NamespaceHash": "53B5ABD54053BE6A16D16D846AFA1FBD",
+      "Source": "HeadButt",
+      "Trans": {"SC":"头槌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"846184612"}
+    },
+    {
+      "NamespaceHash": "0B66BF314022722123B147B6549A0F7E",
+      "Source": "Thermal Vision",
+      "Trans": {"SC":"热视觉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"732598601"}
+    },
+    {
+      "NamespaceHash": "391FB1804FE3942AB6182D808C966B19",
+      "Source": "Roar (Fear Courage)",
+      "Trans": {"SC":"咆哮（恐惧/勇气）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3990034307"}
+    },
+    {
+      "NamespaceHash": "9128223446782854CB1FBFB1E7341686",
+      "Source": "ClawSwipe",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1638898692"}
+    },
+    {
+      "NamespaceHash": "CD76166E4892A5168B496CAF795B15A2",
+      "Source": "Camoflage",
+      "Trans": {"SC":"伪装","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3117127697"}
+    },
+    {
+      "NamespaceHash": "3BD5BF6A48CA20BD7688C0AF73D643E5",
+      "Source": "Stomp",
+      "Trans": {"SC":"踩踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"67290213"}
+    },
+    {
+      "NamespaceHash": "7EDC0AA04116D39EC667EFA38B7A3E30",
+      "Source": "Double Stomp",
+      "Trans": {"SC":"双重踩踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2287498120"}
+    },
+    {
+      "NamespaceHash": "8F42B7394AD014BB5DD913B393BBDC7A",
+      "Source": "Crouch",
+      "Trans": {"SC":"蹲伏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1941688548"}
+    },
+    {
+      "NamespaceHash": "48EA442049CB68B3A3FFDB82F1C90FF6",
+      "Source": "Rest",
+      "Trans": {"SC":"休息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3576765682"}
+    },
+    {
+      "NamespaceHash": "EAEA91A34A6A76370D7973B3083934F7",
+      "Source": "Grab",
+      "Trans": {"SC":"抓取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+    },
+    {
+      "NamespaceHash": "955BA2DC475B8257852F7E83A269C0DA",
+      "Source": "Toggle Turn in place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"654236519"}
+    },
+    {
+      "NamespaceHash": "Content::1337884735",
+      "Source": "MoroRex Gen2",
+      "Trans": {"SC":"Gen2-暴虐霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4210002732",
+      "Source": "GE MoroRex Gen2 Egg",
+      "Trans": {"SC":"Gen2-暴虐霸王龙基因蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1731067642",
+      "Source": "MoroRex Gen2 Egg",
+      "Trans": {"SC":"Gen2-暴虐霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::675106134",
+      "Source": "Fertilized MoroRex Gen2 Egg",
+      "Trans": {"SC":"受精的Gen2-暴虐霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3161214102",
+      "Source": "Thick MoroRex Natural Armor",
+      "Trans": {"SC":"厚实的暴虐霸王龙天然护甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4230132447",
+      "Source": "MoroRex Gen 2's have tough natural hide that can hold up against most weapons & enemies.",
+      "Trans": {"SC":"Gen2-暴虐霸王龙拥有坚韧的天然皮毛，能抵御大多数武器和敌人的攻击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3401602565",
+      "Source": "MoroRex Gen2 Bone Costume",
+      "Trans": {"SC":"Gen2-暴虐霸王龙骨骼服饰","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1704804559",
+      "Source": "This costume can be used to make your MoroRex look just like a skeleton! Spoopy!",
+      "Trans": {"SC":"这款服饰可让你的莫罗雷克斯看起来活像一副骨架！好吓人！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3336863733",
+      "Source": "This costume can be used to make your MoroRex look just like a skeleton! Spooky!<#RN#><#RN#>Can be obtained by either Crafting it from specific resources OR by killing a wild MoroRex Gen 2.",
+      "Trans": {"SC":"这款服饰可让你的暴虐霸王龙看起来活像一副骨架！好吓人！<#RN#><#RN#>可通过使用特定资源制作，或击杀野生Gen2-暴虐霸王龙获得。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "71714E194D811CC55595C5B8C0422D22",
+      "Source": "<----- If some settings are greyed out, try Restoring to default to fix it",
+      "Trans": {"SC":"<----- 如果部分设置显示为灰色，请尝试恢复默认设置来解决问题","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2365904503"}
+    },
+    {
+      "NamespaceHash": "Content::1318062231",
+      "Source": "Order Nearby MoroRex's to Stand Up",
+      "Trans": {"SC":"命令附近的暴虐霸王龙站立","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3410896527",
+      "Source": "Order Nearby MoroRex's to Lay Down",
+      "Trans": {"SC":"命令附近的暴虐霸王龙躺下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::6CF559AD4FD4F011F4A6849D27E7FEFA",
+      "Source": "Stand Up",
+      "Trans": {"SC":"站立","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"302699599"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::E9D295DF4B2FDAAFC43AECA236EE2928",
+      "Source": "Lay Down",
+      "Trans": {"SC":"躺下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2547317335"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4DC76EFA40086D53B548F9B31D92B1EC",
+      "Source": "{Toggle} (Self)",
+      "Trans": {"SC":"{Toggle}（自身）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"237746637"}
+    },
+    {
+      "NamespaceHash": "Content::1124707136",
+      "Source": "Moro's Admin Panels",
+      "Trans": {"SC":"Moro的管理员面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3460538317",
+      "Source": "Admin Panels",
+      "Trans": {"SC":"管理员面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2342879084",
+      "Source": "MoroRex Settings",
+      "Trans": {"SC":"MoroRex设置","JA":"MoroRex設置"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::934589128",
+      "Source": "Moro's Indomitable Duo Admin Panel",
+      "Trans": {"SC":"Moro的暴虐双子管理员面板","JA":"Moro的暴虐双子管理員面板"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::538551443",
+      "Source": "JUMP RAPIDLY TO BREAK LOOSE!",
+      "Trans": {"SC":"快速跳跃以挣脱！","JA":"快速跳躍以掙脱！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

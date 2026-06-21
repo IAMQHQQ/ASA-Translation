@@ -1,0 +1,226 @@
+{
+  "邪魔龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::4130678440",
+      "Source": "Alpha Daemonis",
+      "Trans": {"SC":"精英邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3451499531",
+      "Source": "Elder Daemonis",
+      "Trans": {"SC":"上古邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::839718906",
+      "Source": "Aberrant Daemonis",
+      "Trans": {"SC":"畸变邪魔龙","JA":"畸變邪魔龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2041103892",
+      "Source": "Arkology Daemonis",
+      "Trans": {"SC":"方舟学邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1954707545",
+      "Source": "Sundered Daemonis",
+      "Trans": {"SC":"破碎邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1125420090",
+      "Source": "Elder Daemonis Spawner",
+      "Trans": {"SC":"召唤上古邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2586881794",
+      "Source": "CONSUME THIS ITEM TO SPAWN THE ELDER DAEMONIS",
+      "Trans": {"SC":"消耗此物品以召唤上古邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1827871945",
+      "Source": "Alpha Daemonis Claw",
+      "Trans": {"SC":"精英邪魔龙爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1232324636",
+      "Source": "This trophy proves your worth as a hunter, Maybe used for some type of ritual?",
+      "Trans": {"SC":"这个战利品证明了你作为猎人的价值，或许可用于某种仪式？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1288896105",
+      "Source": "Fertilized Aberrant Daemonis Egg",
+      "Trans": {"SC":"受精的畸变邪魔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3774443663",
+      "Source": "Fertilized Arkology Daemonis Egg",
+      "Trans": {"SC":"受精的方舟学邪魔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4041297678",
+      "Source": "Fertilized Sundered Daemonis Egg",
+      "Trans": {"SC":"受精的破碎邪魔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1030317807",
+      "Source": "Daemonis Egg",
+      "Trans": {"SC":"邪魔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::583395261",
+      "Source": "Fertilized Daemonis Egg",
+      "Trans": {"SC":"受精的邪魔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3379359562",
+      "Source": "Daemonis Saddle",
+      "Trans": {"SC":"邪魔龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::122279037",
+      "Source": "Equip a Daemonis with this to ride it.",
+      "Trans": {"SC":"装备到邪魔龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::952992572",
+      "Source": "Coagulated Spread",
+      "Trans": {"SC":"凝固涂抹酱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::837188824",
+      "Source": "This gnarly paste makes you nearly invisible to All Vampiric Creatures!",
+      "Trans": {"SC":"这种强效膏体可让你对所有吸血生物几乎隐形！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4213690051",
+      "Source": "Coagulated Kibble",
+      "Trans": {"SC":"凝固饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::632473778",
+      "Source": "This specially blended pet food is a favorite of Daemonis. Containing only the finest natural ingredients, it provides Daemonis with the balanced nutrition they need. And with a taste they can't resist, they'll warm up to you in no time! Not intended for human consumption.",
+      "Trans": {"SC":"这种特制混合宠物食品是邪魔龙龙的最爱。仅含优质天然原料，为邪魔龙提供所需的均衡营养。其诱人的味道让它们无法抗拒，很快就会与你亲近！请勿供人类食用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2954497737",
+      "Source": "Triple Tap G",
+      "Trans": {"SC":"三连击 G","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1954989760",
+      "Source": "Scorched Daemonis",
+      "Trans": {"SC":"焦土邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3787412670",
+      "Source": "Fertilized Scorched Daemonis Egg",
+      "Trans": {"SC":"受精的焦土邪魔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1285601332",
+      "Source": "Vampiric Rage",
+      "Trans": {"SC":"吸血鬼之怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2005817320",
+      "Source": "10% more damage 10% less taken Immune to all bleed attacks",
+      "Trans": {"SC":"伤害增加 10%，所受伤害减少 10%，免疫所有流血攻击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "3A43791948090A4839B64E96AEBA6679",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "5DCA45CC43501A6468FA8996FC886612",
+      "Source": "Claw Attack",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3308969015"}
+    },
+    {
+      "NamespaceHash": "D7EF9C584E571EA65180AC89E40F9964",
+      "Source": "Fire Breath",
+      "Trans": {"SC":"火焰吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1760797237"}
+    },
+    {
+      "NamespaceHash": "E62699524C035B2A88848DBE6ADA8F32",
+      "Source": "Cosmetic Roar",
+      "Trans": {"SC":"吼叫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1671473134"}
+    },
+    {
+      "NamespaceHash": "D323239A414609EDC7F9CA85251E22C7",
+      "Source": "Blood Breath",
+      "Trans": {"SC":"鲜血吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"233585813"}
+    },
+    {
+      "NamespaceHash": "6B4A4E2846EF5291D32E909DBCEBD84F",
+      "Source": "BloodRage",
+      "Trans": {"SC":"血怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1472223406"}
+    },
+    {
+      "NamespaceHash": "BC41251D4E192324E12C1CA22AFE4288",
+      "Source": "Jump",
+      "Trans": {"SC":"跳跃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2857297041"}
+    },
+    {
+      "NamespaceHash": "6C4CF20A48AB4869B16D32B5D385E2C9",
+      "Source": "Turn In Place",
+      "Trans": {"SC":"原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1998133324"}
+    },
+    {
+      "NamespaceHash": "0FAD52114E2ACD2E44E926852501623F",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "Content::772408720",
+      "Source": "Daemonis",
+      "Trans": {"SC":"邪魔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::680179447",
+      "Source": "Vampiric Creatures don't like to attack you, so don't attack them!",
+      "Trans": {"SC":"嗜血生物不愿攻击你，所以别攻击它们！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2945079532",
+      "Source": "Plague Burn!",
+      "Trans": {"SC":"瘟疫灼烧！","JA":"瘟疫灼燒！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

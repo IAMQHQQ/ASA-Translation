@@ -1,0 +1,22 @@
+{//未完成
+  "Amissa": [
+    {
+      "NamespaceHash": "Content::3261555875",
+      "Source": "Mummy",
+      "Trans": {"SC":"木乃伊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2025188500",
+      "Source": "Manticore Terminal",
+      "Trans": {"SC":"狮身蝎尾狮兽终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2131641241",
+      "Source": "Air Dungeon 2 Boss",
+      "Trans": {"SC":"空中地牢 2 首领","JA":"空中地牢 2 首領"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    }
+  ]
+}

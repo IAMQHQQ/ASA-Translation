@@ -1,0 +1,717 @@
+{
+  "星耀模组内容": [//
+  // 模组包含 
+  // Astraeos - Mythological Creatures———星耀 - 神话生物(海马.牛首人身怪) 
+  // Astraeos - Wardrobe———星耀 - 衣柜(星耀地图希腊风格服饰)
+  // Astraeos Structures - Custom Cosmetic———星耀建筑 - 自定义外观
+  // Astraeos - Trireme Ships———星耀 - 三列桨战船
+    {
+      "NamespaceHash": "Content::280360688",
+      "Source": "Cyclops Saddle",
+      "Trans": {"SC":"独眼巨人鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1888654399",
+      "Source": "Equip a Cyclops with this to ride it.",
+      "Trans": {"SC":"装备到独眼巨人上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3589298422",
+      "Source": "Minotaur Saddle",
+      "Trans": {"SC":"弥诺陶洛斯鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2743308936",
+      "Source": "Equip a Minotaur with this to ride it.",
+      "Trans": {"SC":"装备到弥诺陶洛斯上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1626652299",
+      "Source": "Seahorse Saddle",
+      "Trans": {"SC":"海马鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1735993188",
+      "Source": "Equip a Seahorse with this to ride it.",
+      "Trans": {"SC":"装备到海马上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::362649421",
+      "Source": "Greek Trireme",
+      "Trans": {"SC":"希腊三列桨战船","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3878406806",
+      "Source": "A large greek trireme that you can pilot across the ocean.  Can support the weight of structures and be built on.",
+      "Trans": {"SC":"一种大型希腊三列桨战船，你可以驾驶它穿越海洋。它能够承受建筑的重量，还可以在上面建造设施。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1897717965",
+      "Source": "Astraeos Chemistry Table Skin",
+      "Trans": {"SC":"星耀化学实验台皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1315865543",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Chemistry Table.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是化学实验台的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3270851903",
+      "Source": "Astraeos Industrial Cooker Skin",
+      "Trans": {"SC":"星耀工业大锅皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1667078271",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Industrial Cooker.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是工业大锅的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1994320517",
+      "Source": "Astraeos Fabricator Skin",
+      "Trans": {"SC":"星耀机床皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3630142228",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Fabricator.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是机床的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2652151891",
+      "Source": "Astraeos Generator Skin",
+      "Trans": {"SC":"星耀发电机皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2447975681",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Electric & Tek Generator.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是发电机和泰克发电机的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1672467037",
+      "Source": "Astraeos Grill Skin",
+      "Trans": {"SC":"星耀烤箱皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1332877967",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Grill.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是烤箱的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1144128713",
+      "Source": "Astraeos Industrial Forge Skin",
+      "Trans": {"SC":"星耀工业熔炉皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::405227276",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Industrial Forge.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是工业熔炉的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::861253345",
+      "Source": "Astraeos Structures Auto Doors",
+      "Trans": {"SC":"星耀自动门建筑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::907090995",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is for applying auto doors.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>此物品用于改装自动门。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2980751825",
+      "Source": "Astraeos Structures Furniture",
+      "Trans": {"SC":"星耀家具建筑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3209615801",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is for Furniture like Storage Boxes and Vaults.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀 地图设计，但也可在任何地图上使用。<#RN#><#RN#>此物品适用于家具，如储物箱和保险柜。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1959545263",
+      "Source": "Astraeos Statues",
+      "Trans": {"SC":"星耀雕像","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2680321721",
+      "Source": "You can use this to skin the appearance of decor boxes to Astraeos Statues. Made for Astraeos map but can be used on any map.",
+      "Trans": {"SC":"你可以用它将装饰箱的外观改为星耀雕像风格。专为星耀地图设计，但也可在任何地图上使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1252456984",
+      "Source": "Astraeos Structures Variant 1",
+      "Trans": {"SC":"星耀建筑变体 1","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3728350251",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is Variant 1 of 3. Ues the other Variant Skin Items to have more variety.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是 3 种变体中的第 1 种。使用其他变体皮肤物品可获得更多样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1477662198",
+      "Source": "Astraeos Structures Variant 2",
+      "Trans": {"SC":"星耀建筑变体 2","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3769578131",
+      "Source": "Astraeos Structures Variant 3",
+      "Trans": {"SC":"星耀建筑变体 3","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3623042696",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is Variant 3 of 3. Ues the other Variant Skin Items to have more variety.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是 3 种变体中的第 3 种。使用其他变体皮肤物品可获得更多样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::449165716",
+      "Source": "Astraeos Refining Forge Skin",
+      "Trans": {"SC":"星耀精炼炉皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::118622745",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Refining Forge.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是精炼炉的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2404096393",
+      "Source": "Astraeos Refrigerator Skin",
+      "Trans": {"SC":"星耀冰箱皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2275824201",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Refrigerator.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是冰箱的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2839588856",
+      "Source": "Astraeos Replicator Skin",
+      "Trans": {"SC":"星耀复制器皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3367845141",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Replicator.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是复制器的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1433521396",
+      "Source": "Astraeos Smithy Skin",
+      "Trans": {"SC":"星耀铁匠台皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1987047822",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Smithy.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是铁匠台的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3078683268",
+      "Source": "Astraeos Windmill Skin",
+      "Trans": {"SC":"星耀风车皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2320414152",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Windmill.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是风力发电机的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1051667705",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is Variant 2 of 3. Ues the other Variant Skin Items to have more variety.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为希腊风格。专为星耀地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是 3 种变体中的第 2 种。使用其他变体皮肤物品可获得更多样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::681143617",
+      "Source": "Variant 1 Structures",
+      "Trans": {"SC":"建筑变体 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1850431525",
+      "Source": "Variant 2 Structures",
+      "Trans": {"SC":"建筑变体 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1408939257",
+      "Source": "Variant 3 Structures",
+      "Trans": {"SC":"建筑变体 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1585858053",
+      "Source": "Seahorse",
+      "Trans": {"SC":"海马","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4131684384",
+      "Source": "Trireme",
+      "Trans": {"SC":"三列桨战船","JA":"三列桨戰船"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1202186210",
+      "Source": "Astraeos Boots",
+      "Trans": {"SC":"星耀战靴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1115714740",
+      "Source": "You can use this to skin the appearance of footwear to look like greek-style hoplite boots.",
+      "Trans": {"SC":"你可以用它将鞋类的外观改为希腊风格的重装步兵战靴样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2168190502",
+      "Source": "Astraeos Chestpiece",
+      "Trans": {"SC":"星耀胸甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3887554789",
+      "Source": "You can use this to skin the appearance of chestpiece to look like greek-style hoplite chestpiece.",
+      "Trans": {"SC":"你可以用它将胸甲的外观改为希腊风格的重装步兵胸甲样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2856703297",
+      "Source": "You can use this to skin the appearance of chestpiece to look like greek-style hoplite chestpiece. Does not have a cape.",
+      "Trans": {"SC":"你可以用它将胸甲的外观改为希腊风格的重装步兵胸甲样式。不带披风。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2425254244",
+      "Source": "Astraeos Gloves",
+      "Trans": {"SC":"星耀手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::290956120",
+      "Source": "You can use this to skin the appearance of gloves to look like greek-style hoplite gloves.",
+      "Trans": {"SC":"你可以用它将手套的外观改为希腊风格的重装步兵手套样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1118982880",
+      "Source": "Astraeos Helmet",
+      "Trans": {"SC":"星耀头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3718601338",
+      "Source": "You can use this to skin the appearance of helmet to look like greek-style hoplite helmet.",
+      "Trans": {"SC":"你可以用它将头盔的外观改为希腊风格的重装步兵头盔样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3599270031",
+      "Source": "Astraeos Pants",
+      "Trans": {"SC":"星耀护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2406640119",
+      "Source": "You can use this to skin the appearance of a legpiece to look like a greek-style hoplite legpiece.",
+      "Trans": {"SC":"你可以用它将护腿的外观改为希腊风格的重装步兵护腿样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3745853996",
+      "Source": "Astraeos Tunic Boots",
+      "Trans": {"SC":"星耀古典风格战靴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2846448259",
+      "Source": "You can use this to skin the appearance of footwear to look like tunic boots.",
+      "Trans": {"SC":"你可以用它将鞋子的外观改为古典风格战靴样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::532845970",
+      "Source": "Astraeos Tunic Gloves",
+      "Trans": {"SC":"星耀古典风格手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::341549680",
+      "Source": "You can use this to skin the appearance of gloves to look like greek-style tunic gloves.",
+      "Trans": {"SC":"你可以用它将手套的外观改为希腊风格的古典风格手套样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3456022038",
+      "Source": "Astraeos Tunic Helmet",
+      "Trans": {"SC":"星耀古典风格头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1770975630",
+      "Source": "You can use this to skin the appearance of helmet to look like greek-style tunic helmet.",
+      "Trans": {"SC":"你可以用它将头盔的外观改为希腊风格的古典风格头盔样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1315591489",
+      "Source": "Astraeos Tunic Pants",
+      "Trans": {"SC":"星耀古典风格护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3796577331",
+      "Source": "You can use this to skin the appearance of a legpiece to look like a greek-style tunic legpiece.",
+      "Trans": {"SC":"你可以用它将护腿的外观改为希腊风格的古典风格护腿样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::328781540",
+      "Source": "Astraeos Tunic Shirt",
+      "Trans": {"SC":"星耀古典风格衬衫","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1693805727",
+      "Source": "You can use this to skin the appearance of chestpiece to look like greek-style tunic chestpiece. Does not have a cape.",
+      "Trans": {"SC":"你可以用它将胸甲的外观改为希腊风格的古典风格衬衫样式。不带披风。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2801006720",
+      "Source": "Athen Shield",
+      "Trans": {"SC":"雅典娜之盾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1492684714",
+      "Source": "You can use this to skin the appearance of a shield to a shield of Athene.",
+      "Trans": {"SC":"你可以用它将盾牌的外观改为雅典娜之盾样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1032100282",
+      "Source": "Spartan Shield",
+      "Trans": {"SC":"斯巴达之盾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2832013927",
+      "Source": "You can use this to skin the appearance of a shield to a shield of Sparta.",
+      "Trans": {"SC":"你可以用它将盾牌的外观改为斯巴达之盾样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3424362094",
+      "Source": "Astraeos Spear",
+      "Trans": {"SC":"星耀长矛","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2832019405",
+      "Source": "A powerful melee weapon tipped with metal.  Can be used on a metal pike.",
+      "Trans": {"SC":"一种威力强大的近战武器，尖端为金属材质。可安装在金属长矛杆上使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1553182961",
+      "Source": "Astraeos Sword",
+      "Trans": {"SC":"星耀剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::463980434",
+      "Source": "The undisputed ruler of short-range combat. Needs a hotter flame to be forged. Can be used on a sword.",
+      "Trans": {"SC":"短距离战斗中无可争议的王者。需要更高温度的火焰才能锻造。可作为剑使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4083841511",
+      "Source": "Astraeos Industrial Cooker",
+      "Trans": {"SC":"星耀工业大锅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2712155753",
+      "Source": "Furniture Structures",
+      "Trans": {"SC":"星耀家具结构","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::553701543",
+      "Source": "Astraeos Industrial Forge",
+      "Trans": {"SC":"星耀工业熔炉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3872263057",
+      "Source": "Astraeos Generator",
+      "Trans": {"SC":"星耀发电机","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3411641229",
+      "Source": "Astraeos Grill",
+      "Trans": {"SC":"星耀烤箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1049541837",
+      "Source": "Astraeos Statue",
+      "Trans": {"SC":"星耀雕像","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3605772076",
+      "Source": "Astraeos Fabricator",
+      "Trans": {"SC":"星耀机床","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::99316656",
+      "Source": "Astraeos Doors",
+      "Trans": {"SC":"星耀门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1538594358",
+      "Source": "Astraeos Refrigerator",
+      "Trans": {"SC":"星耀冰箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4228774672",
+      "Source": "Astraeos Replicator",
+      "Trans": {"SC":"星耀复制器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2828446094",
+      "Source": "Astraeos Smithy",
+      "Trans": {"SC":"星耀铁匠台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1555972252",
+      "Source": "Astraeos Windmill",
+      "Trans": {"SC":"星耀风车","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1743062493",
+      "Source": "Astraeos Chemistry Table",
+      "Trans": {"SC":"星耀化学实验桌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4268876220",
+      "Source": "Astraeos Maeguana Saddle Skin",
+      "Trans": {"SC":"星耀风行蜥鞍皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1480534837",
+      "Source": "You can use this to skin the appearance of a Maeguana saddle to look like greek-style saddle",
+      "Trans": {"SC":"你可以用这个来改变风行蜥鞍的外观，使其看起来像希腊风格的鞍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3582051540",
+      "Source": "A powerful melee weapon tipped with metal.  Can be used on a TEK Sword.",
+      "Trans": {"SC":"一种带有金属尖端的强力近战武器。可用于TEK剑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1092380258",
+      "Source": "The undisputed ruler of short-range combat. Needs a hotter flame to be forged. Can be used on a TEK sword.",
+      "Trans": {"SC":"短程战斗的无可争议王者。需要更热的火焰来锻造。可用于TEK剑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1867838784",
+      "Source": "Astraeos Tribetower",
+      "Trans": {"SC":"星耀部落塔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2232775373",
+      "Source": "Astraeos Campfire",
+      "Trans": {"SC":"星耀篝火","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1459973240",
+      "Source": "Astraeos Transmitter",
+      "Trans": {"SC":"星耀发射器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::868970738",
+      "Source": "Astraeos Feeding Trough",
+      "Trans": {"SC":"星耀饲料槽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::342995717",
+      "Source": "Astraeos Skins",
+      "Trans": {"SC":"星耀皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::681753627",
+      "Source": "Astraeos Refining Forge",
+      "Trans": {"SC":"星耀精炼炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1767603190",
+      "Source": "Astraeos Replicator ",
+      "Trans": {"SC":"星耀复制器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::743415188",
+      "Source": "Astraeos Feeding Trough Skin",
+      "Trans": {"SC":"星耀饲料槽皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::176845453",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Feeding Trough.",
+      "Trans": {"SC":"你可以用这个将许多建筑的外观换成希腊风格皮肤。专为星耀地图设计，但可在任意地图使用。<#RN#><#RN#>这是饲料槽的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3648790397",
+      "Source": "Astraeos Campfire Skin",
+      "Trans": {"SC":"星耀篝火皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1827464099",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Campfire.",
+      "Trans": {"SC":"你可以用这个将许多建筑的外观换成希腊风格皮肤。专为星耀地图设计，但可在任意地图使用。<#RN#><#RN#>这是篝火的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3993412162",
+      "Source": "Astraeos Transmitter Skin",
+      "Trans": {"SC":"星耀发射器皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::171263926",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Transmitter.",
+      "Trans": {"SC":"你可以用这个将许多建筑的外观换成希腊风格皮肤。专为星耀地图设计，但可在任意地图使用。<#RN#><#RN#>这是发射器的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::794194731",
+      "Source": "Astraeos Tribetower Skin 1",
+      "Trans": {"SC":"星耀部落塔皮肤1","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2846751996",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Tribetower with golden flags.",
+      "Trans": {"SC":"你可以用这个将许多建筑的外观换成希腊风格皮肤。专为星耀地图设计，但可在任意地图使用。<#RN#><#RN#>这是带有金色旗帜的部落塔的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3893118303",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is for Furniture like Beds, Benches, Chairs, Tables, Fireplaces, Storage Boxes, Dedicated Storages and Vaults.",
+      "Trans": {"SC":"你可以用这个将许多建筑的外观换成希腊风格皮肤。专为星耀地图设计，但可在任意地图使用。<#RN#><#RN#>这适用于家具，如床、长凳、椅子、桌子、壁炉、储物箱、专用储物柜和保险柜。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1038343365",
+      "Source": "Astraeos Tribetower Skin 2",
+      "Trans": {"SC":"星耀部落塔皮肤2","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3826587603",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Tribetower with spartan flags.",
+      "Trans": {"SC":"你可以用这个将许多建筑的外观换成希腊风格皮肤。专为星耀地图设计，但可在任意地图使用。<#RN#><#RN#>这是带有斯巴达旗帜的部落塔的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2237643680",
+      "Source": "Astraeos Tribetower Skin 3",
+      "Trans": {"SC":"星耀部落塔皮肤3","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::571073504",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Tribetower with athene flags.",
+      "Trans": {"SC":"你可以用这个将许多建筑的外观换成希腊风格皮肤。专为星耀地图设计，但可在任意地图使用。<#RN#><#RN#>这是带有雅典娜旗帜的部落塔的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2105018922",
+      "Source": "Astraeos Structures Variant 4",
+      "Trans": {"SC":"星耀建筑变体 4","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3566081656",
+      "Source": "Astraeos Cryofridge Skin",
+      "Trans": {"SC":"星耀低温冰箱皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4093031288",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Cryofridge.",
+      "Trans": {"SC":"你可以用它将众多建筑外观换为希腊风格的皮肤。本皮肤为星耀地图专属制作，但也可用于其他任何地图。<#RN#><#RN#>这是低温冰箱的皮肤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::674251758",
+      "Source": "Astraeos Grinder Skin",
+      "Trans": {"SC":"星耀研磨机皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3865730064",
+      "Source": "You can use this to skin the appearance of many structures in a Greek-style. Made for Astraeos map but can be used on any map. <#RN#><#RN#>This is a skin for the Grinder.",
+      "Trans": {"SC":"你可以使用这个来给许多建筑的外观换上希腊风格皮肤。专为星耀地图制作，但可用于任何地图。<#RN#><#RN#>这是工业研磨机的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

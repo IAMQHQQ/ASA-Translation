@@ -1,0 +1,820 @@
+{
+  "闪光恐龙": [//2026.6.21
+    {
+      "NamespaceHash": "Content::185590012",
+      "Source": "Enraged",
+      "Trans": {"SC":"暴怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3010655781",
+      "Source": "Goth",
+      "Trans": {"SC":"哥特风","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3843159118",
+      "Source": "Hardy Holographic",
+      "Trans": {"SC":"领域全息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::146327483",
+      "Source": "Nightmare",
+      "Trans": {"SC":"噩梦","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3054726138",
+      "Source": "Noir",
+      "Trans": {"SC":"黑暗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::755890899",
+      "Source": "Paisley",
+      "Trans": {"SC":"涡旋纹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1976286193",
+      "Source": "Tiger",
+      "Trans": {"SC":"虎纹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1385180233",
+      "Source": "Shiny Essence",
+      "Trans": {"SC":"闪光精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2315555004",
+      "Source": "Feed this to a dino to turn it into a Shiny!<#RN#><#RN#>Only the same or related species will eat it, and only if it is not a Shiny of a conflicting type!",
+      "Trans": {"SC":"将此喂给恐龙即可使其变为闪光形态！仅相同或近缘物种会食用，且该恐龙不能是冲突类型的闪光个体！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2728289687",
+      "Source": "Raw Shiny Essence",
+      "Trans": {"SC":"原生闪光精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3790711016",
+      "Source": "The raw essence of a powerful Shiny Dino. It can be used to harvest the essence of lesser Shiny Dinos.",
+      "Trans": {"SC":"强大闪光恐龙的原生精华。可用于提取次级闪光恐龙的精华。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3707888123",
+      "Source": "Shiny Spear Bolt",
+      "Trans": {"SC":"闪光矛矢","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2560739887",
+      "Source": "A range version of the Shiny! Prod.<#RN#><#RN#>Load it into a Harpoon and shoot a wild Shiny Dino with this to unlock its essence, but beware, it'll greatly anger it. Kill it to extract its essence before the effect wears off. Note that only special Shiny Dinos are affected by this.<#RN#><#RN#>Extracted essences can be applied to other tamed dinos of the same species.",
+      "Trans": {"SC":"闪光刺针（远程版）装入鱼叉后向野生闪光恐龙发射，可解锁其精华 —— 但请注意，这会使其大幅激怒。需在效果消失前将其击杀以提取精华。<#RN#>注：仅特殊闪光恐龙会受此影响。提取的精华可应用于同物种的其他已驯服恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3177460620",
+      "Source": "Shiny Essence Prod",
+      "Trans": {"SC":"闪光精华刺针","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2208797729",
+      "Source": "Prod a wild Shiny Dino with this to unlock its essence, but beware, it'll greatly anger it. Kill it to extract its essence before the effect wears off. Note that only special Shiny Dinos are affected by this.<#RN#><#RN#>Extracted essences can be applied to other tamed dinos of the same species.",
+      "Trans": {"SC":"用此刺击野生闪光恐龙即可解锁其精华 —— 但请注意，这会使其大幅激怒。需在效果消失前将其击杀以提取精华。<#RN#>注：仅特殊闪光恐龙会受此影响。提取的精华可应用于同物种的其他已驯服恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3484907123",
+      "Source": "Shiny Spectral Poop",
+      "Trans": {"SC":"闪光幽灵便便","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3012299406",
+      "Source": "Spectral poop from another plane of existance which contains some common resources.<#RN#>Use to retrieve the resources.",
+      "Trans": {"SC":"来自另一个存在位面的幽灵粪便，其中含有一些常见资源。<#RN#>可用于提取这些资源。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2754368507",
+      "Source": "Shiny Dino Tracker",
+      "Trans": {"SC":"闪光恐龙追踪器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1852203744",
+      "Source": "Track Shiny Dinos on the map!",
+      "Trans": {"SC":"在地图上追踪闪光恐龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1831120157",
+      "Source": "Shiny Stone Display",
+      "Trans": {"SC":"石制闪光展示柜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1045772138",
+      "Source": "A stone display for Chibis & Cryopods",
+      "Trans": {"SC":"可陈列迷你宠与低温舱的石制展示柜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3840238284",
+      "Source": "Shiny Wood Display",
+      "Trans": {"SC":"木制闪光展示柜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::68601519",
+      "Source": "A wooden display for Chibis & Cryopods",
+      "Trans": {"SC":"可陈列迷你宠与低温舱的木制展示柜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1159164978",
+      "Source": "Setup the Whitelist and Blacklist for Dinos affected by Shiny",
+      "Trans": {"SC":"为受 “闪光” 影响的恐龙设置白名单和黑名单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1172209857",
+      "Source": "Dino White/Black List",
+      "Trans": {"SC":"恐龙黑/白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::151724115",
+      "Source": "General",
+      "Trans": {"SC":"通用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1027360732",
+      "Source": "Kill Rewards",
+      "Trans": {"SC":"击杀奖励","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::611092934",
+      "Source": "Show Sparkles on Tames",
+      "Trans": {"SC":"在已驯服生物上显示闪光效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3075420679",
+      "Source": "Shiny Admin Settings",
+      "Trans": {"SC":"闪光生物管理员设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "5E77B4F74AC49AA6F062DD87A4ABEDB6",
+      "Source": "A Shiny {Name} has emerged!",
+      "Trans": {"SC":"一只闪光 {Name} 出现了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"763792940"}
+    },
+    {
+      "NamespaceHash": "94E4C0EF4B1BA9FC8765C3962D62B4F4",
+      "Source": "Lat {Lat} Lon {Lon}",
+      "Trans": {"SC":"纬度X {Lat} 经度Y {Lon}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"766692501"}
+    },
+    {
+      "NamespaceHash": "6E7B8ED44D9ED275041AEC8C9E67AC31",
+      "Source": "A Shiny {Name} still wanders the ARK!",
+      "Trans": {"SC":"一只闪光 {Name} 仍在方舟世界中游荡！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"430617050"}
+    },
+    {
+      "NamespaceHash": "CBFA7EEC4052AF20757CD0869B837F63",
+      "Source": "The Shiny {Name} has been killed!",
+      "Trans": {"SC":"一只闪光 {Name} 已被击杀！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2937493624"}
+    },
+    {
+      "NamespaceHash": "C649727A45F6CF25ECFB85835AD7D2C1",
+      "Source": "The Shiny {Name} has been killed for their Essence!",
+      "Trans": {"SC":"一只闪光 {Name} 已被击杀，其身上的闪光精华也被获取了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2839935906"}
+    },
+    {
+      "NamespaceHash": "32E14B2E43B9CDA53DF21F8BD1124D07",
+      "Source": "The Shiny {Name} has been tamed!",
+      "Trans": {"SC":"一只闪光 {Name} 已被驯服！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2176918526"}
+    },
+    {
+      "NamespaceHash": "52F6785B4932572DF69C85B7438C38A7",
+      "Source": "The Shiny {Name} has disappeared!",
+      "Trans": {"SC":"一只闪光 {Name} 已经消失！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"977379819"}
+    },
+    {
+      "NamespaceHash": "56988798406EA4601667FF9AE385BBCE",
+      "Source": "A Shiny {Name} has emerged! {Location}",
+      "Trans": {"SC":"一只闪光 {Name} 出现了！{Location}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2646013675"}
+    },
+    {
+      "NamespaceHash": "42F263EC4D625C5495B0DCB2BFCA6E67",
+      "Source": "Spawn Shiny",
+      "Trans": {"SC":"生成闪光生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3050878705"}
+    },
+    {
+      "NamespaceHash": "C1A40F374CFCF6ACA7E489A536F150D4",
+      "Source": "Destroy All Wild Shiny Dinos",
+      "Trans": {"SC":"消灭所有野生的闪光恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2538526348"}
+    },
+    {
+      "NamespaceHash": "CC2A92E4455723ADCA2A499A07C27F90",
+      "Source": "Variant to Spawn",
+      "Trans": {"SC":"要生成的变种","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"526701285"}
+    },
+    {
+      "NamespaceHash": "AAA0096E4198FA13BB46D888709EDCC8",
+      "Source": "Settings Guide",
+      "Trans": {"SC":"设置指南","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1429277845"}
+    },
+    {
+      "NamespaceHash": "91A6A1D3482612C6D8B4EDA5B8B17217",
+      "Source": "Dino Black/White List",
+      "Trans": {"SC":"恐龙黑/白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"250648718"}
+    },
+    {
+      "NamespaceHash": "29CFE61148A2068DD7A112BAE26B03E4",
+      "Source": "Variant Black/White List",
+      "Trans": {"SC":"变种黑/白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3747290816"}
+    },
+    {
+      "NamespaceHash": "EED35CB84AA7BD41AF35549BB500BFC1",
+      "Source": "With the selected spawn settings, you can expect an average of {avg} ({min}-{max}) wild Shiny Dinos to be up at the same time.",
+      "Trans": {"SC":"根据所选的生成设置，你可以预期平均同时会有 {avg} ({min}-{max}) 只野生的闪光恐龙出现。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2353188330"}
+    },
+    {
+      "NamespaceHash": "5659B2E542AD60881BEF37A9C8961FB6",
+      "Source": "Blacklist",
+      "Trans": {"SC":"黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1602594389"}
+    },
+    {
+      "NamespaceHash": "85E0F8BF4E2293F326A092BBFA6E1850",
+      "Source": "Whitelist",
+      "Trans": {"SC":"白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"944421348"}
+    },
+    {
+      "NamespaceHash": "Content::206853865",
+      "Source": "Shiny Reward Crate",
+      "Trans": {"SC":"闪光奖励宝箱","JA":"閃光獎励宝箱"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4166798035",
+      "Source": "Small Shiny Display",
+      "Trans": {"SC":"小型闪光展示柜","JA":"小型閃光展示柜"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3902071205",
+      "Source": "Large Shiny Display",
+      "Trans": {"SC":"大型闪光展示柜","JA":"大型閃光展示柜"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2496137209",
+      "Source": "Medium Shiny Display",
+      "Trans": {"SC":"中型闪光展示柜","JA":"中型閃光展示柜"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1099077081",
+      "Source": "Prod a wild Shiny Dino with this to unlock its essence, but beware, it'll greatly anger it. Kill it to extract its essence before the effect wears off. Note that only special Shiny Dinos are affected by this.\\n\\nExtracted essences can be applied to other tamed dinos of the same species.",
+      "Trans": {"SC":"用此刺击野生闪光恐龙即可解锁其精华 —— 但请注意，这会使其大幅激怒。需在效果消失前将其击杀以提取精华。<#RN#>注：仅特殊闪光恐龙会受此影响。提取的精华可应用于同物种的其他已驯服恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3263513124",
+      "Source": "A range version of the Shiny! Prod.\\n\\nLoad it into a Harpoon and shoot a wild Shiny Dino with this to unlock its essence, but beware, it'll greatly anger it. Kill it to extract its essence before the effect wears off. Note that only special Shiny Dinos are affected by this.\\n\\nExtracted essences can be applied to other tamed dinos of the same species.",
+      "Trans": {"SC":"闪光刺针（远程版）装入鱼叉后向野生闪光恐龙发射，可解锁其精华 —— 但请注意，这会使其大幅激怒。需在效果消失前将其击杀以提取精华。<#RN#>注：仅特殊闪光恐龙会受此影响。提取的精华可应用于同物种的其他已驯服恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1010997602",
+      "Source": "Feed this to a dino to turn it into a Shiny!\\n\\nOnly the same or related species will eat it, and only if it is not a Shiny of a conflicting type!",
+      "Trans": {"SC":"将此喂给恐龙即可使其变为闪光形态！仅相同或近缘物种会食用，且该恐龙不能是冲突类型的闪光个体！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2761284731",
+      "Source": "Shiny Color Gun",
+      "Trans": {"SC":"闪光调色枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2888192441",
+      "Source": "Color Set testing for Shiny",
+      "Trans": {"SC":"闪光配色方案测试工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4092831348",
+      "Source": "Shiny Info Gun",
+      "Trans": {"SC":"闪光信息探测枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3515522674",
+      "Source": "Shoot a dino to show information about it",
+      "Trans": {"SC":"射击恐龙即可查看该生物的相关信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1134828792",
+      "Source": "Shiny Variant Gun",
+      "Trans": {"SC":"闪光形态转换枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3918565443",
+      "Source": "Convert the target dino into a fancy shiny dino!\\n\\nReload to change mode. Right-click to instant-tame.",
+      "Trans": {"SC":"将目标恐龙转变为华丽闪光个体！\\n\\n 换弹切换模式，右键点击可一键驯服。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2659171968",
+      "Source": "Shiny!",
+      "Trans": {"SC":"闪光！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::279323506",
+      "Source": "This Dino is Shiny!",
+      "Trans": {"SC":"这是一个闪光恐龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4217633784",
+      "Source": "Shiny! Dinos Ascended",
+      "Trans": {"SC":"闪光飞升!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2153132460",
+      "Source": "Obscured!",
+      "Trans": {"SC":"隐匿！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1023363325",
+      "Source": "You are obscured from predators, reducing detection range!",
+      "Trans": {"SC":"掠食者难以发现你，大幅降低被侦测距离！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2004138453",
+      "Source": "Revitalizing!",
+      "Trans": {"SC":"生命复苏！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::839993991",
+      "Source": "You are slowly being healed!",
+      "Trans": {"SC":"正在缓慢恢复生命值！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1051830150",
+      "Source": "Serenity!",
+      "Trans": {"SC":"心神宁静！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::990585685",
+      "Source": "Your mind is calm and focused on crafting!",
+      "Trans": {"SC":"心绪平稳，制作效率提升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4271349120",
+      "Source": "Bolstered!",
+      "Trans": {"SC":"体魄强健！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::780763360",
+      "Source": "You can carry more in your inventory before feeling its weight!",
+      "Trans": {"SC":"背包负重上限提升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1591871184",
+      "Source": "Fire Protection",
+      "Trans": {"SC":"火焰防护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::104889531",
+      "Source": "You are immune to fire damage!",
+      "Trans": {"SC":"免疫火焰伤害！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1761205295",
+      "Source": "You are consuming water at a much lower rate!",
+      "Trans": {"SC":"水分消耗速率大幅降低！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1937407790",
+      "Source": "Invigorated!",
+      "Trans": {"SC":"精力充沛！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3785039594",
+      "Source": "Slowly regenerating Stamina!",
+      "Trans": {"SC":"持续缓慢恢复体力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1989372132",
+      "Source": "Radioactive",
+      "Trans": {"SC":"辐射效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2118321539",
+      "Source": "Shiny Ability on Cooldown",
+      "Trans": {"SC":"闪光技能冷却中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "AF98010640CD8BC7C2D711AEB59F276F",
+      "Source": "Overriden by INI",
+      "Trans": {"SC":"由 INI 配置覆盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1657820675"}
+    },
+    {
+      "NamespaceHash": "A65D12684C80F15E642B7A9CAFF13A7D",
+      "Source": "Default Variable",
+      "Trans": {"SC":"默认变量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1960846377"}
+    },
+    {
+      "NamespaceHash": "3414DE74416E0BBD51472BA3314EDA46",
+      "Source": "Food Drain",
+      "Trans": {"SC":"食物消耗速率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3959546428"}
+    },
+    {
+      "NamespaceHash": "F08578F64A769D7128F372A2ED266EA3",
+      "Source": "Type here...",
+      "Trans": {"SC":"在此输入...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3324684864"}
+    },
+    {
+      "NamespaceHash": "168F6E7448EDE37372EEBBA08B956640",
+      "Source": "no matches",
+      "Trans": {"SC":"无匹配项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4224352705"}
+    },
+    {
+      "NamespaceHash": "8946939B4457C58C86A7D1A65EC2D267",
+      "Source": "A Shiny {Name} still wanders the ARK!",
+      "Trans": {"SC":"一只闪光 {Name} 游荡在方舟世界！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"430617050"}
+    },
+    {
+      "NamespaceHash": "FB3C31F941FE0D2E34FAA3BFC83D1A17",
+      "Source": "A Shiny {Name} still wanders the ARK! Lat {Lat} Lon {Lon}",
+      "Trans": {"SC":"一只闪光 {Name} 游荡在方舟世界！纬度 {Lat} 经度 {Lon}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"383058035"}
+    },
+    {
+      "NamespaceHash": "3BC0FCB146E2A5AE5EDEA5A40D26003C",
+      "Source": "The Shiny {Name} has been killed!",
+      "Trans": {"SC":"闪光 {Name} 已被击杀！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2937493624"}
+    },
+    {
+      "NamespaceHash": "1FCE870C45FAAC7FEAFA2A9AFDCAF33E",
+      "Source": "The Shiny {Name} has been killed for their Essence!",
+      "Trans": {"SC":"击杀闪光 {Name} 获取了它的精华！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2839935906"}
+    },
+    {
+      "NamespaceHash": "3325BBF443F85218CF980CA768ABC133",
+      "Source": "The Shiny {Name} has been tamed!",
+      "Trans": {"SC":"闪光 {Name} 已被驯服！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2176918526"}
+    },
+    {
+      "NamespaceHash": "CAC3BF7C4CC0305DF5427EBDEA420B07",
+      "Source": "The Shiny {Name} has disappeared!",
+      "Trans": {"SC":"闪光 {Name} 已消失！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"977379819"}
+    },
+    {
+      "NamespaceHash": "CC2370EA4C029829119A669EF6B7C0C5",
+      "Source": "Lat {Lat} Lon {Lon}",
+      "Trans": {"SC":"纬度 {Lat} 经度 {Lon}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"766692501"}
+    },
+    {
+      "NamespaceHash": "45B0263B476372C660E88BBAC5437351",
+      "Source": "A Shiny {Name} has emerged!",
+      "Trans": {"SC":"一只闪光 {Name} 刷新出现！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"763792940"}
+    },
+    {
+      "NamespaceHash": "101683CD4ADBE664CBBE0C9253A05323",
+      "Source": "A Shiny {Name} has emerged! {Location}",
+      "Trans": {"SC":"一只闪光 {Name} 刷新出现！坐标：{Location}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2646013675"}
+    },
+    {
+      "NamespaceHash": "B7B3707D4498057DD8C6088E336BEB49",
+      "Source": "Alpha Buff",
+      "Trans": {"SC":"精英Buff","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"469636052"}
+    },
+    {
+      "NamespaceHash": "8CB4C4E640F3EE41246113B3CDDAD7A9",
+      "Source": "Tamed",
+      "Trans": {"SC":"已驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2577253532"}
+    },
+    {
+      "NamespaceHash": "CCF7CA6F49195747E863A2995AE99349",
+      "Source": "Rideable",
+      "Trans": {"SC":"可骑乘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1935120950"}
+    },
+    {
+      "NamespaceHash": "7774A3034DC1DA13FCEC6183813A57A6",
+      "Source": "Class",
+      "Trans": {"SC":"生物类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3812987256"}
+    },
+    {
+      "NamespaceHash": "546AD2C14BA3AC057AB35485E497C641",
+      "Source": "Has Wild Followers",
+      "Trans": {"SC":"拥有野生随从","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2423473340"}
+    },
+    {
+      "NamespaceHash": "33B9B3654E9F3EEF4D1B5E9993CDB73E",
+      "Source": "Persistent Data",
+      "Trans": {"SC":"持久化数据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"865535523"}
+    },
+    {
+      "NamespaceHash": "8CA16694435E03C10C5943A608F20CE7",
+      "Source": "DinoNameTag: ",
+      "Trans": {"SC":"恐龙名称标签: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2057850240"}
+    },
+    {
+      "NamespaceHash": "4FE32196440DB2CA88219385E1765D8D",
+      "Source": "CustomTag: ",
+      "Trans": {"SC":"自定义标签：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1944266795"}
+    },
+    {
+      "NamespaceHash": "2DCA086A47982780D79C0BA940339F1E",
+      "Source": "Can be Tamed",
+      "Trans": {"SC":"可驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"521574915"}
+    },
+    {
+      "NamespaceHash": "01BFAA8E45384709EDA6BFA08ADD3705",
+      "Source": "Force Disabling Taming",
+      "Trans": {"SC":"强制禁止驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1900773268"}
+    },
+    {
+      "NamespaceHash": "3754067345106216431FD596D57380DA",
+      "Source": "Raid Dino",
+      "Trans": {"SC":"团战生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3795262330"}
+    },
+    {
+      "NamespaceHash": "0B107B8D4310ABAB3FB3F591AE07F601",
+      "Source": "Elite",
+      "Trans": {"SC":"精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"517831433"}
+    },
+    {
+      "NamespaceHash": "590CFBCD4507027E1476DBB3AEF775CF",
+      "Source": "Flyer",
+      "Trans": {"SC":"飞行生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3232990636"}
+    },
+    {
+      "NamespaceHash": "052DA8B4456D30AF9E7C8DBB489E4646",
+      "Source": "Aquatic",
+      "Trans": {"SC":"水生生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2028215718"}
+    },
+    {
+      "NamespaceHash": "8D74DC1745E09E0866E36D8EC0539005",
+      "Source": "Aberrant",
+      "Trans": {"SC":"畸变生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"976622629"}
+    },
+    {
+      "NamespaceHash": "9DB64E554FE78D99D378CFB72ACC2D3D",
+      "Source": "Opinion",
+      "Trans": {"SC":"好感度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3933885083"}
+    },
+    {
+      "NamespaceHash": "F1058FDF409CCFE5BEBE1187C420AB4F",
+      "Source": "Size",
+      "Trans": {"SC":"大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2310662963"}
+    },
+    {
+      "NamespaceHash": "C12019E84EBBBF64DDEDFA94BD5C3341",
+      "Source": "Age",
+      "Trans": {"SC":"成长阶段","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"113611619"}
+    },
+    {
+      "NamespaceHash": "751435434127B186B4ED3BAD1056B4A6",
+      "Source": "Shape",
+      "Trans": {"SC":"外形形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743405946"}
+    },
+    {
+      "NamespaceHash": "9C7349434840470329AA85B11EBB4E23",
+      "Source": "Colour",
+      "Trans": {"SC":"配色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1874543444"}
+    },
+    {
+      "NamespaceHash": "6B0BDE1C4729CEE814127FBBFF06C266",
+      "Source": "Origin",
+      "Trans": {"SC":"本源类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3483970454"}
+    },
+    {
+      "NamespaceHash": "CF37BB604B6758ADCF9530A3F07C7443",
+      "Source": "Material",
+      "Trans": {"SC":"材质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"523973106"}
+    },
+    {
+      "NamespaceHash": "AEDAC8184B7902577ADD2980F7AA276D",
+      "Source": "Purpose",
+      "Trans": {"SC":"用途","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"395943269"}
+    },
+    {
+      "NamespaceHash": "96E746D34AE38C14F4E9369E61F98CA7",
+      "Source": "Idle",
+      "Trans": {"SC":"闲置状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3210106563"}
+    },
+    {
+      "NamespaceHash": "2155917645A1EDAEBF9CF59B162746BB",
+      "Source": "Starting",
+      "Trans": {"SC":"加载中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2139017587"}
+    },
+    {
+      "NamespaceHash": "D6CFBCAF4454BEBD0BBA2BA2AEC1B0DC",
+      "Source": "Showing",
+      "Trans": {"SC":"显示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1508261589"}
+    },
+    {
+      "NamespaceHash": "E84968DA4CEDBBBD3BBE7C8988E7CD6F",
+      "Source": "Hiding",
+      "Trans": {"SC":"隐藏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3149134696"}
+    },
+    {
+      "NamespaceHash": "9DA5DC934EEC3CD762A823AD4BFB469A",
+      "Source": "Colors",
+      "Trans": {"SC":"配色组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3720490280"}
+    },
+    {
+      "NamespaceHash": "67B03A21466DF4596FD9C3AAB21B4F50",
+      "Source": "VariantTypeIndex",
+      "Trans": {"SC":"变体类型索引","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4045063548"}
+    },
+    {
+      "NamespaceHash": "9C593EF04793C03FE7F58CB62933A21B",
+      "Source": "MAX",
+      "Trans": {"SC":"最大值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1050121551"}
+    },
+    {
+      "NamespaceHash": "A838381C446321550382EC963B2E3862",
+      "Source": "ShinyTypes",
+      "Trans": {"SC":"闪光类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2935714249"}
+    },
+    {
+      "NamespaceHash": "598EC0D84317C295CB527BA1C9773971",
+      "Source": "DinoID",
+      "Trans": {"SC":"恐龙 ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1510092250"}
+    },
+    {
+      "NamespaceHash": "84A9698E40C99536BE00A7BE888D420C",
+      "Source": "Normal",
+      "Trans": {"SC":"普通型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"926731589"}
+    },
+    {
+      "NamespaceHash": "93C6263E437AA92A862D8C96B1FDEB0F",
+      "Source": "Dangerous",
+      "Trans": {"SC":"危险型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4269402133"}
+    },
+    {
+      "NamespaceHash": "A40BCAE44C6433C23CCE37ACE792B9F7",
+      "Source": "Special",
+      "Trans": {"SC":"特殊型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2678209244"}
+    },
+    {
+      "NamespaceHash": "04818F0B4114F425E2A12C8457EFCE2B",
+      "Source": "SpecialNoEssence",
+      "Trans": {"SC":"无精华特殊型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3416366403"}
+    },
+    {
+      "NamespaceHash": "E689EC7D46A5FE72A99086AA678F804B",
+      "Source": "OPEN SETTINGS GUIDE",
+      "Trans": {"SC":"打开设置说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3951460628"}
+    },
+    {
+      "NamespaceHash": "BB31D47B41F6E3290C1F7BBE1A87F531",
+      "Source": "Shiny Dino Spawning is disabled. Set Spawn Interval to a value above 0 to enable automatic spawns.",
+      "Trans": {"SC":"闪光恐龙生成已关闭。将生成间隔设置为大于 0 的数值即可开启自动刷新。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2991735783"}
+    },
+    {
+      "NamespaceHash": "522B71FC4C622CAD0C863C87686AFF67",
+      "Source": "With the selected spawn settings, you can expect an average of {avg} wild Shiny Dinos to be up at the same time.",
+      "Trans": {"SC":"当前生成设置下，地图同时存在的野生闪光恐龙平均数量为 {avg} 只。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"566900167"}
+    },
+    {
+      "NamespaceHash": "8C9CBDA742405F30425B16A3409A9E7D",
+      "Source": "Higher Precision values will result in a less precise location - negative values will be more precise, adding more decimals.",
+      "Trans": {"SC":"精度数值越大坐标显示越粗略；负数精度坐标更精细，显示更多小数位。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1397391064"}
+    },
+    {
+      "NamespaceHash": "C9BCC6134658201518CABBB9DC756C37",
+      "Source": "TRACK DINO",
+      "Trans": {"SC":"追踪恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2114607302"}
+    },
+    {
+      "NamespaceHash": "0099716846006789D8ED119F8B70BEE6",
+      "Source": "Shiny Dino Tracker",
+      "Trans": {"SC":"闪光恐龙追踪器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2754368507"}
+    },
+    {
+      "NamespaceHash": "7D2CF1A04FB1F917A0097A9A95636978",
+      "Source": "Me",
+      "Trans": {"SC":"自身","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3678539620"}
+    },
+    {
+      "NamespaceHash": "859D2C5D4A52B74BBA9F88B4FB837A5A",
+      "Source": "Shiny Dinos",
+      "Trans": {"SC":"闪光恐龙列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"591949080"}
+    },
+    {
+      "NamespaceHash": "689A2E224CB34997983CF087D22D42BC",
+      "Source": "Danger!",
+      "Trans": {"SC":"危险！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"112799251"}
+    }
+  ]
+}

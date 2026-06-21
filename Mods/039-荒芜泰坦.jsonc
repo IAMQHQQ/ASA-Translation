@@ -1,0 +1,460 @@
+{
+  "荒芜泰坦": [//2026.6.21
+    {
+      "NamespaceHash": "Content::1587653972",
+      "Source": "Arkology Desolatitan",
+      "Trans": {"SC":"方舟学荒芜泰坦","JA":"方舟学荒蕪泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3199550953",
+      "Source": "Desolatitan",
+      "Trans": {"SC":"荒芜泰坦","JA":"荒蕪泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2277754903",
+      "Source": "R-Desolatitan",
+      "Trans": {"SC":"R-荒芜泰坦","JA":"R-荒蕪泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2046466714",
+      "Source": "Primal Desolatitan",
+      "Trans": {"SC":"太古荒芜泰坦","JA":"太古荒蕪泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::802592925",
+      "Source": "Overseer's Primal Desolatitan",
+      "Trans": {"SC":"太古荒芜泰坦监察者","JA":"太古荒蕪泰坦監察者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2713745395",
+      "Source": "Scorched Desolatitan",
+      "Trans": {"SC":"焦土荒芜泰坦","JA":"焦土荒蕪泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2900352231",
+      "Source": "X-Desolatitan",
+      "Trans": {"SC":"X-荒芜泰坦","JA":"X-荒蕪泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1274736595",
+      "Source": "Chibi-Arkology Desolatitan",
+      "Trans": {"SC":"袖珍-方舟学荒芜泰坦","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4255319546",
+      "Source": "Chibi-Desolatitan",
+      "Trans": {"SC":"袖珍-荒芜泰坦","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1743157611",
+      "Source": "Chibi-Primal Desolatitan (Alpha)",
+      "Trans": {"SC":"袖珍-太古荒芜泰坦(困难)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3234908517",
+      "Source": "Chibi-Primal Desolatitan (Beta)",
+      "Trans": {"SC":"袖珍-太古荒芜泰坦(中等)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::373564993",
+      "Source": "Chibi-Primal Desolatitan (Gamma)",
+      "Trans": {"SC":"袖珍-太古荒芜泰坦(简单)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2464555217",
+      "Source": "Chibi-Primal Desolatitan (Overseer)",
+      "Trans": {"SC":"袖珍-太古荒芜泰坦(监察者)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4213196985",
+      "Source": "Chibi-R-Desolatitan",
+      "Trans": {"SC":"袖珍-R-荒芜泰坦","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3030070644",
+      "Source": "Chibi-Scorched Desolatitan",
+      "Trans": {"SC":"袖珍-焦土荒芜泰坦","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3493616713",
+      "Source": "Chibi-X-Desolatitan",
+      "Trans": {"SC":"袖珍-X-荒芜泰坦","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2681420856",
+      "Source": "Desolatitan Egg",
+      "Trans": {"SC":"荒芜泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::971076875",
+      "Source": "Fertilized Desolatitan Egg",
+      "Trans": {"SC":"受精的荒芜泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3575738431",
+      "Source": "Fertilized Arkology Desolatitan Egg",
+      "Trans": {"SC":"受精的方舟学荒芜泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1879482713",
+      "Source": "Fertilized R-Desolatitan Egg",
+      "Trans": {"SC":"受精的R-荒芜泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3895956901",
+      "Source": "Fertilized Scorched Desolatitan Egg",
+      "Trans": {"SC":"受精的焦土荒芜泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::628317327",
+      "Source": "Fertilized X-Desolatitan Egg",
+      "Trans": {"SC":"受精的X-荒芜泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2815317119",
+      "Source": "Primal Desolatitan Flag",
+      "Trans": {"SC":"太古荒芜泰坦旗帜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1494896413",
+      "Source": "This flag is proof that you have defeated the Primal Desolatitan.",
+      "Trans": {"SC":"这面旗帜证明您已经击败了太古荒芜泰坦。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4129711811",
+      "Source": "Desolatitan Statue",
+      "Trans": {"SC":"荒芜泰坦雕像","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4172645738",
+      "Source": "This statue is proof that you have defeated the Overseer's Primal Desolatitan.",
+      "Trans": {"SC":"这座雕像证明您已击败了太古荒芜泰坦(监察者)。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1558960042",
+      "Source": "Desolatitan Eye",
+      "Trans": {"SC":"荒芜泰坦之眼","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3209506904",
+      "Source": "Implant of the Primal Desolatitan",
+      "Trans": {"SC":"太古荒芜泰坦植入体","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::50875988",
+      "Source": "A mysterious implant found in the heart of the Primal Desolatitan. <#RN#><#RN#>It still hums of energy & sounds of a heart beat. I wonder if it still has a use...<#RN#><#RN#>\"_______! _____ __________ __ mtscacinercu ______ ___ ________ ____ ____ ________ ________ : __________ ____!!\"",
+      "Trans": {"SC":"在太古荒芜泰坦的心脏中发现的一个神秘植入体。<#RN#><#RN#>它仍在发出能量的嗡鸣和心跳声。我想知道它是否还有用处……<#RN#><#RN#>“_______！_____ __________ __ mtscacinercu ______ ___ ________ ____ ____ ________ ：__ ____！！”","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::941571124",
+      "Source": "Alpha Primal Desolatitan Trophy",
+      "Trans": {"SC":"困难太古荒芜泰坦战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3889310166",
+      "Source": "Beta Primal Desolatitan Trophy",
+      "Trans": {"SC":"中等太古荒芜泰坦战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3559607752",
+      "Source": "Gamma Primal Desolatitan Trophy",
+      "Trans": {"SC":"简单太古荒芜泰坦战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2648720944",
+      "Source": "Overseer's Primal Desolatitan Trophy",
+      "Trans": {"SC":"监察者太古荒芜泰坦战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2213548901",
+      "Source": "Alpha Primal Desolatitan Charm",
+      "Trans": {"SC":"困难太古荒芜泰坦护身符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::410047784",
+      "Source": "Combine various Apex Drops to create this charm to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be very difficult. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个护身符，以此召唤太古荒芜泰坦Boss，挑战这场残酷的战斗，击败它后可获得丰厚奖励。<#RN#><#RN#>警告：这个Boss的难度极高。切勿低估它。只有在完全准备就绪后再进行召唤。<#RN#><#RN#>注意：若安装了《Arkology: New Encounters Variant》模组，制作成本将会改变（此变化不会显示在印痕列表中）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2937993391",
+      "Source": "Beta Primal Desolatitan Charm",
+      "Trans": {"SC":"中等太古荒芜泰坦护身符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::977536443",
+      "Source": "Gamma Primal Desolatitan Charm",
+      "Trans": {"SC":"简单太古荒芜泰坦护身符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2650878142",
+      "Source": "Overseer's Primal Desolatitan Charm",
+      "Trans": {"SC":"监察者太古荒芜泰坦护身符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::685704979",
+      "Source": "Desolatitan Saddle",
+      "Trans": {"SC":"荒芜泰坦鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::721938210",
+      "Source": "Equip a Desolatitan with this to ride it.",
+      "Trans": {"SC":"装备到荒芜泰坦上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3836333439",
+      "Source": "Desolatitan Bone Saddle",
+      "Trans": {"SC":"荒芜泰坦骸骨鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3982498261",
+      "Source": "Equip a Desolatitan with this saddle to ride it. Gives your Desolatitan a more Primal look with a saddle covered in Bones.<#RN#><#RN#>This saddle can only be obtained by defeating Alpha Primal Desolatitan Boss.<#RN#><#RN#>A Blueprint of this saddle can only be obtained by defeating the Overseer's Primal Desolatian Boss.",
+      "Trans": {"SC":"给荒芜泰坦配备这个鞍具即可骑乘它。这个布满骸骨的鞍具能让你的荒芜泰坦更具原始风貌。<#RN#><#RN#>此鞍具仅能通过击败困难太古荒芜泰坦获得。<#RN#><#RN#>此鞍具的蓝图仅能通过击败监督者太古荒芜泰坦获得。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2672616076",
+      "Source": "Berserk",
+      "Trans": {"SC":"狂暴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2393083319",
+      "Source": "25% increase to damage output & resistance, 50% increase to movement speed",
+      "Trans": {"SC":"伤害输出和抗性提升 25%，移动速度提升 50%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4255333805",
+      "Source": "Exhaustion",
+      "Trans": {"SC":"疲惫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2740580254",
+      "Source": "Cannot Move or Attack, Damage Resistance decreased by 75%",
+      "Trans": {"SC":"无法移动或攻击，伤害抗性降低 75%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4266348390",
+      "Source": "Combine various Apex Drops to create this charm to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Primal Desolatitan. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"组合各种顶级掉落物可制作此符咒，用于太古荒芜泰坦Boss，挑战成功后可获得丰厚奖励。<#RN#><#RN#>警告：该Boss的难度是困难太古荒芜泰坦的两倍。切勿轻敌。只有在万全准备的情况下才能召唤。<#RN#><#RN#>注：若安装了 “Arkology: New Encounters Variant” 模组，制作成本将会改变（此变化不会显示在印痕列表中）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1119556672",
+      "Source": "Primal Desolatitan Costume",
+      "Trans": {"SC":"太古荒芜泰坦套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::143671241",
+      "Source": "This costume can be used to make your Desolatitan look like the Primal Desolatitan Boss",
+      "Trans": {"SC":"这套服饰可以让你的荒芜泰坦看起来像太古荒芜泰坦Boss。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::AAA89B014FCB462C663459AE663F164C",
+      "Source": "Time Left: {0}",
+      "Trans": {"SC":"剩余时间: {0}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"562339442"}
+    },
+    {
+      "NamespaceHash": "Content::2386673121",
+      "Source": "Beta Primal Desolatitan Charm (Non Island Version)",
+      "Trans": {"SC":"中等太古荒芜泰坦信物（非孤岛版本）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2896441666",
+      "Source": "Combine various Apex Drops to create this charm to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be very difficult. Do not underestimate it. Only Summon if absolutely prepared.",
+      "Trans": {"SC":"组合各种顶级掉落物来制作此信物，以召唤太古荒芜泰坦Boss，挑战残酷，击败后可获得丰厚奖励。<#RN#><#RN#>警告：此Boss难度极高。切勿低估。仅在完全准备就绪时召唤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2240165773",
+      "Source": "Gamma Primal Desolatitan Charm (Non Island Version)",
+      "Trans": {"SC":"简单太古荒芜泰坦信物(非孤岛版本)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1541573611",
+      "Source": "Overseer's Primal Desolatitan Charm (Non Island Version)",
+      "Trans": {"SC":"监督者的太古荒芜泰坦信物(非孤岛版本)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::203848299",
+      "Source": "Combine various Apex Drops to create this charm to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Primal Desolatitan. Do not underestimate it. Only Summon if absolutely prepared.",
+      "Trans": {"SC":"组合各种顶级掉落物来制作此信物，以召唤太古荒芜泰坦Boss，挑战残酷，击败后可获得丰厚奖励。<#RN#><#RN#>警告：此Boss难度是困难太古荒芜泰坦的两倍。切勿低估。仅在完全准备就绪时召唤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3283596312",
+      "Source": "Alpha Primal Desolatitan Charm (Non Island Version)",
+      "Trans": {"SC":"困难太古荒芜泰坦信物（非孤岛版本）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::534242490",
+      "Source": "A mysterious implant found in the heart of the Primal Desolatitan. <#RN#><#RN#>It still hums of energy & sounds of a heart beat. I wonder if it still has a use...<#RN#><#RN#>-------!! ----- --------- -- mtscacinercu ------ --- -------- ---- ---- ------- ---------- ----: --------------!!",
+      "Trans": {"SC":"在太古荒芜泰坦的心脏中发现的神秘植入体。<#RN#><#RN#>I它仍嗡鸣着能量，还能听见心跳声。我好奇它是否还有用处……<#RN#><#RN#>I-------!! ----- --------- -- mtscacinercu ------ --- -------- ---- ---- ------- ---------- ----: --------------!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2820890995",
+      "Source": "Berserk (BOSS)",
+      "Trans": {"SC":"狂怒(BOSS)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3805955486",
+      "Source": "Exhaustion (BOSS)",
+      "Trans": {"SC":"疲惫(BOSS)","JA":"疲憊(BOSS)"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1182160583",
+      "Source": "25% increase to Damage Output & Resistance",
+      "Trans": {"SC":"伤害输出与抗性提升25%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3608285524",
+      "Source": "Beta Primal Desolatitan Activation Device",
+      "Trans": {"SC":"中等荒芜泰坦召唤装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1572067754",
+      "Source": "Combine various Apex Drops to create this device to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be very difficult. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个装置，以此召唤荒芜泰坦BOSS，迎接残酷激战，击败后可获取丰厚奖励。<#RN#><#RN#> 警告：该BOSS难度极高，切勿低估它，只有在完全准备就绪后再进行召唤。<#RN#><#RN#> 备注：若安装《New Encounters Variant》变体模组，制作所需材料会发生变动（印痕技能列表不会显示该变动）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2339590998",
+      "Source": "Beta Primal Desolatitan Activation Device (Non Island Version)",
+      "Trans": {"SC":"中等荒芜泰坦召唤装置（非孤岛版本）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1022639104",
+      "Source": "Combine various Apex Drops to create this device to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be very difficult. Do not underestimate it. Only Summon if absolutely prepared.",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个装置，以此召唤荒芜泰坦BOSS，迎接残酷激战，击败后可获取丰厚奖励。<#RN#><#RN#> 警告：该BOSS难度极高，切勿低估它，只有在完全准备就绪后再进行召唤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2810257048",
+      "Source": "Gamma Primal Desolatitan Activation Device",
+      "Trans": {"SC":"简单荒芜泰坦召唤装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4290476924",
+      "Source": "Gamma Primal Desolatitan Activation Device (Non Island Version)",
+      "Trans": {"SC":"简单荒芜泰坦召唤装置（非孤岛版本）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3997700712",
+      "Source": "Overseer's Primal Desolatitan Activation Device",
+      "Trans": {"SC":"太古荒芜泰坦召唤装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::567884682",
+      "Source": "Combine various Apex Drops to create this device to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Primal Desolatitan. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个装置，以此召唤荒芜泰坦BOSS，迎接残酷激战，击败后可获取丰厚奖励。<#RN#><#RN#> 警告：该BOSS难度为困难荒芜泰坦的两倍，切勿低估它，只有在完全准备就绪后再进行召唤。<#RN#><#RN#> 备注：若安装《Arkology: New Encounters》变体模组，制作所需材料会发生变动（印痕技能列表不会显示该变动）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2852873005",
+      "Source": "Overseer's Primal Desolatitan Activation Device (Non Island Version)",
+      "Trans": {"SC":"太古荒芜泰坦召唤装置（非孤岛版本）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::900019357",
+      "Source": "Combine various Apex Drops to create this device to summon the Primal Desolatitan Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Primal Desolatitan. Do not underestimate it. Only Summon if absolutely prepared.",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个装置，以此召唤荒芜泰坦BOSS，迎接残酷激战，击败后可获取丰厚奖励。<#RN#><#RN#> 警告：该BOSS难度为阿尔法荒芜泰坦的两倍，切勿低估它，只有在完全准备就绪后再进行召唤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1712897498",
+      "Source": "Alpha Primal Desolatitan Activation Device (Non Island Version)",
+      "Trans": {"SC":"困难荒芜泰坦召唤装置（非孤岛版本）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3034144348",
+      "Source": "Alpha Primal Desolatitan Activation Device",
+      "Trans": {"SC":"困难荒芜泰坦召唤装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DA73B05B4A1119BA678F92A8673DCD9F",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "FAFAAE4F4BA6E552DE72EEA5738E3DBD",
+      "Source": "Stomp",
+      "Trans": {"SC":"践踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"67290213"}
+    },
+    {
+      "NamespaceHash": "C98589AF4340142A2DBA309B61829E4E",
+      "Source": "Tail",
+      "Trans": {"SC":"尾击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4251983098"}
+    },
+    {
+      "NamespaceHash": "184FF6C747AFEFBAAB3EDFA9C6A916CE",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    }
+  ]
+}

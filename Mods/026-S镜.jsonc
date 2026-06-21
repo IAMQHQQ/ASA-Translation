@@ -1,0 +1,640 @@
+{
+  "S镜": [//2025.11.29
+    {
+      "NamespaceHash": "3D18818C4259C05E46318EA0EB449191",
+      "Source": "Admin Settings",
+      "Trans": {"SC":"管理员设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"932630994"}
+    },
+    {
+      "NamespaceHash": "F11A936F4D07B7C9CBEF02BC90A2B4AA",
+      "Source": "Show Dino Owner Info",
+      "Trans": {"SC":"显示恐龙所有者信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3045964446"}
+    },
+    {
+      "NamespaceHash": "14F93B1A49734D86172708A9D6D4F7C3",
+      "Source": "Disable UI Animations",
+      "Trans": {"SC":"禁用用户界面动画","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2310628302"}
+    },
+    {
+      "NamespaceHash": "FAF6777A44B9C79434724694D1940F36",
+      "Source": "Show Structure Info",
+      "Trans": {"SC":"显示建筑结构信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4025927158"}
+    },
+    {
+      "NamespaceHash": "3D599C7B404445AF5C3E9EA0C54DA958",
+      "Source": "Show HP as %",
+      "Trans": {"SC":"显示百分比生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"62915266"}
+    },
+    {
+      "NamespaceHash": "E57851FB4B360F80477B68869B8F020B",
+      "Source": "Show More Tame Food",
+      "Trans": {"SC":"显示更多驯服食物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"513854426"}
+    },
+    {
+      "NamespaceHash": "7B6E63494C502E17088F3D9C00E4BB75",
+      "Source": "No Value Shortening",
+      "Trans": {"SC":"禁用数值缩写","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1944997298"}
+    },
+    {
+      "NamespaceHash": "5C83044B4A07E5BF5867288660E4416A",
+      "Source": "Pause when Chat is Open",
+      "Trans": {"SC":"聊天窗口打开时暂停","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3966374195"}
+    },
+    {
+      "NamespaceHash": "4ACDF2AB44276EFA6A46FA92E8E5EB30",
+      "Source": "Use Classic Item Icons",
+      "Trans": {"SC":"启用经典物品图标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"426125147"}
+    },
+    {
+      "NamespaceHash": "3006998F4CACDD3A862794873FCA9504",
+      "Source": "Disable Detailed Gene Trait Info",
+      "Trans": {"SC":"禁用详细的基因特性信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2485515750"}
+    },
+    {
+      "NamespaceHash": "E5E4A9434DAAA354FF0D42A67993B5A7",
+      "Source": "Invert Detailed Gene Trait Info Toggle",
+      "Trans": {"SC":"反转详细基因特性信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3120001135"}
+    },
+    {
+      "NamespaceHash": "EE7FCD964DB1CD0A39FCA69B9705F32C",
+      "Source": "Enable Stat Compare for Locked Targets",
+      "Trans": {"SC":"启用目标属性对比功能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1550520825"}
+    },
+    {
+      "NamespaceHash": "001F1D8B41C453C3CC2389B383B948CE",
+      "Source": "Enable Normal Spyglass UI while Targeting",
+      "Trans": {"SC":"启用瞄准目标时常规望远镜界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2563222032"}
+    },
+    {
+      "NamespaceHash": "E3D066334B47528F3FF02094432A64A7",
+      "Source": "SSP User Settings",
+      "Trans": {"SC":"个性化设置页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2248647503"}
+    },
+    {
+      "NamespaceHash": "518132024967FB8301F2A281E786CB9E",
+      "Source": "Select Crosshair Color",
+      "Trans": {"SC":"选择准星颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1794509295"}
+    },
+    {
+      "NamespaceHash": "6E1BE71A4952047137C7FDB90B9844EA",
+      "Source": "Crosshair 1",
+      "Trans": {"SC":"准星 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1396197299"}
+    },
+    {
+      "NamespaceHash": "99FEC319447D2382A8BE6D9EBADC4BCD",
+      "Source": "Crosshair 2",
+      "Trans": {"SC":"准星 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1099819101"}
+    },
+    {
+      "NamespaceHash": "E93A4E0C42CFECB2C417D6BCDCAE02F1",
+      "Source": "Crosshair 3",
+      "Trans": {"SC":"准星 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4180774712"}
+    },
+    {
+      "NamespaceHash": "0E6A2BC145986E3EC8DE39A16055BBF2",
+      "Source": "Crosshair 4",
+      "Trans": {"SC":"准星 4","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1692841857"}
+    },
+    {
+      "NamespaceHash": "7BAF837A470E4FDCCF917D97DDF0ACA3",
+      "Source": "Crosshair 5",
+      "Trans": {"SC":"准星 5","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3696939236"}
+    },
+    {
+      "NamespaceHash": "CC2238FB4D34B60355FB16A0C91B54B3",
+      "Source": "Crosshair 6",
+      "Trans": {"SC":"准星 6","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3471802122"}
+    },
+    {
+      "NamespaceHash": "8AFCF93849383ABB2A13D7920F0129A6",
+      "Source": "Outline Thickness",
+      "Trans": {"SC":"描边厚度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3572992338"}
+    },
+    {
+      "NamespaceHash": "159E7C4442904234858129BDCD62C699",
+      "Source": "Outline Glow",
+      "Trans": {"SC":"描边发光效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2921935099"}
+    },
+    {
+      "NamespaceHash": "4195C93A44516BD5223530ABA039AC1A",
+      "Source": "Outline Fill Intensity",
+      "Trans": {"SC":"描边填充强度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1286845377"}
+    },
+    {
+      "NamespaceHash": "E5E9DEB14B1DEFAF0CD9608A9483F9AB",
+      "Source": "Select UI Text Color",
+      "Trans": {"SC":"选择目标界面文本颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3477773066"}
+    },
+    {
+      "NamespaceHash": "2781A02744888D75A8DFBB86B37DECA3",
+      "Source": "Select UI Color",
+      "Trans": {"SC":"选择目标界面颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4046601592"}
+    },
+    {
+      "NamespaceHash": "E4BB0213464E860327EE05A4A59D3D0E",
+      "Source": "Main UI Size",
+      "Trans": {"SC":"目标信息界面大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3592591094"}
+    },
+    {
+      "NamespaceHash": "BE1DE79E4B56490B605B48965FFC1856",
+      "Source": "Egg UI Size",
+      "Trans": {"SC":"蛋类信息界面大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"296617056"}
+    },
+    {
+      "NamespaceHash": "F04A61E0470EDF644ABAFBBF4830A452",
+      "Source": "GPS UI Size",
+      "Trans": {"SC":"GPS用户界面大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3111746946"}
+    },
+    {
+      "NamespaceHash": "DC4C24074A6620FD1C3085B98528F703",
+      "Source": "Outline Aggro Color",
+      "Trans": {"SC":"显示敌对目标描边颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2833815249"}
+    },
+    {
+      "NamespaceHash": "1660C1C74BA362500180378B5E53C748",
+      "Source": "Outline Neutral Color",
+      "Trans": {"SC":"显示中立目标描边颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"454857091"}
+    },
+    {
+      "NamespaceHash": "D5BC47744C1E1B71D84A59862FF3475D",
+      "Source": "Outline Tame Color",
+      "Trans": {"SC":"显示已驯服目标描边颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2239665413"}
+    },
+    {
+      "NamespaceHash": "CEB60BE9438F88437B21C2832E354E1C",
+      "Source": "Outline Undetected Color",
+      "Trans": {"SC":"显示未察觉目标描边颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1142305142"}
+    },
+    {
+      "NamespaceHash": "16AD91724A399EA7FFDB98815ECCBDD6",
+      "Source": "Main UI Close Delay:",
+      "Trans": {"SC":"目标界面消失延迟:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3571138112"}
+    },
+    {
+      "NamespaceHash": "A78FEC23457E8AC74813AC9438FACB71",
+      "Source": "GPS Position:",
+      "Trans": {"SC":"GPS位置:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3244890414"}
+    },
+    {
+      "NamespaceHash": "CD58F68F4B6109CA84AB57AE7D0703DE",
+      "Source": "Top Middle",
+      "Trans": {"SC":"顶部中间位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1276314801"}
+    },
+    {
+      "NamespaceHash": "483C424840E353EE53A4E89592BB14FA",
+      "Source": "Top Right",
+      "Trans": {"SC":"右上角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1779200437"}
+    },
+    {
+      "NamespaceHash": "ABF38AC348ACF8E5E777B8ADED93E6BE",
+      "Source": "Middle Right",
+      "Trans": {"SC":"右侧中间位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2785058992"}
+    },
+    {
+      "NamespaceHash": "BEF8ABB244535A6ED21C91A9EA4C43BE",
+      "Source": "Bottom Right",
+      "Trans": {"SC":"右下角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"218977980"}
+    },
+    {
+      "NamespaceHash": "36C540604EC168ABF61315BF22B29368",
+      "Source": "Bottom Left",
+      "Trans": {"SC":"左下角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"999357000"}
+    },
+    {
+      "NamespaceHash": "4DE453144D0572114F1A37916A854F70",
+      "Source": "Top Left",
+      "Trans": {"SC":"左上角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"607383221"}
+    },
+    {
+      "NamespaceHash": "AEAC6B954ABF0CA523EE88B4E934E717",
+      "Source": "UI Position:",
+      "Trans": {"SC":"用户界面位置:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1244680167"}
+    },
+    {
+      "NamespaceHash": "2550F0D144198C6025272CB6C18A22C9",
+      "Source": "Left Middle",
+      "Trans": {"SC":"左侧中间位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1940761438"}
+    },
+    {
+      "NamespaceHash": "D62FA78C40E734EDCB5862A56BC750F2",
+      "Source": "Left Top",
+      "Trans": {"SC":"左上角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"33407877"}
+    },
+    {
+      "NamespaceHash": "E62815C04FA510B276B96C895A6A068C",
+      "Source": "Left Bottom",
+      "Trans": {"SC":"左下角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3047145772"}
+    },
+    {
+      "NamespaceHash": "0DB12DE1419B16F11B6E61A874572F63",
+      "Source": "Top Middle",
+      "Trans": {"SC":"顶部中间位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1276314801"}
+    },
+    {
+      "NamespaceHash": "060996A84B4AB7EE23D870A0D9B6F5CA",
+      "Source": "Right Top",
+      "Trans": {"SC":"右上角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2328771262"}
+    },
+    {
+      "NamespaceHash": "344DE52B40259E2FC4BF9198C47F4A54",
+      "Source": "Right Middle",
+      "Trans": {"SC":"右侧中间位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2203895572"}
+    },
+    {
+      "NamespaceHash": "C8E9C0014745D96E300773B32DC8C6F4",
+      "Source": "Right Bottom",
+      "Trans": {"SC":"右下角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1164881254"}
+    },
+    {
+      "NamespaceHash": "0A45EDB94664E30CD48732B01B9AC8AD",
+      "Source": "Bottom Middle",
+      "Trans": {"SC":"底部中间位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3335839460"}
+    },
+    {
+      "NamespaceHash": "A736C4654464A6E0F7A653BCD2AF108B",
+      "Source": "UI Position Offsets X/Y:",
+      "Trans": {"SC":"目标界面位置的 X/Y 轴偏移量:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2181062858"}
+    },
+    {
+      "NamespaceHash": "965FD247435EE74C5226A5801C19D346",
+      "Source": "Reset to Default",
+      "Trans": {"SC":"恢复默认设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1775499570"}
+    },
+    {
+      "NamespaceHash": "6213CD8E42FACA3246B9C99FF4B22D28",
+      "Source": "Reset UI Color",
+      "Trans": {"SC":"重置目标界面颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"237701225"}
+    },
+    {
+      "NamespaceHash": "9725606C46AED66B080DC8A7EE329A85",
+      "Source": "Reset UI Text Color",
+      "Trans": {"SC":"重置目标界面文本颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2411575670"}
+    },
+    {
+      "NamespaceHash": "D0A193F041CDEB6A7F6C8AB5D65913BE",
+      "Source": "Reset Outline Colors",
+      "Trans": {"SC":"重置描边颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1185564543"}
+    },
+    {
+      "NamespaceHash": "8F57488A4A06A71B89A33598FA4BE507",
+      "Source": "Save Changes",
+      "Trans": {"SC":"保存更改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2422785704"}
+    },
+    {
+      "NamespaceHash": "C8742B25443FD48B7FB6C3AFD4C3D625",
+      "Source": "Donate",
+      "Trans": {"SC":"捐赠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"827780582"}
+    },
+    {
+      "NamespaceHash": "4458577A42865C463709159BEFA3DD17",
+      "Source": "Done",
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2242623465"}
+    },
+    {
+      "NamespaceHash": "4FA413B4472E2F2574E6AFAAF88E2BFA",
+      "Source": "Current:",
+      "Trans": {"SC":"当前:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2888575118"}
+    },
+    {
+      "NamespaceHash": "CE60D6874AED89144C0FB08C668E357E",
+      "Source": "Optimal:",
+      "Trans": {"SC":"最佳:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4118824756"}
+    },
+    {
+      "NamespaceHash": "422CEDB2416AC094EE9EF6AE472EE2E5",
+      "Source": "Click to restore old color",
+      "Trans": {"SC":"点击恢复旧颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1471772956"}
+    },
+    {
+      "NamespaceHash": "4764206A46D8BA04942129AFD8C3BADE",
+      "Source": "Crosshair Size",
+      "Trans": {"SC":"准星大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2371848828"}
+    },
+    {
+      "NamespaceHash": "D6181C614FDC31BB77C01EA91D872C8F",
+      "Source": "Hue",
+      "Trans": {"SC":"色调","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2784141220"}
+    },
+    {
+      "NamespaceHash": "0EC507E14A1A7DAC39976DB02A84923E",
+      "Source": "Red Channel",
+      "Trans": {"SC":"红色通道","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2359829815"}
+    },
+    {
+      "NamespaceHash": "D3976F784040FBB8F5AED092781BE69C",
+      "Source": "Blue Channel",
+      "Trans": {"SC":"蓝色通道","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2012363357"}
+    },
+    {
+      "NamespaceHash": "985602894FDAE04A0E5EDA8318D56179",
+      "Source": "Green Channel",
+      "Trans": {"SC":"绿色通道","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3491200405"}
+    },
+    {
+      "NamespaceHash": "9D1072C44CB64D9B0651438D285904AA",
+      "Source": "Lat:",
+      "Trans": {"SC":"纬度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1637665199"}
+    },
+    {
+      "NamespaceHash": "B47CF5BE4594D9C5EC9AD5A967A1FB57",
+      "Source": "Lon:",
+      "Trans": {"SC":"经度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1708537682"}
+    },
+    {
+      "NamespaceHash": "8B3C22564EB0BAC76D841F9219169C73",
+      "Source": "Saturation",
+      "Trans": {"SC":"饱和度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3522418505"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::A856751E46D2A5F81507C28A4EABDCA5",
+      "Source": "Ready to Mate",
+      "Trans": {"SC":"现在可交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1091296785"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::E88EDB804335CA3D1F056B952378BAE4",
+      "Source": "Mating:",
+      "Trans": {"SC":"交配中:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1596165513"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::DAD9896246E0475D25E9728D1482FEAC",
+      "Source": "Taming:",
+      "Trans": {"SC":"驯服中:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1344016253"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4CBD2C414DEBFE2E8C2179BBB6DBB02E",
+      "Source": "Can Mate in:",
+      "Trans": {"SC":"可交配于:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"582383112"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::F33AE4C74FB72C451BF9CA85D143DFF8",
+      "Source": "Maturing:",
+      "Trans": {"SC":"成长中:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1446742149"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::48029DF44216930E9BEEE0B660BBE86F",
+      "Source": "Needs Care:",
+      "Trans": {"SC":"需要关注:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2418736595"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1996D76E4F768576EBDEB9BDF6CBD3F0",
+      "Source": "Needs Care in:",
+      "Trans": {"SC":"关注倒计时:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2110956120"}
+    },
+    {
+      "NamespaceHash": "Content::3279592983",
+      "Source": "Super Spyglass Plus",
+      "Trans": {"SC":"S镜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2359264299",
+      "Source": "Fire - Toggle Target Lock<#RN#>Alt+MWheel Toggle Scan<#RN#>Alt+MWheel Up or Down Zoom<#RN#>Alt+Right Mouse Reset Zoom<#RN#>Alt+Num- Toggle Structure Info<#RN#>Alt+Num* Toggle Dino Owner Info<#RN#>Alt+Num/ Toggle UI Anims On/Off<#RN#>Alt+Num+ Toggle Compare On/Off<#RN#>Shift+F3 Predator Vision<#RN#>Shift+F4 Night Vision<#RN#>Shift+F5 Toggle Outlines<#RN#>Alt+Home/pos1 Opens the User Settings Menu",
+      "Trans": {"SC":"综合了多种功能的工具。可提多种视觉以及驯服和建筑的详细分析。<#RN#><#RN#>使用 <RichColor Color=\"0, 1, 1, 1\">鼠标左键</> 切换目标锁定。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标中键</> 切换扫描分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">滑动鼠标滚轮</> 进行缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标右键</> 重置缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘-</> 切换建筑详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘*</> 切换恐龙详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘/</> 切换UI动画显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘+</> 切换对比。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F3</> SSP捕猎视觉。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F4</> SSP夜视。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F5</> 切换轮廓显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">Home</> / <RichColor Color=\"0, 1, 1, 1\">pos1</> 打开用户菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3462094556",
+      "Source": "Melee - Toggle Target Lock<#RN#>Alt+MWheel Toggle Scan<#RN#>Alt+MWheel Up Zoom In<#RN#>Alt+Right Mouse Reset Zoom<#RN#>Alt+Num- Toggle Structure Info<#RN#>Alt+Num* Toggle Dino Owner Info<#RN#>Alt+Num/ Toggle UI Anims On/Off<#RN#>Alt+Num+ Toggle Compare On/Off<#RN#>Shift+F3 Predator Vision<#RN#>Shift+F4 Night Vision<#RN#>Shift+F5 Toggle Outlines<#RN#>Alt+Home Opens the User Settings Menu",
+      "Trans": {"SC":"综合了多种功能的工具。可提多种视觉以及驯服和建筑的详细分析。<#RN#><#RN#>使用 <RichColor Color=\"0, 1, 1, 1\">近战</> 切换目标锁定。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标中键</> 切换扫描分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">滑动鼠标滚轮</> 进行缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标右键</> 重置缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘-</> 切换建筑详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘*</> 切换恐龙详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘/</> 切换UI动画显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘+</> 切换对比。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F3</> SSP捕猎视觉。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F4</> SSP夜视。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F5</> 切换轮廓显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">Home</> 打开用户菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1941330439",
+      "Source": "Melee - Toggle Target Lock<#RN#>Alt+MWheel Toggle Scan<#RN#>Alt+MWheel Up Zoom In<#RN#>Alt+Right Mouse Reset Zoom<#RN#>Alt+Num- Toggle Structure Info<#RN#>Alt+Num* Toggle Dino Owner Info<#RN#>Alt+Num/ Toggle UI Anims On/Off<#RN#>Alt+Num+ Toggle Compare On/Off<#RN#>Shift+F6 Predator Vision<#RN#>Shift+F4 Night Vision<#RN#>Shift+F5 Toggle Outlines<#RN#>Alt+Home Opens the User Settings Menu",
+      "Trans": {"SC":"综合了多种功能的工具。可提多种视觉以及驯服和建筑的详细分析。<#RN#><#RN#>使用 <RichColor Color=\"0, 1, 1, 1\">近战</> 切换目标锁定。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标中键</> 切换扫描分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">滑动鼠标滚轮</> 进行缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标右键</> 重置缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘-</> 切换建筑详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘*</> 切换恐龙详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘/</> 切换UI动画显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘+</> 切换对比。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F6</> SSP捕猎视觉。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F4</> SSP夜视。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F5</> 切换轮廓显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">Home</> 打开用户菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3263265769",
+      "Source": "Fire - Toggle Target Lock<#RN#>Alt+MWheel Toggle Scan<#RN#>Alt+MWheel Up or Down Zoom<#RN#>Alt+Right Mouse Reset Zoom<#RN#>Alt+Num- Toggle Structure Info<#RN#>Alt+Num* Toggle Dino Owner Info<#RN#>Alt+Num/ Toggle UI Anims On/Off<#RN#>Alt+Num+ Toggle Compare On/Off<#RN#>Shift+F6 Predator Vision<#RN#>Shift+F4 Night Vision<#RN#>Shift+F5 Toggle Outlines<#RN#>Alt+Home/pos1 Opens the User Settings Menu",
+      "Trans": {"SC":"综合了多种功能的工具。可提多种视觉以及驯服和建筑的详细分析。<#RN#><#RN#>使用 <RichColor Color=\"0, 1, 1, 1\">鼠标左键</> 切换目标锁定。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标中键</> 切换扫描分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">滑动鼠标滚轮</> 进行缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">鼠标右键</> 重置缩放。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘-</> 切换建筑详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘*</> 切换恐龙详细分析。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘/</> 切换UI动画显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">小键盘+</> 切换对比。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F6</> SSP捕猎视觉。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F4</> SSP夜视。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Shift</> + <RichColor Color=\"0, 1, 1, 1\">F5</> 切换轮廓显示。<#RN#>使用 <RichColor Color=\"1, .1, .1, 2\">Alt</> + <RichColor Color=\"0, 1, 1, 1\">Home</> / <RichColor Color=\"0, 1, 1, 1\">pos1</> 打开用户菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1067992219",
+      "Source": "SSP Predator Vision",
+      "Trans": {"SC":"SSP捕猎视觉","JA":"SSP捕獵視覺"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1896133729",
+      "Source": "Disable Night Vision:",
+      "Trans": {"SC":"禁用夜视功能:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2391210099",
+      "Source": "Disable Predator Vision:",
+      "Trans": {"SC":"禁用捕猎视觉功能:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2974020304",
+      "Source": "Disable Outline Vision:",
+      "Trans": {"SC":"禁用轮廓显示功能:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::67129265",
+      "Source": "Outline Range:",
+      "Trans": {"SC":"轮廓生效范围:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3635654115",
+      "Source": "Show Outlines through Objects:",
+      "Trans": {"SC":"轮廓透视:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1405611913",
+      "Source": "Show Outline Fill through Objects:",
+      "Trans": {"SC":"轮廓填充透视:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1830453951",
+      "Source": "Disable Supply Drop Info:",
+      "Trans": {"SC":"禁用空投物资信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3835569867",
+      "Source": "Disable Item Cache Info:",
+      "Trans": {"SC":"禁用箱子信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1018417057",
+      "Source": "Disable Structure Info:",
+      "Trans": {"SC":"禁用建筑信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1106991594",
+      "Source": "Disable Buff Info:",
+      "Trans": {"SC":"禁用Buff信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2639173687",
+      "Source": "Disable Tame Food Info:",
+      "Trans": {"SC":"禁用驯服食物信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1347938563",
+      "Source": "Disable Fertilized Egg / Gestation Info:",
+      "Trans": {"SC":"禁用孵蛋/妊娠信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3641613023",
+      "Source": "Disable Crosshair:",
+      "Trans": {"SC":"禁用准星:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2540140793",
+      "Source": "Disable GPS:",
+      "Trans": {"SC":"禁用GPS:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4081759698",
+      "Source": "Disable Spyglass on Enemys:",
+      "Trans": {"SC":"望远镜对敌人不生效:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3825039071",
+      "Source": "Only Show Stats for Tamed Creatures:",
+      "Trans": {"SC":"仅显示已驯服的生物属性信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::932776988",
+      "Source": "Only show Health for Enemy Tribe Creatures:",
+      "Trans": {"SC":"仅显示敌对部落生物的生命值:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3048859941",
+      "Source": "Don't show any Stats for Wild Creatures:",
+      "Trans": {"SC":"不显示野生生物的属性信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3961304625",
+      "Source": "Disable Gene Trait Info:",
+      "Trans": {"SC":"禁用显示基因特性信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3007392080",
+      "Source": "Disable Stat Compare:",
+      "Trans": {"SC":"禁用属性对比:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "F6A72D7E48D50F7C3BB74E94ACD5AA00",
+      "Source": "GPS UI Size",
+      "Trans": {"SC":"GPS界面大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3111746946"}
+    },
+    {
+      "NamespaceHash": "344142424623FBC271BEFA83C9988AEA",
+      "Source": "NEW",
+      "Trans": {"SC":"新的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2501925139"}
+    },
+    {
+      "NamespaceHash": "81067F764FFC3DF41819CC8FF155A452",
+      "Source": "OLD",
+      "Trans": {"SC":"旧的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1399256614"}
+    },
+    {
+      "NamespaceHash": "36836A604BDD05F74A544D8F9A00BDA4",
+      "Source": "Admin Settings",
+      "Trans": {"SC":"管理员设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"932630994"}
+    }
+  ]
+}

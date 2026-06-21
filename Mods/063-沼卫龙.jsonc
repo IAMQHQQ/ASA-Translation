@@ -1,0 +1,322 @@
+{
+  "Hapipalus": [
+    {
+      "NamespaceHash": "Content::740583643",
+      "Source": "Arkology Hapipalus",
+      "Trans": {"SC":"方舟学沼卫龙","JA":"方舟学沼衛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3759938132",
+      "Source": "Hapipalus Queen",
+      "Trans": {"SC":"沼卫龙女王","JA":"沼衛龙女王"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3033037714",
+      "Source": "Hapipalus",
+      "Trans": {"SC":"沼卫龙","JA":"沼衛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3760123515",
+      "Source": "Hapipalus Statue",
+      "Trans": {"SC":"沼卫龙雕像","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4053361518",
+      "Source": "Hapipalus Queen Flag",
+      "Trans": {"SC":"沼卫龙女王旗帜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1001721939",
+      "Source": "Beta Hapipalus Queen Trophy",
+      "Trans": {"SC":"中等沼卫龙女王战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2742307262",
+      "Source": "Gamma Hapipalus Queen Trophy",
+      "Trans": {"SC":"简单沼卫龙女王战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1559542003",
+      "Source": "Overseer's Hapipalus Queen Trophy",
+      "Trans": {"SC":"监察者沼卫龙女王战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2568666254",
+      "Source": "Hapipalus Sail",
+      "Trans": {"SC":"沼卫龙背脊","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1794338195",
+      "Source": "Implant of the Hapipalus Queen",
+      "Trans": {"SC":"沼卫龙女王植入体","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2486520336",
+      "Source": "A mysterious implant found in the heart of the Hapipalus Queen. <#RN#><#RN#>It still hums of energy & sounds of a heart beat. I wonder if it still has a use...<#RN#><#RN#>-------!! rdeUn --------- -- ------------ ------ --- -------- ---- ---- ------- ---------- ----: --------------!!",
+      "Trans": {"SC":"一种在沼卫龙女王心脏中发现的神秘植入体。<#RN#><#RN#>它仍散发着能量的嗡鸣与心跳声。我好奇它是否还有用途……<#RN#><#RN#>-------!! rdeUn --------- -- ------------ ------ --- -------- ---- ---- ------- ---------- ----: --------------!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1550891008",
+      "Source": "Hapipalus Egg",
+      "Trans": {"SC":"沼卫龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::706778337",
+      "Source": "Chibi-Hapipalus",
+      "Trans": {"SC":"袖珍-沼卫龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1379528846",
+      "Source": "Fertilized Hapipalus Egg",
+      "Trans": {"SC":"受精的沼卫龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4141790386",
+      "Source": "Fertilized Arkology Hapipalus Egg",
+      "Trans": {"SC":"受精的方舟学沼卫龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2353708634",
+      "Source": "Chibi-Arkology Hapipalus",
+      "Trans": {"SC":"袖珍-方舟学沼卫龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::844820285",
+      "Source": "Chibi-Alpha Hapipalus Queen",
+      "Trans": {"SC":"袖珍-困难沼卫龙女王","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3511760068",
+      "Source": "Chibi-Beta Hapipalus Queen",
+      "Trans": {"SC":"袖珍-中等沼卫龙女王","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::971823598",
+      "Source": "Chibi-Gamma Hapipalus Queen",
+      "Trans": {"SC":"袖珍-简单沼卫龙女王","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3539078738",
+      "Source": "Chibi-Overseer's Hapipalus Queen",
+      "Trans": {"SC":"袖珍-监察者沼卫龙女王","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2049685844",
+      "Source": "Alpha Hapipalus Queen Charm",
+      "Trans": {"SC":"困难沼卫龙女王护符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1151739762",
+      "Source": "Combine various Apex Drops to create this charm to summon the Hapipalus Queen Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be very difficult. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个护符，以召唤沼卫龙女王 Boss，挑战残酷但击败后奖励丰厚。<#RN#><#RN#>警告：这个 Boss 难度极高。切勿低估。仅在完全准备好后召唤。<#RN#><#RN#>注意：若安装或未安装《Arkology: New Encounters Variant Mod》模组，制作成本会变化。（变化不会显示在印痕列表中）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1993277699",
+      "Source": "Hapipalus Queen Wooden Mask",
+      "Trans": {"SC":"沼卫龙女王木制面具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1706866305",
+      "Source": "Wooden Replica of the Mask worn by the Hapipalus Queen Boss. Put it on a hat as a skin or display it on a Trophy Wall Mount!!",
+      "Trans": {"SC":"沼卫龙女王 Boss 所戴面具的木制复制品。可作为皮肤戴在帽子上，或展示在战利品墙架上！！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::966196208",
+      "Source": "This flag is proof that you have defeated the Hapipalus Queen.",
+      "Trans": {"SC":"这面旗帜证明你已经击败了沼卫龙女王。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2701912899",
+      "Source": "Gamma Hapipalus Queen Charm (Non AB)",
+      "Trans": {"SC":"简单沼卫龙女王护符（非畸变版）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::817011078",
+      "Source": "Combine various Apex Drops to create this charm to summon the Hapipalus Queen Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be very difficult. Do not underestimate it. Only Summon if absolutely prepared.",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个护符，以召唤沼卫龙女王 Boss，挑战残酷但击败后奖励丰厚。<#RN#><#RN#>警告：这个 Boss 难度极高。切勿低估。仅在完全准备好后召唤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::221465332",
+      "Source": "This statue is proof that you have defeated the Overseer's Hapipalus Queen.",
+      "Trans": {"SC":"这座雕像证明你已经击败了监察者沼卫龙女王。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3476544368",
+      "Source": "Beta Hapipalus Queen Charm",
+      "Trans": {"SC":"中等沼卫龙女王护符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::46804266",
+      "Source": "Alpha Hapipalus Queen Trophy",
+      "Trans": {"SC":"困难沼卫龙女王战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1607290844",
+      "Source": "Beta Hapipalus Queen Charm (Non Aberration Version)",
+      "Trans": {"SC":"中等沼卫龙女王护符（非畸变版）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2690965097",
+      "Source": "Overseer's Hapipalus Queen Charm",
+      "Trans": {"SC":"监察者沼卫龙女王护符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3989436378",
+      "Source": "Combine various Apex Drops to create this charm to summon the Hapipalus Queen Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Hapipalus Queen. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个护符，以召唤沼卫龙女王 Boss，挑战残酷但击败后奖励丰厚。<#RN#><#RN#>警告：这个 Boss 的难度是精英沼卫龙女王的两倍。切勿低估。仅在完全准备好后召唤。<#RN#><#RN#>注意：若安装或未安装《Arkology: New Encounters Variant Mod》模组，制作成本会变化。（变化不会显示在印痕列表中）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1661337579",
+      "Source": "Overseer's Hapipalus Queen Charm (Non Aberration Version)",
+      "Trans": {"SC":"监察者沼卫龙女王护符（非畸变版）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::424302",
+      "Source": "Combine various Apex Drops to create this charm to summon the Hapipalus Queen Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Hapipalus Queen. Do not underestimate it. Only Summon if absolutely prepared.",
+      "Trans": {"SC":"组合各种顶级掉落物来制作这个护符，以召唤沼卫龙女王 Boss，挑战残酷但击败后奖励丰厚。<#RN#><#RN#>警告：这个 Boss 的难度是精英沼卫龙女王的两倍。切勿低估。仅在完全准备好后召唤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2600390760",
+      "Source": "Gamma Hapipalus Queen Charm",
+      "Trans": {"SC":"简单沼卫龙女王护符","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3791214184",
+      "Source": "Alpha Hapipalus Queen Charm (Non Aberration Version)",
+      "Trans": {"SC":"困难沼卫龙女王护符（非畸变版）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2396475009",
+      "Source": "Hapipalus Queen Costume",
+      "Trans": {"SC":"沼卫龙女王套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::195197669",
+      "Source": "This costume can be used to make your Hapipalus look like the Hapipalus Queen Boss",
+      "Trans": {"SC":"这套服饰可让你的沼卫龙看起来就像沼卫龙女王 Boss。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1055362987",
+      "Source": "Hapipalus Saddle",
+      "Trans": {"SC":"沼卫龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2610193878",
+      "Source": "Equip a Hapipalus with this to ride it.",
+      "Trans": {"SC":"装备到沼卫龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2005523830",
+      "Source": "Hapipalus Aberrant Saddle",
+      "Trans": {"SC":"沼卫龙畸变鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2549043821",
+      "Source": "Equip a Hapipalus with this saddle to ride it. Gives your Hapipalus a more Aberrant look with a saddle covered in Aberrant Wood.<#RN#><#RN#>This saddle can only be obtained by defeating Alpha Hapipalus Boss.<#RN#><#RN#>A Blueprint of this saddle can only be obtained by defeating the Overseer's Hapipalus Boss.",
+      "Trans": {"SC":"装备到沼卫龙上以骑乘。让你的沼卫龙外观更畸变，鞍身覆盖畸变木材。<#RN#><#RN#>这个鞍只能通过击败精英沼卫龙 Boss 获得。<#RN#><#RN#>这个鞍的蓝图只能通过击败监察者的沼卫龙 Boss 获得。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::734130653",
+      "Source": "Hyper Hydrated",
+      "Trans": {"SC":"超湿润","JA":"超湿潤"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::564272518",
+      "Source": "Your dino's Speed, Health Regeneration, and Damage are boosted! 20% stronger than standard Hydrated buff!",
+      "Trans": {"SC":"你的恐龙的速度、生命值再生和伤害都得到了提升！比标准的湿润增益强20%！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::578152836",
+      "Source": "Hyper Radiation Sickness",
+      "Trans": {"SC":"超辐射病","JA":"超輻射病"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3777401103",
+      "Source": "Applies Rapid damage over time to death",
+      "Trans": {"SC":"随时间造成快速伤害直至死亡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "7000211B429E9FB49616C8B5F594F067",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "5439CF60425469BF37F3B59D965D143F",
+      "Source": "Claw Swipe",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2380052121"}
+    },
+    {
+      "NamespaceHash": "00BFF7094336B1B5C39443AC9651989F",
+      "Source": "Tail",
+      "Trans": {"SC":"尾击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4251983098"}
+    },
+    {
+      "NamespaceHash": "238D28D9476981FB5B3584B2BC84A39C",
+      "Source": "Scalding Fire",
+      "Trans": {"SC":"灼热火焰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3646207865"}
+    },
+    {
+      "NamespaceHash": "7134245344A7B5C335D9D0B7601A1591",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::8A6A0EED47F04949EC08FCBB4D6A5062",
+      "Source": "Time Left: {0}",
+      "Trans": {"SC":"剩余时间：{0}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"562339442"}
+    }
+  ]
+}

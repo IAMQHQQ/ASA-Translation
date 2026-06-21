@@ -1,0 +1,538 @@
+{
+  "[T.A.C] Elemental Raptors": [
+    {
+      "NamespaceHash": "Content::1861715800",
+      "Source": "Alpha Cryoraptor",
+      "Trans": {"SC":"精英冰盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4259866743",
+      "Source": "Alpha Venoraptor",
+      "Trans": {"SC":"精英毒盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4174334601",
+      "Source": "Electroraptor",
+      "Trans": {"SC":"电盗龙","JA":"電盗龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2324610297",
+      "Source": "MasterRaptor",
+      "Trans": {"SC":"主宰盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2397553173",
+      "Source": "Alpha Pyroraptor",
+      "Trans": {"SC":"精英火盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::423395934",
+      "Source": "Venoraptor",
+      "Trans": {"SC":"毒盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3676488891",
+      "Source": "Hydroraptor",
+      "Trans": {"SC":"水盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2317577585",
+      "Source": "Cryoraptor",
+      "Trans": {"SC":"冰盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2123979198",
+      "Source": "Fertilized Cryoraptor Egg",
+      "Trans": {"SC":"受精的冰盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2482016414",
+      "Source": "Venoraptor Egg",
+      "Trans": {"SC":"毒盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::654070949",
+      "Source": "Fertilized Venoraptor Egg",
+      "Trans": {"SC":"受精的毒盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1317267504",
+      "Source": "Elemental Stone Arrow",
+      "Trans": {"SC":"元素石箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2323200099",
+      "Source": "Elemental Dart",
+      "Trans": {"SC":"元素飞镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1258405719",
+      "Source": "A dart full of refined Elemental Essense, inject on a Elemental Raptor to enrage it, must be important for something",
+      "Trans": {"SC":"注满精炼元素精华的飞镖，注射到元素盗龙体内会使其暴怒，想必能派上大用场。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::333961594",
+      "Source": "A potent dart full of tranquilizing poison. For use in a FA FAL. Can not be used with attachments.",
+      "Trans": {"SC":"盛满强效麻醉剂的飞镖，适配 FA FAL 步枪，不可装配任何配件。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1316445452",
+      "Source": "Cryoraptor Saddle",
+      "Trans": {"SC":"冰盗龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3561637401",
+      "Source": "Equip a Cryoraptor with this to ride it.",
+      "Trans": {"SC":"给冰盗龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::103642531",
+      "Source": "Venoraptor Saddle",
+      "Trans": {"SC":"毒盗龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4243925107",
+      "Source": "Equip a Venoraptor with this to ride it.",
+      "Trans": {"SC":"给毒盗龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3609875850",
+      "Source": "Electroraptor Egg",
+      "Trans": {"SC":"电盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3140418862",
+      "Source": "Fertilized Electroraptor Egg",
+      "Trans": {"SC":"受精的电盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3028740719",
+      "Source": "Hydroraptor Egg",
+      "Trans": {"SC":"水盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::313828188",
+      "Source": "Fertilized Hydroraptor Egg",
+      "Trans": {"SC":"受精的水盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::643788264",
+      "Source": "Cryoraptor Sickle Claw",
+      "Trans": {"SC":"冰盗龙镰爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::957720034",
+      "Source": "Venoraptor Sickle Claw",
+      "Trans": {"SC":"毒盗龙镰爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::885891817",
+      "Source": "Pyroraptor Sickle Claw",
+      "Trans": {"SC":"火盗龙镰爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2072986565",
+      "Source": "Cryoraptor Sickle Claw, Pyroraptor Sickle Claw, or Venoraptor Sickle Claw",
+      "Trans": {"SC":"冰盗龙镰爪、火盗龙镰爪或毒盗龙镰爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3453040871",
+      "Source": "Pyroraptor Elemental Dust",
+      "Trans": {"SC":"火盗龙元素粉尘","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1238232702",
+      "Source": "Elemental Dust",
+      "Trans": {"SC":"元素粉尘","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2006874276",
+      "Source": "Crushed up Elemental Raptor Sickle Claw, If prepared correctly it can beused for the Elemental Dart",
+      "Trans": {"SC":"由元素盗龙镰爪研磨制成，若调配得当，可用于制作元素飞镖。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::592289309",
+      "Source": "Cryoraptor Elemental Dust",
+      "Trans": {"SC":"冰盗龙元素粉尘","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::686924160",
+      "Source": "Venoraptor Elemental Dust",
+      "Trans": {"SC":"毒盗龙元素粉尘","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::3430389146",
+      "Source": "FA Val",
+      "Trans": {"SC":"FA Val 步枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2202532451",
+      "Source": "Venoraptor Boomerang",
+      "Trans": {"SC":"毒盗龙回旋镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2201802371",
+      "Source": "Cryoraptor SickleClaw Climbing Pick",
+      "Trans": {"SC":"冰盗龙镰爪登山镐","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::1182795326",
+      "Source": "Pyroraptor Sickle Sword",
+      "Trans": {"SC":"火盗龙镰剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2041606333",
+      "Source": "A Pyroraptor Sickle Claw repurposed into a sword, It still has some Elemental power left inside",
+      "Trans": {"SC":"由火盗龙镰爪改造而成的长剑，内部仍残留着些许元素之力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3527954112",
+      "Source": "Toxic Form",
+      "Trans": {"SC":"剧毒形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::384490148",
+      "Source": "Venoraptor is excreating toxins and empowering itself and gaing access to new poison abilities.",
+      "Trans": {"SC":"毒盗龙正在分泌毒素，强化自身并解锁全新毒系技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::2446748600",
+      "Source": "Igniting",
+      "Trans": {"SC":"正在灼烧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::542525432",
+      "Source": "Pyroraptor Insulation",
+      "Trans": {"SC":"火盗龙隔热性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::574395128",
+      "Source": "Protection from the elements",
+      "Trans": {"SC":"可抵御极端天气影响","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::1969829387",
+      "Source": "Pyroraptors Embrace",
+      "Trans": {"SC":"火盗龙之拥","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::627649539",
+      "Source": "Venoraptor Poison Insulation",
+      "Trans": {"SC":"毒盗龙防毒抗性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3511628479",
+      "Source": "Protection from Poisons",
+      "Trans": {"SC":"可抵御毒素侵袭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3344841044",
+      "Source": "Venom Glands",
+      "Trans": {"SC":"毒囊蓄能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::120059114",
+      "Source": "Venoraptor is slowly producing Venom.",
+      "Trans": {"SC":"毒盗龙正在缓慢分泌毒液。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::612317053",
+      "Source": "Empty Glands",
+      "Trans": {"SC":"毒囊枯竭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4146261923",
+      "Source": "Venoraptor spent all its venom. It needs a moment before it can start producing it again.",
+      "Trans": {"SC":"毒盗龙已耗尽所有毒液，需要一段时间才能再次分泌。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3940643542",
+      "Source": "Empty Venom Glands",
+      "Trans": {"SC":"毒液耗尽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3558047421",
+      "Source": "Venooraptor has used up all it's Venom. It needs a moment before it can start producing it again.",
+      "Trans": {"SC":"毒盗龙已耗尽所有毒液，需要一段时间才能再次分泌。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2875874154",
+      "Source": "Ocianic form",
+      "Trans": {"SC":"海洋形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2520897201",
+      "Source": "Hydroraptor has coated itself in healing waters increasing it's health regereation and giving it access to water abilities.",
+      "Trans": {"SC":"水盗龙周身覆盖治愈之水，生命恢复速度提升，并解锁全新水系技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4047079744",
+      "Source": "Icy Glands",
+      "Trans": {"SC":"冰腺蓄能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4261425727",
+      "Source": "Cyroraptor is slowly producing cryofluid",
+      "Trans": {"SC":"冰盗龙正在缓慢生成低温液。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3782406142",
+      "Source": "Cryoraptor has used up all its cryo fluid. It needs a moment before it can start producing it again.",
+      "Trans": {"SC":"冰盗龙已耗尽所有低温液，需要一段时间才能再次生成。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1849670046",
+      "Source": "Cyroraptor Insulation",
+      "Trans": {"SC":"冰盗龙耐寒性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3705718219",
+      "Source": "Cryoraptors Embrace",
+      "Trans": {"SC":"冰盗龙庇护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::972019269",
+      "Source": "Ice Immunity and Increased Insulation ",
+      "Trans": {"SC":"免疫冰冻伤害，提升耐寒能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1285384377",
+      "Source": "Static Buildup",
+      "Trans": {"SC":"静电积蓄","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1820570249",
+      "Source": "Electroraptor is slowly producing electrical charge.",
+      "Trans": {"SC":"电盗龙正在缓慢积蓄电荷。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4282424399",
+      "Source": "Electroraptor has spent all its electric charge. It needs a moment before it can start producing it again.",
+      "Trans": {"SC":"电盗龙已耗尽所有电荷，需要一段时间才能再次积蓄。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2584315703",
+      "Source": "Static Form",
+      "Trans": {"SC":"静电形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4004155454",
+      "Source": "Electroraptor is charged up gaining speed and access to new electrical abilities.",
+      "Trans": {"SC":"电盗龙电荷充盈，移速提升并解锁全新电系技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1052727975",
+      "Source": "Storm Shield",
+      "Trans": {"SC":"雷霆护盾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2921379146",
+      "Source": "Electroraptor is protecting itself with an electric barrier, shocking opponents that hit it.",
+      "Trans": {"SC":"电盗龙张开电屏障护体，击中它的敌人会受到电击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1397625538",
+      "Source": "Exhausted",
+      "Trans": {"SC":"精疲力竭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2934387439",
+      "Source": "After an overflow of energy this raptor is exhausted.",
+      "Trans": {"SC":"能量过载后，这只盗龙陷入了疲惫状态。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3644826512",
+      "Source": "Elemental Shield",
+      "Trans": {"SC":"元素护盾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::885083427",
+      "Source": "Pyroraptor is defending itself with it's element",
+      "Trans": {"SC":"火盗龙运用自身元素之力形成护盾。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3953137847",
+      "Source": "Pyroraptor is slowly producing flammable skin oil.",
+      "Trans": {"SC":"火盗龙正在缓慢分泌易燃皮脂。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2903421777",
+      "Source": "Pyroraptor has burnt up all its skin oil. It needs a moment before it can start producing it again.",
+      "Trans": {"SC":"火盗龙已耗尽所有皮脂，需要一段时间才能再次分泌。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::2437500961",
+      "Source": "SPICY!",
+      "Trans": {"SC":"火辣！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1947632416",
+      "Source": "You're burning up!",
+      "Trans": {"SC":"你正在被烈火灼烧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3044374458",
+      "Source": "Elemental Supercharge!",
+      "Trans": {"SC":"元素暴走","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::393354262",
+      "Source": "This raptor is going berserk due to too much elemental power.",
+      "Trans": {"SC":"过量的元素之力让这只盗龙陷入了狂暴状态。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1623379621",
+      "Source": "Fire Shield",
+      "Trans": {"SC":"烈焰护盾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1185908109",
+      "Source": "Pyroraptor has cloaked itself in defensive flame reducing the damge it takes and reflecting some damage back at attackers.",
+      "Trans": {"SC":"火盗龙周身燃起防御烈焰，降低自身受到的伤害，并将部分伤害反弹给攻击者。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::466922679",
+      "Source": "Flaming form",
+      "Trans": {"SC":"烈焰形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2924360808",
+      "Source": "Pyroraptor has coated itself in flames increasing its damage and giving it access to new fire abilities.",
+      "Trans": {"SC":"火盗龙周身被烈焰包裹，攻击力提升并解锁全新火系技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4291862420",
+      "Source": "Moist skin",
+      "Trans": {"SC":"治愈液分泌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::321709673",
+      "Source": "Hydroraptor is slowly producing healing liquid.",
+      "Trans": {"SC":"水盗龙正在缓慢分泌治愈液。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1528624298",
+      "Source": "Hydroraptor has used up all it's Healing liquid. It needs a moment before it can start producing it again.",
+      "Trans": {"SC":"水盗龙已耗尽所有治愈液，需要一段时间才能再次分泌。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1138618105",
+      "Source": "Hydro Shield",
+      "Trans": {"SC":"水幕护盾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::609959020",
+      "Source": "Hydroraptor is protecting itself with a water barrier that prevents it from bleeding and regerates it's stamina.",
+      "Trans": {"SC":"水盗龙张开水屏障护体，免疫流血效果并恢复自身耐力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3995216986",
+      "Source": "Blizzard Form",
+      "Trans": {"SC":"凛冬形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::897572207",
+      "Source": "Cyroraptor is wrapped in cold reducing the damage it takes and unlocking new ice abilities.",
+      "Trans": {"SC":"冰盗龙周身寒气萦绕，受到的伤害降低并解锁全新冰系技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::619733529",
+      "Source": "Frozen Shield",
+      "Trans": {"SC":"寒冰护盾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1276228167",
+      "Source": "Cryoraptor has covered itself in a layer of defensive ice.",
+      "Trans": {"SC":"冰盗龙周身覆盖一层防御寒冰。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

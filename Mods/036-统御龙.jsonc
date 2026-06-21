@@ -1,0 +1,292 @@
+{
+  "统御龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::967331901",
+      "Source": "Aberrant Tyrannodominator",
+      "Trans": {"SC":"畸变统御龙","JA":"畸變統御龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::821400284",
+      "Source": "Tyrannodominator Tail Spikes",
+      "Trans": {"SC":"统御龙尾刺","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::752205793",
+      "Source": "Sundered Tyrannodominator",
+      "Trans": {"SC":"破碎统御龙","JA":"破碎統御龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::695121841",
+      "Source": "Alpha Tyrannodominator Tooth",
+      "Trans": {"SC":"精英统御龙牙齿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3979241515",
+      "Source": "Fertilized Sundered Tyrannodominator Egg",
+      "Trans": {"SC":"受精的破碎统御龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3656629388",
+      "Source": "RAAAAAAAAAAAAAAAA RAAAAAAAAAAAAAAAAAA AWRWIIIIIIIIIIIIIIALW NR{\"AKKKKKKKKKKKKK",
+      "Trans": {"SC":"啊啊啊啊啊啊 啊啊啊啊啊啊啊 嗷呜呜呜呜呜呜呜呜呜 嗯 啊啊啊啊啊啊啊啊啊","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::364454629",
+      "Source": "Tyrannodominator Grieves",
+      "Trans": {"SC":"统御龙护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3615532524",
+      "Source": "Tyrannodominator Helm",
+      "Trans": {"SC":"统御龙头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3576129898",
+      "Source": "Equip a Tyrannodominator with this to give it some extra head protection.",
+      "Trans": {"SC":"为统御龙装备这个头盔可为其头部提供额外防护。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3575668977",
+      "Source": "Tyrannodominator Gauntlets",
+      "Trans": {"SC":"统御龙护手","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3572265671",
+      "Source": "Sore Throat",
+      "Trans": {"SC":"喉咙痛","JA":"喉嚨痛"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3475964218",
+      "Source": "Tyrannodominator Egg",
+      "Trans": {"SC":"统御龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3368557372",
+      "Source": "Equip a Tyrannodominator with this to give it some extra leg protection.",
+      "Trans": {"SC":"为统御龙装备这个护腿可为其腿部提供额外防护。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3168158794",
+      "Source": "Elder Tyrannodominator",
+      "Trans": {"SC":"上古统御龙","JA":"上古統御龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3013455863",
+      "Source": "Basic Cannon Round, Can Be Used for Taming of Particular Creatures That Need Special Artillery to Take Down",
+      "Trans": {"SC":"基础加农炮弹，可用于驯服某些需要特殊火炮才能制服的特定生物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2912325957",
+      "Source": "CONSUME THIS ITEM TO SPAWN THE ELDER TYRANNODOMINATOR",
+      "Trans": {"SC":"消耗此物品以召唤上古统御龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2811960435",
+      "Source": "Cannon Rocket",
+      "Trans": {"SC":"加农火箭弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2810389832",
+      "Source": "Arkology Tyrannodominator",
+      "Trans": {"SC":"方舟学统御龙","JA":"方舟学統御龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2661797637",
+      "Source": "Scorched Tyrannodominator",
+      "Trans": {"SC":"焦土统御龙","JA":"焦土統御龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2528220392",
+      "Source": "Fertilized Scorched Tyrannodominator Egg",
+      "Trans": {"SC":"受精的焦土统御龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2487734518",
+      "Source": "Tyrannodominator",
+      "Trans": {"SC":"统御龙","JA":"統御龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::245540298",
+      "Source": "Elder Tyrannodominator Spawner",
+      "Trans": {"SC":"召唤上古统御龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2196593758",
+      "Source": "Gas Rocket",
+      "Trans": {"SC":"燃气火箭弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2107529903",
+      "Source": "Equip a Tyrannodominator with this to Give it some extra damage.",
+      "Trans": {"SC":"为统御龙装备这个尾刺以使其造成额外伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1914977889",
+      "Source": "Fertilized Aberrant Tyrannodominator Egg",
+      "Trans": {"SC":"受精的畸变统御龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1900967321",
+      "Source": "Gas Rocket, Can Be Used for Taming of Creatures",
+      "Trans": {"SC":"燃气火箭弹，可用于驯服生物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::18887855",
+      "Source": "MINI NUKE",
+      "Trans": {"SC":"微型核弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1683144880",
+      "Source": "Equip a Tyrannodominator with this to ride it.",
+      "Trans": {"SC":"装备到统御龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1597551350",
+      "Source": "Tyrannodominator Saddle",
+      "Trans": {"SC":"统御龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1470692034",
+      "Source": "Equip a Tyrannodominator to give some extra arm protection",
+      "Trans": {"SC":"为统御龙装备这个护手可为其手部提供额外防护。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1289553818",
+      "Source": "Fertilized Tyrannodominator Egg",
+      "Trans": {"SC":"受精的统御龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3954936426",
+      "Source": "Alpha Tyrannodominator",
+      "Trans": {"SC":"精英统御龙","JA":"精英統御龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "B0DC15EB46C453378B2F2288FAF93A91",
+      "Source": "Cosmetic Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1671473134"}
+    },
+    {
+      "NamespaceHash": "A4A27419409EA4CED64DDAB31465A66D",
+      "Source": "Seismic Tail Attack",
+      "Trans": {"SC":"裂地尾击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1097076285"}
+    },
+    {
+      "NamespaceHash": "57F127884A1C20D7D2ED22ACAB535C10",
+      "Source": "Explosive Roar",
+      "Trans": {"SC":"爆鸣怒吼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"705861656"}
+    },
+    {
+      "NamespaceHash": "244C919B4886CBE8BA4956878197C613",
+      "Source": "Claw Swipe",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2380052121"}
+    },
+    {
+      "NamespaceHash": "0F75FAFE4347CC0E75549F8172A4C022",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "E1A9941041CBEF93C98D1DB943E8B2DF",
+      "Source": "Hold Turn In Place",
+      "Trans": {"SC":"原地转向(按住)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2083144672"}
+    },
+    {
+      "NamespaceHash": "73536B0A46FF712A0D519481700838AA",
+      "Source": "Jump",
+      "Trans": {"SC":"跳跃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2857297041"}
+    },
+    {
+      "NamespaceHash": "9CE278A3433814B63B3A19BFEA68BF76",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "Content::515907733",
+      "Source": "Arm Attachment",
+      "Trans": {"SC":"手臂附件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::616656730",
+      "Source": "Adds %5 Dmg Reduction",
+      "Trans": {"SC":"增加5%伤害减免","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3446792045",
+      "Source": "Helm Attachment ",
+      "Trans": {"SC":"头盔附件","JA":"頭盔附件"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4129940245",
+      "Source": "Leg Attachment Buff",
+      "Trans": {"SC":"腿部附件增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2710391676",
+      "Source": "Adds 5% Dmg Reduction",
+      "Trans": {"SC":"增加5%伤害减免","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3133708035",
+      "Source": "Tail Attachment Buff",
+      "Trans": {"SC":"尾部附件增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2730299032",
+      "Source": "Adds %5 Dmg ",
+      "Trans": {"SC":"增加5%伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::494613638",
+      "Source": "Deafened",
+      "Trans": {"SC":"失聪","JA":"失聰"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

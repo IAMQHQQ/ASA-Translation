@@ -1,0 +1,16 @@
+{
+  "Alpha Everything": [
+    {
+      "NamespaceHash": "Content::405647517",
+      "Source": "Alpha Pistol",
+      "Trans": {"SC":"精英手枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1549637374",
+      "Source": "Use this gun to turn any target dino into an Alpha from the Alpha Everything mod. ",
+      "Trans": {"SC":"使用这把枪可将任意目标恐龙转化为精英万物(Alpha Everything)模组中的精英恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

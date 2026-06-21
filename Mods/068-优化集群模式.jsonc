@@ -1,0 +1,46 @@
+{
+  "BetterHordeMode": [
+    {
+      "NamespaceHash": "Content::2271949029",
+      "Source": "Boundaries Visible",
+      "Trans": {"SC":"边界可见","JA":"邊界可见"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4218028570",
+      "Source": "You can see the boundaries of your current horde event",
+      "Trans": {"SC":"你可以看到当前集群事件的边界","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3931211128",
+      "Source": "Horde Initialized",
+      "Trans": {"SC":"集群已初始化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2955375184",
+      "Source": "You initialized at the horde event core and are now using the extended event destruction range!",
+      "Trans": {"SC":"你已在集群事件核心初始化，现在正使用扩展的事件破坏范围！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2351822675",
+      "Source": "Horde Radar",
+      "Trans": {"SC":"集群雷达","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3497514498",
+      "Source": "Hey you! Yes, you! You're amazing and you matter! :)",
+      "Trans": {"SC":"嘿你！对，就是你！你很棒，你很重要！:)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1472793185",
+      "Source": "Horde Features Init",
+      "Trans": {"SC":"集群功能初始化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

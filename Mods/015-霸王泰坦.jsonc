@@ -1,0 +1,658 @@
+{
+  "霸王泰坦": [//2025.11.29
+    {
+      "NamespaceHash": "Content::3627634222",
+      "Source": "Fabricate Teraxititan Eggs",
+      "Trans": {"SC":"制作霸王泰坦蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1171252644",
+      "Source": "Teraxititan(Small) Egg AB",
+      "Trans": {"SC":"S-畸变霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1269167859",
+      "Source": "Teraxititan Egg",
+      "Trans": {"SC":"霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2164991982",
+      "Source": "Teraxititan",
+      "Trans": {"SC":"霸王泰坦","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3529704516",
+      "Source": "Fertilized Scorched Teraxititan(Small) Egg",
+      "Trans": {"SC":"受精的S-焦土霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2363099418",
+      "Source": "Fertilized Aberrant Teraxititan Egg(S)",
+      "Trans": {"SC":"受精的S-畸变霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1010917230",
+      "Source": "Fertilized Scorched Teraxititan Egg",
+      "Trans": {"SC":"受精的焦土霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::910527418",
+      "Source": "Fertilized Aberrant Teraxititan Egg",
+      "Trans": {"SC":"受精的畸变霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2471350070",
+      "Source": "Embryo-Chamber",
+      "Trans": {"SC":"基因胚胎仓","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1963873874",
+      "Source": "Bone-Pile-Carno",
+      "Trans": {"SC":"骨堆-肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2032623341",
+      "Source": "Carnotaurus Bone Pile",
+      "Trans": {"SC":"肉食牛龙骨堆","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3514175859",
+      "Source": "Raw Giga Genome",
+      "Trans": {"SC":"原始南方巨兽龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::703926865",
+      "Source": "Bone-Pile-Giga",
+      "Trans": {"SC":"骨堆-南方巨兽龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1046786295",
+      "Source": "Giganotosaurus Bone Pile",
+      "Trans": {"SC":"南方巨兽龙骨堆","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3734873693",
+      "Source": "Genome Splicer",
+      "Trans": {"SC":"基因分离器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1790242122",
+      "Source": "Refined Rex Head Genome",
+      "Trans": {"SC":"精炼基因组-霸王龙头骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3232484550",
+      "Source": "Scorched Teraxititan Egg",
+      "Trans": {"SC":"焦土霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::882145906",
+      "Source": "Scorched Teraxititan",
+      "Trans": {"SC":"焦土霸王泰坦","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3659308532",
+      "Source": "Raw Stegosaurus Genome",
+      "Trans": {"SC":"原始剑龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1853424039",
+      "Source": "Bone-Pile-Stego",
+      "Trans": {"SC":"骨堆-剑龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4255976325",
+      "Source": "Stegosaurus Bone Pile",
+      "Trans": {"SC":"剑龙骨堆","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3400472594",
+      "Source": "Aberrant Teraxititan Egg",
+      "Trans": {"SC":"畸变霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::500987025",
+      "Source": "Aberrant Teraxititan",
+      "Trans": {"SC":"畸变霸王泰坦","JA":"畸變霸王泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1518014618",
+      "Source": "Raw Rex Genome",
+      "Trans": {"SC":"原始霸王龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1918029815",
+      "Source": "Bone-Pile-Rex",
+      "Trans": {"SC":"骨堆-霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::24644448",
+      "Source": "Rex Bone Pile",
+      "Trans": {"SC":"霸王龙骨堆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2387941521",
+      "Source": "CONSUME THIS ITEM FOR THE FERTILIZED EGG TO DROP",
+      "Trans": {"SC":"按E使用这个物品就会掉落受精蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2338157437",
+      "Source": "Teraxititan(Small)",
+      "Trans": {"SC":"S-霸王泰坦","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::937136080",
+      "Source": "Scorched Teraxititan(Small)",
+      "Trans": {"SC":"S-焦土霸王泰坦","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1260531870",
+      "Source": "Aberrant Teraxititan(Small)",
+      "Trans": {"SC":"S-畸变霸王泰坦","JA":"S-畸變霸王泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3986145216",
+      "Source": "Fertilized Teraxititan Egg",
+      "Trans": {"SC":"受精的霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1010979958",
+      "Source": "Place materials in this to transmute Raw Gene substances with extreme efficiency!",
+      "Trans": {"SC":"将材料放入其中，以极高的效率转化原始基因物质！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::969209399",
+      "Source": "Teraxititan(Small) Egg",
+      "Trans": {"SC":"S-霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::813331587",
+      "Source": "Scorched Teraxititan(Small) Egg",
+      "Trans": {"SC":"S-焦土霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3424443992",
+      "Source": "Use this structure to craft the TERAXITITAN eggs",
+      "Trans": {"SC":"使用这个机器来制作霸王泰坦的蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2643154162",
+      "Source": "Cene Splicer",
+      "Trans": {"SC":"基因分离器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4020380490",
+      "Source": "Raw Carno Genome",
+      "Trans": {"SC":"原始肉食牛龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1987349244",
+      "Source": "Stego Genome",
+      "Trans": {"SC":"剑龙基因。","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1350883271",
+      "Source": "Terax Saddle",
+      "Trans": {"SC":"霸王泰坦鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1207391949",
+      "Source": "Teraxititan Helm",
+      "Trans": {"SC":"霸王泰坦头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1062497846",
+      "Source": "Teraxititan Embryo Chamber",
+      "Trans": {"SC":"基因胚胎仓","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3660561941",
+      "Source": "Fertilized Small Teraxititan Egg",
+      "Trans": {"SC":"受精的S-霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4027180258",
+      "Source": "Embryo Chamber",
+      "Trans": {"SC":"基因胚胎仓","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4100128167",
+      "Source": "Refined Basillisk Fang Genome",
+      "Trans": {"SC":"精炼帝蟒毒牙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1420068015",
+      "Source": "Refined Crab Claw Genome",
+      "Trans": {"SC":"精炼巨蟹鳌基因组","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2074332897",
+      "Source": "Refined DeathWorm Horn Genome",
+      "Trans": {"SC":"精炼死亡蠕虫角基因组","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::707070227",
+      "Source": "Refined Rex Arm Genome",
+      "Trans": {"SC":"精炼霸王龙手臂基因组","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1419648295",
+      "Source": "Refined Stegosaurus Genome",
+      "Trans": {"SC":"精炼剑龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::695597931",
+      "Source": "Stegosaurus Genome",
+      "Trans": {"SC":"剑龙基因组。","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3842408001",
+      "Source": "Refined Basillisk Scale Genome",
+      "Trans": {"SC":"精炼帝蟒鳞片基因组","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3938819158",
+      "Source": "Rex Genome",
+      "Trans": {"SC":"霸王龙基因组。","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::333263638",
+      "Source": "Refined Rex Genome",
+      "Trans": {"SC":"精炼霸王龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3034944147",
+      "Source": "Giga Genome",
+      "Trans": {"SC":"南方巨兽龙基因组。","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3148808722",
+      "Source": "Refined Giga Genome",
+      "Trans": {"SC":"精炼南方巨兽龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::187387176",
+      "Source": "Refined Giga Heart Genome",
+      "Trans": {"SC":"精炼南方巨兽龙心脏基因组","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3172633509",
+      "Source": "Carno Genome",
+      "Trans": {"SC":"肉食牛龙基因组。","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1142638224",
+      "Source": "Refined Carno Arm Genome",
+      "Trans": {"SC":"精炼肉食牛龙手臂基因组","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2412075029",
+      "Source": "Refined Carno Genome",
+      "Trans": {"SC":"精炼肉食牛龙基因","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::5399641",
+      "Source": "Element Breath",
+      "Trans": {"SC":"能量吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::861920006",
+      "Source": "Terax Rally Buff Teir 1",
+      "Trans": {"SC":"霸王泰坦集结增益Lv1","JA":"霸王泰坦集結增益Lv1"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::569013480",
+      "Source": "Terax Rally Buff Teir 2",
+      "Trans": {"SC":"霸王泰坦集结增益Lv2","JA":"霸王泰坦集結增益Lv2"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1106119850",
+      "Source": "Terax Rally Buff 3",
+      "Trans": {"SC":"霸王泰坦集结增益Lv3","JA":"霸王泰坦集結增益Lv3"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3694736403",
+      "Source": "Terax Rally Buff 4",
+      "Trans": {"SC":"霸王泰坦集结增益Lv4","JA":"霸王泰坦集結增益Lv4"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1686459254",
+      "Source": "Terax Rally Buff 5",
+      "Trans": {"SC":"霸王泰坦集结增益Lv5","JA":"霸王泰坦集結增益Lv5"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3507650299",
+      "Source": "Gives Creatures 300 drag weight and below 15% defense, %15 Attack and 5% Movement Speed for 1 minute",
+      "Trans": {"SC":"使拖拽重量为300及以下的生物获得 15% 的防御力、15% 的攻击力和 5% 的移动速度，持续 1 分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1290106921",
+      "Source": "Gives Creatures 450 drag weight and below 15% defense, %15 Attack and 5% Movement Speed for 1 minute",
+      "Trans": {"SC":"使拖拽重量为450及以下的生物获得 15% 的防御力、15% 的攻击力和 5% 的移动速度，持续 1 分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::985857598",
+      "Source": "Gives Creatures 550 drag weight and below 15% defense, %15 Attack and 5% Movement Speed for 1 minute",
+      "Trans": {"SC":"使拖拽重量为550及以下的生物获得 15% 的防御力、15% 的攻击力和 5% 的移动速度，持续 1 分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3986244199",
+      "Source": "Gives Creatures 750 drag weight and below 5% defense, %5 Attack 1 minute",
+      "Trans": {"SC":"使拖拽重量为750及以下的生物5%防御和5%攻击，持续1分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3118248509",
+      "Source": "Gives Creatures 3000 drag weight and below 5% defense, %5 Attack 1 minute",
+      "Trans": {"SC":"使拖拽重量为3000及以下的生物5%防御和5%攻击，持续1分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2408202672",
+      "Source": "Rage!!!",
+      "Trans": {"SC":"狂暴!!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1396504846",
+      "Source": "15% more damage 15% less taken",
+      "Trans": {"SC":"增加15%攻击和15%防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3943215875",
+      "Source": "Teraxitian Radiation Immunity Buff",
+      "Trans": {"SC":"霸王泰坦辐射免疫增益","JA":"霸王泰坦輻射免疫增益"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3675029031",
+      "Source": "Teraxititan Gives you Radiation Immunity",
+      "Trans": {"SC":"霸王泰坦赋予你辐射免疫能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2413599942",
+      "Source": "Teraxititan Scorched Earth Buff",
+      "Trans": {"SC":"焦土霸王泰坦增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3190539965",
+      "Source": "Immunity to Sandstorms, 5% Defense",
+      "Trans": {"SC":"免疫沙尘暴,增加5%防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3139911900",
+      "Source": "Teraxititan Vanilla Buff",
+      "Trans": {"SC":"霸王泰坦增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::437859206",
+      "Source": "5% Melee, 5% Defense, 5% Swim Speed",
+      "Trans": {"SC":"增加5%近战,5%防御,5%游泳速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3479668883",
+      "Source": "Teraxititan Aberrant Buff",
+      "Trans": {"SC":"畸变霸王泰坦增益","JA":"畸變霸王泰坦增益"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1633402394",
+      "Source": "Immunity to Radiation, 5% Attack",
+      "Trans": {"SC":"免疫辐射,增加5%攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::306944859",
+      "Source": "EX Teraxititan",
+      "Trans": {"SC":"灭绝霸王泰坦","JA":"滅絕霸王泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2688766226",
+      "Source": "EX Teraxititan(Small)",
+      "Trans": {"SC":"S-灭绝霸王泰坦","JA":"S-滅絕霸王泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3016909710",
+      "Source": "EX Teraxititan Egg",
+      "Trans": {"SC":"灭绝霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1471286847",
+      "Source": "EX Teraxititan(Small) Egg",
+      "Trans": {"SC":"S-灭绝霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2262305139",
+      "Source": "Fertilized EX Teraxititan Egg",
+      "Trans": {"SC":"受精的灭绝霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1413018265",
+      "Source": "Fertilized Small EX Teraxititan Egg",
+      "Trans": {"SC":"受精的S-灭绝霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1800202114",
+      "Source": "Gene Splicer",
+      "Trans": {"SC":"基因分离器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2659063284",
+      "Source": "Scorched Teraxititan",
+      "Trans": {"SC":"焦土霸王泰坦","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3711880743",
+      "Source": "Titan Killer Teraxititan",
+      "Trans": {"SC":"泰坦杀手霸王泰坦","JA":"泰坦殺手霸王泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::761695417",
+      "Source": "Oily skin",
+      "Trans": {"SC":"油性皮肤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::818082611",
+      "Source": "Pyroraptor is slowly producing flammable skin oil",
+      "Trans": {"SC":"火盗龙正在缓慢分泌易燃的皮肤油","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::480822905",
+      "Source": "Dry Skin",
+      "Trans": {"SC":"干性皮肤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3291134603",
+      "Source": "Pyroraptor has burnt up all it's skin oil. It needs a moment before it can start producing it again.",
+      "Trans": {"SC":"火盗龙已耗尽所有皮肤油。它需要一点时间才能再次开始分泌。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2125494812",
+      "Source": "Terax Rally Buff",
+      "Trans": {"SC":"Terax集结增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::399945021",
+      "Source": "Gives Creatures 300 drag weight and below %35 defense and Attack for 1 minute",
+      "Trans": {"SC":"给予拖拽重量300及以下的生物35%的防御和攻击加成，持续1分钟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::267960302",
+      "Source": "Element Burn",
+      "Trans": {"SC":"能量元素燃烧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3952652945",
+      "Source": "You're burning up! A percentage of your Health will burn away and your movement speed will reduce!",
+      "Trans": {"SC":"你正在燃烧！你的部分生命值会被烧蚀，移动速度也会降低！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1988223875",
+      "Source": "Rapid Atomic Breath Regen",
+      "Trans": {"SC":"快速原子吐息再生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::465575056",
+      "Source": "Explosion-in",
+      "Trans": {"SC":"爆冲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3347513210",
+      "Source": "Youve Injured Yourself",
+      "Trans": {"SC":"你弄伤了自己","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2849031690",
+      "Source": "Sorry Depths your giga sucks",
+      "Trans": {"SC":"抱歉，深渊，你的南方巨兽龙太逊了","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3238697491",
+      "Source": "AK-47",
+      "Trans": {"SC":"AK-47","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::584312135",
+      "Source": "Titan Killer Teraxititan Egg",
+      "Trans": {"SC":"泰坦杀手霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2076979203",
+      "Source": "Teraxititan Armored Saddle",
+      "Trans": {"SC":"霸王泰坦装甲鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4166248979",
+      "Source": "Teraxititan Saddle",
+      "Trans": {"SC":"霸王泰坦鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3516770881",
+      "Source": "Teraxititan Arm Attachment",
+      "Trans": {"SC":"霸王泰坦手臂配件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2559813321",
+      "Source": "Fertilized Titankiller Teraxititan Egg",
+      "Trans": {"SC":"受精的泰坦杀手霸王泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1519805934",
+      "Source": "Teraxititan Helmet",
+      "Trans": {"SC":"霸王泰坦头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1594562988",
+      "Source": "Teraxititan Greaves",
+      "Trans": {"SC":"霸王泰坦护胫","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::683908926",
+      "Source": "Teraxititan Tail Armor",
+      "Trans": {"SC":"霸王泰坦尾部护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

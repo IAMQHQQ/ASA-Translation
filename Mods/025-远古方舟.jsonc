@@ -1,0 +1,1725 @@
+{ //2025.11.29
+  // 模组包含
+  // Paleo ARK - Evolution | Apex Predators (Crossplay)——远古方舟-进化|顶级掠食者(EVO霸王龙.南巨)
+  // Paleo ARK - Evolution | Dangerous Depths (Crossplay!)——远古方舟-进化|深渊之险(EVO沧龙)
+  // Paleo ARK Ascension (Crossplay/BETA)——远古方舟-升华(远古方舟恐龙变体)
+  // Paleo ARK EVO+ | Native Aquatics (Crossplay!)——远古方舟：进化+|本土水生物(浅隐龙.方尖碑鱿.邦加特鱼)
+  // Paleo ARK EVO+ | Rulers of the Wastelands——远古方舟：进化+ | 废土统治者(帝王龙.巨雷龙)
+  // Paleo ARK - Evolution | Hard Hitting Herbivores——远古方舟：进化 | 强力素食性生物(EVO镰刀龙.雷龙)
+  "EVO霸王龙.南巨": [
+    {
+      "NamespaceHash": "Content::982937274",
+      "Source": "Wasteland Giganotosaurus",
+      "Trans": {"SC":"荒原南方巨兽龙","JA":"荒原南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3088513515",
+      "Source": "Alpha Legacy Tyrannosaurus",
+      "Trans": {"SC":"精英遗迹暴龙","JA":"精英遺迹暴龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1590787770",
+      "Source": "Alpha Tyrannosaurus",
+      "Trans": {"SC":"精英霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1843443032",
+      "Source": "Tek Tyrannosaurus",
+      "Trans": {"SC":"泰克霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::804494116",
+      "Source": "Tyrannosaurus",
+      "Trans": {"SC":"EVO霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::210403808",
+      "Source": "Enraged Corrupted Tek Tyrannosaurus",
+      "Trans": {"SC":"暴怒泰克霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2450850902",
+      "Source": "Legacy Tyrannosaurus",
+      "Trans": {"SC":"遗迹暴龙","JA":"遺迹暴龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::678883719",
+      "Source": "Paleo Tyrannosaurus",
+      "Trans": {"SC":"远古霸王龙","JA":"遠古霸王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4145336614",
+      "Source": "Alpha Tarbosaurus",
+      "Trans": {"SC":"精英特暴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3429384862",
+      "Source": "Tarbosaurus",
+      "Trans": {"SC":"特暴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3436922688",
+      "Source": "Corrupted Tyrannosaurus",
+      "Trans": {"SC":"腐化霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2294103971",
+      "Source": "Actor Berry",
+      "Trans": {"SC":"演员浆果","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2837027815",
+      "Source": "Turns your dino into a movie star!",
+      "Trans": {"SC":"把你的恐龙变成电影明星！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2794785717",
+      "Source": "Chibi-EVO Giganotosaurus",
+      "Trans": {"SC":"袖珍-EVO南方巨兽龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2382203638",
+      "Source": "Dung Beetle Hat skin",
+      "Trans": {"SC":"屎壳郎帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3550453434",
+      "Source": "Equip an EVO Giga saddle with this. For when your EVO Gigas have a weird autistic fixation with dung beetles",
+      "Trans": {"SC":"当你EVO南方巨兽龙对屎壳郎有一种奇怪且自闭的迷恋时，用这个装它的鞍上。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3423481558",
+      "Source": "Fertilized (EVO) Wasteland Giganotosaurus Egg",
+      "Trans": {"SC":"受精的荒原南方巨兽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4065890489",
+      "Source": "Fertilized (EVO) Giganotosaurus Egg",
+      "Trans": {"SC":"受精的EVO南方巨兽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3697437682",
+      "Source": "Giga Gulp skin",
+      "Trans": {"SC":"口渴可乐","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2190046986",
+      "Source": "Equip an EVO Giga saddle with this. For when Giga riders have a Giga-sized thirst!",
+      "Trans": {"SC":"当超级骑手又超级口渴的时候！用这个装备到EVO南方巨兽龙鞍上。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1262063534",
+      "Source": "EVO Giganotosaurus Saddle",
+      "Trans": {"SC":"EVO南方巨兽龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4252238234",
+      "Source": "Equip an EVO Giganotosaurus (Paleo ARK: Evolution) with this to ride it.",
+      "Trans": {"SC":"装备到EVO南方巨兽龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3883571634",
+      "Source": "Rex Borgor skin",
+      "Trans": {"SC":"霸王龙汉堡包","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1718066148",
+      "Source": "Equip an EVO Rex saddle with this. For when your EVO Rexes need motivation to get going!",
+      "Trans": {"SC":"当你的EVO霸王龙需要动力行动起来时，为它装备上这款皮肤，它就能派上用场！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3279526320",
+      "Source": "EVO Rex Stomped glasses",
+      "Trans": {"SC":"踩踏款眼镜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2658291773",
+      "Source": "Welcome to Paleo ARK! Equip an EVO Rex saddle with this to ride the high life.",
+      "Trans": {"SC":"欢迎来到远古方舟！给EVO霸王龙装备上这个鞍具，就能尽情享受骑行的乐趣 。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3996113683",
+      "Source": "EVO Bone Rex Costume",
+      "Trans": {"SC":"EVO骨架霸王龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2692850589",
+      "Source": "Something something spooky scary skellingtons",
+      "Trans": {"SC":"什么什么阴森吓人的骷髅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3948281130",
+      "Source": "Fertilized (EVO) Legacy Tyrannosaurus Egg",
+      "Trans": {"SC":"受精的遗迹暴龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2312612064",
+      "Source": "A fertilized Legacy Tyrannosaurus egg",
+      "Trans": {"SC":"这颗蛋富含各种营养, 可以提供卓越的营养价值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2511086655",
+      "Source": "Fertilized (EVO) Paleo Tyrannosaurus Egg",
+      "Trans": {"SC":"受精的远古霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3386792235",
+      "Source": "Fertilized (EVO) Tyrannosaurus Egg",
+      "Trans": {"SC":"受精的EVO霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::583860579",
+      "Source": "EVO Tyrannosaurus rex Saddle",
+      "Trans": {"SC":"EVO霸王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1728727694",
+      "Source": "Equip a Tyrannosaurus rex (Paleo ARK: Evolution) with this to ride it.",
+      "Trans": {"SC":"装备到EVO霸王龙上以骑乘。<#RN#><RichColor Color=\"0, 1, 1, 1\">远古方舟: 进化 (Paleo ARK: Evolution)</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1326370679",
+      "Source": "Fertilized (EVO) Tarbosaurus Egg",
+      "Trans": {"SC":"受精的特暴龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2262481440",
+      "Source": "EVO Tarbosaurus Saddle",
+      "Trans": {"SC":"特暴龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3575303859",
+      "Source": "Equip a Tarbosaurus (Paleo ARK: Evolution) with this to ride it.",
+      "Trans": {"SC":"装备到EVO特暴龙上以骑乘。<#RN#><RichColor Color=\"0, 1, 1, 1\">远古方舟: 进化 (Paleo ARK: Evolution)</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2183226549",
+      "Source": "(EVO) Tyrannosaurus Tek Saddle",
+      "Trans": {"SC":"EVO泰克霸王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3401045568",
+      "Source": "Equip a Tyrannosaurus or Tarbosaurus with this to ride it. PLEASE NOTE this is placeholder. A proper tek saddle mesh and textures are coming in the future!",
+      "Trans": {"SC":"为EVO霸王龙龙或特暴龙装备此鞍具以骑乘。请注意，当前仅为临时占位模型，正式的泰克鞍具模型及贴图将在未来推出！<#RN#><RichColor Color=\"0, 1, 1, 1\">远古方舟: 进化 (Paleo ARK: Evolution)</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3837178763",
+      "Source": "Straw Hat Skin",
+      "Trans": {"SC":"草帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4184363479",
+      "Source": "It's a straw hat! Equip this on any helmet for a straw hat look! Yay!",
+      "Trans": {"SC":"这是一顶草帽！把它装备在任何头盔上，就能有戴草帽的效果啦！太好啦！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3731588475",
+      "Source": "Ravenous",
+      "Trans": {"SC":"饥渴","JA":"饑渴"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::524440477",
+      "Source": "Tyrannosaurus has tasted blood!",
+      "Trans": {"SC":"霸王龙尝到血腥味了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2090197666",
+      "Source": "Corruption Hunter",
+      "Trans": {"SC":"腐化猎手","JA":"腐化獵手"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3934910282",
+      "Source": "20% bonus against Corrupted and Titans!",
+      "Trans": {"SC":"对腐化单位和泰坦造成20%的额外伤害!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4124122217",
+      "Source": "EVO Diagram Rex Costume",
+      "Trans": {"SC":"EVO骨架图解霸王龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::644867674",
+      "Source": "Scott Hartman would be proud",
+      "Trans": {"SC":"Scott Hartman会引以为傲的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+        {
+      "NamespaceHash": "625ECA3741DE351C41F50B9511942873",
+      "Source": "Bite | Headbash turn (Look left or right)",
+      "Trans": {"SC":"啃咬 | 转向头槌 (视角向左或向右看)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3288954963"}
+    },
+    {
+      "NamespaceHash": "B107F947469D18C1BCC1B5BC2961A874",
+      "Source": "Grab (Press again to maul grabbed target)",
+      "Trans": {"SC":"抓起 (再次按下将撕咬抓取的目标)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"283974720"}
+    },
+    {
+      "NamespaceHash": "FE865DA141D898AFF1F52C952AF47974",
+      "Source": "Stomp | Tailswipe (Look behind)",
+      "Trans": {"SC":"踩踏 | 甩尾 (视角向后看时触发)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1541844920"}
+    },
+    {
+      "NamespaceHash": "CE4D8D18479930ECCA768CBC8D5C209B",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "1F9E9354467861A0BC82C5BD3A977651",
+      "Source": "Toggle Turn in Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1006799724"}
+    },
+    {
+      "NamespaceHash": "562143224D8F6EA88F0284ACBCDDCD6A",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "07D9C8C741766632851E0080402C8531",
+      "Source": "Turn in place (Toggle)",
+      "Trans": {"SC":"原地转向 (切换)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1991396954"}
+    },
+    {
+      "NamespaceHash": "44487A2A412812FD35FA458A57968396",
+      "Source": "Stomp (Available when enraged)",
+      "Trans": {"SC":"跺脚 (狂暴时可用)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1427619572"}
+    },
+    {
+      "NamespaceHash": "8246F9054D149D07D245419C0F7DE864",
+      "Source": "Bite | Tailswipe (Look left or right)",
+      "Trans": {"SC":"啃咬 | 扫尾 (视角向左或右)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1743612845"}
+    },
+    {
+      "NamespaceHash": "F445D7F84BEF4A494D97E3B2E5A24D4A",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "2E5B1F2144B33AF7522BE8AEEC126044",
+      "Source": "Ctrl + Spacebar",
+      "Trans": {"SC":"Ctrl + 空格键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3145250159"}
+    },
+    {
+      "NamespaceHash": "36BF95A648E912D8EA33ED944980FA66",
+      "Source": "Ctrl + NumPad+",
+      "Trans": {"SC":"Ctrl + 数字键盘+号","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4104938986"}
+    },
+    {
+      "NamespaceHash": "7E49FB014A8D6A1D27CF0FAEA9E9040C",
+      "Source": "Spacebar",
+      "Trans": {"SC":"空格键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2066877284"}
+    },
+    {
+      "NamespaceHash": "DDB3D4874770775C3364808CDFE65DC2",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "A6C660CC41705C9750DBCDBB1D8B8086",
+      "Source": "Grab",
+      "Trans": {"SC":"抓起","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+    },
+    {
+      "NamespaceHash": "375D2854486DD01BA01EE7BFC4E9E089",
+      "Source": "Tailswipe | Let go target",
+      "Trans": {"SC":"甩尾 | 松开目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"481340883"}
+    },
+    {
+      "NamespaceHash": "Content::249474521",
+      "Source": "Fertilized (EVO) Paleo Giganotosaurus Egg",
+      "Trans": {"SC":"受精的EVO远古南方巨兽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2700299025",
+      "Source": "Hide Actor Costume",
+      "Trans": {"SC":"隐藏角色套装","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3724447851",
+      "Source": "This will override all other skins, acting as a full-body costume. Should always be set on Torso Armor.<#N#><#N#>This hides actors! ",
+      "Trans": {"SC":"使用这个皮肤来覆盖其它外观, 充当全身套装。该皮肤装备在躯干或胸甲上。<#RN#><#RN#>这可以隐藏角色! ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::186895264439DCECF4EF82839F0CC331",
+      "Source": "Feed Rex {Item}",
+      "Trans": {"SC":"喂给霸王龙 {Item}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2915121174"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::9935779F48D77D118ACB998CFFCD842D",
+      "Source": "Rex wants to be fed {Item}",
+      "Trans": {"SC":"霸王龙想要吃 {Item}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"945247539"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1991396954",
+      "Source": "Turn in place (Toggle)",
+      "Trans": {"SC":"原地转向 (切换)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3145250159",
+      "Source": "Ctrl + Spacebar",
+      "Trans": {"SC":"Ctrl + 空格键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "D33D5ED64D8B13CA3C44A48D2457F979",
+      "Source": "Spacebar",
+      "Trans": {"SC":"空格键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2066877284"}
+    },
+    {
+      "NamespaceHash": "5219372C4CE961524EB372A864D5D037",
+      "Source": "Stomp | Tailswipe (Look behind)",
+      "Trans": {"SC":"踩踏 | 扫尾 (指针朝向后方时)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1541844920"}
+    },
+    {
+      "NamespaceHash": "Content::1764402313",
+      "Source": "Hold  {Fire}",
+      "Trans": {"SC":"按 {Fire}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::226237388",
+      "Source": "Hold {AltFire} {Jump}",
+      "Trans": {"SC":"按 {AltFire} + {Jump}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3196624994",
+      "Source": "Hold {AltFire} NumPad+",
+      "Trans": {"SC":"按 {AltFire} 小键盘+","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3859813418",
+      "Source": "Fertilized (EVO) Wasteland Tyrannosaurus Egg",
+      "Trans": {"SC":"受精的EVO废土霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::602407073",
+      "Source": "A fertilized Wasteland Tyrannosaurus egg",
+      "Trans": {"SC":"一枚已受精的废土霸王龙蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::117169460",
+      "Source": "EVO Giganotosaurus",
+      "Trans": {"SC":"EVO南方巨兽龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2079328264",
+      "Source": "EVO Tarbosaurus",
+      "Trans": {"SC":"EVO特暴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1974815823",
+      "Source": "EVO Tyrannosaurus",
+      "Trans": {"SC":"EVO霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2374623066",
+      "Source": "Paleo Giganotosaurus",
+      "Trans": {"SC":"远古南方巨兽龙","JA":"遠古南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1462530993",
+      "Source": "Wasteland Tyrannosaurus",
+      "Trans": {"SC":"废土霸王龙","JA":"廢土霸王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::171883457",
+      "Source": "Crippled!",
+      "Trans": {"SC":"残废！","JA":"残廢！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4163001585",
+      "Source": "Giga Challenger",
+      "Trans": {"SC":"南方巨兽龙挑战者","JA":"南方巨獸龙挑戰者"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2117462933",
+      "Source": "The Giganotosaurus challenges you! SURVIVE!",
+      "Trans": {"SC":"南方巨兽龙向你发起挑战！存活下去！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1941688548",
+      "Source": "Crouch",
+      "Trans": {"SC":"蹲伏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1723202661",
+      "Source": "Revenant Tyrannosaurus",
+      "Trans": {"SC":"怨灵霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    }
+  ],
+  "远古方舟恐龙变体": [
+    {
+      "NamespaceHash": "Content::1433129077",
+      "Source": "Barbatos",
+      "Trans": {"SC":"远古羽王龙","JA":"遠古羽王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::770923167",
+      "Source": "Greater Yutyrannus",
+      "Trans": {"SC":"G-华丽羽王龙","JA":"G-華麗羽王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::575538941",
+      "Source": "Paleo Carcharodontosaurus",
+      "Trans": {"SC":"远古鲨齿龙","JA":"遠古鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3550464204",
+      "Source": "Paleo Fasolasuchus",
+      "Trans": {"SC":"远古法索拉鳄","JA":"遠古法索拉鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::523484849",
+      "Source": "Paleo Gigantoraptor",
+      "Trans": {"SC":"远古巨盗龙","JA":"遠古巨盗龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2252715169",
+      "Source": "Greater Kentrosaurus",
+      "Trans": {"SC":"G-钉状龙","JA":"G-釘状龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1672777295",
+      "Source": "Paleo Megalosaurus",
+      "Trans": {"SC":"远古巨齿龙","JA":"遠古巨齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::652751278",
+      "Source": "Greater Moschops",
+      "Trans": {"SC":"G-麝足兽","JA":"G-麝足獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::615981158",
+      "Source": "Paleo Purlovia",
+      "Trans": {"SC":"远古普雷兽","JA":"遠古普雷獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1621110263",
+      "Source": "Alpha Paleo ARK Raptor",
+      "Trans": {"SC":"精英远古迅猛龙","JA":"精英遠古迅猛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3036205250",
+      "Source": "Paleo Raptor",
+      "Trans": {"SC":"远古迅猛龙","JA":"遠古迅猛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::657233565",
+      "Source": "Paleo Sarco",
+      "Trans": {"SC":"远古帝鳄","JA":"遠古帝鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4243883981",
+      "Source": "Paleo Spinosaur",
+      "Trans": {"SC":"远古棘龙","JA":"遠古棘龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1201176476",
+      "Source": "Paleo Stego",
+      "Trans": {"SC":"远古剑龙","JA":"遠古劍龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3604148688",
+      "Source": "Paleo Thylacoleo",
+      "Trans": {"SC":"远古袋狮","JA":"遠古袋獅"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3361015873",
+      "Source": "Paleo Trike",
+      "Trans": {"SC":"远古三角龙","JA":"遠古三角龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+        {
+      "NamespaceHash": "Content::1955809717",
+      "Source": "Fertilized Greater Yutyrannus Egg",
+      "Trans": {"SC":"受精的远古羽王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::140912555",
+      "Source": "Fertilized Paleo Carcharodontosaurus Egg",
+      "Trans": {"SC":"受精的远古鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1899077729",
+      "Source": "Fertilized Paleo Fasolasuchus Egg",
+      "Trans": {"SC":"受精的远古法索拉鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3701992124",
+      "Source": "Fertilized Paleo Gigantoraptor Egg",
+      "Trans": {"SC":"受精的远古巨盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2519344185",
+      "Source": "Greater Kentro Saddle",
+      "Trans": {"SC":"G-肯氏龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::361962742",
+      "Source": "Equip a Greater Kentro with this to ride it.",
+      "Trans": {"SC":"装备到G-肯氏龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3684697976",
+      "Source": "Fertilized Greater Kentro Egg",
+      "Trans": {"SC":"受精的G-肯氏龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3377126885",
+      "Source": "Fertilized Paleo Megalosaurus Egg",
+      "Trans": {"SC":"受精的远古巨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1843457185",
+      "Source": "Fertilized Paleo Moschops Egg",
+      "Trans": {"SC":"受精的G-麝足兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1338518123",
+      "Source": "Greater Moschops Saddle",
+      "Trans": {"SC":"G-麝足兽鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2255944453",
+      "Source": "Equip a Paleo ARK Greater Moschops with this to ride it.",
+      "Trans": {"SC":"装备到G-麝足兽上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1750724519",
+      "Source": "Fertilized Paleo Raptor Egg",
+      "Trans": {"SC":"受精的远古迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1002066318",
+      "Source": "Fertilized Paleo Sarco Egg",
+      "Trans": {"SC":"受精的远古巨齿鲨蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4181312276",
+      "Source": "Fertilized Paleo Spino Egg",
+      "Trans": {"SC":"受精的远古棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::578467374",
+      "Source": "Fertilized Paleo Trike Egg",
+      "Trans": {"SC":"受精的远古三角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3504577595",
+      "Source": "Fertilized Paleo Stego Egg",
+      "Trans": {"SC":"受精的远古剑龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2910915837",
+      "Source": "Paleo Ceratosaurus",
+      "Trans": {"SC":"远古角鼻龙","JA":"遠古角鼻龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::949340694",
+      "Source": "Paleo Deinosuchus",
+      "Trans": {"SC":"远古恐鳄","JA":"遠古恐鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1039193827",
+      "Source": "Paleo Deinotherium",
+      "Trans": {"SC":"远古恐象","JA":"遠古恐象"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3734394621",
+      "Source": "Paleo Dreadnoughtus",
+      "Trans": {"SC":"远古无畏龙","JA":"遠古无畏龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::657412425",
+      "Source": "Paleo Mammoth",
+      "Trans": {"SC":"远古猛犸象","JA":"遠古猛獁象"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3447358318",
+      "Source": "Fertilized Paleo Ceratosaurus Egg",
+      "Trans": {"SC":"受精的远古角鼻龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1587249353",
+      "Source": "Fertilized Paleo Deinosuchus Egg",
+      "Trans": {"SC":"受精的远古恐鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2618171967",
+      "Source": "Fertilized Paleo Dreadnoughtus Egg",
+      "Trans": {"SC":"受精的远古无畏龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::58966270",
+      "Source": "Paleo Otter",
+      "Trans": {"SC":"远古水獭","JA":"遠古水獺"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    }
+  ],
+  "浅隐龙.方尖碑鱿.邦加特鱼": [
+    {
+      "NamespaceHash": "Content::363040777",
+      "Source": "Obelisk Squid",
+      "Trans": {"SC":"方尖碑鱿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::73009923",
+      "Source": "Aberrant Cryptoclidus",
+      "Trans": {"SC":"畸变浅隐龙","JA":"畸變浅隱龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4222448212",
+      "Source": "Paleo Cryptoclidus",
+      "Trans": {"SC":"远古浅隐龙","JA":"遠古浅隱龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1944016530",
+      "Source": "Aberrant Obelisk squid",
+      "Trans": {"SC":"畸变方尖碑鱿鱼","JA":"畸變方尖碑魷鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::257933314",
+      "Source": "Obelisk squid",
+      "Trans": {"SC":"方尖碑鱿鱼","JA":"方尖碑魷鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+        {
+      "NamespaceHash": "Content::970088804",
+      "Source": "Cryptoclidus Gel",
+      "Trans": {"SC":"浅隐龙凝胶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::589386355",
+      "Source": "Secretions from the glands in Cryptoclidus' neck. Gives jellyfish immunity, and can be burned like angler gel!",
+      "Trans": {"SC":"浅隐蛇颈龙腺体的分泌物.使用后免疫水母的伤害.并且可以当做燃料使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2480308699",
+      "Source": "Cryptoclidus Saddle",
+      "Trans": {"SC":"浅隐龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1108400543",
+      "Source": "Equip a Cryptoclidus with this to ride it.",
+      "Trans": {"SC":"装备到浅隐龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1874940989",
+      "Source": "Cooked Calamari",
+      "Trans": {"SC":"熟鱿鱼肉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1528461463",
+      "Source": "Sates your hunger, and provides health while being digested. Better than raw meat for eating, but less effective for taming. Crunchy, yet chewy!",
+      "Trans": {"SC":"消除你的饥饿感，并在消化的同时提供健康。吃起来比生肉好，但驯服生物就没那么有效了。松脆又有嚼劲！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3379529236",
+      "Source": "Raw Calamari",
+      "Trans": {"SC":"生鱿鱼肉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3486189523",
+      "Source": "Eating raw food will SLIGHTLY sate hunger, but is unhealthy for humans. This excellent cut spoils very quickly. Most wild Carnivores love this meat even more than prime fish meat.",
+      "Trans": {"SC":"生吃食物会稍微满足饥饿感，但对人体是不健康的。这种上等的肉很快就坏了。大多数野生食肉动物喜欢这种肉甚至超过了上等的鱼肉。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::257947766",
+      "Source": "Fertilized Obelisk Squid Egg",
+      "Trans": {"SC":"受精的方尖碑鱿鱼卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+        {
+      "NamespaceHash": "Content::1942062630",
+      "Source": "Veil Charge",
+      "Trans": {"SC":"全体隐匿 [充能值],","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2884129185",
+      "Source": "Veiled",
+      "Trans": {"SC":"隐匿中","JA":"隱匿中"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::54726363",
+      "Source": "Aggro radius reduced!",
+      "Trans": {"SC":"仇恨半径缩小了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::387533496",
+      "Source": "Immune to Shock",
+      "Trans": {"SC":"免疫电击","JA":"免疫電擊"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1221508728",
+      "Source": "You are immune to the stunning effects of shock inducing creatures!",
+      "Trans": {"SC":"你对生物造成的电击眩晕效果免疫！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1849468823",
+      "Source": "Cryptoclidus",
+      "Trans": {"SC":"浅隐龙","JA":"浅隱龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2867827234",
+      "Source": "Bungartius",
+      "Trans": {"SC":"邦加特鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3625586281",
+      "Source": "Fertilized Bungartius Egg",
+      "Trans": {"SC":"受精的邦加特鱼卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2421044665",
+      "Source": "Hidden Mining Node",
+      "Trans": {"SC":"隐藏采矿节点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::695177547",
+      "Source": "FUCK OFF",
+      "Trans": {"SC":"滚开","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1566439625",
+      "Source": "I HATE U",
+      "Trans": {"SC":"我恨你","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::575596250",
+      "Source": "Shared Veil",
+      "Trans": {"SC":"共享帷幕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2580550863",
+      "Source": "Your aggro radius is smaller while you are close to the Veiling Cryptoclidus!",
+      "Trans": {"SC":"当你靠近帷幕浅隐龙时，你的仇恨范围会变小！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2258176107",
+      "Source": "Veiling Teammates",
+      "Trans": {"SC":"帷幕队友","JA":"帷幕隊友"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1970109518",
+      "Source": "Teammates and tames are less likely to get aggro'd while near you!",
+      "Trans": {"SC":"队友和驯服的生物在你附近时，不太容易吸引仇恨！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ],
+  "EVO沧龙": [
+    {
+      "NamespaceHash": "Content::612577783",
+      "Source": "EVO Mosasaurus Saddle",
+      "Trans": {"SC":"EVO沧龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1634839703",
+      "Source": "Equip an EVO Mosasaurus with this to ride it.",
+      "Trans": {"SC":"装备到EVO沧龙上以骑乘。<#RN#><RichColor Color=\"0, 1, 1, 1\">远古方舟: 进化 (Paleo ARK: Evolution)</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3509072891",
+      "Source": "EVO Mosasaurus Platform Saddle",
+      "Trans": {"SC":"EVO沧龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1138998348",
+      "Source": "Equip an EVO Mosasaurus with this to ride it. You can build structures on the large platform to make a mobile base.",
+      "Trans": {"SC":"装备到EVO沧龙上以骑乘。你可以在上面建造一个移动基地。<#RN#><RichColor Color=\"0, 1, 1, 1\">远古方舟: 进化 (Paleo ARK: Evolution)</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+       {
+      "NamespaceHash": "Content::2221668176",
+      "Source": "Oceanic Apex",
+      "Trans": {"SC":"海洋霸主","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3510729249",
+      "Source": "Crush Syndrome",
+      "Trans": {"SC":"挤压综合征","JA":"擠壓綜合征"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::88377215",
+      "Source": "GET ME BACK UNDERWATER DAMMIT!!!!",
+      "Trans": {"SC":"该死！快让我回到水下！！！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "07CBC0154EA98BE45D9D6E912AABB03D",
+      "Source": "Breach",
+      "Trans": {"SC":"跳水","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"154392940"}
+    },
+    {
+      "NamespaceHash": "54B67B654B60F376612878B8288B90E7",
+      "Source": "Submerge",
+      "Trans": {"SC":"潜水","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"974088991"}
+    },
+    {
+      "NamespaceHash": "D731EB4F47E06E0D7063D8B1966AC3E8",
+      "Source": "Hiss",
+      "Trans": {"SC":"嘶吼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1601760632"}
+    },
+    {
+      "NamespaceHash": "762171954357427F206DC883D7502F90",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "Content::4017664119",
+      "Source": "Alpha Mosasaurus",
+      "Trans": {"SC":"精英沧龙","JA":"精英滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2281290973",
+      "Source": "Paleo Mosasaurus",
+      "Trans": {"SC":"远古沧龙","JA":"遠古滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    }
+  ],
+  "EVO镰刀龙.甲龙.雷龙": [
+   {
+      "NamespaceHash": "Content::2890474585",
+      "Source": "Alpha Therizinosaurus",
+      "Trans": {"SC":"精英镰刀龙","JA":"精英鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3193228503",
+      "Source": "Paleo Therizinosaurus",
+      "Trans": {"SC":"远古镰刀龙","JA":"遠古鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2399640453",
+      "Source": "Turkeyzinosaurus",
+      "Trans": {"SC":"火鸡镰刀龙","JA":"火雞鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2028019688",
+      "Source": "(EVO) Therizinosaurus Saddle",
+      "Trans": {"SC":"EVO镰刀龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3713762977",
+      "Source": "Equip an (EVO) Therizinosaurus with this to ride it.",
+      "Trans": {"SC":"装备到EVO镰刀龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2348393435",
+      "Source": "Fertilized (EVO) Paleo Therizinosaurus Egg",
+      "Trans": {"SC":"受精的EVO远古镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1170121697",
+      "Source": "Fertilized (EVO) Therizinosaurus Egg",
+      "Trans": {"SC":"受精的EVO镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::146044098",
+      "Source": "Turkeyzino costume",
+      "Trans": {"SC":"火鸡镰刀龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::380268392",
+      "Source": "Gobble",
+      "Trans": {"SC":"咯咯叫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::260432904",
+      "Source": "Sharpen Cooldown",
+      "Trans": {"SC":"锐化冷却时间","JA":"銳化冷却時間"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2649342382",
+      "Source": "Sharpened Claws",
+      "Trans": {"SC":"锋利的爪子","JA":"鋒利的爪子"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "07F3245C495E65E3BBAE0A87A2EC44CF",
+      "Source": "Melee",
+      "Trans": {"SC":"近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1993336256"}
+    },
+    {
+      "NamespaceHash": "DCBB0D38459E6CCAE50D7AB9E2DA8EF2",
+      "Source": "Double Claw Combo",
+      "Trans": {"SC":"双爪连击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"343520247"}
+    },
+    {
+      "NamespaceHash": "D924CF234CFC9A66FB6213A833C04EBA",
+      "Source": "Gather",
+      "Trans": {"SC":"采集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2186473241"}
+    },
+    {
+      "NamespaceHash": "9F1671FE484FE581B31BD0994DEB0E73",
+      "Source": "Bite",
+      "Trans": {"SC":"咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "15A2E3D04BC43C97CC4D478B24FA552B",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "5A874BAB4773534280E2F38E736CD0E3",
+      "Source": "Sharpen Claws",
+      "Trans": {"SC":"磨爪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1986122885"}
+    },
+    {
+      "NamespaceHash": "1EBE8B6B49DFEAAD71E0CCAE216872A8",
+      "Source": "Sit",
+      "Trans": {"SC":"坐下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"466207432"}
+    },
+    {
+      "NamespaceHash": "0B87D65E4ADD59A2C4F0C3876E04C99A",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "Content::3568398227",
+      "Source": "Elasmosaurus",
+      "Trans": {"SC":"薄板龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3964255189",
+      "Source": "Therizino Bone Helmet",
+      "Trans": {"SC":"镰刀龙骨骼头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2293749403",
+      "Source": "A helmet fashioned from the skull of an alpha Therizinosaurus. This alpha's skull in particular was very very small. How convenient! ",
+      "Trans": {"SC":"一顶用精英镰刀龙的头骨制成的头盔。这只精英的头骨尤其非常小。多方便啊！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3240033893",
+      "Source": "(EVO) Therizino Thrall Saddle",
+      "Trans": {"SC":"(EVO) 镰刀龙奴隶鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2724861035",
+      "Source": "Use this on an (EVO) Therizino saddle",
+      "Trans": {"SC":"在 (EVO) 镰刀龙鞍上使用此物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1005597928",
+      "Source": "Equip this to your (EVO) Therizinosaurus to give it a thrall-styled saddle!",
+      "Trans": {"SC":"将此装备给你的 (EVO) 镰刀龙，为它配备奴隶风格的鞍！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::599777117",
+      "Source": "Sitting",
+      "Trans": {"SC":"坐下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4177567174",
+      "Source": "Theri's claws have dulled! Armor penetration reset to normal!",
+      "Trans": {"SC":"镰刀龙的爪子变钝了！护甲穿透已重置为正常值！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1669038484",
+      "Source": "Therizino has sharpened its claws for 2X armor penetration! Useful against enemies wearing saddles!",
+      "Trans": {"SC":"镰刀龙已磨利爪子，获得2倍护甲穿透！对装备鞍具的敌人特别有效！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1858667833",
+      "Source": "Revenant Therizinosaurus",
+      "Trans": {"SC":"怨灵镰刀龙","JA":"怨灵鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::193281626",
+      "Source": "Bronto Saddle Canopy",
+      "Trans": {"SC":"雷龙鞍遮阳棚","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::103012274",
+      "Source": "Scorched Brontosaurus",
+      "Trans": {"SC":"焦土雷龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1421411378",
+      "Source": "Paleo Brontosaurus",
+      "Trans": {"SC":"远古雷龙","JA":"遠古雷龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4205763658",
+      "Source": "(EVO) Bronto Platform Saddle",
+      "Trans": {"SC":"EVO雷龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4250266073",
+      "Source": "Equip an (EVO) Brontosaurus with this to ride it. You can build structures on the large platform to make a mobile base.",
+      "Trans": {"SC":"给(EVO) 雷龙装备此鞍即可骑乘。你可在大型平台上建造建筑，打造移动基地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3697353944",
+      "Source": "(EVO) Bronto Saddle",
+      "Trans": {"SC":"EVO雷龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3985286671",
+      "Source": "Equip an (EVO) Bronto with this to ride it.",
+      "Trans": {"SC":"给(EVO) 雷龙装备此鞍即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3256295643",
+      "Source": "Fertilized (EVO) Bronto Egg",
+      "Trans": {"SC":"受精的EVO雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2110606204",
+      "Source": "Fertilized (EVO) Paleo Bronto Egg",
+      "Trans": {"SC":"受精的EVO远古雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1420117044",
+      "Source": "Fertilized (EVO) Scorched Bronto Egg",
+      "Trans": {"SC":"受精的EVO焦土雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2217879249",
+      "Source": "Broken Teeth",
+      "Trans": {"SC":"断齿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1735251958",
+      "Source": "Broken Teeth Cooldown",
+      "Trans": {"SC":"断齿冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1811617802",
+      "Source": "Immune to the Broken Teeth debuff",
+      "Trans": {"SC":"免疫断齿效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::360755096",
+      "Source": "Slow down",
+      "Trans": {"SC":"减速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2211460744",
+      "Source": "Honk Shoo",
+      "Trans": {"SC":"吼叫驱逐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "218E59C24F3698066E09F2BB03880BE8",
+      "Source": "Stomp (Directional)",
+      "Trans": {"SC":"踩踏（定向）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3868777129"}
+    },
+    {
+      "NamespaceHash": "852F14E9416FD13179A05CA48B67DAEE",
+      "Source": "Light Tailswipe | Heavy Tailswipe (Hold)",
+      "Trans": {"SC":"轻扫尾 | 重扫尾（长按）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3854266865"}
+    },
+    {
+      "NamespaceHash": "C6C29623465AE94309C210A64048FE66",
+      "Source": "Heavy Stomp (Stand still)",
+      "Trans": {"SC":"重踏（静止站立）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1087046099"}
+    },
+    {
+      "NamespaceHash": "D8A372E744B104C8B1AA8EA5A747B924",
+      "Source": "Charge (Hold - Requires sprinting at full speed)",
+      "Trans": {"SC":"冲锋（长按 - 需全速奔跑）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3392342789"}
+    },
+    {
+      "NamespaceHash": "EB89FAB846390F3228E597B260D0BC94",
+      "Source": "Necksweep | Bite (While Moving)",
+      "Trans": {"SC":"扫颈 | 撕咬（移动时）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4171941320"}
+    },
+    {
+      "NamespaceHash": "44153FF642BF9BA5DCE24AA0C25E50F3",
+      "Source": "Emote Wheel",
+      "Trans": {"SC":"表情轮盘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2033009734"}
+    },
+    {
+      "NamespaceHash": "Content::922924337",
+      "Source": "Yawn",
+      "Trans": {"SC":"打哈欠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2226935452",
+      "Source": "Startle",
+      "Trans": {"SC":"受惊","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1959999016",
+      "Source": "Cuddle",
+      "Trans": {"SC":"依偎","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::675752487",
+      "Source": "Talk",
+      "Trans": {"SC":"鸣叫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1444256794",
+      "Source": "Sneeze",
+      "Trans": {"SC":"打喷嚏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ],
+  "帝王龙.巨雷龙": [
+    {
+      "NamespaceHash": "Content::2207511161",
+      "Source": "Empirosaurus",
+      "Trans": {"SC":"帝王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::369239994",
+      "Source": "Paleo Empirosaurus",
+      "Trans": {"SC":"远古帝王龙","JA":"遠古帝王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2610518994",
+      "Source": "Ledumahadi",
+      "Trans": {"SC":"巨雷龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::399293777",
+      "Source": "Paleo Ledumahadi",
+      "Trans": {"SC":"远古巨雷龙","JA":"遠古巨雷龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1122509365",
+      "Source": "Chibi-Empirosaurus",
+      "Trans": {"SC":"袖珍-帝王龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1239093021",
+      "Source": "Empirosaurus Egg",
+      "Trans": {"SC":"帝王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::114015409",
+      "Source": "Fertilized Empirosaurus Egg",
+      "Trans": {"SC":"受精的帝王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1829764769",
+      "Source": "Empirosaurus Saddle",
+      "Trans": {"SC":"帝王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1955174965",
+      "Source": "Equip an Empirosaurus with this to ride it.",
+      "Trans": {"SC":"装备此鞍可骑乘帝王龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::551815890",
+      "Source": "Chibi-Ledumhadi",
+      "Trans": {"SC":"袖珍-巨雷龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3569468495",
+      "Source": "Ledumahadi Egg",
+      "Trans": {"SC":"巨雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1640824948",
+      "Source": "Fertilized Ledumahadi Egg",
+      "Trans": {"SC":"受精的巨雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::881927502",
+      "Source": "Ledumahadi Saddle",
+      "Trans": {"SC":"巨雷龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4270591305",
+      "Source": "Equip a Ledumahadi with this to ride it.",
+      "Trans": {"SC":"装备此鞍可骑乘巨雷龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "BBA2A4934FC1116195D518874DBAE16C",
+      "Source": "Bite/Shoulder Check/Tail Slam",
+      "Trans": {"SC":"撕咬/肩撞/尾砸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1345321445"}
+    },
+    {
+      "NamespaceHash": "D2B7AD5C492CB659291A28BCC5CC9A3B",
+      "Source": "Head Bash",
+      "Trans": {"SC":"头锤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3516372728"}
+    },
+    {
+      "NamespaceHash": "7C1B697249C2E3D5A39DC18879700640",
+      "Source": "Stance Change (to Biped)",
+      "Trans": {"SC":"姿态切换（变为双足）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1651635284"}
+    },
+    {
+      "NamespaceHash": "3825DCE14A628EC08AA49F9ACCA9A555",
+      "Source": "Thunderpulse (requires full charge)",
+      "Trans": {"SC":"雷霆脉冲（需充满能量）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3304411802"}
+    },
+    {
+      "NamespaceHash": "230B1B264E127EC45EBB988F3687B69C",
+      "Source": "Toggle Turn in Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1006799724"}
+    },
+    {
+      "NamespaceHash": "F139201244FF4E44F433FC9063AA540E",
+      "Source": "Bite - Reduce Heat",
+      "Trans": {"SC":"撕咬 - 降低热量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3197060562"}
+    },
+    {
+      "NamespaceHash": "42C8B29E4DF445A17E435A8CC7D83AC3",
+      "Source": "Claw - Increase Heat",
+      "Trans": {"SC":"爪击 - 增加热量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2194008456"}
+    },
+    {
+      "NamespaceHash": "3D5F44A24ED87045488DA2B73BDA1801",
+      "Source": "Roar - Activate Simmering Malice",
+      "Trans": {"SC":"咆哮 - 激活暗燃恶意","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"98544950"}
+    },
+    {
+      "NamespaceHash": "Content::3267286399",
+      "Source": "Tailswipe (Look behind)",
+      "Trans": {"SC":"扫尾（看向后方）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2736580918",
+      "Source": "Empiro Overheated",
+      "Trans": {"SC":"帝王龙过热","JA":"帝王龙過熱"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::911872453",
+      "Source": "The Empiro is suffering from heat exhaustion preventing running and use of claw attack",
+      "Trans": {"SC":"帝王龙正遭受中暑折磨，无法奔跑及使用爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "13F78C6E4597EEE4C555C980E0C57E36",
+      "Source": "Claw Swipe/Tail Swipe",
+      "Trans": {"SC":"爪挥/扫尾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"139528314"}
+    },
+    {
+      "NamespaceHash": "25CE9AD942DFAD0BE02D35961C394A3F",
+      "Source": "(hold) Block",
+      "Trans": {"SC":"（按住）格挡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2631594544"}
+    },
+    {
+      "NamespaceHash": "83E3521041D653AB998C1DAB247847AB",
+      "Source": "Stance Change (to Quadruped)",
+      "Trans": {"SC":"姿态切换（变为四足）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2654334568"}
+    },
+    {
+      "NamespaceHash": "E08A6101400ACF15391FEC9F440516F6",
+      "Source": "Thunderclap (requires full charge)",
+      "Trans": {"SC":"雷霆拍击（需充满能量）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1444739202"}
+    },
+    {
+      "NamespaceHash": "Content::3590671956",
+      "Source": "Thunderclapped!",
+      "Trans": {"SC":"雷霆震击！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2302270606",
+      "Source": "Simmering Malice",
+      "Trans": {"SC":"暗涌恶意","JA":"暗涌惡意"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1643462144",
+      "Source": "Empiro is full of Malice. Improves speed and attack speed. Kill the Empiros chosen target to extend the duration.",
+      "Trans": {"SC":"帝王龙满是恶意。提升速度与攻击速度。击杀帝王龙选中的目标可延长持续时间。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::80F521BD44A8CDBB4D80629A97EB7EEA",
+      "Source": "Damage: {Amount}%",
+      "Trans": {"SC":"伤害：{Amount}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2518799070"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3822590549174EE38162839FA0E0D2D6",
+      "Source": "Malice: {Amount}%",
+      "Trans": {"SC":"恶意：{Amount}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"908812588"}
+    },
+    {
+      "NamespaceHash": "Content::190009369",
+      "Source": "wants to start hunting a nearby creature!",
+      "Trans": {"SC":"想要开始狩猎附近的生物！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::32235B9249205AE0FA7EBF8524DA8E25",
+      "Source": "Heat:   {Amount}%",
+      "Trans": {"SC":"热量：{Amount}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3684031979"}
+    },
+    {
+      "NamespaceHash": "Content::674433222",
+      "Source": "Thunder Resistance",
+      "Trans": {"SC":"雷电抗性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2402705108",
+      "Source": "Kinetic Energy",
+      "Trans": {"SC":"动能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2012798507",
+      "Source": "[COUNTER!]",
+      "Trans": {"SC":"[反击!]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::565713752",
+      "Source": "[Thunderclap Ready!]",
+      "Trans": {"SC":"[雷霆拍击就绪!]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1291558537",
+      "Source": "Thunderclap Ready!",
+      "Trans": {"SC":"雷霆一击准备就绪！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3877132079",
+      "Source": "COUNTER!",
+      "Trans": {"SC":"反击！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3EB4515B4FCDD2A6CC5897ACB76903D1",
+      "Source": "Overheated!",
+      "Trans": {"SC":"过热！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2514493887"}
+    },
+    {
+      "NamespaceHash": "Content::278485073",
+      "Source": "Overheated",
+      "Trans": {"SC":"过热","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2079912856",
+      "Source": "Milton Plushie",
+      "Trans": {"SC":"Milton毛绒玩具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3734554293",
+      "Source": "Equip an Empirosaurus or Ledumahadi saddle with this. In rememberence of our fluffy friend who battled cancer",
+      "Trans": {"SC":"将此物装备到帝王龙或巨雷龙鞍上。以纪念我们那位与癌症抗争的毛茸茸的朋友","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "93A51F3648109C3EE33969AB1C139AA3",
+      "Source": "Tailswipe (Look behind) ",
+      "Trans": {"SC":"扫尾（看向后方）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3267286399"}
+    },
+    {
+      "NamespaceHash": "Content::703805686",
+      "Source": "Radial Wheel Menu",
+      "Trans": {"SC":"环形轮盘菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "059B063E408582D1CEB0A89A54F1215B",
+      "Source": "Toggle Turn in Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1006799724"}
+    },
+    {
+      "NamespaceHash": "Content::479427857",
+      "Source": "Ledu Empiro Fight",
+      "Trans": {"SC":"巨雷&帝王之战","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3413878092",
+      "Source": "Valgueran Ledumahadi",
+      "Trans": {"SC":"瓦尔盖罗巨雷龙","JA":"瓦尔盖羅巨雷龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3094671617",
+      "Source": "Alpha Revenant Empirosaurus",
+      "Trans": {"SC":"精英怨灵帝王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4036088659",
+      "Source": "Fertilized Valgueran Ledumahadi Egg",
+      "Trans": {"SC":"受精的瓦尔盖罗巨雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2182415581",
+      "Source": "Equip an Empirosaurus or Ledumahadi saddle with this. For those nights where you need a cuddlebuddy",
+      "Trans": {"SC":"用这个装备帝王龙或巨雷龙鞍。为了那些你需要一个拥抱伙伴的夜晚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3980051271",
+      "Source": "Empiro Basking",
+      "Trans": {"SC":"帝国休憩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3723465417",
+      "Source": "Empiro consumes food and water at half the normal speed. It also recovers 2.5% health and 5% stamina per second.",
+      "Trans": {"SC":"帝王龙消耗食物和水的速度为正常速度的一半。它每秒还会恢复2.5%的生命值和5%的耐力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::331166608",
+      "Source": "Kill large creatures to build up Malice. When at 100% Malice, Roar to activate Simmering Malice.",
+      "Trans": {"SC":"击杀大型生物以积累恶意值。当恶意值达到100%时，咆哮以激活沸腾恶意。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2041930941",
+      "Source": "You are resistant to Ledumahadi's thunder attacks!",
+      "Trans": {"SC":"你对巨雷龙的雷电攻击具有抗性！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3912589967",
+      "Source": "Simbakubwa",
+      "Trans": {"SC":"辛巴库巴","JA":"辛巴庫巴"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    }
+  ]
+}

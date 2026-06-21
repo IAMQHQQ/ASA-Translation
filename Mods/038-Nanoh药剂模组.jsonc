@@ -1,0 +1,316 @@
+{
+  "Nanoh药剂模组": [//2025.11.29
+    {
+      "NamespaceHash": "Content::1451350421",
+      "Source": "Breeding Potion",
+      "Trans": {"SC":"繁殖药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::588963836",
+      "Source": "This potion instantly resets thre breeding timer on a female dino. This only works once every 20 minutes.",
+      "Trans": {"SC":"此药水可立即重置雌性恐龙的繁殖计时器。每 20 分钟仅能使用一次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1273187055",
+      "Source": "Crafting Skil Potion",
+      "Trans": {"SC":"制作提升药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1176837803",
+      "Source": "This potion boosts your crafting skill.",
+      "Trans": {"SC":"此药水可提升你的制作技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2365642174",
+      "Source": "Fortitude Potion",
+      "Trans": {"SC":"抗性药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::508650171",
+      "Source": "This potion increases your fortitude temporarily.",
+      "Trans": {"SC":"此药水可暂时提升你的抗性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3101210242",
+      "Source": "Gender Swap Potion",
+      "Trans": {"SC":"变性药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3331267968",
+      "Source": "This Potion swaps the gender of a male or female dino.",
+      "Trans": {"SC":"此药水可转换雄性或雌性恐龙的性别。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3892301018",
+      "Source": "Gestation Potion",
+      "Trans": {"SC":"妊娠药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2403686347",
+      "Source": "This potion sets the Gestation Timer of a gestating dino to 99.5%. This can only be used once every 30 minutes.",
+      "Trans": {"SC":"此药水可将处于妊娠期的恐龙的妊娠进度提升至99.5%。每 30 分钟仅可使用一次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::364689459",
+      "Source": "Gills Potion",
+      "Trans": {"SC":"氧气药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2965647127",
+      "Source": "This potion slowly restores your oxygen over time for 120 seconds.",
+      "Trans": {"SC":"此药水可在 120 秒内缓慢恢复你的氧气值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2898671831",
+      "Source": "Growup Potion",
+      "Trans": {"SC":"成长药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::427754933",
+      "Source": "This item instantly grows up and imprints a baby dino.",
+      "Trans": {"SC":"此药水可使幼年恐龙立即成长并完成留痕。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::236399619",
+      "Source": "Healing Potion",
+      "Trans": {"SC":"治疗药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1381199832",
+      "Source": "This heals either you or your dino over time for 1% of your health per second.",
+      "Trans": {"SC":"此药水会随时间治疗你或你的恐龙，每秒恢复 1% 的生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2081533781",
+      "Source": "Alpha Healing Potion",
+      "Trans": {"SC":"高级治疗药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4118318808",
+      "Source": "This heals either you or your dino over time for 10% of your health per second. Gives 5 per craft.",
+      "Trans": {"SC":"此药水会随时间治疗你或你的恐龙，每秒恢复 10% 的生命值。每次制作可获得 5 瓶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::927457511",
+      "Source": "Beta Healing Potion",
+      "Trans": {"SC":"中级治疗药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::278294860",
+      "Source": "This heals either you or your dino over time for 5% of your health per second. Gives 5 per craft.",
+      "Trans": {"SC":"此药水会随时间治疗你或你的恐龙，每秒恢复 5% 的生命值。每次制作可获得 5 瓶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2251383837",
+      "Source": "Gamma Healing Potion",
+      "Trans": {"SC":"普通治疗药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1159910235",
+      "Source": "This heals either you or your dino over time for 2.5% of your health per second. Gives 5 per craft.",
+      "Trans": {"SC":"此药水会随时间治疗你或你的恐龙，每秒恢复 2.5% 的生命值。每次制作可获得 5 瓶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2061319314",
+      "Source": "Instakill Potion",
+      "Trans": {"SC":"瞬杀药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3848928235",
+      "Source": "This potion will instakill either you or your dino upon consumption.",
+      "Trans": {"SC":"此药水在饮用后会秒杀你或你的恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4097149072",
+      "Source": "Anti Lava Potion",
+      "Trans": {"SC":"岩浆免疫药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2707565785",
+      "Source": "This potion protects you from the devastating heat of lava. The effects last for 30 minutes.",
+      "Trans": {"SC":"此药水可保护你免受熔岩毁灭性高温的伤害，效果持续 30 分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1303122898",
+      "Source": "Leave Me Alone Potion",
+      "Trans": {"SC":"勿扰药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3539232374",
+      "Source": "This potion causes wild dinos to ignore you for a short time.",
+      "Trans": {"SC":"此药水可使野生恐龙在短时间内无视你。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3413588382",
+      "Source": "Melee Potion",
+      "Trans": {"SC":"近战药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3183370308",
+      "Source": "This potion instantly enrages you, causing you to output more melee damage.",
+      "Trans": {"SC":"\"我真的生气了！\"此药水会立即使你暴怒，导致你输出更高的近战伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::391140219",
+      "Source": "Potion Jar",
+      "Trans": {"SC":"药水瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1816571732",
+      "Source": "Literally only used for making potions.",
+      "Trans": {"SC":"从字面上看，仅用于制作药水。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2935452299",
+      "Source": "Rare Flower Potion",
+      "Trans": {"SC":"稀有花朵药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3390687904",
+      "Source": "This potion enrages dinos around you. The effects last for 5 minutes.",
+      "Trans": {"SC":"此药水会激怒你周围的恐龙，效果持续 5 分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1104826256",
+      "Source": "Repleneshing Potion",
+      "Trans": {"SC":"补充药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3647885189",
+      "Source": "This potion instantly refills your food and water. This also works on your dino.",
+      "Trans": {"SC":"此药水可立即补充你的食物和水分，对恐龙也同样有效。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1956950446",
+      "Source": "Speed Potion",
+      "Trans": {"SC":"速度药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1179593354",
+      "Source": "Consume this potion to get a boost to your speed.",
+      "Trans": {"SC":"饮用此药水可提升你的速度。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3874599222",
+      "Source": "Stamina Potion",
+      "Trans": {"SC":"耐力药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1063947080",
+      "Source": "This potion instantly refills either you or your dino's stamina.",
+      "Trans": {"SC":"此药水可立即补充你或你的恐龙的耐力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1343499000",
+      "Source": "Anti Swamp Cave Potion",
+      "Trans": {"SC":"感染免疫药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3117527490",
+      "Source": "This potion protects your from the dangerous air inside of the swamp cave. The effects last for 30 minutes.",
+      "Trans": {"SC":"此药水可保护你免受沼泽洞穴内危险空气的伤害，效果持续 30 分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3535357883",
+      "Source": "This Potion drains food from the target.",
+      "Trans": {"SC":"此药水会消耗目标的食物值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1441324017",
+      "Source": "This potion drains the food of a knocked out wild dino.",
+      "Trans": {"SC":"此药水会消耗被击晕的野生恐龙的食物值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1949160413",
+      "Source": "Wakeup Potion",
+      "Trans": {"SC":"苏醒药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3023122474",
+      "Source": "This potion instantly removes all torpidity from you or your dino.",
+      "Trans": {"SC":"此药水可立即消除你或你的恐龙的所有眩晕值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::503937020",
+      "Source": "Weight Potion",
+      "Trans": {"SC":"负重药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4117873646",
+      "Source": "This potion will set either you or your dinos weight to 99999.",
+      "Trans": {"SC":"此药水会将你或你的恐龙的负重值设定为 99999。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4034989100",
+      "Source": "XP Potion",
+      "Trans": {"SC":"经验药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::158456304",
+      "Source": "This potion will provide an experience increasing buff that lasts for 10 minutes. This will work on either you or your dino.",
+      "Trans": {"SC":"此药水将提供持续 10 分钟的经验buff加成，对你或你的恐龙均有效。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3248364296",
+      "Source": "Potion Pot",
+      "Trans": {"SC":"药剂锅","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3420558272",
+      "Source": "Make potions lol",
+      "Trans": {"SC":"制作药剂，哈哈。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

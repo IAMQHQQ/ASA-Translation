@@ -1,0 +1,3808 @@
+{
+  "起源": [//2026年5月21日
+    {
+      "NamespaceHash": "Content::1027385316",
+      "Source": "Smough, Warden Of The Isle",
+      "Trans": {"SC":"草原守望者星尾兽","JA":"草原守望者星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1031888316",
+      "Source": "Alpha Giganotosaurus",
+      "Trans": {"SC":"精英南方巨兽龙","JA":"精英南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1058974638",
+      "Source": "Badass Frost Terror Bird",
+      "Trans": {"SC":"冰系骇鸟","JA":"冰系駭鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1059456357",
+      "Source": "Elite Araneo",
+      "Trans": {"SC":"精锐蜘蛛","JA":"精銳蜘蛛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1063486734",
+      "Source": "Golden Dodo",
+      "Trans": {"SC":"黄金渡渡鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1072778076",
+      "Source": "Badass Fire Onyc",
+      "Trans": {"SC":"火系爪蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1107025863",
+      "Source": "Badass Mountain Ankylosaurus",
+      "Trans": {"SC":"土系甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1133420473",
+      "Source": "Prime Alpha Sabertooth",
+      "Trans": {"SC":"至尊精英刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1136600132",
+      "Source": "Elite Titanomyrma Soldier",
+      "Trans": {"SC":"精锐泰坦兵蚁","JA":"精銳泰坦兵蟻"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1186657006",
+      "Source": "Toxio, The Kickass Baby",
+      "Trans": {"SC":"毒液渡渡霸王龙宝贝","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1205915432",
+      "Source": "Ancient Quetzalcoatlus",
+      "Trans": {"SC":"远古风神翼龙","JA":"遠古风神翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1223807042",
+      "Source": "Karkinos, Warden Of The Rivers",
+      "Trans": {"SC":"河流守望者帝鳄","JA":"河流守望者帝鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1229527768",
+      "Source": "Badass Fire Gigantopithecus",
+      "Trans": {"SC":"火系巨猿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1239296381",
+      "Source": "Primal Megapithecus",
+      "Trans": {"SC":"原始金刚","JA":"原始金剛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1251496949",
+      "Source": "Apex Tyrannosaurus Rex",
+      "Trans": {"SC":"顶尖霸王龙","JA":"頂端霸王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1258174725",
+      "Source": "Badass Poison Tyrannosaurus Rex",
+      "Trans": {"SC":"毒系霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1296611973",
+      "Source": "Raphus, The Celestial",
+      "Trans": {"SC":"幻影渡渡霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1304650327",
+      "Source": "Ancient Tyrannosaurus Rex",
+      "Trans": {"SC":"远古霸王龙","JA":"遠古霸王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1310916624",
+      "Source": "Alpha Dire Bear",
+      "Trans": {"SC":"精英恐熊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1356547430",
+      "Source": "Badass Frost Sabertooth",
+      "Trans": {"SC":"冰系刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1422035991",
+      "Source": "Badass Frost Pulmonoscorpius",
+      "Trans": {"SC":"冰系巨蝎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1450187267",
+      "Source": "Kickass Frost Drake",
+      "Trans": {"SC":"冰系小喷火龙","JA":"冰系小噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1452787167",
+      "Source": "Badass Poison Beelzebufo",
+      "Trans": {"SC":"毒系魔鬼蛙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1505137281",
+      "Source": "Badass Fire Beelzebufo",
+      "Trans": {"SC":"火系魔鬼蛙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1508188198",
+      "Source": "Alpha Woolly Rhino",
+      "Trans": {"SC":"精英披毛犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1527805823",
+      "Source": "Frosty, The Kickass Baby",
+      "Trans": {"SC":"冰霜渡渡霸王龙宝贝","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1541218301",
+      "Source": "Badass Poison Pachy",
+      "Trans": {"SC":"毒系肿头龙","JA":"毒系腫頭龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1547913940",
+      "Source": "Uber Araneo Broodmother",
+      "Trans": {"SC":"育母蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1551890720",
+      "Source": "Kickass Poison Drake",
+      "Trans": {"SC":"毒系小喷火龙","JA":"毒系小噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1561759804",
+      "Source": "Alpha Terror Bird",
+      "Trans": {"SC":"精英骇鸟","JA":"精英駭鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::159651023",
+      "Source": "Alpha Direwolf",
+      "Trans": {"SC":"精英恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1615131592",
+      "Source": "Tyrant, The Omega",
+      "Trans": {"SC":"欧米伽暴君","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1615860050",
+      "Source": "Badass Fire Ankylosaurus",
+      "Trans": {"SC":"火系甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1630159656",
+      "Source": "Badass Frost Doedicurus",
+      "Trans": {"SC":"冰系星尾兽","JA":"冰系星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1697053757",
+      "Source": "Alpha Tyrannosaurus Rex",
+      "Trans": {"SC":"精英霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1704203430",
+      "Source": "Perdition, Warden Of The Plains",
+      "Trans": {"SC":"平原守望者披毛犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1712318939",
+      "Source": "Primal DodoRex",
+      "Trans": {"SC":"原始渡渡霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1751716641",
+      "Source": "Euraka's Disposal",
+      "Trans": {"SC":"沼泽守望者魔鬼蛙侍卫","JA":"沼澤守望者魔鬼蛙侍衛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1796526732",
+      "Source": "Elite Turkey",
+      "Trans": {"SC":"精锐火鸡","JA":"精銳火雞"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1825340497",
+      "Source": "Avatar, Master Of The Elements",
+      "Trans": {"SC":"元素主宰化身","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1872865063",
+      "Source": "Alpha Allosaurus",
+      "Trans": {"SC":"精英异特龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1893596615",
+      "Source": "Champion Leedsichthys",
+      "Trans": {"SC":"冠军利兹鱼","JA":"冠軍利兹鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1951080455",
+      "Source": "Badass Frost Pteranodon",
+      "Trans": {"SC":"冰系无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1973002675",
+      "Source": "Badass Poison Pelagornis",
+      "Trans": {"SC":"毒系伪齿鸟","JA":"毒系偽齿鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2003231786",
+      "Source": "Badass Frost Raptor",
+      "Trans": {"SC":"冰系迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::200595483",
+      "Source": "Badass Frost Castoroides",
+      "Trans": {"SC":"冰系巨河狸","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2032882327",
+      "Source": "Elite Dimorphodon",
+      "Trans": {"SC":"精锐双齿翼龙","JA":"精銳双齿翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::205478575",
+      "Source": "Badass Poison Direwolf",
+      "Trans": {"SC":"毒系恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2058942189",
+      "Source": "Badass Fire Pelagornis",
+      "Trans": {"SC":"火系伪齿鸟","JA":"火系偽齿鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2075756597",
+      "Source": "Prime Alpha Dire Bear",
+      "Trans": {"SC":"至尊精英恐熊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2146981073",
+      "Source": "Badass Frost Spinosaurus",
+      "Trans": {"SC":"冰系棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2193058420",
+      "Source": "Badass Fire Direwolf",
+      "Trans": {"SC":"火系恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2206978284",
+      "Source": "Badass Fire Pulmonoscorpius",
+      "Trans": {"SC":"火系巨蝎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2209795668",
+      "Source": "Badass Fire Carnotaurus",
+      "Trans": {"SC":"火系肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2269250387",
+      "Source": "Alpha Argentavis",
+      "Trans": {"SC":"精英阿根廷鹫","JA":"精英阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227243449",
+      "Source": "Alpha Quetzalcoatlus",
+      "Trans": {"SC":"精英风神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2282029057",
+      "Source": "Prime Alpha Direwolf",
+      "Trans": {"SC":"至尊精英恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2284742365",
+      "Source": "Badass Poison Ankylosaurus",
+      "Trans": {"SC":"毒系甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2294605311",
+      "Source": "Badass Fire Raptor",
+      "Trans": {"SC":"火系迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2313314375",
+      "Source": "Champion Brontosaurus",
+      "Trans": {"SC":"冠军雷龙","JA":"冠軍雷龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2316731141",
+      "Source": "Badass Poison Onyc",
+      "Trans": {"SC":"毒系爪蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2365638314",
+      "Source": "Elite Dilophosaur",
+      "Trans": {"SC":"精锐双脊龙","JA":"精銳双脊龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2367489059",
+      "Source": "Badass Poison Spinosaurus",
+      "Trans": {"SC":"毒系棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2421978828",
+      "Source": "Badass Fire Tyrannosaurus Rex",
+      "Trans": {"SC":"火系霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2426969956",
+      "Source": "Uber Megapithecus",
+      "Trans": {"SC":"大金刚","JA":"大金剛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2439853914",
+      "Source": "Alpha Dodo",
+      "Trans": {"SC":"精英嘟嘟鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2482680714",
+      "Source": "Badass Fire Terror Bird",
+      "Trans": {"SC":"火系骇鸟","JA":"火系駭鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2485991618",
+      "Source": "Gnashor, Warden Of The Beach",
+      "Trans": {"SC":"海滩守望者碳龟","JA":"海灘守望者碳龟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2491138739",
+      "Source": "Badass Frost Onyc",
+      "Trans": {"SC":"冰系爪蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2500707037",
+      "Source": "Champion Plesiosaur",
+      "Trans": {"SC":"冠军蛇颈龙","JA":"冠軍蛇頸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2504383369",
+      "Source": "Primordius, The Celestial",
+      "Trans": {"SC":"幻影喷火龙","JA":"幻影噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2504702265",
+      "Source": "Badass Fire Sabertooth",
+      "Trans": {"SC":"火系刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2551331803",
+      "Source": "Alpha Carcharodontosaurus",
+      "Trans": {"SC":"精英鲨齿龙","JA":"精英鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2590764647",
+      "Source": "Badass Poison Sabertooth",
+      "Trans": {"SC":"毒系刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2619829982",
+      "Source": "Badass Frost Beelzebufo",
+      "Trans": {"SC":"冰系魔鬼蛙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2650818083",
+      "Source": "Badass Frost Gigantopithecus",
+      "Trans": {"SC":"冰系巨猿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::272478484",
+      "Source": "Blaze, The Kickass Baby",
+      "Trans": {"SC":"火焰渡渡霸王龙宝贝","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2763767671",
+      "Source": "Badass Fire Doedicurus",
+      "Trans": {"SC":"火系星尾兽","JA":"火系星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2802892863",
+      "Source": "Badass Fire Castoroides",
+      "Trans": {"SC":"火系巨河狸","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2879055913",
+      "Source": "Badass Poison Doedicurus",
+      "Trans": {"SC":"毒系星尾兽","JA":"毒系星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2892894934",
+      "Source": "Kickass Fire Drake",
+      "Trans": {"SC":"火系小喷火龙","JA":"火系小噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2917341746",
+      "Source": "Prime Alpha Carcharodontosaurus",
+      "Trans": {"SC":"至尊精英鲨齿龙","JA":"至尊精英鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2920590386",
+      "Source": "Mormaw, Warden Of The Ocean",
+      "Trans": {"SC":"深海守望者沧龙","JA":"深海守望者滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2951956137",
+      "Source": "Badass Fire Procoptodon",
+      "Trans": {"SC":"火系巨型袋鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2957180244",
+      "Source": "Elegon, The Celestial",
+      "Trans": {"SC":"毒系幻影喷火龙","JA":"毒系幻影噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2979024352",
+      "Source": "Champion Mosasaurus",
+      "Trans": {"SC":"冠军沧龙","JA":"冠軍滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2983910488",
+      "Source": "Badass Fire Pteranodon",
+      "Trans": {"SC":"火系无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::299657402",
+      "Source": "Rawaiim, Warden Of The Mountains",
+      "Trans": {"SC":"山脉守望者南方巨兽龙","JA":"山脉守望者南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::306235778",
+      "Source": "Badass Poison Therizinosaur",
+      "Trans": {"SC":"毒系镰刀龙","JA":"毒系鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3091661528",
+      "Source": "Badass Frost Ankylosaurus",
+      "Trans": {"SC":"冰系甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3159680877",
+      "Source": "Odracir, Warchief Of The ARK",
+      "Trans": {"SC":"战争领主","JA":"戰争領主"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3204156166",
+      "Source": "Badass Poison Pteranodon",
+      "Trans": {"SC":"毒系无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3207137970",
+      "Source": "Badass Frost Pelagornis",
+      "Trans": {"SC":"冰系伪齿鸟","JA":"冰系偽齿鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3228652418",
+      "Source": "Badass Fire Mesopithecus",
+      "Trans": {"SC":"火系中猴","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3284352223",
+      "Source": "Odracir, The Enslaved",
+      "Trans": {"SC":"战争领主（驯服）","JA":"戰争領主（馴服）"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3316254206",
+      "Source": "Badass Frost Tyrannosaurus Rex",
+      "Trans": {"SC":"冰系霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3328703058",
+      "Source": "Badass Mountain Doedicurus",
+      "Trans": {"SC":"土系星尾兽","JA":"土系星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3360158547",
+      "Source": "Alpha Mammoth",
+      "Trans": {"SC":"精英猛犸象","JA":"精英猛獁象"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3365689983",
+      "Source": "Badass Mountain Castoroides",
+      "Trans": {"SC":"土系巨河狸","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3378776667",
+      "Source": "Apex Carnotaurus",
+      "Trans": {"SC":"顶尖肉食牛龙","JA":"頂端肉食牛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3420798794",
+      "Source": "Alpha Plesiosaur",
+      "Trans": {"SC":"精英蛇颈龙","JA":"精英蛇頸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3429841979",
+      "Source": "Euraka, Warden Of The Swamps",
+      "Trans": {"SC":"沼泽守望者魔鬼蛙","JA":"沼澤守望者魔鬼蛙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3451062797",
+      "Source": "ZomDodo",
+      "Trans": {"SC":"僵尸渡渡鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3455843164",
+      "Source": "Badass Poison Terror Bird",
+      "Trans": {"SC":"毒系骇鸟","JA":"毒系駭鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3486148740",
+      "Source": "Champion Quetzal",
+      "Trans": {"SC":"冠军风神翼龙","JA":"冠軍风神翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3541847285",
+      "Source": "Badass Fire Spinosaurus",
+      "Trans": {"SC":"火系棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3562283650",
+      "Source": "Primal Dragon",
+      "Trans": {"SC":"原始喷火龙","JA":"原始噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3595225956",
+      "Source": "Alpha Triceratops",
+      "Trans": {"SC":"精英三角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3618122352",
+      "Source": "Alpha Doedicurus",
+      "Trans": {"SC":"精英星尾兽","JA":"精英星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3629169157",
+      "Source": "Badass Fire Pachy",
+      "Trans": {"SC":"火系肿头龙","JA":"火系腫頭龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::367676632",
+      "Source": "Elite Meganeura",
+      "Trans": {"SC":"精锐巨脉蜻蜓","JA":"精銳巨脉蜻蜓"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3680757586",
+      "Source": "Badass Frost Megalodon",
+      "Trans": {"SC":"冰系巨齿鲨","JA":"冰系巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3719792258",
+      "Source": "Badass Poison Carnotaurus",
+      "Trans": {"SC":"毒系肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::376753061",
+      "Source": "Badass Poison Megalodon",
+      "Trans": {"SC":"毒系巨齿鲨","JA":"毒系巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3849141217",
+      "Source": "Badass Poison Gigantopithecus",
+      "Trans": {"SC":"毒系巨猿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3864603710",
+      "Source": "Alpha Sabertooth",
+      "Trans": {"SC":"精英刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3920178952",
+      "Source": "Badass Fire Therizinosaur",
+      "Trans": {"SC":"火系镰刀龙","JA":"火系鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3936284201",
+      "Source": "Nilloc, Warden Of The Sky",
+      "Trans": {"SC":"天空守望者阿根廷鹫","JA":"天空守望者阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3949352250",
+      "Source": "Uber DodoRex",
+      "Trans": {"SC":"渡渡霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3964182899",
+      "Source": "Bokito, Warden Of The Snow",
+      "Trans": {"SC":"雪地守望者金刚","JA":"雪地守望者金剛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3965037562",
+      "Source": "Alpha Ankylosaurus",
+      "Trans": {"SC":"精英甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::398494026",
+      "Source": "Alpha Dilophosaur",
+      "Trans": {"SC":"精英双脊龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3996741792",
+      "Source": "Badass Poison Raptor",
+      "Trans": {"SC":"毒系迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4032563301",
+      "Source": "Prime Alpha Quetzalcoatlus",
+      "Trans": {"SC":"至尊精英风神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4058589459",
+      "Source": "Elite Titanoboa",
+      "Trans": {"SC":"精锐泰坦巨蟒","JA":"精銳泰坦巨蟒"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4059172479",
+      "Source": "Badass Poison Procoptodon",
+      "Trans": {"SC":"毒系巨型袋鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::409252808",
+      "Source": "Badass Mountain Pelagornis",
+      "Trans": {"SC":"土系伪齿鸟","JA":"土系偽齿鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::409354248",
+      "Source": "Badass Frost Mesopithecus",
+      "Trans": {"SC":"冰系中猴","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4098987604",
+      "Source": "Badass Fire Argentavis",
+      "Trans": {"SC":"火系阿根廷鹫","JA":"火系阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4102909649",
+      "Source": "Badass Frost Direwolf",
+      "Trans": {"SC":"冰系恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4154655559",
+      "Source": "Golden Turkey",
+      "Trans": {"SC":"黄金火鸡","JA":"黄金火雞"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4171676174",
+      "Source": "Badass Frost Therizinosaur",
+      "Trans": {"SC":"冰系镰刀龙","JA":"冰系鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4178675945",
+      "Source": "Badass Poison Castoroides",
+      "Trans": {"SC":"毒系巨河狸","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4187812008",
+      "Source": "Badass Mountain Therizinosaur",
+      "Trans": {"SC":"土系镰刀龙","JA":"土系鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4218470666",
+      "Source": "Badass Poison Argentavis",
+      "Trans": {"SC":"毒系阿根廷鹫","JA":"毒系阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4243438500",
+      "Source": "Alpha Utahraptor",
+      "Trans": {"SC":"精英迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4268396244",
+      "Source": "Odracir's Disposal",
+      "Trans": {"SC":"战争领主护卫者","JA":"戰争領主護衛者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::434862056",
+      "Source": "Elite Compy",
+      "Trans": {"SC":"精锐美颌龙","JA":"精銳美頜龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::482508399",
+      "Source": "Apex Utahraptor",
+      "Trans": {"SC":"顶尖迅猛龙","JA":"頂端迅猛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::502296387",
+      "Source": "Alpha Spinosaurus",
+      "Trans": {"SC":"精英棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::518169560",
+      "Source": "Uber Dragon",
+      "Trans": {"SC":"喷火龙","JA":"噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::51863181",
+      "Source": "Badass Frost Procoptodon",
+      "Trans": {"SC":"冰系巨型袋鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::592930166",
+      "Source": "Ancient Utahraptor",
+      "Trans": {"SC":"远古迅猛龙","JA":"遠古迅猛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::672080909",
+      "Source": "Badass Poison Mesopithecus",
+      "Trans": {"SC":"毒系中猴","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::765751097",
+      "Source": "Alpha Sarcosuchus",
+      "Trans": {"SC":"精英帝鳄","JA":"精英帝鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::793958000",
+      "Source": "Badass Frost Carnotaurus",
+      "Trans": {"SC":"冰系肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::818306666",
+      "Source": "Alpha Therizinosaur",
+      "Trans": {"SC":"精英镰刀龙","JA":"精英鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::834693643",
+      "Source": "Badass Frost Argentavis",
+      "Trans": {"SC":"冰系阿根廷鹫","JA":"冰系阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::928675969",
+      "Source": "Elite Dodo",
+      "Trans": {"SC":"精锐渡渡鸟","JA":"精銳渡渡鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::952156613",
+      "Source": "Badass Frost Pachy",
+      "Trans": {"SC":"冰系肿头龙","JA":"冰系腫頭龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::974171337",
+      "Source": "Badass Fire Megalodon",
+      "Trans": {"SC":"火系巨齿鲨","JA":"火系巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::988663803",
+      "Source": "Elite Mesopithecus",
+      "Trans": {"SC":"精锐中猴","JA":"精銳中猴"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::996857764",
+      "Source": "Badass Mountain Beelzebufo",
+      "Trans": {"SC":"土系魔鬼蛙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::998264621",
+      "Source": "Primal Araneo Broodmother",
+      "Trans": {"SC":"原始育母蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3511019185",
+      "Source": "Blaze, The Badass Baby",
+      "Trans": {"SC":"火系渡渡霸王龙宝贝","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1643219106",
+      "Source": "Frosty, The Badass Baby",
+      "Trans": {"SC":"冰系渡渡霸王龙宝贝","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3145021868",
+      "Source": "Toxio, The Badass Baby",
+      "Trans": {"SC":"毒系渡渡霸王龙宝贝","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3253666126",
+      "Source": "Badass Fire Drake",
+      "Trans": {"SC":"火系小喷火龙","JA":"火系小噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::562002574",
+      "Source": "Badass Frost Drake",
+      "Trans": {"SC":"冰系小喷火龙","JA":"冰系小噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1113760950",
+      "Source": "Badass Poison Drake",
+      "Trans": {"SC":"毒系小喷龙","JA":"毒系小噴龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1274624971",
+      "Source": "Primal ZomDodo",
+      "Trans": {"SC":"原始僵尸渡渡鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3506967393",
+      "Source": "Primal Wyvern",
+      "Trans": {"SC":"原始双足飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3499866363",
+      "Source": "Primal Sasquatch",
+      "Trans": {"SC":"原始巨猿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2292357318",
+      "Source": "Primal Araneo",
+      "Trans": {"SC":"原始蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1846209755",
+      "Source": "Primal Araneo Broodmother Lysrix",
+      "Trans": {"SC":"原始育母蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1006887065",
+      "Source": "This costume can be used to make your Carno look just like a original alpha, cool!",
+      "Trans": {"SC":"这套服装可以让你的肉食牛龙看起来像顶尖肉食牛龙，酷!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1020118388",
+      "Source": "You have slain Primordius, The Celestial!<#RN#><#RN#>Raphus Essence is used to craft your very own Annunaki Dragon Matrix.<#RN#><#RN#>This can also be used to craft Primordius's Armor for additional armor value for your Celestial!",
+      "Trans": {"SC":"你已经杀死了幻影喷火龙！<#RN#>幻影喷火龙精华被用来制作你自己的幻影喷火龙矩阵。<#RN#>这也可以用来制作幻影喷火龙的护甲，为你的幻影喷火龙提供额外的护甲值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1048977969",
+      "Source": "Fertilized Badass Frost Carnotaurus Egg",
+      "Trans": {"SC":"受精的冰系肉食牛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1080455856",
+      "Source": "Fertilized Badass Frost Pteranodon Egg",
+      "Trans": {"SC":"受精的冰系无齿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1107922856",
+      "Source": "Annunaki Pick",
+      "Trans": {"SC":"起源镐子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1116125808",
+      "Source": "Consuming this will summon Karkinos, Warden Of The River.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤河流守望者帝鳄.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1119967518",
+      "Source": "You have claimed this mysterious object from slaying your \"3rd\" Primal Guardian.<#RN#><#RN#>Combine all Primal Insignias to make yourself a Uber Broth in the Annunaki Chemistry Bench",
+      "Trans": {"SC":"你已经从杀死你的“第三个”原始守护者中获得了这个神秘的物体。<#RN#>在起源化学工作台中组合所有的信物为自己制作一个超级肉汤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1136947159",
+      "Source": "Skinned from Badass Drake, can be used to craft a Drake Saddle.",
+      "Trans": {"SC":"从小喷火龙身上剥皮，可以用来制作小喷火龙鞍.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1162195755",
+      "Source": "Fertilized Badass Poison Tyrannosaurus Rex Egg",
+      "Trans": {"SC":"受精的毒系霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1171231865",
+      "Source": "Annunaki Fabricator",
+      "Trans": {"SC":"起源泰克复制机","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::117964507",
+      "Source": "Consuming this will summon Rawaiim, Warden Of The Mountains.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤山脉守望者南方巨兽龙.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1186409170",
+      "Source": "Fertilized Badass Poison Pelagornis Egg",
+      "Trans": {"SC":"受精的毒系伪齿鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1202199654",
+      "Source": "Equip a Alpha Giganotosaurus with this to ride it.",
+      "Trans": {"SC":"装备到精英南方巨兽龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1211007047",
+      "Source": "Alpha Raptor Saddle",
+      "Trans": {"SC":"精英迅猛龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1217597461",
+      "Source": "Alpha Spinosaurus Saddle",
+      "Trans": {"SC":"精英棘龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1229979648",
+      "Source": "Alpha Gloves",
+      "Trans": {"SC":"精英手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1230034876",
+      "Source": "Megapithecus Saddle",
+      "Trans": {"SC":"大金刚鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1234819489",
+      "Source": "Broodmother Saddle",
+      "Trans": {"SC":"育母蜘蛛鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1241502919",
+      "Source": "Collected off from a dead warchief Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 10x Crafting Speed</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 5x Increased Damage</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ No Recoil.</>",
+      "Trans": {"SC":"从死去的战争领主身上收集，这将给你的角色一个额外的buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 10x 制作物品速度升级</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 5x 增强攻击力</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 无后坐力.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1252065981",
+      "Source": "Equip a Alpha Woolly Rhino with this to ride it.",
+      "Trans": {"SC":"装备到精英披毛犀上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1256150834",
+      "Source": "Annunaki Shotgun Slug",
+      "Trans": {"SC":"起源散弹枪子弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1258595016",
+      "Source": "Obtained from killing Mormaw! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死深海守望者沧龙获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1262427565",
+      "Source": "Annunaki Tranqulized Sniper Bullet",
+      "Trans": {"SC":"起源麻醉狙击弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1263896034",
+      "Source": "Kickass Saddle",
+      "Trans": {"SC":"龙鞍(小喷火龙和小渡渡霸王龙）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1274939939",
+      "Source": "Use this on a Kickass Drake or Kickass Babies to ride them!",
+      "Trans": {"SC":"把这个装备到小喷火龙和渡渡霸王龙宝贝上!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1276455851",
+      "Source": "Essence Of Karkinos",
+      "Trans": {"SC":"河流守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1288561498",
+      "Source": "Consuming this will summon Mormaw, Warden Of The Ocean.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤深海守望者沧龙.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::130044089",
+      "Source": "A sharp metal hatchet for harvesting wood from trees, stone from rocks, and skin from bodies.<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">Can harvest Seashells for Silica Pearls.</><#RN#><RichColor Color=\"1, 1, 0, 1\">Wood gives extra resources + Sap.</><#RN#><RichColor Color=\"1, 1, 0, 1\">Stone gives extra resources.</>",
+      "Trans": {"SC":"一种锋利的金属斧头，用于从树上砍木头，从岩石上砍石头，从尸体上砍皮肤。<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">打贝壳可以收获硅石珍珠.</><#RN#><RichColor Color=\"1, 1, 0, 1\">木材提供额外的资源 + 树脂.</><#RN#><RichColor Color=\"1, 1, 0, 1\">石头提供了额外的资源.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::130157973",
+      "Source": "DodoRexy Saddle",
+      "Trans": {"SC":"渡渡霸王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1309400103",
+      "Source": "Apex Raptor Head",
+      "Trans": {"SC":"顶尖迅猛龙头骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1323702806",
+      "Source": "Alpha Carcharo Saddle",
+      "Trans": {"SC":"精英鲨齿龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1334925847",
+      "Source": "You have claimed this mysterious object from slaying your \"2nd\" Primal Guardian.<#RN#><#RN#>Combine all Primal Insignias to make yourself a Uber Broth in the Annunaki Chemistry Bench",
+      "Trans": {"SC":"你已经从杀死你的“第二个”原始守护者中获得了这个神秘的物体。<#RN#>在起源化学工作台中组合所有的信物为自己制作一个超级肉汤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1339673239",
+      "Source": "You've slain the third primal guardian, use this craft your Dragon Saddle!",
+      "Trans": {"SC":"你已经杀死了第三个原始守护者，使用这个制作你的喷火龙鞍!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1346797738",
+      "Source": "This Crossbow is an equilivent of a firearm, as it shoots projectiles at light speed.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ No Durablity.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 2 Clips.</>",
+      "Trans": {"SC":"这种弩是一种平衡的火器，因为它以光速发射.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 无耐久.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 2 子弹.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::137374793",
+      "Source": "You have slain Raphus, The Celestial!<#RN#><#RN#>Raphus Essence is used to craft your very own Annunaki Dodorex Matrix.<#RN#><#RN#>This can also be used to craft Raphus's Armor for additional armor value for your Celestial!",
+      "Trans": {"SC":"你已经杀死了幻影渡渡霸王龙！<#RN#>幻影渡渡霸王龙精华被用来制作你自己的幻影渡渡霸王龙矩阵。<#RN#>这也可以用来制作幻影渡渡霸王龙的护甲，为你的幻影渡渡霸王龙提供额外的护甲值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1374484028",
+      "Source": "Equip a Alpha Sarcosuchus with this to ride it.",
+      "Trans": {"SC":"装备到精英帝鳄上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1388257218",
+      "Source": "Alpha Giganotosaurus Saddle",
+      "Trans": {"SC":"精英南方巨兽龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1389162958",
+      "Source": "Alpha Terror Bird Saddle",
+      "Trans": {"SC":"精英骇鸟鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1411467692",
+      "Source": "Collected off from a dead warchief Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Instant Stamina Regeneration.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 6x Stamina Increase.</>",
+      "Trans": {"SC":"从死去的战争领主身上收集，这将给你的角色一个额外的buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 瞬间耐力恢复.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 6x 增加耐力.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1411808278",
+      "Source": "Equip a Alpha Argentavis with this to ride it.",
+      "Trans": {"SC":"装备到精英阿根廷鹫上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::14213901",
+      "Source": "Fertilized Alpha Raptor Egg",
+      "Trans": {"SC":"受精的精英迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1423313884",
+      "Source": "This costume can be used to make your Rex look just like a original alpha, cool!",
+      "Trans": {"SC":"这套服装可以让你的霸王龙看起来像顶尖霸王龙，酷!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1426779239",
+      "Source": "Warchief Chestpiece",
+      "Trans": {"SC":"领主胸甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1430597331",
+      "Source": "Fertilized Elite Dilophosaurus Egg",
+      "Trans": {"SC":"受精的精锐双脊龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1450563558",
+      "Source": "End Game Armor, provides major additional buffs.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 75% Decreased Damage Received.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Immune to temperatures.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 4x Weight Increase.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 20+ Healing Rate.</>",
+      "Trans": {"SC":"游戏末期护甲，提供主要的额外buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 75% 减少受到的伤害.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 不受温度影响.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 4x 增加负重.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 20+ 生命值恢复速度.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1451960408",
+      "Source": "Primordius's Armor",
+      "Trans": {"SC":"幻影喷火龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1453384193",
+      "Source": "Elagon's Armor",
+      "Trans": {"SC":"毒系幻影喷火龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::146127300",
+      "Source": "Warden Leggings",
+      "Trans": {"SC":"守望者护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1483899023",
+      "Source": "Essence Of Euraka",
+      "Trans": {"SC":"沼泽守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1487767211",
+      "Source": "Consuming this will summon Smough, Warden Of The Grassland.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤草原守望者星尾兽.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::150791585",
+      "Source": "Equip a Alpha Tyrannasaurus Rex with this to ride it.",
+      "Trans": {"SC":"装备到精英霸王龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1520746603",
+      "Source": "Warchief Helmet",
+      "Trans": {"SC":"领主头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1527296020",
+      "Source": "Alpha Doedicurus Saddle",
+      "Trans": {"SC":"精英星尾兽鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1531624742",
+      "Source": "Badass Fire Treat",
+      "Trans": {"SC":"火系饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1532650816",
+      "Source": "Fertilized Badass Fire Raptor Egg",
+      "Trans": {"SC":"受精的火系迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::153342214",
+      "Source": "Annunaki Hatchet",
+      "Trans": {"SC":"起源斧头","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1539438895",
+      "Source": "Large Experience Elixir",
+      "Trans": {"SC":"大经验药剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1543143536",
+      "Source": "Equip a Alpha Mammoth with this to ride it.",
+      "Trans": {"SC":"装备到精英猛犸象上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1583443491",
+      "Source": "Alpha Boots",
+      "Trans": {"SC":"精英靴子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1600336059",
+      "Source": "Nilloc, Warden Of The Sky Summoning Tribute",
+      "Trans": {"SC":"天空守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1607334068",
+      "Source": "Alpha Quetz Platform Saddle",
+      "Trans": {"SC":"精英风神翼龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1619275820",
+      "Source": "You've slain the second primal guardian, use this craft your Megapithecus Saddle!",
+      "Trans": {"SC":"你已经杀死了第二个原始守护者，使用这个制作你的大金刚鞍!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1636653203",
+      "Source": "This ammunition type for the Annunaki Sniper Round filled with potent narcotics will tranquilized targets at rapid speed.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Tranqulizer Multiplier 10x</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 15 Clip Size.</><#RN#><RichColor Color=\"1, 0, 0, 1\">Weak Damage.</>",
+      "Trans": {"SC":"这种弹药类型的起源狙击弹充满了强效麻醉剂，可以快速麻醉目标。<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">麻醉倍率 10x</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 15 弹夹容量.</><#RN#><RichColor Color=\"1, 0, 0, 1\">低伤害.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::168553587",
+      "Source": "Euraka, Warden Of The Swamp Summoning Tribute",
+      "Trans": {"SC":"沼泽守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1693597908",
+      "Source": "Fertilized Badass Fire Pachycephalosaurus Egg",
+      "Trans": {"SC":"受精的火系肿头龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::170511257",
+      "Source": "Annunaki Bow",
+      "Trans": {"SC":"起源复合弓","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1739807629",
+      "Source": "You've slain the first primal guardian, use this craft your Broodmother Saddle!",
+      "Trans": {"SC":"你已经杀死了第一个原始守护者，使用这个制作你的育母蜘蛛鞍!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1745447841",
+      "Source": "Fertilized Badass Fire Terror Bird Egg",
+      "Trans": {"SC":"受精的火系骇鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1749525246",
+      "Source": "Hand crafted into a useful ammunition, infused with fire elements.<#RN#><#RN#><RichColor Color=\"1, 0.5, 0, 1\">Applies Enflamed Debuff on target upon impact.</><#RN#>.<RichColor Color=\"1, 1, 0, 1\">Inflicts 2x Damage Multiplier on burning target</>",
+      "Trans": {"SC":"手工制作成有用的弹药，注入了火焰元素.<#RN#><#RN#><RichColor Color=\"1, 0.5, 0, 1\">在撞击时对目标施加燃烧Debuff.</><#RN#>.<RichColor Color=\"1, 1, 0, 1\">对燃烧的目标造成2倍伤害</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1772355864",
+      "Source": "Annunaki Crystal",
+      "Trans": {"SC":"起源水晶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1794735310",
+      "Source": "Health Elixir",
+      "Trans": {"SC":"回血药剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1813517144",
+      "Source": "Fertilized Badass Mountain Pelagornis Egg",
+      "Trans": {"SC":"受精的土系伪齿鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1823814015",
+      "Source": "Fertilized Badass Frost Pulminoscorpius Egg",
+      "Trans": {"SC":"受精的冰系巨蝎蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1825225725",
+      "Source": "Mormaw, Warden Of The Ocean Summoning Tribute",
+      "Trans": {"SC":"深海守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1829948939",
+      "Source": "Greatly increases your health, but will also put you into a deep sleep!",
+      "Trans": {"SC":"大大增加你的健康，但也会让你进入深度睡眠!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1863908872",
+      "Source": "Fertilized Badass Frost Ankylosaurus Egg",
+      "Trans": {"SC":"受精的冰系甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1865936094",
+      "Source": "Fertilized Badass Fire Spinosaurus Egg",
+      "Trans": {"SC":"受精的火系棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::18700203",
+      "Source": "You've obtained this token from slaying the Warden Boss.<#RN#><#RN#>Can be used to craft higher end items.",
+      "Trans": {"SC":"你通过杀死守望者获得了这个信物。<#RN#>可以用来制作更高端的物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1888573365",
+      "Source": "Original Raptor Costume",
+      "Trans": {"SC":"顶尖迅猛龙皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1902051965",
+      "Source": "Fertilized Elite Compy Egg",
+      "Trans": {"SC":"受精的精锐美颌龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1953612407",
+      "Source": "Tibetan, The Celestial Megapithecus Matrix",
+      "Trans": {"SC":"幻影金刚矩阵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1982588181",
+      "Source": "Essence Of Gnashor",
+      "Trans": {"SC":"海滩守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1985248824",
+      "Source": "Primitive Spear dipped with oragnic narcotic properties will intoxicate creatures on impact.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage Multiplier: 3x</><#RN#><RichColor Color=\"0, 1, 0, 1\">Unbreakeable!</><#RN#><RichColor Color=\"0, 1, 0, 1\">Increased Attack Speed!</><#RN#><RichColor Color=\"0, 1, 0, 1\">Reuseable!</>",
+      "Trans": {"SC":"原始矛浸有有机麻醉性质会使生物在撞击时中毒.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">麻痹效果: 3x</><#RN#><RichColor Color=\"0, 1, 0, 1\">坚不可摧!</><#RN#><RichColor Color=\"0, 1, 0, 1\">攻击速度提升!</><#RN#><RichColor Color=\"0, 1, 0, 1\">可重复投掷!</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1987637860",
+      "Source": "Annunaki Crossbow",
+      "Trans": {"SC":"起源十字弩","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::199260027",
+      "Source": "Badass Mountain Treat",
+      "Trans": {"SC":"土系饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2009513758",
+      "Source": "A valuable resource that was collected from a slain Apex Tyrannosaurus Rex.",
+      "Trans": {"SC":"从被杀的顶尖霸王龙身上采集的宝贵资源.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2027151536",
+      "Source": "Primal DodoRex Summoning Tribute",
+      "Trans": {"SC":"原始渡渡霸王龙召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2035823256",
+      "Source": "Hums with Energy, can be used to craft special components.",
+      "Trans": {"SC":"可以用来制作特殊的组件.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2053129293",
+      "Source": "Stamina Elixir",
+      "Trans": {"SC":"耐力药剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2063192768",
+      "Source": "Alpha Ankylo Saddle",
+      "Trans": {"SC":"精英甲龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2076709008",
+      "Source": "Fertilized Badass Poison Spinosaurus Egg",
+      "Trans": {"SC":"受精的毒系棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::207742716",
+      "Source": "Perdition, Warden Of The Plains Summoning Tribute",
+      "Trans": {"SC":"平原守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2088962262",
+      "Source": "Fertilized Badass Frost Beelzebufo Egg",
+      "Trans": {"SC":"受精的冰系魔鬼蛙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2096535535",
+      "Source": "Fertilized Badass Poison Terror Bird Egg",
+      "Trans": {"SC":"受精的毒系骇鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2096607461",
+      "Source": "Collected off from a dead warchief Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Infinite Oxygen.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Torpidity Immunity.</>",
+      "Trans": {"SC":"从死去的战争领主身上收集，这将给你的角色一个额外的buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 无限氧气.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 免疫麻痹.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2121655630",
+      "Source": "Annunaki Refining Forge",
+      "Trans": {"SC":"起源精炼炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2152110175",
+      "Source": "This Narcotic is strong and the smell is disgusting, can be used to induce your creature torpidity and hunger.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Will increase torpidity and drain hunger for 10 seconds.</><#RN#><RichColor Color=\"1, 0, 0, 1\">Taming a creature whilst the debuff is in effect will continue, use with caution...</>",
+      "Trans": {"SC":"本麻醉药强烈，气味令人作呕，可用于诱导你的生物麻木和饥饿.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">会增加麻痹并消耗饥饿10秒.</><#RN#><RichColor Color=\"1, 0, 0, 1\">当buff生效时，驯服生物将继续，请谨慎使用...</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2152418677",
+      "Source": "Annunaki Sniper Rifle",
+      "Trans": {"SC":"起源狙击步枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2154006255",
+      "Source": "Fertilized Badass Fire Pteranodon Egg",
+      "Trans": {"SC":"受精的火系无齿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2156171374",
+      "Source": "Use this on a DodoRexy to ride it!",
+      "Trans": {"SC":"把这个装备到渡渡霸王龙上!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2157628677",
+      "Source": "Equip a Alpha Doedicurus with this to ride it.",
+      "Trans": {"SC":"装备到精英星尾兽上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2166597723",
+      "Source": "Broodmother Lysrix Insignia",
+      "Trans": {"SC":"育母蜘蛛信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2173598902",
+      "Source": "Alpha Woolly Rhino Saddle",
+      "Trans": {"SC":"精英披毛犀鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2198451508",
+      "Source": "Megapithecus Insignia",
+      "Trans": {"SC":"大金刚信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2205686630",
+      "Source": "Fertilized Champion Quetzal Egg",
+      "Trans": {"SC":"受精的冠军风神翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2208757601",
+      "Source": "Annunaki Workbench",
+      "Trans": {"SC":"起源工作台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2216490101",
+      "Source": "Fertilized Badass Poison Ankylosaurus Egg",
+      "Trans": {"SC":"受精的毒系甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2234498900",
+      "Source": "Uber Broth",
+      "Trans": {"SC":"超级肉汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2239190701",
+      "Source": "Fertilized Badass Poison Pulminoscorpius Egg",
+      "Trans": {"SC":"受精的毒系巨蝎蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2245876483",
+      "Source": "Raphus Essence",
+      "Trans": {"SC":"幻影渡渡霸王龙精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2267356944",
+      "Source": "Fertilized Badass Frost Drake Egg",
+      "Trans": {"SC":"受精的冰系小喷火龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227001270",
+      "Source": "Constructed using special metals and the blood of the alpha, this delicate weapon is able to hold \"3\" individual ammo types.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ High Durability.</><#RN#><RichColor Color=\"0, 1, 1, 1\">Ammo Compatability:</><#RN#>Annunaki Sniper Ammo.<#RN#>Annunaki Tranqulized Sniper Ammo.<#RN#>Annunaki Railgun Ammo.",
+      "Trans": {"SC":"这种精巧的武器使用特殊金属和阿尔法狼的血液制成，能够容纳“3”种不同的弹药类型。<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 高耐久性.</><#RN#><RichColor Color=\"0, 1, 1, 1\">弹药的兼容性:</><#RN#>起源狙击枪子弹.<#RN#>起源麻醉狙击弹.<#RN#>起源弩箭弹.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2284790017",
+      "Source": "DodoRex Insignia",
+      "Trans": {"SC":"渡渡霸王龙信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2316626934",
+      "Source": "Small Experience Elixir",
+      "Trans": {"SC":"小经验药剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2329691586",
+      "Source": "Warchief Gauntlents",
+      "Trans": {"SC":"领主手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2333659078",
+      "Source": "Javelin",
+      "Trans": {"SC":"毒矛","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2360727728",
+      "Source": "Fertilized Badass Mountain Therizino Egg",
+      "Trans": {"SC":"受精的土系镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2370657177",
+      "Source": "Frosted Metal Arrow",
+      "Trans": {"SC":"冰霜金属箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::237633445",
+      "Source": "Fertilized Alpha Therizino Egg",
+      "Trans": {"SC":"受精的精英镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2388029674",
+      "Source": "Annunaki Electronics",
+      "Trans": {"SC":"起源电路板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2394632910",
+      "Source": "Better and efficient compared to the Stone Arrow, only compatible with the Annunaki Crossbow.",
+      "Trans": {"SC":"比石箭更好更有效率，只与起源十字弩兼容.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2397434206",
+      "Source": "This isn't no ordinary skin.. This material is stretchy and tough, best used for Uber Saddles!",
+      "Trans": {"SC":"这不是普通的皮肤…这种材料有弹性和韧性，最好用于龙鞍。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2399074434",
+      "Source": "Fertilized Alpha Dilophosaurus Egg",
+      "Trans": {"SC":"受精的精英双脊龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2405662676",
+      "Source": "Fertilized Badass Poison Argentavis Egg",
+      "Trans": {"SC":"受精的毒系阿根廷鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2414512141",
+      "Source": "Alpha Mammoth Saddle",
+      "Trans": {"SC":"精英猛犸象鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::242853751",
+      "Source": "A Weapon Of Destruction, fabricated from a powerful machinery. Superior compared to the Compound Bow.",
+      "Trans": {"SC":"一件毁灭性武器，由强大的机器制造而成。优于复合弓。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2436559174",
+      "Source": "Cooked with special ingridients, can be used to tame Badass Creatures.",
+      "Trans": {"SC":"用特殊的原料煮熟，可以用来驯服特殊属性生物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2438257596",
+      "Source": "Equip a Alpha Dire Bear with this to ride it.",
+      "Trans": {"SC":"装备到精英恐熊上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2445992329",
+      "Source": "You've obtained this token from slaying the Alpha/Prime Alpha variants.<#RN#><#RN#>Can be used as an ingrident to craft treats.<#RN#>Can be used to craft higher end items.",
+      "Trans": {"SC":"这个信物是你从杀死精英和至尊精英生物中获得的。<#RN#>可以作为一种原料。<#RN#>可以用来制作更高端的物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2458955839",
+      "Source": "Fertilized Alpha Tyrannosaurus Rex Egg",
+      "Trans": {"SC":"受精的精英霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2459876839",
+      "Source": "Consuming this will summon Perdition, Warden Of The Plains.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤平原守望者披毛犀.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2461831915",
+      "Source": "Alpha Shirt",
+      "Trans": {"SC":"精英胸甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2488504601",
+      "Source": "Obtained from killing Euraka! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死沼泽守望者魔鬼蛙获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::24897489",
+      "Source": "Alpha Triceratops Saddle",
+      "Trans": {"SC":"精英三角龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2490078626",
+      "Source": "Badass Treat",
+      "Trans": {"SC":"各属性通用饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::249208636",
+      "Source": "Primal Broodmother Summoning Tribute",
+      "Trans": {"SC":"原始育母蜘蛛召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2494789630",
+      "Source": "An armor for Elagon! Give this to your Elagon, The Celestial Dragon to add extra armor bonus!",
+      "Trans": {"SC":"把这个装备到毒系幻影喷火龙上!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2522008451",
+      "Source": "Alpha Treat",
+      "Trans": {"SC":"精英饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2531992888",
+      "Source": "Alpha Mosasaur Platform Saddle",
+      "Trans": {"SC":"精英沧龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2538306663",
+      "Source": "Collected off from a dead warden Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Major Stamina Regeneration.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 3x Stamina Increase.</>",
+      "Trans": {"SC":"从死去的典狱长Boss身上收集，这将给你的角色一个额外的buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 主要恢复耐力.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 3x 增加耐力.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2547551357",
+      "Source": "Essence Of Nilloc",
+      "Trans": {"SC":"天空守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2550137907",
+      "Source": "Alpha Carnotaurus Saddle",
+      "Trans": {"SC":"精英肉食牛龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2561688208",
+      "Source": "Harvested from Alpha Creatures, try not to drink this...",
+      "Trans": {"SC":"从精英生物那里收获的，尽量不要喝这个…","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::256204143",
+      "Source": "Alpha Tyrannosaurus Rex Saddle",
+      "Trans": {"SC":"精英霸王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2565261709",
+      "Source": "Use this to feed Slithia, The Celestial Broodmother to tame it.",
+      "Trans": {"SC":"用这个来喂养幻影育母蜘蛛，以驯服它.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2576944582",
+      "Source": "Equip a Alpha Terror Bird with this to ride it.",
+      "Trans": {"SC":"装备到精英骇鸟上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2595563418",
+      "Source": "Warchief Leggings",
+      "Trans": {"SC":"领主护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2601146355",
+      "Source": "Alpha Sabertooth Saddle",
+      "Trans": {"SC":"精英刃齿虎鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2625321108",
+      "Source": "Consuming this will summon Euraka, Warden Of The Swamp.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤沼泽守望者魔鬼蛙.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2632751787",
+      "Source": "Craft Annunaki Items, Taming Treats & Elixirs here!",
+      "Trans": {"SC":"在这里制作起源物品，驯服治疗和药品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2659083258",
+      "Source": "Kickass Broth",
+      "Trans": {"SC":"厉害的肉汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2663998488",
+      "Source": "Collected off from a dead warden Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 1.75% Speed Increase</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ No Fall Damage</>",
+      "Trans": {"SC":"从死去的典狱长Boss身上收集，这将给你的角色一个额外的buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 1.75% 速度增加</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 坠落无伤</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2669076661",
+      "Source": "Raphus, The Celestial Dodorex Matrix",
+      "Trans": {"SC":"幻影渡渡霸王龙矩阵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::26702978",
+      "Source": "Warden Chestpiece",
+      "Trans": {"SC":"守望者胸甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::269337655",
+      "Source": "Fertilized Champion Brontosaurus Egg",
+      "Trans": {"SC":"受精的冠军雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2700527602",
+      "Source": "Apex Carnotaurus Head",
+      "Trans": {"SC":"顶尖肉食牛龙头骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2708759471",
+      "Source": "Alpha Allosaurus Saddle",
+      "Trans": {"SC":"精英异特龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2718854984",
+      "Source": "Consuming this will summon Nilloc, Warden Of The Sky.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤天空守望者阿根廷鹫.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2728017895",
+      "Source": "Primal Megapithecus Summoning Tribute",
+      "Trans": {"SC":"原始大金刚召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2728935345",
+      "Source": "Apex Token",
+      "Trans": {"SC":"顶尖信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2735456385",
+      "Source": "Obtained from killing Rawaiim! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死山脉守望者南方巨兽龙获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2744383845",
+      "Source": "Consuming this will summon Bokito, Warden Of The Snow.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤雪地守望者金刚.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2749291641",
+      "Source": "Cooked with special ingridients, can be used to tame Uber Bosses.",
+      "Trans": {"SC":"用特殊的食材烹制，可以用来驯服渡渡霸王龙、喷火龙、金刚和育母蜘蛛.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2778882151",
+      "Source": "Consuming this will spawn your 3rd Primal Guardian.",
+      "Trans": {"SC":"消耗它会生成你的第3个原始守护者.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2796400361",
+      "Source": "Essence Of Bokito",
+      "Trans": {"SC":"雪地守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2798728789",
+      "Source": "Fabricating this powerful slug will decimate your foe no problem!",
+      "Trans": {"SC":"制造这种强大的弹头将毫无问题地摧毁你的敌人！!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2805423425",
+      "Source": "Reused Metal Arrow but applied with narcotics. This is the strongest and highest poison dealing ammunition in the mod. This will most likely knock out larger targets with ease.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage: 6x</>",
+      "Trans": {"SC":"重复使用的金属箭，但与毒品一起使用。这是mod中最强最强的麻醉弹药，很有可能轻松击倒更大的目标。.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">麻痹效果: 6x</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2812797147",
+      "Source": "Annunaki Sniper Bullet",
+      "Trans": {"SC":"起源狙击枪子弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2820521264",
+      "Source": "Use this to feed Elegon, The Celestial Dragon to tame it.",
+      "Trans": {"SC":"用这个来喂养毒系幻影喷火龙，以驯服它.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2827427539",
+      "Source": "Fertilized Badass Frost Spinosaurus Egg",
+      "Trans": {"SC":"受精的冰系棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2847547795",
+      "Source": "Bokito, Warden Of The Snow Summoning Tribute",
+      "Trans": {"SC":"雪地守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::284848826",
+      "Source": "Odracir, Warchief Of The ARK Summoning Tribute",
+      "Trans": {"SC":"战争领主召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2867721408",
+      "Source": "Alpha Sarcosuchus Saddle",
+      "Trans": {"SC":"精英帝鳄鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2873027364",
+      "Source": "Equip a Alpha Triceratops with this to ride it.",
+      "Trans": {"SC":"装备到精英三角龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2874401697",
+      "Source": "Alpha Therizinosaurus Saddle",
+      "Trans": {"SC":"精英镰刀龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2877281745",
+      "Source": "Karkinos, Warden Of The River Summoning Tribute",
+      "Trans": {"SC":"河流守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2880864247",
+      "Source": "Gnashor, Warden Of The Beach Summoning Tribute",
+      "Trans": {"SC":"海滩守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2880881232",
+      "Source": "Original Carnotaurus Costume",
+      "Trans": {"SC":"顶尖肉食牛龙皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2885912285",
+      "Source": "A valuable resource that was collected from a slain Apex Carnotaurus.",
+      "Trans": {"SC":"从被杀的顶尖肉食牛龙身上采集的宝贵资源.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2905817055",
+      "Source": "Essence Of Perdition",
+      "Trans": {"SC":"平原守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2910477355",
+      "Source": "Fertilized Alpha Sarcosuchus Egg",
+      "Trans": {"SC":"受精的精英帝鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2928081750",
+      "Source": "This powerful computer chip component can be used to create powerful electronical items.",
+      "Trans": {"SC":"这种功能强大的计算机芯片组件可以用来制造功能强大的电子产品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2946651961",
+      "Source": "Annunaki Polymer",
+      "Trans": {"SC":"起源聚合物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2948176300",
+      "Source": "Fertilized Badass Frost Terror Bird Egg",
+      "Trans": {"SC":"受精的冰系骇鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2954112951",
+      "Source": "Sedative Elixir",
+      "Trans": {"SC":"镇静剂（秒训药）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2962255874",
+      "Source": "A Metal Pike laced with poisonus narcotics and venom can intoxicate targets on impact. <#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage Multiplier: 5x</>",
+      "Trans": {"SC":"镶有有毒麻醉剂和毒液的金属长矛可以在攻击时使目标中毒. <#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">麻痹效果: 5x</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2962873998",
+      "Source": "You have claimed this mysterious object from slaying your \"4th\" Primal Guardian.<#RN#><#RN#>Combine all Primal Insignias to make yourself a Uber Broth in the Annunaki Chemistry Bench",
+      "Trans": {"SC":"你已经从杀死你的“第四个”原始守护者中获得了这个神秘的物体。<#RN#>在起源化学工作台中组合所有的信物为自己制作一个超级肉汤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2975116180",
+      "Source": "Annunaki Sword",
+      "Trans": {"SC":"起源大剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3001205872",
+      "Source": "Cooked with special ingridients, can be used to tame Alpha Creatures.",
+      "Trans": {"SC":"用特殊的原料烹制，可以用来驯服精英生物.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3006789218",
+      "Source": "You've slain the fourth primal guardian, use this craft your Dodorex Saddle!",
+      "Trans": {"SC":"你已经杀死了第四个原始守护者，使用这个制作你的渡渡霸王龙鞍!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3008531627",
+      "Source": "Consuming this will instantly regenerate stamina to you and your dinosaurs.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Hotbar works for you and your creature.</><#RN#><RichColor Color=\"1, 0, 0, 1\">20 Second Cooldown.</>",
+      "Trans": {"SC":"消耗这个会立即恢复你和你的恐龙的耐力.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">放到快捷栏为你和你的生物使用.</><#RN#><RichColor Color=\"1, 0, 0, 1\">20 冷却时间间隔.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3018328455",
+      "Source": "Warden Boots",
+      "Trans": {"SC":"守望者靴子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::302674076",
+      "Source": "Annunaki Narcotic",
+      "Trans": {"SC":"起源麻醉药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3046708468",
+      "Source": "Obtained from slaying a large creature. Consuming this will enhance your learning capabilities.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">4x Experience Multiplier.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Experience Buff can be stacked with others.</>",
+      "Trans": {"SC":"通过杀死大型动物获得的。这样做可以提高你的学习能力。.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">4x 经验倍数.</><#RN#><RichColor Color=\"0, 1, 0, 1\">经验Buff可以叠加在一起.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3058654806",
+      "Source": "Annunaki Metal Ingot",
+      "Trans": {"SC":"起源金属锭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3066321303",
+      "Source": "Annunaki Shotgun",
+      "Trans": {"SC":"起源散弹枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3066642183",
+      "Source": "Primodius, The Celestial Dragon Matrix",
+      "Trans": {"SC":"幻影喷火龙矩阵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3092216776",
+      "Source": "Fertilized Alpha Terror Bird Egg",
+      "Trans": {"SC":"受精的精英骇鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3125828151",
+      "Source": "With sheer strength this weapon can hold, this will blast your enemies away with ease!<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ High Durability.</><#RN#><RichColor Color=\"0, 1, 1, 1\">Ammo Compatability:</><#RN#>Annunaki Slug Ammo<#RN#>Annunaki Incendiary Slug Ammo",
+      "Trans": {"SC":"单凭力量，这武器就能撑得住,这将轻而易举地把你的敌人轰走!<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 高耐久性.</><#RN#><RichColor Color=\"0, 1, 1, 1\">弹药的兼容性:</><#RN#>起源散弹枪子弹<#RN#>起源燃烧弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3138050665",
+      "Source": "Golden Treat",
+      "Trans": {"SC":"黄金饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3151677158",
+      "Source": "Badass Frost Treat",
+      "Trans": {"SC":"冰系饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3162963081",
+      "Source": "Fertilized Badass Fire Beelzebufo Egg",
+      "Trans": {"SC":"受精的火系魔鬼蛙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::317596496",
+      "Source": "You have claimed this mysterious object from slaying your \"1st\" Primal Guardian.<#RN#><#RN#>Combine all Primal Insignias to make yourself a Uber Broth in the Annunaki Chemistry Bench",
+      "Trans": {"SC":"你已经从杀死你的“第一个”原始守护者中获得了这个神秘的物体。<#RN#>在起源化学工作台中组合所有的信物为自己制作一个超级肉汤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3189098837",
+      "Source": "Smough, Warden Of The Grassland Summoning Tribute",
+      "Trans": {"SC":"草原守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3211918519",
+      "Source": "Fertilized Alpha Spinosaurus Egg",
+      "Trans": {"SC":"受精的精英棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3215643855",
+      "Source": "Primal Dragon Head",
+      "Trans": {"SC":"原始喷火龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3228637530",
+      "Source": "Obtained from killing Smough! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死草原守望者星尾兽获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3229280760",
+      "Source": "Equip a Alpha Quetz with this to ride it.  <#RN#><#RN#>You can build structures on the large platform to make a mobile base.<#RN#><#RN#>1000+ Additional Structure Limit",
+      "Trans": {"SC":"装备到精英风神翼龙上以骑乘. <#RN#>你可以在这个大平台上建造一些结构来做一个移动基地。<#RN#>1000+附加结构限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3233920850",
+      "Source": "Obtained from killing Perdition! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死平原守望者披毛犀获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3246748959",
+      "Source": "Fertilized Alpha Ankylo Egg",
+      "Trans": {"SC":"受精的精英甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3253568826",
+      "Source": "Made with great efficiency! This boat zooms across the ocean with ease. Better alternative compared to the Vanilla Raft and Motorboat.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">2500 cm/s max swim speed.</><#RN#><RichColor Color=\"0, 1, 0, 1\">More Health.</><#RN#><RichColor Color=\"0, 1, 0, 1\">More Weight.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Has Inventory.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Automatically turns when aiming around.</>",
+      "Trans": {"SC":"效率很高！这艘船轻松地在海洋上疾驰而过。比原始木筏和摩托艇更好的选择.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">2500 cm/s 最大速度.</><#RN#><RichColor Color=\"0, 1, 0, 1\">更多的血量.</><#RN#><RichColor Color=\"0, 1, 0, 1\">更多的负重.</><#RN#><RichColor Color=\"0, 1, 0, 1\">有大量库存.</><#RN#><RichColor Color=\"0, 1, 0, 1\">自动转向时，瞄准周围.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3258639482",
+      "Source": "Fertilized Badass Frost Pachycephalosaurus Egg",
+      "Trans": {"SC":"受精的冰系肿头龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3282916894",
+      "Source": "Warchief Boots",
+      "Trans": {"SC":"领主靴子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::330247160",
+      "Source": "Caveman Stick",
+      "Trans": {"SC":"野人棒槌","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3307031075",
+      "Source": "Alpha Argentavis Saddle",
+      "Trans": {"SC":"精英阿根廷鹫鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3320470831",
+      "Source": "A large metal pick for harvesting primarily flint from rocks, thatch from trees, and meat from bodies.<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">Can harvest Seashells for Silica Pearls.</><#RN#><RichColor Color=\"1, 1, 0, 1\">Metal Ore gives extra resources + Crystal & Silica Pearls.</><#RN#><RichColor Color=\"1, 1, 0, 1\">Obsidan gives extra resources.</><#RN#><RichColor Color=\"1, 1, 0, 1\">Crystal gives extra resources + Silica Pearls.</>",
+      "Trans": {"SC":"一种大型金属镐，主要用于采集岩石上的燧石、树上的茅草和尸体上的肉.<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">打贝壳可以收获硅石珍珠.</><#RN#><RichColor Color=\"1, 1, 0, 1\">金属矿石提供额外的资源+水晶和硅珠.</><#RN#><RichColor Color=\"1, 1, 0, 1\">黑曜石提供额外的资源.</><#RN#><RichColor Color=\"1, 1, 0, 1\">水晶给予额外的资源+含硅珍珠.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3321815762",
+      "Source": "Original Tyrannosaurus Rex Costume",
+      "Trans": {"SC":"顶尖霸王龙皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::332661868",
+      "Source": "Annunaki Tranquilizer Dart",
+      "Trans": {"SC":"起源麻醉镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3328817919",
+      "Source": "Warden Token",
+      "Trans": {"SC":"守望者信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3335168708",
+      "Source": "Fertilized Badass Frost Therizino Egg",
+      "Trans": {"SC":"受精的冰系镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3346036005",
+      "Source": "Obtained from slaying a large creature. Consuming this will enhance your learning capabilities.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">8x Experience Multiplier.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Gives 15,000 Experience.</>",
+      "Trans": {"SC":"通过杀死大型动物获得的。这样做可以提高你的学习能力。.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">8x 经验倍数.</><#RN#><RichColor Color=\"0, 1, 0, 1\">获得15000经验.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3347761662",
+      "Source": "Consuming this will spawn your 4th Primal Guardian.",
+      "Trans": {"SC":"消耗它会生成你的第4个原始守护者.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3350007657",
+      "Source": "Primal Broodmother Head",
+      "Trans": {"SC":"原始育母蜘蛛战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::336308688",
+      "Source": "Oxygen Elixir",
+      "Trans": {"SC":"氧气药剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::340079742",
+      "Source": "This costume can be used to make your Raptor look just like a original alpha, cool!",
+      "Trans": {"SC":"这套服装可以让你的迅猛龙看起来像顶尖迅猛龙，酷!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3403135159",
+      "Source": "Collected off from a dead warchief Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 75% Decreased Damage Received.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 6x Weight Increase.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 50+ Healing Rate.</>",
+      "Trans": {"SC":"收集从一个死去的战争领主，这将给你一个额外的buff应用到你的角色.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 75% 减少受到的伤害.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 6x 增加负重.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 50+ 生命恢复速度.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3405215936",
+      "Source": "Fertilized Badass Fire Ankylosaurus Egg",
+      "Trans": {"SC":"受精的火系甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3420439774",
+      "Source": "This High Quality Workbench handcrafted in the palms of your hands allows you to create the extrordinary items to your disposal with ease.",
+      "Trans": {"SC":"这个高品质的工作台在你的手掌手工制作，让你创建非凡的项目，你的处置轻松.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3429864990",
+      "Source": "Equip a Alpha Carnotaurus with this to ride it.",
+      "Trans": {"SC":"装备到精英牛龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::343042526",
+      "Source": "Equip a Alpha Therizinosaurus with this to ride it.",
+      "Trans": {"SC":"装备到精英镰刀龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3437137491",
+      "Source": "Obtained from slaying a large creature. Consuming this will enhance your learning capabilities.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">2x Experience Multiplier.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Experience Buff can be stacked with others.</>",
+      "Trans": {"SC":"通过杀死大型动物获得的。这样做可以提高你的学习能力。.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">2x 经验倍数.</><#RN#><RichColor Color=\"0, 1, 0, 1\">经验Buff可以叠加在一起.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3443102866",
+      "Source": "Consuming this will spawn your 2nd Primal Guardian.",
+      "Trans": {"SC":"消耗它会生成你的第2个原始守护者.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3449024786",
+      "Source": "Fertilized Badass Fire Pulminoscorpius Egg",
+      "Trans": {"SC":"受精的火系巨蝎蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3464296031",
+      "Source": "Primal Megapithecus Head",
+      "Trans": {"SC":"原始大金刚战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3473932624",
+      "Source": "Fertilized Badass Poison Raptor Egg",
+      "Trans": {"SC":"受精的毒系迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3477997902",
+      "Source": "Alpha Pants",
+      "Trans": {"SC":"精英裤子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3521925037",
+      "Source": "You have slain Elegon, The Celestial!<#RN#><#RN#>Raphus Essence is used to craft your very own Annunaki Wyvern Matrix.<#RN#><#RN#>This can also be used to craft Elegon's Armor for additional armor value for your Celestial!",
+      "Trans": {"SC":"你杀死了毒系幻影喷火龙！<#RN#>毒系幻影喷火龙精华用于制作你自己的毒系幻影喷火龙矩阵。<#RN#>这也可以用来制作毒系幻影喷火龙的护甲，为你的喷火龙提供额外的护甲值!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3521944493",
+      "Source": "Obtained from killing Gnashor! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死海滩守望者碳龟获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3530095320",
+      "Source": "Raphus's Armor",
+      "Trans": {"SC":"幻影渡渡霸王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3585681062",
+      "Source": "Fertilized Badass Poison Beelzebufo Egg",
+      "Trans": {"SC":"受精的毒系魔鬼蛙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3598627356",
+      "Source": "Equip a Alpha Ankylo with this to ride it.",
+      "Trans": {"SC":"装备到精英甲龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3600849842",
+      "Source": "Annunaki Arrow",
+      "Trans": {"SC":"起源石箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3610896501",
+      "Source": "Alpha Mosasaur Saddle",
+      "Trans": {"SC":"精英沧龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3620671983",
+      "Source": "Oough, ouugh! Man stick good! OOGA OOGA!<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">No Durability!</><#RN#><RichColor Color=\"0, 1, 0, 1\">More Damage & Stuns Targets!</>",
+      "Trans": {"SC":"Oough, ouugh! Man stick good! OOGA OOGA!<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无耐久!</><#RN#><RichColor Color=\"0, 1, 0, 1\">更多伤害和晕眩目标!</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3636926686",
+      "Source": "Badass Poison Treat",
+      "Trans": {"SC":"毒系饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3654359369",
+      "Source": "Essence Of Rawaiim",
+      "Trans": {"SC":"山脉守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3654391128",
+      "Source": "Use this on a Broodmother to ride it!",
+      "Trans": {"SC":"把这个装备到育母蜘蛛上!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3656522641",
+      "Source": "This ammunition type for the Annunaki Sniper Round will fire a powerful tracer round that obilerate targets at further range.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Ignores Damage Mass Momentum. True Damage.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Extra Damage.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Increased Weapon Range.</><#RN#><RichColor Color=\"1, 0, 0, 1\">-9 clip size.</>",
+      "Trans": {"SC":"起源狙击弹的这种弹药类型将会释放一种强大的曳光弹，可以在更远的范围内消灭目标.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">忽略伤害质量动量。真正的伤害.</><#RN#><RichColor Color=\"0, 1, 0, 1\">额外伤害.</><#RN#><RichColor Color=\"0, 1, 0, 1\">增加武器射程.</><#RN#><RichColor Color=\"1, 0, 0, 1\">-9 弹夹容量.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3672526306",
+      "Source": "Apex Tyrannosaurus Rex Head",
+      "Trans": {"SC":"顶尖霸王龙头骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3672836122",
+      "Source": "An armor for Primordius! Give this to your Primordius, The Celestial Dragon to add extra armor bonus!",
+      "Trans": {"SC":"把这个装备到幻影喷火龙上!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3692359200",
+      "Source": "Essence Of Mormaw",
+      "Trans": {"SC":"深海守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3700064187",
+      "Source": "Annunaki Paste",
+      "Trans": {"SC":"起源水泥","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::371947980",
+      "Source": "Collected off from a dead alpha creature, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">5x Crafting Speed.</><#RN#><RichColor Color=\"0, 1, 0, 1\">2x% Increased Damage.</><#RN#><RichColor Color=\"0, 1, 0, 1\">3x Decreased Recoil.</>",
+      "Trans": {"SC":"从一个死去的精英生物收集，这将给你一个额外的buff应用到你的角色。.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">5x 制作物品速度升级.</><#RN#><RichColor Color=\"0, 1, 0, 1\">2x% 增强攻击力.</><#RN#><RichColor Color=\"0, 1, 0, 1\">3x 后坐力下降.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3721664888",
+      "Source": "Cooked with special ingridients, can be used to tame Kickass Drakes & Babies.",
+      "Trans": {"SC":"用特殊的原料煮熟，可以用来驯服小喷火龙和渡渡霸王龙宝贝。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3723612965",
+      "Source": "Zombie Blood",
+      "Trans": {"SC":"僵尸血","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3753000173",
+      "Source": "Fertilized Badass Poison Therizino Egg",
+      "Trans": {"SC":"受精的毒系镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::376481339",
+      "Source": "Drake Hide",
+      "Trans": {"SC":"小喷火龙皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3782716256",
+      "Source": "Fertilized Alpha Allosaurus Egg",
+      "Trans": {"SC":"受精的精英异特龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3784123806",
+      "Source": "Fertilized Badass Poison Pachycephalosaurus Egg",
+      "Trans": {"SC":"受精的毒系肿头龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3790041792",
+      "Source": "A valuable resource that was collected from a slain Apex Raptor.",
+      "Trans": {"SC":"从被杀的顶尖迅猛龙身上采集的宝贵资源.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3791650152",
+      "Source": "Consuming this will summon Gnashor, Warden Of The Beach.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"消耗它会召唤海滩守望者碳龟.  \\n\\n!!不要在你的基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3805894396",
+      "Source": "Superior compared to the vanilla Vault, this holds more storage capacity and this can be placed on walls.<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">Inventory Capacity: 1500</>",
+      "Trans": {"SC":"与官方保险柜相比，它拥有更多的存储容量，可以放置在墙上.<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">库存容量: 1500</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3819818919",
+      "Source": "Alpha Plesiosaur Platform Saddle",
+      "Trans": {"SC":"精英蛇颈龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3824277933",
+      "Source": "It's rotten and foul...This can be used for creating special items.",
+      "Trans": {"SC":"又臭又臭……这可以用于制作特殊物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3830655084",
+      "Source": "Skinned from Alpha Creatures",
+      "Trans": {"SC":"从精英生物尸体那里剥皮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3843556235",
+      "Source": "Warden Gauntlets",
+      "Trans": {"SC":"守望者手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3844310773",
+      "Source": "Fertilized Elite Titanoboa Egg",
+      "Trans": {"SC":"受精的精锐泰坦巨蟒蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3864831483",
+      "Source": "Fertilized Badass Fire Argentavis Egg",
+      "Trans": {"SC":"受精的火系阿根廷鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3879889053",
+      "Source": "Original Version Of The Health Elixir. Heals 100% Of You and Your Creatures Health.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Hotbar works for you and your creature.</><#RN#><RichColor Color=\"1, 0, 0, 1\">20 Seconds Cooldown.</>",
+      "Trans": {"SC":"原始版本的回血药剂。100%治疗你和你的生物的生命值.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">放到快捷栏为你和你的生物使用.</><#RN#><RichColor Color=\"1, 0, 0, 1\">20 秒冷却时间.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3897836424",
+      "Source": "Fertilized DodoRexy Egg",
+      "Trans": {"SC":"受精的渡渡霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3910978405",
+      "Source": "Collected off from a dead warchief Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 2% Speed Increase</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ No Fall Damage</>",
+      "Trans": {"SC":"从死去的战争领主身上收集，这将给你的角色一个额外的buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 2% 速度增加</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 坠落无伤</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3915144384",
+      "Source": "Fertilized Badass Poison Pteranodon Egg",
+      "Trans": {"SC":"受精的毒系无齿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3916059725",
+      "Source": "Equip an Alpha Allosaurus with this to ride it.",
+      "Trans": {"SC":"装备到精英异特龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3930581287",
+      "Source": "Fertilized Elite Dimorphodon Egg",
+      "Trans": {"SC":"受精的精锐双齿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3933319885",
+      "Source": "Obtained from killing Bokito! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死雪地守望者金刚获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3941150265",
+      "Source": "Uber Hide",
+      "Trans": {"SC":"超级兽皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3950086635",
+      "Source": "Fertilized Alpha Quetzal Egg",
+      "Trans": {"SC":"受精的精英风神翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::395386912",
+      "Source": "Alpha Megalodon Saddle",
+      "Trans": {"SC":"精英巨齿鲨鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3956272944",
+      "Source": "Primal Dodorex Head",
+      "Trans": {"SC":"原始渡渡霸王龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3957366409",
+      "Source": "Equip a Alpha Mosasaur with this to ride it.",
+      "Trans": {"SC":"装备到精英沧龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969863856",
+      "Source": "Annunaki Metal Arrow",
+      "Trans": {"SC":"爆炸金属箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3973255745",
+      "Source": "Fertilized Alpha Carcharodontosaurus Egg",
+      "Trans": {"SC":"受精的精英鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3989384306",
+      "Source": "Fertilized Badass Poison Carnotaurus Egg",
+      "Trans": {"SC":"受精的毒系肉食牛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4018996386",
+      "Source": "Fertilized Badass Frost Pelagornis Egg",
+      "Trans": {"SC":"受精的冰系伪齿鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::402798129",
+      "Source": "You've obtained this token from slaying the Badass variants.<#RN#><#RN#>Can be used as an ingrident to craft treats.<#RN#>Can be used to craft higher end items.",
+      "Trans": {"SC":"这个信物是你从杀死普通属性生物中获得的。<#RN#>可以作为一种原料。<#RN#>可以用来制作更高端的物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4030771441",
+      "Source": "Collected off from a dead alpha creature, this will give you a additional buff applied to your character.<#RN#><#RN#>This also regenerate your hunger and thirst.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 50% Decreased Damage Received.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Immune to temperatures.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 2x Weight Increase.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 10+ Healing Rate.</>",
+      "Trans": {"SC":"从一个死去的精英生物收集，这将给你一个额外的buff应用到你的角色。.<#RN#><#RN#>这也恢复你的饥饿和口渴.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 50% 减少受到的伤害.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 不受温度影响.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 2x 增加负重.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 10+ 生命值恢复速度.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4033830378",
+      "Source": "Annunaki Vault",
+      "Trans": {"SC":"起源保险柜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4051127953",
+      "Source": "Collected off from a dead alpha creature, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 1.3% Speed Increase</>",
+      "Trans": {"SC":"从一个死去的精英生物收集，这将给你一个额外的buff应用到你的角色。<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 1.3% 速度增加</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4051486023",
+      "Source": "Annunaki Forge",
+      "Trans": {"SC":"起源工业熔炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::405215608",
+      "Source": "Fertilized Badass Mountain Ankylosaurus Egg",
+      "Trans": {"SC":"受精的土系甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4077507639",
+      "Source": "Consuming this will instantly regenerate oxygen to you and your dinosaurs.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Hotbar works for you and your creature.</><#RN#><RichColor Color=\"1, 1, 0, 1\">300 Seconds While Item Is Active.</>",
+      "Trans": {"SC":"消耗它会立即为你和你的恐龙补充氧气.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">放到快捷栏为你和你的生物使用.</><#RN#><RichColor Color=\"1, 1, 0, 1\">300 项目处于活动状态时的秒数.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4088725437",
+      "Source": "Consuming this will spawn your 1st Primal Guardian.",
+      "Trans": {"SC":"消耗它会生成你的第1个原始守护者.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4097673683",
+      "Source": "Dragon Insignia",
+      "Trans": {"SC":"喷火龙信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4110969692",
+      "Source": "Fertilized Alpha Giganotosaurus Egg",
+      "Trans": {"SC":"受精的精英南方巨兽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4112335469",
+      "Source": "Fire Metal Arrow",
+      "Trans": {"SC":"火焰金属箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4114428185",
+      "Source": "Use this on a Megapithecus to ride it!",
+      "Trans": {"SC":"把这个装备到大金刚上!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4136734068",
+      "Source": "Fertilized Badass Poison Drake Egg",
+      "Trans": {"SC":"受精的毒系小喷火龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4157796522",
+      "Source": "Elegon Essence",
+      "Trans": {"SC":"毒系幻影喷火龙精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4169044128",
+      "Source": "Equip a Alpha Quetz with this to ride it.",
+      "Trans": {"SC":"装备到精英风神翼龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4181119036",
+      "Source": "Fertilized Badass Fire Carnotaurus Egg",
+      "Trans": {"SC":"受精的火系肉食牛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4199452435",
+      "Source": "Alpha Plesiosaur Saddle",
+      "Trans": {"SC":"精英蛇颈龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::422948395",
+      "Source": "Fertilized Alpha Triceratops Egg",
+      "Trans": {"SC":"受精的精英三角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4235034982",
+      "Source": "Reused Tranquilizer Dart but more added narcotic potency to it.<#RN#><#RN#><RichColor Color=\"1, 0, 0, 1\">Only compatible with Annunaki Longneck Rifle.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage Multiplier: 4.35x</>",
+      "Trans": {"SC":"重复使用麻醉剂，但增加了更多的麻醉效力.<#RN#><#RN#><RichColor Color=\"1, 0, 0, 1\">只与起源长管步枪兼容.</><#RN#><RichColor Color=\"0, 1, 0, 1\">麻痹效果: 4.35x</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4239874952",
+      "Source": "Stimulant Elixir",
+      "Trans": {"SC":"兴奋药剂（秒醒药）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4245854487",
+      "Source": "Equip a Alpha Plesiosaur with this to ride it.",
+      "Trans": {"SC":"装备到精英蛇颈龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4274849575",
+      "Source": "Equip a Alpha Raptor with this to ride it.",
+      "Trans": {"SC":"装备到精英迅猛龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4279639852",
+      "Source": "Fertilized Badass Mountain Beelzebufo Egg",
+      "Trans": {"SC":"受精的土系魔鬼蛙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4281476807",
+      "Source": "Obtained from killing Nilloc! Used to craft high end items.",
+      "Trans": {"SC":"通过杀死天空守望者阿根廷鹫获得！用来制作高端物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4286804967",
+      "Source": "Equip a Alpha Spinosaurus with this to ride it.",
+      "Trans": {"SC":"装备到精英棘龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4286932653",
+      "Source": "Improved variant of the Industral Forge, can quickly smelt resources instantly.<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">Smelt Speed: 25x</><#RN#><RichColor Color=\"1, 1, 0, 1\">Yield: 20</><#RN#><#RN#><RichColor Color=\", 1, 1, 1\">\"Put 1x Obsidian, 1x Crystal & 1x Metal Ingot\"to smelt them into Annunaki Metal Ingot.\"</>",
+      "Trans": {"SC":"工业锻造的改进变体，可以快速立即冶炼资源.<#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">熔炼速度: 25x</><#RN#><RichColor Color=\"1, 1, 0, 1\">收益: 20</><#RN#><#RN#><RichColor Color=\", 1, 1, 1\">\"放入1x黑曜石，1x水晶和1x金属锭”，将它们熔炼成起源金属锭.\"</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::436912255",
+      "Source": "Fertilized Badass Fire Drake Egg",
+      "Trans": {"SC":"受精的火系小喷火龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::505365373",
+      "Source": "Equip a Alpha Megalodon with this to ride it.",
+      "Trans": {"SC":"装备到精英巨齿鲨上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::506181660",
+      "Source": "Prime Alpha Token",
+      "Trans": {"SC":"至尊精英信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::50801490",
+      "Source": "Fertilized Alpha Dodo Egg",
+      "Trans": {"SC":"受精的精英渡渡鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::524164749",
+      "Source": "Smells tasty! This yummy organic matter can be used as a ingridient to craft Annunaki Food Items!",
+      "Trans": {"SC":"闻起来好吃!这种美味的有机物质可以用作制作起源饲料的原料！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::533685584",
+      "Source": "Tranquilized Metal Arrow",
+      "Trans": {"SC":"麻醉金属箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::543939688",
+      "Source": "An armor for Raphus! Give this to your Raphus, The Celestial Dodorex to add extra armor bonus!<#RN#><#RN#>Odracir, The Enslaved will take this armor.",
+      "Trans": {"SC":"把这个装备到幻影渡渡霸王龙上!<#RN#><#RN#>战争领主（驯服）也可以装备.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::552411380",
+      "Source": "Essence Of Smough",
+      "Trans": {"SC":"草原守望者精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::558601868",
+      "Source": "Fertilized Alpha Argentavis Egg",
+      "Trans": {"SC":"受精的精英阿根廷鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::560448409",
+      "Source": "Annunaki Railgun Bullet",
+      "Trans": {"SC":"起源弩箭弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::561476164",
+      "Source": "Slithia, The Celestial Broodmother Matrix",
+      "Trans": {"SC":"幻影育母蜘蛛矩阵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::583669730",
+      "Source": "Use this on a Dragon to ride it!",
+      "Trans": {"SC":"把这个装备到喷火龙上!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::587162386",
+      "Source": "God's greatest creation, forged by the greatest blacksmith. Are you able to wield this weapon?",
+      "Trans": {"SC":"上帝最伟大的创造，由最伟大的铁匠锻造而成。你会使用这把武器吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::589760357",
+      "Source": "Dragon Saddle",
+      "Trans": {"SC":"喷火龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::600407184",
+      "Source": "Use this to feed Primodius, The Celestial Dragon to tame it.",
+      "Trans": {"SC":"用这个来喂养幻影喷火龙，以驯服它.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::643387812",
+      "Source": "Fertilized Badass Frost Argentavis Egg",
+      "Trans": {"SC":"受精的冰系阿根廷鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::664695805",
+      "Source": "Superior then the Annunaki Workbench, but gives you more ability to craft extra items & resources.",
+      "Trans": {"SC":"优于起源工作台，但给你更多的能力来制作额外的物品和资源。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::695255125",
+      "Source": "Fertilized Alpha Carnotaurus Egg",
+      "Trans": {"SC":"受精的精英肉食牛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::702120826",
+      "Source": "Badass Token",
+      "Trans": {"SC":"普通信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::714550176",
+      "Source": "Equip a Alpha Carcharodontosaurus with this to ride it.",
+      "Trans": {"SC":"装备到精英鲨齿龙上以骑乘.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::717094769",
+      "Source": "Alpha Dire Bear Saddle",
+      "Trans": {"SC":"精英恐熊鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::717141484",
+      "Source": "Annunaki Chemistry Bench",
+      "Trans": {"SC":"起源化学实验桌","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::72674333",
+      "Source": "Primodius Essence",
+      "Trans": {"SC":"幻影喷火龙精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::736157019",
+      "Source": "Alpha Token",
+      "Trans": {"SC":"精英信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::759607536",
+      "Source": "Fertilized Badass Fire Therizino Egg",
+      "Trans": {"SC":"受精的火系镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::768200924",
+      "Source": "Fertilized Badass Fire Tyrannosaurus Rex Egg",
+      "Trans": {"SC":"受精的火系霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::786547412",
+      "Source": "Fertilized Elite Dodo Egg",
+      "Trans": {"SC":"受精的精锐渡渡鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::791241827",
+      "Source": "Use this to feed Tibetan, The Celestial Megapithecus to tame it.",
+      "Trans": {"SC":"用这个来喂养幻影金刚，以驯服它.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::797503741",
+      "Source": "Fertilized Badass Fire Pelagornis Egg",
+      "Trans": {"SC":"受精的火系伪齿鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::812189184",
+      "Source": "Equip a Alpha Sabertooth with this to ride it.",
+      "Trans": {"SC":"装备到精英刃齿虎上以骑乘. .","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::82344396",
+      "Source": "Primal Dragon Summoning Tribute",
+      "Trans": {"SC":"原始喷火龙召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::83875797",
+      "Source": "Elegon, The Celestial Dragon Matrix",
+      "Trans": {"SC":"毒系幻影喷火龙矩阵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::840886102",
+      "Source": "Consuming this will instantly negate torpidity for you and your dinosaurs.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Hotbar works for you and your creature.</><#RN#><RichColor Color=\"1, 0, 0, 1\">20 Cooldown Interval</>",
+      "Trans": {"SC":"消耗这个会立即消除你和你的恐龙的眩晕.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">放到快捷栏为你和你的生物使用.</><#RN#><RichColor Color=\"1, 0, 0, 1\">20 冷却时间间隔</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::84644245",
+      "Source": "Annunaki Tranquilizer Arrow",
+      "Trans": {"SC":"起源麻醉箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::860211476",
+      "Source": "Use this to feed Raphus, The Celestial Dodorex to tame it.",
+      "Trans": {"SC":"用这个来喂养幻影渡渡霸王龙，以驯服它.","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::867848460",
+      "Source": "Collected off from a dead alpha creature, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Minor Stamina Regeneration.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 1.5x Stamina Increase..</>",
+      "Trans": {"SC":"从一个死去的精英生物收集，这将给你一个额外的buff应用到你的角色。.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 轻微耐力回复.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 1.5x 增加耐力..</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::876832841",
+      "Source": "You've obtained this token from slaying the Apex variants.<#RN#><#RN#>Can be used to craft higher end items.",
+      "Trans": {"SC":"你通过杀死顶尖生物获得了这个令牌。<#RN#>可以用来制作更高端的物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::877470520",
+      "Source": "Annunaki Rifle Ammo",
+      "Trans": {"SC":"起源步枪子弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::90807259",
+      "Source": "Requires Wood, Thatch, or Sparkpowder to activate.  Put unrefined resources in this to refine them.<#RN#><RichColor Color=\", 1, 1, 1\">\"Put 1x Obsidian, 1x Crystal & 1x Metal Ingot\"to smelt them into Annunaki Metal Ingot.\"</><#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">Smelt Speed: 10x</>",
+      "Trans": {"SC":"需要木头、茅草或火花粉才能激活。将未提炼的资源放入其中提炼它们.<#RN#><RichColor Color=\", 1, 1, 1\">\"放入1x黑曜石，1x水晶和1x金属锭”，将它们熔炼成起源金属锭.\"</><#RN#><#RN#><RichColor Color=\"1, 1, 0, 1\">熔炼速度: 10x</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::914926128",
+      "Source": "Fertilized Badass Frost Tyrannosaurus Rex Egg",
+      "Trans": {"SC":"受精的冰系霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::927339284",
+      "Source": "Rawaiim, Warden Of The Mountains Summoning Tribute",
+      "Trans": {"SC":"山脉守望者召唤贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::927538406",
+      "Source": "Medium Experience Elixir",
+      "Trans": {"SC":"中经验药剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::933153011",
+      "Source": "Hand crafted into a useful ammunition, infused with frost elements.<#RN#><#RN#><RichColor Color=\"0, 1, 1, 1\">Applies Frost Debuff on target upon impact.</>",
+      "Trans": {"SC":"手工制作成有用的弹药，注入了冰霜元素.<#RN#><#RN#><RichColor Color=\"0, 1, 1, 1\">在撞击时对目标施加冰霜buff.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::966997445",
+      "Source": "Annunaki Longneck Rifle",
+      "Trans": {"SC":"起源长管步枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::999204968",
+      "Source": "Alpha Quetz Saddle",
+      "Trans": {"SC":"精英风神翼龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1327643072",
+      "Source": "Improved variant of the Regular Tranq Arrows. Will knock out target swiftly.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage Multiplier: 2x</>",
+      "Trans": {"SC":"常规麻醉箭的改进版本. 会很快击倒目标.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">麻痹效果: 2x</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2907594440",
+      "Source": "Final Boss Of Annunaki Ascended..<#RN#><#RN#>Odracir, Warchief Of The ARK, a challanging foe that you must defeat! Are you up for the task?",
+      "Trans": {"SC":"\"这是起源的最终Boss..<lf><lf>战争领主, 你必须打败一个具有挑战性的敌人！你准备好做这项工作了吗?\"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::551226672",
+      "Source": "Collected off from a dead warden Boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 5x Crafting Speed</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 3.75x Increased Damage</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ No Recoil.</>",
+      "Trans": {"SC":"从死去的典狱长Boss身上收集，这将给你的角色一个额外的buff.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 5x 制作物品速度升级</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 3.75x 增强攻击力</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 无后坐力.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::577251212",
+      "Source": "Fertilized Badass Frost Raptor Egg",
+      "Trans": {"SC":"受精的冰系迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::725461754",
+      "Source": "A simple powerful ammo that fires more clips.",
+      "Trans": {"SC":"一个简单的强大的弹药，发射更多的弹夹.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3009387975",
+      "Source": "Equip a Alpha Plesiosaur with this to ride it.<#RN#><#RN#>You can build structures on the large platform to make a mobile base.<#RN#><#RN#>1000+ Additional Structure Limit",
+      "Trans": {"SC":"装备到精英蛇颈龙上以骑乘. <#RN#>你可以在这个大平台上建造一些结构来做一个移动基地。<#RN#>1000+附加结构限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2647010085",
+      "Source": "Equip a Alpha Mosasaur with this to ride it. <#RN#><#RN#>You can build structures on the large platform to make a mobile base.<#RN#><#RN#>1000+ Additional Structure Limit",
+      "Trans": {"SC":"装备到精英沧龙上以骑乘. <#RN#>你可以在这个大平台上建造一些结构来做一个移动基地。<#RN#>1000+附加结构限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4281939273",
+      "Source": "A lethal high-caliber rifle infused with special gunpowder that will deal devastating damage against targets.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 10 Clip Size.</><#RN#><RichColor Color=\"1, 0, 0, 1\">Less Damage.</>",
+      "Trans": {"SC":"一种注入特殊火药的致命大口径步枪，能对目标造成毁灭性的伤害.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 10 弹夹容量.</><#RN#><RichColor Color=\"1, 0, 0, 1\">更小的损坏.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2201982360",
+      "Source": "Annunaki Raft",
+      "Trans": {"SC":"起源木筏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1600978194",
+      "Source": "Special Badass Broth",
+      "Trans": {"SC":"特殊肉汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::554824158",
+      "Source": "Cooked with special ingridients, can be used to tame Badass Drakes & Babies.",
+      "Trans": {"SC":"可用于驯服特殊小喷火龙与特殊渡渡霸王龙幼崽。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3732100354",
+      "Source": "Araneo Broodmother Lysrix Insignia",
+      "Trans": {"SC":"育母蜘蛛信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1259294521",
+      "Source": "Obtained from slaying the \"1st\" Primal Guardian, use this to tame your very first Uber Areneo Broodmother Lysrix.",
+      "Trans": {"SC":"击杀“第一”原始守护者后获得，用它来驯服你的第一只终极育母蜘蛛。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1004623700",
+      "Source": "Odracir Rebirth Egg",
+      "Trans": {"SC":"战争领主蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2487948206",
+      "Source": "Congratulations! You have beaten the final Boss and have obtained this special item!<#RN#><#RN#>This summons your very own tameable Odracir.",
+      "Trans": {"SC":"恭喜！你已击败最终 Boss 并获得了这件特殊物品！<#RN#><#RN#>它会召唤出你专属的可驯服战争领主。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1528383233",
+      "Source": "Special Badass Hide",
+      "Trans": {"SC":"特殊兽皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::245699441",
+      "Source": "Skinned from Badass Drake & Badass Babies, can be used to craft a Badass Saddle.",
+      "Trans": {"SC":"从小喷火龙与渡渡霸王龙幼崽身上剥取，可用于制作特殊鞍具。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2233118271",
+      "Source": "Annunaki Gunpowder",
+      "Trans": {"SC":"起源火药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::998570810",
+      "Source": "Special Badass Saddle",
+      "Trans": {"SC":"特殊鞍具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1457519093",
+      "Source": "Use this on a Badass Drake or Badass Babies to ride them!",
+      "Trans": {"SC":"将此物用于小喷火龙与渡渡霸王龙幼崽身上即可骑乘它们！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::853776285",
+      "Source": "Annunaki Industrial Forge",
+      "Trans": {"SC":"起源工业熔炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1744773885",
+      "Source": "Obtained from slaying the \"2nd\" Primal Guardian, use this to tame your very first Uber Areneo Broodmother Lysrix.",
+      "Trans": {"SC":"击杀二阶原始守护者获取，可用于驯服首只终极竞技场育母蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3449706210",
+      "Source": "Reused Tranquilizer Dart but more added narcotic potency to it.<#RN#><#RN#><RichColor Color=\"1, 0, 0, 1\">Only compatible with Annunaki Longneck Rifle.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage Multiplier: 10x</>",
+      "Trans": {"SC":"改良麻醉镖，麻醉药效大幅提升.<#RN#><#RN#><RichColor Color=\"1, 0, 0, 1\">仅适配起源长管步枪.</><#RN#><RichColor Color=\"0, 1, 0, 1\">眩晕伤害倍率：10 倍</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3405882389",
+      "Source": "Improved variant of the Regular Tranq Arrows. Will knock out target swiftly.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage Multiplier: 4x</>",
+      "Trans": {"SC":"常规麻醉箭改良款，可快速击晕目标.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">眩晕伤害倍率：4 倍</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::103461213",
+      "Source": "Reused Metal Arrow but applied with narcotics. This is the strongest and highest poison dealing ammunition in the mod. This will most likely knock out larger targets with ease.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Torpidity Damage: 10x</>",
+      "Trans": {"SC":"金属箭矢改良制成，附着麻醉药剂. 模组内麻醉威力最强的弹药. 可轻松击晕大型生物.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">眩晕伤害倍率：10 倍</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::909079396",
+      "Source": "Alpha Cap",
+      "Trans": {"SC":"精英头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::388285848",
+      "Source": "Collected off from a dead alpha creature, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Slows Oxygen Drainage.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Torpor Resistance.</>",
+      "Trans": {"SC":"击杀精英生物掉落，可为角色提供额外增益效果.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 减缓氧气消耗速度.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 提升眩晕抗性.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1083625103",
+      "Source": "Oough, ouugh! Man stick good! OOGA OOGA!<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">No Durability!</><#RN#><RichColor Color=\"0, 1, 0, 1\">More Damage.</><#RN#><RichColor Color=\"0, 1, 0, 1\">Stuns Creatures up to 1000 Drag Weight.</>",
+      "Trans": {"SC":"嗷吼！木棒威力十足! OOGA OOGA!<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无耐久损耗!</><#RN#><RichColor Color=\"0, 1, 0, 1\">伤害提升.</><#RN#><RichColor Color=\"0, 1, 0, 1\">可震慑负重值 1000 以内的生物.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::723063531",
+      "Source": "Warden Cap",
+      "Trans": {"SC":"守望者头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::982355534",
+      "Source": "Collected off from a dead warden boss, this will give you a additional buff applied to your character.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Infinite Oxygen.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ Torpidity Immunity..</>",
+      "Trans": {"SC":"击杀守望者BOOS掉落，可为角色附加额外增益.<#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 氧气无限.</><#RN#><RichColor Color=\"0, 1, 0, 1\">+ 免疫眩晕效果..</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::891264714",
+      "Source": "Badass Treats",
+      "Trans": {"SC":"各属性通用饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2841682436",
+      "Source": "Consuming this will summon Nilloc, Warden Of The Sky.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤天空守望者阿根廷鹫.  \\n\\n!!切勿在基地附近召唤该生物!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::319188998",
+      "Source": "Consuming this will summon Smough, Warden Of The Grassland.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤草原守望者星尾兽.  \\n\\n!! 请勿在基地周边召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3976078154",
+      "Source": "Consuming this will summon Rawaiim, Warden Of The Mountains.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤山脉守望者南方巨兽龙.  \\n\\n!!切勿在基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2659464116",
+      "Source": "Consuming this will summon Bokito, Warden Of The Snow.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤雪地守望者金刚.  \\n\\n!!切勿在基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::916248798",
+      "Source": "Consuming this will summon Mormaw, Warden Of The Ocean.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤深海守望者沧龙.  \\n\\n!!切勿在基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1241110170",
+      "Source": "Consuming this will summon Perdition, Warden Of The Plains.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤平原守望者披毛犀.  \\n\\n!!切勿在基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2022418372",
+      "Source": "Consuming this will summon Karkinos, Warden Of The River.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤河流守望者帝鳄.  \\n\\n!!切勿在基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1195963695",
+      "Source": "Consuming this will summon Euraka, Warden Of The Swamp.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤沼泽守望者魔鬼蛙.  \\n\\n!!切勿在基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3921137590",
+      "Source": "Obtained from slaying the \"4th\" Primal Guardian, use this to tame your very first Uber Areneo Broodmother Lysrix.",
+      "Trans": {"SC":"击杀四阶原始守护者掉落，可驯服首只终极竞技场育母蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2335028799",
+      "Source": "Consuming this will summon Gnashor, Warden Of The Beach.  \\n\\n!!AVOID SPAWNING THIS NEAR YOUR BASE!!",
+      "Trans": {"SC":"使用后召唤海滩守望者碳龟.  \\n\\n!!切勿在基地附近召唤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::923849026",
+      "Source": "Obtained from slaying the \"3rd\" Primal Guardian, use this to tame your very first Uber Areneo Broodmother Lysrix.",
+      "Trans": {"SC":"击杀三阶原始守护者获取，可驯服首只终极竞技场育母蜘蛛.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2557455366",
+      "Source": "1.4% Speed Increase",
+      "Trans": {"SC":"速度提升 1.4%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2457493267",
+      "Source": "Alpha Chestpiece",
+      "Trans": {"SC":"精英胸甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::735844547",
+      "Source": "50% Decreased Damage Received, Minor Hunger/Water Regeneration, 3% Healing Rate.",
+      "Trans": {"SC":"受到伤害降低 50%，小幅恢复饥渴值，治疗速率提升 3%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::401082803",
+      "Source": "Alpha Gauntlent",
+      "Trans": {"SC":"精英手套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2082186920",
+      "Source": "0.35x Melee Increase & 5x Crafting Speed.",
+      "Trans": {"SC":"近战伤害提升 0.35 倍，制作速度提升 5 倍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2607555460",
+      "Source": "Alpha Helmet",
+      "Trans": {"SC":"精英头盔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1550668760",
+      "Source": "Oxygen Usage Reduction & Torpidity Resistence",
+      "Trans": {"SC":"减少氧气消耗，提升眩晕抗性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3687051631",
+      "Source": "Alpha Leggings",
+      "Trans": {"SC":"精英护腿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1552573734",
+      "Source": "Minor Stamina Regeneration.",
+      "Trans": {"SC":"小幅恢复耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::962882235",
+      "Source": "Sedated",
+      "Trans": {"SC":"镇静效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4089225397",
+      "Source": "100% Torpidity Increase & your hunger is draining by 30%.",
+      "Trans": {"SC":"眩晕值翻倍，饥饿度每秒流失 30%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::645060573",
+      "Source": "Enflamed",
+      "Trans": {"SC":"灼烧状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::488708805",
+      "Source": "You are losing 1% percentage of your health!",
+      "Trans": {"SC":"生命值每秒扣除 1%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2056020725",
+      "Source": "Frost",
+      "Trans": {"SC":"冰霜效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1083266982",
+      "Source": "You've been slown down.",
+      "Trans": {"SC":"移动速度降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1845064147",
+      "Source": "Your Torpidity is rapidly increasing!",
+      "Trans": {"SC":"眩晕值快速上涨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::248848797",
+      "Source": "You're on fire, your health is burning away.",
+      "Trans": {"SC":"身处灼烧状态，生命值持续损耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::121097021",
+      "Source": "You have been set on fire by an Fire Metal Arrow! Your health is being depleted by 5%.",
+      "Trans": {"SC":"被烈焰金属箭引燃，生命值每秒损耗 5%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::954170061",
+      "Source": "Frosted",
+      "Trans": {"SC":"霜冻状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2643921003",
+      "Source": "You have been slown down from the impact of frost arrows!",
+      "Trans": {"SC":"被冰霜箭命中，移速降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1690794714",
+      "Source": "Golden Touched",
+      "Trans": {"SC":"金光加持","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2133938246",
+      "Source": "You are Healing.",
+      "Trans": {"SC":"持续恢复生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3323722116",
+      "Source": "Karkinos Fever",
+      "Trans": {"SC":"河流守望者狂热","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4249156778",
+      "Source": "Large Experience Gain",
+      "Trans": {"SC":"高额经验获取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1811744232",
+      "Source": "You are gaining experience points by 8x.",
+      "Trans": {"SC":"经验获取倍率提升至 8 倍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3637726284",
+      "Source": "Medium Experience Gain",
+      "Trans": {"SC":"中等经验获取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1861699689",
+      "Source": "You are gaining experience points by 4x.",
+      "Trans": {"SC":"经验获取倍率提升至 4 倍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::413690053",
+      "Source": "Alpha Giganotosaurus has set you on fire and your health is burning away!",
+      "Trans": {"SC":"被精英南方巨兽龙引燃，生命值持续流失","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3940374442",
+      "Source": "Oxygen elixir",
+      "Trans": {"SC":"氧气药剂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3555592716",
+      "Source": "Your Oxygen is filling up!",
+      "Trans": {"SC":"氧气值快速回满","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3864027162",
+      "Source": "Tranqulized",
+      "Trans": {"SC":"麻醉状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2774596964",
+      "Source": "The impact of an Poison-infused arrow has strucken you, making you sleepy.",
+      "Trans": {"SC":"遭淬毒箭矢击中，陷入昏沉状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1889622396",
+      "Source": "Sleep Tight! - 1% Torpor Increase, Slowness and increased receive damage.",
+      "Trans": {"SC":"深度昏睡：眩晕值每秒增加 1%，移速降低，受到伤害提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3703890558",
+      "Source": "Feathery Fiery! - -7.5% Health Decrease and increased damage received.",
+      "Trans": {"SC":"炽焰侵蚀：每秒损失 7.5% 生命值，承伤增加","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3293384183",
+      "Source": "Volcanic Condition! -7.5% Health Decrease and Speed Decrease",
+      "Trans": {"SC":"熔岩缠身：每秒损失 7.5% 生命值，移动减速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3990925590",
+      "Source": "Gnashed",
+      "Trans": {"SC":"重创撕裂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4187528521",
+      "Source": "You are losing 25% of your health!",
+      "Trans": {"SC":"瞬间损失 25% 生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4049812642",
+      "Source": "Snowy Grave! - Slowness and 10% Stamina Decrease",
+      "Trans": {"SC":"雪域禁锢：移速下降，耐力每秒损耗 10%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2102000848",
+      "Source": "PERISH!",
+      "Trans": {"SC":"濒死湮灭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1400522692",
+      "Source": "Primal Boss has enflamed you!",
+      "Trans": {"SC":"遭到原始boss灼烧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1032494889",
+      "Source": "Alpha Blood Chemicals",
+      "Trans": {"SC":"精英血气侵蚀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3043934026",
+      "Source": "Your vision has been impaired temporaily and your health is decreasing.",
+      "Trans": {"SC":"短暂视野受阻，生命值不断下降","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1334634610",
+      "Source": "Small Experience Gain",
+      "Trans": {"SC":"少量经验获取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2177559945",
+      "Source": "You are gaining experience points by 2x.",
+      "Trans": {"SC":"经验获取倍率提升至 2 倍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3072342358",
+      "Source": "Your stamina is regenerating.",
+      "Trans": {"SC":"耐力逐步恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::741742679",
+      "Source": "Stimulent Elixir",
+      "Trans": {"SC":"振奋药剂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3897159482",
+      "Source": "Your torpidity is decreasing.",
+      "Trans": {"SC":"眩晕值持续下降","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2350227387",
+      "Source": "1.75% Speed Increase, No Fall Damage",
+      "Trans": {"SC":"移速提升 1.75%，免疫跌落伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2222640574",
+      "Source": "75% Decreased Damage Received, Major Hunger/Water Regeneration, +20 Healing Rate.",
+      "Trans": {"SC":"承伤降低 75%，大幅恢复饥渴值，治疗速率提升 20 点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1474955730",
+      "Source": "Warchief Gauntlent",
+      "Trans": {"SC":"领主手套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1929277148",
+      "Source": "5x Crafting Speed & 3.75% Increased Damage & NO RECOIL!",
+      "Trans": {"SC":"制作速度提升 5 倍，伤害增加 3.75%，攻击无后坐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::611324082",
+      "Source": "Infinite Oxygen, Torpidity Immunity.",
+      "Trans": {"SC":"氧气无限，免疫眩晕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1380476819",
+      "Source": "Major Stamina Regeneration & 3x Stamina Increase.",
+      "Trans": {"SC":"大幅恢复耐力，耐力上限提升 3 倍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1125355841",
+      "Source": "Perishing",
+      "Trans": {"SC":"消亡殆尽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::677996619",
+      "Source": "DIE...",
+      "Trans": {"SC":"生命流逝","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2511607505",
+      "Source": "Warden Gauntlent",
+      "Trans": {"SC":"守望者手套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2629815744",
+      "Source": "Rawaiim's Presence",
+      "Trans": {"SC":"山脉守望者威压","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3508503609",
+      "Source": "Rawaiim's Aura is making you sleepy.",
+      "Trans": {"SC":"山脉守望者受气场影响，眩晕值不断累积","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::620940867",
+      "Source": "Worned down",
+      "Trans": {"SC":"机能衰竭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1344752469",
+      "Source": "Unable to fly, majorly losing health & stamina.",
+      "Trans": {"SC":"无法飞行，生命值与耐力大幅损耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::966220247",
+      "Source": "Warchief's Drainage",
+      "Trans": {"SC":"领主汲取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3586412136",
+      "Source": "You are slown and your stamina is decreasing rapidly!",
+      "Trans": {"SC":"移动减速，耐力飞速消耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::664011366",
+      "Source": "Warchief's Presence",
+      "Trans": {"SC":"领主威压","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2334154755",
+      "Source": "iiYOUR HEALTH IS DRAINING RAPIDLY!!",
+      "Trans": {"SC":"生命值急剧流失","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2892280560",
+      "Source": "Drainage",
+      "Trans": {"SC":"能量汲取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::922950829",
+      "Source": "Treats",
+      "Trans": {"SC":"佳肴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::328683431",
+      "Source": "Badass",
+      "Trans": {"SC":"强化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3312669876",
+      "Source": "Potion",
+      "Trans": {"SC":"药剂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3222037565",
+      "Source": "Primal",
+      "Trans": {"SC":"原始","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1326463381",
+      "Source": "Wardens",
+      "Trans": {"SC":"守望者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3345138867",
+      "Source": "Summoning Tribute",
+      "Trans": {"SC":"召唤贡品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1138404323",
+      "Source": "Annunaki Ascended",
+      "Trans": {"SC":"飞升起源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

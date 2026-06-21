@@ -1,0 +1,244 @@
+{
+  "Faye板龙": [//
+    {
+      "NamespaceHash": "Content::3449808448",
+      "Source": "Plateosaurus",
+      "Trans": {"SC":"板龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2818132692",
+      "Source": "Aberrant Plateosaurus",
+      "Trans": {"SC":"畸变板龙","JA":"畸變板龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1477325699",
+      "Source": "Paleo Plateosaurus",
+      "Trans": {"SC":"远古板龙","JA":"遠古板龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::177528835",
+      "Source": "Scorched Plateosaurus",
+      "Trans": {"SC":"焦土板龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4034954942",
+      "Source": "Plateosaurus Saddle",
+      "Trans": {"SC":"板龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2297123149",
+      "Source": "Equip a Plateosaurus with this to ride it.",
+      "Trans": {"SC":"装备到板龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2390492990",
+      "Source": "Fermented Narcoberry",
+      "Trans": {"SC":"发酵麻醉果","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2211512304",
+      "Source": "Fermented in the ingluvies of a Plateosaurus, this sweet substance is irresistable to herbivores.",
+      "Trans": {"SC":"经板龙嗉囊发酵而成，这种甜味物质对草食动物有着不可抗拒的吸引力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1921671290",
+      "Source": "Herbivore Delight",
+      "Trans": {"SC":"素食点心","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1124378439",
+      "Source": "A special mixture crafted from Fermented Narcoberries. When consumed by a herbivore, it awakens something deep within them...",
+      "Trans": {"SC":"由发酵麻醉果特制而成的混合物。当草食动物食用后，会唤醒它们体内深处的某种东西……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::980691214",
+      "Source": "Baby Food",
+      "Trans": {"SC":"幼崽食品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2610644490",
+      "Source": "A sweet, processed treat that ensures a strong bond with your baby pet.",
+      "Trans": {"SC":"一种甜甜的加工零食，能确保你与幼崽之间建立牢固的羁绊。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::896814696",
+      "Source": "Adrenaline Pet Brew",
+      "Trans": {"SC":"肾上腺素酿剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::904027773",
+      "Source": "This special brew has no nutritional value, but boosts your pet’s adrenaline and makes it temporarily stronger.",
+      "Trans": {"SC":"这种特制合剂没有营养价值，但能提升战宠的肾上腺素，使其暂时变强。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2629134063",
+      "Source": "Base Pet Brew",
+      "Trans": {"SC":"基础酿剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1107517885",
+      "Source": "Energy Pet Brew",
+      "Trans": {"SC":"能量酿剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3338500425",
+      "Source": "This brew doesn't have any nutritional value, but fills your pet's stamina.",
+      "Trans": {"SC":"这种合剂没有营养价值，但能补充战宠的耐力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::433116243",
+      "Source": "Medical Pet Brew",
+      "Trans": {"SC":"医疗酿剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2580054833",
+      "Source": "This brew doesn't have any nutritional value, but it promotes healing for your pet.",
+      "Trans": {"SC":"这种合剂没有营养价值，但能促进战宠的愈合。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1748798375",
+      "Source": "Speed Pet Brew",
+      "Trans": {"SC":"速度酿剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2895126983",
+      "Source": "This special brew has no nutritional value, but makes your dino move faster for a short time.",
+      "Trans": {"SC":"这种特制合剂没有营养价值，但能让你的战宠在短时间内移动更快。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3325604410",
+      "Source": "Plateosaurus Egg",
+      "Trans": {"SC":"板龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2301100438",
+      "Source": "Fertilized Plateosaurus Egg",
+      "Trans": {"SC":"受精的板龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::214409443",
+      "Source": "Fertilized Aberrant Plateosaurus Egg",
+      "Trans": {"SC":"受精的畸变板龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2028410116",
+      "Source": "Fertilized Paleo Plateosaurus Egg",
+      "Trans": {"SC":"受精远古板龙蛋","JA":"受精遠古板龙蛋"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2882027483",
+      "Source": "Fertilized Scorched Plateosaurus Egg",
+      "Trans": {"SC":"受精的焦土板龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::119005104",
+      "Source": "Pet Brews",
+      "Trans": {"SC":"酿剂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1931234728",
+      "Source": "Adrenal Surge",
+      "Trans": {"SC":"肾上腺素激增","JA":"腎上腺素激增"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::667523982",
+      "Source": "Your pet is experiencing a surge in adrenaline!<#RN#>+20% Weight!<#RN#>+20% Damage!<#RN#>+20% Resistance!",
+      "Trans": {"SC":"你的战宠正经历肾上腺素激增！<#RN#>+20% 负重！<#RN#>+20% 伤害！<#RN#>+20% 抗性！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1962762803",
+      "Source": "Energized Pet",
+      "Trans": {"SC":"精力充沛的战宠","JA":"精力充沛的戰宠"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1324065382",
+      "Source": "Your pet is gaining stamina!",
+      "Trans": {"SC":"你的宠物正在恢复耐力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::610381465",
+      "Source": "Speed Boost",
+      "Trans": {"SC":"速度提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4240472495",
+      "Source": "Your pet is gaining speed!",
+      "Trans": {"SC":"你的宠物正在提升速度！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1974814749",
+      "Source": "Pet Healing",
+      "Trans": {"SC":"战宠治疗","JA":"戰宠治療"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::573132629",
+      "Source": "Your pet is gaining health!",
+      "Trans": {"SC":"你的宠物正在恢复生命值！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1650159139",
+      "Source": "Baby Imprint Bonus",
+      "Trans": {"SC":"幼崽印痕加成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::524207864",
+      "Source": "Adrenal Crash",
+      "Trans": {"SC":"肾上腺素崩溃","JA":"腎上腺素崩潰"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3726885402",
+      "Source": "Your pet is experiencing an adrenaline crash. ",
+      "Trans": {"SC":"你的宠物正在经历肾上腺素崩溃。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::708354448",
+      "Source": "Herbivore Justice",
+      "Trans": {"SC":"正义的素食者","JA":"正義的素食者"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2413922771",
+      "Source": "Your pet is healing!<#RN#>+20% Speed!<#RN#>+20% Damage!<#RN#>+25% Resistance!",
+      "Trans": {"SC":"你的宠物正在恢复！<#RN#>+20% 速度！<#RN#>+20% 伤害！<#RN#>+25% 抗性！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

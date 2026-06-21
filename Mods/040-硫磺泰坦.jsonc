@@ -1,0 +1,334 @@
+{
+  "硫磺泰坦": [//2025.11.29
+    {
+      "NamespaceHash": "Content::3645546152",
+      "Source": "Sulfur Titan",
+      "Trans": {"SC":"硫磺泰坦","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3428327850",
+      "Source": "Alpha Sulfur Titan",
+      "Trans": {"SC":"精英硫磺泰坦","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2898472406",
+      "Source": "Sulfur Titan Saddle",
+      "Trans": {"SC":"硫磺泰坦鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4177672224",
+      "Source": "Equip a Sulfur Titan with this to ride it. Enhances the damage of the Sulfur Titan beam.",
+      "Trans": {"SC":"装备到硫磺泰坦上以骑乘，还能增强硫磺泰坦光束的伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2844027040",
+      "Source": "Sulfur Jetpack",
+      "Trans": {"SC":"硫磺喷气背包","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1921140407",
+      "Source": "When attached to a Chest Armor, the sulfur jetpack enables you to fly similar to Tek Armor's jetpack but with something new, your speed will be increased a bit!",
+      "Trans": {"SC":"安装在胸甲上后，硫磺喷气背包能像泰克胸甲的喷气背包一样实现飞行，且有新特性 —— 速度会略微提升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::37187295",
+      "Source": "Fertilized Sulfur Titan Egg",
+      "Trans": {"SC":"受精的硫磺泰坦蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2557299792",
+      "Source": "Sulfur Titan Head",
+      "Trans": {"SC":"硫磺泰坦战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::917162643",
+      "Source": "Crystalized Sulfur",
+      "Trans": {"SC":"硫磺结晶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::872225504",
+      "Source": "Created within the body of Sulfur Titan's. Can be used as ammo for a Sulfur Titan's more powerful attacks.",
+      "Trans": {"SC":"在硫磺泰坦体内生成，可作为硫磺泰坦更强力攻击的弹药。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2147873583",
+      "Source": "Sulfur Essence",
+      "Trans": {"SC":"硫磺精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::560899543",
+      "Source": "Used to power Sulfur Titan equipment.",
+      "Trans": {"SC":"用于为硫磺泰坦装备供能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4163527857",
+      "Source": "Super Small Sulfur Titan",
+      "Trans": {"SC":"袖珍-硫磺泰坦","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::32840596",
+      "Source": "Sulfur Titan Capsule",
+      "Trans": {"SC":"硫磺泰坦容器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3424350502",
+      "Source": "A capsule containing the shrunken head of an Alpha Sulfur Titan. Extracts sulfur Essence from the head.",
+      "Trans": {"SC":"内含一颗缩小的精英硫磺泰坦头，可从该头颅中提取硫磺精华。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3657242850",
+      "Source": "Alpha Sulfur Titan Flag",
+      "Trans": {"SC":"精英硫磺泰坦旗帜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1191198501",
+      "Source": "This flag is proof that you have defeated the Alpha Sulfur Titan.",
+      "Trans": {"SC":"此旗帜证明你已经击败了精英硫磺泰坦。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2167967950",
+      "Source": "Titan Terminal",
+      "Trans": {"SC":"泰坦终端","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3407460414",
+      "Source": "Used to summon the Alpha Sulfur Titan. Also allows you to craft Sulfur Titan equipment.<#RN#><#RN#>Note: It can also be used as a teleport!",
+      "Trans": {"SC":"用于召唤精英硫磺泰坦，也可用于制作硫磺泰坦装备。<#RN#>注：它还能用作传送装置！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1143269143",
+      "Source": "Sulfur Grenade",
+      "Trans": {"SC":"硫磺手榴弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2343946007",
+      "Source": "On impact releases an explosion that leaves a lingering cloud of sulfur fog.",
+      "Trans": {"SC":"撞击时会发生爆炸，并留下一团持续存在的硫磺雾。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3983226835",
+      "Source": "Mechanized Sulfur Sword",
+      "Trans": {"SC":"机械硫磺剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2978843957",
+      "Source": "Cuts through metal and armor when infused with Sulfur Essence, and has a unique feature that allows you to repair structures.",
+      "Trans": {"SC":"注入硫磺精华后可斩断金属与盔甲，且具备修复建筑的独特功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "3130E0C0436E60E78E260583328D1368",
+      "Source": "Artillery Mode",
+      "Trans": {"SC":"炮塔模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3901155943"}
+    },
+    {
+      "NamespaceHash": "B0281D554B304B77F4E205B4E8E00891",
+      "Source": "Artillety Mode Blast",
+      "Trans": {"SC":"炮塔模式・爆破","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2038962690"}
+    },
+    {
+      "NamespaceHash": "7DC45193443EB531B4F7F98C8A55C597",
+      "Source": "Artillery Mode Beam",
+      "Trans": {"SC":"炮塔模式・光束","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"12335587"}
+    },
+    {
+      "NamespaceHash": "9A6B54B1434B7B38F8D8E982C9A39B45",
+      "Source": "Body Slam",
+      "Trans": {"SC":"重锤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"384919787"}
+    },
+    {
+      "NamespaceHash": "044F2B7D45C84E072BE22EA7DA232A30",
+      "Source": "Sulfur Breath",
+      "Trans": {"SC":"硫磺喷吐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3989567171"}
+    },
+    {
+      "NamespaceHash": "BB6B3F7E47DD2164D70ADEB9C45893B4",
+      "Source": "Boulder",
+      "Trans": {"SC":"投掷巨石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3711533378"}
+    },
+    {
+      "NamespaceHash": "EF1765F347AB4FF22AE903A75DDE58CC",
+      "Source": "Nova",
+      "Trans": {"SC":"护盾新星","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1361358860"}
+    },
+    {
+      "NamespaceHash": "C8AD392F411547459D6457A91B4A0ABF",
+      "Source": "Melee Attack",
+      "Trans": {"SC":"近战攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2180022362"}
+    },
+    {
+      "NamespaceHash": "86FDCAAE4E2C154EAC7F45ACBF7D2DED",
+      "Source": "Scratch",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1627764772"}
+    },
+    {
+      "NamespaceHash": "Content::2396203335",
+      "Source": "Morale Boosted!",
+      "Trans": {"SC":"士气提升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3595622205",
+      "Source": "Output damage increased",
+      "Trans": {"SC":"输出伤害增加了","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1094393949",
+      "Source": "Summon Alpha Sulfur Titan",
+      "Trans": {"SC":"召唤困难硫磺泰坦","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1743618760",
+      "Source": "Craft this Item to summon an Alpha Sulfur Titan nearby, be warned you'll only have 25 seconds to prepare!",
+      "Trans": {"SC":"使用此物品可在附近召唤一只阿尔法硫磺泰坦，注意你只有 25 秒的准备时间！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4233905123",
+      "Source": "Generates Sulfur Essence, but that's about it",
+      "Trans": {"SC":"会产生硫磺精华，但也就仅此而已了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1316515232",
+      "Source": "Titan Capsule",
+      "Trans": {"SC":"泰坦容器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4125506327",
+      "Source": "Titan Terminal Teleporter",
+      "Trans": {"SC":"泰坦终端传送器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::150991447",
+      "Source": "Essence Invigoration",
+      "Trans": {"SC":"精华提振","JA":"精華提振"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2182644366",
+      "Source": "Titan Terminal Replicator",
+      "Trans": {"SC":"泰坦终端复制器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1279274167",
+      "Source": "Create Sulfur TItan items and summon the Alpha Sulfur Titan here.",
+      "Trans": {"SC":"制作硫磺泰坦物品并在此召唤精英硫磺泰坦。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4188301728",
+      "Source": "Cuts through metal and armor when infused with Sulfur Essence, and has a unique feature that allows you to repair structures. Equipping requires learning this Tekgram.",
+      "Trans": {"SC":"注入硫磺精华后可切割金属与护甲，且具备能让你修复建筑的独特功能。装备需要学习此Tekgram。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::544971345",
+      "Source": "Suffocation!",
+      "Trans": {"SC":"窒息！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3391594710",
+      "Source": "The sulfur smog is suffocating you!",
+      "Trans": {"SC":"硫磺烟雾正在让你窒息！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2031909333",
+      "Source": "Buried",
+      "Trans": {"SC":"被掩埋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::593227796",
+      "Source": "Health regen increased by 30%",
+      "Trans": {"SC":"生命值回复提升30%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::578471045",
+      "Source": "Fog Poisoning",
+      "Trans": {"SC":"雾气中毒","JA":"霧气中毒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2289464046",
+      "Source": "You can't breath!",
+      "Trans": {"SC":"你无法呼吸！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2941268583",
+      "Source": "Essence Sickness",
+      "Trans": {"SC":"精华疾病","JA":"精華疾病"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::306075636",
+      "Source": "You're losing health!",
+      "Trans": {"SC":"你正在失去生命值！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3147599153",
+      "Source": "Repair CD",
+      "Trans": {"SC":"修理冷却时间","JA":"修理冷却時間"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2153898099",
+      "Source": "Can't use a Sulfur Sword to repair while you have this buff.",
+      "Trans": {"SC":"当你有这个增益时，无法使用硫磺剑进行修理。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "998C835A4E7C5548CF76419B9F2C7551",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "A97C35E0413B4D70745614B233B407B4",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    }
+  ]
+}

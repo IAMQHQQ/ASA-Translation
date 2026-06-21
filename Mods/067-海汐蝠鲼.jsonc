@@ -1,0 +1,659 @@
+{
+  "Hydrovanta": [//2025.12.03 技能图标未汉化
+    {
+      "NamespaceHash": "Content::687417705",
+      "Source": "Hydrovanta",
+      "Trans": {"SC":"海汐蝠鲼","JA":"海汐蝠鱝"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1781100505",
+      "Source": "Hydrovanta Saddle",
+      "Trans": {"SC":"海汐蝠鲼鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3730111780",
+      "Source": "Ride that Pancake!",
+      "Trans": {"SC":"骑那个煎饼！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1839189287",
+      "Source": "Hydrovanta Gel Healing Brew (Tier 1)",
+      "Trans": {"SC":"海汐蝠鲼凝胶治疗药剂（1级）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::356637625",
+      "Source": "Stronger than a Medical Brew, but it can only be fed to creatures. <#RN#><#RN#>This is (Tier 1) and the least potent of the Hydrovanta Gel Brews<#RN#><#RN#>Good for on the go healing for your creatures.<#RN#><#RN#>Promotes healing.",
+      "Trans": {"SC":"比医疗药剂更强，但只能喂给生物。<#RN#><#RN#>这是（1级），也是海汐蝠鲼凝胶药剂中效力最弱的<#RN#><#RN#>适合随时为你的生物治疗。<#RN#><#RN#>促进愈合。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1648237028",
+      "Source": "Hydrovanta Gel",
+      "Trans": {"SC":"海汐蝠鲼凝胶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3595903826",
+      "Source": "Promotes healing in it's raw form and can be consumed by humans & creatures, but is less potant than a medical brew. <#RN#>----------------------------------<#RN#><#RN#>Tamed Hydrovantas Passively Generate Gel by Consuming Black Pearls, Silica Pearls, Ammonite Bile, Angler Gel, & Bio Toxin. <#RN#><#RN#> (Gel Generation can be toggled off in hydrovanta radial menu)<#RN#>----------------------------------<#RN#><#RN#>Crafting Use: Used to create Hydrovanta Healing Brews for Dinos",
+      "Trans": {"SC":"原始形态下即可促进愈合，人类和生物均可食用，但效力比医疗药剂弱。<#RN#>----------------------------------<#RN#><#RN#>被驯服的海汐蝠鲼通过食用黑珍珠、硅珍珠、菊石胆汁、鮟鱇鱼凝胶和生物毒素来被动生成凝胶。<#RN#><#RN#>（可在海汐蝠鲼的径向菜单中关闭凝胶生成）<#RN#>----------------------------------<#RN#><#RN#>制作用途：用于为恐龙制作海汐蝠鲼治疗药剂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3809528516",
+      "Source": "Hydrovanta Gel Healing Brew (Tier 2)",
+      "Trans": {"SC":"海汐蝠鲼凝胶治疗药剂（2级）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3638460929",
+      "Source": "More potent than Tier 1 Hydrovanta Gel Brew, but not as potent as Tier 3<#RN#><#RN#>Can only be fed to creatures. <#RN#><#RN#>Good for on the go healing for your creatures.<#RN#><#RN#>Promotes healing.",
+      "Trans": {"SC":"效力比1级海汐蝠鲼凝胶药剂强，但不如3级<#RN#><#RN#>只能喂给生物。<#RN#><#RN#>适合随时为你的生物治疗。<#RN#><#RN#>促进愈合。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::800770650",
+      "Source": "Hydrovanta Gel Healing Brew (Tier 3)",
+      "Trans": {"SC":"海汐蝠鲼凝胶治疗药剂（3级）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::91539504",
+      "Source": "Strongest & most potent Hydrovanta Gel Brew (Tier 3)<#RN#><#RN#>Can only be fed to creatures. <#RN#><#RN#>Good for on the go healing for your creatures.<#RN#><#RN#>Promotes healing.",
+      "Trans": {"SC":"最强且效力最高的海汐蝠鲼凝胶药剂（3级）<#RN#><#RN#>只能喂给生物。<#RN#><#RN#>适合随时为你的生物治疗。<#RN#><#RN#>促进愈合。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::230056809",
+      "Source": "A thick, viscous substance that can sustain a flame for a remarkably long duration and be used to craft healing property items.",
+      "Trans": {"SC":"一种浓稠、黏滞的物质，能维持火焰极长时间，还可用于制作具有治疗属性的物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1927116321",
+      "Source": "Chibi-Hydrovanta",
+      "Trans": {"SC":"袖珍-海汐蝠鲼","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1502022810",
+      "Source": "Hydrovanta Aquarium Tank",
+      "Trans": {"SC":"海汐蝠鲼水族箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1119980930",
+      "Source": "A placeable Hydrovanta Aquarium Decoration. <#RN#><#RN#>Has a tiny Hydrovanta swimming inside",
+      "Trans": {"SC":"可放置的海汐蝠鲼水族箱装饰。<#RN#><#RN#>内部有一只小海汐蝠鲼游动。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3994888840",
+      "Source": "Hydrovanta Dossier",
+      "Trans": {"SC":"海汐蝠鲼图鉴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2416933328",
+      "Source": "A placeable Hydrovanta Dossier full of knowledge on the alien like stingray<#RN#><#RN#>Can be used as decoration, or to learn information about Hydrovanta",
+      "Trans": {"SC":"可放置的海汐蝠鲼资料集，满载关于这只外星鳐鱼的知识<#RN#><#RN#>可用作装饰，或用于了解海汐蝠鲼的信息。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::837175375",
+      "Source": "Moros Hydrovanta Admin Menu Remote",
+      "Trans": {"SC":"Moros海汐蝠鲼管理员菜单遥控器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2528155822",
+      "Source": "This device is an Admin Spawn / Configure Menu for Moro's Hydrovanta Mod. ",
+      "Trans": {"SC":"该装置是Moro的海汐蝠鲼模组的管理员生成/配置菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2520512851",
+      "Source": "Hydrovanta Healing",
+      "Trans": {"SC":"海汐蝠鲼治疗","JA":"海汐蝠鱝治療"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3360902066",
+      "Source": "You are being rapidly healed by Hydrovanta!",
+      "Trans": {"SC":"你正在被海汐蝠鲼快速治疗！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::247089194",
+      "Source": "Cuddled by Hydrovanta",
+      "Trans": {"SC":"被海汐蝠鲼依偎","JA":"被海汐蝠鱝依偎"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2232948539",
+      "Source": "Hydrovanta Imbue Types",
+      "Trans": {"SC":"海汐蝠鲼灌注类型","JA":"海汐蝠鱝灌注类型"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2328173618",
+      "Source": "Imbue your Hydrovantas Barb with substances",
+      "Trans": {"SC":"用物质灌注你的海汐蝠鲼的倒钩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1672185330",
+      "Source": "Moro's Hydrovanta Admin Panel",
+      "Trans": {"SC":"Moro海汐蝠鲼管理面板","JA":"Moro海汐蝠鱝管理面板"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1576106621",
+      "Source": "Free Oxygen!",
+      "Trans": {"SC":"免费氧气！","JA":"免費氧气！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3881107606",
+      "Source": "Hydrovanta is providing you Oxygen!",
+      "Trans": {"SC":"海汐蝠鲼正在为你提供氧气！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "967F44C24310CB0384C04B9176865C7E",
+      "Source": "Embue Options",
+      "Trans": {"SC":"灌注选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2163739096"}
+    },
+    {
+      "NamespaceHash": "89152FAF42745B679B17EFB60D15BC04",
+      "Source": "Bury",
+      "Trans": {"SC":"掩埋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"30283731"}
+    },
+    {
+      "NamespaceHash": "4650BF15441D67ACCAA6F39699CBB15F",
+      "Source": "Toggle Healing",
+      "Trans": {"SC":"切换治疗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1624331509"}
+    },
+    {
+      "NamespaceHash": "5A8D7B9C4750810C0FB35CAB118EA507",
+      "Source": "Cycle Tracking Type",
+      "Trans": {"SC":"循环切换追踪类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1733512790"}
+    },
+    {
+      "NamespaceHash": "632E9FC441F17F41528EFC9BDAC0EEFB",
+      "Source": "Toggle Tracking",
+      "Trans": {"SC":"切换追踪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2286952619"}
+    },
+    {
+      "NamespaceHash": "B27FA690465DBA2E9BCF58A2D69AB0F6",
+      "Source": "Side Roll Left / Right",
+      "Trans": {"SC":"左/右侧滚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2871018968"}
+    },
+    {
+      "NamespaceHash": "61ADC04F41C7D83B3615FDB6BD396132",
+      "Source": "Barrel Roll",
+      "Trans": {"SC":"桶滚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"856411773"}
+    },
+    {
+      "NamespaceHash": "383AB9194670A7FAF96439AC10BF4E97",
+      "Source": "Push",
+      "Trans": {"SC":"推击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1145453642"}
+    },
+    {
+      "NamespaceHash": "FF41D6D44E2996D6E38831AA5623ACDF",
+      "Source": "Bite / Harvest",
+      "Trans": {"SC":"咬/采集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"378845790"}
+    },
+    {
+      "NamespaceHash": "B1D5C233467DB053CB27F9B8CA082BEB",
+      "Source": "Stab",
+      "Trans": {"SC":"刺","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2802324197"}
+    },
+    {
+      "NamespaceHash": "3BC88E6243D57A0B09F6C4B7568A63C8",
+      "Source": "Bio Toxin (Tranq)",
+      "Trans": {"SC":"生物毒素 (麻醉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"172499505"}
+    },
+    {
+      "NamespaceHash": "7BEC0D254BF57282063D2DAF249AB5AB",
+      "Source": "Angler Gel (Infection)",
+      "Trans": {"SC":"鮟鱇鱼凝胶 (感染)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"951751670"}
+    },
+    {
+      "NamespaceHash": "DC30F4764C04752602E9E4803C0310A3",
+      "Source": "Black Pearls (Penetration)",
+      "Trans": {"SC":"黑珍珠 (穿透)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1180416081"}
+    },
+    {
+      "NamespaceHash": "AC217ACC4A2CB459E23BD0BF990A1E4B",
+      "Source": "Ammonite Bile (Pheromone)",
+      "Trans": {"SC":"菊石黏液 (信息素)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3776426977"}
+    },
+    {
+      "NamespaceHash": "328620FC480FB9A429E57AA1F8FD7593",
+      "Source": "Hydrovanta Gel (Healing)",
+      "Trans": {"SC":"海汐蝠鲼凝胶 (治疗)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2997177379"}
+    },
+    {
+      "NamespaceHash": "2E2F5FFD486BBE3024D117B913873D9E",
+      "Source": "None (No Effects)",
+      "Trans": {"SC":"无 (无效果)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3920962784"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::766BE86747E3B0986042E494705BC43B",
+      "Source": "Current Embue Type: {Type}",
+      "Trans": {"SC":"当前注入类型: {Type}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"739320452"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::B650001440CCFFC9826EB7916A481691",
+      "Source": "Show Side Controls List ({State})",
+      "Trans": {"SC":"显示侧边控制列表 ({State})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3851043122"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::D54B3B254DD394B7127016A29CBD3266",
+      "Source": "Show Abilities HUD ({State})",
+      "Trans": {"SC":"显示技能 HUD ({State})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"28376815"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::B993793E4BCA6537CBE99F8A760EFF52",
+      "Source": "({Toggle}) Gel Production",
+      "Trans": {"SC":"({Toggle}) 凝胶生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"529141398"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::EF7A883648EDD9A7DBCDA3B0DCC760AF",
+      "Source": "({Toggle}) Particle Effects",
+      "Trans": {"SC":"({Toggle}) 粒子效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"410266215"}
+    },
+    {
+      "NamespaceHash": "CEA5A0244999FE1CB39146A3ECEBE7DA",
+      "Source": "Healing Radius",
+      "Trans": {"SC":"治疗半径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1744516948"}
+    },
+    {
+      "NamespaceHash": "E1F5FC8648E98B474148B9B7E479791D",
+      "Source": "Healing Amount",
+      "Trans": {"SC":"治疗量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2088190638"}
+    },
+    {
+      "NamespaceHash": "767CCC494D62C0965F0174B0A04BC1BD",
+      "Source": "Healing Stamina Cost Reduction Reduction",
+      "Trans": {"SC":"治疗耐力消耗降低减免","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3149554645"}
+    },
+    {
+      "NamespaceHash": "C46EC3C346FBA2F75467B78691E59D91",
+      "Source": "Black Pearl Harvest Rate",
+      "Trans": {"SC":"黑珍珠采集率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2534760615"}
+    },
+    {
+      "NamespaceHash": "7EFF327E4A18329947063F8F1D8E925C",
+      "Source": "Silica Pearl Harvest Rate",
+      "Trans": {"SC":"含硅珍珠采集率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3512050478"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::A2206F7B4E3B606E8A94A5865E818995",
+      "Source": "Upgrade Multiplier: {P}X",
+      "Trans": {"SC":"升级倍数: {P}倍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"101888071"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::5BACCFD14C8306D7EA8F0E9A8FF4A056",
+      "Source": "Upgrade Multiplier: {P}X",
+      "Trans": {"SC":"升级倍数: {P}倍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"101888071"}
+    },
+    {
+      "NamespaceHash": "6AF70AE3434B6BB0B5E619979A752E87",
+      "Source": "Moro's Hydrovanta Admin Remote",
+      "Trans": {"SC":"Moro海汐蝠鲼管理员遥控器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2215828465"}
+    },
+    {
+      "NamespaceHash": "7ADDBAA9420369414AE1808CB46C40BD",
+      "Source": "SpawnDinos",
+      "Trans": {"SC":"生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4147162385"}
+    },
+    {
+      "NamespaceHash": "5375F5454BBD14E7BB7046AE63AA2A4A",
+      "Source": "Configure Settings",
+      "Trans": {"SC":"配置设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2541883398"}
+    },
+    {
+      "NamespaceHash": "FF58E73E446728781809779D42022E0B",
+      "Source": "Spawn Items",
+      "Trans": {"SC":"生成物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2805398202"}
+    },
+    {
+      "NamespaceHash": "0E12B7944973FDEC3451E79FE5C61481",
+      "Source": "Socials / Mod Info",
+      "Trans": {"SC":"社交/模组信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3322479258"}
+    },
+    {
+      "NamespaceHash": "9F845EB844898675B4DCF299E3880B0C",
+      "Source": "Moro's Other Mods",
+      "Trans": {"SC":"Moro其他模组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3928318990"}
+    },
+    {
+      "NamespaceHash": "0DE543F04F799341CE0D8F87BCA903FA",
+      "Source": "Mod PatchNotes",
+      "Trans": {"SC":"模组更新日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2563193217"}
+    },
+    {
+      "NamespaceHash": "FDF7527C4CB530EBA6CB2D814CE357AC",
+      "Source": "Spawn Dinos Panel",
+      "Trans": {"SC":"生成恐龙面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1512438556"}
+    },
+    {
+      "NamespaceHash": "D224C41C4F9C55C6384C379B04139C74",
+      "Source": "Configure Settings Panel",
+      "Trans": {"SC":"配置设置面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4158271305"}
+    },
+    {
+      "NamespaceHash": "BA0181014E8A6F076F2A5AAD37A15F97",
+      "Source": "Spawn Items Panel",
+      "Trans": {"SC":"生成物品面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2403955707"}
+    },
+    {
+      "NamespaceHash": "4CAF99A34DC2A28606DF698DE6D74D0C",
+      "Source": "Socials / Info Panel",
+      "Trans": {"SC":"社交/信息面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4077736719"}
+    },
+    {
+      "NamespaceHash": "385F75C14953C0122D50BB9C4C93D242",
+      "Source": "Moro's Other Mods",
+      "Trans": {"SC":"Moro其他模组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3928318990"}
+    },
+    {
+      "NamespaceHash": "F2683BDB460718C3DCC58583684CCA03",
+      "Source": "Patch Notes",
+      "Trans": {"SC":"更新日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3187916512"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::A551B91D453D2D1F387760BB47EFAE58",
+      "Source": "{State} ToolTips",
+      "Trans": {"SC":"{State}工具提示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3252771815"}
+    },
+    {
+      "NamespaceHash": "D1225DAE4AB49A13D2D3EA940CE0FBBD",
+      "Source": "Apply Settings",
+      "Trans": {"SC":"应用设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2106076990"}
+    },
+    {
+      "NamespaceHash": "325E09B545D070D6F8972EB8B99E3579",
+      "Source": "Apply Color",
+      "Trans": {"SC":"应用颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3969527617"}
+    },
+    {
+      "NamespaceHash": "4F5570854EA8602CCAA066800E20190D",
+      "Source": "Hydrovanta Color Selector",
+      "Trans": {"SC":"海汐蝠鲼颜色选择器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1152901019"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::DBAFB5E04F0410F4D2FEB6A4BB92FB81",
+      "Source": "Author",
+      "Trans": {"SC":"作者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"226812413"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4D4F497F450FAC75967EE2BDB5BDE60D",
+      "Source": "Mod Global Rank",
+      "Trans": {"SC":"模组全球排名","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"326162567"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::7C7DDFC645F0F267806321B4D4C63D76",
+      "Source": "Download Count",
+      "Trans": {"SC":"下载量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3957753718"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1B5D0C0042E49860B0CC7EB6477A9AAA",
+      "Source": "Last Updated",
+      "Trans": {"SC":"最后更新时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3492216092"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::CD4EE6B14C83BF78F42379AAA1C71EDE",
+      "Source": "Mod Rating: {Rating}% {Score} ",
+      "Trans": {"SC":"模组评分: {Rating}% {Score}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"617747094"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::219EBEBB47527A47EA0A03B1B40EDC3D",
+      "Source": "Summary",
+      "Trans": {"SC":"摘要","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1495729702"}
+    },
+    {
+      "NamespaceHash": "75380F254178927F7E5ABBA26C32E219",
+      "Source": "Make Blueprint",
+      "Trans": {"SC":"制作蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"457844221"}
+    },
+    {
+      "NamespaceHash": "3080509844FC007C10958DB59EAB3A32",
+      "Source": "Quality",
+      "Trans": {"SC":"品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3882954527"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::B8C472B8422A2F9176E038B89EEC6146",
+      "Source": "Put Angler Gel, Bio Toxin or Ammonite bile in last slot and feed to start taming.",
+      "Trans": {"SC":"将鮟鱇鱼凝胶、生物毒素或菊石黏液放入最后一个槽位并喂食以开始驯服。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1285063138"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::139850CB4301C6C6F64256B5C3A68543",
+      "Source": "{Name}<#RN#>Points Applied:{Points Applied}<#RN#>{Amount}% Inc",
+      "Trans": {"SC":"{Name}<#RN#>已分配点数: {Points Applied}<#RN#>{Amount}%增量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1728940730"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::32B81B9F4E26B5B533FE9781BD572A3F",
+      "Source": "Points Available: {Points}",
+      "Trans": {"SC":"可用点数: {Points}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"436985823"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::87AD02534E7115BD104C7AAD41B1CF5C",
+      "Source": "Feed to begin taming.",
+      "Trans": {"SC":"喂食以开始驯服。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3558074492"}
+    },
+    {
+      "NamespaceHash": "Content::3852997710",
+      "Source": "MorosHydrovanta",
+      "Trans": {"SC":"海汐蝠鲼","JA":"海汐蝠鱝"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      //基因枪
+    },
+    {
+      "NamespaceHash": "GraphLiteral::0743EC7B4267B4EA7D1B5899E682C38C",
+      "Source": "Hydrovanta is out of {Name}",
+      "Trans": {"SC":"海汐蝠鲼的{Name}无法使用/无库存","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"795206982"}
+    },
+    {
+      "NamespaceHash": "4772C0B3487AA8DE839DD0867BDD8B06",
+      "Source": "MoroNada's Discord",
+      "Trans": {"SC":"MoroNada的Discord","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"545726276"}
+    },
+    {
+      "NamespaceHash": "2E2AA3B74488D5462B126C86611C5B42",
+      "Source": "MoroNada's YouTube",
+      "Trans": {"SC":"MoroNada的YouTube","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"734138069"}
+    },
+    {
+      "NamespaceHash": "EE5892AA4F6F7C6DFF92AF9CBDFEB4B7",
+      "Source": "Mod Info Google Doc",
+      "Trans": {"SC":"模组信息谷歌文档","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2649726401"}
+    },
+    {
+      "NamespaceHash": "424FF09F47101CFF3A00EEB389076BD5",
+      "Source": "MoroNada's Twitter",
+      "Trans": {"SC":"MoroNada的Twitter","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4094192436"}
+    },
+    {
+      "NamespaceHash": "80725B3747945C7F88256B95A5842BF1",
+      "Source": "MoroNada's Artstation",
+      "Trans": {"SC":"MoroNada的Artstation","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3781232131"}
+    },
+    {
+      "NamespaceHash": "4BF4B9AE461542B83D5F77AD7FC57790",
+      "Source": "Donate - Paypal",
+      "Trans": {"SC":"捐赠 - Paypal","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3421789463"}
+    },
+    {
+      "NamespaceHash": "74C69FBC41E7CFA8B0751B9DF0B9F9A4",
+      "Source": "Donate - CashApp",
+      "Trans": {"SC":"捐赠 - CashApp","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1999813184"}
+    },
+    {
+      "NamespaceHash": "7102ADA24F71B0540047E9B95F135D10",
+      "Source": "Donate - Patreon",
+      "Trans": {"SC":"捐赠 - Patreon","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2466884922"}
+    },
+    {
+      "NamespaceHash": "885026884E7EFA1FA7779E9D7802FE03",
+      "Source": "Lower Number = Takes less damage from enemies",
+      "Trans": {"SC":"数值越低 = 受到敌人的伤害越少","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"876292102"}
+    },
+    {
+      "NamespaceHash": "41AF9CFE469CC4621F8C74B6DB28791B",
+      "Source": "Higher Number = More Stamina Drained Per Second",
+      "Trans": {"SC":"数值越高 = 每秒消耗的耐力越多","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1662649271"}
+    },
+    {
+      "NamespaceHash": "949CCBC4427E012B965AEB99BC7795E5",
+      "Source": "Higher Number = Faster Taming Bar Drain",
+      "Trans": {"SC":"数值越高 = 驯养进度条消耗越快","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3326682451"}
+    },
+    {
+      "NamespaceHash": "074638264080E8AB6C0E81BB3C22770C",
+      "Source": "Higher number = More Healing done to allies Per Second",
+      "Trans": {"SC":"数值越高 = 每秒对盟友的治疗量越多","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2688099721"}
+    },
+    {
+      "NamespaceHash": "FED6365147297B8AB28B879D3A24C2BF",
+      "Source": "If this is set to true, Hydrovanta will use the regular ark passive tame method. Instead of the custom one.",
+      "Trans": {"SC":"如果此设置为 true，海汐蝠鲼将使用方舟常规的被动驯养方法，而非自定义方法。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"888519274"}
+    },
+    {
+      "NamespaceHash": "063E03E748E1648C26BD5E94F8EC6077",
+      "Source": "This determines the amount of health that the Tier 1 Hydrovanta Healing brew will do when used on a creature.",
+      "Trans": {"SC":"这决定了 1 阶海汐蝠鲼治疗药剂用于生物时的治疗量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2384266320"}
+    },
+    {
+      "NamespaceHash": "AA6A48B04C958BB119BCDABDBC3AB0DF",
+      "Source": "This determines the amount of health that the Tier 2 Hydrovanta Healing brew will do when used on a creature.",
+      "Trans": {"SC":"这决定了 2 阶海汐蝠鲼治疗药剂用于生物时的治疗量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2936631607"}
+    },
+    {
+      "NamespaceHash": "05944D184AD7CE7C2A731DA52395E9DD",
+      "Source": "This determines the amount of health that the Tier 3 Hydrovanta Healing brew will do when used on a creature.",
+      "Trans": {"SC":"这决定了 3 阶海汐蝠鲼治疗药剂用于生物时的治疗量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2953141738"}
+    },
+    {
+      "NamespaceHash": "EF30913C471828C0C2842888BC99FC96",
+      "Source": "This determines the amount of time it takes to apply the full healing amount.",
+      "Trans": {"SC":"这决定了施加全部治疗量所需的时间。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"123346825"}
+    },
+    {
+      "NamespaceHash": "5F263BD64F31EA08B32834ABE4A6BD6A",
+      "Source": "This determines the amount of time the cooldown per use is. (To prevent spam feeding)",
+      "Trans": {"SC":"这决定了每次使用的冷却时间（防止频繁喂食）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"986136357"}
+    },
+    {
+      "NamespaceHash": "19BB99814D6A2CDF8AED27801E50ED22",
+      "Source": "Base amount of Damage this does per second.",
+      "Trans": {"SC":"此技能每秒的基础伤害量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3466266608"}
+    },
+    {
+      "NamespaceHash": "Content::3535345475",
+      "Source": "Higher number = More Resources Gathered",
+      "Trans": {"SC":"数值越高 = 收集的资源越多","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::702947124EC3611913B1329C6D6E5039",
+      "Source": "{Mod Name} Mod Settings Updated!",
+      "Trans": {"SC":"{Mod Name} Mod设置已更新!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3145426336"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::05827C29407B9F4A74180AA255837CFC",
+      "Source": "Disable",
+      "Trans": {"SC":"禁用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3631076157"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::AA7EAB364FDC7FEAABDC3090820E5831",
+      "Source": "Enable",
+      "Trans": {"SC":"启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2201890003"}
+    }
+  ]
+}

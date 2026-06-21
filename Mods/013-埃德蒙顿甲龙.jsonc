@@ -1,0 +1,172 @@
+{
+  "埃德蒙顿甲龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::2651186731",
+      "Source": "Edmontonia",
+      "Trans": {"SC":"埃德蒙顿甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2467857041",
+      "Source": "Fertilized Edmontonia Egg",
+      "Trans": {"SC":"受精的埃德蒙顿甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::826415331",
+      "Source": "An Edmontonia Saddle equipped with two Flamethrower turrets! Can seat 2 passengers or be controlled manually by the rider.",
+      "Trans": {"SC":"埃德蒙顿甲龙鞍配备了两座火焰喷射器炮塔！可搭载两名乘客，也能由骑手手动操控。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3390206713",
+      "Source": "Edmontonia Saddle",
+      "Trans": {"SC":"埃德蒙顿甲龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::638863018",
+      "Source": "Edmontonia Egg",
+      "Trans": {"SC":"埃德蒙顿甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1964522128",
+      "Source": "Edmontonia Flamethrower Saddle",
+      "Trans": {"SC":"埃德蒙顿甲龙火炮鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::532800698",
+      "Source": "Flame Powdered!",
+      "Trans": {"SC":"火焰粉末!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::893597312",
+      "Source": "You've been covered in explosive powder!",
+      "Trans": {"SC":"你身上沾满了爆炸粉末！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::811223434",
+      "Source": "Board Left Flamethrower Turret",
+      "Trans": {"SC":"登上左侧炮台座位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::117906802",
+      "Source": "Board Right Flamethrower Turret",
+      "Trans": {"SC":"登上右侧炮台座位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1102266489",
+      "Source": "Equip an Edmontonia with this to ride it.",
+      "Trans": {"SC":"装备到埃德蒙顿甲龙以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::933559668",
+      "Source": "Edmontonia Powder Immunity",
+      "Trans": {"SC":"埃德蒙顿龙粉末免疫","JA":"埃德蒙頓龙粉末免疫"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3705077437",
+      "Source": "You currently resist the effects of Edmontonia Powder",
+      "Trans": {"SC":"你当前对埃德蒙顿龙的粉末效果具有抵抗力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::A29FB07547B76F929C1FDBA82A75997F",
+      "Source": "{percent}% AMMO: {amcount},",
+      "Trans": {"SC":"{percent}% 弹药: {amcount},","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1273292860"}
+    },
+    {
+      "NamespaceHash": "A6E7F26D41AE60F7D2C42EAFA6FC2ADA",
+      "Source": "Melee/Fire Left Turret",
+      "Trans": {"SC":"近战 | 左喷火","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1404093063"}
+    },
+    {
+      "NamespaceHash": "0F48698846B48787C72559B7D0C993B3",
+      "Source": "Tail Whip/Fire Right Turret",
+      "Trans": {"SC":"尾击 | 右喷火","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3440321983"}
+    },
+    {
+      "NamespaceHash": "4BCFC0B14E424819E7746BA3A3046CFF",
+      "Source": "Bite/Harvest",
+      "Trans": {"SC":"啃咬 | 采集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3646309771"}
+    },
+    {
+      "NamespaceHash": "B3BB1F7B4618A98C48E3C1BB3C440860",
+      "Source": "Toggle Powder Clouds",
+      "Trans": {"SC":"开启 | 关闭粉末云(状态)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"564301189"}
+    },
+    {
+      "NamespaceHash": "31493C254F8C51474A25358219AE3A7B",
+      "Source": "Toggle Powder Attacks",
+      "Trans": {"SC":"开启 | 关闭粉末攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"781576301"}
+    },
+    {
+      "NamespaceHash": "3EAFD97943E20E2ECE0D5B9799FB11CA",
+      "Source": "Toggle Turret",
+      "Trans": {"SC":"切换炮台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"360231770"}
+    },
+    {
+      "NamespaceHash": "16085BDF4CEA61E61180B299DBAE02D3",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "C9413672476640208A74938D110A99C0",
+      "Source": "Cosmetic Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1671473134"}
+    },
+    {
+      "NamespaceHash": "Content::2563256920",
+      "Source": "Ed Passenger Buff",
+      "Trans": {"SC":"埃德蒙顿甲龙乘客增益","JA":"埃德蒙頓甲龙乘客增益"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2685473122",
+      "Source": "Edmontonia Rider",
+      "Trans": {"SC":"埃德蒙顿甲龙骑手","JA":"埃德蒙頓甲龙騎手"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3910667431",
+      "Source": "you are riding an edmontonia",
+      "Trans": {"SC":"你正在骑乘一只埃德蒙顿甲龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3020891990",
+      "Source": "Edmontonia Taming Friend",
+      "Trans": {"SC":"埃德蒙顿甲龙驯养伙伴","JA":"埃德蒙頓甲龙馴养伙伴"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3366058149",
+      "Source": "An Edmontonia wants to commit arson with you!",
+      "Trans": {"SC":"一只埃德蒙顿甲龙想和你一起纵火！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4087191672",
+      "Source": "Ed Tame Target",
+      "Trans": {"SC":"埃德蒙顿甲龙驯养目标","JA":"埃德蒙頓甲龙馴养目標"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

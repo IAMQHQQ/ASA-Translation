@@ -1,0 +1,88 @@
+{
+  "改良的孵化器": [//2025.11.29
+    {
+      "NamespaceHash": "Content::3677332142",
+      "Source": "Incubator Cryo Storage",
+      "Trans": {"SC":"低温培养箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3287486361",
+      "Source": "Improved Egg Incubator",
+      "Trans": {"SC":"改良孵化器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2498801459",
+      "Source": "Incubator Cryo",
+      "Trans": {"SC":"恒温仓","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1711048989",
+      "Source": "Requires an improved incubator to build. Place this near an incubator to use the auto cryo feature.",
+      "Trans": {"SC":"需要一个改良孵化器来建造。放置在孵化器附近使用自动低温功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "69843B2645B57F9A592255B450AAE1ED",
+      "Source": "INCUBATOR SETTINGS",
+      "Trans": {"SC":"孵化器设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3476841506"}
+    },
+    {
+      "NamespaceHash": "6391DA0C4CA17052C079798E09933E8D",
+      "Source": "Egg Options",
+      "Trans": {"SC":"孵蛋选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"711365227"}
+    },
+    {
+      "NamespaceHash": "09832C7344E4DA69AA370C935FC7BD30",
+      "Source": "Anything under these values<#RN#>will be destroyed.<#RN#>",
+      "Trans": {"SC":"数值以下的<#RN#>都将被销毁<#RN#>(将数值设置为 0 不启用)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"155592895"}
+    },
+    {
+      "NamespaceHash": "965B00914AA524DCE7279A83AAAC95E0",
+      "Source": "Mutated Stats To Destroy",
+      "Trans": {"SC":"要销毁的变异属性值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2930702042"}
+    },
+    {
+      "NamespaceHash": "32180ED34FC2D02B383565864611CC7E",
+      "Source": "Egg Gender To Destroy",
+      "Trans": {"SC":"要销毁的蛋的性别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2658682978"}
+    },
+    {
+      "NamespaceHash": "80C8493A47C9B22C550D7CB4B502FCF1",
+      "Source": "Auto Collect Eggs",
+      "Trans": {"SC":"自动收集蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"314584038"}
+    },
+    {
+      "NamespaceHash": "71A6A39B4E2E13612DE509A1D8680DB5",
+      "Source": "Auto Cryo Babies",
+      "Trans": {"SC":"自动冷冻幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"431291049"}
+    },
+    {
+      "NamespaceHash": "D719AE9E4212102715D9C5823B9DB511",
+      "Source": "Auto Hatch Eggs",
+      "Trans": {"SC":"自动孵化蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2034805438"}
+    },
+    {
+      "NamespaceHash": "0025A6064B0682852E4C928B95DE33FD",
+      "Source": "Filter Gestation Dinos",
+      "Trans": {"SC":"筛选处于妊娠期的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3235124539"}
+    },
+    {
+      "NamespaceHash": "1C704F03406FE1FBC808BFBF4A54BDFA",
+      "Source": "Auto Cryo Babies will require a<#RN#>nearby Incubator Cryo Storage.",
+      "Trans": {"SC":"自动冷冻幼崽功能需要附近有<#RN#>低温培养箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"376273823"}
+    }
+  ]
+}

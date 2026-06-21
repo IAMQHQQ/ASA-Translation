@@ -1,0 +1,275 @@
+{
+  "奇虾": [//2025.11.29
+    {
+      "NamespaceHash": "Content::2262940722",
+      "Source": "Anomalocaris",
+      "Trans": {"SC":"奇虾","JA":"奇蝦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2482176816",
+      "Source": "Alpha Anomalocaris",
+      "Trans": {"SC":"精英奇虾","JA":"精英奇蝦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3874934773",
+      "Source": "Anomalocaris Pheromone",         
+      "Trans": {"SC":"奇虾信息素","JA":""},
+      "Config": {"Item": true,"Dino": false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::152150295",
+      "Source": "Eating this will make Anomalocaris ignore you. Maybe a few pieces of Chitin Armor will make you indistuingishable to them?...",
+      "Trans": {"SC":"吃了这个会让奇虾忽略你，但也许几件甲壳素盔甲就能让他们认不出你了？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2035837702",
+      "Source": "Anomalocaris Saddle",
+      "Trans": {"SC":"奇虾鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::318067003",
+      "Source": "Equip an Anomalocaris with this to ride it.",
+      "Trans": {"SC":"装备到奇虾上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::100736001",
+      "Source": "You can use this to skin the appearance of a helmet or hat. Provides a chef look. Bon Appétit!",
+      "Trans": {"SC":"你可以用这个来改变头盔或帽子的外观皮肤，营造出厨师的摸样，祝你好胃口！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2496540675",
+      "Source": "Anomalo Friend",
+      "Trans": {"SC":"奇虾之友","JA":"奇蝦之友"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3904798407",
+      "Source": "The Anomalo pheremone is making Anomalocaris non-hostile to you!",
+      "Trans": {"SC":"使用了奇虾信息素.奇虾现在对你没有敌意!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::428542661",
+      "Source": "An Anomalo has poisoned you!",
+      "Trans": {"SC":"奇虾让你中毒了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2836025253",
+      "Source": "Anomalo has gained some damage resistance!",
+      "Trans": {"SC":"奇虾获得了一些伤害抗性!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3821094005",
+      "Source": "Shrimp Buzzed",
+      "Trans": {"SC":"虾之躁动","JA":"蝦之躁動"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2760461863",
+      "Source": "Most of the benefits of your standard beer, with an additional 3x XP boost!",
+      "Trans": {"SC":"具备你平常所喝啤酒的大部分增益，另外还能获得3倍的经验值提升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2058177746",
+      "Source": "Dino Chef Hat",
+      "Trans": {"SC":"恐龙厨师帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3571153372",
+      "Source": "You can use attach this to a saddle to provide a chef look. Bon Appétit!",
+      "Trans": {"SC":"你可以把这个附在鞍上，营造出厨师的模样。祝你好胃口！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::865981873",
+      "Source": "Chibi-Alpha Anomalocaris",
+      "Trans": {"SC":"袖珍-精英奇虾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1201302654",
+      "Source": "Chibi-Anomalocaris",
+      "Trans": {"SC":"袖珍-奇虾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2955967350",
+      "Source": "Chibi-Chef Crevette",
+      "Trans": {"SC":"袖珍-厨师奇虾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4223997762",
+      "Source": "Anomalo Cocktail",
+      "Trans": {"SC":"奇虾鸡尾酒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2385967746",
+      "Source": "A deliciously devilish drink topped with tasty Alpha Anomalo meat. Yummy! Consuming this will give an XP bonus for a time!",
+      "Trans": {"SC":"一款美味又独特的饮品，上面点缀着美味的精英奇虾肉，好吃！饮用此饮品能在一段时间内获得经验值加成！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2553420379",
+      "Source": "Alpha Anomalo meat",
+      "Trans": {"SC":"精英奇虾肉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1074689060",
+      "Source": "Chunky, shrimpy meat from an Alpha Anomalo. Feeding this to your own Anomalocaris can channel their inner hunter...",
+      "Trans": {"SC":"来自精英奇虾的大块虾肉，将其喂给你自己的奇虾，能激发它们内心的猎手本能…","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2107764354",
+      "Source": "You must own `Additions Ascended: Anomalocaris` before you can use this item!",
+      "Trans": {"SC":"在你能够使用这件物品之前,你必须先拥有'Additions Ascended: Anomalocaris'!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2316004712",
+      "Source": "You must own `Additions Ascended: Anomalocaris` before you can craft this item!",
+      "Trans": {"SC":"在你能够制作这件物品之前,你必须先拥有'Additions Ascended: Anomalocaris'!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "ADE9A42343FCBA15A082D1BC07E24291",
+      "Source": "Switch Venom Type",
+      "Trans": {"SC":"切换毒液类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2381632671"}
+    },
+    {
+      "NamespaceHash": "3F73C8524F28AC65F742E1A424747380",
+      "Source": "Leeching Attack",
+      "Trans": {"SC":"寄生 | 吸血攻击[Parasitic Attacks],","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3534366856"}
+    },
+    {
+      "NamespaceHash": "BF3643C14F3A4ED670435BB67D5AFF61",
+      "Source": "Toggle Camo",
+      "Trans": {"SC":"切换伪装","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3738841863"}
+    },
+    {
+      "NamespaceHash": "D8B60E7245AD9BA5F185E8BA1614ABEA",
+      "Source": "Venom Attack",
+      "Trans": {"SC":"毒液攻击[Venom Abilities],","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2080119811"}
+    },
+    {
+      "NamespaceHash": "BA98C3234F48543C5ADCD4968963F765",
+      "Source": "Melee/Ambush Lunge",
+      "Trans": {"SC":"啃咬 | 伏击猛冲[Ambushing Tactics],","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1870031728"}
+    },
+    {
+      "NamespaceHash": "250ECDA9449D276999FFF3BCF5CC6965",
+      "Source": "Anomalocaris prefers {preference},",
+      "Trans": {"SC":"奇虾偏好 [{preference}] 攻击","JA":""},
+      "Config": {"Item": false,"Dino": true,"Default_Hash":"3214911511"}
+    },
+    {
+      "NamespaceHash": "25E131404C68F226AE272B8707D60572",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4065025966",
+      "Source": "You must own `Additions Ascended: Anomalocaris` before you can tame this creature!",
+      "Trans": {"SC":"在你能够驯服这种生物之前,你必须先拥有'Additions Ascended: Anomalocaris'!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1137231365",
+      "Source": "Fertilized Anomalocaris Egg",
+      "Trans": {"SC":"受精的奇虾卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      //123
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2381632671",
+      "Source": "Switch Venom Type",
+      "Trans": {"SC":"切换毒液类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //奇虾
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3534366856",
+      "Source": "Leeching Attack",
+      "Trans": {"SC":"吸血攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //奇虾
+    },
+    {
+      "NamespaceHash": "Content::632890098",
+      "Source": "Anomalocaris Dossier",
+      "Trans": {"SC":"奇虾图鉴","JA":"奇虾圖鑒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //奇虾
+    },
+    {
+      "NamespaceHash": "4420EA154A12FB1E842130ACADC74EAE",
+      "Source": "Spacebar",
+      "Trans": {"SC":"空格","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2066877284"}
+      //奇虾
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2080119811",
+      "Source": "Venom Attack",
+      "Trans": {"SC":"毒液攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //奇虾
+    },
+    {
+      "NamespaceHash": "Content::4065025966",
+      "Source": "You must own `Additions Ascended: Anomalocaris` before you can tame this creature!",
+      "Trans": {"SC":"在你能够驯服这种生物之前,你必须先拥有'Additions Ascended: Anomalocaris'!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //奇虾
+    },
+    {
+      "NamespaceHash": "Content::3268977004",
+      "Source": "Weakened!",
+      "Trans": {"SC":"虚弱！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4263805650",
+      "Source": "Anomalo has debilitated you!",
+      "Trans": {"SC":"奇虾削弱了你！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::662748636",
+      "Source": "Ambush Stunned!",
+      "Trans": {"SC":"伏击眩晕！","JA":"伏擊眩暈！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::635189763",
+      "Source": "Anomalo Sneak Attack!",
+      "Trans": {"SC":"奇虾偷袭！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1927841442",
+      "Source": "Leeched Defense",
+      "Trans": {"SC":"防御被吸取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

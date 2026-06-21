@@ -1,0 +1,2860 @@
+{
+  "A管理员工具": [//2026.6.21
+    {
+      "NamespaceHash": "Content::2805398202",
+      "Source": "Spawn Items",
+      "Trans": {"SC":"生成物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3451724707",
+      "Source": "Spawn Dinos",
+      "Trans": {"SC":"生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4144377447",
+      "Source": "Commands",
+      "Trans": {"SC":"指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1917945924",
+      "Source": "Configuration",
+      "Trans": {"SC":"配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2625977294",
+      "Source": "Logs",
+      "Trans": {"SC":"日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3440802724",
+      "Source": "Player Actions",
+      "Trans": {"SC":"玩家操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3937385040",
+      "Source": "No player selected",
+      "Trans": {"SC":"未选择玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2152247930",
+      "Source": "Teleport To Me",
+      "Trans": {"SC":"传送至我处","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4115421951",
+      "Source": "Teleport To Player",
+      "Trans": {"SC":"传送至玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2967415191",
+      "Source": "Kick Player",
+      "Trans": {"SC":"踢出玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::822926992",
+      "Source": "Reason",
+      "Trans": {"SC":"原因","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3075424482",
+      "Source": "Ban Player",
+      "Trans": {"SC":"封禁玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2445688470",
+      "Source": "Character",
+      "Trans": {"SC":"角色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::609921349",
+      "Source": "Kill Player",
+      "Trans": {"SC":"击杀玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2101732778",
+      "Source": "Rename Player",
+      "Trans": {"SC":"重命名玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3960385032",
+      "Source": "New Name",
+      "Trans": {"SC":"新名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4143730506",
+      "Source": "Edit Buffs",
+      "Trans": {"SC":"编辑增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::821570703",
+      "Source": "Learn Engrams",
+      "Trans": {"SC":"学习印痕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3852631163",
+      "Source": "Mindwipe?",
+      "Trans": {"SC":"洗点？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1794977819",
+      "Source": "Online Players",
+      "Trans": {"SC":"在线玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1380935098",
+      "Source": "Search By Player Name Or Player ID",
+      "Trans": {"SC":"按玩家名称或玩家ID搜索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::472885494",
+      "Source": "Eos Name  (Character Name)  [Tribe Name]",
+      "Trans": {"SC":"EOS名称（角色名称）[部落名称]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3697888612",
+      "Source": "Coords",
+      "Trans": {"SC":"坐标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::634422018",
+      "Source": "Offline Players",
+      "Trans": {"SC":"离线玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2419787634",
+      "Source": "No offline players",
+      "Trans": {"SC":"无离线玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1862900523",
+      "Source": "File Explorer",
+      "Trans": {"SC":"文件资源管理器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1805854344",
+      "Source": "Report A Bug",
+      "Trans": {"SC":"报告漏洞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1176786794",
+      "Source": "Back To Inventory",
+      "Trans": {"SC":"返回背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::182802523",
+      "Source": "Selected Player",
+      "Trans": {"SC":"已选玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1773028276",
+      "Source": "EOS Name",
+      "Trans": {"SC":"EOS名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4284328472",
+      "Source": "EOS ID",
+      "Trans": {"SC":"EOS ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2914541001",
+      "Source": "Player ID",
+      "Trans": {"SC":"玩家ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1412240322",
+      "Source": "Tribe ID",
+      "Trans": {"SC":"部落ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::736392082",
+      "Source": "Last Seen",
+      "Trans": {"SC":"最后在线时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4163679793",
+      "Source": "First Seen",
+      "Trans": {"SC":"首次出现时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2291111057",
+      "Source": "Level",
+      "Trans": {"SC":"等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1064169443",
+      "Source": "User Preferences",
+      "Trans": {"SC":"用户偏好设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3035549433",
+      "Source": "Mindwipe",
+      "Trans": {"SC":"洗点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::921079179",
+      "Source": "Search By Tribe Name Or Tribe ID",
+      "Trans": {"SC":"按部落名称或部落ID搜索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1349388397",
+      "Source": "#Structures",
+      "Trans": {"SC":"#建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3745752407",
+      "Source": "#Bases",
+      "Trans": {"SC":"#基地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::966924323",
+      "Source": "Update Structure Data",
+      "Trans": {"SC":"更新建筑数据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4192445036",
+      "Source": "Cancel Update",
+      "Trans": {"SC":"取消更新","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3316915733",
+      "Source": "Tribe Data Updated: Click Refresh",
+      "Trans": {"SC":"部落数据已更新：点击刷新","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1471032352",
+      "Source": "Tribes",
+      "Trans": {"SC":"部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3361835672",
+      "Source": "No tribes",
+      "Trans": {"SC":"无部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2855445613",
+      "Source": "No bases",
+      "Trans": {"SC":"无基地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4255989850",
+      "Source": "Tribe Actions",
+      "Trans": {"SC":"部落操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::785073500",
+      "Source": "Destroy Tribe Structures",
+      "Trans": {"SC":"摧毁部落建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1685978844",
+      "Source": "Rename Tribe",
+      "Trans": {"SC":"重命名部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2219495368",
+      "Source": "No tribe selected",
+      "Trans": {"SC":"未选中部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3584009128",
+      "Source": "Bases",
+      "Trans": {"SC":"基地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2896121827",
+      "Source": "Radius",
+      "Trans": {"SC":"半径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::664534613",
+      "Source": "Selected Tribe",
+      "Trans": {"SC":"选中的部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2287455386",
+      "Source": "Tamed Name - Lvl (Dino Name)",
+      "Trans": {"SC":"已驯服名称 - 等级（恐龙名称）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::979431931",
+      "Source": "Search Dinos",
+      "Trans": {"SC":"搜索恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1584748077",
+      "Source": "No dinos",
+      "Trans": {"SC":"无恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::430190654",
+      "Source": "Search Dino Classes",
+      "Trans": {"SC":"搜索恐龙类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2822917022",
+      "Source": "Remove Class From Wild Dino List",
+      "Trans": {"SC":"从野生恐龙列表中移除该类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3019559774",
+      "Source": "Filters",
+      "Trans": {"SC":"筛选器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1497299592",
+      "Source": "Base Game",
+      "Trans": {"SC":"基础游戏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1518254603",
+      "Source": "Mod:",
+      "Trans": {"SC":"模组：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2063980818",
+      "Source": "Costumes",
+      "Trans": {"SC":"服饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2847794178",
+      "Source": "Trophies",
+      "Trans": {"SC":"战利品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2381561505",
+      "Source": "Quality:",
+      "Trans": {"SC":"品质：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3801372084",
+      "Source": "Blueprint?",
+      "Trans": {"SC":"蓝图？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3511777394",
+      "Source": "Custom Item Name",
+      "Trans": {"SC":"自定义物品名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1738258563",
+      "Source": "Overrides",
+      "Trans": {"SC":"覆盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1026312971",
+      "Source": "Use?",
+      "Trans": {"SC":"使用？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3889986574",
+      "Source": "Damage:",
+      "Trans": {"SC":"伤害：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::437963401",
+      "Source": "Armor:",
+      "Trans": {"SC":"护甲：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3473182186",
+      "Source": "Quality Tier:",
+      "Trans": {"SC":"品质等级：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4158460561",
+      "Source": "Advanced",
+      "Trans": {"SC":"高级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3690853182",
+      "Source": "Instant List Load?",
+      "Trans": {"SC":"立即加载列表？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1263984234",
+      "Source": "Show Blacklisted Items?",
+      "Trans": {"SC":"显示黑名单物品？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::510461005",
+      "Source": "Item Information",
+      "Trans": {"SC":"物品信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4275875932",
+      "Source": "Target Player:",
+      "Trans": {"SC":"目标玩家：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1188033745",
+      "Source": "Spawn Item",
+      "Trans": {"SC":"生成物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::955414396",
+      "Source": "Select An Item To Duplicate",
+      "Trans": {"SC":"选择要复制的物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4013274901",
+      "Source": "DUPE ITEM",
+      "Trans": {"SC":"复制物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::508354210",
+      "Source": "Level:",
+      "Trans": {"SC":"等级：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2768275676",
+      "Source": "Tamed?",
+      "Trans": {"SC":"已驯服？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3770815383",
+      "Source": "Saddled?",
+      "Trans": {"SC":"已装鞍？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1611213573",
+      "Source": "Tamed Dino Name:",
+      "Trans": {"SC":"已驯服恐龙名称：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3114118107",
+      "Source": "Behavior",
+      "Trans": {"SC":"行为","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2682956532",
+      "Source": "Neutral",
+      "Trans": {"SC":"中立","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3720490280",
+      "Source": "Colors",
+      "Trans": {"SC":"颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3846055636",
+      "Source": "Traits",
+      "Trans": {"SC":"特质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2897859686",
+      "Source": "Spawn As Cryo",
+      "Trans": {"SC":"以低温舱形式生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3812387982",
+      "Source": "Use Exact Stats?",
+      "Trans": {"SC":"使用精确属性？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1690261171",
+      "Source": "Spawn",
+      "Trans": {"SC":"生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3614162317",
+      "Source": "Dino Information",
+      "Trans": {"SC":"恐龙信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3333050974",
+      "Source": "Passive Flee",
+      "Trans": {"SC":"被动逃离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1872116953",
+      "Source": "Attack Target",
+      "Trans": {"SC":"攻击目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::23CF96DB4229D5A5DFBED5A513E572A1",
+      "Source": "Last Update: {time}",
+      "Trans": {"SC":"最后更新: {time}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1981270316"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::0E95F5E1424ECC43A9FFF0A2CA3D90EE",
+      "Source": "Updating Dino Data: {remaining} Dinos Remaining",
+      "Trans": {"SC":"更新恐龙数据：剩余{remaining}只恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2125340823"}
+    },
+    {
+      "NamespaceHash": "Content::56648445",
+      "Source": "This uses the ark ban command and can override the ban list of server hosting providers.",
+      "Trans": {"SC":"这会使用方舟封禁命令，且可以覆盖服务器托管商的封禁列表。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::845541878",
+      "Source": "Destroy Tribe Dinos",
+      "Trans": {"SC":"摧毁部落恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::456150311",
+      "Source": "Update Dino Data",
+      "Trans": {"SC":"更新恐龙数据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1954358645",
+      "Source": "Auto Scan World For New Classes",
+      "Trans": {"SC":"自动扫描世界以寻找新类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3082403290",
+      "Source": "Or Add It Manually:",
+      "Trans": {"SC":"或手动添加：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1826072622",
+      "Source": "Dupe An Item From Your Inventory",
+      "Trans": {"SC":"复制你背包中的物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1613112451",
+      "Source": "Only works if tamed",
+      "Trans": {"SC":"仅在驯服后有效","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2657656170",
+      "Source": "Selected Traits",
+      "Trans": {"SC":"选定的特质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3970143663",
+      "Source": "Awesome Admin Tool",
+      "Trans": {"SC":"A管理员工具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3742267440",
+      "Source": "Admin Tek Generator",
+      "Trans": {"SC":"管理员泰克发电机","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1965925050",
+      "Source": "Admin Storage",
+      "Trans": {"SC":"管理员储物箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3214947856",
+      "Source": "Admin Sign",
+      "Trans": {"SC":"管理员标识牌","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4173623616",
+      "Source": "Admin Tek Teleporters",
+      "Trans": {"SC":"管理员泰克传送器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4068499",
+      "Source": "Zone Generator",
+      "Trans": {"SC":"区域生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4025864974",
+      "Source": "Object Locator",
+      "Trans": {"SC":"物体定位器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2476934772",
+      "Source": "Shows the locations of the structures around you you selected in its configuration menu.",
+      "Trans": {"SC":"显示你在其配置菜单中选定的周围建筑的位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1600608148",
+      "Source": "Configure",
+      "Trans": {"SC":"配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2188536716",
+      "Source": "Item Bags",
+      "Trans": {"SC":"物品袋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2855117947",
+      "Source": "Deactivated",
+      "Trans": {"SC":"已停用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1311130080",
+      "Source": "Supply Beacons (No Highlight)",
+      "Trans": {"SC":"补给信标（无高亮）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::750236691",
+      "Source": "Supply Crates (No Highlight)",
+      "Trans": {"SC":"补给箱（无高亮）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2658218689",
+      "Source": "Player Corpses",
+      "Trans": {"SC":"玩家尸体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4272943732",
+      "Source": "Structure ->",
+      "Trans": {"SC":"建筑->","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3055728458",
+      "Source": "Highlight Mode:",
+      "Trans": {"SC":"高亮模式：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3663844954"}
+    },
+    {
+      "NamespaceHash": "Content::2193078702",
+      "Source": "Highlight",
+      "Trans": {"SC":"高亮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3436284499",
+      "Source": "Cross",
+      "Trans": {"SC":"十字标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1586318708",
+      "Source": "Scan Speed:",
+      "Trans": {"SC":"扫描速度：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1601425582"}
+    },
+    {
+      "NamespaceHash": "Content::2698152290",
+      "Source": "Selected Command",
+      "Trans": {"SC":"选定命令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::319621444",
+      "Source": "Execute",
+      "Trans": {"SC":"执行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3581368254",
+      "Source": "AAT Menu",
+      "Trans": {"SC":"AAT菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::721704727",
+      "Source": "#Dinos",
+      "Trans": {"SC":"#恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1346944914",
+      "Source": "Activated",
+      "Trans": {"SC":"激活","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::804007681",
+      "Source": "Clear Selected Structures",
+      "Trans": {"SC":"清除选中的建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1195890551",
+      "Source": "Multi Selection",
+      "Trans": {"SC":"多重选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::74725686",
+      "Source": "Show Defaults",
+      "Trans": {"SC":"显示默认值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::169131456",
+      "Source": "Open Onboarding",
+      "Trans": {"SC":"打开新手引导","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::914072053",
+      "Source": "INI Overrides",
+      "Trans": {"SC":"INI覆盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2177318792",
+      "Source": "View As Non-Admin",
+      "Trans": {"SC":"以非管理员身份查看","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::199593174",
+      "Source": "Show Current Configuration",
+      "Trans": {"SC":"显示当前配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1674770620",
+      "Source": "Reset To Defaults",
+      "Trans": {"SC":"重置为默认值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3005750574",
+      "Source": "Inventory",
+      "Trans": {"SC":"物品栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3565729979",
+      "Source": "Admin Tool",
+      "Trans": {"SC":"管理员工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1910380285",
+      "Source": "AAT Discord Bot",
+      "Trans": {"SC":"AAT Discord机器人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::981887002",
+      "Source": "Other",
+      "Trans": {"SC":"其他","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3738566608",
+      "Source": "AATMenu",
+      "Trans": {"SC":"AAT菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1444057733",
+      "Source": "Admin Access",
+      "Trans": {"SC":"管理员权限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1202322615",
+      "Source": "AATMenu Custom Pages",
+      "Trans": {"SC":"AAT菜单自定义页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1138443501",
+      "Source": "+ Add New Page",
+      "Trans": {"SC":"+ 添加新页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3904065865",
+      "Source": "Disable AATMenu Button",
+      "Trans": {"SC":"禁用AAT菜单按钮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::45885509",
+      "Source": "Disable Admin Tool Button",
+      "Trans": {"SC":"禁用管理员工具按钮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2461509897",
+      "Source": "AATMenu Button Offset",
+      "Trans": {"SC":"AAT菜单按钮偏移量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2466460517",
+      "Source": "Admin Tool Button Offset",
+      "Trans": {"SC":"管理员工具按钮偏移量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2016342391",
+      "Source": "Remove the AATMenu button from the inventory.\\n\\nDoes not make the AATMenu admin-only! Can still be opened with custom keybinds or the following command:\\n\\ncheat scriptcommand aat aatmenu\\n\\n\\nOff: A AATMenu button will appear in your inventory.\\n\\nOn: No button will appear in your inventory.",
+      "Trans": {"SC":"这不会使AAT菜单仅管理员可用！仍可通过自定义键位绑定或以下命令打开：\\n\\ncheat scriptcommand aat aatmenu\\n\\n\\n关闭：物品栏中将显示AAT菜单按钮。\\n\\n开启：物品栏中不会显示按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2873260435",
+      "Source": "Retrieve More Logs",
+      "Trans": {"SC":"获取更多日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4191592816",
+      "Source": "Server Logs",
+      "Trans": {"SC":"服务器日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2113555822",
+      "Source": "Client Logs",
+      "Trans": {"SC":"客户端日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2537183413",
+      "Source": "A tool with admin features.",
+      "Trans": {"SC":"具有管理员功能的工具。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3282755233",
+      "Source": "Dye Package",
+      "Trans": {"SC":"染料包","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3476888117",
+      "Source": "A package containing all dyes. Crafting this gives 100 of each dye.",
+      "Trans": {"SC":"包含所有染料的包裹。制作它可获得每种染料各100个。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3294076939",
+      "Source": "A large unbreakable billboard for displaying important information.",
+      "Trans": {"SC":"用于展示重要信息的大型不可破坏广告牌。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3889050660",
+      "Source": "An indestructible admin storage.",
+      "Trans": {"SC":"不可破坏的管理员储物箱。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3912740911",
+      "Source": "Powers Tek Structures and electrical structures without using any fuel.",
+      "Trans": {"SC":"无需使用任何燃料即可为泰克建筑和电力建筑供电。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1906008616",
+      "Source": "Allows instantaneous traversal between Teleporters! Does not require any power or learned engram.",
+      "Trans": {"SC":"允许在传送器之间瞬时穿梭！无需任何电力或已学习的印痕。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1774379604",
+      "Source": "Cartography Table",
+      "Trans": {"SC":"制图桌","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2655418311",
+      "Source": "This table can be used to save and sync your static map markers with your tribe mates and yourself.",
+      "Trans": {"SC":"这张桌子可用于保存你的静态地图标记，并与你的部落成员及你自己同步。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1955693442",
+      "Source": "Can generate zones that change how players, dinos and structures inside of them behave. (Admin required to configure)",
+      "Trans": {"SC":"可生成区域，改变区域内玩家、恐龙和建筑的行为方式。（需管理员配置）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2170831471",
+      "Source": "Godmode",
+      "Trans": {"SC":"上帝模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4126026246",
+      "Source": "Infinite Ammo",
+      "Trans": {"SC":"无限弹药","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1708853817",
+      "Source": "Infinite Clip",
+      "Trans": {"SC":"无限弹夹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2762542955",
+      "Source": "No Weapon Durability Use",
+      "Trans": {"SC":"武器不消耗耐久","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::706840763",
+      "Source": "No Weapon Recoil",
+      "Trans": {"SC":"武器无后坐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1291986253",
+      "Source": "Full Auto Weapons",
+      "Trans": {"SC":"武器全自动","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::11F6888541B482F0355166850601D592",
+      "Source": "Gave {stacks} stacks of {item} (Stack Size: {size}) {err}",
+      "Trans": {"SC":"给予了 {stacks} 组 {item}（每组数量：{size}）{err}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1447937654"}
+    },
+    {
+      "NamespaceHash": "Content::419664603",
+      "Source": "Value can't be lower then default value of the item",
+      "Trans": {"SC":"数值不得低于物品的默认数值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1208483571",
+      "Source": "0 for random level",
+      "Trans": {"SC":"填写 0 表示随机等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::119914131",
+      "Source": "View what other non-admin players are seeing. Automatically disables after 60 seconds.",
+      "Trans": {"SC":"查看其他非管理员玩家当前看到的内容。60 秒后将自动关闭。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1993025730",
+      "Source": "300 Unreal Engine units (UE)",
+      "Trans": {"SC":"300 个虚幻引擎单位（UE）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3649103837",
+      "Source": "1 foundation.",
+      "Trans": {"SC":"1 个地基。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3722739572",
+      "Source": "Onboarding",
+      "Trans": {"SC":"初始设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2157035451",
+      "Source": "Welcome to Awesome Admin Tools",
+      "Trans": {"SC":"欢迎使用A管理员工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1884826894",
+      "Source": "This menu will help you set up some basic configuration of this mod.",
+      "Trans": {"SC":"此菜单将帮助你完成该模组的一些基础配置设置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3867525988",
+      "Source": "All configuration can be found in the AAT Menu configuration tab.",
+      "Trans": {"SC":"所有配置均可在 “AAT 菜单”的 “配置” 标签页中找到。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::996543714",
+      "Source": "Onboarding features",
+      "Trans": {"SC":"初始设置功能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3679363644",
+      "Source": "Change the location of the AAT Menu button.",
+      "Trans": {"SC":"修改 “AAT 菜单” 按钮的位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2639987466",
+      "Source": "Change what non admins can see in the AAT Menu overviews.",
+      "Trans": {"SC":"修改非管理员在 “AAT 菜单” 概览中可查看的内容。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1639259641",
+      "Source": "Change what tabs in the AAT Menu non-admins are allowed to see.",
+      "Trans": {"SC":"修改非管理员可查看的 “AAT 菜单” 标签页。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2389817916",
+      "Source": "Change AAT Menu to admin only.",
+      "Trans": {"SC":"将 “AAT 菜单” 设置为仅管理员可见。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1355718637",
+      "Source": "Quick buffs information.",
+      "Trans": {"SC":"快速增益效果（Quick Buffs）相关说明。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3634816745",
+      "Source": "Select the location of the Ark Dashboard Button. For custom location, skip this panel and change the offset in the configuration tab in the menu.",
+      "Trans": {"SC":"选择 “方舟仪表盘”（Ark Dashboard）按钮的位置。若需自定义位置，请跳过此面板，在菜单的 “配置” 标签页中修改偏移量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3382065498",
+      "Source": "Top Left Corner",
+      "Trans": {"SC":"左上角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::607383221",
+      "Source": "Top Left",
+      "Trans": {"SC":"左上方","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1779200437",
+      "Source": "Top Right",
+      "Trans": {"SC":"右上角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4077157956",
+      "Source": "Bottom Left Corner",
+      "Trans": {"SC":"左下角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::999357000",
+      "Source": "Bottom Left",
+      "Trans": {"SC":"左下方","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::218977980",
+      "Source": "Bottom Right",
+      "Trans": {"SC":"右下角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::226165008",
+      "Source": "Bottom Right Corner",
+      "Trans": {"SC":"右下方","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::463228875",
+      "Source": "Should non admins be able to see other tribes?",
+      "Trans": {"SC":"非管理员是否可查看其他部落？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2858103023",
+      "Source": "Should non admins be able to see the coords of players and tribe structures?",
+      "Trans": {"SC":"非管理员是否可查看玩家及部落建筑的坐标？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3775341518",
+      "Source": "Allow non admins to open the Ark Dashboard?",
+      "Trans": {"SC":"是否允许非管理员打开 “方舟仪表盘”？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1710430808",
+      "Source": "Allowing non admins to access the Ark Dashboard will not allow them to access admin commands like item spawning or player killing. It would only allow them to see pure cosmetic features players and structures. (Unless you changed some configuration on the previous panel.)",
+      "Trans": {"SC":"允许非管理员访问 “方舟仪表盘”，并不意味着他们能使用物品生成、玩家击杀等管理员指令。他们仅能查看与玩家和建筑相关的纯外观类信息（除非你在之前的面板中修改过部分配置）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::848878709",
+      "Source": "Should non admins be able to see an overview of all players?",
+      "Trans": {"SC":"非管理员是否可查看所有玩家的概览？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3531844248",
+      "Source": "Should non admins be able to see an overview of all tamed dinos?",
+      "Trans": {"SC":"非管理员是否可查看所有已驯服恐龙的概览？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3688990513",
+      "Source": "Should non admins be able to see an overview of all structures?",
+      "Trans": {"SC":"非管理员是否可查看所有建筑的概览？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3199915598",
+      "Source": "Should non admins be able to see an overview of all wild dinos?",
+      "Trans": {"SC":"非管理员是否可查看所有野生恐龙的概览？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2382994863",
+      "Source": "You can add some buffs like ghost, fly, hide,... , to yourself by using the QUICK BUFFS button in your inventory.",
+      "Trans": {"SC":"通过使用背包中的 “快速增益”（QUICK BUFFS）按钮，你可为自己添加幽灵模式（ghost）、飞行（fly）、隐身（hide）等增益效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3498073296",
+      "Source": "Complete",
+      "Trans": {"SC":"配置完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3052000847",
+      "Source": "You don't want your admins to change your mod configuration?\\n\\n\\nUse INI to override mod configuration.\\n\\n\\nConfiguration overwritten in the INI can no longer be changed in the configuration tab in-game.\\n\\nThis means that your admins will no longer be able to change the configuration here.",
+      "Trans": {"SC":"你不希望管理员修改你的模组配置？\\n\\n\\n 请使用 INI 文件覆盖模组配置。\\n\\n\\n 在 INI 文件中覆盖的配置，将无法在游戏内的 “配置” 标签页中修改。\\n\\n 这意味着管理员将无法在此处修改相关配置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::908835097",
+      "Source": "Just copy any configuration you would like to override and the section from the right side to the GameUserSettings.ini and restart the server.\\n\\n\\nThe values in the right side are the currently used values.\\n\\n\\nPM = Player Overview\\nTM = Structure Overview\\nDM = Tamed Dino Overview\\nWDM = Wild Dino Overview\\nAT = Admin Tool\\nOL = Object Locator\\nMC = Mass Destroy",
+      "Trans": {"SC":"只需将你想要覆盖的任意配置及其对应分区，从右侧复制到 GameUserSettings.ini 文件中，然后重启服务器即可。\\n\\n\\n 右侧显示的数值为当前正在使用的数值。\\n\\n\\nPM = 玩家概览 \\nTM = 建筑概览 \\nDM = 已驯服恐龙概览 \\nWDM = 野生恐龙概览 \\nAT = 管理员工具 \\nOL = 对象定位器 \\nMC = 批量销毁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3034231545",
+      "Source": "Remove the Admin Tool icon from the inventory.\\n\\nCan still be spawned with the following command:\\n\\ncheat gfi admintool 1 0 0\\n\\n\\nOff: An Admin Tool button will appear in your inventory.\\n\\nOn: No button will appear in your inventory.",
+      "Trans": {"SC":"从背包中移除 “管理员工具” 图标。\\n\\n 仍可通过以下指令生成该工具：\\n\\ncheat gfi admintool 1 0 0\\n\\n\\n 关闭（Off）：背包中会显示 “管理员工具” 按钮。\\n\\n 开启（On）：背包中不会显示 “管理员工具” 按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2918342903",
+      "Source": "Changes the location of the Admin Tool button.\\n\\n\\nX=0.0 Y=-415,0: The Admin Tool button will appear at the bottom of your inventory.",
+      "Trans": {"SC":"修改 “管理员工具” 按钮的位置。\\n\\n\\nX=0.0、Y=-415.0：“管理员工具” 按钮将显示在背包底部。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4119415731",
+      "Source": "Changes the location of the AATMenu button.\\n\\nPresets can be found in the onboarding panel.\\n\\n\\nX=-778,0 Y=527,0: The AATMenu button will appear at the top left corner of the inventory.",
+      "Trans": {"SC":"修改 “AAT 菜单”按钮的位置。\\n\\n 预设位置可在初始设置面板中找到。\\n\\n\\nX=-778.0、Y=527.0：“AAT 菜单” 按钮将显示在背包左上角。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::446251449",
+      "Source": "Admin Only",
+      "Trans": {"SC":"仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2446256167",
+      "Source": "Add To Radial Menu",
+      "Trans": {"SC":"添加到环形菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3535955350",
+      "Source": "Non Admin Object Type Blacklist",
+      "Trans": {"SC":"非管理员对象类型黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::387162640",
+      "Source": "Current blacklist:",
+      "Trans": {"SC":"当前黑名单：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2855511375",
+      "Source": "Should non-admins be able to use the Object Locator?\\n\\n\\nOff: Everyone can use the Object Locator.\\n\\nOn: Only admins can use the Object Locator.",
+      "Trans": {"SC":"非管理员是否可使用 “对象定位器”（Object Locator）？\\n\\n\\n 关闭（Off）：所有人均可使用 “对象定位器”。\\n\\n 开启（On）：仅管理员可使用 “对象定位器”。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4204050845",
+      "Source": "Add the Object Locator button to the radial wheel (Hold Reload).\\n\\n\\nOff: No button will get added to the radial wheel.\\n\\nOn: An Object Locator button will appear in the radial wheel (Awesome ARK Tools > Object Locator).",
+      "Trans": {"SC":"将 “对象定位器” 按钮添加到环形轮盘（按住 “换弹键” 调出）。\\n\\n\\n 关闭（Off）：环形轮盘中不会添加该按钮。\\n\\n 开启（On）：环形轮盘中将显示 “对象定位器” 按钮（位于 “A方舟工具”（Awesome ARK Tools）>“对象定位器” 菜单下）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4232000920",
+      "Source": "Prevent non-admins from scanning the blacklisted types.",
+      "Trans": {"SC":"禁止非管理员扫描黑名单中的对象类型。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2342821179",
+      "Source": "Tool Range",
+      "Trans": {"SC":"工具范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4198100073",
+      "Source": "How far can the admin tool hit objects in UE units.\\n\\n\\n10000: The admin tool can hit objects up to a distance 33.3 foundations.",
+      "Trans": {"SC":"“管理员工具” 可击中对象的最远距离（以 UE 单位计）。\\n\\n\\n10000（UE 单位）：“管理员工具” 可击中最远 33.3 个地基距离外的对象。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3800535729",
+      "Source": "Allow Unreleased Dinos",
+      "Trans": {"SC":"允许生成未发布恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4195019199",
+      "Source": "Will allow players to spawn unreleased dinos (Genesis/Genesis 2) from the Spawn Dino tab.)\\n\\nUnreleased dinos have not been updated to the ascended version of the game. Spawning them can cause crashes or other issues.\\nUse at your own risk.\\n\\n\\nOff: Creatures from Genesis 1/2 will not appear in any spawn dino list.\\n\\nOn: Creatures from Genesis 1/2 will appear in all spawn dino lists.",
+      "Trans": {"SC":"允许玩家从 “生成恐龙”（Spawn Dino）标签页中生成未发布的恐龙（源自《创世纪 1》/《创世纪 2》）。\\n\\n 未发布的恐龙尚未更新至游戏的 “飞升版”，生成此类恐龙可能导致游戏崩溃或出现其他问题。请自行承担风险。\\n\\n\\n 关闭（Off）：《创世纪 1》/《创世纪 2》中的恐龙不会出现在任何 “生成恐龙” 列表中。\\n\\n 开启（On）：《创世纪 1》/《创世纪 2》中的恐龙将出现在所有 “生成恐龙” 列表中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3437973384",
+      "Source": "Add this Discord bot to your Discord server to unlock even more features like:\\n* Cross-server chatting\\n* Discord to ARK chatting\\n* Sending commands to ARK from DiscordAdd this Discord bot to your Discord server to unlock even more features like:\\n* Cross-server chatting\\n* Discord to ARK chatting\\n* Sending commands to ARK from Discord",
+      "Trans": {"SC":"将此 Discord 机器人添加到你的 Discord 服务器，即可解锁更多功能，例如：\\n* 跨服务器聊天 \\n* 从 Discord 发送消息到方舟（ARK）游戏内 \\n* 从 Discord 向方舟（ARK）发送指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1691472416",
+      "Source": "Cross-server chatting",
+      "Trans": {"SC":"跨服务器聊天","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::639393724",
+      "Source": "Discord to ARK chatting",
+      "Trans": {"SC":"从 Discord 发送消息到方舟游戏内","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3327304305",
+      "Source": "Sending commands to ARK from Discord",
+      "Trans": {"SC":"从 Discord 向方舟发送指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::720053066",
+      "Source": "Could not find the chat box Ul.ARK to Discord chat and cross-server chat will not work.",
+      "Trans": {"SC":"未找到聊天框界面。方舟到 Discord 的聊天功能及跨服务器聊天功能将无法使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2486668480",
+      "Source": "Enable Discord Bot Connection",
+      "Trans": {"SC":"启用 Discord 机器人连接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1144222772",
+      "Source": "Bot Invite",
+      "Trans": {"SC":"机器人邀请链接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2566449276",
+      "Source": "Server Token",
+      "Trans": {"SC":"服务器令牌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::708258485",
+      "Source": "Reset Server Token",
+      "Trans": {"SC":"重置服务器令牌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3759594238",
+      "Source": "View Server Token",
+      "Trans": {"SC":"查看服务器令牌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::631419548",
+      "Source": "Should be enabled if you want to connect your ARK server to your Discord server and the bot to work for you.\\nWill automatically disable if no Discord server is connected to this ARK server after one hour.\\n\\n\\nOff: This server will not connect to the Awesome ARK Tools Discord bot.\\n\\nOn: This server will connect to the Awesome ARK Tools Discord bot and can connect to your Discord server.",
+      "Trans": {"SC":"若你希望将方舟服务器与 Discord 服务器连接，并正常使用该机器人，请启用此功能。\\n 若 1 小时后仍未将此方舟服务器与任何 Discord 服务器连接，该功能将自动关闭。\\n\\n\\n 关闭（Off）：此服务器不会与 “A方舟工具”（Awesome ARK Tools）的 Discord 机器人连接。\\n\\n 开启（On）：此服务器将与 “超级方舟工具” 的 Discord 机器人连接，并可关联到你的 Discord 服务器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1012105717",
+      "Source": "Configuration is saved on the server (Saved/SaveGames/AwesomeAdminTools/ModConfiguration.sav) and can be copied to other servers or as backup. Requires reboot after copying.",
+      "Trans": {"SC":"配置文件保存在服务器中（路径：Saved/SaveGames/AwesomeAdminTools/ModConfiguration.sav），可复制到其他服务器或用作备份。复制后需重启服务器方可生效。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::513328097",
+      "Source": "Server Invite Link",
+      "Trans": {"SC":"服务器邀请链接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2476218115",
+      "Source": "Reports Channel Webhook",
+      "Trans": {"SC":"举报频道网络钩子","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3208210708",
+      "Source": "Admin Logging Webhook",
+      "Trans": {"SC":"管理员日志网络钩子","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1724438446",
+      "Source": "A discord button will appear at the bottom of this menu.",
+      "Trans": {"SC":"此菜单底部将显示一个 “Discord” 按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2818061327",
+      "Source": "All reports from the 'Report A Bug' panel will be sent to this webhook.",
+      "Trans": {"SC":"“举报漏洞”面板中的所有举报信息，都将发送到此网络钩子对应的频道。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::926452468",
+      "Source": "All logs about admin stuff will get sent to this webhook.\\nLogs include item spawning, dino spawning, base destroying, ...",
+      "Trans": {"SC":"所有与管理员操作相关的日志，都将发送到此网络钩子对应的频道。\\n 日志包含物品生成、恐龙生成、基地销毁等内容...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1844889465",
+      "Source": "Enable Debug Logging",
+      "Trans": {"SC":"启用调试日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::111211170",
+      "Source": "Max Replication Count",
+      "Trans": {"SC":"最大同步数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::29515065",
+      "Source": "Tracking Update Speed",
+      "Trans": {"SC":"追踪更新速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3530252330",
+      "Source": "Cryopod Item",
+      "Trans": {"SC":"低温舱物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3812987256",
+      "Source": "Class",
+      "Trans": {"SC":"类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2395014878",
+      "Source": "Logs some extra data to the logs for debugging. Might make some things load slower.\\n\\nDo not enable this if you want optimal performance.\\n\\n\\nOff: Do not log the debug logs.\\n\\nOn: Log everything.",
+      "Trans": {"SC":"在日志中记录额外的调试数据，可能会导致部分内容加载变慢。\\n\\n 若追求最佳性能，请不要启用此功能。\\n\\n\\n 关闭（Off）：不记录调试日志。\\n\\n 开启（On）：记录所有内容的调试日志。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2544387364",
+      "Source": "Changes how fast data goes from server to client. Impacts how many structures get moved every frame in possess/paste mode.\\n\\nPutting this number too high can cause data replication to fail so clients would need to rerender this area.\\n\\n\\n25: Every frame replicates 25 structures.",
+      "Trans": {"SC":"修改数据从服务器传输到客户端的速度，影响 “控制 / 粘贴”（possess/paste）模式下每帧移动的建筑数量。\\n\\n 此数值设置过高可能导致数据同步失败，客户端需重新渲染该区域。\\n\\n\\n25：每帧同步 25 个建筑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1765398907",
+      "Source": "Changes how fast to update tracking markers.\\n\\nPutting this number too low can impact server performance.\\n\\nThis number is the time between marker location updates.\\n\\n\\nIf tracking three dinos. Example of timestamps if set to 0.5:\\n0.0 second: Tracking enabled.\\n0.5 second: Update dino n1.\\n1.0 second: Update dino n2.\\n1.5 second: Update dino n3.\\n2.0 second: Update dino n1.",
+      "Trans": {"SC":"修改追踪标记的更新速度。\\n\\n 此数值设置过低可能影响服务器性能。\\n\\n 该数值代表追踪标记位置更新的时间间隔。\\n\\n\\n 若追踪 3 只恐龙，且此数值设为 0.5（秒），则时间戳示例如下：\\n0.0 秒：启用追踪功能。\\n0.5 秒：更新第 1 只恐龙的位置。\\n1.0 秒：更新第 2 只恐龙的位置。\\n1.5 秒：更新第 3 只恐龙的位置。\\n2.0 秒：再次更新第 1 只恐龙的位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2413004993",
+      "Source": "Change what this mod should use as cryopods for dinos.\\n\\nFor custom cryopods, find the cryopod class in the Spawn Items tab and paste it here.",
+      "Trans": {"SC":"修改该模组用于存放恐龙的低温舱类型。\\n\\n 若需使用自定义低温舱，请在 “生成物品”标签页中找到该低温舱的类别，并粘贴到此处。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3143821039",
+      "Source": "AATMenu Admin Only",
+      "Trans": {"SC":"AAT 菜单仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1906388683",
+      "Source": "Non Admin Only See Self",
+      "Trans": {"SC":"非管理员仅可查看自身信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::338010613",
+      "Source": "Tribe Owner Can Destroy Own Tribe",
+      "Trans": {"SC":"部落所有者可销毁本部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1454559011",
+      "Source": "Player, Tribe and Tamed Dino Coords Admin Only",
+      "Trans": {"SC":"玩家、部落及已驯服恐龙坐标仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1152671420",
+      "Source": "Wild Dino Coords Admin Only",
+      "Trans": {"SC":"野生恐龙坐标仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2185768486",
+      "Source": "Mass Destroy Speed",
+      "Trans": {"SC":"批量销毁速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1531690213",
+      "Source": "Base Actions",
+      "Trans": {"SC":"基地操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3183271091",
+      "Source": "Destroy Base",
+      "Trans": {"SC":"摧毁基地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::511637804",
+      "Source": "Teleport To Base",
+      "Trans": {"SC":"传送到基地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3794454758",
+      "Source": "Selected Base",
+      "Trans": {"SC":"选中的基地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::176079536",
+      "Source": "Location",
+      "Trans": {"SC":"位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4236425322",
+      "Source": "Base Radius",
+      "Trans": {"SC":"基地半径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2251784673",
+      "Source": "Last Render",
+      "Trans": {"SC":"最后渲染","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4001869040",
+      "Source": "Reset your server token if someone did share the token.",
+      "Trans": {"SC":"如果有人分享了服务器令牌，请重置它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1104216178",
+      "Source": "This token allows you to connect your server to the Awesome Ark Bot. Do not share this token.",
+      "Trans": {"SC":"此令牌允许您将服务器连接到Awesome Ark Bot。请勿分享此令牌。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2612781781",
+      "Source": "Ban?",
+      "Trans": {"SC":"封禁？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3996213040",
+      "Source": "Kill?",
+      "Trans": {"SC":"击杀？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2440969751",
+      "Source": "Track/untrack all visible dinos in the list.",
+      "Trans": {"SC":"追踪/取消追踪列表中所有可见恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::531369417",
+      "Source": "No dino class selected.",
+      "Trans": {"SC":"未选中恐龙种类。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3599994809",
+      "Source": "Search by name or ID",
+      "Trans": {"SC":"按名称或ID搜索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3504151838",
+      "Source": "Kill Dino",
+      "Trans": {"SC":"杀死恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3286246056",
+      "Source": "Teleport To Dino",
+      "Trans": {"SC":"传送到恐龙位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3540815779",
+      "Source": "Cryo Dino",
+      "Trans": {"SC":"低温舱收纳恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::750673568",
+      "Source": "Dino Actions",
+      "Trans": {"SC":"恐龙操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::399777401",
+      "Source": "Sleepy",
+      "Trans": {"SC":"休眠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::195224293",
+      "Source": "Low Gravity",
+      "Trans": {"SC":"低重力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::110727064",
+      "Source": "Succesfully captured dino.",
+      "Trans": {"SC":"成功捕获恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3143293725",
+      "Source": "Could not find dino.",
+      "Trans": {"SC":"未找到恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3234858918",
+      "Source": "Hide the whole admin menu from non-admins including the AATMenu button.\\n\\n\\nOff: Everyone can open the AATMenu.\\n\\nOn: Only admins can open the AATMenu.",
+      "Trans": {"SC":"对非管理员隐藏整个管理菜单（包括 AATMenu 按钮）。\\n\\n\\n 关闭：所有人均可打开 AATMenu。\\n\\n 开启：仅管理员可打开 AATMenu。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2673816702",
+      "Source": "Non-admins will only be able to see their own player, tribe and tamed dinos.\\n\\n\\nOff: Non-admins can see other players, tribes and dinos.\\n\\nOn: Non-admins can only see their own tribe.",
+      "Trans": {"SC":"非管理员仅能查看自身、所属部落及已驯服的恐龙。\\n\\n\\n 关闭：非管理员可查看其他玩家、部落及恐龙。\\n\\n 开启：非管理员仅能查看自身所属部落。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3554760324",
+      "Source": "Gives tribe owners the ability to destroy their own structures and dinos using the Admin Menu in Structure/Tamed dinos overview tab. In other words: Gives tribe owners admin powers over their own tribe.\\n\\n\\nOff: Tribe owners can not destroy their own tribe.\\n\\nOn: Tribe owners can destroy their own structures and dinos.",
+      "Trans": {"SC":"赋予部落所有者通过 “建筑 / 已驯服恐龙概览” 标签页中的管理菜单，销毁自身部落建筑及恐龙的权限。换言之：赋予部落所有者对自身部落的管理员权限。\\n\\n\\n 关闭：部落所有者无法销毁自身部落。\\n\\n 开启：部落所有者可销毁自身部落的建筑及恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1186304897",
+      "Source": "Coords of players, tribes and tamed dinos will only be visible to admins.\\n\\n\\nOff: Everyone can see coords of players, tribes and tamed dinos.\\n\\nOn: Non-admins can not see coords of players, tribes and tamed dinos. They will also not be able to use the tracking system for these type of actors.",
+      "Trans": {"SC":"玩家、部落及已驯服恐龙的坐标仅对管理员可见。\\n\\n\\n 关闭：所有人均可查看玩家、部落及已驯服恐龙的坐标。\\n\\n 开启：非管理员无法查看玩家、部落及已驯服恐龙的坐标，也无法使用针对这些对象的追踪系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::987969531",
+      "Source": "Coords of wild dinos will only be visible to admins. \\n\\n\\nOff: Everyone can see coords of wild dinos.\\n\\nOn: Non-admins can not see coords of wild dinos. They will also not be able to use the tracking system for wild dinos.",
+      "Trans": {"SC":"野生恐龙的坐标仅对管理员可见。\\n\\n\\n 关闭：所有人均可查看野生恐龙的坐标。\\n\\n 开启：非管理员无法查看野生恐龙的坐标，也无法使用针对野生恐龙的追踪系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2363111548",
+      "Source": "The smaller this number, the faster large amounts of structures get destroyed like a whole base.\\n\\nIf too low, the server could crash.\\n\\n\\n0.005: Destroy structures twice as fast.\\n\\n0.02:Destroying structures takes double the time.",
+      "Trans": {"SC":"此数值越小，大量建筑（如整个基地）的销毁速度越快。\\n\\n 数值过低可能导致服务器崩溃。\\n\\n\\n0.005：建筑销毁速度翻倍。\\n\\n0.02：建筑销毁速度减半。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::748998882",
+      "Source": "Player Overview Admin Only",
+      "Trans": {"SC":"玩家概览仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2668039748",
+      "Source": "Hide the players tab from non-admins.\\n\\n\\nOff: Everyone can see the players tab.\\n\\nOn: Only admins can see the players tab.",
+      "Trans": {"SC":"对非管理员隐藏 “玩家” 标签页。\\n\\n\\n 关闭：所有人均可查看 “玩家” 标签页。\\n\\n 开启：仅管理员可查看 “玩家” 标签页。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::253883464",
+      "Source": "Structure Overview Admin Only",
+      "Trans": {"SC":"建筑概览仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::277343333",
+      "Source": "Base Range",
+      "Trans": {"SC":"基地范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3907929093",
+      "Source": "Structure Data Update Speed",
+      "Trans": {"SC":"建筑数据更新速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1626178461",
+      "Source": "Minutes Between Structure Data Updates",
+      "Trans": {"SC":"建筑数据更新间隔（分钟）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3526362907",
+      "Source": "Disable Destroy Code",
+      "Trans": {"SC":"禁用销毁验证码","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3724345743",
+      "Source": "Hide the structures tab from non-admins.\\n\\n\\nOff: Everyone can see the structures tab.\\n\\nOn: Only admins can see the structures tab.",
+      "Trans": {"SC":"对非管理员隐藏 “建筑” 标签页。\\n\\n\\n 关闭：所有人均可查看 “建筑” 标签页。\\n\\n 开启：仅管理员可查看 “建筑” 标签页。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1460881260",
+      "Source": "How far away from eachother should structures be considered a base in UE units.\\n\\n\\n15000: Structures within a range of 30 foundations are considered one base.",
+      "Trans": {"SC":"以 UE 单位计算，建筑间距离达到多少时可判定为同一基地。\\n\\n\\n15000（UE 单位）：30 个地基范围内的建筑判定为同一基地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1197096946",
+      "Source": "The smaller this number, the faster an update of all structure data will be.\\n\\nIf too low, the server could lag.\\n\\n\\n0.0125: Updates go twice as fast.\\n\\n0.05: Updates go half as fast.",
+      "Trans": {"SC":"此数值越小，所有建筑数据的更新速度越快。\\n\\n 数值过低可能导致服务器延迟。\\n\\n\\n0.0125：更新速度翻倍。\\n\\n0.05：更新速度减半。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::22741587",
+      "Source": "How long should it take for bases to update again after the last update.\\n\\n\\n20: Automatically update every 20 minutes.",
+      "Trans": {"SC":"上次更新后，基地再次更新需间隔多长时间。\\n\\n\\n20（分钟）：每 20 分钟自动更新一次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1747315071",
+      "Source": "When destroying bases, you will not need to type a code anymore.\\n\\n\\nOff: Destroying a base requires you to type a simple code.\\n\\nOn: Destroying a base requires you to press a single button.",
+      "Trans": {"SC":"销毁基地时，无需再输入验证码。\\n\\n\\n 关闭：销毁基地需输入简单验证码。\\n\\n 开启：销毁基地仅需点击一个按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1705700229",
+      "Source": "Tamed Dino Overview Admin Only",
+      "Trans": {"SC":"已驯服恐龙概览仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3611267778",
+      "Source": "Dino Data Update Speed",
+      "Trans": {"SC":"恐龙数据更新速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3507988394",
+      "Source": "Minutes Between Dino Data Updates",
+      "Trans": {"SC":"恐龙数据更新间隔（分钟）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::115575030",
+      "Source": "Dino Stats Admin Only",
+      "Trans": {"SC":"恐龙属性仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2443206766",
+      "Source": "Hide the tamed dinos tab from non-admins.\\n\\n\\nOff: Everyone can see the tamed dinos tab.\\n\\nOn: Only admins can see the tamed dinos tab.",
+      "Trans": {"SC":"对非管理员隐藏 “已驯服恐龙” 标签页。\\n\\n\\n 关闭：所有人均可查看 “已驯服恐龙” 标签页。\\n\\n 开启：仅管理员可查看 “已驯服恐龙” 标签页。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2684895293",
+      "Source": "The smaller this number, the faster a update of all dino data will be.\\n\\nIf too low, the server could lag.\\n\\n\\n0.005: Updates go twice as fast.\\n\\n0.02: Update go half as fast.",
+      "Trans": {"SC":"此数值越小，所有恐龙数据的更新速度越快。\\n\\n 数值过低可能导致服务器延迟。\\n\\n\\n0.005：更新速度翻倍。\\n\\n0.02：更新速度减半。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3905846148",
+      "Source": "How long should it take for dinos to update again after the last update.\\n\\n\\n10: Automatically update every 10 minutes.",
+      "Trans": {"SC":"上次更新后，恐龙数据再次更新需间隔多长时间。\\n\\n\\n10（分钟）：每 10 分钟自动更新一次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1542931475",
+      "Source": "Should the stats of the dinos be hidden for non admins.\\n\\n\\nOff: Everyone can see the stats and traits of tamed and wild dinos.\\n\\nOn: Only admins can see the stats and traits of tamed and wild dinos.",
+      "Trans": {"SC":"是否对非管理员隐藏恐龙的属性。\\n\\n\\n 关闭：所有人均可查看已驯服恐龙及野生恐龙的属性与特性。\\n\\n 开启：仅管理员可查看已驯服恐龙及野生恐龙的属性与特性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1638449993",
+      "Source": "Wild Dino Overview Admin Only",
+      "Trans": {"SC":"野生恐龙概览仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3085897777",
+      "Source": "Hide the wild dinos tab from non-admins.\\n\\n\\nOff: Everyone can see the wild dinos tab.\\n\\nOn: Only admins can see the wild dinos tab.",
+      "Trans": {"SC":"对非管理员隐藏 “野生恐龙” 标签页。\\n\\n\\n 关闭：所有人均可查看 “野生恐龙” 标签页。\\n\\n 开启：仅管理员可查看 “野生恐龙” 标签页。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3740688973",
+      "Source": "These configurations can only be changed in the GameUserSettings.ini of the server",
+      "Trans": {"SC":"以下配置仅可在服务器的 GameUserSettings.ini 文件中修改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1778473192",
+      "Source": "Click 'INI overrides' button for a better overview of the INI",
+      "Trans": {"SC":"点击 “INI 覆盖” 按钮，可更清晰地查看 INI 文件内容","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2911422165",
+      "Source": "Admin Whitelist",
+      "Trans": {"SC":"管理员白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4039016709",
+      "Source": "Admin Access Requires Whitelist",
+      "Trans": {"SC":"管理员权限需通过白名单验证","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2661564123",
+      "Source": "A comma-seperated list of EosIDs of players.\\nAll players in this list can access the AATMenu in admin mode without having to log in as admin.\\n\\nNon-admins can also be given admin access to the menu in admin mode this way.\\n\\n\\n[AwesomeAdminTools]\\nAdminWhitelist=w8u7gb1s9gtggks5g1s, w7g8bs55h7d1fbd, e7g9b1s7f9gv1",
+      "Trans": {"SC":"以逗号分隔的玩家 EosID 列表。\\n 列表中的所有玩家无需以管理员身份登录，即可在管理员模式下访问 AATMenu。\\n\\n 也可通过此方式为非管理员赋予管理员模式下的菜单访问权限。\\n\\n\\n [AwesomeAdminTools]\\nAdminWhitelist=w8u7gb1s9gtggks5g1s, w7g8bs55h7d1fbd, e7g9b1s7f9gv1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::964205109",
+      "Source": "Only players in the 'Admin Whitelist' will be able to access the AATMenu in admin mode.\\n\\n\\nOff: All admins and all players in the 'Admin Whitelist' can access the AATMenu in admin mode.\\n\\nOn: Only the players in the 'Admin Whitelist' can access the AATMenu in admin mode.\\n\\n\\n[AwesomeAdminTools]\\nAdminWhitelistRequired=false",
+      "Trans": {"SC":"仅 “管理员白名单” 中的玩家可在管理员模式下访问 AATMenu。\\n\\n\\n 关闭：所有管理员及 “管理员白名单” 中的所有玩家，均可在管理员模式下访问 AATMenu。\\n\\n 开启：仅 “管理员白名单” 中的玩家可在管理员模式下访问 AATMenu。\\n\\n\\n [AwesomeAdminTools]\\nAdminWhitelistRequired=false","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1426712260",
+      "Source": "New Custom Page",
+      "Trans": {"SC":"新建自定义页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1613192678",
+      "Source": "Title:",
+      "Trans": {"SC":"标题：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2490327547",
+      "Source": "Icon:",
+      "Trans": {"SC":"图标：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::203328954",
+      "Source": "*No Icon*",
+      "Trans": {"SC":"无图标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3852899561",
+      "Source": "Delete Page",
+      "Trans": {"SC":"删除页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1496628111",
+      "Source": "Import/Export Page",
+      "Trans": {"SC":"导入 / 导出页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2983284091",
+      "Source": "Import Example Page",
+      "Trans": {"SC":"导入示例页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::171408186",
+      "Source": "Horizontal Box",
+      "Trans": {"SC":"水平方框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::734841892",
+      "Source": "Vertical Box",
+      "Trans": {"SC":"垂直方框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2347262044",
+      "Source": "Key Bindings",
+      "Trans": {"SC":"按键绑定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4028136261",
+      "Source": "Automation",
+      "Trans": {"SC":"自动化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3803493936",
+      "Source": "Ark Dashboard",
+      "Trans": {"SC":"方舟仪表盘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::28710814",
+      "Source": "Open Dashboard",
+      "Trans": {"SC":"打开仪表盘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1489269845",
+      "Source": "Give And Equip",
+      "Trans": {"SC":"给予并装备","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::604822831",
+      "Source": "Primary",
+      "Trans": {"SC":"主要","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::772923090",
+      "Source": "Bound To Fire",
+      "Trans": {"SC":"绑定到开火键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3780089940",
+      "Source": "Secondary",
+      "Trans": {"SC":"次要","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1016877599",
+      "Source": "Bound To Iron Sights",
+      "Trans": {"SC":"绑定到瞄准键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::216312346",
+      "Source": "Tertiary",
+      "Trans": {"SC":"第三","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2481580151",
+      "Source": "Bound To Weapon Whip",
+      "Trans": {"SC":"绑定到武器挥击键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4113650261",
+      "Source": "Quartiary",
+      "Trans": {"SC":"第四","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3640449743",
+      "Source": "Bound To Toggle Weapon Attachment",
+      "Trans": {"SC":"绑定到武器配件切换键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2506671701",
+      "Source": "Login Console Commands",
+      "Trans": {"SC":"登录控制台指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1830590047",
+      "Source": "These commands will run after joining the server.\\n\\nCan only run client side commands like 'gamma', 'r.fog 0', ...",
+      "Trans": {"SC":"这些指令将在加入服务器后运行。\\n\\n 仅可运行客户端指令，如 “gamma”“r.fog 0” 等。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3688915333",
+      "Source": "Active Tabs",
+      "Trans": {"SC":"活跃标签页","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3845976761",
+      "Source": "Inactive Tabs",
+      "Trans": {"SC":"未活跃标签页","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2594653862",
+      "Source": "No inactive tabs",
+      "Trans": {"SC":"无未活跃标签页","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::858855275",
+      "Source": "Changing Key Binding",
+      "Trans": {"SC":"修改按键绑定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2675359608",
+      "Source": "Report A Bug In Awesome Admin Tools",
+      "Trans": {"SC":"举报A管理员工具中的漏洞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2112553849",
+      "Source": "Found an issue or think something could be better about the mod?\\nTell me by typing it in the box below and pressing the send report button.\\nPlease properly explain the problem, I can not do anything with 'menu does not work' or 'mod is broken'.\\nIf you want a response, you should join the Awesome Admin Tools discord server.",
+      "Trans": {"SC":"发现漏洞，或认为该模组有可改进之处？\\n 在下方输入框中详细描述，并点击 “发送举报” 按钮告知我们。\\n 请清晰说明问题，仅说 “菜单用不了” 或 “模组坏了” 无法帮助我们解决问题。\\n 若希望获得回复，请加入A管理员工具的 Discord 服务器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4165413756",
+      "Source": "Where does this bug happen?",
+      "Trans": {"SC":"该漏洞发生在何处？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1505339206",
+      "Source": "Select an option",
+      "Trans": {"SC":"选择一个选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1841648101",
+      "Source": "Admin Menu (AATMenu)",
+      "Trans": {"SC":"管理菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::15997166",
+      "Source": "Send Report",
+      "Trans": {"SC":"发送举报","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2610944483",
+      "Source": "Modifier keys like ctrl,alt,windows and shift are allowed.",
+      "Trans": {"SC":"允许使用Ctrl、Alt、Windows和Shift等修饰键。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::EE54E9264CC184187A829C8AE994B0BC",
+      "Source": "{player} executed AATMenu action {action} for dino {name} with ID {id}.",
+      "Trans": {"SC":"{player} 执行了AAT菜单操作 {action} 针对恐龙 {name} 带有ID {id}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"497240180"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::BFE3D5984BB852B4FC96EE8B175DBD77",
+      "Source": "{player} spawned {tamed} {gender} {dino} of lvl {lvl}{cryo}. {exact}{traits}",
+      "Trans": {"SC":"{player} 生成了 {tamed} {gender} {dino} 等级为 {lvl}{cryo}. {exact}{traits}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"707023902"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::0CF5F919447B87C73A685787548D3D7E",
+      "Source": "{player} executed AATMenu action {action} for player {id}. Parameter: {strParam}",
+      "Trans": {"SC":"{player} 执行了AAT菜单操作 {action} 玩家为 {id}. 参数: {strParam}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"149557492"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::6E46A47F4122CF8A81826CBBCE494CD0",
+      "Source": "{player} executed AATMenu action {action} for tribe with ID {id}. Parameter: {strParam}",
+      "Trans": {"SC":"{player} 执行了AAT菜单操作 {action} 部落ID为 {id}. 参数: {strParam}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4246150232"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::6F11564D4D02A8BEB84BBB937C7FBCA2",
+      "Source": "{player} executed AATMenu action {action} for base at location {loc} of tribeID {id}.",
+      "Trans": {"SC":"{player} 执行了AAT菜单操作 {action} 基地位置为 {loc} 部落ID为 {id}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1880121140"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::9A33C0584FE10F4A0B19268B0C1ECF51",
+      "Source": "{player} mass destroyed {num} {type} at {coords}.",
+      "Trans": {"SC":"{player} 批量销毁 {num} {type} 位于 {coords} 处","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"256177858"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::599719DD400E22ADEC0429B92534F107",
+      "Source": "{player} spawned {count} {bp}{item} of quality {quality}. {qualityIndex}{dam}{dur}{arm}",
+      "Trans": {"SC":"{player} 生成了 {count} {bp}{item} 品质为 {quality}. {qualityIndex}{dam}{dur}{arm}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"202470202"}
+    },
+    {
+      "NamespaceHash": "Content::1986491607",
+      "Source": "Current Location: Custom",
+      "Trans": {"SC":"当前位置：自定义","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::342D4EF34A45E501451459B5C225B4D8",
+      "Source": "YOU ARE ABOUT TO DESTROY A {typeAction} CONTAINING {actorCount} {type}!",
+      "Trans": {"SC":"你即将摧毁一个 {typeAction} 其中包含 {actorCount} {type}!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3270158536"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::FB9EE6E24D296F0955596DB273E622AC",
+      "Source": "Time left until cancel: {time}",
+      "Trans": {"SC":"取消前剩余时间: {time}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2135142023"}
+    },
+    {
+      "NamespaceHash": "Content::2916400575",
+      "Source": "I Am Sure",
+      "Trans": {"SC":"我确定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2275793061",
+      "Source": "Tools",
+      "Trans": {"SC":"工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::905481885",
+      "Source": "Fly",
+      "Trans": {"SC":"飞行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::226483457",
+      "Source": "Ghost",
+      "Trans": {"SC":"隐身","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::559698733",
+      "Source": "Quick Buffs",
+      "Trans": {"SC":"快速增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2800032649",
+      "Source": "Live Tracking",
+      "Trans": {"SC":"实时追踪","JA":"實時追踪"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1769416026",
+      "Source": "scriptcommand AAT SpawnItem",
+      "Trans": {"SC":"脚本命令 AAT 生成物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2675385460",
+      "Source": "ItemClass*",
+      "Trans": {"SC":"物品类*","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4137363338",
+      "Source": "bIsBlueprint",
+      "Trans": {"SC":"是否为蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::898904351",
+      "Source": "QualityIndex (0 = primitive, 1 = ramshackle, ... , 64 = default)",
+      "Trans": {"SC":"品质指数（0 = 原始，1 = 简易，……，64 = 默认）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2298789897",
+      "Source": "Durability (-1 = default)",
+      "Trans": {"SC":"耐久度（-1 = 默认）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3047575371",
+      "Source": "Armor (-1 = default)",
+      "Trans": {"SC":"护甲值（-1 = 默认）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2696005482",
+      "Source": "Damage (-1 = default)",
+      "Trans": {"SC":"伤害值（-1 = 默认）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1502710610",
+      "Source": "CustomItemName",
+      "Trans": {"SC":"自定义物品名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2398199887",
+      "Source": "PlayerTarget (Eos or PlayerID)",
+      "Trans": {"SC":"玩家目标（Eos 或 玩家ID）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2405494194",
+      "Source": "DinoClass*",
+      "Trans": {"SC":"生物类*","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::884497905",
+      "Source": "bTamed",
+      "Trans": {"SC":"是否驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3460824023",
+      "Source": "bSaddled",
+      "Trans": {"SC":"是否装备鞍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3676425587",
+      "Source": "Gender",
+      "Trans": {"SC":"性别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2027758509",
+      "Source": "bSpawnAsCryo",
+      "Trans": {"SC":"以低温舱形式生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1501789510",
+      "Source": "DinoName",
+      "Trans": {"SC":"生物名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3096253765",
+      "Source": "bUseExactStats",
+      "Trans": {"SC":"使用精确属性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1865823124",
+      "Source": "ExactBaseStats (Numbers separated by spaces)",
+      "Trans": {"SC":"精确基础属性（数字以空格分隔）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2948430193",
+      "Source": "ExactMutStats (Numbers separated by spaces)",
+      "Trans": {"SC":"精确突变属性（数字以空格分隔）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4251155636",
+      "Source": "bUseColors",
+      "Trans": {"SC":"使用颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4020823076",
+      "Source": "Colors (Numbers separated by spaces)",
+      "Trans": {"SC":"颜色（数字以空格分隔）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3905131213",
+      "Source": "Traits (Separated by commas)",
+      "Trans": {"SC":"特性（以逗号分隔）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::398793379",
+      "Source": "PlayerTarget (EosID or PlayerlD)",
+      "Trans": {"SC":"玩家目标（EosID或PlayerID）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },//2026.3.17更新
+    {
+      "NamespaceHash": "Content::1011822614",
+      "Source": "Admin Large Tek Teleporter",
+      "Trans": {"SC":"管理员大型泰克传送门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2834067575",
+      "Source": "Admin Medium Tek Teleporter",
+      "Trans": {"SC":"管理员中型泰克传送门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3114414325",
+      "Source": "Admin Small Tek Teleporter",
+      "Trans": {"SC":"管理员小型泰克传送门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::235080486",
+      "Source": "A package containing all dyes. Consume to receive 100 of each dye.",
+      "Trans": {"SC":"全染料包：使用后获得每种染料各 100 个","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::758491621",
+      "Source": "You are invincible.",
+      "Trans": {"SC":"你处于无敌状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::430463290",
+      "Source": "Nothing can see you.",
+      "Trans": {"SC":"没有任何单位能发现你","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::770109974",
+      "Source": "Never use any ammo while reloading.",
+      "Trans": {"SC":"装填弹药时不消耗任何子弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::712308485",
+      "Source": "Never need a reload",
+      "Trans": {"SC":"无需装填弹药","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1240983200",
+      "Source": "No Building Zone",
+      "Trans": {"SC":"禁止建造区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2821299865",
+      "Source": "Weapon durability never goes down.",
+      "Trans": {"SC":"武器耐久永不损耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3987008968",
+      "Source": "No Fly",
+      "Trans": {"SC":"禁止飞行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3410520470",
+      "Source": "Weapons do not have any recoil anymore.",
+      "Trans": {"SC":"武器后坐力完全消除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3906476692",
+      "Source": "No Tek",
+      "Trans": {"SC":"禁用泰克科技","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3609599818",
+      "Source": "Possessing",
+      "Trans": {"SC":"正在附身","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2619735097",
+      "Source": "Possessing Structure",
+      "Trans": {"SC":"正在附身建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2630045543",
+      "Source": "Possessed",
+      "Trans": {"SC":"已被附身","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3095652190",
+      "Source": "Movements prevented",
+      "Trans": {"SC":"移动已被限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::266081489",
+      "Source": "No Dino Zone",
+      "Trans": {"SC":"禁止放置恐龙区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3011936857",
+      "Source": "Fly Ability",
+      "Trans": {"SC":"飞行能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::41470732",
+      "Source": "Double Tap Jump To Toggle Fly",
+      "Trans": {"SC":"双击跳跃键开启 / 关闭飞行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::641574126",
+      "Source": "Pvp Zone",
+      "Trans": {"SC":"玩家对战区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::913287371",
+      "Source": "Safezone",
+      "Trans": {"SC":"安全区","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4061961790",
+      "Source": "Fire any weapon in full auto mode.",
+      "Trans": {"SC":"所有武器均可全自动开火","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::297437844",
+      "Source": "Spawning Structures",
+      "Trans": {"SC":"建筑生成中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3349462085",
+      "Source": "Please Wait",
+      "Trans": {"SC":"请稍候","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2101397696",
+      "Source": "You can fly through all objects.",
+      "Trans": {"SC":"你可以穿墙飞行（无视所有障碍物）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::296242030",
+      "Source": "Awesome ARK Tools",
+      "Trans": {"SC":"超级方舟工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::336379624",
+      "Source": "Dismount In Zone",
+      "Trans": {"SC":"区域内强制下龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4151201659",
+      "Source": "No Building",
+      "Trans": {"SC":"禁止建造","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2005325381",
+      "Source": "No Tek Helmet",
+      "Trans": {"SC":"禁用泰克头盔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2819861759",
+      "Source": "No Tek Gauntlets",
+      "Trans": {"SC":"禁用泰克护手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::24293762",
+      "Source": "No Tek Leggings",
+      "Trans": {"SC":"禁用泰克护腿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1210751778",
+      "Source": "No Tek Boots",
+      "Trans": {"SC":"禁用泰克靴子","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2911994320",
+      "Source": "No Tek Chest",
+      "Trans": {"SC":"禁用泰克胸甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3332293154",
+      "Source": "Prevent Running",
+      "Trans": {"SC":"禁止奔跑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3110239973",
+      "Source": "Prevent Jumping",
+      "Trans": {"SC":"禁止跳跃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::647613302",
+      "Source": "Prevent Dino Riding",
+      "Trans": {"SC":"禁止骑乘恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::210357702",
+      "Source": "Prevent Fall Damage",
+      "Trans": {"SC":"免疫坠落伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3788659054",
+      "Source": "Prevent Attacking",
+      "Trans": {"SC":"禁止攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3659416388",
+      "Source": "Gravity",
+      "Trans": {"SC":"重力生效","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1068757434",
+      "Source": "Require Online",
+      "Trans": {"SC":"需保持在线","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1971594676",
+      "Source": "Sphere",
+      "Trans": {"SC":"球形","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::13489508",
+      "Source": "Box",
+      "Trans": {"SC":"方形","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2717444657",
+      "Source": "Information",
+      "Trans": {"SC":"信息提示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::100329281",
+      "Source": "Prevent Player Actions",
+      "Trans": {"SC":"禁止玩家执行操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3732763521",
+      "Source": "No Structure Damage",
+      "Trans": {"SC":"建筑免疫伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::784491328",
+      "Source": "No Structure Decay",
+      "Trans": {"SC":"建筑永不腐坏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2315291357",
+      "Source": "View Affected Structures",
+      "Trans": {"SC":"查看受影响的建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2706560323",
+      "Source": "Prevent Dinos",
+      "Trans": {"SC":"禁止恐龙进入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1349624376",
+      "Source": "Allow Wild DInos",
+      "Trans": {"SC":"允许野生恐龙进入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3166784513",
+      "Source": "Allow Tamed DInos",
+      "Trans": {"SC":"允许驯养恐龙进入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3470091986",
+      "Source": "Cheat Fly (No Acceleration)",
+      "Trans": {"SC":"悬浮飞行（无加速度）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3987482184",
+      "Source": "Unban Player",
+      "Trans": {"SC":"解除玩家封禁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2721769209",
+      "Source": "History",
+      "Trans": {"SC":"历史记录","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2161836973",
+      "Source": "Online Player",
+      "Trans": {"SC":"在线玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1907614693",
+      "Source": "Player",
+      "Trans": {"SC":"玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2363137679",
+      "Source": "Load Uncached Dinos",
+      "Trans": {"SC":"加载未缓存恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3024028317",
+      "Source": "Dino Class Actions",
+      "Trans": {"SC":"恐龙种类操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1193103532",
+      "Source": "Total Alive",
+      "Trans": {"SC":"存活总数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1068766050",
+      "Source": "Selected Dino",
+      "Trans": {"SC":"已选中的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::989087735",
+      "Source": "Paste",
+      "Trans": {"SC":"粘贴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2256692018",
+      "Source": "Paste & Possess",
+      "Trans": {"SC":"粘贴并占据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1732284524",
+      "Source": "Destroy",
+      "Trans": {"SC":"销毁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1164971707",
+      "Source": "UnLock",
+      "Trans": {"SC":"解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3203963959",
+      "Source": "Claim",
+      "Trans": {"SC":"认领","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3227875089",
+      "Source": "Duplicate",
+      "Trans": {"SC":"复制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::709987911",
+      "Source": "Spawn Dino",
+      "Trans": {"SC":"生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2955836799",
+      "Source": "Possess",
+      "Trans": {"SC":"占据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::15923404",
+      "Source": "Imprint",
+      "Trans": {"SC":"印记","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::195855522",
+      "Source": "Copy",
+      "Trans": {"SC":"复制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2087491912",
+      "Source": "Paste Settings",
+      "Trans": {"SC":"粘贴设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3622143907",
+      "Source": "Select a file from the list below or copy something with the copy mode.",
+      "Trans": {"SC":"从下方列表选择文件，或使用复制模式复制内容","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::240527021",
+      "Source": "Selected File: Copied structures",
+      "Trans": {"SC":"已选文件：已复制建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2814203253",
+      "Source": "Create files with the copy mode.",
+      "Trans": {"SC":"使用复制模式创建文件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::329906794",
+      "Source": "No files found",
+      "Trans": {"SC":"未找到文件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1405956799",
+      "Source": "Auto Fire",
+      "Trans": {"SC":"自动射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2208731584",
+      "Source": "Download",
+      "Trans": {"SC":"下载","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2973205167",
+      "Source": "Upload",
+      "Trans": {"SC":"上传","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1347912694",
+      "Source": "QUICK BUFFS",
+      "Trans": {"SC":"快捷BUFFS","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4196783992",
+      "Source": "Primairy",
+      "Trans": {"SC":"第一","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1086775",
+      "Source": "Secondairy",
+      "Trans": {"SC":"第二","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1790488426",
+      "Source": "Kill the target actor",
+      "Trans": {"SC":"击杀目标对象","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::380165263",
+      "Source": "Destroy the target actor",
+      "Trans": {"SC":"销毁目标对象","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2420625269",
+      "Source": "Destroy all structures in close range.",
+      "Trans": {"SC":"销毁近距离内所有建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4100739984",
+      "Source": "Hides the target actor",
+      "Trans": {"SC":"隐藏目标对象","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2404251743",
+      "Source": "Unhides the target actor",
+      "Trans": {"SC":"取消隐藏目标对象","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1714326123",
+      "Source": "Unlock the target actor",
+      "Trans": {"SC":"解锁目标对象","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::937208344",
+      "Source": "Lock the target actor",
+      "Trans": {"SC":"锁定目标对象","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1735585859",
+      "Source": "Pin lock the target actor",
+      "Trans": {"SC":"固定锁定目标对象","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2957814507",
+      "Source": "Tame the target dino",
+      "Trans": {"SC":"驯服目标恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1075910507",
+      "Source": "Force tame the target dino",
+      "Trans": {"SC":"强制驯服目标恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3197882748",
+      "Source": "Untame the target dino",
+      "Trans": {"SC":"解除驯服目标恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3197882748",
+      "Source": "Untame the target dino",
+      "Trans": {"SC":"解除驯服目标恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3197882748",
+      "Source": "Untame the target dino",
+      "Trans": {"SC":"解除驯服目标恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2386773817",
+      "Source": "Sign Out Of Admin",
+      "Trans": {"SC":"退出管理员模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2689354834",
+      "Source": "Mutation",
+      "Trans": {"SC":"突变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

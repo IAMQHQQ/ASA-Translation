@@ -1,0 +1,184 @@
+{
+  "Valkyskins": [
+    {
+      "NamespaceHash": "Content::3268999320",
+      "Source": "Cyber Ankylo 1",
+      "Trans": {"SC":"赛博甲龙 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3496826742",
+      "Source": "Cyber Ankylo 2",
+      "Trans": {"SC":"赛博甲龙 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4294587162",
+      "Source": "Cyber Bison 1",
+      "Trans": {"SC":"赛博野牛 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3981417716",
+      "Source": "Cyber Bison 2",
+      "Trans": {"SC":"赛博野牛 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1442053009",
+      "Source": "Cyber Bison 3",
+      "Trans": {"SC":"赛博野牛 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3357852456",
+      "Source": "Cyber Bison 4",
+      "Trans": {"SC":"赛博野牛 4","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::857281792",
+      "Source": "Cyber Cat 1",
+      "Trans": {"SC":"赛博猫 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::564968174",
+      "Source": "Cyber Cat 2",
+      "Trans": {"SC":"赛博猫 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2568019339",
+      "Source": "Cyber Cat 3",
+      "Trans": {"SC":"赛博猫 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::80209202",
+      "Source": "Cyber Cat 4",
+      "Trans": {"SC":"赛博猫 4","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3162210903",
+      "Source": "Cyber Cat 5",
+      "Trans": {"SC":"赛博猫 5","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3882758547",
+      "Source": "Cyber Raptor 1",
+      "Trans": {"SC":"赛博迅猛龙 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4124810877",
+      "Source": "Cyber Raptor 2",
+      "Trans": {"SC":"赛博迅猛龙 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1298659608",
+      "Source": "Cyber Raptor 3",
+      "Trans": {"SC":"赛博迅猛龙 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1862109064",
+      "Source": "Cyber Sarco 1",
+      "Trans": {"SC":"赛博帝鳄 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2085103718",
+      "Source": "Cyber Sarco 2",
+      "Trans": {"SC":"赛博帝鳄 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1263398806",
+      "Source": "Cyber Spino 1",
+      "Trans": {"SC":"赛博棘龙 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1509441656",
+      "Source": "Cyber Spino 2",
+      "Trans": {"SC":"赛博棘龙 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3779340061",
+      "Source": "Cyber Spino 3",
+      "Trans": {"SC":"赛博棘龙 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2090016676",
+      "Source": "Cyber Spino 4",
+      "Trans": {"SC":"赛博棘龙 4","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::738607868",
+      "Source": "Cyber Stego 1",
+      "Trans": {"SC":"赛博剑龙 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1051979026",
+      "Source": "Cyber Stego 2",
+      "Trans": {"SC":"赛博剑龙 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2249165431",
+      "Source": "Cyber Stego 3",
+      "Trans": {"SC":"赛博剑龙 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2471514526",
+      "Source": "Transform your Ankylosaurus into a futuristic powerhouse with the Cyber Ankylo Skin!",
+      "Trans": {"SC":"用赛博甲龙皮肤将你的甲龙打造成未来感十足的强力生物！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1882025748",
+      "Source": "Transform your Bison into a mechanic beast with the Cyber Bison Skin!",
+      "Trans": {"SC":"用赛博野牛皮肤将你的野牛变成机械野兽！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2050534816",
+      "Source": "Transform your Cat into a cute cyber pet!",
+      "Trans": {"SC":"将你的猫变成可爱的赛博宠物！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::945782304",
+      "Source": "Transform your Raptor into a Bionic Raptor!",
+      "Trans": {"SC":"把你的迅猛龙变成仿生迅猛龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::236905590",
+      "Source": "Transform your Sarco into a futuristic dino with the Cyber Sarco Skin!",
+      "Trans": {"SC":"用赛博帝鳄皮肤将你的帝鳄打造成未来感恐龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2131072305",
+      "Source": "Transform your Spino into a Cyber powerfull Spino!",
+      "Trans": {"SC":"用赛博皮肤将你的棘龙变成强大的赛博棘龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3246244850",
+      "Source": "Transform your Stegosaurus into a futuristic Cyber Stego!",
+      "Trans": {"SC":"将你的剑龙打造成未来感十足的赛博剑龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+{
+  "Paddletail Spinosaurus": [//2025.12.02
+    {
+      "NamespaceHash": "Content::2932582702",
+      "Source": "Spinosaurus Saddle",
+      "Trans": {"SC":"棘龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1105105156",
+      "Source": "A saddle for your Paddletail Spinosaurus. It has two seats! Bring a friend!",
+      "Trans": {"SC":"你的桨尾棘龙的鞍。它有两个座位！带上朋友！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1105758868",
+      "Source": "Spinosaurus Egg",
+      "Trans": {"SC":"棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3889873831",
+      "Source": "Fertilized Spinosaurus Egg",
+      "Trans": {"SC":"受精的棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2415553052",
+      "Source": "Regulation",
+      "Trans": {"SC":"调节","JA":"調節"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::268081364",
+      "Source": "Your Spino is keeping you cool at the expense of food!",
+      "Trans": {"SC":"你的棘龙正在以消耗食物为代价让你保持凉爽！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1323939333",
+      "Source": "Waterboarded",
+      "Trans": {"SC":"水刑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3480597526",
+      "Source": "Your lungs are filled with water!",
+      "Trans": {"SC":"你的肺部充满了水！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "88F2AA644D47BE9E606CF3918B30E4B3",
+      "Source": "Bite",
+      "Trans": {"SC":"咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "BAC1F5B94466440E81AF9895AC41329D",
+      "Source": "Clawswipe / Gore / Underwater Spin",
+      "Trans": {"SC":"爪击/刺击/水下旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2288108463"}
+    },
+    {
+      "NamespaceHash": "7D0550744F3A5A92EF33FB8315369C31",
+      "Source": "Carry",
+      "Trans": {"SC":"抓起","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"849218775"}
+    },
+    {
+      "NamespaceHash": "535C60A1405BDEE320B9E4AF035AD8E3",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "52ED6B9441F03414BCCFBBB0CEB66334",
+      "Source": "Tailswipe",
+      "Trans": {"SC":"扫尾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1563534509"}
+    },
+    {
+      "NamespaceHash": "2857068A49AA3031C9859E988CE14028",
+      "Source": "Toggle Turn In Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"112219838"}
+    },
+    {
+      "NamespaceHash": "6151A0864BF3EAE328610DAC54B4EE76",
+      "Source": "Toggle Thermoregulation",
+      "Trans": {"SC":"切换体温调节","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1691044537"}
+    },
+    {
+      "NamespaceHash": "0041A2444402B8C4E25A14956773305C",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::C52BBCDE4204103575599B94B5BD1CAF",
+      "Source": "Disable",
+      "Trans": {"SC":"禁用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3631076157"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::9267DF8546BE0EA18DAAF6BB7076774D",
+      "Source": "Enable",
+      "Trans": {"SC":"启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2201890003"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::0008128D45999882EE3E34AF24F62E16",
+      "Source": "{x} Thermoregulating",
+      "Trans": {"SC":"{x} 正在调节体温","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1304750215"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::6F496B1A48F768A5B306C692684E6495",
+      "Source": "Stop",
+      "Trans": {"SC":"停止","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1217568707"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::467E53204F6862F3504DBA8BEF0C1264",
+      "Source": "Allow",
+      "Trans": {"SC":"允许","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"324162857"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::5092CFD84DB3D8133FED76BDB8811930",
+      "Source": "{x} Collecting Fibre From Claw Attacks",
+      "Trans": {"SC":"{x} 从爪击收集纤维","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1355034551"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::EBCF2D9E4C06CD4F21CE598F4F23C239",
+      "Source": "Wild Spinosaurus - Lvl {x} enjoyed your {y} offering!",
+      "Trans": {"SC":"野生桨尾棘龙 - 等级{x}喜欢你的{y}祭品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"225188545"}
+    }
+  ]
+}

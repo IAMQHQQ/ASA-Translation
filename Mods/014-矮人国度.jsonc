@@ -1,0 +1,1714 @@
+{
+  "Svartalfheim": [//2025.11.29
+  // 包含模组
+  // S-Dino Variants———S-恐龙变体
+  // S-Dino Variants - Fantastic Tames———S-恐龙 幻想生物(S-炽焰猫.梦魇马)
+  // Dwarven Builders Mod - DISCONTINUED / Use Dwarven Builders custom cosmetic mod instead!——矮人建造者模组
+  // Svartalfheim Armory——矮人国度军械库(袋狮.猛犸象.凶齿稀鞍皮肤)
+  // Dwarven Builders - Custom Cosmetic Mod———矮人建造者 - 自定义外观模组
+    {
+      "NamespaceHash": "Content::3239175125",
+      "Source": "Seagull Bay",
+      "Trans": {"SC":"海鸥湾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3617429625",
+      "Source": "Sandy Shore",
+      "Trans": {"SC":"沙滩海岸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3645619753",
+      "Source": "Cherry Blossom",
+      "Trans": {"SC":"樱花之地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3328720464",
+      "Source": "Svartalfheim",
+      "Trans": {"SC":"矮人国度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2178370415",
+      "Source": "Generate Thurduars Bane (Gamma) Portal",
+      "Trans": {"SC":"召唤灾厄之主·瑟杜尔 (简单) 传送门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1810447309",
+      "Source": "Generate Thurduars Bane (Alpha) Portal",
+      "Trans": {"SC":"召唤灾厄之主·瑟杜尔 (困难) 传送门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2508174869",
+      "Source": "Generate Thurduars Bane (Beta) Portal",
+      "Trans": {"SC":"召唤灾厄之主·瑟杜尔 (中等) 传送门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3712750667",
+      "Source": "Use this to generate a portal to the halls of Thurduars Bane (Easy). 10 players and 10 tames are allowed.",
+      "Trans": {"SC":"使用并召唤灾厄之主·瑟杜尔传送门 (简单)，允许10名玩家和10只恐龙进入。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3902165124",
+      "Source": "Use this to generate a portal to the halls of Thurduars Bane (Hard). 10 players and 10 tames are allowed.",
+      "Trans": {"SC":"使用并召唤灾厄之主·瑟杜尔传送门 (困难)，允许10名玩家和10只恐龙进入。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3812236624",
+      "Source": "Use this to generate a portal to the halls of Thurduars Bane (Medium). 10 players and 10 tames are allowed.",
+      "Trans": {"SC":"使用并召唤灾厄之主·瑟杜尔传送门 (中等)，允许10名玩家和10只恐龙进入。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3443278674",
+      "Source": "Generate<#RN#>Muspelheim Arena<#RN#>Portal",
+      "Trans": {"SC":"召唤 火之国竞技场 传送门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3148477752",
+      "Source": "Use this to teleport to the Muspelheim arena. You can choose which Boss you want to fight from there.",
+      "Trans": {"SC":"使用并召唤火之国竞技场，你可以在此选择想要挑战的Boss。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2724054546",
+      "Source": "Alpha Bane of Thurduar Trophy",
+      "Trans": {"SC":"困难灾厄之主·瑟杜尔战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1870377718",
+      "Source": "Beta Bane of Thurduar Trophy",
+      "Trans": {"SC":"中等灾厄之主·瑟杜尔战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::70697813",
+      "Source": "Gamma Bane of Thurduar Trophy",
+      "Trans": {"SC":"简单灾厄之主·瑟杜尔战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2995588216",
+      "Source": "Gem of the Bane of Thurduar",
+      "Trans": {"SC":"灾厄之主·瑟杜尔宝石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3946308291",
+      "Source": "A magic gem filled with ancient magic to enter the arena of the Bane of Thurduar.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"一颗充满远古魔法的神奇宝石，用于进入灾厄之主·瑟杜尔的竞技场。<#RN#><RichColor Color=\"1,0,0,1\">每个生物一次只能携带一颗此宝石.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::675782183",
+      "Source": "Gem of the Dragon",
+      "Trans": {"SC":"喷火龙宝石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::25077920",
+      "Source": "A magic gem filled with ancient magic to enter the arena of the Dragon.<#N#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"一颗充满远古魔法的神奇宝石，用于进入喷火龙的竞技场。<#N#><RichColor Color=\"1,0,0,1\">每个生物一次只能携带一颗此宝石.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4294329898",
+      "Source": "Gem of the Gorilla",
+      "Trans": {"SC":"银背金刚宝石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1307822591",
+      "Source": "A magic gem filled with ancient magic to enter the arena of the Megapithecus.<#N#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"一颗充满远古魔法的神奇宝石，用于进入银背金刚竞技场。<#N#><RichColor Color=\"1,0,0,1\">每个生物一次只能携带一颗此宝石.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::595073457",
+      "Source": "Gem of the Spider",
+      "Trans": {"SC":"育母蜘蛛宝石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2480855830",
+      "Source": "A magic gem filled with ancient magic to enter the arena of the Broodmother Lysrix.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"一颗充满远古魔法的神奇宝石，用于进入育母蜘蛛的竞技场。<#RN#><RichColor Color=\"1,0,0,1\">每个生物一次只能携带一颗此宝石.</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2709417814",
+      "Source": "Unholy Remains",
+      "Trans": {"SC":"不洁遗骸","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4112983589",
+      "Source": "You feel your thoughts getting darker just by touching this unknown substance.",
+      "Trans": {"SC":"仅仅是触碰这种未知物质，你便感到自己的思绪逐渐被黑暗侵蚀。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1648819300",
+      "Source": "Troll Snot",
+      "Trans": {"SC":"巨魔鼻涕","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::75585123",
+      "Source": "It is what you think it is. It feels weird to carry this around with you, right?",
+      "Trans": {"SC":"没错，就是你想的那样。带着这东西到处走，感觉很奇怪吧？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::829537450",
+      "Source": "Diamond",
+      "Trans": {"SC":"钻石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::992337799",
+      "Source": "An mighty crystal used by the dwarves to power Boss fight gems.",
+      "Trans": {"SC":"矮人们用来为 Boss 战宝石提供能量的一块巨大水晶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::292113460",
+      "Source": "Energy Crystal",
+      "Trans": {"SC":"能量水晶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::861944306",
+      "Source": "An rare Crystal used by the dwarves to power their mighty forges.",
+      "Trans": {"SC":"矮人们用于驱动其强大熔炉的稀有水晶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3292921977",
+      "Source": "Obsidian Flux",
+      "Trans": {"SC":"黑曜岩熔剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::335887969",
+      "Source": "A flux made from obsidian sand",
+      "Trans": {"SC":"一种由黑曜岩砂制成的熔剂。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1811450019",
+      "Source": "Gold Ingot",
+      "Trans": {"SC":"金锭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::40200191",
+      "Source": "Created by refining pure gold ore in a Dwarven Forge.",
+      "Trans": {"SC":"通过在矮人锻造炉中精炼纯金矿而制成。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2229745209",
+      "Source": "Mithril Alloy",
+      "Trans": {"SC":"秘银合金","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::941639199",
+      "Source": "A very valuable Mithril Alloy",
+      "Trans": {"SC":"一种非常珍贵的秘银合金","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::493140283",
+      "Source": "Mithril Ingot",
+      "Trans": {"SC":"秘银锭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::771883001",
+      "Source": "A rare mythical Mithril Ingot",
+      "Trans": {"SC":"一块稀有的、具有神秘色彩的秘银锭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1605232318",
+      "Source": "Mithril Ore",
+      "Trans": {"SC":"秘银矿石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::682079513",
+      "Source": "A lump of unrefined Mithril ore. Can be only refined in a Dwarven Forge.",
+      "Trans": {"SC":"一块未经提炼的秘银矿石。只能在矮人锻造炉中进行提炼。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::288839034",
+      "Source": "Pure Gold Ore",
+      "Trans": {"SC":"纯金矿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1186602382",
+      "Source": "A lump of unrefined pure gold ore, gathered from gold nodes. Can be refined in a Forge into Metal Ingots. Use the ancient dwarven forges on Svartalfheim to refine it into Gold Ingots.",
+      "Trans": {"SC":"一块从金矿脉采集来的未经提炼的纯金矿。可以在锻造炉中被提炼成金属锭。使用矮人国度Svartalfheim上古老的矮人锻造炉可将其提炼成金锭。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3306771445",
+      "Source": "Thurduars Bane",
+      "Trans": {"SC":"灾厄之主·瑟杜尔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3482872232",
+      "Source": "Cave Troll",
+      "Trans": {"SC":"洞穴巨魔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3834585625",
+      "Source": "Nameless Creature",
+      "Trans": {"SC":"无名生物","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::217993590",
+      "Source": "Berserk Cave Troll",
+      "Trans": {"SC":"狂暴洞穴巨魔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::89276695",
+      "Source": "Dwarven Archer",
+      "Trans": {"SC":"矮人弓箭手","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4242679483",
+      "Source": "Dwarven Berserk",
+      "Trans": {"SC":"矮人狂战士","JA":"矮人狂戰士"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1332896788",
+      "Source": "Dwarven Guardian",
+      "Trans": {"SC":"矮人守护者","JA":"矮人守護者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1808487007",
+      "Source": "Dwarven Pack Leader",
+      "Trans": {"SC":"矮人兽群Boss","JA":"矮人獸群首領"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3893657762",
+      "Source": "Dwarven Warrior",
+      "Trans": {"SC":"矮人战士","JA":"矮人戰士"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2893272129",
+      "Source": "Berserk Carcharodontosaurus",
+      "Trans": {"SC":"狂暴鲨齿龙","JA":"狂暴鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::145413418",
+      "Source": "Minion Rex",
+      "Trans": {"SC":"M-霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2870959091",
+      "Source": "Berserk Carnotaurus",
+      "Trans": {"SC":"狂暴食肉牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1446147527",
+      "Source": "Berserk Mosasaur",
+      "Trans": {"SC":"狂暴沧龙","JA":"狂暴滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1814516412",
+      "Source": "Berserk Otter",
+      "Trans": {"SC":"狂暴水獭","JA":"狂暴水獺"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1813260750",
+      "Source": "Berserk Raptor",
+      "Trans": {"SC":"狂暴迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::855652903",
+      "Source": "Berserk T-Rex",
+      "Trans": {"SC":"狂暴霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::997440741",
+      "Source": "Berserk Therizinosaur",
+      "Trans": {"SC":"狂暴镰刀龙","JA":"狂暴鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2581671821",
+      "Source": "Berserk Thylacoleo",
+      "Trans": {"SC":"狂暴袋狮","JA":"狂暴袋獅"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::874260103",
+      "Source": "Aggressive Otter",
+      "Trans": {"SC":"凶恶水獭","JA":"凶恶水獺"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1753065009",
+      "Source": "Golden Coast",
+      "Trans": {"SC":"黄金海岸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2589276025",
+      "Source": "S-Allosaurus",
+      "Trans": {"SC":"S-异特龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1306966032",
+      "Source": "S-Ankylosaurus",
+      "Trans": {"SC":"S-甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::940114262",
+      "Source": "S-Basilosaurus",
+      "Trans": {"SC":"S-龙王鲸","JA":"S-龙王鯨"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4173487280",
+      "Source": "S-Giant Queen Bee",
+      "Trans": {"SC":"S-巨型女王蜂","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3348292776",
+      "Source": "S-Carcharodontosaurus",
+      "Trans": {"SC":"S-鲨齿龙","JA":"S-鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4257392048",
+      "Source": "S-Daeodon",
+      "Trans": {"SC":"S-凶齿豨","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2401103144",
+      "Source": "S-Deinonychus",
+      "Trans": {"SC":"S-恐爪龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::426666040",
+      "Source": "S-Deinosuchus",
+      "Trans": {"SC":"S-恐鳄","JA":"S-恐鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1949443685",
+      "Source": "S-Dire Bear",
+      "Trans": {"SC":"S-恐熊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::576502318",
+      "Source": "S-Doedicurus",
+      "Trans": {"SC":"S-星尾兽","JA":"S-星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4071600615",
+      "Source": "S-Fasolasuchus",
+      "Trans": {"SC":"S-法索拉鳄","JA":"S-法索拉鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3373593945",
+      "Source": "S-Fenrir",
+      "Trans": {"SC":"S-芬里尔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1273061230",
+      "Source": "S-Maewing",
+      "Trans": {"SC":"S-鸭嘴飞鼠","JA":"S-鴨嘴飞鼠"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1516980499",
+      "Source": "S-Mantis",
+      "Trans": {"SC":"S-螳螂","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1116010340",
+      "Source": "S-Megalosaurus",
+      "Trans": {"SC":"S-巨齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::445390889",
+      "Source": "S-Mosasaurus",
+      "Trans": {"SC":"S-沧龙","JA":"S-滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::204966920",
+      "Source": "S-Otter",
+      "Trans": {"SC":"S-水獭","JA":"S-水獺"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1041346324",
+      "Source": "S-Plesiosaur",
+      "Trans": {"SC":"S-蛇颈龙","JA":"S-蛇頸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3596381041",
+      "Source": "S-Reaper Queen",
+      "Trans": {"SC":"S-死神女王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2639945738",
+      "Source": "S-Reaper King",
+      "Trans": {"SC":"S-死神国王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2381776495",
+      "Source": "S-Rex",
+      "Trans": {"SC":"S-霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3613093331",
+      "Source": "S-Rock Drake",
+      "Trans": {"SC":"S-岩龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4085177535",
+      "Source": "S-Snow Owl",
+      "Trans": {"SC":"S-雪鸮","JA":"S-雪鴞"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2253924679",
+      "Source": "S-Spino",
+      "Trans": {"SC":"S-棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4183657498",
+      "Source": "S-Therizinosaur",
+      "Trans": {"SC":"S-镰刀龙","JA":"S-鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1269263652",
+      "Source": "S-Thylacoleo",
+      "Trans": {"SC":"S-袋狮","JA":"S-袋獅"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3180079407",
+      "Source": "S-Triceratops",
+      "Trans": {"SC":"S-三角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3859147875",
+      "Source": "S-Unicorn",
+      "Trans": {"SC":"S-独角兽","JA":"S-独角獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2763074333",
+      "Source": "S-Velonasaur",
+      "Trans": {"SC":"S-刺面龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2996710323",
+      "Source": "S-Fire Wyvern",
+      "Trans": {"SC":"S-火焰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2299882141",
+      "Source": "S-Lightning Wyvern",
+      "Trans": {"SC":"S-闪电飞龙","JA":"S-閃電飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2743955990",
+      "Source": "S-Poison Wyvern",
+      "Trans": {"SC":"S-剧毒飞龙","JA":"S-劇毒飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3098179179",
+      "Source": "Fertilized S-Allosaurus Egg",
+      "Trans": {"SC":"受精的S-异特龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1691211711",
+      "Source": "Fertilized S-Ankylo Egg",
+      "Trans": {"SC":"受精的S-甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2460252408",
+      "Source": "Fertilized S-Carcharodontosaurus Egg",
+      "Trans": {"SC":"受精的S-鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2169938183",
+      "Source": "Fertilized S-Deinonychus Egg",
+      "Trans": {"SC":"受精的S-恐爪龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::955718439",
+      "Source": "Fertilized S-Deinosuchus Egg",
+      "Trans": {"SC":"受精的S-恐鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3679330749",
+      "Source": "Fertilized S-Fasolasuchus Egg",
+      "Trans": {"SC":"受精的S-法索拉鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4007418402",
+      "Source": "Fenrir Frozen Fur Armor",
+      "Trans": {"SC":"芬里尔冰封护甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1406304789",
+      "Source": "S-Maewing Saddle",
+      "Trans": {"SC":"S-鸭嘴飞鼠鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::344795446",
+      "Source": "Equip a S-Maewing with this to ride it.",
+      "Trans": {"SC":"装备到S-鸭嘴飞鼠以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::987864786",
+      "Source": "Superior Fertilized S-Maewing Egg",
+      "Trans": {"SC":"受精的上等S-鸭嘴飞鼠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4112605584",
+      "Source": "Regular Fertilized S-Maewing Egg",
+      "Trans": {"SC":"受精的普通S-鸭嘴飞鼠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3180600684",
+      "Source": "Simple Fertilized S-Maewing Egg",
+      "Trans": {"SC":"受精的简易S-鸭嘴飞鼠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2348147344",
+      "Source": "Extraordinary Fertilized S-Maewing Egg",
+      "Trans": {"SC":"受精的非凡S-鸭嘴飞鼠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::565737756",
+      "Source": "Basic Fertilized S-Maewing Egg",
+      "Trans": {"SC":"受精的基础S-鸭嘴飞鼠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3009483887",
+      "Source": "Fertilized S-Mantis Egg",
+      "Trans": {"SC":"受精的S-螳螂蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1664441401",
+      "Source": "Fertilized S-Megalosaurus Egg",
+      "Trans": {"SC":"受精的S-巨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3233978977",
+      "Source": "Fertilized S-Rex Egg",
+      "Trans": {"SC":"受精的S-霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3749144511",
+      "Source": "Fertilized S-Rock Drake Egg",
+      "Trans": {"SC":"受精的S-岩龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3134452531",
+      "Source": "Fertilized S-Snow Owl Egg",
+      "Trans": {"SC":"受精的S-雪鸮蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3341468149",
+      "Source": "Fertilized S-Spino Egg",
+      "Trans": {"SC":"受精的S-棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4237347011",
+      "Source": "Fertilized S-Therizino Egg",
+      "Trans": {"SC":"受精的S-镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::476689615",
+      "Source": "Fertilized S-Trike Egg",
+      "Trans": {"SC":"受精的S-三角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3218116495",
+      "Source": "Fertilized S-Velonasaur Egg",
+      "Trans": {"SC":"受精的S-刺面龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2023113100",
+      "Source": "Fertilized S-Fire Wyvern Egg",
+      "Trans": {"SC":"受精的S-火焰飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::458613262",
+      "Source": "Fertilized S-Lightning Wyvern Egg",
+      "Trans": {"SC":"受精的S-闪电飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::867212071",
+      "Source": "Fertilized S-Poison Wyvern Egg",
+      "Trans": {"SC":"受精的S-剧毒飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1811231544",
+      "Source": "Svartalfheim Dwarven Boots",
+      "Trans": {"SC":"矮人战靴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::717352968",
+      "Source": "You can use this to skin the appearance of boots. Provides a ferocious look! Made by Hadi!",
+      "Trans": {"SC":"你可以用这个来给靴子换肤。能打造出一种凶猛的外观！由Hadi制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1326751069",
+      "Source": "Svartalfheim Dwarven Gauntlets",
+      "Trans": {"SC":"矮人护手","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2923991215",
+      "Source": "You can use this to skin the appearance of gloves. Provides a ferocious look! Made by Hadi!",
+      "Trans": {"SC":"你可以用这个来给手套换肤。能营造出一种凶悍的外观！由Hadi制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3112535472",
+      "Source": "Svartalfheim Dwarven Leggings",
+      "Trans": {"SC":"矮人护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1761897250",
+      "Source": "You can use this to skin the appearance of leggings or pants. Provides a ferocious look! Made by Hadi!",
+      "Trans": {"SC":"你可以用这个来给护腿或裤子换肤。能打造出一种凶猛的外观！由Hadi制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1871905479",
+      "Source": "Svartalfheim Dwarven Chestpiece",
+      "Trans": {"SC":"矮人胸甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::182636198",
+      "Source": "You can use this to skin the appearance of a shirt or chestpiece. Provides a ferocious look! Made by Hadi!",
+      "Trans": {"SC":"你可以用这个来给衬衫或胸甲换肤。能营造出一种凶猛的外观！由Hadi制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::514864396",
+      "Source": "Exceptional Fertilized S-Maewing Egg",
+      "Trans": {"SC":"受精的卓越S-鸭嘴飞鼠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::806321525",
+      "Source": "Berserk Triceratops",
+      "Trans": {"SC":"狂暴三角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3584551456",
+      "Source": "S-Pyromane",
+      "Trans": {"SC":"S-炽炎猫","JA":"S-熾炎猫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3943496994",
+      "Source": "S-Dreadmare",
+      "Trans": {"SC":"S-梦魇马","JA":"S-夢魘马"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2360440278",
+      "Source": "S-Ceratosaurus",
+      "Trans": {"SC":"S-角鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3835198786",
+      "Source": "S-Dunkleosteus",
+      "Trans": {"SC":"S-邓氏鱼","JA":"S-鄧氏鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1957969499",
+      "Source": "S-Maeguana",
+      "Trans": {"SC":"S-风行蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::438057445",
+      "Source": "S-Megalodon",
+      "Trans": {"SC":"S-巨齿鲨","JA":"S-巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1494634149",
+      "Source": "S-Shinehorn",
+      "Trans": {"SC":"S-闪角鹿","JA":"S-閃角鹿"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1728381618",
+      "Source": "Fertilized S-Ceratosaurus Egg",
+      "Trans": {"SC":"受精的角鼻龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2928214302",
+      "Source": "Superior Fertilized S-Maeguana Egg",
+      "Trans": {"SC":"受精的上等S-风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3777867050",
+      "Source": "Regular Fertilized S-Maeguana Egg",
+      "Trans": {"SC":"受精的普通S-风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2445477470",
+      "Source": "Simple Fertilized S-Maeguana Egg",
+      "Trans": {"SC":"受精的简易S-风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1354192083",
+      "Source": "Extraordinary Fertilized S-Maeguana Egg",
+      "Trans": {"SC":"受精的非凡S-风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::579663345",
+      "Source": "Exceptional Fertilized S-Maeguana Egg",
+      "Trans": {"SC":"受精的卓越S-风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1974104575",
+      "Source": "Basic Fertilized S-Maeguana Egg",
+      "Trans": {"SC":"受精的基础S-风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::996397092",
+      "Source": "Cursed Pegasus Kibble",
+      "Trans": {"SC":"被诅咒的天马饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1554078174",
+      "Source": "Eating raw food will sate hunger, but is unhealthy for humans.  This excellent cut spoils very quickly. S-Pegasus will love this meat.<#RN#><#RN#>Can be crafted in player inventory.",
+      "Trans": {"SC":"食用生食能充饥，但对人类而言不健康。这块上等肉排极易变质。S-梦魇马会喜欢这种肉。<cf><cf>可在玩家物品栏中制作。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4235251887",
+      "Source": "S-Griffin",
+      "Trans": {"SC":"S-狮鹫","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2730005585",
+      "Source": "Svartalfheim Mammoth Saddle",
+      "Trans": {"SC":"矮人猛犸象鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3883350168",
+      "Source": "Use this on a Mammoth saddle to ride in armored style. Made by Snevs!",
+      "Trans": {"SC":"将此用于猛犸象鞍具，即可身着装甲风格骑行。由Snevs制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::999212484",
+      "Source": "Svartalfheim Dwarven Helmet",
+      "Trans": {"SC":"矮人头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::917239392",
+      "Source": "You can use this to skin the appearance of a helmet or hat. Provides a ferocious look! Made by Hadi!",
+      "Trans": {"SC":"你可以用这个来给头盔或帽子换肤。能营造出一种凶猛的外观！由Hadi制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::543134814",
+      "Source": "Svartalfheim Thylacoleo Saddle",
+      "Trans": {"SC":"矮人袋狮鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1454442143",
+      "Source": "Use this on a Thylacoleo saddle to ride in armoed style. Made by Snevs!",
+      "Trans": {"SC":"将此用于袋狮鞍具，即可身着装甲风格骑行。由Snevs制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2703211073",
+      "Source": "Dwarven Behemoth Cellar Door",
+      "Trans": {"SC":"矮人巨型天窗门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4283361262",
+      "Source": "S-Griffin Saddle",
+      "Trans": {"SC":"S-狮鹫鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1704241283",
+      "Source": "Equip a S-Griffin with this to ride it.",
+      "Trans": {"SC":"装备到S-狮鹫以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2836554412",
+      "Source": "S-Ice Wyvern",
+      "Trans": {"SC":"S-寒冰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1320118345",
+      "Source": "Fertilized S-Griffin Egg",
+      "Trans": {"SC":"受精的S-狮鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1840395932",
+      "Source": "Fertilized Ice S-Wyvern Egg",
+      "Trans": {"SC":"受精的S-寒冰飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::758341637",
+      "Source": "Dwarven Ceiling & Hatchframe",
+      "Trans": {"SC":"矮人天花板&天窗框","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2740361592",
+      "Source": "A stable Dwarven ceiling that provides insulation, and doubles as a floor for higher levels.",
+      "Trans": {"SC":"一种稳固的矮人天花板，具有隔热功能，同时可作为上层结构的地板。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1673687711",
+      "Source": "Dwarven Large Cellar Door",
+      "Trans": {"SC":"矮人大型天窗门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3377037513",
+      "Source": "Dwarven Quarter & Triangle Ceiling",
+      "Trans": {"SC":"矮人小天花板&三角天花板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4083435347",
+      "Source": "Dwarven Door",
+      "Trans": {"SC":"矮人门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1353505854",
+      "Source": "A stable Dwarven door that provides entance to structures. Can be locked for security.",
+      "Trans": {"SC":"一种稳固的矮人门，用于进入建筑内部。可锁定以保障安全。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1789743711",
+      "Source": "Dwarven Foundation",
+      "Trans": {"SC":"矮人地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2534727922",
+      "Source": "A foundation is required to build structures in an area.  This one is made from sturdy dwarven rocks.",
+      "Trans": {"SC":"在某一区域建造建筑需要地基。这种地基由坚固的矮人岩石制成。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1631191599",
+      "Source": "Dwarven Triangle Foundation",
+      "Trans": {"SC":"矮人三角地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4230167984",
+      "Source": "Dwarven Behemoth Gate",
+      "Trans": {"SC":"矮人巨兽门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2940788063",
+      "Source": "A large Dwarven gate that can be used with a Behemoth Gateway to allow even the largest creatures in or out.",
+      "Trans": {"SC":"一种大型矮人门，可与巨兽门框配合使用，让体型最大的生物也能进出。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1259643293",
+      "Source": "Dwarven Gateway",
+      "Trans": {"SC":"矮人门框","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3628313076",
+      "Source": "A large Dwarven gateway that can be used with a Gate to keep most dinosaurs in or out.",
+      "Trans": {"SC":"一种大型矮人门框，可与大门配合使用，限制大多数恐龙的进出。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1657353861",
+      "Source": "Dwarven Behemoth Gateway",
+      "Trans": {"SC":"矮人巨兽门框","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3557198087",
+      "Source": "A large Dwarven gateway, reinforced with obsidian polymer, that can be used with a Behemoth Gate to allow even the largest creatures in or out.",
+      "Trans": {"SC":"一种大型矮人门框，用黑曜石聚合物加固，可与巨兽大门配合使用，让体型最大的生物也能进出。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3749864164",
+      "Source": "Dwarven Gate",
+      "Trans": {"SC":"矮人大型门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3648204639",
+      "Source": "A large Dwarven gate that can be used with a Gateway to most keep dinosaurs in or out.",
+      "Trans": {"SC":"一种大型矮人门，可与门框配合使用，限制大多数恐龙的进出。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3369487344",
+      "Source": "Dwarven Forge",
+      "Trans": {"SC":"矮人熔炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1916849759",
+      "Source": "Dwarven Guardian Boots",
+      "Trans": {"SC":"矮人守护靴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1869721607",
+      "Source": "Dwarven Crossbow",
+      "Trans": {"SC":"矮人十字弩","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::528570384",
+      "Source": "You can use this to skin the appearance of a crossbow to look like an berserk weapon! Made by Creep!",
+      "Trans": {"SC":"可用于改变十字弩的外观，使其看起来像一把狂战士武器！由 Creep 制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2144002624",
+      "Source": "Dwarven Daeodon Saddle",
+      "Trans": {"SC":"矮人凶齿豨鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::189987069",
+      "Source": "You can use this to skin the appearance of a daeodon saddle. Provides a ferocious look!",
+      "Trans": {"SC":"可用于改变凶齿豨鞍的外观，呈现出凶猛的风格！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4154812183",
+      "Source": "Dwarven Direbear Saddle",
+      "Trans": {"SC":"矮人恐熊鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3336092635",
+      "Source": "You can use this to skin the appearance of a direbear saddle. Provides a ferocious look and makes your direbear a mobile forge!",
+      "Trans": {"SC":"可用于改变恐熊鞍的外观，呈现出凶猛的风格，还能让你的恐熊变成移动熔炉！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2699942333",
+      "Source": "Dwarven Guardian Gauntlets",
+      "Trans": {"SC":"矮人守护手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1228491254",
+      "Source": "Dwarven Axe Skin",
+      "Trans": {"SC":"矮人斧头皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1544670003",
+      "Source": "You can use this to skin the appearance of a hatchet or sword to look like an berserk weapon! Made by Creep!",
+      "Trans": {"SC":"可用于改变斧头或剑的外观，使其看起来像一把狂战士武器！由 Creep 制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3719960768",
+      "Source": "Dwarven Guardian Helmet",
+      "Trans": {"SC":"矮人守护头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3483672075",
+      "Source": "Dwarven Guardian Leggings",
+      "Trans": {"SC":"矮人守护护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::304100265",
+      "Source": "Dwarven Pick Skin",
+      "Trans": {"SC":"矮人镐皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1445042996",
+      "Source": "You can use this to skin the appearance of a pick to look like an berserk weapon! Made by Creep!",
+      "Trans": {"SC":"可用于改变镐子的外观，使其看起来像一把狂战士武器！由 Creep 制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3707366380",
+      "Source": "Dwarven Longneck",
+      "Trans": {"SC":"矮人长管步枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1311951807",
+      "Source": "You can use this to skin the appearance of a longneck to look like an berserk weapon! Does only work without scope and silcencer! Made by Creep!",
+      "Trans": {"SC":"可用于改变长管步枪的外观，使其看起来像一把狂战士武器！仅在无瞄准镜和消音器时有效！由 Creep 制作！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::351293844",
+      "Source": "Dwarven Shield",
+      "Trans": {"SC":"矮人盾牌","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3804063899",
+      "Source": "You can use this to skin the appearance of a shield. Brought back from the deepest dwarven mines!",
+      "Trans": {"SC":"可用于改变盾牌的外观。从最深的矮人矿井中带回的物品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1001702398",
+      "Source": "Dwarven Guardian Chestpiece",
+      "Trans": {"SC":"矮人守护胸甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1788981998",
+      "Source": "You can use this to skin the appearance of a shirt or chestpiece. Provides a ferocious look! Does have a cape.",
+      "Trans": {"SC":"可用于改变衬衫或胸甲的外观，呈现出凶猛的风格！带有披风。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::537803247",
+      "Source": "Dwarven Pillar",
+      "Trans": {"SC":"矮人支柱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1536267098",
+      "Source": "This Dwarven pillar adds structural integrity to the area it is build under.  Can also act as stilts for buildings on inclines.",
+      "Trans": {"SC":"这种矮人支柱能增强其下方区域建筑的结构稳定性。也可作为斜坡上建筑的支架。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1102884785",
+      "Source": "Dwarven Quarter Wall & Railing",
+      "Trans": {"SC":"矮人小型墙&栏杆","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2324025612",
+      "Source": "A Dwarven railing that acts as a simple barrier to prevent people from falling.",
+      "Trans": {"SC":"一种矮人栏杆，用作简单的屏障，防止人员坠落。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3672482219",
+      "Source": "Dwarven Triangle Roof & Corner",
+      "Trans": {"SC":"矮人三角屋顶&直角三角屋顶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1488242944",
+      "Source": "A sloped Dwarven triangle roof.",
+      "Trans": {"SC":"一种倾斜的矮人三角形屋顶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1251927814",
+      "Source": "Dwarven Roof, Ramp & Stairs",
+      "Trans": {"SC":"矮人屋顶，斜坡&楼梯","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2260140250",
+      "Source": "Dwarven roof, ramp & stairs for travelling up or down levels.",
+      "Trans": {"SC":"用于在不同楼层间上下通行的矮人屋顶、斜坡与楼梯。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::417772771",
+      "Source": "Dwarven Statue",
+      "Trans": {"SC":"矮人雕像","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2847340831",
+      "Source": "This Dwarven Statue makes every base more dwarf'ish!",
+      "Trans": {"SC":"这座矮人雕像能让每个基地更具矮人风格！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::995776596",
+      "Source": "Dwarven Builders Structures",
+      "Trans": {"SC":"矮人工匠建筑套件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3577369327",
+      "Source": "You can use this to skin the appearance of many structures in a Dwarven-style. Does not contain all available structure tier variants.",
+      "Trans": {"SC":"可用于将许多建筑的外观改为矮人风格。不包含所有可用的建筑等级变体。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1014776156",
+      "Source": "Dwarven Wall, Doorways & Windowframe",
+      "Trans": {"SC":"矮人墙，暗门&窗框","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3071922273",
+      "Source": "A dwarven wall that insulates the inside from the outside and separates rooms.",
+      "Trans": {"SC":"一种矮人墙壁，能隔绝室内外环境，分隔房间。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2729471313",
+      "Source": "Dwarven Sloped Wall",
+      "Trans": {"SC":"矮人斜墙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::226284454",
+      "Source": "A sturdy Dwarven sloped wall that insulates the inside from the outside, separates rooms, and provides structural integrity. Used in conjunction with the roof.",
+      "Trans": {"SC":"一种坚固的矮人斜墙，能隔绝室内外环境、分隔房间并增强结构稳定性。与屋顶配合使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1426995379",
+      "Source": "Dwarven Large Wall",
+      "Trans": {"SC":"矮人高墙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1820517803",
+      "Source": "Dwarven Workbench",
+      "Trans": {"SC":"矮人工坊","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::757048312",
+      "Source": "Place materials along with blueprints in this to create certain advanced dwarven items.",
+      "Trans": {"SC":"在此处放入材料和蓝图，可制作某些高级矮人物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1166326583",
+      "Source": "Dwarven Guardian Chestpiece",
+      "Trans": {"SC":"矮人守护胸甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2869766373",
+      "Source": "You can use this to skin the appearance of a shirt or chestpiece. Provides a ferocious look! Does not have a cape.",
+      "Trans": {"SC":"可用于改变衬衫或胸甲的外观。能呈现出凶猛的风格！不带披风。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2022576764",
+      "Source": "Dwarven Quarter Ceiling",
+      "Trans": {"SC":"矮人小天花板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4238556948",
+      "Source": "Dwarven Triangle Ceiling",
+      "Trans": {"SC":"矮人三角天花板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2868759011",
+      "Source": "Dwarven Roof Corner",
+      "Trans": {"SC":"矮人直角三角屋顶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3015955440",
+      "Source": "Dwarven Triangle Roof",
+      "Trans": {"SC":"矮人三角屋顶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2664340502",
+      "Source": "Dwarven Wall Clean",
+      "Trans": {"SC":"矮人墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2735042705",
+      "Source": "Dwarven Short Doorway",
+      "Trans": {"SC":"矮人短门框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3801104098",
+      "Source": "Dwarven Doorway",
+      "Trans": {"SC":"矮人大型门框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1477326748",
+      "Source": "Dwarven Double Doorway",
+      "Trans": {"SC":"矮人双开门框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2781297104",
+      "Source": "Dwarven Window Wall",
+      "Trans": {"SC":"矮人窗框墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2945966432",
+      "Source": "Dwarven Secret Doorway",
+      "Trans": {"SC":"矮人暗门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::602301442",
+      "Source": "Dwarven Ceiling",
+      "Trans": {"SC":"矮人天花板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2636548957",
+      "Source": "Dwarven Hatchframe",
+      "Trans": {"SC":"矮人天窗框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2191945287",
+      "Source": "Dwarven Cellar Door",
+      "Trans": {"SC":"矮人天窗门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1099032862",
+      "Source": "Dwarven Double Door",
+      "Trans": {"SC":"矮人门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2540562125",
+      "Source": "Dwarven Gateway Small",
+      "Trans": {"SC":"矮人门框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3491594995",
+      "Source": "Dwarven Gateway Small Wide",
+      "Trans": {"SC":"矮人双开门框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2130067041",
+      "Source": "Dwarven Gateway Medium",
+      "Trans": {"SC":"矮人高门框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1743766255",
+      "Source": "Dwarven Pillar Big",
+      "Trans": {"SC":"矮人大型支柱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1965416692",
+      "Source": "Dwarven Beam Big",
+      "Trans": {"SC":"矮人大型横梁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3762937927",
+      "Source": "Dwarven Pillar Small",
+      "Trans": {"SC":"矮人小型支柱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::870915263",
+      "Source": "Dwarven Beam Small",
+      "Trans": {"SC":"矮人小型横梁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2410834683",
+      "Source": "Dwarven Half Wall",
+      "Trans": {"SC":"矮人半墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1342887568",
+      "Source": "Dwarven Railing",
+      "Trans": {"SC":"矮人栏杆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::184296216",
+      "Source": "Dwarven Quarter Wall",
+      "Trans": {"SC":"矮人小型墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1699704491",
+      "Source": "Dwarven Pitched Wall",
+      "Trans": {"SC":"矮人三角墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2578043105",
+      "Source": "Dwarven Roof",
+      "Trans": {"SC":"矮人屋顶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1204751553",
+      "Source": "Dwarven Ramp",
+      "Trans": {"SC":"矮人斜坡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4125514155",
+      "Source": "Dwarven Stairs",
+      "Trans": {"SC":"矮人楼梯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3962061184",
+      "Source": "Dwarven Staircase",
+      "Trans": {"SC":"矮人旋转楼梯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1265082106",
+      "Source": "Dwarven Roof Overhang",
+      "Trans": {"SC":"矮人屋顶悬挑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2493598624",
+      "Source": "Dwarven Roof Pitched",
+      "Trans": {"SC":"矮人斜屋顶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2940090961",
+      "Source": "Dwarven Sloped Wall Left",
+      "Trans": {"SC":"矮人左斜墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::106265801",
+      "Source": "Dwarven Workstation",
+      "Trans": {"SC":"矮人工坊","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1168984685",
+      "Source": "Dwarven Gate Wide",
+      "Trans": {"SC":"矮人双开门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3297041502",
+      "Source": "Dwarven Gate Tall",
+      "Trans": {"SC":"矮人高门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::97568492",
+      "Source": "Dwarven Builders Industrial Forge",
+      "Trans": {"SC":"矮人工匠工业熔炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2554292891",
+      "Source": "You can use this to skin the appearance of a industrial forge in a dwarven-style. Made for Svartalfheim map but can be used on any map.",
+      "Trans": {"SC":"你可以用它将工业熔炉的外观改为矮人风格。专为矮人国度地图设计，但也可在任何地图上使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1139195711",
+      "Source": "Dwarven Builders Variant 1",
+      "Trans": {"SC":"矮人工匠变体 1","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::473604913",
+      "Source": "You can use this to skin the appearance of many structures in a dwarven-style. Made for Svartalfheim map but can be used on any map. <#RN#><#RN#>This is Variant 1 of 2. Use the other Variant Skin Items to have more variety.",
+      "Trans": {"SC":"你可以用它将许多建筑的外观改为矮人风格。专为矮人国度地图设计，但也可在任何地图上使用。<#RN#><#RN#>这是 2 种变体中的第 1 种。使用其他变体皮肤物品可获得更多样式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2096193450",
+      "Source": "S-Rhyniognatha",
+      "Trans": {"SC":"S-莱尼颚虫","JA":"S-莱尼顎虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3570800318",
+      "Source": "S-Cat",
+      "Trans": {"SC":"S-猫","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3068730872",
+      "Source": "S-Megaraptor",
+      "Trans": {"SC":"S-大盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2836936521",
+      "Source": "S-Desmodus",
+      "Trans": {"SC":"S-吸血蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::700108569",
+      "Source": "S-Andrewsarchus",
+      "Trans": {"SC":"S-安氏兽","JA":"S-安氏獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1577783346",
+      "Source": "S-Direwolf",
+      "Trans": {"SC":"S-恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3287726045",
+      "Source": "S-Direwolf Saddle",
+      "Trans": {"SC":"S-恐狼鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2170687704",
+      "Source": "Equip a S-Direwolf with this to ride it.",
+      "Trans": {"SC":"装备到S-恐狼上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2388754931",
+      "Source": "Fertilized S-Megaraptor Egg",
+      "Trans": {"SC":"受精的S-大盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3237005319",
+      "Source": "S-Reaper Gestation",
+      "Trans": {"SC":"S-死神孕育","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2014926399",
+      "Source": "Is Hungering",
+      "Trans": {"SC":"饥饿中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3339217264",
+      "Source": "Svartalfheim Tek Terminal",
+      "Trans": {"SC":"矮人国度泰克终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::491663185",
+      "Source": "Brazier",
+      "Trans": {"SC":"火盆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3929417699",
+      "Source": "Throne",
+      "Trans": {"SC":"王座","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2951733337",
+      "Source": "Cursed!",
+      "Trans": {"SC":"诅咒！","JA":"詛咒！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2460058533",
+      "Source": "You're cursed! 5% of your Health will be drained and you are feeling exhausted!",
+      "Trans": {"SC":"你被诅咒了！你的生命值将流失5%，并且你感到疲惫不堪！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3148689712",
+      "Source": "Svartalfheim ",
+      "Trans": {"SC":"矮人国度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2142882116",
+      "Source": "This map is work in progress. Bug reports via Discord or Steam!",
+      "Trans": {"SC":"此地图仍在开发中。请通过Discord或Steam提交bug报告！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2969611990",
+      "Source": "Delta",
+      "Trans": {"SC":"增幅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3891833392",
+      "Source": "Svartalfheim Statue",
+      "Trans": {"SC":"矮人国度雕像","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2650926103",
+      "Source": "Svartalfheim Statues",
+      "Trans": {"SC":"矮人雕像","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2095373467",
+      "Source": "You can use this to skin the appearance of decor boxes to Svartalfheim Statue. Made for Svartalfheim map but can be used on any map. ",
+      "Trans": {"SC":"你可以用这个将装饰箱的外观换肤为Svartalfheim雕像。专为Svartalfheim地图制作，但可用于任何地图。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3377313492",
+      "Source": "Dwarven Reinforced Short Door",
+      "Trans": {"SC":"矮人加固短门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3958585710",
+      "Source": "Dwarven Wall",
+      "Trans": {"SC":"矮人墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3045841000",
+      "Source": "Dwarven Trapdoor",
+      "Trans": {"SC":"矮人天窗门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3837324348",
+      "Source": "Dwarven Reinforced Window With Glass",
+      "Trans": {"SC":"矮人加固温室窗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

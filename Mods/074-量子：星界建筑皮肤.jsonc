@@ -1,0 +1,208 @@
+{
+  "Skin_Astral_Structures": [
+    {
+      "NamespaceHash": "Content::1439158003",
+      "Source": "Modern Furniture",
+      "Trans": {"SC":"现代家具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1189967888",
+      "Source": "Astral Furniture White",
+      "Trans": {"SC":"星界白色家具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1949331772",
+      "Source": "Astral A",
+      "Trans": {"SC":"星界A","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1720049362",
+      "Source": "Astral B",
+      "Trans": {"SC":"星界B","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::521130400",
+      "Source": "Astral 1",
+      "Trans": {"SC":"星界1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::230325838",
+      "Source": "Astral 2",
+      "Trans": {"SC":"星界2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3037075755",
+      "Source": "Astral 3",
+      "Trans": {"SC":"星界3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::684794258",
+      "Source": "Astral 4",
+      "Trans": {"SC":"星界4","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2423080695",
+      "Source": "Astral 5",
+      "Trans": {"SC":"星界5","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1361358860",
+      "Source": "Nova",
+      "Trans": {"SC":"诺瓦","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::685930145",
+      "Source": "Nova 2",
+      "Trans": {"SC":"诺瓦2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::357157852",
+      "Source": "Hazard Decals",
+      "Trans": {"SC":"危险贴纸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1532059778",
+      "Source": "Modern Matte White Structures",
+      "Trans": {"SC":"现代哑光白色建筑结构","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1895017357",
+      "Source": "Glider Suit Skin",
+      "Trans": {"SC":"滑翔服皮肤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3966895702",
+      "Source": "Accent Walls and Ceiling A",
+      "Trans": {"SC":"装饰墙与天花板A","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4274497976",
+      "Source": "Accent Walls and Ceiling B",
+      "Trans": {"SC":"装饰墙与天花板B","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::905270242",
+      "Source": "Astral Glass 2",
+      "Trans": {"SC":"星界玻璃2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1796432998",
+      "Source": "Astral White",
+      "Trans": {"SC":"星界白色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1997972211",
+      "Source": "Sandi Set",
+      "Trans": {"SC":"桑迪套装","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::643822688",
+      "Source": "Astral Glass",
+      "Trans": {"SC":"星界玻璃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1369052374",
+      "Source": "Astral Furniture",
+      "Trans": {"SC":"星界家具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2414155944",
+      "Source": "White Astral Furniture",
+      "Trans": {"SC":"白色星界家具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::978835791",
+      "Source": "Nova 1",
+      "Trans": {"SC":"诺瓦1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::318839492",
+      "Source": "Tek door and gate skins",
+      "Trans": {"SC":"泰克门与大门皮肤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3523301048",
+      "Source": "Hazardous Decals",
+      "Trans": {"SC":"危险贴纸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1884470768",
+      "Source": "MU_Template",
+      "Trans": {"SC":"MU模板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::907248289",
+      "Source": "When attached to a Boot, the Glider Suit enables sailing through the air by double-tapping jump, while gaining speed by running and diving!",
+      "Trans": {"SC":"当装配到靴子上时，滑翔服允许你通过双击跳跃键在空中滑翔，同时通过奔跑和俯冲来提升速度！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::333035028",
+      "Source": "You can use this to skin the appearance of many structures in a Futuristic-style.<#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用它将许多建筑外观替换为未来风格的皮肤。<#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到已换肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住Y、E或三角形键</>。点击<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3460888386",
+      "Source": "You can use this to skin the appearance of many structures in a Futuristic-style.<#RN#><#RN#>For large glass views skin wall, ceiling and ramps<#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用它将许多建筑外观替换为未来风格的皮肤。<#RN#><#RN#>如需大玻璃视野，请为墙壁、天花板和斜坡换肤<#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到已换肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住Y、E或三角形键</>。点击<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::754640001",
+      "Source": "You can use this to skin the appearance of <RichColor Color=\"0.8,0.5,0,1\">Crafting Stations and Furniture Pieces</>. <RichColor Color=\"0.2,0.8,0.2,1\">Adds different hanging wall decor</>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">Can also be placed on decor boxes to place  decor all over your  exteriors</>.<#RN#><#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.You can use this to skin the appearance of pillars and beams in a Modern-style.",
+      "Trans": {"SC":"你可以用它将<RichColor Color=\"0.8,0.5,0,1\">制作台和家具</>的外观替换为皮肤。<RichColor Color=\"0.2,0.8,0.2,1\">新增不同的壁挂装饰</>。<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">也可放置在装饰盒上，让装饰遍布你的建筑外部</>。<#RN#><#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到已换肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住Y、E或三角形键</>。点击<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。你还可以用它将支柱和横梁的外观替换为现代风格的皮肤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3004337081",
+      "Source": "You can use this to skin the appearance of many structures in a Futuristic-style.<#RN#>Create a cosmic glaxy.<#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用它将许多建筑外观替换为未来风格的皮肤。<#RN#>打造宇宙星系效果。<#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到已换肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住Y、E或三角形键</>。点击<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2326984502",
+      "Source": "You can use this to skin the appearance of many Tek doors, gates, cellar doors and garage doors in a Futuristic-style. It vanishes when you get near it replicating the effect tek doors offer. When placing step further back for visibility.<#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用它将许多泰克门、大门、地窖门和车库门的外观替换为未来风格的皮肤。当你靠近时它会消失，复制泰克门的效果。放置时请站远一点以确保可见度。<#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到已换肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住Y、E或三角形键</>。点击<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1857688716",
+      "Source": "You can use this to skin the appearance of <RichColor Color=\"0.8,0.5,0,1\">Wall signs</>. <RichColor Color=\"0.2,0.8,0.2,1\">Creates Graffiti designs with different images</>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">Can also be placed on decor boxes to place  decor all over your  exteriors</>.<#RN#><#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用它将<RichColor Color=\"0.8,0.5,0,1\">墙牌</>的外观替换为皮肤。<RichColor Color=\"0.2,0.8,0.2,1\">用不同图像创建涂鸦设计</>。<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">也可放置在装饰盒上，让装饰遍布你的建筑外部</>。<#RN#><#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到已换肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住Y、E或三角形键</>。点击<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2979764101",
+      "Source": "You can use this to skin the appearance of many structures in a Modern-style.<#RN#><#RN#>Most of the items in these skin mod have variants and scaling systems. To find this system simply walk up to the skinned item and Hold Y, E or triangle. Head over to the \"Cog\" icon to find the variants and skin system.",
+      "Trans": {"SC":"你可以用它将许多建筑外观替换为现代风格的皮肤。<#RN#><#RN#>这些皮肤模组中的大多数物品都有变体和缩放系统。要找到该系统，只需走到已换肤的物品旁，按住Y、E或三角形键。点击\"齿轮\"图标即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

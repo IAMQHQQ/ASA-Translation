@@ -1,0 +1,810 @@
+{
+  "BloodMoon": [//2025.12.02
+    {
+      "NamespaceHash": "Content::552213039",
+      "Source": "Zombie Infector Dart",
+      "Trans": {"SC":"僵尸感染飞镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2329901616",
+      "Source": "Adds Zombie Virus Stages",
+      "Trans": {"SC":"添加僵尸病毒阶段","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4071057174",
+      "Source": "Zombie Cure Dart",
+      "Trans": {"SC":"僵尸治愈飞镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2112660702",
+      "Source": "Cures Zombie Virus",
+      "Trans": {"SC":"治愈僵尸病毒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2934097696",
+      "Source": "Volitile Zombie Infector Dart",
+      "Trans": {"SC":"挥发性僵尸感染飞镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3968356321",
+      "Source": "Turns Target into Exploder Zombie",
+      "Trans": {"SC":"将目标转化为爆炸僵尸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1018677694",
+      "Source": "Radioactive Zombie Infector Dart",
+      "Trans": {"SC":"放射性僵尸感染飞镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2840604184",
+      "Source": "Turns Target into Irradiated Zombie",
+      "Trans": {"SC":"将目标转化为受辐照僵尸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3716988365",
+      "Source": "Unstable Zombie Infector Dart",
+      "Trans": {"SC":"不稳定僵尸感染飞镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1645065423",
+      "Source": "Turns Target into Splitter Zombie",
+      "Trans": {"SC":"将目标转化为分裂僵尸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2050809792",
+      "Source": "Rot-Blocker Serum",
+      "Trans": {"SC":"腐坏阻断血清","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4254584990",
+      "Source": "Barely holds the virus at bay. Might take several doses to slow the rot. Use recklessly, and the sickness will only grow stronger. Also cures lesser diseases.",
+      "Trans": {"SC":"勉强抑制病毒。可能需要多剂才能减缓腐坏。肆意使用的话，病情只会加重。也可治愈轻度疾病。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::904080846",
+      "Source": "Rot-Purging Serum",
+      "Trans": {"SC":"腐坏净化血清","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1952089545",
+      "Source": "Stronger than the weak stuff, this serum burns out the rot hiding beneath the skin. Powerful enough for most infections—but risk remains. Use care, or the virus fights back harder. Also cures lesser diseases.",
+      "Trans": {"SC":"比那些弱效的东西更强，这种血清能灼烧皮下隐藏的腐坏。足以应对大多数感染——但加特林仍在。小心使用，否则病毒会更猛烈地反扑。也可治愈轻度疾病。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2161894947",
+      "Source": "Panacea-Z610",
+      "Trans": {"SC":"万灵药-Z610","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1994713303",
+      "Source": "The holy grail of cures. Panacea-Z610 can drag a fully turned corpse back to the living, but the process is violent, unpredictable, and not always… complete. Handle with extreme care. Also cures lesser diseases.",
+      "Trans": {"SC":"治愈的圣杯。万灵药-Z610能将完全转化的尸体拉回生者之列，但过程剧烈、不可预测，且并不总是……完整。极度小心处理。也可治愈轻度疾病。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::453067593",
+      "Source": "Zombie Tumor",
+      "Trans": {"SC":"僵尸瘤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3497871633",
+      "Source": "Will infect you if consumed!",
+      "Trans": {"SC":"食用会感染你！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1523337049",
+      "Source": "Blood Moon:Contagion Mod Menu",
+      "Trans": {"SC":"血月：传染模组菜单","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3927642236",
+      "Source": "Optional way to open the Mod Menu",
+      "Trans": {"SC":"打开模组菜单的可选方式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3560102656",
+      "Source": "Zombie Immunity Remover",
+      "Trans": {"SC":"僵尸免疫力移除剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1610500936",
+      "Source": "Removes Immunity buff",
+      "Trans": {"SC":"移除免疫力增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2581754190",
+      "Source": "Volatile Zombie Tumor",
+      "Trans": {"SC":"挥发性僵尸肿瘤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1396724459",
+      "Source": "Very Potent and will infect you if consumed! ",
+      "Trans": {"SC":"效力极强，食用会感染你！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3323804352",
+      "Source": "Rot-Cleanse Vial",
+      "Trans": {"SC":"腐坏净化瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3273336473",
+      "Source": "A rare and powerful vial capable of stripping the rot from deep within the body. It’s the closest thing to a true cure—though even this miracle can backfire in careless hands. Also cures lesser diseases.",
+      "Trans": {"SC":"一种稀有且强大的瓶子，能清除体内深层的腐坏。这是最接近真正治愈的东西——尽管即使是这种奇迹在粗心的人手中也会适得其反。也可治愈轻度疾病。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3626235868",
+      "Source": "Radioactive Zombie Tumor",
+      "Trans": {"SC":"放射性僵尸瘤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2044789975",
+      "Source": "Very Potent and will infect you if consumed!",
+      "Trans": {"SC":"效力极强，食用会感染你！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::496021355",
+      "Source": "Animated Zombie Tumor",
+      "Trans": {"SC":"活动僵尸瘤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::273486975",
+      "Source": "It's still moving, reaching out in all directions. Very Potent and will infect you if consumed! ",
+      "Trans": {"SC":"它还在动，向各个方向伸展。效力极强，食用会感染你！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2744373930",
+      "Source": "Treatment Accelerator",
+      "Trans": {"SC":"治疗加速剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2721352626",
+      "Source": "Reduces treatment Time",
+      "Trans": {"SC":"减少治疗时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1434589971",
+      "Source": "Zombie Growth",
+      "Trans": {"SC":"僵尸生长物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3335006076",
+      "Source": "There appears to be something encased in this.",
+      "Trans": {"SC":"里面似乎封装着什么东西。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::58238193",
+      "Source": "Zombie Infection Stage 2",
+      "Trans": {"SC":"僵尸感染阶段2","JA":"僵尸感染階段2"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2226529476",
+      "Source": "Health,, Stamina are decreased - some chance of being cured with Lesser Antidote",
+      "Trans": {"SC":"生命值、、耐力下降——使用次级解药有一定概率治愈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3150234516",
+      "Source": "Zombie Infection Stage 3",
+      "Trans": {"SC":"僵尸感染阶段3","JA":"僵尸感染階段3"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::17945660",
+      "Source": "Health, Stamina, Melee are increased significantly - Low chance of being cured with Lesser Antidote",
+      "Trans": {"SC":"生命值、耐力、近战伤害显著提升——使用次级解药治愈概率低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::72817613",
+      "Source": "Treated Zombie Infection 1",
+      "Trans": {"SC":"已治疗的僵尸感染1","JA":"已治療的僵尸感染1"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2907456467",
+      "Source": "Infection has been treated. More treatments may be necissary.",
+      "Trans": {"SC":"感染已得到治疗。可能需要更多治疗。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2925450054",
+      "Source": "Treated Zombie Infection 3",
+      "Trans": {"SC":"已治疗的僵尸感染3","JA":"已治療的僵尸感染3"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::383956003",
+      "Source": "Treated Zombie Infection 2",
+      "Trans": {"SC":"已治疗的僵尸感染2","JA":"已治療的僵尸感染2"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3125412942",
+      "Source": "Zombie Virus Immune",
+      "Trans": {"SC":"僵尸病毒免疫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::201434894",
+      "Source": "You're temporarily immune to contracting the zombie virus!",
+      "Trans": {"SC":"你暂时对僵尸病毒感染免疫！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::298650399",
+      "Source": "Zombie Infection Stage 1",
+      "Trans": {"SC":"僵尸感染阶段1","JA":"僵尸感染階段1"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3008111420",
+      "Source": "Health,, Stamina are decreased - can be cured with Lesser Antidote",
+      "Trans": {"SC":"生命值、、耐力下降——可使用次级解药治愈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::779423791",
+      "Source": "There is something in the air...",
+      "Trans": {"SC":"空气中有什么东西……","JA":"空气中有什么東西……"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "D5F6AF8F421EBCBF47B549ADB7D7BECB",
+      "Source": "Xin Wen",
+      "Trans": {"SC":"","JA":""},
+      //无法翻译成中文，但由于官方内容需要翻译，游戏内又是特殊字体，导致在游戏内模组是显示空白的字体，所以用拼音的方式
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2376714215"}
+    },
+    {
+      "NamespaceHash": "307E9530480FBC5E2B367091F0D5B2D1",
+      "Source": "**Admin Mode**",
+      "Trans": {"SC":"**管理员模式**","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3000053581"}
+    },
+    {
+      "NamespaceHash": "Content::1259948222",
+      "Source": "Enables Debug HUD while a Bloodmoon is active",
+      "Trans": {"SC":"血月激活时启用调试HUD","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3033566177",
+      "Source": "Turns of access to the mod menu via radial (client only!)",
+      "Trans": {"SC":"关闭通过轮盘访问模组菜单的功能（仅客户端！）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1563217890",
+      "Source": "Game time to start a Bloodmoon event",
+      "Trans": {"SC":"血月事件开始的游戏时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::59776932",
+      "Source": "game hours a Bloodmoon event should last",
+      "Trans": {"SC":"血月事件应持续的游戏小时数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::417316718",
+      "Source": "Chance to spawn a Bloodmoon event",
+      "Trans": {"SC":"血月事件的生成概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2398929057",
+      "Source": "How many days untill the next Bloodmoon",
+      "Trans": {"SC":"距离下一次血月的天数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::662416897",
+      "Source": "Max zombies assigned to a player at a time dureing a Bloodmoon event.",
+      "Trans": {"SC":"血月事件期间一次分配给玩家的最大僵尸数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::846084979",
+      "Source": "Sets the delay between horde zombie spawn attempts (used for debugging atm)",
+      "Trans": {"SC":"设置僵尸群生成尝试之间的延迟（目前用于调试）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1418597203",
+      "Source": "Rate in seconds horde CALs should cleanup invalid zombies",
+      "Trans": {"SC":"僵尸群隔离区无效僵尸清理时间设置 (秒)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::423728788",
+      "Source": "Range for detecting foundations",
+      "Trans": {"SC":"地基检测范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::362591465",
+      "Source": "Sets the ground trace offset",
+      "Trans": {"SC":"设置地面追踪偏移量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3844640497",
+      "Source": "Overrides Global Settings",
+      "Trans": {"SC":"覆盖全局设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3536215736",
+      "Source": "Rescale Difficulty Definitions to current day",
+      "Trans": {"SC":"将难度定义重新调整为当前天数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3094905540",
+      "Source": "Defines difficulty settings for bloodmoons occuring on this day forward. Note: Overrides global difficulty settings.",
+      "Trans": {"SC":"定义即日起（游戏中）发生血月事件时的难度设置。注：此设置将覆盖全局难度设置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3681583691",
+      "Source": "Enter minimum day to apply these settings",
+      "Trans": {"SC":"输入应用这些设置所需的最小天数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2574243740",
+      "Source": "Hour to start bloodmoon event",
+      "Trans": {"SC":"血月事件开始时间（小时）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::690012112",
+      "Source": "Duration in hours of the bloodmoon event",
+      "Trans": {"SC":"血月事件持续时长（小时）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2343475849",
+      "Source": "Num of zombies in a horde pack",
+      "Trans": {"SC":"僵尸群小队中的僵尸数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4286711999",
+      "Source": "Days Between Bloodmoons",
+      "Trans": {"SC":"血月间隔天数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1608579197",
+      "Source": "Wild",
+      "Trans": {"SC":"野生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3939005591",
+      "Source": "Set Global Wild Spawn Chances",
+      "Trans": {"SC":"设置全局野生生物生成概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2155196815",
+      "Source": "Horde",
+      "Trans": {"SC":"部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1966890278",
+      "Source": "Set Horde Variant Chances",
+      "Trans": {"SC":"设置僵尸群变种生成概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3848482980",
+      "Source": "Set Zombie Base Stats, Global and Horde",
+      "Trans": {"SC":"设置僵尸基础属性（全局与僵尸群）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "A97257904585573BA7E13F9179C02CA5",
+      "Source": "Day:",
+      "Trans": {"SC":"天数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2307539761"}
+    },
+    {
+      "NamespaceHash": "EC02119B4BD8443B22A3F38A714877F8",
+      "Source": "Start:",
+      "Trans": {"SC":"开始:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3415462451"}
+    },
+    {
+      "NamespaceHash": "2F9423024165A4920B0CDF98993E49B5",
+      "Source": "Hours:",
+      "Trans": {"SC":"小时数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3565974469"}
+    },
+    {
+      "NamespaceHash": "B77D8B1245DA7FA1E395EB9F23ED1F21",
+      "Source": "Chance:",
+      "Trans": {"SC":"概率:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3995580266"}
+    },
+    {
+      "NamespaceHash": "B79714AE4D54D2975712DDA923B140BC",
+      "Source": "DaysBet:",
+      "Trans": {"SC":"间隔天数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2098304617"}
+    },
+    {
+      "NamespaceHash": "A80C622A4760650CCACF2882E557CA9B",
+      "Source": "Horde#:",
+      "Trans": {"SC":"部落#:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1801280923"}
+    },
+    {
+      "NamespaceHash": "Content::2599040473",
+      "Source": "Chance for a wild dino to spawn as a zombie",
+      "Trans": {"SC":"野生恐龙生成时为僵尸的概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::951824136",
+      "Source": "Global health multiplier for new Zombie spawns",
+      "Trans": {"SC":"新生成僵尸的全局生命值倍数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3600927897",
+      "Source": "Global damage multiplier for new Zombie spawns",
+      "Trans": {"SC":"新生成僵尸的全局伤害倍数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1404102519",
+      "Source": "Global movement speed multiplier for new Zombie spawns",
+      "Trans": {"SC":"新生成僵尸的全局移动速度倍数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1677540194",
+      "Source": "Forces all zombies to do structure damage",
+      "Trans": {"SC":"强制所有僵尸造成建筑伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4174791741",
+      "Source": "Global level multiplier for new Zombie spawns",
+      "Trans": {"SC":"新生成僵尸的全局等级倍数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2667758953",
+      "Source": "Excludes dino classes from spawning as zombies",
+      "Trans": {"SC":"排除恐龙类别生成时为僵尸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1126746938",
+      "Source": "Sets default dino zombie classes to spawn",
+      "Trans": {"SC":"设置默认生成的恐龙僵尸类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3189566668",
+      "Source": "Global chance for wild zombies",
+      "Trans": {"SC":"野生僵尸的全局概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2308654769",
+      "Source": "Chance for Zombies killed by players, tames or defenses to drop loot bags",
+      "Trans": {"SC":"被玩家、驯服生物或防御设施杀死的僵尸掉落战利品袋的概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1575676348",
+      "Source": "Quality Rolled in for Loot Bags",
+      "Trans": {"SC":"战利品袋的品质滚动","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2847954007",
+      "Source": "Irradiated",
+      "Trans": {"SC":"辐射型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1067376983",
+      "Source": "Exploder",
+      "Trans": {"SC":"爆炸型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::959022453",
+      "Source": "Splitter",
+      "Trans": {"SC":"分裂型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4055180046",
+      "Source": "Base chance for zombies to infect wild dinos",
+      "Trans": {"SC":"僵尸感染野生恐龙的基础概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1859690232",
+      "Source": "Base chance for zombies to infect tamed dinos",
+      "Trans": {"SC":"僵尸感染驯服恐龙的基础概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3244957597",
+      "Source": "Base chance for zombies to infect players",
+      "Trans": {"SC":"僵尸感染玩家的基础概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4085588681",
+      "Source": "How fast infection progresses on wild dinos",
+      "Trans": {"SC":"野生恐龙的感染进度速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3049813423",
+      "Source": "How fast infection progresses on tamed dinos",
+      "Trans": {"SC":"驯服恐龙的感染进度速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2387330075",
+      "Source": "How fast infection progresses on players",
+      "Trans": {"SC":"玩家的感染进度速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3451830015",
+      "Source": "Only wild dinos can be infected. Note: Overrides infection chance on tamed and players.",
+      "Trans": {"SC":"仅野生恐龙可被感染。注意：覆盖驯服生物和玩家的感染概率。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3073831626",
+      "Source": "Print the day of the last Bloodmoon event",
+      "Trans": {"SC":"打印上一次血月事件的天数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1895664691",
+      "Source": "Total past Bloodmoon events on the server",
+      "Trans": {"SC":"服务器上过去的血月事件总数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3242917883",
+      "Source": "Checks if a Bloodmoon event is scheduled for today",
+      "Trans": {"SC":"检查今日是否安排了血月事件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2768209956",
+      "Source": "Schedules a Bloodmoon event for today",
+      "Trans": {"SC":"安排今日的血月事件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1695630378",
+      "Source": "Skips Bloodmoon event",
+      "Trans": {"SC":"跳过血月事件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4096694404",
+      "Source": "Forces Bloodmoon event (does not end without Stop Forced Bloodmoon command ",
+      "Trans": {"SC":"强制开启血月事件（无“停止强制血月”命令则不会结束）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4169823210",
+      "Source": "Stops Forced Bloodmoon",
+      "Trans": {"SC":"停止强制血月","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1830086359",
+      "Source": "Shows Debug HUD for player, appears only while a Bloodmoon event is active",
+      "Trans": {"SC":"显示玩家的调试HUD，仅在血月事件活跃时出现","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::926272332",
+      "Source": "Cures All Zombie Dinos",
+      "Trans": {"SC":"治愈所有僵尸恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2353121365",
+      "Source": "DestryWildDinos Command",
+      "Trans": {"SC":"销毁野生恐龙命令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4200651988",
+      "Source": "Attempting to Identify the cause of XBOX not getting client side saved settings",
+      "Trans": {"SC":"尝试确定XBOX未获取客户端保存设置的原因","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::F4E1790A4EA58BD65B765FB12454528C",
+      "Source": "There have been {total} Blood Moons.",
+      "Trans": {"SC":"已发生{total}次血月。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"553263969"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::F901E8A54BF64E31905164BEFB1A98EA",
+      "Source": "Enable BloodMoon Debug HUD = {ret}",
+      "Trans": {"SC":"启用血月调试HUD = {ret}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"336517965"}
+    },
+    {
+      "NamespaceHash": "Content::2567942759",
+      "Source": "Destroy Wild Dinos",
+      "Trans": {"SC":"消灭野生恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::09A7BB2948873235828D80B386E3557A",
+      "Source": "Disable Radial Access To Mod Menu = {ret}",
+      "Trans": {"SC":"禁用模组菜单的径向访问 = {ret}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2564044098"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::03B841AE43FC8DBE90FC19A0E647D962",
+      "Source": "{Admin} Updated Mod Server Settings!",
+      "Trans": {"SC":"{Admin} 更新了模组服务器设置！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"481808884"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::38EF26E048899C24F934E585B003DA08",
+      "Source": "Your Player ID = {ID} Save File Path = {SFN} Valid? = {ret}",
+      "Trans": {"SC":"你的玩家ID = {ID} 存档文件路径 = {SFN} 有效？ = {ret}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2670364193"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::373D8CF14DD2616EA34C84B7BDAA135D",
+      "Source": "Last Blood Moon was {days} ago.",
+      "Trans": {"SC":"上一次血月是在{days}天前。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2957293754"}
+    },
+    {
+      "NamespaceHash": "Content::2090671014",
+      "Source": "Last Bloodmoon",
+      "Trans": {"SC":"上一次血月","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1849212693",
+      "Source": "Total Bloodmoons",
+      "Trans": {"SC":"血月总数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1549217696",
+      "Source": "Is Bloodmoon Today?",
+      "Trans": {"SC":"今日是血月吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::591864419",
+      "Source": "Make Bloodmoon Today",
+      "Trans": {"SC":"设今日为血月","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1629702185",
+      "Source": "Skip Bloodmoon",
+      "Trans": {"SC":"跳过血月","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2036116154",
+      "Source": "Force Bloodmoon ",
+      "Trans": {"SC":"强制血月","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3604823083",
+      "Source": "Stop Forced Bloodmoon",
+      "Trans": {"SC":"停止强制血月","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3775517323",
+      "Source": "Bloodmoon Debug HUD",
+      "Trans": {"SC":"血月调试HUD","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::241178779",
+      "Source": "Cure All Zombies",
+      "Trans": {"SC":"治愈所有僵尸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3238061474",
+      "Source": "Turn Off Radial Access",
+      "Trans": {"SC":"关闭轮盘访问","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::929558997",
+      "Source": "Debug Player Settings",
+      "Trans": {"SC":"调试玩家设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::CE76EAFE4FA4154D2BED6F9F61997325",
+      "Source": "There {is} a Blood Moon Today.",
+      "Trans": {"SC":"今日{is}血月。is:是 is not:不是","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2221606286"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::F039C0CD45063EE739236FAAB910A75F",
+      "Source": "{Prefix}{space}Zombified {Dino}",
+      "Trans": {"SC":"{Prefix}{space}Zombified {Dino}","JA":""},
+      //汉化会导致恐龙名称出现重复问题
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4236807204"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::039180964F5687377FEDCABC9A823DCC",
+      "Source": "Mod Day:{d} Time:{Time}<#RN#>IsBloodMoon:{bm} IsForced:{f}<#RN#>My Location: {ML}<#RN#>Water Zombie Attempted Loc: {DW}<#RN#>Closest Spawn Manager: {Manager}<#RN#>CAL:{CAL}, Valid:{Valid}<#RN#>Zombies Assigned to me: {znum}<#RN#>Zombies Still in CAL: {vnum}/{max}<#RN#>Last Zombie Attempt Class: {zc}<#RN#>Last Attempt to Spawn Fail Reason: {Reason}",
+      "Trans": {"SC":"模组天数:{d} 时间:{Time}<#RN#>是否血月:{bm} 是否强制:{f}<#RN#>我的位置: {ML}<#RN#>水上僵尸尝试位置: {DW}<#RN#>最近的生成管理器: {Manager}<#RN#>锁定状态:{CAL}, 有效:{Valid}<#RN#>分配给我的僵尸: {znum}<#RN#>仍在锁定状态中的僵尸: {vnum}/{max}<#RN#>上次尝试的僵尸类型: {zc}<#RN#>上次生成尝试失败原因: {Reason}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2454666504"}
+    },
+    {
+      "NamespaceHash": "CC3FC005434CC2CA55EDF1ADABA32EBE",
+      "Source": "Mod Website",
+      "Trans": {"SC":"模组网站","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1043866180"}
+    },
+    {
+      "NamespaceHash": "E45EC4554BB18B4BB24ED0A695F2590D",
+      "Source": "Mod Store Page",
+      "Trans": {"SC":"模组商店页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"57594415"}
+    }
+  ]
+}

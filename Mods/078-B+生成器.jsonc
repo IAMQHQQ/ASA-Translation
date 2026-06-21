@@ -1,0 +1,238 @@
+{
+  "BPlus_Spawners": [//2026.3.23
+    {
+      "NamespaceHash": "Content::3655528930",
+      "Source": "B+ Beaver Dam Spawner",
+      "Trans": {"SC":"B+河狸窝生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3879798296",
+      "Source": "B+ Egg Spawner",
+      "Trans": {"SC":"B+龙蛋生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1919416915",
+      "Source": "B+ Element Vein Spawner",
+      "Trans": {"SC":"B+元素矿脉生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1391151894",
+      "Source": "B+ OSD Spawner",
+      "Trans": {"SC":"B+空投生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3825432399",
+      "Source": "B+ Loot Crate Spawner",
+      "Trans": {"SC":"B+战利品箱生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::772023723",
+      "Source": "B+ Dino Spawner",
+      "Trans": {"SC":"B+恐龙生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1602771481",
+      "Source": "Placeable Beaver Dam Spawner",
+      "Trans": {"SC":"可放置河狸坝生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3928445774",
+      "Source": "Placeable Egg Spawner",
+      "Trans": {"SC":"可放置龙蛋生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1706464416",
+      "Source": "Placeable Element Vein Spawner - Spawns a Element Vein every 1-2 hours",
+      "Trans": {"SC":"可放置元素矿脉生成器 - 每1-2小时生成一个元素矿脉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2076925575",
+      "Source": "Placeable OSD Spawner - Spawns a OSD every 1-2 hours",
+      "Trans": {"SC":"可放置空投生成器 - 每1-2小时生成一个空投","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1651104948",
+      "Source": "Placeable Loot Crate Spawner",
+      "Trans": {"SC":"可放置战利品箱生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3875744018",
+      "Source": "Placeable Dino Spawner",
+      "Trans": {"SC":"可放置恐龙生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },//2026.3.23
+    {
+      "NamespaceHash": "Content::2391758543",
+      "Source": "B+ Spawners",
+      "Trans": {"SC":"B+生成器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::492231251",
+      "Source": "B+ Spawner",
+      "Trans": {"SC":"B+生成器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2081881346",
+      "Source": "Spawn Same Height As Spawner",
+      "Trans": {"SC":"生成高度与生成器一致","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1647824108",
+      "Source": "Respawn Timer Minutes",
+      "Trans": {"SC":"重生间隔（分钟）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1571886212",
+      "Source": "Dino Level",
+      "Trans": {"SC":"恐龙等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2479842271",
+      "Source": "Maximum",
+      "Trans": {"SC":"最大值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::181616995",
+      "Source": "Dino Spawn Limit",
+      "Trans": {"SC":"恐龙生成数量上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::908366473",
+      "Source": "Dino to Spawn",
+      "Trans": {"SC":"待生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2242623465",
+      "Source": "Done",
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3212945676",
+      "Source": "View Map",
+      "Trans": {"SC":"查看地图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2335298903",
+      "Source": "Element Vein Spawner",
+      "Trans": {"SC":"元素矿脉生成器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3248977141",
+      "Source": "Respawn Settings",
+      "Trans": {"SC":"重生设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1140277255",
+      "Source": "Always Spawn Egg",
+      "Trans": {"SC":"持续生成龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2978817073",
+      "Source": "Random Dino In Area",
+      "Trans": {"SC":"区域随机恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3364340068",
+      "Source": "Specific Dino Type In Area",
+      "Trans": {"SC":"区域指定恐龙种类","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1066039576",
+      "Source": "Egg level",
+      "Trans": {"SC":"龙蛋等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4280896511",
+      "Source": "Use Wild Dino Levels",
+      "Trans": {"SC":"沿用野生恐龙等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::478513940",
+      "Source": "Egg to Spawn",
+      "Trans": {"SC":"待生成龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1039273389",
+      "Source": "Tether Dinos",
+      "Trans": {"SC":"拴住恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1548988663",
+      "Source": "Disable Tamable",
+      "Trans": {"SC":"禁用可驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1340407710",
+      "Source": "SOD Spawner",
+      "Trans": {"SC":"幼龙生成器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4029606954",
+      "Source": "Loot Spawner",
+      "Trans": {"SC":"战利品生成器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3302263529",
+      "Source": "Beaver Dam Spawner",
+      "Trans": {"SC":"河狸窝生成器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1476006162",
+      "Source": "Respawn Timer Mintues",
+      "Trans": {"SC":"重生间隔（分钟）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1856135464",
+      "Source": "Loot Container to Spawn",
+      "Trans": {"SC":"待生成战利品容器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3669447214",
+      "Source": "B+ Loot Container Spawner",
+      "Trans": {"SC":"B + 战利品生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4235302522",
+      "Source": "OSD Spawner",
+      "Trans": {"SC":"空投生成器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

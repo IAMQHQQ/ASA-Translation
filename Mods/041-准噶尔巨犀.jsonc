@@ -1,0 +1,202 @@
+{
+  "准噶尔巨犀": [//2025.11.29
+    {
+      "NamespaceHash": "Content::2271833103",
+      "Source": "Dzungariotherium",
+      "Trans": {"SC":"准噶尔巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::713485508",
+      "Source": "Aberrant Dzungariotherium",
+      "Trans": {"SC":"畸变准噶尔巨犀","JA":"畸變准噶尔巨犀"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4170528403",
+      "Source": "Alpha Dzungariotherium",
+      "Trans": {"SC":"精英准噶尔巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2952329395",
+      "Source": "Elder Dzungariotherium",
+      "Trans": {"SC":"上古准噶尔巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2374595580",
+      "Source": "Scorched Dzungariotherium",
+      "Trans": {"SC":"焦土准噶尔巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1426250483",
+      "Source": "Dzungariotherium Horn",
+      "Trans": {"SC":"准噶尔巨犀角","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4153423394",
+      "Source": "Alpha Dzungariotherium Horn",
+      "Trans": {"SC":"精英准噶尔巨犀角","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3535629320",
+      "Source": "Dzungariotherium Armored Saddle",
+      "Trans": {"SC":"准噶尔巨犀装甲鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::579011021",
+      "Source": "Equip a Dzungariotherium with this to ride it.",
+      "Trans": {"SC":"装备到准噶尔巨犀上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2666782057",
+      "Source": "Dzungariotherium Saddle",
+      "Trans": {"SC":"准噶尔巨犀鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3407849297",
+      "Source": "Heavy Armor",
+      "Trans": {"SC":"重型护甲","JA":"重型護甲"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::632635619",
+      "Source": "Reducing Movement Speed by 15%",
+      "Trans": {"SC":"移动速度降低15%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4121247092",
+      "Source": "TAUNT BUFF",
+      "Trans": {"SC":"嘲讽增益","JA":"嘲諷增益"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2055250119",
+      "Source": "Adds a 10% damage Increase, Prevents Bleeding",
+      "Trans": {"SC":"增加10%伤害，防止流血","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2617192374",
+      "Source": "DZUNGARIOTHERIUM TAUNT",
+      "Trans": {"SC":"准噶尔巨犀嘲讽","JA":"准噶尔巨犀嘲諷"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2944601485",
+      "Source": "Provokes aggression from nearby dinosaurs",
+      "Trans": {"SC":"激起附近恐龙的攻击性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3102942851",
+      "Source": "THICK SKIN",
+      "Trans": {"SC":"厚皮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4226920324",
+      "Source": "Adds a 15% Damage Reduction due to its naturally thick skin, and is immune to bleeds",
+      "Trans": {"SC":"因其天生厚实的皮肤，可减少15%所受伤害，且对流血效果免疫。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "71C0E3DD4B1CF11810B062911989CA6F",
+      "Source": "Stomp",
+      "Trans": {"SC":"跺脚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"67290213"}
+    },
+    {
+      "NamespaceHash": "E9FCD2824DCB90BE8B7260B66DAA23EE",
+      "Source": "Neck Swing",
+      "Trans": {"SC":"甩颈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2254481550"}
+    },
+    {
+      "NamespaceHash": "AAAA9D90417A99315C2F36AC2900262B",
+      "Source": "Mega Stomp",
+      "Trans": {"SC":"重踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1445357865"}
+    },
+    {
+      "NamespaceHash": "D2EDD83E450DB3FD3E0415AFB68A4B81",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "E0E24D4148FEC9FECAE65EB7636363FD",
+      "Source": "Taunt",
+      "Trans": {"SC":"嘲讽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2667189335"}
+    },
+    {
+      "NamespaceHash": "B1D0332344C0EDD885905CA737E10632",
+      "Source": "Block Stance",
+      "Trans": {"SC":"格挡姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1178683195"}
+    },
+    {
+      "NamespaceHash": "A071CC01496E33A9FA4B4BA80131DDBB",
+      "Source": "Toggle Turn in Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1006799724"}
+    },
+    {
+      "NamespaceHash": "CFB10A5A48487F836D3BD2A190EBBE3E",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "Content::3031275953",
+      "Source": "Arkology Dzungariotherium",
+      "Trans": {"SC":"方舟学准噶尔巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4126651714",
+      "Source": "Dzungariotherium Platform Saddle",
+      "Trans": {"SC":"准噶尔巨犀平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2940776988",
+      "Source": "Equip a Dzungariotherium with this to ride it. You can build structures on the large platform to make a mobile base.",
+      "Trans": {"SC":"装备到准噶尔巨犀上以骑乘。你可以在大型平台上建造结构以打造移动基地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2391688221",
+      "Source": "BLOCKING",
+      "Trans": {"SC":"格挡","JA":"格擋"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::171113245",
+      "Source": "Adds 60% Damage Reduction while blocking",
+      "Trans": {"SC":"格挡时增加60%伤害减免","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2091209379",
+      "Source": "Weight Reduction 50%",
+      "Trans": {"SC":"减重50%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::770138034",
+      "Source": "Reducing Weight by 50%",
+      "Trans": {"SC":"重量减少50%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

@@ -1,0 +1,139 @@
+{
+  // 2026-02-09 20:53:32
+  "UnclassifiedMods": [
+    {
+      "NamespaceHash": "Content::1475991115",
+      "Source": "aaa",
+      "Trans": { "SC": "打开商店", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::382803101",
+      "Source": "OFFICIAL ONLY",
+      "Trans": { "SC": "仅限官方", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::282390110",
+      "Source": "Color Region 1",
+      "Trans": { "SC": "颜色区域 1", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::39928240",
+      "Source": "Color Region 2",
+      "Trans": { "SC": "颜色区域 2", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3135055573",
+      "Source": "Color Region 3",
+      "Trans": { "SC": "颜色区域 3", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::654974572",
+      "Source": "Color Region 4",
+      "Trans": { "SC": "颜色区域 4", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2679535881",
+      "Source": "Color Region 5",
+      "Trans": { "SC": "颜色区域 5", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2365839079",
+      "Source": "Color Region 6",
+      "Trans": { "SC": "颜色区域 6", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2935771811",
+      "Source": "Body Width",
+      "Trans": { "SC": "身体宽度", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1781996137",
+      "Source": "Body Size",
+      "Trans": { "SC": "身体尺寸", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3485379333",
+      "Source": "Leg & Arm Size",
+      "Trans": { "SC": "腿部 & 手臂尺寸", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3093015450",
+      "Source": "Tail Length",
+      "Trans": { "SC": "尾巴长度", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::400694617",
+      "Source": "Dino Tracker",
+      "Trans": { "SC": "恐龙追踪", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "3F57467F48A0F13B2C8DB38D06164343",
+      "Source": "Juv.",
+      "Trans": { "SC": "幼崽", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "2689446269" }
+      //Find Dinos
+    },
+    {
+      "NamespaceHash": "7992CB6E4B3AC5761DF3CEB53D96B468",
+      "Source": "Max Level",
+      "Trans": { "SC": "最大等级", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "241190249" }
+      //Find Dinos
+    },
+    {
+      "NamespaceHash": "775A07ED4E24928B3AE1F4B206A57F95",
+      "Source": "Adol.",
+      "Trans": { "SC": "青年", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "794124125" }
+      //Find Dinos
+    },
+    {
+      "NamespaceHash": "7FC8186646816EB17B93D3BA7F23CAE6",
+      "Source": "Adult",
+      "Trans": { "SC": "成年", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "1842001158" }
+      //Find Dinos
+    },
+    {
+      "NamespaceHash": "7558F1C44C5611C089F6618E700195CB",
+      "Source": "Min Level",
+      "Trans": { "SC": "最小等级", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "4086804131" }
+      //Find Dinos
+    },
+    {
+      "NamespaceHash": "GraphLiteral::D49CD980475A57561A61808C8F390AE0",
+      "Source": "OPEN FINDER",
+      "Trans": { "SC": "打开搜索器", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "3589694735" }
+      //Find Dinos
+    },
+    {
+      "NamespaceHash": "GraphLiteral::E8FB5380403393C69EE0659548AA0F2B",
+      "Source": "CLEAR POIS",
+      "Trans": { "SC": "清除标记", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "3144842386" }
+      //Find Dinos
+    },
+    {
+      "NamespaceHash": "431FFBE841EC1C1A9B56279F89106658",
+      "Source": "Nucleus",
+      "Trans": { "SC": "控制核心", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "2572893827" }
+      //ARK-Nucleus
+    }
+  ]
+}

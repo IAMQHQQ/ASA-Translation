@@ -1,0 +1,292 @@
+{
+  "米拉西斯龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::2248755610",
+      "Source": "Meraxes",
+      "Trans": {"SC":"米拉西斯龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3206159436",
+      "Source": "Arkology Meraxes",
+      "Trans": {"SC":"方舟学米拉西斯龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::727490553",
+      "Source": "SUBJECT",
+      "Trans": {"SC":"实验体米拉西斯龙","JA":"實驗體米拉西斯龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::987439746",
+      "Source": "Paleo Meraxes",
+      "Trans": {"SC":"远古米拉西斯龙","JA":"遠古米拉西斯龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1840361457",
+      "Source": "Scorched Meraxes",
+      "Trans": {"SC":"焦土米拉西斯龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1152354652",
+      "Source": "Tek Meraxes",
+      "Trans": {"SC":"泰克米拉西斯龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1098780800",
+      "Source": "Chibi-TOON Meraxes",
+      "Trans": {"SC":"袖珍-动画米拉西斯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2474559590",
+      "Source": "Chibi-Arkology Meraxes",
+      "Trans": {"SC":"袖珍-方舟学米拉西斯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::749909499",
+      "Source": "Chibi-Corrupted Meraxes",
+      "Trans": {"SC":"袖珍-腐化米拉西斯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1938457576",
+      "Source": "Chibi-Meraxes",
+      "Trans": {"SC":"袖珍-米拉西斯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1178116652",
+      "Source": "Chibi-Paleo Meraxes",
+      "Trans": {"SC":"袖珍-远古米拉西斯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1104509915",
+      "Source": "Chibi-Scorched Meraxes",
+      "Trans": {"SC":"袖珍-焦土米拉西斯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::754256395",
+      "Source": "Chibi-TEK Meraxes",
+      "Trans": {"SC":"袖珍-泰克米拉西斯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1940035086",
+      "Source": "Meraxes Egg",
+      "Trans": {"SC":"米拉西斯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2734606644",
+      "Source": "Fertilized Meraxes Egg",
+      "Trans": {"SC":"受精的米拉西斯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::93383266",
+      "Source": "Meraxes Saddle",
+      "Trans": {"SC":"米拉西斯龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1162659058",
+      "Source": "Equip an Meraxes with this to ride it.",
+      "Trans": {"SC":"装备到米拉西斯龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3270673327",
+      "Source": "Meraxes Heart",
+      "Trans": {"SC":"米拉西斯龙心脏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3866013659",
+      "Source": "Corrupted Meraxes Summon",
+      "Trans": {"SC":"召唤腐化米拉西斯龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2347163059",
+      "Source": "A reclusive mad scientist, driven by obsession and revenge, toils deep within his decaying lair, crafting twisted, powerful creations—born of corrupted matter and unstable flesh. Each SUBJECT is engineered with a singular purpose: to annihilate the enemy who once betrayed and ruined them. As the final subject awakens, the scientist’s long-awaited plan for vengeance is set into motion.<#RN#><#RN#>WARNING! This might be very difficult so you better be prepared before this.<#RN#><#RN#>Good Luck,Survivor.",
+      "Trans": {"SC":"一位隐世的疯狂科学家，被执念与复仇之心驱使，在其腐朽的巢穴深处辛勤劳作，创造出扭曲而强大的造物 —— 它们由腐化的物质与不稳定的血肉诞生。每一个「实验体」都被赋予单一的目标：歼灭曾背叛并摧毁它们的敌人。当最后一个实验体苏醒时，科学家等待已久的复仇计划便开始启动。<#RN#><#RN#>警告！ 这可能极具挑战性，你最好在此之前做好准备。<#RN#><#RN#>祝你好运，生存者。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::522314526",
+      "Source": "Corrupted Meraxes Flag #1",
+      "Trans": {"SC":"腐化米拉西斯龙旗帜#1","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::553698388",
+      "Source": "This flag is proof that you have defeated the rageful SUBJECT.",
+      "Trans": {"SC":"这面旗帜证明你已击败暴怒的实验体米拉西斯龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227822832",
+      "Source": "Corrupted Meraxes Flag #2",
+      "Trans": {"SC":"腐化米拉西斯龙旗帜#2","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3039308693",
+      "Source": "Corrupted Meraxes Flag #3",
+      "Trans": {"SC":"腐化米拉西斯龙旗帜#3","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3368118912",
+      "Source": "Subject Head Trophy",
+      "Trans": {"SC":"实验体战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2031776172",
+      "Source": "Corrupted Meraxes Costume",
+      "Trans": {"SC":"腐化米拉西斯龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3118780170",
+      "Source": "This costume can be used to make your Meraxes look as if it were corrupted...",
+      "Trans": {"SC":"这套服装可用于让你的米拉西斯龙看起来像是被腐化了……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1090872018",
+      "Source": "Animated Meraxes Costume",
+      "Trans": {"SC":"动画米拉西斯龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::494445389",
+      "Source": "This costume can be used to make your Meraxes look like its from the Animated Series'!",
+      "Trans": {"SC":"这套服装可让你的米拉西斯龙看起来如同出自动画剧集！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1945466079",
+      "Source": "Diametrical Eye",
+      "Trans": {"SC":"对生眼","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::80306774",
+      "Source": "This trophy proves your worth as a hunter.<#RN#><#RN#>And might be useful in the future...",
+      "Trans": {"SC":"这个奖杯证明了你作为猎人的价值。<#RN#><#RN#>而且它在未来可能会派上用场……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::497201753",
+      "Source": "Tek Meraxes Egg",
+      "Trans": {"SC":"泰克米拉西斯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3146840938",
+      "Source": "Fertilized Tek Meraxes Egg",
+      "Trans": {"SC":"受精的泰克米拉西斯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3375394667",
+      "Source": "Heal Infusion",
+      "Trans": {"SC":"治疗注入","JA":"治療注入"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::710427063",
+      "Source": "Recover health from 10% of the damage dealt",
+      "Trans": {"SC":"从造成的伤害中恢复 10% 的生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "53A5F19F4A26934752E811B8134366B7",
+      "Source": "Directional Heavy Attack",
+      "Trans": {"SC":"定向强力重击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1707087682"}
+    },
+    {
+      "NamespaceHash": "E05135F0458B5F6134E1F69F0314B8F3",
+      "Source": "Heal Infusion(Bite to Heal)",
+      "Trans": {"SC":"治疗注入 (啃咬治疗)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3641107308"}
+    },
+    {
+      "NamespaceHash": "6D60F0FB4FC475766740C48F7113ED58",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "9A37768A4CF5017F9A08B7980DA55F7D",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::0B929B5E4D5F4344E797F1BE927A5AE0",
+      "Source": "Time Remaining: {0}",
+      "Trans": {"SC":"剩余时间: {0}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1752401853"}
+    },
+    {
+      "NamespaceHash": "Content::1442595905",
+      "Source": "Meraxes Flag",
+      "Trans": {"SC":"米拉西斯龙旗帜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1318001921",
+      "Source": "Earn XP from Alpha creature kills when equipped, to increase its level and earn additional max-levels for your Survivor!<#RN#><#RN#>Aswell gives you and others around DOUBLE XP buff.",
+      "Trans": {"SC":"装备后通过击杀精英生物来获得经验值, 以提高其等级并使您的生存者获得额外的最高等级上限!<#N#><#N#>同时为你和周围的人提供双倍经验增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4135115037",
+      "Source": "Earn XP from Alpha creature kills when equipped, to increase its level and earn additional max-levels for your Survivor!<#RN#><#RN#>Aswell gives you the Defense buff.",
+      "Trans": {"SC":"装备后通过击杀精英生物来获得经验值, 以提高其等级并使您的生存者获得额外的最高等级上限!<#RN#><#RN#>同时为你提供防御增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3589130173",
+      "Source": "Earn XP from Alpha creature kills when equipped, to increase its level and earn additional max-levels for your Survivor!<#RN#><#RN#>Aswell gives you and others around Corruption Essence buff.",
+      "Trans": {"SC":"装备后通过击杀精英生物来获得经验值, 以提高其等级并使您的生存者获得额外的最高等级上限!<#RN#><#RN#>同时为你和周围的人提供腐化精华增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4012106381",
+      "Source": "Earn XP from Alpha creature kills when equipped, to increase its level and earn additional max-levels for your Survivor!<#RN#><#RN#>Aswell gives you the Farming buff.",
+      "Trans": {"SC":"装备后通过击杀精英生物来获得经验值, 以提高其等级并使您的生存者获得额外的最高等级上限!<#RN#><#RN#>同时为你提供种植增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2189639694",
+      "Source": "Earn XP from Alpha creature kills when equipped, to increase its level and earn additional max-levels for your Survivor!<#RN#><#RN#>Aswell gives you the Courage buff.",
+      "Trans": {"SC":"装备后通过击杀精英生物来获得经验值, 以提高其等级并使您的生存者获得额外的最高等级上限!<#RN#><#RN#>同时为你提供勇气增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4126015319",
+      "Source": "Earn XP from Alpha creature kills when equipped, to increase its level and earn additional max-levels for your Survivor!<#RN#><#RN#>Aswell gives you the Heat and Storm Protection buff.",
+      "Trans": {"SC":"装备后通过击杀精英生物来获得经验值, 以提高其等级并使您的生存者获得额外的最高等级上限!<#RN#><#RN#>同时为你提供耐热与风暴防护增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4008023293",
+      "Source": "Earn XP from Alpha creature kills when equipped, to increase its level and earn additional max-levels for your Survivor!<#RN#><#RN#>Aswell gives you the Tek Protection buff.",
+      "Trans": {"SC":"装备后通过击杀精英生物来获得经验值, 以提高其等级并使您的生存者获得额外的最高等级上限!<#RN#><#RN#>同时为你提供泰克防护增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

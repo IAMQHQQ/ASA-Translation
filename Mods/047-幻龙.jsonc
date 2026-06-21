@@ -1,0 +1,226 @@
+{
+  "Moro幻龙": [//2025.11.30
+    {
+      "NamespaceHash": "Content::3758314938",
+      "Source": "Nothosaurus",
+      "Trans": {"SC":"幻龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2094270149",
+      "Source": "Aberrant Nothosaurus",
+      "Trans": {"SC":"畸变幻龙","JA":"畸變幻龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1272858985",
+      "Source": "Moros Nothosaurus Admin Menu Remote",
+      "Trans": {"SC":"Moro幻龙管理员菜单","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4215236401",
+      "Source": "This device is an Admin Spawn / Configure Menu for Moro's Nothosaurus Mod. Engram can only be unlocked and used in creative mode (gcm).",
+      "Trans": {"SC":"该装置是Moro幻龙模组的管理员生成 / 配置菜单。印痕技能仅能在创造模式（GCM）中解锁和使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::422249664",
+      "Source": "Nothosaurus Egg",
+      "Trans": {"SC":"幻龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3206106611",
+      "Source": "Fertilized Nothosaurus Egg",
+      "Trans": {"SC":"受精的幻龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3995303944",
+      "Source": "Nothosaurus Saddle",
+      "Trans": {"SC":"幻龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::995819066",
+      "Source": "Equip this on a Nothosaurus to ride it.",
+      "Trans": {"SC":"装备到幻龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "2978B965419842FB2DC95C819348E68F",
+      "Source": "Apply Changes",
+      "Trans": {"SC":"应用更改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3022180510"}
+    },
+    {
+      "NamespaceHash": "E52B94294F4A2AC80F76E6B3984A466F",
+      "Source": "Restore to Default",
+      "Trans": {"SC":"恢复默认设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3350930907"}
+    },
+    {
+      "NamespaceHash": "D516FB8C4819D0BA7BCDEC8650D041EF",
+      "Source": "Developer Debug Log",
+      "Trans": {"SC":"开发者调试日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"517185625"}
+    },
+    {
+      "NamespaceHash": "3229B5AF44FBD3374270DDB7E40EE35D",
+      "Source": "Configure Settings",
+      "Trans": {"SC":"配置设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2541883398"}
+    },
+    {
+      "NamespaceHash": "9AFB618343D2C08B008467AE50BAE01F",
+      "Source": "Moros Nothosaurus Admin Menu",
+      "Trans": {"SC":"Moro幻龙管理员菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"210366978"}
+    },
+    {
+      "NamespaceHash": "965C97F24C86C8B7719B5984A333927B",
+      "Source": "SpawnDinos",
+      "Trans": {"SC":"生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4147162385"}
+    },
+    {
+      "NamespaceHash": "04EF1273494009355AB77489161F7628",
+      "Source": "Dev Debugging Tools",
+      "Trans": {"SC":"开发者调试工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"7833592"}
+    },
+    {
+      "NamespaceHash": "9482687D48C669ED698C5B9D37E44ED9",
+      "Source": "Spawn Items",
+      "Trans": {"SC":"生成物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2805398202"}
+    },
+    {
+      "NamespaceHash": "1D43EE384B5D9F3BC9D71E94EBB085A9",
+      "Source": "Aberrant Nothosaurus",
+      "Trans": {"SC":"畸变幻龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2094270149"}
+    },
+    {
+      "NamespaceHash": "538F245049D48E0B1C735CB7EA351C7C",
+      "Source": "Apply Changes",
+      "Trans": {"SC":"应用更改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3022180510"}
+    },
+    {
+      "NamespaceHash": "911B68CC4555A6399AD4D39FAC7A1BB9",
+      "Source": "Restore to Default",
+      "Trans": {"SC":"恢复默认设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3350930907"}
+    },
+    {
+      "NamespaceHash": "0538AF6B4428E56DF47232917C6306D0",
+      "Source": "Nothosaurus",
+      "Trans": {"SC":"幻龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3758314938"}
+    },
+    {
+      "NamespaceHash": "5EF311804687AF30D8A7008E9BF13D64",
+      "Source": "Quality",
+      "Trans": {"SC":"品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3882954527"}
+    },
+    {
+      "NamespaceHash": "06BC62E540368DA9886F98A0B009CE93",
+      "Source": "Find Nothosaurus",
+      "Trans": {"SC":"寻找幻龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"291223440"}
+    },
+    {
+      "NamespaceHash": "68CD4B5649954ADADB1B46BE058D1B1B",
+      "Source": "Make Blueprint",
+      "Trans": {"SC":"制作蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"457844221"}
+    },
+    {
+      "NamespaceHash": "7C0068AD4C5C2204F0F168AF09A87584",
+      "Source": "Cycle Charged Ability Forward",
+      "Trans": {"SC":"向前循环充能技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1326606988"}
+    },
+    {
+      "NamespaceHash": "F33DC16B41AA2E8ECC18E8BDF098A1CF",
+      "Source": "Cycle Charged Ability Back",
+      "Trans": {"SC":"向后循环充能技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1500530780"}
+    },
+    {
+      "NamespaceHash": "F402BDAF4BAF7C8C06F8469997A8CE5A",
+      "Source": "Activate Charged Ability",
+      "Trans": {"SC":"激活充能技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"560317334"}
+    },
+    {
+      "NamespaceHash": "76A0DB214D35149A1F1BA4A9EEC92456",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "DC35D56A4A85137C123D69BC71D3EC5F",
+      "Source": "Locate Silica Pearls",
+      "Trans": {"SC":"定位珍珠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4187735143"}
+    },
+    {
+      "NamespaceHash": "3324F7164F6B0E56CFB7A4870B6C5416",
+      "Source": "Swim Side Barrel Roll Left / Right",
+      "Trans": {"SC":"侧泳突进左 / 右","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1663280514"}
+    },
+    {
+      "NamespaceHash": "46F370A54EE523D193983CA979CCA6FB",
+      "Source": "Stance Change",
+      "Trans": {"SC":"切换姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3220258136"}
+    },
+    {
+      "NamespaceHash": "6681134E4CF11113594FAEA17160BBE7",
+      "Source": "Barrel Roll / Lunge",
+      "Trans": {"SC":"桶滚 / 突进","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1313452849"}
+    },
+    {
+      "NamespaceHash": "685629A04ADFDE49AB00FEA3FA57FF71",
+      "Source": "TailWhip",
+      "Trans": {"SC":"甩尾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2461803132"}
+    },
+    {
+      "NamespaceHash": "06B7F3E040D4AF08A45BF59140D6AA25",
+      "Source": "Melee",
+      "Trans": {"SC":"近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1993336256"}
+    },
+    {
+      "NamespaceHash": "C3E5C1B84F602939320679B07C985DDA",
+      "Source": "Print Engram Paths",
+      "Trans": {"SC":"打印印痕技能路径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3635314562"}
+    },
+    {
+      "NamespaceHash": "Content::3991018783",
+      "Source": "Silica Pearl Sense",
+      "Trans": {"SC":"珍珠感知","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::638878286",
+      "Source": "Tracking Silica Pearls",
+      "Trans": {"SC":"追踪含硅珍珠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1677485399",
+      "Source": "Moro's Nothosaurus Admin Panel",
+      "Trans": {"SC":"Moro幻龙管理面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

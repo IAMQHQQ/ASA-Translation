@@ -1,0 +1,148 @@
+{
+  "龙之国度": [//2025.11.29
+    {
+      "NamespaceHash": "Content::516268822",
+      "Source": "Alpha Zaldrir Dragon",
+      "Trans": {"SC":"精英卓耿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::654117679",
+      "Source": "Juvenile Zaldrir Dragon",
+      "Trans": {"SC":"卓耿(幼年体)","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3310522842",
+      "Source": "Young Zaldrir Dragon",
+      "Trans": {"SC":"卓耿(青年体)","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3285789617",
+      "Source": "Adult Zaldrir Dragon",
+      "Trans": {"SC":"卓耿(成年体)","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::973811333",
+      "Source": "Elder Zaldrir Dragon",
+      "Trans": {"SC":"长者卓耿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1420695943",
+      "Source": "Ancient Zaldrir Dragon",
+      "Trans": {"SC":"远古卓耿","JA":"遠古卓耿"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3752724470",
+      "Source": "Mysterious Egg",
+      "Trans": {"SC":"神秘的蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::867221037",
+      "Source": "A sturdy egg of unknown origin. It burns hot beneath your fingers.",
+      "Trans": {"SC":"一颗来历不明且坚硬的蛋。它在你的手指下灼热发烫。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2467977243",
+      "Source": "Black Tooth",
+      "Trans": {"SC":"黑牙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::966364613",
+      "Source": "The smoldering black fang of a great wyrm, felled after a gruesome battle. Still warm. Handle with care, survivor.",
+      "Trans": {"SC":"一条巨龙阴燃的黑牙，在一场惨烈的战斗后被斩落，仍有余温，生存者，务必小心触碰。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1824727104",
+      "Source": "Zaldrir Dragon",
+      "Trans": {"SC":"卓耿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2353588743",
+      "Source": "Hatchling Zaldrir Dragon",
+      "Trans": {"SC":"卓耿幼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::705094979",
+      "Source": "First Hunt",
+      "Trans": {"SC":"首次狩猎","JA":"首次狩獵"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3571537078",
+      "Source": "Hunt with the Zaldrir to prove your worth!",
+      "Trans": {"SC":"与卓耿一同狩猎以证明你的价值！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2487223455",
+      "Source": "SleepTimer",
+      "Trans": {"SC":"睡眠计时器","JA":"睡眠計時器"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2086671355",
+      "Source": "The Zaldrir is sleeping!",
+      "Trans": {"SC":"卓耿正在睡眠中！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4018724892",
+      "Source": "Smackable",
+      "Trans": {"SC":"可击打","JA":"可擊打"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::416731554",
+      "Source": "Can be hit by wild ridden Zaldrirs",
+      "Trans": {"SC":"会被野生骑乘的卓耿攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2667287089",
+      "Source": "Dragon Sit Buff",
+      "Trans": {"SC":"龙式蹲姿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::560919696",
+      "Source": "Zaldir Dragon consumes food and water at half the normal speed. It also recovers 2% health per second.",
+      "Trans": {"SC":"卓耿喷火龙以正常速度的一半消耗食物和水。它还会每秒恢复2%的生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2543716846",
+      "Source": "Flight Mode",
+      "Trans": {"SC":"飞行模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2320413750",
+      "Source": "Your dragon is flying more actively! Use this for better turns...",
+      "Trans": {"SC":"你的巨龙飞行更活跃了！使用这个来获得更好的转向……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4117716137",
+      "Source": "Refusal",
+      "Trans": {"SC":"拒绝","JA":"拒絕"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2663215110",
+      "Source": "The Zaldrir Dragon does not want to be approached! Maybe try again later...",
+      "Trans": {"SC":"卓耿不想被接近！或许稍后再试……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

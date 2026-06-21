@@ -1,0 +1,28 @@
+{
+  "墓碑": [//2025.11.29
+    {
+      "NamespaceHash": "Content::3897388728",
+      "Source": "A Personal Grave",
+      "Trans": {"SC":"个人墓碑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3118482915",
+      "Source": "To help with deaths recovery,  You can recaim the inventory of your corpse or item cache.",
+      "Trans": {"SC":"为了协助处理死亡后的情况，你可以取回你尸体上的物品或物品缓存中的物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3814129555",
+      "Source": "Personal Grave",
+      "Trans": {"SC":"个人墓碑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::817792699",
+      "Source": "A Personal Grave to help with deaths recovery,  You can recaim the inventory of your corpse or item cache.",
+      "Trans": {"SC":"个人坟墓有助于死亡后的物品恢复，你可以取回自己尸体或物品缓存中的库存。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

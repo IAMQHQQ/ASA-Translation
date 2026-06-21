@@ -1,0 +1,2794 @@
+{
+  "Additional Creatures: Wild Ark": [//更新于2026年3月4日
+    {
+      "NamespaceHash": "Content::1009625081",
+      "Source": "Varanidae",
+      "Trans": {"SC":"巨蜥科","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::886227492",
+      "Source": "Tyrannotitan",
+      "Trans": {"SC":"魁纣龙","JA":"魁紂龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2649128219",
+      "Source": "R-Tyrannotitan",
+      "Trans": {"SC":"R-魁纣龙","JA":"R-魁紂龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1518140821",
+      "Source": "Horned Nurse Shark",
+      "Trans": {"SC":"角护士鲨","JA":"角護士鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1894482006",
+      "Source": "Anteosaurus",
+      "Trans": {"SC":"安蒂欧兽","JA":"安蒂欧獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1872671308",
+      "Source": "Scorched Anteosaurus",
+      "Trans": {"SC":"焦土安蒂欧兽","JA":"焦土安蒂欧獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2361293426",
+      "Source": "Erythrosuchus Nest",
+      "Trans": {"SC":"引鳄巢","JA":"引鱷巢"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3330760158",
+      "Source": "Deinocheirus",
+      "Trans": {"SC":"恐手龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2900488522",
+      "Source": "Aberrant Deinocheirus",
+      "Trans": {"SC":"畸变恐手龙","JA":"畸變恐手龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3549815516",
+      "Source": "Alpha Deinocheirus",
+      "Trans": {"SC":"精英恐手龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3729608996",
+      "Source": "Tarchia",
+      "Trans": {"SC":"多智龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1091474012",
+      "Source": "Diabloceratops",
+      "Trans": {"SC":"恶魔角龙","JA":"惡魔角龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::688018584",
+      "Source": "R-Diabloceratops",
+      "Trans": {"SC":"R-恶魔角龙","JA":"R-惡魔角龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::113873613",
+      "Source": "Fasolasuchus loricatus",
+      "Trans": {"SC":"法索拉鳄（AC）","JA":"法索拉鱷（AC）"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::807920711",
+      "Source": "Aberrant Fasolasuchus loricatus",
+      "Trans": {"SC":"畸变法索拉鳄（AC）","JA":"畸變法索拉鱷（AC）"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2986372531",
+      "Source": "Alpha Aberrant Fasolasuchus loricatus",
+      "Trans": {"SC":"精英畸变法索拉鳄（AC）","JA":"精英畸變法索拉鱷（AC）"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1131827113",
+      "Source": "Alpha Fasolasuchus loricatus",
+      "Trans": {"SC":"精英法索拉鳄（AC）","JA":"精英法索拉鱷（AC）"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::686928356",
+      "Source": "Vallibonaventrix",
+      "Trans": {"SC":"巴利沃那女猎龙","JA":"巴利沃那女獵龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::198549628",
+      "Source": "X-Magnapaulia",
+      "Trans": {"SC":"X-巨保罗龙","JA":"X-巨保羅龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::290621899",
+      "Source": "X-Phosphatodraco",
+      "Trans": {"SC":"X-磷矿翼龙","JA":"X-磷礦翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4270781033",
+      "Source": "Iguanacolossus",
+      "Trans": {"SC":"巨禽龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::431962482",
+      "Source": "Magnapaulia",
+      "Trans": {"SC":"巨保罗龙","JA":"巨保羅龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1726198912",
+      "Source": "Skorpiovenator",
+      "Trans": {"SC":"蝎猎龙","JA":"蝎獵龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1924307483",
+      "Source": "Aerosteon",
+      "Trans": {"SC":"气腔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1978864226",
+      "Source": "X-Angaturama",
+      "Trans": {"SC":"X-崇高龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4170729249",
+      "Source": "Deltadromeus",
+      "Trans": {"SC":"三角洲奔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3690961979",
+      "Source": "Gigatitan",
+      "Trans": {"SC":"泰坦鸣虫","JA":"泰坦鳴虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::423212605",
+      "Source": "X-Austroraptor",
+      "Trans": {"SC":"X-南方盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2927078086",
+      "Source": "X-Cedarosaurus",
+      "Trans": {"SC":"X-雪松龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4181773522",
+      "Source": "Brachauchenius",
+      "Trans": {"SC":"短颈龙","JA":"短頸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1016499416",
+      "Source": "Gargoyleosaurus",
+      "Trans": {"SC":"怪嘴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2760160145",
+      "Source": "Xuanhanosaurus",
+      "Trans": {"SC":"宣汉龙","JA":"宣漢龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2187997995",
+      "Source": "Aberrant Xuanhanosaurus",
+      "Trans": {"SC":"畸变宣汉龙","JA":"畸變宣漢龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4248739252",
+      "Source": "X-Horned Nurse Shark",
+      "Trans": {"SC":"X-角护士鲨","JA":"X-角護士鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2464091388",
+      "Source": "Clarifying Candle",
+      "Trans": {"SC":"澄明蜡烛","JA":"澄明蜡燭"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1346011233",
+      "Source": "X-Vallibonaventrix",
+      "Trans": {"SC":"X-巴利沃那女猎龙","JA":"X-巴利沃那女獵龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3767069476",
+      "Source": "Kaikaifilu",
+      "Trans": {"SC":"海蛇神龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3925315723",
+      "Source": "Aberrant Kaikaifilu",
+      "Trans": {"SC":"畸变海蛇神龙","JA":"畸變海蛇神龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::477812237",
+      "Source": "Dragon of Cedar Mountain",
+      "Trans": {"SC":"雪松山之龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3502353647",
+      "Source": "Cedarosaurus",
+      "Trans": {"SC":"雪松龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::229328841",
+      "Source": "Aberrant Styracosaurus",
+      "Trans": {"SC":"畸变戟龙","JA":"畸變戟龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2309800358",
+      "Source": "Suchomimus",
+      "Trans": {"SC":"似鳄龙","JA":"似鱷龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2161359369",
+      "Source": "Aberrant Suchomimus",
+      "Trans": {"SC":"畸变似鳄龙","JA":"畸變似鱷龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4266448002",
+      "Source": "Ogre Darner",
+      "Trans": {"SC":"噬人魔蜓","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4011522631",
+      "Source": "Hadal Dragonfish",
+      "Trans": {"SC":"深渊奇棘鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2965502808",
+      "Source": "Soothing Candle",
+      "Trans": {"SC":"舒缓蜡烛","JA":"舒緩蜡燭"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1737469972",
+      "Source": "Austroraptor",
+      "Trans": {"SC":"南方盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3635812120",
+      "Source": "Erythrosuchus",
+      "Trans": {"SC":"引鳄","JA":"引鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4208001501",
+      "Source": "Squalicorax",
+      "Trans": {"SC":"角鳞鲨","JA":"角鱗鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::516582218",
+      "Source": "Phosphatodraco",
+      "Trans": {"SC":"磷矿翼龙","JA":"磷礦翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3551897876",
+      "Source": "Torosaurus",
+      "Trans": {"SC":"牛角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1322443605",
+      "Source": "Ghost Torosaurus",
+      "Trans": {"SC":"幽灵牛角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2467780069",
+      "Source": "Chungkingosaurus",
+      "Trans": {"SC":"重庆龙","JA":"重慶龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3354033392",
+      "Source": "Arcane Chungkingosaurus",
+      "Trans": {"SC":"奥术重庆龙","JA":"奥術重慶龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3885753099",
+      "Source": "Tyrannomimus",
+      "Trans": {"SC":"似暴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3324363606",
+      "Source": "Albertosaurus",
+      "Trans": {"SC":"阿尔伯托龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2546139525",
+      "Source": "Epanterias",
+      "Trans": {"SC":"依潘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3142752046",
+      "Source": "R-Epanterias",
+      "Trans": {"SC":"R-依潘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::352271824",
+      "Source": "Angaturama",
+      "Trans": {"SC":"崇高龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::494945919",
+      "Source": "Aberrant Angaturama",
+      "Trans": {"SC":"畸变崇高龙","JA":"畸變崇高龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::946776955",
+      "Source": "R-Angaturama",
+      "Trans": {"SC":"R-崇高龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3845338629",
+      "Source": "Eryops",
+      "Trans": {"SC":"引螈","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3440579837",
+      "Source": "Concussive Arrow",
+      "Trans": {"SC":"震荡箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2856689402",
+      "Source": "An arrow tipped with a small, ceramic grenade. The explosive cannot damage structures, but its great for concussive taming.<#N#><#N#>The grenade at the tip decreases flight time, making it inaccurate. However, it only hits once, meaning you cant accidentally damage a creature after knocking it out.",
+      "Trans": {"SC":"箭头装有小型陶瓷手榴弹，爆炸不会对建筑造成损伤，非常适合眩晕驯服。<#N#><#N#>箭头的榴弹会缩短飞行时长，导致精准度下降。但它仅会触发一次命中，意味着击晕生物后不会意外对其造成额外伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3100988463",
+      "Source": "Fasolasuchus Loricatus Saddle",
+      "Trans": {"SC":"法索拉鳄（AC）鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3582559041",
+      "Source": "Equip a Fasolasuchus Loricatus with this to ride it.",
+      "Trans": {"SC":"给法索拉鳄（AC）装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2366580717",
+      "Source": "Erythrosuchus Combat Saddle",
+      "Trans": {"SC":"引鳄战斗鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::569496242",
+      "Source": "Equip an Erythrosuchus with this to ride it. For a single rider and their brutish companion, helps better tap into combat.",
+      "Trans": {"SC":"给引鳄装备此物，即可骑乘。专为单人骑手打造，能助力骑手与坐骑更好地投入战斗。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4924167",
+      "Source": "Erythrosuchus Saddle",
+      "Trans": {"SC":"引鳄鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1281848039",
+      "Source": "Equip an Erythrosuchus with this to ride it. The standard saddle fits two passengers! Bring friends!",
+      "Trans": {"SC":"给引鳄装备此物，即可骑乘。这款标准鞍可容纳两名乘员，带上伙伴一起出发吧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1937776503",
+      "Source": "Albertosaurus Saddle",
+      "Trans": {"SC":"阿尔伯托龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1061078209",
+      "Source": "Equip an Albertosaurus with this to ride it.",
+      "Trans": {"SC":"给阿尔伯托龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2924030851",
+      "Source": "Angaturama Saddle",
+      "Trans": {"SC":"崇高龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1480971862",
+      "Source": "Equip an Angaturama with this to ride it.",
+      "Trans": {"SC":"给崇高龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3739537406",
+      "Source": "Apatosaurus Saddle",
+      "Trans": {"SC":"迷惑龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::33235258",
+      "Source": "Equip a Apatosaurus with this to ride it.",
+      "Trans": {"SC":"给迷惑龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3418499104",
+      "Source": "Austroraptor Saddle",
+      "Trans": {"SC":"南方盗龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::679925100",
+      "Source": "Equip a Austroraptor with this to ride it.",
+      "Trans": {"SC":"给南方盗龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1703662325",
+      "Source": "Iguanacolossus Saddle",
+      "Trans": {"SC":"巨禽龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1511553672",
+      "Source": "Equip a Iguanacolossus with this to ride it.",
+      "Trans": {"SC":"给巨禽龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3658583710",
+      "Source": "Aerosteon Saddle",
+      "Trans": {"SC":"气腔龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3234128413",
+      "Source": "Equip a Aerosteon with this to ride it.",
+      "Trans": {"SC":"给气腔龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1719059926",
+      "Source": "Brachachenius Saddle",
+      "Trans": {"SC":"短颈龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1120673698",
+      "Source": "Equip a Brachachenius with this to ride it.",
+      "Trans": {"SC":"给短颈龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2248890690",
+      "Source": "Cedarosaurus Saddle",
+      "Trans": {"SC":"雪松龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3806052353",
+      "Source": "Equip a Cedarosaurus with this to ride it.",
+      "Trans": {"SC":"给雪松龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2006615197",
+      "Source": "Chungkingosaurus Saddle",
+      "Trans": {"SC":"重庆龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2171107333",
+      "Source": "Equip a Chungkingosaurus with this to ride it.",
+      "Trans": {"SC":"给重庆龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3829121423",
+      "Source": "Cedardraco Saddle",
+      "Trans": {"SC":"雪松龙翼龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2551817164",
+      "Source": "Equip a Cedardraco with this to ride it.",
+      "Trans": {"SC":"给雪松龙翼龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3524410037",
+      "Source": "Deinocheirus Saddle",
+      "Trans": {"SC":"恐手龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3156223825",
+      "Source": "Equip a Deinocheirus with this to ride it.",
+      "Trans": {"SC":"给恐手龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2288667298",
+      "Source": "Deltadromeus Saddle",
+      "Trans": {"SC":"三角洲奔龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3427070747",
+      "Source": "Equip a Deltadromeus with this to ride it.",
+      "Trans": {"SC":"给三角洲奔龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2765007690",
+      "Source": "Diabloceratops Saddle",
+      "Trans": {"SC":"恶魔角龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4131355123",
+      "Source": "Equip a Diabloceratops with this to ride it.",
+      "Trans": {"SC":"给恶魔角龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1554522881",
+      "Source": "Epanterias Saddle",
+      "Trans": {"SC":"依潘龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3575809764",
+      "Source": "Equip a Epanterias with this to ride it.",
+      "Trans": {"SC":"给依潘龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3337913859",
+      "Source": "Eryops Saddle",
+      "Trans": {"SC":"引螈鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1494072043",
+      "Source": "Equip a Eryops with this to ride it.",
+      "Trans": {"SC":"给引螈装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3571446892",
+      "Source": "Gargoyleosaurus Saddle",
+      "Trans": {"SC":"怪嘴龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::482416052",
+      "Source": "Equip a Gargoyleosaurus with this to ride it.",
+      "Trans": {"SC":"给怪嘴龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::496707715",
+      "Source": "Hadal Dragonfish Implant",
+      "Trans": {"SC":"深渊奇棘鱼植入体","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1336824011",
+      "Source": "Equip a Hadal Dragonfish with this to ride it.",
+      "Trans": {"SC":"给深渊奇棘鱼装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2762923971",
+      "Source": "Horned Nurse Shark Saddle",
+      "Trans": {"SC":"角护士鲨鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1556349671",
+      "Source": "Equip a Horned Nurse Shark with this to ride it.",
+      "Trans": {"SC":"给角护士鲨装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1665111685",
+      "Source": "Inostrancevia Saddle (KC)",
+      "Trans": {"SC":"狼蜥兽鞍（KC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4121539557",
+      "Source": "Equip an Inostrancevia with this to ride it.",
+      "Trans": {"SC":"给狼蜥兽装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3495565156",
+      "Source": "Kaikaifilu Saddle",
+      "Trans": {"SC":"海蛇神龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2194548761",
+      "Source": "Equip a Kaikaifilu with this to ride it.",
+      "Trans": {"SC":"给海蛇神龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2550757113",
+      "Source": "Gigatitan Saddle",
+      "Trans": {"SC":"泰坦鸣虫鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3105882049",
+      "Source": "Equip a Gigatitan with this to ride it.",
+      "Trans": {"SC":"给泰坦鸣虫装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2529540541",
+      "Source": "Magnapaulia Saddle",
+      "Trans": {"SC":"巨保罗龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1474292816",
+      "Source": "Equip a Magnapaulia with this to ride it.",
+      "Trans": {"SC":"给巨保罗龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1747040380",
+      "Source": "Ogre Darner Saddle",
+      "Trans": {"SC":"噬人魔蜓鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3050549223",
+      "Source": "Equip an Ogre Darner with this to ride it.",
+      "Trans": {"SC":"给噬人魔蜓装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1975604716",
+      "Source": "Phosphatodraco Saddle",
+      "Trans": {"SC":"磷矿翼龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2673650075",
+      "Source": "Equip a Phosphatodraco with this to ride it.",
+      "Trans": {"SC":"给磷矿翼龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1543180626",
+      "Source": "Tyrannotitan Saddle",
+      "Trans": {"SC":"魁纣龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1851664046",
+      "Source": "Equip a Tyrannotitan (from AC2) with this to ride it",
+      "Trans": {"SC":"给（AC2 模组的）魁纣龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3331490216",
+      "Source": "Yangchuanosaurus (WA) Saddle",
+      "Trans": {"SC":"永川龙鞍（WA ）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3782810331",
+      "Source": "Equip a Yangchuanosaurus (WA) with this to ride it.",
+      "Trans": {"SC":"给（WA 款）永川龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4241233087",
+      "Source": "Skorpiovenator Saddle",
+      "Trans": {"SC":"蝎猎龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::870556275",
+      "Source": "Equip a Skorpiovenator with this to ride it.",
+      "Trans": {"SC":"给蝎猎龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2373854607",
+      "Source": "Suchomimus Saddle",
+      "Trans": {"SC":"似鳄龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3178836826",
+      "Source": "Equip a Suchomimus with this to ride it.",
+      "Trans": {"SC":"给似鳄龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1192514358",
+      "Source": "Tarchia Saddle",
+      "Trans": {"SC":"多智龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2750664296",
+      "Source": "Equip a Tarchia with this to ride it.",
+      "Trans": {"SC":"给多智龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3807564126",
+      "Source": "Torosaurus Saddle",
+      "Trans": {"SC":"牛角龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4141888802",
+      "Source": "Equip a Torosaurus with this to ride it.",
+      "Trans": {"SC":"给牛角龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3147051997",
+      "Source": "Tyrannomimus Saddle",
+      "Trans": {"SC":"似暴龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::419185431",
+      "Source": "Equip a Tyrannomimus with this to ride it.",
+      "Trans": {"SC":"给似暴龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2451167974",
+      "Source": "Vallibonavenatrix Gauntlets",
+      "Trans": {"SC":"瓦利波纳盗龙爪套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3511423240",
+      "Source": "Equip a Vallibonavenatrix with these gauntlets in order to boost its claw attack power and new attributes to the attacks.",
+      "Trans": {"SC":"给瓦利波纳盗龙装备该爪套，可提升其爪击威力，并为攻击附加全新属性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1400586777",
+      "Source": "Vallibonavenatrix Muzzle",
+      "Trans": {"SC":"瓦利波纳盗龙口套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3594886136",
+      "Source": "Equip a Vallibonavenatrix with this to increase its biting strength.",
+      "Trans": {"SC":"给瓦利波纳盗龙装备该口套，可提升其撕咬力度。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3280463201",
+      "Source": "Vallibonavenatrix Saddle",
+      "Trans": {"SC":"瓦利波纳盗龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2612567858",
+      "Source": "Equip a Vallibonavenatrix with this to ride it.",
+      "Trans": {"SC":"给瓦利波纳盗龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2962747951",
+      "Source": "Anteosaurus Saddle",
+      "Trans": {"SC":"安蒂欧兽鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4194420528",
+      "Source": "Equip an Anteosaurus with this to ride it.",
+      "Trans": {"SC":"给安蒂欧兽装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::559832663",
+      "Source": "Xuanhanosaurus Saddle",
+      "Trans": {"SC":"宣汉龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2292629321",
+      "Source": "Equip a Xuanhanosaurus with this to ride it.",
+      "Trans": {"SC":"给宣汉龙装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::806862821",
+      "Source": "Albert Base Ability",
+      "Trans": {"SC":"阿尔伯托龙基础能力","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::66888024",
+      "Source": "THE ALBERT IS POGGING?!",
+      "Trans": {"SC":"这只阿尔伯托龙燃起来了？！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::670649749",
+      "Source": "Skin: Dense Muscles",
+      "Trans": {"SC":"皮肤特性：肌肉发达","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1660782634",
+      "Source": "Passive ability. The muscles underneath Albertosaurus's skin experience profound growth. However, the skin above becomes thinner to allow these muscles to move.<#N#><#N#>-50% Resistance for +25% Movement Speed and +25% Melee Damage.<#N#><#N#>As a Skin ability, this cannot stack with Thick Skin or Thin Skin.",
+      "Trans": {"SC":"被动技能。阿尔伯托龙皮下肌肉会大幅增生，为了让肌肉更好活动，表层皮肤会随之变薄。<#N#><#N#>效果：抗性降低 50%，移动速度提升 25%，近战伤害提升 25%。该皮肤特性无法与厚皮、薄皮特性叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3539553621",
+      "Source": "Ability: Feast",
+      "Trans": {"SC":"技能：暴食盛宴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::628671694",
+      "Source": "Unlocks Albertosaurus's Feast ability. The primary bite will be able to gain a potent healing buff from harvesting corpses.",
+      "Trans": {"SC":"解锁阿尔伯托龙的暴食盛宴技能。使用普通撕咬啃食尸体时，可获得强效治疗增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::415823321",
+      "Source": "Ability: Crushing Bite",
+      "Trans": {"SC":"技能：粉碎撕咬","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4276784088",
+      "Source": "Unlocks Albertosaurus's Crushing Bite ability, which inflicts Bone Break. The attack becomes available on C (third attack).",
+      "Trans": {"SC":"解锁阿尔伯托龙的粉碎撕咬技能，可触发骨折效果。该技能绑定 C 键释放（为第三攻击段）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2915517909",
+      "Source": "Ability: I Recognize This",
+      "Trans": {"SC":"技能：我认得你","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3925382967",
+      "Source": "Unlocks a... change to Albertosaurus's roar. The ability can be shifted on and off with O key.",
+      "Trans": {"SC":"解锁阿尔伯托龙的咆哮变体效果，可通过 O 键开关该技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1322798404",
+      "Source": "Ability: Shoulderbash",
+      "Trans": {"SC":"技能：肩撞冲击","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2121940901",
+      "Source": "Unlocks Albertosaurus's Shoulder Bash. Deals good damage for its size, while inflicting heavy knockback. The attack becomes available on jump bind. Provides a parry window during the shoulder bash itself. <#RN#><#RN#>If timed correctly, take 0 damage and reflect damage back to the attacker in the attack's damagetype. Calculation: (1/4 Damage you would've received) x Your Melee Stat, to a max of 2,250.",
+      "Trans": {"SC":"解锁阿尔伯托龙的肩撞冲击技能。以其体型而言，该技能伤害可观且附带强力击退效果，绑定跳跃键释放。肩撞过程中会出现格挡判定窗口，<#RN#><#RN#>时机把握得当的话，可免疫本次伤害，并将伤害按原类型反弹给攻击者。伤害计算公式：（即将承受伤害的 1/4）× 自身近战属性值，最高反弹上限为 2250 点。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4184396320",
+      "Source": "Ability: Swift Swim",
+      "Trans": {"SC":"技能：迅捷泳姿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2551562405",
+      "Source": "Increases Albertosaurus's swimming speed by 25%",
+      "Trans": {"SC":"阿尔伯托龙游泳速度提升 25%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2570304812",
+      "Source": "Skin: Thick Skin",
+      "Trans": {"SC":"皮肤特性：厚皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3880237003",
+      "Source": "Passive ability. The skin of the albertosaurus becomes thicker and more resistant to damage and stress. However, the excess weight makes movement a bit harder..<#RN#><#RN#>+25% Resistance and +25% Weight at the cost of -50% speed<#RN#><#RN#>As a Skin ability, this cannot stack with Thin Skin or Dense Muscles.",
+      "Trans": {"SC":"被动技能。阿尔伯托龙的皮肤会增厚变硬，提升伤害抗性与负重能力，但额外的重量会拖累行动速度。<#RN#><#RN#>效果：抗性提升 25%，负重提升 25%，移动速度降低 50%。<#RN#><#RN#>该皮肤特性无法与薄皮、肌肉发达特性叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::715155469",
+      "Source": "Skin: Thin Skin",
+      "Trans": {"SC":"皮肤特性：薄皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1480281894",
+      "Source": "Passive ability. The skin of the albertosaurus becomes thinner, thus less effort needed to move. However, the loss of mass decreases strength for carry weight and resistance.<#N#><#N#>-25% Resistance and -25% weight for +50% movement speed.<#N#><#N#>As a Skin ability, this cannot stack with Thick Skin or Dense Muscles.",
+      "Trans": {"SC":"被动技能。阿尔伯托龙的皮肤会变得纤薄，大幅降低行动负担，但身体防护力和负重能力也会随之下降。<#N#><#N#>效果：抗性降低 25%，负重降低 25%，移动速度提升 50%。<#N#><#N#>该皮肤特性无法与厚皮、肌肉发达特性叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2439647263",
+      "Source": "Strawberry",
+      "Trans": {"SC":"草莓","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1852920290",
+      "Source": "A familiar red berry, known for its juiciness and sweet taste. Better than normal berries for food. Herbivores might perk up if you used this somehow...",
+      "Trans": {"SC":"一种常见的红色浆果，以多汁香甜著称，作为食物的效果优于普通浆果。食草生物或许会对它格外感兴趣……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::881235374",
+      "Source": "Honey-Glazed Strawberry",
+      "Trans": {"SC":"蜜汁草莓","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1361576216",
+      "Source": "A strawberry, coated in sticky honey. A really sweet treat. Most critters eat it like a berry, but a certain creature of tropical locales might really like this...",
+      "Trans": {"SC":"裹满粘稠蜂蜜的草莓，是绝佳的甜食。大部分生物都会将其当作浆果进食，但生活在热带地区的某类生物，或许会对它情有独钟……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1401694669",
+      "Source": "A Worthy Challenge",
+      "Trans": {"SC":"强者的试炼","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2043785800",
+      "Source": "Use on your mount to initiate the taming process for Magnapaulia:<#N#><#N#>- Cannot be used on Carnivores, Flyers or Players<#N#>- Cannot dismount your creature during the process until Magnapaulia is downed.",
+      "Trans": {"SC":"对坐骑使用，即可开启巨保罗龙的驯服流程。<#N#><#N#>注意：不可对肉食生物、飞行生物或玩家使用；驯服过程中需持续骑乘，直至大鸭龙被击晕，期间无法下马。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2524302994",
+      "Source": "Crop Blend",
+      "Trans": {"SC":"作物混合饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1761004820",
+      "Source": "A blend of crops and other resources.Due to the flavor and presentation, herbivores will go nuts over this.",
+      "Trans": {"SC":"由各类作物与其他资源调配而成的饲料。凭借绝佳的风味与口感，能让食草生物为之疯狂。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2245304565",
+      "Source": "Greater Antidote",
+      "Trans": {"SC":"高级解毒剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2205432123",
+      "Source": "Cures Lesser and Greater Afflictions!",
+      "Trans": {"SC":"可治愈轻度与重度感染！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2384819799",
+      "Source": "Synthesized Lesser Antidote",
+      "Trans": {"SC":"合成初级解毒剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2557575401",
+      "Source": "Cures Lesser Afflictions on Players and Dinos alike with improved effectiveness!",
+      "Trans": {"SC":"能治愈玩家与恐龙的轻度感染，且疗效更优！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1030543951",
+      "Source": "Fertilized Aberrant Angaturama Egg",
+      "Trans": {"SC":"受精的畸变崇高龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2816162892",
+      "Source": "Fertilized Fasolasuchus loricatus Egg",
+      "Trans": {"SC":"受精的法索拉鳄（AC）蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1510918058",
+      "Source": "Fertilized Aberrant Fasolasuchus loricatus Egg",
+      "Trans": {"SC":"受精的畸变法索拉鳄（AC）蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::168373998",
+      "Source": "Fertilized Aberrant Styracosaurus Egg",
+      "Trans": {"SC":"受精的畸变戟龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2294832639",
+      "Source": "Fertilized Yangchuannosaurus (AC) Egg",
+      "Trans": {"SC":"受精的永川龙蛋（AC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3618916127",
+      "Source": "Alberto Egg",
+      "Trans": {"SC":"阿尔伯托龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1649250624",
+      "Source": "Fertilized  Alberto Egg",
+      "Trans": {"SC":"受精的阿尔伯托龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1974239419",
+      "Source": "Fertilized Angaturama Egg",
+      "Trans": {"SC":"受精的崇高龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2793711994",
+      "Source": "Fertilized Anteosaurus Egg",
+      "Trans": {"SC":"受精的安蒂欧兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2001881556",
+      "Source": "Fertilized Scorched Anteosaurus Egg",
+      "Trans": {"SC":"受精的焦土安蒂欧兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1994031389",
+      "Source": "Fertilized Austroraptor Egg",
+      "Trans": {"SC":"受精的南方盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1946905033",
+      "Source": "Fertilized X-Austroraptor Egg",
+      "Trans": {"SC":"受精的 X-南方盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3060140979",
+      "Source": "Fertilized Iguanacolossus Egg",
+      "Trans": {"SC":"受精的巨禽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1374119270",
+      "Source": "Fertilized Scorched Iguanacolossus Egg",
+      "Trans": {"SC":"受精的焦土巨禽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3819405227",
+      "Source": "Fertilized Aerosteon Egg",
+      "Trans": {"SC":"受精的气腔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2150110637",
+      "Source": "Fertilized X-Angaturama Egg",
+      "Trans": {"SC":"受精的 X-崇高龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4266634999",
+      "Source": "Fertilized Cedarosaurus Egg",
+      "Trans": {"SC":"受精的雪松龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4238231075",
+      "Source": "Fertilized X-Cedarosaurus Egg",
+      "Trans": {"SC":"受精的 X-雪松龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3030397828",
+      "Source": "Fertilized Gigatitan Egg",
+      "Trans": {"SC":"受精的泰坦鸣虫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1745006181",
+      "Source": "Fertilized Goyle Egg",
+      "Trans": {"SC":"受精的石像龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2756316675",
+      "Source": "Fertilized Chungkingosaurus Egg",
+      "Trans": {"SC":"受精的重庆龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1017727812",
+      "Source": "Fertilized Arcane Chungkingosaurus Egg",
+      "Trans": {"SC":"受精的奥术重庆龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2476046095",
+      "Source": "Fertilized Chilantai Egg",
+      "Trans": {"SC":"受精的驰龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3122021641",
+      "Source": "Fertilized Inostrancevia Egg",
+      "Trans": {"SC":"受精的狼蜥兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1988345723",
+      "Source": "Fertilized Scorched Inostrancevia Egg",
+      "Trans": {"SC":"受精的焦土狼蜥兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3030290100",
+      "Source": "Fertilized Aberrant Suchomimus Egg",
+      "Trans": {"SC":"受精的畸变似鳄龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2951633078",
+      "Source": "Fertilized Tarchia Egg",
+      "Trans": {"SC":"受精的多智龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2476889441",
+      "Source": "Fertilized Ogre Darner Egg",
+      "Trans": {"SC":"受精的噬人魔蜓蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4253437498",
+      "Source": "Fertilized Deinocheirus Egg",
+      "Trans": {"SC":"受精的恐手龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3788869782",
+      "Source": "Fertilized Torosaur Egg",
+      "Trans": {"SC":"受精的牛角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1585954962",
+      "Source": "Fertilized Tyrannomimus Egg",
+      "Trans": {"SC":"受精的似暴龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::995169103",
+      "Source": "Fertilized Vallibonaventrix Egg",
+      "Trans": {"SC":"受精的巴利沃那女猎龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3789517765",
+      "Source": "Fertilized X-Vallibonaventrix Egg",
+      "Trans": {"SC":"受精的 X-巴利沃那女猎龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::639192245",
+      "Source": "Fertilized Magnapaulia Egg",
+      "Trans": {"SC":"受精的巨保罗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3557613896",
+      "Source": "Fertilized Xuanhanosaurus Egg",
+      "Trans": {"SC":"受精的宣汉龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2020208463",
+      "Source": "Fertilized Aberrant Deinocheirus Egg",
+      "Trans": {"SC":"受精的畸变恐手龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::505674929",
+      "Source": "Fertilized Deltadromeus Egg",
+      "Trans": {"SC":"受精的三角洲奔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::982213937",
+      "Source": "Fertilized X-Magnapaulia Egg",
+      "Trans": {"SC":"受精的 X-巨保罗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::42613508",
+      "Source": "Fertilized Phosphatodraco Egg",
+      "Trans": {"SC":"受精的磷矿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::321927032",
+      "Source": "Fertilized X-Phosphatodraco Egg",
+      "Trans": {"SC":"受精的 X-磷矿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::709635611",
+      "Source": "Fertilized Erythrosuchus Egg",
+      "Trans": {"SC":"受精的引鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3887870440",
+      "Source": "Fertilized R-Angaturama Egg",
+      "Trans": {"SC":"受精的 R-崇高龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1080930543",
+      "Source": "Fertilized R-Epanterias Egg",
+      "Trans": {"SC":"受精的 R-依潘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2481546563",
+      "Source": "Fertilized Skorpiovenator Egg",
+      "Trans": {"SC":"受精的蝎猎龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::229199802",
+      "Source": "Fertilized Tyrannotitan Egg",
+      "Trans": {"SC":"受精的魁纣龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4161964384",
+      "Source": "Fertilized R-Tyrannotitan Egg",
+      "Trans": {"SC":"受精的 R-魁纣龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4234073152",
+      "Source": "Fertilized Suchomimus Egg",
+      "Trans": {"SC":"受精的似鳄龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2080973898",
+      "Source": "Fertilized Diabloceratops Egg",
+      "Trans": {"SC":"受精的恶魔角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3177471825",
+      "Source": "Challenger Mindset",
+      "Trans": {"SC":"挑战者心态","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2444580059",
+      "Source": "Inostrancevia deals 15% more damage to, and takes 15% less, from bosses, mission dinos, and alphas. Ino heals and gains increased XP after killing one. <#N#><#N#>CANNOT BE USED WITH OTHER MINDSET ABILITIES.",
+      "Trans": {"SC":"狼蜥兽对首领、任务目标恐龙和精英生物造成的伤害提升 15%，受到的伤害降低 15%。击杀这类目标后，自身会恢复生命值并获得额外经验加成。<#N#><#N#>该心态无法与其他心态技能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::432772668",
+      "Source": "Collector Mindset",
+      "Trans": {"SC":"收集者心态","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2017897239",
+      "Source": "Makes items weigh 30% less in the inventory of Inostrancevia. Black Pearls, Gems, Silica Pearls, Element Shards, Element Dust, and Mutagel are given a 3.5x harvest multiplier.<#N#><#N#>CANNOT BE USED WITH OTHER MINDSET ABILITIES.",
+      "Trans": {"SC":"狼蜥兽背包内的物品重量降低 30%。采集黑珍珠、各类宝石、硅珍珠、元素碎片、元素粉尘和诱变凝胶时，收获倍率提升至 3.5 倍。<#N#><#N#>该心态无法与其他心态技能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2771359301",
+      "Source": "Estute Mindset",
+      "Trans": {"SC":"敏锐者心态","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4089434453",
+      "Source": "Killing anything above 550 drag weight grants 1.5x xp for 5 minutes to self and allies. Killing an Alpha grants 2x XP for 30 minutes. Killing a boss grants 4x XP for an hour.<#N#><#N#>CANNOT BE USED WITH OTHER MINDSET ABILITIES.",
+      "Trans": {"SC":"击杀拖拽重量超过 550 的生物后，自身与队友将获得 5 分钟 1.5 倍经验加成；击杀精英生物，可获得 30 分钟 2 倍经验加成；击杀首领生物，可获得 1 小时 4 倍经验加成。<#N#><#N#>该心态无法与其他心态技能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3609192597",
+      "Source": "Frenzied Mindset",
+      "Trans": {"SC":"狂怒者心态","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2426986636",
+      "Source": "Makes Inostrancevia deal 25% more damage when above 75% HP. After dealing damage for a set amount of time, heal for a time.<#N#><#N#>CANNOT BE USED WITH OTHER MINDSET ABILITIES.",
+      "Trans": {"SC":"狼蜥兽生命值高于 75% 时，造成的伤害提升 25%。持续造成伤害一段时间后，会进入持续回血状态。<#N#><#N#>该心态无法与其他心态技能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2821061059",
+      "Source": "Ino Base Ability",
+      "Trans": {"SC":"狼蜥兽基础能力","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2531918081",
+      "Source": "THE INO IS POGGING?!",
+      "Trans": {"SC":"这只狼蜥兽燃起来了？！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1631813541",
+      "Source": "Survivor Mindset",
+      "Trans": {"SC":"幸存者心态","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3389127441",
+      "Source": "Upon killing any target, Inostrancevia takes 25% less damage and heals over time. <#N#><#N#>CANNOT BE USED WITH OTHER MINDSET ABILITIES.",
+      "Trans": {"SC":"狼蜥兽击杀任意目标后，受到的伤害降低 25%，并进入持续回血状态。<#N#><#N#>该心态无法与其他心态技能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1776178813",
+      "Source": "Traveler Mindset",
+      "Trans": {"SC":"旅行者心态","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3181109158",
+      "Source": "Makes Inostrancevia 25% faster overall, but reduces attack and defence by 15% each. <#N#><#N#>CANNOT BE USED WITH OTHER MINDSET ABILITIES.",
+      "Trans": {"SC":"狼蜥兽全速度提升 25%，但攻击力与防御力各降低 15%。<#N#><#N#该心态无法与其他心态技能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3032537268",
+      "Source": "Fertilized R-Diabloceratops Egg",
+      "Trans": {"SC":"受精的 R-恶魔角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::870129176",
+      "Source": "Fertilized Edmonto Egg",
+      "Trans": {"SC":"受精的埃德蒙顿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3531407804",
+      "Source": "Fertilized Epanterias Egg",
+      "Trans": {"SC":"受精的依潘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1092287241",
+      "Source": "Pet Food Kibble",
+      "Trans": {"SC":"宠物饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1329368923",
+      "Source": "A simple, preserved type of kibble. Not an effective taming food, but an excellent, easy-to-make pet food to fill your troughs. Almost anything will eat it.",
+      "Trans": {"SC":"一种制作简易的长效饲料。虽不适合用于驯服生物，但却是填充食槽的优质选择，制作便捷且几乎所有生物都会食用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::942151300",
+      "Source": "Strawberry Seed",
+      "Trans": {"SC":"草莓种子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2281433469",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Strawberry bush.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，也可种植培育出专属草莓丛，适用于小型、中型和大型耕地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1834354037",
+      "Source": "Fertilized Hadal Dragonfish Egg",
+      "Trans": {"SC":"受精的深渊奇棘鱼卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3370009031",
+      "Source": "Fertilized Eryops Egg",
+      "Trans": {"SC":"受精的引螈蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1885354233",
+      "Source": "Anthracite",
+      "Trans": {"SC":"无烟煤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3010549713",
+      "Source": "A dense, compact form of coal.You could use this in place of charcoal. Normally, this mineral can be found with Obsidian.",
+      "Trans": {"SC":"一种质地致密坚硬的煤炭，可作为木炭的替代品。通常与黑曜石伴生。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::462933789",
+      "Source": "A mineral known as a fuel source and highly valued. On the arks, Coal seems to often be found with Sulfur.You could use it in a similar manner as Sparkpowder",
+      "Trans": {"SC":"一种极具价值的燃料矿产。在方舟大陆上，煤炭常与硫磺伴生，用途与火花粉类似。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1011968665",
+      "Source": "Candlewax",
+      "Trans": {"SC":"蜡烛蜡","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::696179588",
+      "Source": "Some survivors have found the internal furnaces of Yangchuanosaurus and its natural processes perfect for making candle wax!",
+      "Trans": {"SC":"部分幸存者发现，永川龙体内的体温循环系统，是提炼蜡烛蜡的绝佳天然工坊！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1003773463",
+      "Source": "Hunt Point",
+      "Trans": {"SC":"狩猎点数","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3924242520",
+      "Source": "Signifies a significant kill for your Albertosaurus. Use it to unlock skills and features. ",
+      "Trans": {"SC":"由阿尔伯托龙完成重大击杀后获得，可用于解锁新技能与新特性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2768757794",
+      "Source": "Hunt Point (Admin)",
+      "Trans": {"SC":"狩猎点数（管理员专用）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::370209249",
+      "Source": "Digested Cementing Paste",
+      "Trans": {"SC":"消化水泥膏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1373571657",
+      "Source": "Scorpiovenator's diet is aided by a complex and powerful digestive system. This Digestive system breaks down chitin and keratin into a paste-like slush that the animal then excretes. It's the exact same as cementing paste!",
+      "Trans": {"SC":"蝎猎龙拥有一套强大复杂的消化系统，助力其高效消化食物。这套系统能将甲壳素与角蛋白分解为糊状物质并排出体外，产物与水泥膏完全一致！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1803800028",
+      "Source": "Reward Crate: Wild Ark",
+      "Trans": {"SC":"奖励补给箱：野性方舟","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::711635250",
+      "Source": "\"You're doing well, survivor. The more things change, the more they stay the same.<#RN#><#RN#>If you see any of my people, give them a hand, would you? In the meantime, here: for your troubles and efforts.<#RN#><#RN#>Maybe we'll meet one day.<#RN#><#RN#>-H\"",
+      "Trans": {"SC":"干得不错，幸存者。世事变迁，本质依旧。<#RN#><#RN#>若你遇见我的族人，还请伸出援手。这是给你的奖励，聊表谢意。<#RN#><#RN#>或许，我们会在某天相遇。<#RN#><#RN#>——H","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3889101219",
+      "Source": "A powerful propellant. Necessary for any firearm or explosive.",
+      "Trans": {"SC":"一种威力强劲的推进剂，是制造所有枪械与爆炸物的必备材料。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::997522477",
+      "Source": "Sparkpowder Conversion.",
+      "Trans": {"SC":"火花粉转化特性","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3135345112",
+      "Source": "Yangchuannosaurus naturally creates Sparkpowder in its own inventory when it cannot gain access to sulfur in the wild: take advantage of this!",
+      "Trans": {"SC":"当永川龙在野外无法获取硫磺时，会自动在背包内生成火花粉，好好利用这一特性！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3667662790",
+      "Source": "Fragrant candle that when placed down and powered, provides a buff that increases crafting speed (not skill) by 4x and slightly increases exp rate.<#N#><#N#>Ineffective on \"large dinos\".",
+      "Trans": {"SC":"一款芳香蜡烛，放置并充能后，可提供增益效果：制作速度提升 4 倍（不提升技能等级），经验获取速率小幅提高。<#N#><#N#>对大型恐龙无效。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3465146075",
+      "Source": "Fragrant candle that when placed down and powered, provides a buff that slightly regenerates HP while also reducing food and water drain.<#N#><#N#>Ineffective on \"large dinos\".",
+      "Trans": {"SC":"一款芳香蜡烛，放置并充能后，可提供增益效果：生命值小幅持续恢复，食物与水分消耗速度降低。<#N#><#N#>对大型恐龙无效。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1654026135",
+      "Source": "Rend",
+      "Trans": {"SC":"撕裂创伤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2546285500",
+      "Source": "An open wound is causing more damage.",
+      "Trans": {"SC":"开放性伤口正在造成额外伤害！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3049924003",
+      "Source": "Rowdy",
+      "Trans": {"SC":"亢奋状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::12454856",
+      "Source": "Stamina and Torpor Regen at high hp",
+      "Trans": {"SC":"生命值较高时，耐力与眩晕值恢复速度提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4018982061",
+      "Source": "Salt Spray",
+      "Trans": {"SC":"盐雾侵袭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1013969927",
+      "Source": "Snort",
+      "Trans": {"SC":"猛力喷鼻","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1774248256",
+      "Source": "ACHOO!",
+      "Trans": {"SC":"阿嚏！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::647424114",
+      "Source": "Sit Buff",
+      "Trans": {"SC":"休憩增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2204172564",
+      "Source": "Creature consumes food and water at half the normal speed. It also recovers 1% health per second until 5% health recovered, then by only 15 health per sec.",
+      "Trans": {"SC":"生物食物和水分消耗减半；先以每秒 1% 的速度回血至 5% 生命值，之后切换为每秒恢复 15 点生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3516488837",
+      "Source": "Self-Care",
+      "Trans": {"SC":"自愈能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3755749761",
+      "Source": "Rapid Snacc Regeneration",
+      "Trans": {"SC":"快速进食回血","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4173160227",
+      "Source": "Soothing Scent",
+      "Trans": {"SC":"舒缓气息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4109364028",
+      "Source": "Slight healing, food and water drain decrease.",
+      "Trans": {"SC":"小幅恢复生命值，降低食物和水分消耗速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::392047672",
+      "Source": "Sunlight Weakened",
+      "Trans": {"SC":"畏光虚弱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3416620257",
+      "Source": "Damn the light...",
+      "Trans": {"SC":"该死的光线……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1095571241",
+      "Source": "Outlive them!",
+      "Trans": {"SC":"活到最后！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3225169704",
+      "Source": "Stalwart",
+      "Trans": {"SC":"坚毅不屈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3437005468",
+      "Source": "Resisting the foe!",
+      "Trans": {"SC":"顽强抵抗敌人！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3743741564",
+      "Source": "Boom",
+      "Trans": {"SC":"轰鸣冲击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1314306517",
+      "Source": "Hamma",
+      "Trans": {"SC":"轰！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1682085451",
+      "Source": "Uppercut CD",
+      "Trans": {"SC":"上钩拳冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1190861027",
+      "Source": "Brutal Uppercut is on cooldown",
+      "Trans": {"SC":"野蛮上钩拳正在冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::948323475",
+      "Source": "Volt Armor",
+      "Trans": {"SC":"电荷护甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4153921185",
+      "Source": "Deal damage back, increased electrical res",
+      "Trans": {"SC":"反弹部分伤害，提升雷电抗性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2383928126",
+      "Source": "Charge Drain",
+      "Trans": {"SC":"充能消耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4108263546",
+      "Source": "Charging...",
+      "Trans": {"SC":"充能中……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1063693074",
+      "Source": "Ree",
+      "Trans": {"SC":"暴走怒吼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3319715149",
+      "Source": "Dab",
+      "Trans": {"SC":"甩头挑衅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::820846244",
+      "Source": "Valli Gauntlets",
+      "Trans": {"SC":"瓦利爪套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::299044105",
+      "Source": "Increases claw damage and adds rend.",
+      "Trans": {"SC":"提升爪击伤害，并附加撕裂效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4183162353",
+      "Source": "Valli Muzzle",
+      "Trans": {"SC":"瓦利口套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::62222004",
+      "Source": "Increases bite damage and adds penetration.",
+      "Trans": {"SC":"提升撕咬伤害，并附加穿刺效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3793314099",
+      "Source": "OH! OH NO! IT BURNS! AAAAAAAH!",
+      "Trans": {"SC":"啊啊！不！烧起来了！救命啊！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3017919131",
+      "Source": "Estute Learner (Alpha)",
+      "Trans": {"SC":"敏锐学者（精英级）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3333097040",
+      "Source": "2x XP",
+      "Trans": {"SC":"双倍经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3186889468",
+      "Source": "Estute Learner (Boss)",
+      "Trans": {"SC":"敏锐学者（首领级）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1116248965",
+      "Source": "4x XP",
+      "Trans": {"SC":"四倍经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2673393536",
+      "Source": "Estute Learner (Normal)",
+      "Trans": {"SC":"敏锐学者（普通级）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::418992990",
+      "Source": "1.5x XP",
+      "Trans": {"SC":"1.5 倍经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3855291042",
+      "Source": "Yeeted",
+      "Trans": {"SC":"强力击飞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1508737170",
+      "Source": "BEGONE, THOT!",
+      "Trans": {"SC":"滚开，杂碎！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2113006136",
+      "Source": "Parry",
+      "Trans": {"SC":"完美格挡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::792155707",
+      "Source": "I PARRIED IT YOU FILTHY CASUAL!",
+      "Trans": {"SC":"格挡成功了，你这个菜鸡！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3130032927",
+      "Source": "Active Mode",
+      "Trans": {"SC":"活跃模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3837441425",
+      "Source": "Faster, but weaker attacks and less armor.",
+      "Trans": {"SC":"移速提升，但攻击力与护甲值下降","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3543187867",
+      "Source": "Minor Venom!",
+      "Trans": {"SC":"轻微中毒！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::949368834",
+      "Source": "You're loosing HP!",
+      "Trans": {"SC":"你正在流失生命值！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1587595422",
+      "Source": "Venom!",
+      "Trans": {"SC":"中毒！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2244011462",
+      "Source": "Potent Venom!",
+      "Trans": {"SC":"强效中毒！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::740489873",
+      "Source": "Fatal Venom!",
+      "Trans": {"SC":"致命剧毒！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::45885233",
+      "Source": "Adrenaline!",
+      "Trans": {"SC":"肾上腺素飙升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::354633479",
+      "Source": "Adrenaline",
+      "Trans": {"SC":"肾上腺素","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1133214659",
+      "Source": "Fenzied!",
+      "Trans": {"SC":"狂乱！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3310169613",
+      "Source": "Continue your spree of murder, quickly!",
+      "Trans": {"SC":"继续你的猎杀狂欢，快！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3876523000",
+      "Source": "Feeding",
+      "Trans": {"SC":"进食中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2835275641",
+      "Source": "Frenzied Feeding",
+      "Trans": {"SC":"疯狂进食","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1390371565",
+      "Source": "Counter Success",
+      "Trans": {"SC":"反击成功","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::520409381",
+      "Source": "Dodge Success",
+      "Trans": {"SC":"闪避成功","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3875842976",
+      "Source": "Get back in there!",
+      "Trans": {"SC":"杀回去！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::841261789",
+      "Source": "Gouged",
+      "Trans": {"SC":"重创撕裂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1641528264",
+      "Source": "Rapid HP loss!",
+      "Trans": {"SC":"生命值快速流失！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::997679441",
+      "Source": "Assault",
+      "Trans": {"SC":"强攻姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2620849883",
+      "Source": "Assault Block",
+      "Trans": {"SC":"强攻格挡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2245226822",
+      "Source": "Frenzy Manager",
+      "Trans": {"SC":"狂怒调控","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4030513581",
+      "Source": "Bastion Mode",
+      "Trans": {"SC":"壁垒模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2100503833",
+      "Source": "Slower, but stronger attacks and additional res.",
+      "Trans": {"SC":"移速降低，但攻击力与抗性大幅提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2357795258",
+      "Source": "Unlocking...",
+      "Trans": {"SC":"解锁中……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2087191526",
+      "Source": "Dense Muscles",
+      "Trans": {"SC":"肌肉发达","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3394799121",
+      "Source": "-50% Resistance for +25% Movement Speed and +25% Melee Damage.",
+      "Trans": {"SC":"抗性降低 50%，移动速度与近战伤害提升 25%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::313422562",
+      "Source": "Thick Skin",
+      "Trans": {"SC":"厚皮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::12212190",
+      "Source": "+25% Resistance and +25% Weight at the cost of -50% speed",
+      "Trans": {"SC":"抗性与负重提升 25%，移动速度降低 50%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2006129601",
+      "Source": "Thin Skin",
+      "Trans": {"SC":"薄皮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3111400072",
+      "Source": "-25% Resistance and -25% weight for +50% movement speed.",
+      "Trans": {"SC":"抗性与负重降低 25%，移动速度提升 50%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2207126973",
+      "Source": "DashBonus",
+      "Trans": {"SC":"冲刺强化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2311579667",
+      "Source": "Increased Effectiveness!",
+      "Trans": {"SC":"效果增强！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3304619510",
+      "Source": "FearAoE",
+      "Trans": {"SC":"恐惧光环","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::52378710",
+      "Source": "Scaring Enemies",
+      "Trans": {"SC":"震慑周围敌人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2582692536",
+      "Source": "Frenzy",
+      "Trans": {"SC":"狂怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1300803704",
+      "Source": "Increased damage at higher health",
+      "Trans": {"SC":"生命值越高，造成的伤害越高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::493107550",
+      "Source": "Flying",
+      "Trans": {"SC":"飞行中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4058230051",
+      "Source": "Bzzzzzzzzz.............",
+      "Trans": {"SC":"嗡嗡嗡嗡……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2908347478",
+      "Source": "Bug Armor",
+      "Trans": {"SC":"虫甲防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::983621238",
+      "Source": "Wings down, damage halved",
+      "Trans": {"SC":"收拢翅膀，所受伤害减半","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3199122861",
+      "Source": "Bloodloss!",
+      "Trans": {"SC":"失血过多！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4183095929",
+      "Source": "Don't take too many more hits!!",
+      "Trans": {"SC":"别再承受更多攻击了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3604727923",
+      "Source": "Darkness",
+      "Trans": {"SC":"黑暗笼罩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3602097058",
+      "Source": "Darkness consumes you.",
+      "Trans": {"SC":"黑暗吞噬了你","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1095542851",
+      "Source": "Go into the Light...",
+      "Trans": {"SC":"走向光明……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3887297280",
+      "Source": "So pretty... what could go wrong?",
+      "Trans": {"SC":"好美啊…… 会有什么问题呢？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::714312076",
+      "Source": "Recently Executed",
+      "Trans": {"SC":"屠戮狂热","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2402954803",
+      "Source": "Eager for more murder! Stamina refilling!",
+      "Trans": {"SC":"渴望更多猎杀！耐力正在恢复！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4106983949",
+      "Source": "Ruptured Tendons!",
+      "Trans": {"SC":"肌腱断裂！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3068373393",
+      "Source": "You're bleeding! Don't move too much!!",
+      "Trans": {"SC":"你在流血！别乱动！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::192478104",
+      "Source": "Depression",
+      "Trans": {"SC":"情绪低落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4130830796",
+      "Source": "Why you so mean to me?!",
+      "Trans": {"SC":"你为什么对我这么凶？！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2208243568",
+      "Source": "Depth Terror",
+      "Trans": {"SC":"深渊恐惧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::274566190",
+      "Source": "Sunlight is a wanton comfort",
+      "Trans": {"SC":"阳光是遥不可及的慰藉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3002542415",
+      "Source": "Enraged",
+      "Trans": {"SC":"暴怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4153656001",
+      "Source": "Flame Response",
+      "Trans": {"SC":"火焰应激","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::896571340",
+      "Source": "Healing, res, stamina.",
+      "Trans": {"SC":"恢复生命值、提升抗性、补充耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1497518934",
+      "Source": "Creature is landing",
+      "Trans": {"SC":"生物正在降落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::939180060",
+      "Source": "Max Meter",
+      "Trans": {"SC":"能量蓄满","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::117170277",
+      "Source": "Missed!",
+      "Trans": {"SC":"未命中！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2159531212",
+      "Source": "This Angaturama seems rather standard.",
+      "Trans": {"SC":"这只崇高龙性情十分温顺","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3066856333",
+      "Source": "Nurse's Heal",
+      "Trans": {"SC":"看护治愈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3755491295",
+      "Source": "Leader",
+      "Trans": {"SC":"领袖气质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3604692722",
+      "Source": "You know how to give orders and care for those under you.",
+      "Trans": {"SC":"你懂得发号施令，也懂得体恤下属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2169959080",
+      "Source": "Ocean Huntress",
+      "Trans": {"SC":"海洋猎手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1118430227",
+      "Source": "Your gear is being repaired.",
+      "Trans": {"SC":"你的装备正在自动修复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::72248418",
+      "Source": "BLOODBURST!",
+      "Trans": {"SC":"血爆冲击！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::837535012",
+      "Source": "Fire abilities primed",
+      "Trans": {"SC":"火焰技能准备就绪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3392553390",
+      "Source": "Rally Ready",
+      "Trans": {"SC":"集结就绪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::832435260",
+      "Source": "Ready the Rally!",
+      "Trans": {"SC":"准备发起集结号令！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2665526565",
+      "Source": "Buff Roar",
+      "Trans": {"SC":"增益咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1794776202",
+      "Source": "Buffing Allies",
+      "Trans": {"SC":"为盟友提供增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1866203440",
+      "Source": "Heal AoE",
+      "Trans": {"SC":"范围治愈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2776171424",
+      "Source": "Swift Swim",
+      "Trans": {"SC":"迅捷泳姿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1918032972",
+      "Source": "Swimming Speed increased",
+      "Trans": {"SC":"游泳速度提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::258211097",
+      "Source": "This Angaturama seems not to have a care in the world",
+      "Trans": {"SC":"这只崇高龙看起来无忧无虑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2651409470",
+      "Source": "Estute",
+      "Trans": {"SC":"聪慧敏锐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1503358724",
+      "Source": "Always learn more.",
+      "Trans": {"SC":"求知欲永不满足","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1727743253",
+      "Source": "Traveler",
+      "Trans": {"SC":"漫游者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2588324137",
+      "Source": "See the sights of the world!",
+      "Trans": {"SC":"见识世间万象！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1771330953",
+      "Source": "Challenger",
+      "Trans": {"SC":"挑战者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3268446033",
+      "Source": "Give me trial!",
+      "Trans": {"SC":"放马过来！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2375389178",
+      "Source": "Renewal",
+      "Trans": {"SC":"涅槃重生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2464512426",
+      "Source": "Not done YET!",
+      "Trans": {"SC":"还没结束！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::484857290",
+      "Source": "Challenged",
+      "Trans": {"SC":"接战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::810512786",
+      "Source": "It's on like donkey kong.",
+      "Trans": {"SC":"好戏开场了","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::647698339",
+      "Source": "Magnapaulia Heal",
+      "Trans": {"SC":"巨保罗龙治愈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4173156284",
+      "Source": "+15% (to a max of 10,000) of max HP recovered over 40 sec. +50 stam per sec -100 torp per sec",
+      "Trans": {"SC":"40 秒内恢复最大生命值的 15%（最高 10000 点）；每秒恢复 50 点耐力，减少 100 点眩晕值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2412569257",
+      "Source": "You can now challenge a Magnapaulia!",
+      "Trans": {"SC":"你现在可以挑战巨保罗龙了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3461251797",
+      "Source": "Defeated in combat",
+      "Trans": {"SC":"战败休整","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::862515473",
+      "Source": "Recovering",
+      "Trans": {"SC":"正在恢复状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1928191251",
+      "Source": "Chomped!",
+      "Trans": {"SC":"被撕咬！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3716905338",
+      "Source": "Ahh sugar! Somethings gotta bite!",
+      "Trans": {"SC":"啊糟了！有东西在咬我！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2205449405",
+      "Source": "Venom Shield",
+      "Trans": {"SC":"毒液护盾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1295548957",
+      "Source": "Refreshing Scent of Clarity",
+      "Trans": {"SC":"澄明醒脑气息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2424605109",
+      "Source": "4x crafting, 1.15x exp",
+      "Trans": {"SC":"制作速度提升 4 倍，经验获取提升 15%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3790089152",
+      "Source": "Collector",
+      "Trans": {"SC":"收集癖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1425121695",
+      "Source": "Shiny shiny!",
+      "Trans": {"SC":"亮晶晶的！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2252773994",
+      "Source": "Worn Out",
+      "Trans": {"SC":"筋疲力尽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1533104387",
+      "Source": "Flesh Sacrifice",
+      "Trans": {"SC":"血肉献祭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3529565142",
+      "Source": "Frenzied",
+      "Trans": {"SC":"狂怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1726178787",
+      "Source": "BRING ME WAR!!",
+      "Trans": {"SC":"向我宣战！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::933512780",
+      "Source": "Jabbing",
+      "Trans": {"SC":"连续戳刺","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1678084731",
+      "Source": "Reducing Stamina...",
+      "Trans": {"SC":"削减耐力值……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3221523177",
+      "Source": "Boosted Damage",
+      "Trans": {"SC":"伤害增幅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1175050237",
+      "Source": "Maximum efficiency!",
+      "Trans": {"SC":"效率最大化！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1997960875",
+      "Source": "Rawr",
+      "Trans": {"SC":"嗷呜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1370520234",
+      "Source": "Victory",
+      "Trans": {"SC":"胜利","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1173148495",
+      "Source": "You can tame the defeated big paul, it will not attack you unless you do.",
+      "Trans": {"SC":"你可以驯服这只战败的大鸭龙，它不会主动攻击你，除非你先动手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::182330435",
+      "Source": "PP Manager",
+      "Trans": {"SC":"能量管控","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3794645516",
+      "Source": "Angry Goose",
+      "Trans": {"SC":"愤怒大鹅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2231933658",
+      "Source": "Quack Attack",
+      "Trans": {"SC":"嘎嘎攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1733104121",
+      "Source": "Peak Performance",
+      "Trans": {"SC":"巅峰状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1604451081",
+      "Source": "Increased speed at higher health",
+      "Trans": {"SC":"生命值越高，移动速度越快","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::161910489",
+      "Source": "Pog Hit",
+      "Trans": {"SC":"暴击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3645289559",
+      "Source": "Anteo Insulation",
+      "Trans": {"SC":"前龙隔热","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3216142759",
+      "Source": "Increases both hyperthermic and hypothermic insulation",
+      "Trans": {"SC":"提升耐热与耐寒能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2295167304",
+      "Source": "Anteo Slobbered Insulation",
+      "Trans": {"SC":"前龙涎液隔热","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2103859471",
+      "Source": "Increases both hyperthermic and hypothermic insulation. They said it and spread it.",
+      "Trans": {"SC":"提升耐热与耐寒能力，这是它们族群传承的生存本领","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::372463541",
+      "Source": "Polymer Armor",
+      "Trans": {"SC":"聚合物护甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1178781677",
+      "Source": "Detonation Immunity",
+      "Trans": {"SC":"防爆免疫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2457738838",
+      "Source": "Cannot blow up again for a time",
+      "Trans": {"SC":"一段时间内不会再次被引爆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::285724260",
+      "Source": "Baby Protected",
+      "Trans": {"SC":"幼崽庇护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2199230609",
+      "Source": "X-Smok Saurovindico",
+      "Trans": {"SC":"X-斗蜥龙鳄","JA":"X-斗蜥龙鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2890646499",
+      "Source": "Deinocheirus Nest",
+      "Trans": {"SC":"恐手龙巢","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::183215796",
+      "Source": "Smok Saurovindico",
+      "Trans": {"SC":"斗蜥龙鳄","JA":"斗蜥龙鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::991159365",
+      "Source": "Aberrant Smok Saurovindico",
+      "Trans": {"SC":"畸变斗蜥龙鳄","JA":"畸變斗蜥龙鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2087811051",
+      "Source": "Crystalline Smok Saurovindico",
+      "Trans": {"SC":"晶化斗蜥龙鳄","JA":"晶化斗蜥龙鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3115196623",
+      "Source": "Smok Saddle",
+      "Trans": {"SC":"斗蜥龙鳄鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1451074301",
+      "Source": "Equip a Smok saurovindico with this to ride it.",
+      "Trans": {"SC":"给斗蜥龙鳄装备此物，即可骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3513900302",
+      "Source": "An Ultimate Challenge",
+      "Trans": {"SC":"终极挑战","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::11898034",
+      "Source": "Use on your mount to initiate the taming process for Smok saurovindico.<#RN#><#RN#>The following creatures in vanilla (or those childed from them), and those from Wild Ark, are the only ones who can challenge Smok.<#RN#>- Rex<#RN#>- Therizinosaur<#RN#>- Spinosaur<#RN#>- Ossidon<#RN#>- Magnapaulia<#RN#>- Deinocheirus (Wild ARK)<#RN#>- Tarchia<#RN#>- Fasolasuchus loricatus<#RN#>- Tyrannotitan<#RN#>- Deinosuchus<#RN#><#RN#><#RN#>The following creatures from other mods by Shadlos are able to also challenge Smok<#RN#>- Acrocanthosaurus (Shad's Critter Reworks)<#RN#>- Gunesh Magni (AC: Mythology)<#RN#>- Mongrel Cyclops (Shad's Atlas Imports)<#RN#>- Oxalaia (IoM: Oxalaia)<#RN#>- Spearcrest (IoM: Spearcrest)<#RN#><#RN#>Good luck, Survivor.<#RN#>",
+      "Trans": {"SC":"在你的坐骑上使用此物，开启斗蜥龙鳄的驯服流程。<#RN#><#RN#>原版生物（或其衍生亚种）以及野性方舟模组生物，是仅有的能够挑战斗蜥龙鳄的物种：.<#RN#>- 霸王龙<#RN#>- 镰刀龙<#RN#>- 棘背龙<#RN#>- 奥西顿<#RN#>- 巨保罗龙<#RN#>- 恐手龙 <#RN#>- 多智龙<#RN#>- 法索拉鳄（AC）<#RN#>- 魁纣龙<#RN#>- 恐鳄<#RN#><#RN#><#RN#>以下为该作者其它模组生物，同样可以挑战斗蜥龙鳄：<#RN#>- Acrocanthosaurus (Shad's Critter Reworks)<#RN#>- Gunesh Magni (AC: Mythology)<#RN#>- Mongrel Cyclops (Shad's Atlas Imports)<#RN#>- Oxalaia (IoM: Oxalaia)<#RN#>- Spearcrest (IoM: Spearcrest)<#RN#><#RN#>Good luck, Survivor.<#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2521319904",
+      "Source": "Fertilized Smok Egg",
+      "Trans": {"SC":"受精的斗蜥龙鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2087620118",
+      "Source": "Fertilized Aberrant Smok Egg",
+      "Trans": {"SC":"受精的畸变斗蜥龙鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2317946370",
+      "Source": "Fertilized Crystalline Smok Egg",
+      "Trans": {"SC":"受精的晶化斗蜥龙鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3293737085",
+      "Source": "Fertilized X-Smok Egg",
+      "Trans": {"SC":"受精的X-斗蜥龙鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3307644814",
+      "Source": "Duel In Progress",
+      "Trans": {"SC":"决斗进行中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2318600114",
+      "Source": "Some desire death, it would seem.",
+      "Trans": {"SC":"看似，有人渴求死亡。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::523726800",
+      "Source": "Apex's Challenger",
+      "Trans": {"SC":"顶尖挑战者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2691155646",
+      "Source": "Good luck, survivor.",
+      "Trans": {"SC":"祝你好运，幸存者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2112381189",
+      "Source": "Power comes at a hefty price...",
+      "Trans": {"SC":"力量，需付出沉重代价……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2156545320",
+      "Source": "Apex Furor",
+      "Trans": {"SC":"绝顶狂怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::696230370",
+      "Source": "Thrash Cooldown",
+      "Trans": {"SC":"猛击冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1453471047",
+      "Source": "Biting",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2678044366",
+      "Source": "Cronch!",
+      "Trans": {"SC":"咔嚓","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1145781039",
+      "Source": "Lunge Cooldown",
+      "Trans": {"SC":"突进冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1458481552",
+      "Source": "This Angaturama seems rather feral!",
+      "Trans": {"SC":"这只崇高龙异常狂暴！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3117979583",
+      "Source": "Dearhmark",
+      "Trans": {"SC":"死亡印记","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3317607177",
+      "Source": "Only a fool dares.",
+      "Trans": {"SC":"唯有愚者，胆敢妄为。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1009950762",
+      "Source": "Headslam Cooldown",
+      "Trans": {"SC":"头槌冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2313148345",
+      "Source": "Nothronychus",
+      "Trans": {"SC":"懒爪龙","JA":"懶爪龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1728752556",
+      "Source": "Spinoraptor",
+      "Trans": {"SC":"棘盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1460530040",
+      "Source": "Alpha Vallibonaventrix",
+      "Trans": {"SC":"精英巴利沃那女猎龙","JA":"精英巴利沃那女獵龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::197051989",
+      "Source": "Scorched Iguanacolossus",
+      "Trans": {"SC":"焦土巨禽龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3539013690",
+      "Source": "Dont Spawn Me",
+      "Trans": {"SC":"禁止生成此生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1856010340",
+      "Source": "Nothronychus Saddle",
+      "Trans": {"SC":"懒爪龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::329999514",
+      "Source": "Equip a Nothronychus with this to ride it",
+      "Trans": {"SC":"装备到懒爪龙上以骑乘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::457114764",
+      "Source": "(AC2) Edmontosaurus Saddle",
+      "Trans": {"SC":"(AC2) 埃德蒙顿龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2254450796",
+      "Source": "Inostrancevia Saddle (AC2)",
+      "Trans": {"SC":"(AC2) 狼蜥兽鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3695768804",
+      "Source": "Fertilized Spinoraptor Egg",
+      "Trans": {"SC":"受精的棘盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2808508047",
+      "Source": "Juggled",
+      "Trans": {"SC":"浮空击飞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3584501150",
+      "Source": "Ragdolled",
+      "Trans": {"SC":"瘫软","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

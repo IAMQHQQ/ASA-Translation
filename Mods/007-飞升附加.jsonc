@@ -1,0 +1,385 @@
+{
+  // 2026-04-02 23:31:44
+  "Acrocanthosaurus": [
+    {
+      "NamespaceHash": "Content::2951306209",
+      "Source": "Common Name: Acrocanthosaurus\r\nSpecies: Acrocanthosaurus Aegis\r\nTime: Early Cretaceous \r\nDiet: Carnivore \r\nTemperament: Aggressive\r\n\r\nAppearing much larger than expected, Acrocanthosaurus is a fearsom carnivorous theropod that makes even Rex look small. While doing slightly less damage than the fearsom Rex, Acro's gargantuan stature make their attacks particularly lethal against smaller opponents. When suffering from significant wounds in battle, Acro resort to using the massive flanks of their body as a sort of shield, mitigating the damage they recieve considerably. This \"shield stance\" can rapidly lead to Acro entering a state of adrenaline... so be careful. This rush of adrenaline will make an Acro frighteningly fast and extremely dangerous.\r\n\r\nAcrocanthosaurus appear to be immune to the typical method of applying narcotics. I have met few survivors which have managed to tame these beasts however, and they claim you can knockout an Acro by forcing narcotics down its throat as it gains its rush of adrenaline... no thank you... That being said, I have no doubt a tamed Acrocanthosaurus would prove very useful in combat, if its tanking and adrenaline can be utilized properly.\r\n",
+      "Trans": { "SC": "", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2634388422",
+      "Source": "Activate Adrenaline / Taunt Roar",
+      "Trans": { "SC": "激活亢奋状态 / 嘲讽咆哮", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1426251216",
+      "Source": "Stomp / Shoulder Bash",
+      "Trans": { "SC": "踩踏 / 肩撞", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2949052476",
+      "Source": "Fertilized Ascended Acro Egg",
+      "Trans": { "SC": "受精的飞升高棘龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::482511316",
+      "Source": "Fertilized Scorched Acro Egg",
+      "Trans": { "SC": "受精的焦土高棘龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3798851105",
+      "Source": "Acrocanthosaurus",
+      "Trans": { "SC": "高棘龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1085241693",
+      "Source": "Acro Saddle",
+      "Trans": { "SC": "高棘龙鞍", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1570013511",
+      "Source": "Equip an Acrocanthosaurus with this to ride it.",
+      "Trans": { "SC": "装备到高棘龙上以骑乘。", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3159299144",
+      "Source": "Equip an Acro with this to ride it.",
+      "Trans": { "SC": "装备到高棘龙上以骑乘。", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2940841590",
+      "Source": "Ascended Acrocanthosaurus",
+      "Trans": { "SC": "飞升高棘龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::993253881",
+      "Source": "Paleo Acrocanthosaurus",
+      "Trans": { "SC": "远古高棘龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3901604306",
+      "Source": "Scorched Acrocanthosaurus",
+      "Trans": { "SC": "焦土高棘龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2286897139",
+      "Source": "Activate Adrenaline",
+      "Trans": { "SC": "激活亢奋状态", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      //8B042BE9457CBF4209D172B53AA2FF0E
+      //65E7E337422F078449EE1B92B81188C3
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2799182966",
+      "Source": "Activate Adrenaline (meter must be full)",
+      "Trans": { "SC": "激活亢奋状态 (能量槽必须充满)", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "8C3156BA438724A9F136E2A87A99423F",
+      "Source": "Spacebar",
+      //这种功能键最好找到它32位Key值
+      "Trans": { "SC": "空格键", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "2066877284" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1671473134",
+      "Source": "Cosmetic Roar",
+      "Trans": { "SC": "吼叫", "JA": "" },
+      //装饰性的所以我翻译成了吼叫让它看起来平平无奇.
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      //CDD779AF43CC0CF8089F0FA6F171FB0D
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2893669883",
+      "Source": "Toggle Shield Stance",
+      "Trans": { "SC": "切换防御姿态", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      //772BA93846BDF9AF7F19AA9B88627391
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1971031871",
+      "Source": "Stomp Attack",
+      "Trans": { "SC": "踩踏", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      //84BF70F143021CDA13D1569DBBE02AE4
+    },
+    {
+      "NamespaceHash": "Content::4080189680",
+      "Source": "Acro Adrenal Gland",
+      "Trans": { "SC": "高棘龙肾上腺体", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1137252187",
+      "Source": "The source of adrenaline in an Acro. Still pumping with energy, maybe it can be used for something...",
+      "Trans": { "SC": "来自高棘龙体内的肾上腺。现在仍然充满活力, 或许能用它来做些什么...", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::896882883",
+      "Source": "Your Acro's blood is pumping!",
+      "Trans": { "SC": "你的高棘龙热血沸腾!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1313064368",
+      "Source": "Acrocanthosaurus Egg",
+      "Trans": { "SC": "高棘龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::390046618",
+      "Source": "Fertilized X-Acrocanthosaurus Egg",
+      "Trans": { "SC": "受精的X-高棘龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1795979683",
+      "Source": "Fertilized R-Acrocanthosaurus Egg",
+      "Trans": { "SC": "受精的R-高棘龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3450979088",
+      "Source": "Fertilized Acrocanthosaurus Egg",
+      "Trans": { "SC": "受精的X-高棘龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3399534699",
+      "Source": "Stomp Ready!",
+      "Trans": { "SC": "踩踏就绪!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1126980929",
+      "Source": "Give Adrenaline to Allies",
+      "Trans": { "SC": "激发友军肾上腺素", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::101964803",
+      "Source": "Press Spacebar again to give Allies Adrenaline!",
+      "Trans": { "SC": "再次按下空格激发友军肾上腺素!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      //3AC83AEC42EB9C4481975D8CFB8410EC
+    },
+    {
+      "NamespaceHash": "Content::2915146338",
+      "Source": "Adrenaline Amount",
+      "Trans": { "SC": "肾上腺素值", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::636236964",
+      "Source": "ADRENALINE MODE! ",
+      "Trans": { "SC": "亢奋状态!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3560044008",
+      "Source": "ADRENALINE MODE",
+      "Trans": { "SC": "亢奋状态", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::45885233",
+      "Source": "Adrenaline!",
+      "Trans": { "SC": "肾上腺素!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3958214491",
+      "Source": "Acrocanthosaurus Dossier",
+      "Trans": { "SC": "高棘龙图鉴", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1369932933",
+      "Source": "An Acro gave you Adrenaline! Attack, Defense, and Speed are increased!",
+      //正式版会重做, 需要注意
+      "Trans": { "SC": "一只高棘龙激发了你的肾上腺素! 攻击, 防御, 速度增加了!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    }
+  ],
+  "Brachiosaurus": [
+    {
+      "NamespaceHash": "Content::2679839992",
+      "Source": "Brachiosaurus",
+      "Trans": { "SC": "腕龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::468924771",
+      "Source": "Brachiosaurus Dossier",
+      "Trans": { "SC": "腕龙图鉴", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::499042442",
+      "Source": "Brachiosaurus Saddle",
+      "Trans": { "SC": "腕龙鞍", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::275926450",
+      "Source": "Equip a Brachiosaurus with this to ride it.",
+      "Trans": { "SC": "装备到腕龙上以骑乘。", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::256965520",
+      "Source": "Brachio Egg",
+      "Trans": { "SC": "腕龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3725370538",
+      "Source": "Fertilized Brachio Egg",
+      "Trans": { "SC": "受精的腕龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::276147791",
+      "Source": "Fertilized Aberrant Brachio Egg",
+      "Trans": { "SC": "受精的畸变腕龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::946814688",
+      "Source": "Fertilized R-Brachio Egg",
+      "Trans": { "SC": "受精的R-腕龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::326314512",
+      "Source": "Fertilized X-Brachio Egg",
+      "Trans": { "SC": "受精的X-腕龙蛋", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3104824693",
+      "Source": "Switch to Harvest Mode",
+      "Trans": { "SC": "切换至采集模式", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1094923662",
+      "Source": "Switch to Battle Mode",
+      "Trans": { "SC": "切换至战斗模式", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::347113836",
+      "Source": "Bellow",
+      "Trans": { "SC": "咆哮", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3220258136",
+      "Source": "Stance Change",
+      "Trans": { "SC": "变换姿势", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3418956137",
+      "Source": "Rear Kick",
+      "Trans": { "SC": "后踢", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1907262126",
+      "Source": "Earthshaker Stomp",
+      "Trans": { "SC": "泰山压顶", "JA": "" },
+      //势大力沉? 好像也不太好---Q
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::361834790",
+      "Source": "Harvest Mode",
+      "Trans": { "SC": "采集模式", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2232413587",
+      "Source": "Gather all types of resources very efficiently!",
+      "Trans": { "SC": "非常高效地收集所有类型的资源!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::714501961",
+      "Source": "Battle Mode",
+      "Trans": { "SC": "战斗模式", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2488344338",
+      "Source": "Combat creatures very efficiently!",
+      "Trans": { "SC": "战斗表现更为出色!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "71958DA2415C2C673DDD95B652E8AEE2",
+      "Source": "Spacebar",
+      "Trans": { "SC": "空格键", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "2066877284" }
+    }
+  ],
+  "Helicoprion": [
+    {
+      "NamespaceHash": "Content::434935549",
+      "Source": "This specially blended pet food is a favorite for Helicoprion. Containing heavy mixes of the finest Cephalopods, it provides Helicoprion with the balanced nutrition they need. And with a taste they can't resist, they'll warm up to you in no time!\r\n\r\nCalamari ~ So Divine!~~",
+      "Trans": { "SC": "这种特别调配的宠物食品是旋齿鲨的最爱。配料富含精选头足类动物, 为旋齿鲨均等提供所需营养。并且, 这种美味它们无法抗拒, 很快就会对你产生好感!\r\n\r\n鱿鱼 芜湖~ 好吃到起飞!~~", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::109179675",
+      "Source": "Helicoprion",
+      "Trans": { "SC": "旋齿鲨", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1227807040",
+      "Source": "Helicoprion Dossier",
+      "Trans": { "SC": "旋齿鲨图鉴", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::388759659",
+      "Source": "Helicoprion Saddle",
+      "Trans": { "SC": "旋齿鲨鞍", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3128151458",
+      "Source": "Equip a Helicoprion with this to ride it. Can also be used as a smithy!",
+      "Trans": { "SC": "装备到旋齿鲨上以骑乘。还可以作为一个铁匠台来使用!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3179187789",
+      "Source": "Little Ratfish Treats!",
+      "Trans": { "SC": "鲨鲨小零食!", "JA": "" },
+      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3756051259",
+      "Source": "This specially blended pet food is a favorite for Helicoprion. Containing heavy mixes of the finest Cephalopods, it provides Helicoprion with the balanced nutrition they need. And with a taste they can't resist, they'll warm up to you in no time! Be careful of the cloud of Ammonite Bile and other toxins that occur when they chomp into these little treats...\n\nCalamari ~ So Divine!~~",
+      "Trans": { "SC": "这种特别调配的宠物食品是旋齿鲨的最爱。配料富含精选头足类动物, 为旋齿鲨均等提供所需营养。并且, 这种美味它们无法抗拒, 很快就会对你产生好感! 要注意的是, 它们对小零食大快朵颐时会形成菊石黏液与其它毒素混合而成的云雾...\r\n\r\n鱿鱼 芜湖~ 好吃到起飞!~~", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    }
+  ]
+}

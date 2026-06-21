@@ -1,0 +1,670 @@
+{
+  "AA自动模组": [//2025.11.30未汉化完成
+    {
+      "NamespaceHash": "Content::887811210",
+      "Source": "AA:: Ant Hill",
+      "Trans": {"SC":"AA:: 蚁巢","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::997225294",
+      "Source": "AA:: Control Console",
+      "Trans": {"SC":"AA:: 控制操作台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::521323533",
+      "Source": "AA:: Gardening Station",
+      "Trans": {"SC":"AA:: 园艺站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2966305210",
+      "Source": "AA:: Auto Grill",
+      "Trans": {"SC":"AA:: 自动烤炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4242601571",
+      "Source": "AA:: Medical Station (temp model)",
+      "Trans": {"SC":"AA:: 医疗站（临时模型）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3459712858",
+      "Source": "AA:: Repair Station",
+      "Trans": {"SC":"AA:: 维修站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3768988693",
+      "Source": "AA:: Ice Block",
+      "Trans": {"SC":"AA:: 冰块","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1644288468",
+      "Source": "AA:: Compost Bin",
+      "Trans": {"SC":"AA:: 堆肥箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::295745214",
+      "Source": "AA:: Industrial Cooker",
+      "Trans": {"SC":"AA:: 工业烹饪锅","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1235950758",
+      "Source": "AA:: Plant Commander",
+      "Trans": {"SC":"AA:: 作物管理器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1108679581",
+      "Source": "AA:: Dehydrator",
+      "Trans": {"SC":"AA:: 风干箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::115692240",
+      "Source": "AA:: Egg Crate",
+      "Trans": {"SC":"AA:: 收蛋箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::935863767",
+      "Source": "AA:: Engram Pod",
+      "Trans": {"SC":"AA:: 印痕管理器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::641433292",
+      "Source": "AA:: Fertilizer Manager",
+      "Trans": {"SC":"AA:: 肥料管理器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::279787791",
+      "Source": "AA:: Air Conditioner",
+      "Trans": {"SC":"AA:: 空调","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2337986149",
+      "Source": "AA:: Refrigerator",
+      "Trans": {"SC":"AA:: 冰箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3053180449",
+      "Source": "AA:: Spoiling Bin",
+      "Trans": {"SC":"AA:: 腐坏箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::469212171",
+      "Source": "AA:: Honey Synthesizer",
+      "Trans": {"SC":"AA:: 蜂蜜合成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3103439862",
+      "Source": "AA:: Refrigerated Chemistry Bench",
+      "Trans": {"SC":"AA:: 冷藏化学实验台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1231431568",
+      "Source": "AA:: Mortar and Pestle",
+      "Trans": {"SC":"AA:: 研磨器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3839877974",
+      "Source": "AA:: Gacha Crystalyst",
+      "Trans": {"SC":"AA:: 嘎查水晶管理器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3538841017",
+      "Source": "AA:: Grinder",
+      "Trans": {"SC":"AA:: 研磨机","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3023561132",
+      "Source": "AA:: Industrial Forge",
+      "Trans": {"SC":"AA:: 工业熔炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::998609610",
+      "Source": "AA:: Pyrotechnics Forge",
+      "Trans": {"SC":"AA:: 精炼炉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3775201094",
+      "Source": "AA Dino Leash",
+      "Trans": {"SC":"AA 恐龙牵引绳","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::736976000",
+      "Source": "AA Refrigerated Trough",
+      "Trans": {"SC":"AA 冷藏饲料槽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::337825965",
+      "Source": "AA:: Smithy",
+      "Trans": {"SC":"AA:: 铁匠台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2492653806",
+      "Source": "AA:: Fabricator",
+      "Trans": {"SC":"AA:: 机床","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2028209231",
+      "Source": "AA:: Vacuum",
+      "Trans": {"SC":"AA:: 吸尘器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2656577756",
+      "Source": "AA:: OCD Metal Vault",
+      "Trans": {"SC":"AA:: OCD金属保险柜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3952503216",
+      "Source": "AA:: OCD Driftwood Vault",
+      "Trans": {"SC":"AA:: OCD浮木保险柜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::166714891",
+      "Source": "AA:: OCD Marble Vault",
+      "Trans": {"SC":"AA:: OCD大理石保险柜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::651178953",
+      "Source": "AA:: Polymer Transmuter",
+      "Trans": {"SC":"AA:: 聚合物转化器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2552224853",
+      "Source": "AA:: Trashcan",
+      "Trans": {"SC":"AA:: 垃圾桶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2755970905",
+      "Source": "AA Wood Pile",
+      "Trans": {"SC":"AA 木堆","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3454770714",
+      "Source": "AA:: WorkBench",
+      "Trans": {"SC":"AA:: 工作台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::625178149",
+      "Source": "AA:: Generator",
+      "Trans": {"SC":"AA:: 发电机","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1080528289",
+      "Source": "AA:: Turret Genie",
+      "Trans": {"SC":"AA:: 弹药箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2067427400",
+      "Source": "AA:: Veggie Crate",
+      "Trans": {"SC":"AA:: 蔬菜箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1997120632",
+      "Source": "AA:: Medical Station",
+      "Trans": {"SC":"AA:: 医疗站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::980213706",
+      "Source": "AA:: Helper Remote",
+      "Trans": {"SC":"AA:: 辅助遥控器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1299777155",
+      "Source": "Cooked Meat Jerky AA",
+      "Trans": {"SC":"AA熟肉干","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3741026356",
+      "Source": "Prime Meat Jerky AA",
+      "Trans": {"SC":"AA优质肉干","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2449484562",
+      "Source": "AA: Air Conditioner",
+      "Trans": {"SC":"AA: 空调","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2042725090",
+      "Source": "Aggreavic Mushrooms",
+      "Trans": {"SC":"狂怒蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1857328839",
+      "Source": "Aquatic Mushroom Pod",
+      "Trans": {"SC":"水生蘑菇荚","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3510240203",
+      "Source": "Ascerbic Mushrooms",
+      "Trans": {"SC":"酸蚀蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1382749035",
+      "Source": "Auric Mushrooms",
+      "Trans": {"SC":"金耀蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2883396375",
+      "Source": "Rare Flowers",
+      "Trans": {"SC":"稀有花朵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::105456199",
+      "Source": "Rare Mushrooms",
+      "Trans": {"SC":"稀有蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3141748832",
+      "Source": "Redwood Sappling",
+      "Trans": {"SC":"红杉树苗","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1355689153",
+      "Source": "Silk Bush",
+      "Trans": {"SC":"丝绸灌木","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::496633503",
+      "Source": "AA::Refrigerated Chemistry Bench",
+      "Trans": {"SC":"AA::冷藏化学实验台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::659316623",
+      "Source": "AA::Mortar and Pestle",
+      "Trans": {"SC":"AA::研钵与研杵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2506466488",
+      "Source": "Synthetic Crystal",
+      "Trans": {"SC":"合成水晶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3033141851",
+      "Source": "AA:: OCD Vault",
+      "Trans": {"SC":"AA:: OCD保险柜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1713943189",
+      "Source": "Polymer (conversion)",
+      "Trans": {"SC":"聚合物（转化型）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2370173419",
+      "Source": "AA:: Polymer Converter",
+      "Trans": {"SC":"AA:: 聚合物转化器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2616159427",
+      "Source": "AA:: Trash Can",
+      "Trans": {"SC":"AA:: 垃圾桶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3608661521",
+      "Source": "AA:: Workbench",
+      "Trans": {"SC":"AA:: 工作台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2699059765",
+      "Source": "Imprinting Kibble",
+      "Trans": {"SC":"印记饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2600366787",
+      "Source": "Inject Bug Repellant into an ant hill to drive out its inhabitants. Be sure to have something to harvest the corpses!",
+      "Trans": {"SC":"将驱虫剂注入蚁巢以驱赶其中的居民。务必准备好收集尸体的工具！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4059233774",
+      "Source": "This is the Heart and Soul of Automated Ark. You need one of these in your base for the magic to happen! Put this in the center of your base. Be sure to enable auto-sorting AFTER you have set up your OCD storage! Don't say I didnt warn you!",
+      "Trans": {"SC":"这是自动化方舟的核心与灵魂。你的基地需要一个这样的装置才能触发“魔法”！将它放在基地中央。务必在设置好OCD存储后再启用自动分类！别说我没警告过你！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::465111308",
+      "Source": "Used to make growable resources and can be used to irrigate crops by snapping pipes to it.",
+      "Trans": {"SC":"用于制造可种植资源，也可通过连接管道来灌溉作物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::476233400",
+      "Source": "Perfect for cooking meat in bulk, requires electricity. Refrigerates meat before and after cooking!",
+      "Trans": {"SC":"非常适合大量烹饪肉类，需要电力。烹饪前后都会冷藏肉类！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2824899384",
+      "Source": "Uses Healing Brews to heal dinos and players in range over time. Has auto pulling of brews. Will not heal if Daeodon is actively healing in the area. Range is rougly a 3.5 foundations radius from the structure. New model will show exact range when its ready. Only 1 can be placed in the effective area to prevent stacking of function.",
+      "Trans": {"SC":"使用治疗药酒持续治疗范围内的恐龙和玩家。具备药酒自动抽取功能。若区域内有凶齿稀正在主动治疗，则不会生效。范围约为以装置为中心、3.5个地基半径的区域。新模型就绪后会显示精确范围。有效区域内仅能放置1个，以防止功能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3243901396",
+      "Source": "Repairs everything in the inventory at the push of a button with automated pulling. Can also repair the damaged structrues in the area over time (admin adjustable timer). Must be in range of a console to function. Only 1 can be placed in the effective area to prevent stacking of function.",
+      "Trans": {"SC":"按一下按钮即可修复背包中的所有物品，具备自动抽取功能。还能随时间修复区域内的受损结构（管理员可调整计时器）。必须在控制台范围内才能工作。有效区域内仅能放置1个，以防止功能叠加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1864911695",
+      "Source": "2 jars in a block of ice to store perishables in early game!",
+      "Trans": {"SC":"早期游戏中，用冰块中的两个罐子存储易腐物品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4233702454",
+      "Source": "Puts poop in Dung Beetles, Collects Poop from ground and Thatch to make fertilizer. Pushes to Fertilizer Silo.",
+      "Trans": {"SC":"将粪便放入屎壳郎，从地面收集粪便和茅草来制作肥料。推送至肥料仓。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::837325805",
+      "Source": "Controls for the AA Helper Remote.",
+      "Trans": {"SC":"AA辅助遥控器的控制装置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3158796528",
+      "Source": "Uses Electricity to make all recipes very quickly. Does NOT require a water source, and can be used as a water source. Must have Control Console nearby for pulling to function!",
+      "Trans": {"SC":"使用电力快速制作所有配方。无需水源，且可作为水源使用。必须靠近控制控制台才能启用抽取功能！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::509818813",
+      "Source": "Use this structure to set all nearby crop plot ranges and targetting.",
+      "Trans": {"SC":"使用该结构设置所有附近作物田的范围和目标。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1067867093",
+      "Source": "Store your perishables to preserve. Uses Electricity to make cooked meat into jerky!",
+      "Trans": {"SC":"存储易腐物品以保鲜。使用电力将熟肉制成肉干！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2528451477",
+      "Source": "Gathers eggs from the ground and places them inside the bin. Option to Gather Fertilized Eggs in Radial Menu. Greatly Increases Spoil timers.",
+      "Trans": {"SC":"从地面收集蛋并放入箱中。径向菜单中有收集受精蛋的选项。大幅延长腐坏时间。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2192680986",
+      "Source": "Use this to save your current engram layout to relearn them when you mindwipe! Once you have learned the engrams you want, hit \"Save Engrams\" then once you mindwipe and level back up, simply walk up to the structure and \"Restore Engrams\"",
+      "Trans": {"SC":"用这个保存你当前的印痕布局，以便洗点后重新学习！一旦学会了你想要的印痕，点击“保存印痕”，然后当你洗点并重新升级后，只需走到该结构前点击“恢 痕”即可。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::229362728",
+      "Source": "Collects Fertilizer from AA:: Compost Bin and Distributes it EVENLY to all crop plots, even modded.",
+      "Trans": {"SC":"从AA:: 堆肥箱收集肥料，并均匀分配给所有作物田，包括模组添加的。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::411071805",
+      "Source": "Gives insulation to nearby fertilized eggs to hatch them easilly and makes you cozy.",
+      "Trans": {"SC":"为附近的受精蛋提供保温，使其易于孵化，还能让你感到舒适。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::349089144",
+      "Source": "Gives large increase to spoil timers for all consumables plus Organic Polymer, Leech Blood, and Wyvern Milk! Must have Control Console nearby for OCD Pulling to function!",
+      "Trans": {"SC":"大幅延长所有消耗品以及有机聚合物、水蛭血和飞龙奶的腐坏时间！必须靠近控制控制台才能启用OCD抽取功能！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1629364086",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Aggreavic Mushroom.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的狂怒蘑菇。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4178494431",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Aquatic Mushrooms.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的水生蘑菇。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1786596450",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Ascerbic Mushroom.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的酸蚀蘑菇。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::432849778",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Auric Mushroom.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的金耀蘑菇。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2575157189",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Cactus Sap.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的仙人掌汁。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1745161245",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Fungal Wood Tree.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的真菌树。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::132040898",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Rare Flower bush.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的稀有花朵灌木。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1997148675",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Rare Mushrooms.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的稀有蘑菇。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2823713889",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own tiny Redwood Tree to collect sap from.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的小型红杉树来收集树液。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3968805924",
+      "Source": "Eat it to gain a tiny amount of nourishment, or plant it to grow your own Silk bush.  Can be planted in Small, Medium, or Large Crop Plots.",
+      "Trans": {"SC":"食用可获得少量营养，或种植以培育自己的丝绸灌木。可种植在小型、中型或大型作物田中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1230863337",
+      "Source": "Spoils meat at increased rate and makes Spoiled meat last longer. Hold Ctrl+T while hovering over meat to add them in very quickly without stacking!",
+      "Trans": {"SC":"加速肉类腐坏，并延长腐肉的保存时间。将鼠标悬停在肉类上时按住Ctrl+T，可快速添加且不堆叠！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::329203844",
+      "Source": "Automatically generates honey over time",
+      "Trans": {"SC":"随时间自动生成蜂蜜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2999166436",
+      "Source": "Refrigerates materials and Requires only Power to be activated. Must have Control Console Nearby for Pulling to work.",
+      "Trans": {"SC":"冷藏材料，仅需电力即可激活。必须靠近控制控制台才能启用抽取功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::163079397",
+      "Source": "Grind resources into new items with OCD Pulling!",
+      "Trans": {"SC":"通过OCD抽取将资源研磨成新物品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1794606735",
+      "Source": "An advanced automation core that acts as the ultimate catalyst for your Gacha operations. This structure seizes control of chance, managing everything from Gacha happiness and feeding to the automated collection, cracking, and high-fidelity sorting of crystal loot directly into your vaults.",
+      "Trans": {"SC":"一个先进的自动化核心，是你嘎查运营的终极催化剂。该结构掌控概率，管理从嘎查的幸福感和喂食到水晶战利品的自动收集、破解以及高保真分类并直接存入保险柜的所有环节。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3793915289",
+      "Source": "Grind ANY gem down into this crystal that is indistiguishable from regular crystal.",
+      "Trans": {"SC":"将任何宝石研磨成这种与普通水晶无法区分的水晶。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1566329086",
+      "Source": "Your typical grinder, but with a grind all button. It can Grinds Ingots into raw metal, and can use Electricity! The Grinder has OCD Sorting in it, so be sure to set all your junk to pull to the grinder!",
+      "Trans": {"SC":"你常见的研磨机，但带有“全部研磨”按钮。它可以将锭研磨成原金属，还能使用电力！该研磨机内置OCD分类功能，所以一定要将所有杂物设置为抽取到研磨机！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1237372676",
+      "Source": "Can use Electricity or Gas to operate. Pulls raw metal from nearby dinos. Crafting speed set by ini",
+      "Trans": {"SC":"可使用电力或汽油运行。从附近恐龙身上抽取原金属。制作速度由ini设置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2595200970",
+      "Source": "Burns Wood Fast, use Sparkpowder instead. Balances Metal between forges. Pull smetal from nearby dinos only!",
+      "Trans": {"SC":"快速燃烧木材，改用引火粉。平衡熔炉之间的金属。仅从附近恐龙身上抽取金属！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::588552110",
+      "Source": "Put food for your nearby pets in this, and they'll automatically eat it when hungry! Can refridgerate items, and has auto balancing.",
+      "Trans": {"SC":"将附近宠物的食物放在这里，它们饿的时候会自动吃！可冷藏物品，且具备自动平衡功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4202467953",
+      "Source": "Craft everything here with Auto Pulling! Must have Control Console nearby for pulling to function!",
+      "Trans": {"SC":"通过自动抽取在这里制作所有物品！必须靠近控制控制台才能启用抽取功能！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::384390091",
+      "Source": "Works as Fabricator, has auto pull. Crafting speed is faster by default, speed is ini config. Must have Control Console nearby for pulling to function!",
+      "Trans": {"SC":"作为机床使用，具备自动抽取功能。默认制作速度更快，速度由ini配置。必须靠近控制控制台才能启用抽取功能！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3892301415",
+      "Source": "This Thing Sucks! Picks up everything off the ground for your Control Console to sort! Yes, it works for earthquakes! Picks up owl pellets and distributes them evenly to nearby Gachas!",
+      "Trans": {"SC":"这东西超好用！捡起地面上的所有物品供你的控制控制台分类！没错，它能应对地震！捡起雪鸮呕吐物并均匀分配给附近的嘎查！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2638665140",
+      "Source": "Stores Anything, Must have Control Console nearby for OCD Pulling to function!",
+      "Trans": {"SC":"存储任何物品，必须靠近控制控制台才能启用OCD抽取功能！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3129409265",
+      "Source": "Converts Polymer between Hard and Soft with the use of strong chemicals.",
+      "Trans": {"SC":"使用强化学物质将聚合物在硬和软之间转换。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2631185317",
+      "Source": "Has OCD Pulling and has a button to manually delete anything inside of it.",
+      "Trans": {"SC":"具备OCD抽取功能，且有一个按钮可手动删除内部的任何物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3992594735",
+      "Source": "Fill with wood and/or sparkpowder. It will fill all Standing Torches in the area and keep them balanced",
+      "Trans": {"SC":"填入木材和/或引火粉。它会填充该区域的所有立式火把并保持平衡。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1370894944",
+      "Source": "This is used to craft all Automated Ark Items. Must have Control Console nearby for pulling to function!",
+      "Trans": {"SC":"用于制作所有自动化方舟物品。必须靠近控制控制台才能启用抽取功能！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1055124204",
+      "Source": "Feed this to a baby dino right after claiming it to instantly imprint the dino.",
+      "Trans": {"SC":"在认领幼崽后立即喂给它，可立即印记该恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2932352829",
+      "Source": "Must contain Gasoline.  Has a balance feature to balance gas to nearby generators evenly",
+      "Trans": {"SC":"必须装入汽油。具备平衡功能，可将汽油均匀分配给附近的发电机。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::951196166",
+      "Source": "Uses the gunpowder of the bullets in the bin to Distribute ammo to all nearby turrets. Consumes a few bullets on each use.",
+      "Trans": {"SC":"使用箱中子弹的火药将弹药分配给所有附近的炮塔。每次使用会消耗几发子弹。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::95109983",
+      "Source": "Works like all other OCD structures. Put berries or veggies inside and add them to the pulling list to start the OCD Pulling!",
+      "Trans": {"SC":"与所有其他OCD结构的工作方式相同。放入浆果或蔬菜并将它们添加到抽取列表中，即可启动OCD抽取！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::784576635",
+      "Source": "Fungal Tree",
+      "Trans": {"SC":"真菌树","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

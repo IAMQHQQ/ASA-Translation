@@ -1,0 +1,112 @@
+{
+  "白石棘龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::2694081948",
+      "Source": "Vectispinus",
+      "Trans": {"SC":"白石棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1011039971",
+      "Source": "Aberrant Vectispinus",
+      "Trans": {"SC":"畸变白石棘龙","JA":"畸變白石棘龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::861518025",
+      "Source": "Arkology Vectispinus",
+      "Trans": {"SC":"方舟学白石棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3110683281",
+      "Source": "Artillery Shell",
+      "Trans": {"SC":"炮弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::702078957",
+      "Source": "Fertilized Arkology Vectispinus Egg",
+      "Trans": {"SC":"受精的方舟学白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3306740441",
+      "Source": "Fertilized Vectispinus Egg",
+      "Trans": {"SC":"受精的白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::516615843",
+      "Source": "Fertilized Aberrant Vectispinus Egg",
+      "Trans": {"SC":"受精的畸变白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1663734762",
+      "Source": "Vectispinus Egg",
+      "Trans": {"SC":"白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1715893555",
+      "Source": "Vectispinus Saddle",
+      "Trans": {"SC":"白石棘龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3664402692",
+      "Source": "Vectispinus Artillery Saddle",
+      "Trans": {"SC":"白石棘龙炮击鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1739267692",
+      "Source": "Tranquilizer Rocket Launcher",
+      "Trans": {"SC":"镇静弹火箭发射器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::750840390",
+      "Source": "Rocket Propelled Tranq",
+      "Trans": {"SC":"火箭助推镇静弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2253169486",
+      "Source": "Railgun",
+      "Trans": {"SC":"磁轨炮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2187638129",
+      "Source": "Utilizing energy cells, enables you to shoot through walls and solid surfaces. <#RN#>Equipping requires learning this Engram.",
+      "Trans": {"SC":"利用能量电池，可让你穿透墙壁和固体表面进行射击。<#RN#>装备需要学习此印记技能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3996610015",
+      "Source": "Energy Cell",
+      "Trans": {"SC":"能量电池","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1363262039",
+      "Source": "Ammo used for the Railgun, You get 2 shots per ammo",
+      "Trans": {"SC":"磁轨炮使用的弹药，每发弹药可射击 2 次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2477904230",
+      "Source": "Vecti Spinosaur Buff",
+      "Trans": {"SC":"白石棘龙增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::398770035",
+      "Source": "Gives Creatures in the Spinosaur Family plus %25 to everything",
+      "Trans": {"SC":"为棘龙科生物提供全属性25%加成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

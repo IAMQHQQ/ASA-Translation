@@ -1,0 +1,214 @@
+{
+  "跳蛛": [//2025.11.29
+    {
+      "NamespaceHash": "Content::457320819",
+      "Source": "Aberrant Thorax Spider",
+      "Trans": {"SC":"畸变跳蛛","JA":"畸變跳蛛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4035051075",
+      "Source": "Magnus Spider",
+      "Trans": {"SC":"巨型跳蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1740816355",
+      "Source": "Thorax Spider",
+      "Trans": {"SC":"跳蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2673474755",
+      "Source": "Jungle Thorax Spider",
+      "Trans": {"SC":"丛林跳蛛","JA":"叢林跳蛛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1706961452",
+      "Source": "Snow Thorax Spider",
+      "Trans": {"SC":"雪地跳蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::971622649",
+      "Source": "Cyrus Personal",
+      "Trans": {"SC":"Cyrus专用","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1155187493",
+      "Source": "Cyrus Personal 2",
+      "Trans": {"SC":"Cyrus专用 2","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1225295823",
+      "Source": "Fertilized Aberrant Thorax Spider Egg",
+      "Trans": {"SC":"受精的畸变跳蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3566965487",
+      "Source": "Aberrant Thorax Spider Egg",
+      "Trans": {"SC":"畸变跳蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2305274301",
+      "Source": "Magnus Spider Egg",
+      "Trans": {"SC":"巨型跳蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3848476953",
+      "Source": "Fertilized Magnus Spider Egg",
+      "Trans": {"SC":"受精的巨型蜘蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3848523806",
+      "Source": "Thorax Spider Egg",
+      "Trans": {"SC":"跳蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2305259706",
+      "Source": "Fertilized Thorax Spider Egg",
+      "Trans": {"SC":"受精的跳蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3585190226",
+      "Source": "Iridescent Chitin Shield",
+      "Trans": {"SC":"虹彩甲壳盾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::458542450",
+      "Source": "Iridescent Chitin",
+      "Trans": {"SC":"彩虹甲壳素","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2426875412",
+      "Source": "This firm, flexible material makes up exoskeletons. Hacked primarily from dead Thorax Spiders.",
+      "Trans": {"SC":"这种坚硬且富有弹性的材料构成了外骨骼，主要从死亡的跳蛛身上获取。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::428313113",
+      "Source": "Thorax Spider Saddle",
+      "Trans": {"SC":"跳蛛鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2268825269",
+      "Source": "Equip a Thorax Spider with this to ride it.",
+      "Trans": {"SC":"装备到跳蛛上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3890505720",
+      "Source": "Mashed Insects",
+      "Trans": {"SC":"昆虫泥","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::562296200",
+      "Source": "Eating this yourself will cause severe illness, but there are spiders out there who find this \"food\" to be a delight!",
+      "Trans": {"SC":"人类食用会导致严重疾病，但有些蜘蛛会把这种 “食物” 视为美味！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1062488914",
+      "Source": "Fertilized Jungle Thorax Spider Egg",
+      "Trans": {"SC":"受精的丛林跳蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3878636176",
+      "Source": "Fertilized Snow Thorax Spider Egg",
+      "Trans": {"SC":"受精的雪地跳蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::318666245",
+      "Source": "SnowBall",
+      "Trans": {"SC":"雪球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "555954184E4D57B1E4DBDA91C7D337CB",
+      "Source": "Leap Power",
+      "Trans": {"SC":"跳跃蓄力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3395997769"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::CF63107449E4FADDF9673098E3DB7D8D",
+      "Source": "Pounce",
+      "Trans": {"SC":"猛扑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2670575332"}
+    },
+    {
+      "NamespaceHash": "Content::294405995",
+      "Source": "Toggle Pounce",
+      "Trans": {"SC":"切换猛扑模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "EE251F194A277ACAAF4048A289314468",
+      "Source": "Toggle BiteType",
+      "Trans": {"SC":"切换咬击类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1808882245"}
+    },
+    {
+      "NamespaceHash": "DCF95FC249370C24EAE7DD909466F3D8",
+      "Source": "Toggle Climbing",
+      "Trans": {"SC":"切换攀爬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"677253798"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::EC739B86480EBC529656539A52176C78",
+      "Source": "Stop {Item Type} Production",
+      "Trans": {"SC":"停止{Item Type}生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"250446042"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::A8B7FCFB456679BC22A58D838C9AE56D",
+      "Source": "Start {Item Type} Production",
+      "Trans": {"SC":"开始{Item Type}生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"13497733"}
+    },
+    {
+      "NamespaceHash": "Content::2095808097",
+      "Source": "Release Pheromones",
+      "Trans": {"SC":"释放信息素","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2755856881",
+      "Source": "Spit Web",
+      "Trans": {"SC":"吐丝结网","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3683501197",
+      "Source": "Abberant Thorax Spider",
+      "Trans": {"SC":"畸变跳蛛","JA":"畸變跳蛛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3195565979",
+      "Source": "Charged Dance Cooldown",
+      "Trans": {"SC":"充能舞蹈冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2641524219",
+      "Source": "Paralysed",
+      "Trans": {"SC":"麻痹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "海神龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::2813193982",
+      "Source": "Glaucus",
+      "Trans": {"SC":"海神龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3485055195",
+      "Source": "Glaucus Ghost",
+      "Trans": {"SC":"幽灵海神龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4095158268",
+      "Source": "Alpha Glaucus",
+      "Trans": {"SC":"精英海神龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1378755724",
+      "Source": "Chibi-Glaucus",
+      "Trans": {"SC":"袖珍-海神龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4207025248",
+      "Source": "Glaucus Egg",
+      "Trans": {"SC":"海神龙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::731792218",
+      "Source": "Fertilized Glaucus Egg",
+      "Trans": {"SC":"受精的海神龙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1252821515",
+      "Source": "Glaucus Saddle",
+      "Trans": {"SC":"海神龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3727043677",
+      "Source": "Equip a Glaucus with this to ride it.",
+      "Trans": {"SC":"装备到海神龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3306957961",
+      "Source": "Discharge",
+      "Trans": {"SC":"放电","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::307946383",
+      "Source": "Venom Charge",
+      "Trans": {"SC":"毒液充能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4097551461",
+      "Source": "Dried Out - Can't run or use electrical attacks",
+      "Trans": {"SC":"干涸 - 无法奔跑或使用电击攻击","JA":"干涸 - 无法奔跑或使用電擊攻擊"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::138733822",
+      "Source": "Drying Out - Will soon be debuffed",
+      "Trans": {"SC":"干涸 - 即将受到减益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2874249694",
+      "Source": "Electric Bubble",
+      "Trans": {"SC":"电气泡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

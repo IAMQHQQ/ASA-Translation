@@ -1,0 +1,184 @@
+{
+  "始鲨齿龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::1391759368",
+      "Source": "Aberrant Eocarcharia",
+      "Trans": {"SC":"畸变始鲨齿龙","JA":"畸變始鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3512136045",
+      "Source": "Scorched Eocarcharia",
+      "Trans": {"SC":"焦土始鲨齿龙","JA":"焦土始鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1748209727",
+      "Source": "Fertilized Eocarcharia Egg",
+      "Trans": {"SC":"受精的始鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3017909317",
+      "Source": "Fertilized Aberrant Eocarcharia Egg",
+      "Trans": {"SC":"受精的畸变始鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3456227596",
+      "Source": "Eocarcharia Egg",
+      "Trans": {"SC":"始鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2269947145",
+      "Source": "Blue Rare Mushroom",
+      "Trans": {"SC":"蓝色稀有蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3346935518",
+      "Source": "Green Rare Mushroom",
+      "Trans": {"SC":"绿色稀有蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3585139879",
+      "Source": "Purple Rare Mushroom",
+      "Trans": {"SC":"紫色稀有蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2470110790",
+      "Source": "Red Rare Mushroom",
+      "Trans": {"SC":"红色稀有蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1303819979",
+      "Source": "Attack Mushroom Stew",
+      "Trans": {"SC":"攻击蘑菇汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2944723254",
+      "Source": "Double, double, toil and trouble, fire burn and cauldron bubble... this is a lovely mushroom brew, a healthy syrup to Boost your Creatures Attack Damage",
+      "Trans": {"SC":"嘟嘟嘟嘟，辛劳与烦恼，火焰燃烧，大锅沸腾……这是一锅美妙的蘑菇汤药，也是一剂能提升你的生物攻击力的健康糖浆。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2022670201",
+      "Source": "Defense Mushroom Stew",
+      "Trans": {"SC":"防御蘑菇汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1962942315",
+      "Source": "Double, double, toil and trouble, fire burn and cauldron bubble... this is a lovely mushroom brew, a healthy syrup to Boost your Creature's defense",
+      "Trans": {"SC":"嘟嘟嘟嘟，辛劳与烦恼，火焰燃烧，大锅沸腾……这是一锅美妙的蘑菇汤药，也是一剂能提升你的生物防御力的健康糖浆。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2564880113",
+      "Source": "Health Mushroom Stew",
+      "Trans": {"SC":"生命蘑菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2017452083",
+      "Source": "Speed Mushroom Stew",
+      "Trans": {"SC":"速度蘑菇汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2314875250",
+      "Source": "Double, double, toil and trouble, fire burn and cauldron bubble... this is a lovely mushroom brew, a healthy syrup to Boost your Creature's movement Speed",
+      "Trans": {"SC":"嘟嘟嘟嘟，辛劳与烦恼，火焰燃烧，大锅沸腾……这是一锅美妙的蘑菇汤药，也是一剂能提升你的生物速度的健康糖浆。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3526375653",
+      "Source": "Shroom",
+      "Trans": {"SC":"菌菇","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::303823737",
+      "Source": "The Shroom, A Mushroom that Eocarcharia's LOVE, but beware of certain side effects it may cause",
+      "Trans": {"SC":"始鲨齿龙钟爱的蘑菇 ——“菌菇”，但需留意其可能引发的某些副作用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1465847756",
+      "Source": "Eocarcharia Saddle",
+      "Trans": {"SC":"始鲨齿龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1079502028",
+      "Source": "Clown Shoes",
+      "Trans": {"SC":"小丑鞋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::809739959",
+      "Source": "Eocarcharia Leather Helm Attachment",
+      "Trans": {"SC":"始鲨齿龙皮革头盔配件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3673173925",
+      "Source": "Eocarcharia Leather Saddle Attachment",
+      "Trans": {"SC":"始鲨齿龙皮革鞍配件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1898895298",
+      "Source": "Eocarcharia Armored Saddle Attachment",
+      "Trans": {"SC":"始鲨齿龙装甲鞍配件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4196333992",
+      "Source": "Raddies Cages",
+      "Trans": {"SC":"雷迪之笼鞋甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3118821521",
+      "Source": "Fertilized Scorched Eocarcharia Egg",
+      "Trans": {"SC":"受精的焦土始鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1158669113",
+      "Source": "Scorched Eocarcharia Egg",
+      "Trans": {"SC":"焦土始鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::92164050",
+      "Source": "Foot Armor",
+      "Trans": {"SC":"始鲨齿龙足部护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::534657874",
+      "Source": "Double, double, toil and trouble, fire burn and cauldron bubble... this is a lovely mushroom brew, a healthy syrup to Boost your Creatures Health regeneration",
+      "Trans": {"SC":"嘟嘟嘟嘟，辛劳与烦恼，火焰燃烧，大锅沸腾……这是一锅美妙的蘑菇汤药，也是一剂能提升你的生物生命力的健康糖浆。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3458450295",
+      "Source": "Eocarcharia",
+      "Trans": {"SC":"始鲨齿龙","JA":"始鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4116664527",
+      "Source": "Alpha Eocarcharia",
+      "Trans": {"SC":"精英始鲨齿龙","JA":"精英始鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    }
+  ]
+}

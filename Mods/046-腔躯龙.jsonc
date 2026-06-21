@@ -1,0 +1,202 @@
+{
+  "腔躯龙": [//2025.11.29
+    {
+      "NamespaceHash": "Content::3799763289",
+      "Source": "Antrodemus",
+      "Trans": {"SC":"腔躯龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3942953718",
+      "Source": "Aberrant Antrodemus",
+      "Trans": {"SC":"畸变腔躯龙","JA":"畸變腔躯龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1366932544",
+      "Source": "Scorched Antrodemus",
+      "Trans": {"SC":"焦土腔躯龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::371837522",
+      "Source": "Fertilized Antrodemus Egg",
+      "Trans": {"SC":"受精的腔躯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1592365222",
+      "Source": "Fertilized Aberrant Antrodemus Egg",
+      "Trans": {"SC":"受精的畸变腔躯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2369201184",
+      "Source": "Fertilized Scorched Antrodemus Egg",
+      "Trans": {"SC":"受精的焦土腔躯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2737114729",
+      "Source": "Antrodemus Egg",
+      "Trans": {"SC":"腔躯龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::986596179",
+      "Source": "Antrodemus Armored Gloves",
+      "Trans": {"SC":"腔躯龙装甲手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2428247730",
+      "Source": "Adds armor to your Antrodemus",
+      "Trans": {"SC":"为你的腔躯龙增加护甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2069695604",
+      "Source": "Antrodemus Armored Body",
+      "Trans": {"SC":"腔躯龙装甲躯干","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1908989351",
+      "Source": "Adds Armor to your Antrodemus",
+      "Trans": {"SC":"为你的腔躯龙增加护甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1766294852",
+      "Source": "Antrodemus Armored Helm",
+      "Trans": {"SC":"腔躯龙装甲头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969353602",
+      "Source": "Antrodemus Armored Leggings",
+      "Trans": {"SC":"腔躯龙装甲护腿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2210817360",
+      "Source": "Antrodemus Mortar and Pestle Attachment",
+      "Trans": {"SC":"腔躯龙研磨配件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2705361790",
+      "Source": "Adds Mortal and Pestal to your antrodemus",
+      "Trans": {"SC":"为你的腔躯龙添加研磨配件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2354167247",
+      "Source": "Antrodemus Storage Attachment",
+      "Trans": {"SC":"腔躯龙储物配件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2836082684",
+      "Source": "Adds weight reduction to your Antrodemus",
+      "Trans": {"SC":"为你的腔躯龙增加减重效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3568329803",
+      "Source": "Antrodemus Travel Saddle",
+      "Trans": {"SC":"腔躯龙旅行鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2493240975",
+      "Source": "Aberant Antrodemus",
+      "Trans": {"SC":"畸变腔躯龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1898700333",
+      "Source": "This costume can be used to make your Antrodemus the Aberant Variant",
+      "Trans": {"SC":"此服装可将你的腔躯龙变为畸变变体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3042089731",
+      "Source": "This costume can be used to make your Antrodemus the Scorched Earth Variant",
+      "Trans": {"SC":"此服装可将你的腔躯龙变为焦土变体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2628291773",
+      "Source": "Pants Buff",
+      "Trans": {"SC":"腿部增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1407758367",
+      "Source": "Helm Buff",
+      "Trans": {"SC":"头盔增益","JA":"頭盔增益"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::315334289",
+      "Source": "Body Buff",
+      "Trans": {"SC":"躯干增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1914016709",
+      "Source": "Glove Buff",
+      "Trans": {"SC":"手套增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2476275523",
+      "Source": "Weight Reduction 30%",
+      "Trans": {"SC":"减重 30%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2972791191",
+      "Source": "Adds a %5 dmg increase",
+      "Trans": {"SC":"增加 5% 伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2081388468",
+      "Source": "Adds %10 Dmg Reduction",
+      "Trans": {"SC":"增加 10% 伤害减免","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2624374633",
+      "Source": "Adds a %10 Dmg increase",
+      "Trans": {"SC":"增加 10% 伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3121961021",
+      "Source": "Adds %7.5 Movement Speed",
+      "Trans": {"SC":"增加 7.5% 移动速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3269130834",
+      "Source": "Reducing Weight by 30%",
+      "Trans": {"SC":"减重 30%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::519954914",
+      "Source": "Mortar and Pestle Upgrade",
+      "Trans": {"SC":"研磨升级","JA":"研磨升級"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3104215478",
+      "Source": "Reducing Weight on Mortar and Pestle Items by %50 and increasing crafting speed",
+      "Trans": {"SC":"可研磨的物品减重 50% 并提升制作速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

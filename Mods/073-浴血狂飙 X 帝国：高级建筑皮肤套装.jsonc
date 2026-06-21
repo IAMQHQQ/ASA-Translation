@@ -1,0 +1,160 @@
+{
+  "RISING_BLOOD": [
+    {
+      "NamespaceHash": "Content::2101865750",
+      "Source": "MINI & SMALL STRUCTURES RISING BLOOD Structures",
+      "Trans": {"SC":"小型与微型结构 血之崛起结构","JA":"小型与微型結构 血之崛起結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1696632311",
+      "Source": "MORE PILLARS STRUCTURES RISING BLOOD Structures",
+      "Trans": {"SC":"更多支柱结构 血之崛起结构","JA":"更多支柱結构 血之崛起結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::484424732",
+      "Source": "MORE RAMPS CORNERS STRUCTURES RISING BLOOD Structures",
+      "Trans": {"SC":"更多斜坡与转角结构 血之崛起结构","JA":"更多斜坡与轉角結构 血之崛起結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2225105005",
+      "Source": "Template Structures",
+      "Trans": {"SC":"模板结构","JA":"模板結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3599264961",
+      "Source": "TEK DOORS Template Structures",
+      "Trans": {"SC":"泰克门 模板结构","JA":"泰克门 模板結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3739820400",
+      "Source": "WALL LARGE & QUARTERS RISING BLOOD Structures",
+      "Trans": {"SC":"大型墙壁与隔间 血之崛起结构","JA":"大型牆壁与隔間 血之崛起結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::298672625",
+      "Source": "MINI & SMALL STRUCTURES IMPERIUM Structures",
+      "Trans": {"SC":"小型与微型结构 帝国结构","JA":"小型与微型結构 帝国結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1272104197",
+      "Source": "MORE PILLARS STRUCTURES IMPERIUM Structures",
+      "Trans": {"SC":"更多支柱结构 帝国结构","JA":"更多支柱結构 帝国結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3163278711",
+      "Source": "MORE RAMPS CORNERS STRUCTURES IMPERIUM Structures",
+      "Trans": {"SC":"更多斜坡与转角结构 帝国结构","JA":"更多斜坡与轉角結构 帝国結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3577112499",
+      "Source": "IMPERIUM Structures",
+      "Trans": {"SC":"帝国结构","JA":"帝国結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2536418514",
+      "Source": "WALL GLASS IMPERIUM Structures",
+      "Trans": {"SC":"玻璃墙 帝国结构","JA":"玻璃牆 帝国結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4183299136",
+      "Source": "WALL LARGE & QUARTERS IMPERIUM Structures",
+      "Trans": {"SC":"大型墙壁与隔间 帝国结构","JA":"大型牆壁与隔間 帝国結构"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2693337339",
+      "Source": "mini structures rising blood deco arkitecto",
+      "Trans": {"SC":"微型结构 血之崛起装饰","JA":"微型結构 血之崛起装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2184556074",
+      "Source": "more pillars rising blood deco arkitecto",
+      "Trans": {"SC":"更多支柱 血之崛起装饰","JA":"更多支柱 血之崛起装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2379570857",
+      "Source": "more ramps corners rising blood deco arkitecto",
+      "Trans": {"SC":"更多斜坡与转角 血之崛起装饰","JA":"更多斜坡与轉角 血之崛起装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3863806645",
+      "Source": "RISING BLOOD deco arkitecto",
+      "Trans": {"SC":"血之崛起装饰","JA":"血之崛起装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1266863960",
+      "Source": "TEK DOORS rising blood deco arkitecto",
+      "Trans": {"SC":"泰克门 血之崛起装饰","JA":"泰克门 血之崛起装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4159580343",
+      "Source": "wal large & quarters rising blood deco arkitecto",
+      "Trans": {"SC":"大型墙壁与隔间 血之崛起装饰","JA":"大型牆壁与隔間 血之崛起装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1051374130",
+      "Source": "glass wall imperium deco arkitecto",
+      "Trans": {"SC":"玻璃墙 帝国装饰","JA":"玻璃牆 帝国装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2133633206",
+      "Source": "mini structures IMPERIUM deco arkitecto",
+      "Trans": {"SC":"微型结构 帝国装饰","JA":"微型結构 帝国装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1954173035",
+      "Source": "more pillars IMPERIUM deco arkitecto",
+      "Trans": {"SC":"更多支柱 帝国装饰","JA":"更多支柱 帝国装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3325238497",
+      "Source": "more ramps corners IMPERIUM deco arkitecto",
+      "Trans": {"SC":"更多斜坡与转角 帝国装饰","JA":"更多斜坡与轉角 帝国装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2549324837",
+      "Source": "wal large & quarters imperium deco arkitecto",
+      "Trans": {"SC":"大型墙壁与隔间 帝国装饰","JA":"大型牆壁与隔間 帝国装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::217608863",
+      "Source": "You can use this to skin the appearance of structure items<#RN#>",
+      "Trans": {"SC":"你可以用这个来改变结构物品的外观<#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3440101213",
+      "Source": "You can use this to skin the appearance of structure items<#RN#><#RN#>",
+      "Trans": {"SC":"你可以用这个来改变结构物品的外观<#RN#><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3098756982",
+      "Source": "imperium deco arkitecto",
+      "Trans": {"SC":"帝国装饰","JA":"帝国装飾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

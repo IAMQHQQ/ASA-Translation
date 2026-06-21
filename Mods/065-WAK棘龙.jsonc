@@ -1,0 +1,148 @@
+{
+  "WAK Spinosaurus": [//2025.12.02
+    {
+      "NamespaceHash": "Content::1634136413",
+      "Source": "Scorched WAK Spinosaurus",
+      "Trans": {"SC":"焦土WAK棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3932736360",
+      "Source": "WAK Spinosaurus",
+      "Trans": {"SC":"WAK棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1900785862",
+      "Source": "Chibi-WAK Spinosaurus",
+      "Trans": {"SC":"袖珍-WAK棘龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2107612375",
+      "Source": "WAK Flag Attachment",
+      "Trans": {"SC":"WAK旗帜附件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::596138905",
+      "Source": "Place this on a WAK Spino Saddle to show your loyalty to the WAK Community.",
+      "Trans": {"SC":"将此物放置在WAK棘龙鞍上，以彰显你对WAK 社区的忠诚。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2937303149",
+      "Source": "WAK Spinosaurus Saddle",
+      "Trans": {"SC":"WAK棘龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3109956689",
+      "Source": "Equip a Wak Spinosaurus with this to ride it.",
+      "Trans": {"SC":"装备到WAK棘龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::224023168",
+      "Source": "WAK Spino Egg",
+      "Trans": {"SC":"WAK棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::51583502",
+      "Source": "Fertilized WAK Spino Egg",
+      "Trans": {"SC":"受精的WAK棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2884271545",
+      "Source": "Fish Soup",
+      "Trans": {"SC":"鱼汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3260285265",
+      "Source": "This creamy fishy dish improves the body's natural constitution.  Consume it to slow your rate of oxygen consumption while underwater, and gain extra health regen.  Effects last 10 minutes.",
+      "Trans": {"SC":"这道浓郁的鱼料理能改善身体的先天体质。食用后可减缓水下氧气消耗速率，并获得额外生命值回复。效果持续10分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2460452424",
+      "Source": "Increased swim and run speed bz 25% and immunity to stuns.",
+      "Trans": {"SC":"游泳和奔跑速度提高25%，且对眩晕免疫。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::530710989",
+      "Source": "Stamina recovery,reduced oxygen consumption and 0.5/sec health regan.",
+      "Trans": {"SC":"耐力恢复、氧气消耗减少，且每秒恢复0.5点生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1014720198",
+      "Source": "Open Wounds!",
+      "Trans": {"SC":"开放性伤口！","JA":"开放性傷口！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::369719779",
+      "Source": "You got open wounds.You are taking extra damage!",
+      "Trans": {"SC":"你有开放性伤口。你正在承受额外伤害！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1508786820",
+      "Source": "Deep Wounds!",
+      "Trans": {"SC":"深度伤口！","JA":"深度傷口！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::391509927",
+      "Source": "You have deep wounds! Don't move or you'll take damage!",
+      "Trans": {"SC":"你有深度伤口！不要移动，否则会受到伤害！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "18BDB2094FD023E27042F78535B93540_Format0",
+      "Source": "Taking damage when below {1}% health will decrease taming effectiveness!",
+      "Trans": {"SC":"当生命值低于{1}%时受到伤害会降低驯服有效性！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"370375240"}
+    },
+    {
+      "NamespaceHash": "3E35D7D94B2E06F739AEA0A80A64A17B",
+      "Source": "Bite",
+      "Trans": {"SC":"咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "9D3240874001B912DB4D5886E035CA83",
+      "Source": "Directional Attacks(Front,Back,Left,Right)",
+      "Trans": {"SC":"定向攻击 (前、后、左、右)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2753334551"}
+    },
+    {
+      "NamespaceHash": "F29BFB8E43D06B1623DB63836AA771A9",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "2453BD8344688A381EFFBE93E09865D8",
+      "Source": "Rip And Tear!(HOLD until icon is blue again)",
+      "Trans": {"SC":"撕裂粉碎! (按住直到图标再次变蓝)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4239636147"}
+    },
+    {
+      "NamespaceHash": "56956C8046A6E89C236CCB99B920F57E",
+      "Source": "Rip And Tear!(when swimming only press then press jump)",
+      "Trans": {"SC":"撕裂粉碎! (仅游泳时按下，然后按跳跃键)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1595952166"}
+    },
+    {
+      "NamespaceHash": "62C2155D4A10240C3D3A95BE12D83CA9",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    }
+  ]
+}

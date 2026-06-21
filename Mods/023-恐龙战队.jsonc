@@ -1,0 +1,380 @@
+{
+    "MMPR1&2-Mod": [  // 2025-11-27 13:20:49 //恐龙战队
+    {
+      "NamespaceHash": "Content::1002472131",
+      "Source": "Black Ranger",
+      "Trans": {"SC":"黑战士","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::544002820",
+      "Source": "This costume can be used to make your Survivor look like the Black Ranger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装能让您的生存者角色看起来像《恐龙战队》里的黑衣战士一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3916505229",
+      "Source": "Blue Ranger",
+      "Trans": {"SC":"蓝战士","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2834354317",
+      "Source": "This costume can be used to make your Survivor look like the Blue Ranger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装能让您的生存者角色看起来像《恐龙战队》里的蓝衣战士一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1387169493",
+      "Source": "Pink Ranger",
+      "Trans": {"SC":"粉战士","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2168000170",
+      "Source": "This costume can be used to make your Survivor look like the Pink Ranger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装能让您的生存者角色看起来像《恐龙战队》里的粉衣战士一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2759897520",
+      "Source": "Red Ranger",
+      "Trans": {"SC":"红战士","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3340643743",
+      "Source": "This costume can be used to make your Survivor look like the Red Ranger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装能让您的生存者角色看起来像《恐龙战队》里的红衣战士一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3201724953",
+      "Source": "Yellow Ranger",
+      "Trans": {"SC":"黄战士","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::82167273",
+      "Source": "This costume can be used to make your Survivor look like the Yellow Ranger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装能让您的生存者角色看起来像《恐龙战队》里的黄衣战士一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3158303466",
+      "Source": "Black Ranger Axe",
+      "Trans": {"SC":"猛犸破坏斧","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3233326321",
+      "Source": "This costume can be used to make your Hatchet look like the Black Ranger's Axe from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以让你的斧头看起来像《恐龙战队》里黑衣战士的长毛象破坏斧一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3055923002",
+      "Source": "Pink Ranger Bow",
+      "Trans": {"SC":"翼手龙弓箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3985325830",
+      "Source": "This costume can be used to make your Bow look like the Pink Ranger's Bow from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具能让你的弓看起来像《恐龙战队》里粉衣战士的翼手龙弓一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4178208757",
+      "Source": "Yellow Ranger Dagger",
+      "Trans": {"SC":"军工双剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1846291455",
+      "Source": "This costume can be used to make your Sword look like the Yellow Ranger's Daggers from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以让你的剑看起来像《恐龙战队》里黄衣战士的军工双剑一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3685028073",
+      "Source": "Blue Ranger Power Lance",
+      "Trans": {"SC":"三角龙长枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3691901708",
+      "Source": "This costume can be used to make your Pike look like the Blue Ranger’s Power Lance from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以让你的长矛看起来像《恐龙战队》里蓝衣战士的三角龙长枪一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2733893453",
+      "Source": "Red Ranger Sword",
+      "Trans": {"SC":"龙击剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::329101398",
+      "Source": "This costume can be used to make your Sword look like the Red Ranger's Sword from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以让你的剑看起来像《恐龙战队》里红衣战士的龙击剑一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1564549564",
+      "Source": "Mammoth Zord",
+      "Trans": {"SC":"猛犸象Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1448073147",
+      "Source": "This costume can be used to make your Mammoth look like the Mastodon Dinozord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的猛犸象模型看起来像《恐龙战队》里的猛犸象Zrod一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::452845196",
+      "Source": "Ptero Zord",
+      "Trans": {"SC":"翼手龙Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1275229558",
+      "Source": "This costume can be used to make your Ptera look like the Pterodactyl Dinozord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的无齿翼龙模型看起来像《恐龙战队》里的翼手龙Zrod一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1188823219",
+      "Source": "Rex Zord",
+      "Trans": {"SC":"霸王龙Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1670296517",
+      "Source": "This costume can be used to make your Rex look like the Tyrannosaurus Dinozord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的霸王龙模型看起来像《恐龙战队》里的霸王龙Zrod一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2661681335",
+      "Source": "Saber Zord",
+      "Trans": {"SC":"刃齿虎Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1119253062",
+      "Source": "This costume can be used to make your Sabertooth look like the Saber-Tooth Tiger Dinozord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的刃齿虎模型看起来像《恐龙战队》里的刃齿虎Zrod一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2370924613",
+      "Source": "Trike Zord",
+      "Trans": {"SC":"三角龙Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1117861412",
+      "Source": "This costume can be used to make your Trike look like the Triceratops Dinozord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的三角龙模型看起来像《恐龙战队》里的三角龙Zrod一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2271176904",
+      "Source": "Alpha 5",
+      "Trans": {"SC":"阿尔法5号","JA":""},
+      //就是阿尔法5号;D
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3812535764",
+      "Source": "This costume can be used to make your Survivor look like Alpha 5 from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的生存者角色看起来像《恐龙战队》里的阿尔法5号一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2413709012",
+      "Source": "Goldar",
+      "Trans": {"SC":"戈尔达","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1637455214",
+      "Source": "This costume can be used to make your Survivor look like Goldar from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的生存者角色看起来像《恐龙战队》里的戈尔达一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3497504306",
+      "Source": "Green Ranger",
+      "Trans": {"SC":"绿战士","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3302125647",
+      "Source": "This costume can be used to make your Survivor look like the Green Ranger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的生存者角色看起来像《恐龙战队》里的绿衣战士一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1723151430",
+      "Source": "Putty",
+      "Trans": {"SC":"黏土巡逻兵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::522546130",
+      "Source": "This costume can be used to make your Survivor look like a Putty from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的生存者角色看起来像《恐龙战队》里的一名黏土巡逻兵一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2995714176",
+      "Source": "Rita Repulsa",
+      "Trans": {"SC":"丽塔.雷普萨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2539259613",
+      "Source": "This costume can be used to make your Survivor look like Rita Repulsa from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的生存者角色看起来像《恐龙战队》里的丽塔.雷普萨一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1479745028",
+      "Source": "White Ranger",
+      "Trans": {"SC":"白战士","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3755988290",
+      "Source": "This costume can be used to make your Survivor look like the White Ranger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的生存者角色看起来像《恐龙战队》里的白衣战士一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2165128445",
+      "Source": "Lord Zedd",
+      "Trans": {"SC":"泽德大王","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2617131411",
+      "Source": "This costume can be used to make your Survivor look like Lord Zedd from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的生存者角色看起来像《恐龙战队》里的泽德大王一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2000171627",
+      "Source": "Green Ranger Dagger",
+      "Trans": {"SC":"龙刃","JA":""},
+      //不能单看原文~绿衣战士的武器就是龙刃
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2998035829",
+      "Source": "This costume can be used to make your Sword look like the Green Ranger's Dagger from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以用来让你的剑看起来像《恐龙战队》里绿衣战士的龙刃一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::706564108",
+      "Source": "White Ranger Saber",
+      "Trans": {"SC":"白虎刃","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1540670491",
+      "Source": "This costume can be used to make your Sword look like the White Ranger's Saber from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以用来让你的剑看起来像《恐龙战队》里白衣战士的白虎刃一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3757063981",
+      "Source": "Rita's Staff",
+      "Trans": {"SC":"丽塔的魔杖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::100298604",
+      "Source": "This costume can be used to make your Pike look like Rit'as Staff from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以用来让你的长矛看起来像《恐龙战队》里丽塔的魔杖一样!","JA":""},
+      //此描述和泽德大王的权杖的描述一样, 实际应该是官方弄错了将这个描述复制给了泽德大王的权杖的描述一份
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2455368873",
+      "Source": "Zedd's Staff",
+      "Trans": {"SC":"泽德大王的权杖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4231163776",
+      "Source": "Goldar's Sword",
+      "Trans": {"SC":"格尔达之剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3077222330",
+      "Source": "This costume can be used to make your Sword look like Goldar's Sword from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这个道具可以让你的剑看起来像《恐龙战队》里格尔达的剑一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3123018072",
+      "Source": "Green Ranger Sword",
+      "Trans": {"SC":"黑暗之剑","JA":""},
+      //绿衣战士的另外一把武器!!!黑暗之剑!!!
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::838519740",
+      "Source": "Titanus",
+      "Trans": {"SC":"雷龙Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::377073461",
+      "Source": "This costume can be used to make your Bronto look like the Titanus from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的雷龙模型看起来像《恐龙战队》里的雷龙Zord一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4213883233",
+      "Source": "Green Dragonzord",
+      "Trans": {"SC":"大龙神Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::153878602",
+      "Source": "This costume can be used to make your Giga look like the Green Dragonzord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的南方巨兽龙模型看起来像《恐龙战队》里的大龙神Zord一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3688553538",
+      "Source": "Megazord",
+      "Trans": {"SC":"大兽神Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::754182669",
+      "Source": "This costume can be used to make your MEK look like the Megazord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的力神机甲模型看起来像《恐龙战队》里的超级Zord-大兽神一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1133397475",
+      "Source": "White Tigerzord",
+      "Trans": {"SC":"白虎Zord","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3319690231",
+      "Source": "This costume can be used to make your Thylacoleo look like the White Tigerzord from Mighty Morphin Power Rangers!",
+      "Trans": {"SC":"这套服装可以让你的袋狮模型看起来像《恐龙战队》里的白虎Zord一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

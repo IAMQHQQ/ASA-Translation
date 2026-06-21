@@ -1,0 +1,130 @@
+{
+  "PaveTheRoad": [
+    {
+      "NamespaceHash": "Content::4123206817",
+      "Source": "Road 08_CafeStreet",
+      "Trans": {"SC":"道路 08_咖啡馆街","JA":"道路 08_咖啡館街"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::678777946",
+      "Source": "Road 03_Cart",
+      "Trans": {"SC":"道路 03_手推车","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::52179351",
+      "Source": "Road 01_Grass",
+      "Trans": {"SC":"道路 01_草地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::778580480",
+      "Source": "Road 07_DoubleRoad",
+      "Trans": {"SC":"道路 07_双车道","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1673365633",
+      "Source": "Road 05_Dirt",
+      "Trans": {"SC":"道路 05_泥土","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2668401042",
+      "Source": "Road 11_Medieval Wood",
+      "Trans": {"SC":"道路 11_中世纪木材","JA":"道路 11_中世紀木材"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::601780304",
+      "Source": "Road 12_Medieval Stone",
+      "Trans": {"SC":"道路 12_中世纪石材","JA":"道路 12_中世紀石材"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1674365772",
+      "Source": "Road 13_Medieval Village",
+      "Trans": {"SC":"道路 13_中世纪村庄","JA":"道路 13_中世紀村庄"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2250409814",
+      "Source": "Road 14_Medieval Castle",
+      "Trans": {"SC":"道路 14_中世纪城堡","JA":"道路 14_中世紀城堡"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2053145276",
+      "Source": "Road 15_Medieval Brick",
+      "Trans": {"SC":"道路 15_中世纪砖块","JA":"道路 15_中世紀磚塊"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3760674009",
+      "Source": "Road 09_Metal",
+      "Trans": {"SC":"道路 09_金属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::498598593",
+      "Source": "Road 02_Monorail",
+      "Trans": {"SC":"道路 02_单轨","JA":"道路 02_單軌"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2674368106",
+      "Source": "PaveTheRoad SubObject Skin 01",
+      "Trans": {"SC":"铺路子对象皮肤 01","JA":"鋪路子對象皮肤 01"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2379362692",
+      "Source": "PaveTheRoad SubObject Skin 02",
+      "Trans": {"SC":"铺路子对象皮肤 02","JA":"鋪路子對象皮肤 02"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3841164002",
+      "Source": "Road 06_SingleRoad",
+      "Trans": {"SC":"道路 06_单车道","JA":"道路 06_單车道"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2027243990",
+      "Source": "Road 04_Snow",
+      "Trans": {"SC":"道路 04_冰雪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1556700142",
+      "Source": "Road 10_TEK",
+      "Trans": {"SC":"道路 10_泰克","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::323260764",
+      "Source": "TrainTrack & Pillar Structure Skin",
+      "Trans": {"SC":"火车轨道与支柱结构皮肤","JA":"火车軌道与支柱結构皮肤"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2218146203",
+      "Source": "TrainTrack Structure Skin",
+      "Trans": {"SC":"火车轨道与支柱结构皮肤","JA":"火车軌道与支柱結构皮肤"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::989894156",
+      "Source": "TrainTrack & Pillar(Top EndPoint Deco) Structure Skin",
+      "Trans": {"SC":"火车轨道与支柱（顶端终点装饰）结构皮肤","JA":"火车軌道与支柱（頂端終点装飾）結构皮肤"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::358843247",
+      "Source": "LargeSign, WallSign, Pillar Structure Skin",
+      "Trans": {"SC":"大型招牌、墙牌、支柱结构皮肤","JA":"大型招牌、牆牌、支柱結构皮肤"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

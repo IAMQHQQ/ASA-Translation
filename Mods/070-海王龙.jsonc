@@ -1,0 +1,418 @@
+{
+  "Moro Tylosaurus": [//2025.12.03 图标应该没汉化
+    {
+      "NamespaceHash": "Content::1278636342",
+      "Source": "Tylosaurus",
+      "Trans": {"SC":"海王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3232846424",
+      "Source": "Tylosaurus Saddle",
+      "Trans": {"SC":"海王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2586875046",
+      "Source": "Equip a Tylosaur with this to ride it.",
+      "Trans": {"SC":"装备到海王龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2302063236",
+      "Source": "Tylosaurus Deadly Venom",
+      "Trans": {"SC":"海王龙致命毒液","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1896850755",
+      "Source": "Extremely Venomous. Decreases your health rapidly for a short amount of time.",
+      "Trans": {"SC":"剧毒。短时间内快速降低你的生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2560610268",
+      "Source": "Tylosaurus Pheromone Venom",
+      "Trans": {"SC":"海王龙信息素毒液","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3353684990",
+      "Source": "Works like a pheromone dart",
+      "Trans": {"SC":"作用类似信息素镖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::170325924",
+      "Source": "Tylosaurus Tranq Venom",
+      "Trans": {"SC":"海王龙麻醉毒液","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3426753123",
+      "Source": "Tylo Narcotic",
+      "Trans": {"SC":"海王龙麻醉药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2403598771",
+      "Source": "Moros Tylosaurus Admin Menu Remote",
+      "Trans": {"SC":"Moro海王龙管理员菜单遥控器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::16440431",
+      "Source": "This device is an Admin Spawn / Configure Menu for Moro's Tylosaurus Mod. ",
+      "Trans": {"SC":"这个装置是Moro的海王龙模组的管理员生成/配置菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1093229115",
+      "Source": "InflictingTorpidVenom",
+      "Trans": {"SC":"施加昏迷毒液","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3672615195",
+      "Source": "InflictingDeadlyVenom",
+      "Trans": {"SC":"施加致命毒液","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3082498890",
+      "Source": "InflictingPheromoneVenom",
+      "Trans": {"SC":"施加信息素毒液","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1974541529",
+      "Source": "You are poisoned by Tylosaurus Venom! You are losing 10% of your health over time!",
+      "Trans": {"SC":"你中了海王龙的毒液！你正在持续失去10%的生命值！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1713966315",
+      "Source": "Tylo Saddle Oxygen Supply",
+      "Trans": {"SC":"海王龙鞍氧气供应","JA":"海王龙鞍氧气供應"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::597090099",
+      "Source": "Tylosaurus saddle grants you oxygen!",
+      "Trans": {"SC":"海王龙鞍为你提供氧气！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1581912423",
+      "Source": "Moro's Tylosaurus Admin Panel",
+      "Trans": {"SC":"Moro海王龙管理面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::C8A1C5454FB37843168116A1629BDFAA",
+      "Source": "{Mod Name} Mod Settings Updated!",
+      "Trans": {"SC":"{Mod Name} 模组设置已更新！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3145426336"}
+    },
+    {
+      "NamespaceHash": "C38A37594CE61931B7D9D68E28E111B5",
+      "Source": "Moro's Tylosaurus Admin Remote",
+      "Trans": {"SC":"Moro的海王龙管理员遥控器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3952825591"}
+    },
+    {
+      "NamespaceHash": "D891AE1A4BEFA443C069EFA24C62ABEB",
+      "Source": "Spawn Dinos Panel",
+      "Trans": {"SC":"生成恐龙面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1512438556"}
+    },
+    {
+      "NamespaceHash": "8FB339494F1B5A0E6D2C0D9FFC91D795",
+      "Source": "Configure Settings Panel",
+      "Trans": {"SC":"配置设置面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4158271305"}
+    },
+    {
+      "NamespaceHash": "5EC786034CB065AF408CEBBF32D913E9",
+      "Source": "Spawn Items Panel",
+      "Trans": {"SC":"生成物品面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2403955707"}
+    },
+    {
+      "NamespaceHash": "0213ACE34939C1384A5FEB86F9931679",
+      "Source": "Socials & Donations",
+      "Trans": {"SC":"社交与捐赠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"639038269"}
+    },
+    {
+      "NamespaceHash": "92214AC14FF9192DB9B898A380FD8789",
+      "Source": "Moro's Other Mods",
+      "Trans": {"SC":"Moro的其他模组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3928318990"}
+    },
+    {
+      "NamespaceHash": "3F4C54AD4BCCBD9DB1B756AC831F4ACA",
+      "Source": "Patch Notes",
+      "Trans": {"SC":"更新日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3187916512"}
+    },
+    {
+      "NamespaceHash": "88672AFD420387A2A595F389DD3F71D9",
+      "Source": "Credits",
+      "Trans": {"SC":"致谢","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2619254768"}
+    },
+    {
+      "NamespaceHash": "B723348F4FC19A499DB6989279CE97B0",
+      "Source": "All Assets in this mod were made by me (MoroNada) ",
+      "Trans": {"SC":"本模组的所有素材均由我（MoroNada）制作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3912879334"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::DCD4AFC64E5DDE60691F57BE2E909806",
+      "Source": "Mod Global Rank",
+      "Trans": {"SC":"模组全球排名","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"326162567"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2A468E7C40076DD9CA82E790EFEABECF",
+      "Source": "Summary",
+      "Trans": {"SC":"摘要","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1495729702"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::00128593477DD461CA0031AD69005F14",
+      "Source": "Download Count",
+      "Trans": {"SC":"下载次数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3957753718"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::398CD06242ED138880FC798C4A018511",
+      "Source": "Author",
+      "Trans": {"SC":"作者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"226812413"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::FB7936EE4B09E3AF6E52A78FD1B20D3D",
+      "Source": "Mod Rating: {Rating}% {Score} ",
+      "Trans": {"SC":"模组评分：{Rating}% {Score}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"617747094"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::7FFFB31544D9D0B177F10BBED109602B",
+      "Source": "Last Updated",
+      "Trans": {"SC":"最后更新","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3492216092"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::22A2A5FC47191541C59A29ACDBD90CA2_Format0",
+      "Source": "Spawn Limit Reached! {Limit}",
+      "Trans": {"SC":"已达生成上限！{Limit}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2287973848"}
+    },
+    {
+      "NamespaceHash": "B40D62714C39D3B966C5F5A51EAC53DC",
+      "Source": "Higher Number = More Damage",
+      "Trans": {"SC":"数值越高=伤害越高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1182676814"}
+    },
+    {
+      "NamespaceHash": "EEEAF3AC4E37B7CBA67B56B270D6B813",
+      "Source": "Higher number = More Damage Taken",
+      "Trans": {"SC":"数值越高=受到的伤害越高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"352091389"}
+    },
+    {
+      "NamespaceHash": "647ABE0945280CCEEC494CBCB1E15FB0",
+      "Source": "This is the amount of health that is drained from the victim over time per venom bite. Make sure this is a negative number. ",
+      "Trans": {"SC":"这是每次毒液咬伤随时间从受害者身上流失的生命值。请确保这是一个负数。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3443339030"}
+    },
+    {
+      "NamespaceHash": "83A8925A4ABE842BB9E695824B715EE9",
+      "Source": "The Venom Damage is applied over time. So this value is the duration of the damage for each bite of venom. By Default it's 5 seconds",
+      "Trans": {"SC":"毒液伤害会随时间施加。因此该值是每次毒液咬伤的伤害持续时间。默认是5秒。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"185931174"}
+    },
+    {
+      "NamespaceHash": "AC7CAB3941D4E2460BF190B21284037D",
+      "Source": "This is the amount of Torpidity that is added to the victim over time per venom bite.",
+      "Trans": {"SC":"这是每次毒液咬伤随时间添加到受害者身上的昏迷值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2535271415"}
+    },
+    {
+      "NamespaceHash": "54B4CB5D4EE3F7347732A9BB03DCAAFA",
+      "Source": "The Venom Torpidity is applied over time. So this value is the duration of the torpidity being added for each bite of venom. By Default it's 5 seconds",
+      "Trans": {"SC":"毒液昏迷效果会随时间施加。因此该值是每次毒液咬伤的昏迷效果添加持续时间。默认是5秒。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1365105030"}
+    },
+    {
+      "NamespaceHash": "D640B34B4213A1B62CB22989D0EF9BB1",
+      "Source": "Credits",
+      "Trans": {"SC":"致谢","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2619254768"}
+    },
+    {
+      "NamespaceHash": "5E2CA8EC499C6C91CC65B1A55DF9B1C9",
+      "Source": "Water Jump (While Moving)",
+      "Trans": {"SC":"水上跳跃 (移动时)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3401837525"}
+    },
+    {
+      "NamespaceHash": "F5C755F440B22857E1E296BDAC6D2EE0",
+      "Source": "Switch Venom Modes",
+      "Trans": {"SC":"切换毒液模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1986437244"}
+    },
+    {
+      "NamespaceHash": "91E0996448456AD5BB9D259992E8FF0E",
+      "Source": "Inflict Venom",
+      "Trans": {"SC":"施加毒液","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3571977322"}
+    },
+    {
+      "NamespaceHash": "0FE6253740079CAF8ED606855200C9C8",
+      "Source": "Agile Attack",
+      "Trans": {"SC":"敏捷攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2408355692"}
+    },
+    {
+      "NamespaceHash": "6670883649691895E8CE7293ED99AD6B",
+      "Source": "Death Roll",
+      "Trans": {"SC":"死亡翻滚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3490881486"}
+    },
+    {
+      "NamespaceHash": "336C4BD34E5FE88051AE7EBC37CCEDD7",
+      "Source": "Melee",
+      "Trans": {"SC":"近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1993336256"}
+    },
+    {
+      "NamespaceHash": "FEA8421C407D9BF1EC345ABF52FA0A6F",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::542685DB44A28900AE216D876E22FECB",
+      "Source": "Value From Server: {Counter}",
+      "Trans": {"SC":"来自服务器的值：{Counter}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2767987197"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::6FC0C9E84468C58BC88DC696A9FA8578",
+      "Source": "Locked: You must be a server admin to use this feature.",
+      "Trans": {"SC":"已锁定：你必须是服务器管理员才能使用此功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2324762801"}
+    },
+    {
+      "NamespaceHash": "CADE0DF54D54BFE015F54591B34657A9",
+      "Source": "MoroNada's Discord",
+      "Trans": {"SC":"MoroNada的Discord","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"545726276"}
+    },
+    {
+      "NamespaceHash": "0D4A8A644762578D260556A8D4A6C0BE",
+      "Source": "MoroNada's YouTube",
+      "Trans": {"SC":"MoroNada的YouTube","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"734138069"}
+    },
+    {
+      "NamespaceHash": "206E889D4FC5F27370EC25BAAB9F91AB",
+      "Source": "Mod Info Google Doc",
+      "Trans": {"SC":"Mod信息谷歌文档","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2649726401"}
+    },
+    {
+      "NamespaceHash": "1BF0F2AB49CB12C8C467D39318120B73",
+      "Source": "MoroNada's Twitter",
+      "Trans": {"SC":"MoroNada的Twitter","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4094192436"}
+    },
+    {
+      "NamespaceHash": "59C1199441037BD36169B7931E4F791F",
+      "Source": "MoroNada's Artstation",
+      "Trans": {"SC":"MoroNada的Artstation","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3781232131"}
+    },
+    {
+      "NamespaceHash": "9F5A4FC943E5187D7B26B1AC26C1A0BB",
+      "Source": "Donate - Paypal",
+      "Trans": {"SC":"捐赠 - Paypal","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3421789463"}
+    },
+    {
+      "NamespaceHash": "DA487C7044E38943B32181A12DAB9755",
+      "Source": "Donate - CashApp",
+      "Trans": {"SC":"捐赠 - CashApp","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1999813184"}
+    },
+    {
+      "NamespaceHash": "ADF28F254A12E3DCDAC021BA7C28B520",
+      "Source": "Donate - Patreon",
+      "Trans": {"SC":"捐赠 - Patreon","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2466884922"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::400293A2411141231679708D6B20AE35",
+      "Source": " + {NumLevels} Available!",
+      "Trans": {"SC":"<#RN#>+ {NumLevels} 可用！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1963828650"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::B5E25BDF4E2A7586E22DC69047F674FE",
+      "Source": " (+ {Potency%Increase}% Increase)",
+      "Trans": {"SC":"<#RN#>(+ {Potency%Increase}% 提升)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2470718624"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::592F184644051B3D5DFCA39C7609784A",
+      "Source": "(+ {NumLevels} Points Added!)",
+      "Trans": {"SC":"<#RN#>(+ {NumLevels} 点已添加！)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"237476571"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::FCCA9B954D6636F9B9D3DBAF8E67F093",
+      "Source": " (+ {Potency%Increase}% Increase)",
+      "Trans": {"SC":"<#RN#>(+ {Potency%Increase}% 提升)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2470718624"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::53A4BA6A460DFD6BE7D96E9C7D3AB1D4",
+      "Source": "(+ {NumLevels} Points Added!)",
+      "Trans": {"SC":"<#RN#>(+ {NumLevels} 点已添加！)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"237476571"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::236D74EF4AFA7D596F442FB4ACDBF426",
+      "Source": " (+ {Production%Increase}% Increase)",
+      "Trans": {"SC":"<#RN#>(+ {Production%Increase}% 提升)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1387677296"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::8FADF91740317A4D68B12A99D35260F2",
+      "Source": "(+ {NumLevels} Points Added!)",
+      "Trans": {"SC":"<#RN#>(+ {NumLevels} 点已添加!)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"237476571"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::8D9F9CF7449E8B10ACF213819FACB83C",
+      "Source": " (+ {Production%Increase}% Increase)",
+      "Trans": {"SC":"<#RN#>(+ {Production%Increase}% 提升!)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1387677296"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::5F909BB14EBC037B6D30BB9C821145F2",
+      "Source": "(+ {NumLevels} Points Added!)",
+      "Trans": {"SC":"<#RN#>(+ {NumLevels} 点已添加!)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"237476571"}
+    },
+    {
+      "NamespaceHash": "A665B9C14BB28C3BD63EFA8F5E55EC71",
+      "Source": "Donate / Mod Info",
+      "Trans": {"SC":"捐赠 / 模组信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3754159025"}
+    }
+  ]
+}

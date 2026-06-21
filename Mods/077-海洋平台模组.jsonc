@@ -1,0 +1,340 @@
+{
+  "ASA_AlfaOceanicPlataform": [//2026.6.21
+    {
+      "NamespaceHash": "Content::2031370214",
+      "Source": "Alfa Ocean Platform - Adobe",
+      "Trans": {"SC":"海洋平台 - 黏土","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2821279320",
+      "Source": "Alfa Ocean Platform - Cage",
+      "Trans": {"SC":"海洋平台 - 围栏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2634655458",
+      "Source": "Alfa Ocean Platform - Closed",
+      "Trans": {"SC":"海洋平台 - 封闭型","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1691557793",
+      "Source": "Alfa Ocean Platform - Grass",
+      "Trans": {"SC":"海洋平台 - 草地","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1891408970",
+      "Source": "Alfa Ocean Platform - Ice Closed",
+      "Trans": {"SC":"海洋平台 - 冰雪封闭型","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1234268850",
+      "Source": "Alfa Ocean Platform - Concrete",
+      "Trans": {"SC":"海洋平台 - 混凝土","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3415528353",
+      "Source": "Alfa Ocean Platform - Shasta Cage",
+      "Trans": {"SC":"海洋平台 - 沙斯塔围栏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2611669089",
+      "Source": "Alfa Ocean Platform - Underwater",
+      "Trans": {"SC":"海洋平台 - 水下","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::408392591",
+      "Source": "Alfa Ocean Platform - Wood",
+      "Trans": {"SC":"海洋平台 - 木质","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2664861042",
+      "Source": "Alfa Ocean Platform - Wood Closed",
+      "Trans": {"SC":"海洋平台 - 木质封闭型","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227720319",
+      "Source": "Alfa Ocean Platform - Open",
+      "Trans": {"SC":"海洋平台 - 开放型","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1026634882",
+      "Source": "Alfa Ocean Platform Quarter - Adobe",
+      "Trans": {"SC":"海洋平台四分之一型 - 黏土","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::552998085",
+      "Source": "Alfa Ocean Platform Quarter - Grass",
+      "Trans": {"SC":"海洋平台四分之一型 - 草地","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::743475150",
+      "Source": "Alfa Ocean Platform Quarter - Ice Closed",
+      "Trans": {"SC":"海洋平台四分之一型 - 冰雪封闭型","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::561426465",
+      "Source": "Alfa Ocean Platform Quarter - Wood",
+      "Trans": {"SC":"海洋平台四分之一型 - 木质","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::884187089",
+      "Source": "Alfa Ocean Platform Quarter - Open",
+      "Trans": {"SC":"海洋平台四分之一型 - 开放型","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2319208836",
+      "Source": "Ocean Behemoth Gate",
+      "Trans": {"SC":"海洋巨兽门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1039666495",
+      "Source": "Floating - Adobe Foundation",
+      "Trans": {"SC":"漂浮 - 黏土地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1068861982",
+      "Source": "Floating - Crystal Foundation",
+      "Trans": {"SC":"漂浮 - 水晶地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::445321782",
+      "Source": "Floating - Crystal Triangle & Quarter Foundation",
+      "Trans": {"SC":"漂浮 - 水晶三角&四分之一地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2110676883",
+      "Source": "Floating - Metal Foundation",
+      "Trans": {"SC":"漂浮 - 金属地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4184370925",
+      "Source": "Floating - Stone Foundation",
+      "Trans": {"SC":"漂浮 - 石头地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::987449358",
+      "Source": "Floating - Tek Foundation",
+      "Trans": {"SC":"漂浮 - 泰克地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::158210929",
+      "Source": "Floating - Thatch Foundation",
+      "Trans": {"SC":"漂浮 - 茅草地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::604743321",
+      "Source": "Floating - Adobe Triangle & Quarter Foundation",
+      "Trans": {"SC":"漂浮 - 黏土三角&四分之一地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4167001680",
+      "Source": "Floating - Metal Triangle & Quarter Foundation",
+      "Trans": {"SC":"漂浮 - 金属三角&四分之一地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1561267657",
+      "Source": "Floating - Stone Triangle & Quarter Foundation",
+      "Trans": {"SC":"漂浮 - 石头三角&四分之一地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::783831016",
+      "Source": "Floating - Tek Triangle & Quarter Foundation",
+      "Trans": {"SC":"漂浮 - 泰克三角&四分之一地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4095670582",
+      "Source": "Floating - Wood Triangle & Quarter Foundation",
+      "Trans": {"SC":"漂浮 - 木质三角&四分之一地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::391224697",
+      "Source": "Floating - Wood Foundation",
+      "Trans": {"SC":"漂浮 - 木质地基","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2415044220",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de barro e gravetos que flutua na superfície da água. Qual será o segredo para a argila não derreter?</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large platform made of clay and twigs floats on the surface of the water. What's the secret to keeping the clay from melting?</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de barro e gravetos que flutua na superfície da água. Qual será o segredo para a argila não derreter?</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个由黏土和细枝制成的大型平台漂浮在水面上。黏土不融化的秘密是什么？</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1580029869",
+      "Source": "Floats on the surface of bodies of water.<#N#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#N#><#N#><RichColor Color=\"1,1,0,1\">A large platform floating on the surface of the water</><#N#><#N#><RichColor Color=\"0,0.5,1,1\">Possui uma gaiola submersa para proteger seus dinos. Aceita behemoths de metal</><#N#><RichColor Color=\"0,0.8,1,1\">It has a submerged cage to protect your dinos. Accepts metal behemoths</>",
+      "Trans": {"SC":"漂浮在水体表面。<#N#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#N#><#N#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型平台</><#N#><#N#><RichColor Color=\"0,0.5,1,1\">Possui uma gaiola submersa para proteger seus dinos. Aceita behemoths de metal</><#N#><RichColor Color=\"0,0.8,1,1\">它有一个潜水围栏来保护你的恐龙。可容纳金属巨兽</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::137573696",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large platform floating on the surface of the water</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is closed</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型平台</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">结构表面是封闭的</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3859703557",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água. Possui uma cobertura gramada</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large platform floating on the surface of the water. It has a grassy cover</><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#N#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is closed</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água. Possui uma cobertura gramada</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型平台。它有一个草皮覆盖层</><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#N#><RichColor Color=\"0,0.8,1,1\">结构表面是封闭的</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1015763917",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Um grande pedaço de gelo quadrangular que flutua sobre a água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large quadrangular piece of ice floating on the water</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is closed</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Um grande pedaço de gelo quadrangular que flutua sobre a água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一块漂浮在水面上的大型四边形冰块</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">结构表面是封闭的</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::970498477",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água apesar de seu peso sólido de concreto e metal. Tá certo isso?</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large platform that floats on the surface of the water despite its solid weight of concrete and metal. Is that right?</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is closed</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água apesar de seu peso sólido de concreto e metal. Tá certo isso?</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个尽管由混凝土和金属制成、重量沉重的大型平台，却能漂浮在水面上。这合理吗？</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">结构表面是封闭的</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3629761376",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma com gaiola que flutua na superfície da água, capaz de comportar um shastassauro, mas não sendo ideal para construção</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large caged platform that floats on the surface of the water, capable of holding a shastasaurus, but not ideal for construction</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma com gaiola que flutua na superfície da água, capaz de comportar um shastassauro, mas não sendo ideal para construção</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个带围栏的大型漂浮平台，能够容纳一只沙斯塔龙，但不适合用于建筑</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1461427886",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma flutuante anexada a uma câmara vácuo</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large floating platform attached to a vacuum chamber</><#N#><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é parcialmente fechada</><#N#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is partially closed</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma flutuante anexada a uma câmara vácuo</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个连接着真空舱的大型漂浮平台</><#N#><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é parcialmente fechada</><#N#><RichColor Color=\"0,0.8,1,1\">结构表面是部分封闭的</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1917564690",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de madeira que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large wooden platform floating on the surface of the water</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de madeira que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型木质平台</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::523563407",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de madeira que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large wooden platform floating on the surface of the water</><#N#><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#N#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is closed</>",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de madeira que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型木质平台</><#N#><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#N#><RichColor Color=\"0,0.8,1,1\">结构表面是封闭的</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::428963571",
+      "Source": "Floats on the surface of bodies of water.<#N#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#N#><#N#><RichColor Color=\"1,1,0,1\">A large platform floating on the surface of the water</>",
+      "Trans": {"SC":"漂浮在水体表面。<#N#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#N#><#N#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型平台</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::573547871",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de barro e gravetos que flutua na superfície da água. Qual será o segredo para a argila não derreter?</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large platform made of clay and twigs floats on the surface of the water. What's the secret to keeping the clay from melting?</><#RN#>HALF SIZE!",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de barro e gravetos que flutua na superfície da água. Qual será o segredo para a argila não derreter?</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个由黏土和细枝制成的大型平台漂浮在水面上。黏土不融化的秘密是什么？</><#RN#>半尺寸！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4194990867",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água. Possui uma cobertura gramada</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large platform floating on the surface of the water. It has a grassy cover</><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#N#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is closed</><#RN#><#RN#>HALF SIZE!",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água. Possui uma cobertura gramada</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型平台。它有一个草皮覆盖层</><#N#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#N#><RichColor Color=\"0,0.8,1,1\">结构表面是封闭的</><#RN#><#RN#>半尺寸！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::203093029",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Um grande pedaço de gelo quadrangular que flutua sobre a água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large quadrangular piece of ice floating on the water</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">The surface of the structure is closed</><#RN#><#RN#>HALF SIZE!",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Um grande pedaço de gelo quadrangular que flutua sobre a água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一块漂浮在水面上的大型四边形冰块</><#RN#><#RN#><RichColor Color=\"0,0.5,1,1\">A superfície da estrutura é fechada</><#RN#><RichColor Color=\"0,0.8,1,1\">结构表面是封闭的</><#RN#><#RN#>半尺寸！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::523335883",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de madeira que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large wooden platform floating on the surface of the water</><#RN#><#RN#>HALF SIZE!",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma de madeira que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型木质平台</><#RN#><#RN#>半尺寸！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3019006068",
+      "Source": "Floats on the surface of bodies of water.<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">A large platform floating on the surface of the water</><#RN#><#RN#>HALF SIZE!",
+      "Trans": {"SC":"漂浮在水体表面。<#RN#><RichColor Color=\"1,1,1,1\">Uma grande plataforma que flutua na superfície da água</><#RN#><#RN#><RichColor Color=\"1,1,0,1\">一个漂浮在水面上的大型平台</><#RN#><#RN#>半尺寸！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1153400109",
+      "Source": "Ocean Behemoth Gate - Shasta Cage",
+      "Trans": {"SC":"海洋巨兽门 - 沙斯塔围栏","JA":"海洋巨獸门 - 沙斯塔圍欄"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::53089758",
+      "Source": "Floating - Crystal Quarter Foundation",
+      "Trans": {"SC":"漂浮 - 水晶四分之一地基","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2334379365",
+      "Source": "Floating - Crystal Triangle Foundation",
+      "Trans": {"SC":"漂浮 - 水晶三角地基","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1998401662",
+      "Source": "Ocean Platform Behemoth Gateway",
+      "Trans": {"SC":"海洋平台巨兽门框","JA":"海洋平台巨獸门框"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1008619129",
+      "Source": "Alfa Ocean Platform - Underwater Cage",
+      "Trans": {"SC":"海洋平台 - 水下围栏","JA":"海洋平台 - 水下圍欄"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1916072834",
+      "Source": "Alfa Ocean Platform - Underwater V2",
+      "Trans": {"SC":"海洋平台 - 水下围栏v2","JA":"海洋平台 - 水下圍欄v2"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::31363948",
+      "Source": "Alfa Ocean Platform Quarter - Ice",
+      "Trans": {"SC":"海洋平台四分之一地基 - 冰雪","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1456831073",
+      "Source": "Alfa Ocean Platform - ALL QUARTER",
+      "Trans": {"SC":"海洋平台 - 全系列四分之一型","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1229778033",
+      "Source": "Alfa Ocean Platform - ALL",
+      "Trans": {"SC":"海洋平台 - 全系列","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3658392237",
+      "Source": "Protect",
+      "Trans": {"SC":"防护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

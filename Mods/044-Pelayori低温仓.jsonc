@@ -1,0 +1,922 @@
+{
+  "Pelayori低温仓": [//2025.11.30未汉化完
+    {
+      "NamespaceHash": "Content::3172495515",
+      "Source": "Cryofridge (PCS)",
+      "Trans": {"SC":"低温冰箱 (PCS)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1776959559",
+      "Source": "Empty Cryo Chamber",
+      "Trans": {"SC":"空的低温舱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::487926189",
+      "Source": "Cryopod Gun",
+      "Trans": {"SC":"低温舱枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1229650459",
+      "Source": "Fire at a dino and get it inside a cryopod!",
+      "Trans": {"SC":"向恐龙射击，将其收入低温舱中！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2201755152",
+      "Source": "Level Up gun",
+      "Trans": {"SC":"升级枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::781660787",
+      "Source": "Fire at a dino and level all the available levels!<#N#><#N#>MMB while looking at dino to configure the preset",
+      "Trans": {"SC":"向恐龙射击，提升其所有可分配等级！<#N#><#N#>瞄准恐龙时按鼠标中键可配置预设","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3918670771",
+      "Source": "Neuter Gun",
+      "Trans": {"SC":"绝育枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3755677528",
+      "Source": "Gun with:\\n- Neuter mode (reload to cycle modes, target to mark, and fire to kill all marked)\\n- Kill mode",
+      "Trans": {"SC":"该枪具备：<#RN#>绝育模式 (换弹可切换模式，瞄准目标进行标记，射击可清除所有标记) <#RN#>击杀模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3236357963",
+      "Source": "Stacked Cryochamber",
+      "Trans": {"SC":"堆叠低温舱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3800971512",
+      "Source": "Empty, stacked cryochambers! Consume to transform into a usable cryochamber",
+      "Trans": {"SC":"空的堆叠式低温舱！消耗后可转换为可用低温舱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3233047979",
+      "Source": "Cryo terminal",
+      "Trans": {"SC":"低温终端","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3224120901",
+      "Source": "Use it to store cryopods! Comes with newborn auto trap!",
+      "Trans": {"SC":"用于存放低温舱！自带幼崽自动捕获功能！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::8A619D214E0C3315BE14B5B023D5CF38_Format0",
+      "Source": "You neutered dino {dino}!",
+      "Trans": {"SC":"你已为恐龙 {dino} 绝育！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2515149134"}
+    },
+    {
+      "NamespaceHash": "1D05292643DED58C16AFB2AB7D37807D",
+      "Source": "Pelayori's Cryo Storage<#RN#>Admin Dino Backup",
+      "Trans": {"SC":"Pelayori的低温储存库<#RN#>管理员恐龙备份","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"59448398"}
+    },
+    {
+      "NamespaceHash": "457AC04540FC84ABFDD486846834AF22",
+      "Source": "Updated at:",
+      "Trans": {"SC":"更新时间:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3494388591"}
+    },
+    {
+      "NamespaceHash": "6F99F56844EF46CCC9F1F18102BFF7DA",
+      "Source": "Tamed by:",
+      "Trans": {"SC":"驯养者:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2137814222"}
+    },
+    {
+      "NamespaceHash": "2F64B5E74810D9C1ECC0D48E1823839C",
+      "Source": "DELETE ALL DINOS",
+      "Trans": {"SC":"删除所有恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1239147638"}
+    },
+    {
+      "NamespaceHash": "8209B4204071D9BA60E48DABDB25C33D",
+      "Source": "CONFIRMATION",
+      "Trans": {"SC":"确认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3667587404"}
+    },
+    {
+      "NamespaceHash": "4463E67147007B13CCE443B16F760867",
+      "Source": "(Click to see options)",
+      "Trans": {"SC":"(点击查看选项)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1338126367"}
+    },
+    {
+      "NamespaceHash": "F06C9BEE46DC34DAC172AE8B8887D05F",
+      "Source": "CRYO CHAMBER",
+      "Trans": {"SC":"低温舱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2552829082"}
+    },
+    {
+      "NamespaceHash": "EFA84CA8405A02B1AD0005A9410E1849",
+      "Source": "Press restore to give cryopod with this dino to player, or delete",
+      "Trans": {"SC":"按下 “恢复” 可向玩家发放含该恐龙的低温舱，或选择 “删除”","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4286036104"}
+    },
+    {
+      "NamespaceHash": "E7ABFC0144A47AD7AFACA1B501A75A18",
+      "Source": "Page:",
+      "Trans": {"SC":"页数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1885538962"}
+    },
+    {
+      "NamespaceHash": "3FFFDA4B4A85AAE67F6847B4CBCC60B7",
+      "Source": "Dino name:",
+      "Trans": {"SC":"恐龙名称:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1456725532"}
+    },
+    {
+      "NamespaceHash": "4EFC30F2420D762DDE7F71A1C3CEDFD2",
+      "Source": "Owner name:",
+      "Trans": {"SC":"所有者名称:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2840480017"}
+    },
+    {
+      "NamespaceHash": "E3A4FFC7402A6D5A50222CBE70BD7526",
+      "Source": "RESTORE",
+      "Trans": {"SC":"恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2751835297"}
+    },
+    {
+      "NamespaceHash": "0CB03375472076B532EE28987CCA07BB",
+      "Source": "DELETE",
+      "Trans": {"SC":"删除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2924703266"}
+    },
+    {
+      "NamespaceHash": "B1CED73F464C65006D6D9D8F069447B3",
+      "Source": "APPLY FILTERS",
+      "Trans": {"SC":"应用筛选","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"190842297"}
+    },
+    {
+      "NamespaceHash": "A127A67A411886AEF0B24E89661B3AD9",
+      "Source": "Give to player:",
+      "Trans": {"SC":"给予玩家:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1325434853"}
+    },
+    {
+      "NamespaceHash": "797B72B04B0343BCD6226EAF6B4F29BD",
+      "Source": "Give to your inventory:",
+      "Trans": {"SC":"放入自己的背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1787404866"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::522CBFA64BA603F963C7D0B0ED6D8018_InText3",
+      "Source": "No Saddle",
+      "Trans": {"SC":"无鞍具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3297399211"}
+    },
+    {
+      "NamespaceHash": "A5959D7C411B771EE9D99EBEFD9916EF",
+      "Source": "STATS SUMMARY",
+      "Trans": {"SC":"属性摘要","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"67464443"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::F85B9146460FC70D43D955AEDCF98337",
+      "Source": "{x} Mutations (Mat.)",
+      "Trans": {"SC":"{x} 突变 (母系.)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1706228993"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::458F7B9B4C090D36801FCBA2C41E1772",
+      "Source": "{x} Mutations (Pat.)",
+      "Trans": {"SC":"{x} 突变 (父系)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"858083465"}
+    },
+    {
+      "NamespaceHash": "8330FF6446C686ED38CE21BF84C5CAEA",
+      "Source": "Pelayori's Cryo Storage<#RN#>Mod logs",
+      "Trans": {"SC":"Pelayori低温储存模组日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2382064509"}
+    },
+    {
+      "NamespaceHash": "C2E70F8F4F970236717D28B38DF2E970",
+      "Source": "ADMIN BACKUP RESTORE LOGS",
+      "Trans": {"SC":"管理员备份恢复日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2902338589"}
+    },
+    {
+      "NamespaceHash": "0AECE735433CCACA2DDF6DB1ADF0C772",
+      "Source": "Select a type of log",
+      "Trans": {"SC":"选择日志类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3670904141"}
+    },
+    {
+      "NamespaceHash": "3738DCE3478381ADB6F62D97016C056C",
+      "Source": "CONFIG LOGS",
+      "Trans": {"SC":"配置日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2037884586"}
+    },
+    {
+      "NamespaceHash": "9A1ACF594E2332621720498AB75173A9",
+      "Source": "Pelayori's Cryo Storage  config",
+      "Trans": {"SC":"Pelayori低温储存库配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1479011879"}
+    },
+    {
+      "NamespaceHash": "42D037C34412FE12AC472A9748DEFDAE",
+      "Source": "INI Setting name:",
+      "Trans": {"SC":"INI 设置名称:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2236946477"}
+    },
+    {
+      "NamespaceHash": "A6FA5C1A4E52EC71A5ECD380667F9393",
+      "Source": "APPLY AND SAVE",
+      "Trans": {"SC":"应用并保存","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1887309260"}
+    },
+    {
+      "NamespaceHash": "79B66156467DC63BDBAEAF9DE9213B4B",
+      "Source": "BACKUP  CURRENT SETTINGS",
+      "Trans": {"SC":"备份当前设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"274704067"}
+    },
+    {
+      "NamespaceHash": "2AAF699F44E2B1EBBE0D77979F390450",
+      "Source": "RESTORE LATEST BACKUP",
+      "Trans": {"SC":"恢复最新备份","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"253911804"}
+    },
+    {
+      "NamespaceHash": "34C207EB498126E39C2F8C9C7B07B595",
+      "Source": "RESET TO DEFAULT SETTINGS",
+      "Trans": {"SC":"重置为默认设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3597071944"}
+    },
+    {
+      "NamespaceHash": "9602266C4A6F2485234F4BA10C4585C2",
+      "Source": "GET INI SETTINGS COPY-PASTE",
+      "Trans": {"SC":"获取 INI 设置 (复制粘贴用)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"873177879"}
+    },
+    {
+      "NamespaceHash": "0C0F03DD4B515592A7045A982F9B3821",
+      "Source": "INI SETTINGS",
+      "Trans": {"SC":"INI 设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1886657181"}
+    },
+    {
+      "NamespaceHash": "096192664A7B2E9CA584E3A52BF683F4",
+      "Source": "Throw to deploy captured creature.<#RN#>Can be recharged in Cryofridge.",
+      "Trans": {"SC":"投掷以释放捕获的生物.<#RN#>可在低温冰箱中充电","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1038654978"}
+    },
+    {
+      "NamespaceHash": "Content::4194744441",
+      "Source": "Cryo Terminal",
+      "Trans": {"SC":"低温终端","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4205261526",
+      "Source": "Are you sure you want to delete selected dinos? This action cannot be undone.",
+      "Trans": {"SC":"您确定要删除选中的恐龙吗？此操作无法撤销。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::413634523",
+      "Source": "Are you sure you want to delete ALL dinos? This action cannot be undone.",
+      "Trans": {"SC":"您确定要删除所有恐龙吗？此操作无法撤销。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2841167983",
+      "Source": "This setting makes player unable to throw dinos inside caves",
+      "Trans": {"SC":"此设置使玩家无法在洞穴内放出恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1192869960",
+      "Source": "Prevent deploy in caves",
+      "Trans": {"SC":"禁止在洞穴部署","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::523691895",
+      "Source": "Cryogun Cooldown",
+      "Trans": {"SC":"低温枪冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2287858776",
+      "Source": "Amount of cooldown seconds between sucessful uses",
+      "Trans": {"SC":"两次成功使用之间的冷却秒数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2682435840",
+      "Source": "Neuter gun distance",
+      "Trans": {"SC":"绝育枪射程","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2451498511",
+      "Source": "Range of the neuter gun, in foundations",
+      "Trans": {"SC":"绝育枪的射程（以地基为单位）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4220206426",
+      "Source": "Disable cryopods requirement",
+      "Trans": {"SC":"禁用低温舱需求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::260997923",
+      "Source": "Gives free cryopods in cryo terminal and cryo gun if no empty cryopds are found in the inventory",
+      "Trans": {"SC":"若背包中无空低温舱，低温终端和低温枪将提供免费低温舱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2653420433",
+      "Source": "Auto trap interval",
+      "Trans": {"SC":"自动捕获间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4012501095",
+      "Source": "Seconds between born dino checks in cryo terminal. This is not necessary but can be enabled for different purposes",
+      "Trans": {"SC":"低温终端检查新生恐龙的时间间隔（秒）。非必需设置，但可按需启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3470125104",
+      "Source": "Auto trap max range",
+      "Trans": {"SC":"自动捕获最大范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2229779446",
+      "Source": "Radius, in foundations, that the cryo terminal will check for born babies",
+      "Trans": {"SC":"低温终端检查新生幼崽的半径范围（以地基为单位）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2586277322",
+      "Source": "Pass imprint to deployer",
+      "Trans": {"SC":"将留痕转移给部署者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2890645426",
+      "Source": "Give imprint of whoever throws the cryopod",
+      "Trans": {"SC":"赋予低温舱投掷者相应的留痕效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1421047949",
+      "Source": "Imprint amount to give",
+      "Trans": {"SC":"赋予的留痕数值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3814135422",
+      "Source": "Minimum imprint value a bred dino will have. If it's 0 it won't have any effect. If dino has more imprint than the value, it will be skipped",
+      "Trans": {"SC":"繁殖恐龙的最低印痕值。设为 0 则无效果；若恐龙印痕值高于此数值，将跳过该设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2077935471",
+      "Source": "Fully grown babies",
+      "Trans": {"SC":"幼崽完全成长","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2152896414",
+      "Source": "Make babies get fully grown when thrown out of a cryopod",
+      "Trans": {"SC":"使幼崽从低温舱放出时即完全成年","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3538952426",
+      "Source": "Allow cryo terminal on platforms",
+      "Trans": {"SC":"允许在平台上放置低温终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::707148107",
+      "Source": "Allow the placement of the cryo terminal on top of dino platform saddles",
+      "Trans": {"SC":"允许将低温终端放置在恐龙平台鞍上","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1142653312",
+      "Source": "Allow admin capture all",
+      "Trans": {"SC":"允许管理员捕获全部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3131858769",
+      "Source": "Admins can capture dinos from other tribes",
+      "Trans": {"SC":"管理员可以捕获其他部落的恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3280432634",
+      "Source": "Max cryoterminals in range",
+      "Trans": {"SC":"范围内最大低温终端数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1286067401",
+      "Source": "Number of cryoterminals allowed in a range",
+      "Trans": {"SC":"限定范围内可放置的低温终端数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3089423191",
+      "Source": "Cryoterminal limit range",
+      "Trans": {"SC":"低温终端限制范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2645816059",
+      "Source": "Range in which cryoterminal number is limited",
+      "Trans": {"SC":"对低温终端数量进行限制的范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::46006499",
+      "Source": "Allow deploy in Boss arenas",
+      "Trans": {"SC":"允许在 Boss 竞技场部署","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2268843747",
+      "Source": "Allow throwing dinos in Boss arenas, or any area that restrict them",
+      "Trans": {"SC":"允许在 Boss 竞技场或其他限制区域放出恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2230210869",
+      "Source": "Disable cryopod need charge",
+      "Trans": {"SC":"禁用低温舱充电需求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::132635850",
+      "Source": "Cryochambers will no longer need charging if enabled",
+      "Trans": {"SC":"若启用，低温舱将不再需要充电。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::775629792",
+      "Source": "Cryopod recharge speed multiplier",
+      "Trans": {"SC":"低温舱充电速度倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1375894951",
+      "Source": "Speed multiplier for cryopods' charge. 2 is double the speed, etc...",
+      "Trans": {"SC":"低温舱充电速度的倍率。例如，设为 2 则速度加倍，以此类推……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2038196982",
+      "Source": "Cryofridge inventory slots",
+      "Trans": {"SC":"低温冰箱库存槽位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3661265790",
+      "Source": "Numebr of max slots of the Cryofridge",
+      "Trans": {"SC":"低温冰箱的最大槽位数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::755863129",
+      "Source": "Cryo terminal inventory slots",
+      "Trans": {"SC":"低温终端库存槽位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2366423878",
+      "Source": "Numebr of max slots of the cryoteminal",
+      "Trans": {"SC":"低温终端的最大槽位数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1006128216",
+      "Source": "Admin backup number limit",
+      "Trans": {"SC":"管理员备份数量限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3948963489",
+      "Source": "Limits how many dinos are held in backup. Very big numbers might lag the server",
+      "Trans": {"SC":"限制备份中可保存的恐龙数量。数值过大可能导致服务器卡顿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::208620384",
+      "Source": "Cryoterminal give temporary cryopods",
+      "Trans": {"SC":"低温终端提供一次性低温舱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3741241909",
+      "Source": "If this is enabled, cryo terminal will store newly captured dinos in 1 time use only cryopod, rather than just claiming. These cryopods cannot be grinded",
+      "Trans": {"SC":"若启用，低温终端将把新捕获的恐龙存放在仅能使用一次的低温舱中，而非直接认领。此类低温舱不可分解","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1291560562",
+      "Source": "Prevent dino healing in cryo",
+      "Trans": {"SC":"禁止恐龙在低温中恢复生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1484479508",
+      "Source": "If enabled, dinos won't heal anything while inside cryo chambers",
+      "Trans": {"SC":"若启用，恐龙在低温舱内不会恢复任何生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::215739739",
+      "Source": "Healing multiplier in cryo",
+      "Trans": {"SC":"低温中恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1468181771",
+      "Source": "Multiplier for the healing in cryo chambers. Each dino's healing value depends on its recovery rates",
+      "Trans": {"SC":"恐龙在低温舱内的恢复倍率。每种恐龙的恢复值取决于其自身恢复速率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2413921925",
+      "Source": "Disable Kill gun XP",
+      "Trans": {"SC":"禁用击杀枪经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4128281690",
+      "Source": "If enabled, the kill gun will not give any XP",
+      "Trans": {"SC":"若启用，击杀枪不会提供任何经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3801437737",
+      "Source": "Neuter gun disabled modes",
+      "Trans": {"SC":"绝育枪禁用模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3889526428",
+      "Source": "Each mode has its own checkbox. If the checkbox is enabled, players won't be able to use the mode at all.",
+      "Trans": {"SC":"每种模式各有独立复选框。若复选框启用，玩家将完全无法使用该模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2434180387",
+      "Source": "Preserve cuddle needs",
+      "Trans": {"SC":"保留依偎需求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3556634486",
+      "Source": "If enabled, babies will not change cuddle type & food when cryoed",
+      "Trans": {"SC":"若启用，幼崽在被低温冷藏时，其依偎类型和食物需求将不会改变。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3206660143",
+      "Source": "Cryoterminal don't give XP",
+      "Trans": {"SC":"低温终端不提供经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3594111938",
+      "Source": "If enabled, the cryo terminal will not want any XP for the dinos killed",
+      "Trans": {"SC":"若启用，低温终端对被击杀的恐龙不提供任何经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3614994886",
+      "Source": "Prevent deploy over level",
+      "Trans": {"SC":"禁止超等级部署","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2266534573",
+      "Source": "If level > 0, dinos over that level wont be able to be thrown out",
+      "Trans": {"SC":"若等级设为 > 0，等级高于该数值的恐龙将无法被放出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3798368426",
+      "Source": "Require nearby cryofridge range",
+      "Trans": {"SC":"需在低温冰箱附近的范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1500027816",
+      "Source": "If the range > 0, it will require to be near a cryofridge to deploy dinos. Range in foundations",
+      "Trans": {"SC":"若范围设为 > 0，放出恐龙时需处于低温冰箱附近（范围以地基为单位）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::636009148",
+      "Source": "Cryofridge allow deploy after time",
+      "Trans": {"SC":"低温冰箱定时后允许部署","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1119390580",
+      "Source": "If time > 0 and the require nearby cryofridge option > 0, cryofridges will need to wait X seconds before players can deploy cryo chambers near them",
+      "Trans": {"SC":"若时间设为 > 0 且 “需在低温冰箱附近” 选项设为 > 0，玩家需等待 X 秒后，方可在低温冰箱附近部署低温舱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4021561979",
+      "Source": "Prevent capture in combat time",
+      "Trans": {"SC":"战斗状态下禁止捕获","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1267784701",
+      "Source": "If time > 0, it will prevent capturing dinos if the dino has taken damage in the last specified seconds.",
+      "Trans": {"SC":"若时间＞0，则在指定秒数内，若恐龙受到过伤害，将禁止对其进行捕获。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3181406133",
+      "Source": "Prevent deploy near enemies range",
+      "Trans": {"SC":"禁止在敌人附近部署","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1459211907",
+      "Source": "If range > 0, it will prevent deploying dinos near enemy structures, in the specified range. Range in foundations",
+      "Trans": {"SC":"若范围＞0，则在指定范围内（以地基为单位），禁止在敌方建筑附近部署恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3274059207",
+      "Source": "Cryo time",
+      "Trans": {"SC":"低温捕获时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::468769292",
+      "Source": "Seconds needed to capture a dino with a cryopod",
+      "Trans": {"SC":"用低温舱捕获一只恐龙所需的秒数。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::430301605",
+      "Source": "Cryo time in combat",
+      "Trans": {"SC":"战斗状态下的低温捕获时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::831551706",
+      "Source": "Seconds needed to capture a dino with a cryopod after it has taken/dealt damage",
+      "Trans": {"SC":"恐龙受到 / 造成伤害后，用低温舱捕获它所需的秒数。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::853887696",
+      "Source": "Cryosickness timer",
+      "Trans": {"SC":"低温眩晕时长","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::121971453",
+      "Source": "Amount of seconds cryosickness in players last.    If players have cryosickness, dinos will be sleeping when thrown out",
+      "Trans": {"SC":"玩家处于低温眩晕状态的秒数。若玩家处于低温眩晕状态，放出的恐龙将处于沉睡状态。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2735458063",
+      "Source": "Disable auto cycle",
+      "Trans": {"SC":"禁用自动切换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1885567100",
+      "Source": "Disable auto equipping other filled cryopod when throwing another one",
+      "Trans": {"SC":"投掷一个已填充的低温舱后，禁用自动装备另一个已填充的低温舱功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4024217500",
+      "Source": "Cryogun distance",
+      "Trans": {"SC":"低温枪射程","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1662677295",
+      "Source": "Range of the cryogun, in foundations",
+      "Trans": {"SC":"低温枪的射程（以地基为单位）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::636008492",
+      "Source": "Tribelog message on cryoterminal capture",
+      "Trans": {"SC":"低温终端捕获时的部落日志消息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1381394626",
+      "Source": "A new tribelog entry will be created when the dino is born and caught by the PCS cryoterminal structure",
+      "Trans": {"SC":"当恐龙出生并被 PCS 低温终端建筑捕获时，将创建一条新的部落日志记录。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3155635175",
+      "Source": "Cryoterminal Capture Tribelog Text",
+      "Trans": {"SC":"低温终端捕获部落日志文本","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1029916656",
+      "Source": "Text for the tribelog entry when a new dino is born and caught by cryoterminal. Requires the tribelog option enabled for this to be shown. {dino} will be replaced by the dino's name",
+      "Trans": {"SC":"当新恐龙出生并被低温终端捕获时，部落日志中显示的文本。需启用部落日志选项才能显示。{dino} 将被替换为恐龙的名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4084191076",
+      "Source": "{dino} was born and was caught by Cryo Terminal",
+      "Trans": {"SC":"{dino} 已出生并被低温终端捕获","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3040810847",
+      "Source": "Disable dino claim on pickup",
+      "Trans": {"SC":"拾取时禁用恐龙认领","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3977133050",
+      "Source": "Dinos will not be claimed when born near a cryoterminal, if this does not have empty cryopods available",
+      "Trans": {"SC":"若低温终端没有可用的空低温舱，当恐龙在其附近出生时，将不会被自动认领。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2104232313",
+      "Source": "Dino Backup Chunk Size",
+      "Trans": {"SC":"恐龙备份分块大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1068979315",
+      "Source": "How many dinos to load on each chunk batch. If you feel like it's slow increase this. If you experience disconnects while loading backup lower this.",
+      "Trans": {"SC":"每批分块加载的恐龙数量。若觉得加载缓慢，可增大此数值；若加载备份时出现断开连接的情况，可减小此数值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::145118497",
+      "Source": "Dino Backup Chunk Delay",
+      "Trans": {"SC":"恐龙备份分块延迟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2789280003",
+      "Source": "How often between sending each dino backup chunk. Higher values can help with disconnects while loading the admin backyp list",
+      "Trans": {"SC":"每发送一批恐龙备份分块的间隔时间。增大此数值有助于解决加载管理员备份列表时出现的断开连接问题。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::436886528",
+      "Source": "Dino Backup Saving Interval",
+      "Trans": {"SC":"恐龙备份保存间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1132381560",
+      "Source": "How often the dino backup gets saved (in seconds). Accepts 0 to save instantly when a dino is captured, use 0 with caution as it can cause lag with a lot of entries in the backup",
+      "Trans": {"SC":"恐龙备份的保存频率（以秒为单位）。可设为 0，即捕获恐龙后立即保存，但需谨慎使用 0 值，因为当备份中的记录过多时，可能会导致卡顿。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::637833598",
+      "Source": "Stacked CryoChambers Minimum Durability Threshold",
+      "Trans": {"SC":"堆叠低温舱最低耐久阈值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3152231189",
+      "Source": "Apart from being empty, cryochambers must have a percentage higher than the config so they can be converted into stacked pods, to avoid resetting pods without charging them.",
+      "Trans": {"SC":"除为空舱外，低温舱的耐久度百分比必须高于此配置值，才能转换为堆叠舱，以避免未充电的舱体被重置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3694818947",
+      "Source": "Respect tribe tame limit",
+      "Trans": {"SC":"遵守部落驯养上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2138534444",
+      "Source": "If true dinos won't be able to be deployed, false will always allow dino deploy despite being at tame cap",
+      "Trans": {"SC":"若设为 true，当达到驯养上限时，将无法部署恐龙；若设为 false，则无论是否达到驯养上限，都允许部署恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::970260684",
+      "Source": "Prevent Baby Growth In Cryochamber",
+      "Trans": {"SC":"禁止低温舱内幼崽成长","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2425481184",
+      "Source": "If enabled, babies WILL NOT keep growing when captured inside a cryochamber",
+      "Trans": {"SC":"若启用，被捕获到低温舱内的幼崽将不会继续成长。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1132927703",
+      "Source": "Cryochamber Baby Growth Speed Multiplier",
+      "Trans": {"SC":"低温舱内幼崽成长速度倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2164984815",
+      "Source": "If > 1, dinos will grow faster. The bigger the number the faster they grow. Values < 1 will make babies grow slower while inside a cryochamber",
+      "Trans": {"SC":"若＞1，恐龙成长速度将加快，数值越大，成长越快；若＜1，低温舱内的幼崽成长速度将减慢。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2652272389",
+      "Source": "Baby Imprint Follow Growth",
+      "Trans": {"SC":"幼崽留痕值随成长同步","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3015299169",
+      "Source": "If true, baby dinos will have as much imprint as growth inside the cryochamber. Acts as the Nanny of some mods, for passive imprint. If ImprintAmountToGive is greater than 0, it will be maxed out at that value",
+      "Trans": {"SC":"若设为 true，低温舱内的幼崽恐龙将获得与成长进度相应的印痕值。类似于某些模组中的 “保姆” 功能，实现被动印痕。若 “赋予的印痕数值”（ImprintAmountToGive）大于 0，印痕值将以此数值为上限。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1862857195",
+      "Source": "Neuter gun Cooldown",
+      "Trans": {"SC":"绝育枪冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3186145404",
+      "Source": "Store your cryopods here!",
+      "Trans": {"SC":"把你的低温舱存放在这里！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::757539546",
+      "Source": "Kill all dinos",
+      "Trans": {"SC":"杀死所有恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1005863892",
+      "Source": "Kill selected dino",
+      "Trans": {"SC":"杀死选中的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2548759100",
+      "Source": "This item has been disabled by server admins.<#RN#>Can only be consumed and cannot be crafted",
+      "Trans": {"SC":"此物品已被服务器管理员禁用。<#RN#>仅可消耗，无法制作。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::8F485D7B4A76DF9DF10A449535F4E145_Format0",
+      "Source": "{player} neutered dino {dino} with neuter gun!",
+      "Trans": {"SC":"{player} 用绝育枪给恐龙 {dino} 做了绝育！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"947421287"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::5A6F999A4F806F95564657820AC13511",
+      "Source": "({now}) [{charname} - {eos}] Triggered a config change",
+      "Trans": {"SC":"({now}) [{charname} - {eos}] 触发了配置变更","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2856279451"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::256495B34778BD50C6BD8E9D030CB3A3",
+      "Source": "({now}) [{eosid} - {charname}] Restored dino {dino} for self",
+      "Trans": {"SC":"({now}) [{eosid} - {charname}] 为自己恢复了恐龙 {dino}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3336048854"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::D36EB27644618FEDC1782480C9F84E0A",
+      "Source": "({now}) [{eosid} - {charname}] Restored dino {dino} for {receivername} ({receivereos})",
+      "Trans": {"SC":"({now}) [{eosid} - {charname}] 为 {receivername}（{receivereos}）恢复了恐龙 {dino}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"152916260"}
+    }
+  ]
+}

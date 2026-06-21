@@ -1,0 +1,550 @@
+{
+  "MORO利维坦鲸": [//2025.11.29
+    {
+      "NamespaceHash": "Content::652938172",
+      "Source": "Alpha Livyatan",
+      "Trans": {"SC":"精英利维坦鲸","JA":"精英利維坦鯨"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4275316868",
+      "Source": "Livyatan",
+      "Trans": {"SC":"利维坦鲸","JA":"利維坦鯨"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1258956240",
+      "Source": "Moros Livyatan Admin Menu Remote",
+      "Trans": {"SC":"利维坦鲸管理器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2162596852",
+      "Source": "This device is an Admin Spawn / Configure Menu for Moro's Livyatan Mod. Engram can only be unlocked and used in creative mode (gcm).",
+      "Trans": {"SC":"此设备是Moro的利维坦鲸模组的管理员生成 / 配置菜单。该技能印记只能在创造模式(GCM)中解锁和使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3996434808",
+      "Source": "CraftingStation Livyatan",
+      "Trans": {"SC":"利维坦鲸制作站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2929268877",
+      "Source": "Use this crafting station to make items, saddles, and more for Livyatan. This crafting bench has a custom Saddle Assembly and Upgrade menu",
+      "Trans": {"SC":"使用这个制作站来为利维坦鲸制作物品、鞍具等。这个制作台有一个自定义的鞍具组装和升级菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::437712839",
+      "Source": "Drying Rack",
+      "Trans": {"SC":"晾干架","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::587597460",
+      "Source": "Requires Wood, Thatch, or Sparkpowder to activate the campfire and to begin drying the hide put in raw Livyatan Hide while the camp fire is activated..",
+      "Trans": {"SC":"需要木材、茅草或引火粉来点燃篝火，并且在篝火点燃后，才能使放置在里面的生利维坦鲸兽皮干燥。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::626635577",
+      "Source": "Alpha Livyatan Summoner Horn",
+      "Trans": {"SC":"精英利维坦鲸召唤号角","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::427209247",
+      "Source": "This item can be used to summon the Alpha Livyatan, the King of the sea which will grant high quality loot and engrams when killed. Many ocean tributes are required to create this horn. (CAN ONLY BE USED UNDERWATER AND ONLY 1 USE ONLY!)",
+      "Trans": {"SC":"该物品可用于召唤精英利维坦鲸 —— 海洋之王。将其击杀后可获得高品质的战利品和技能印记。制作这个号角需要许多海洋贡品。（只能在水下使用，且仅能使用一次！）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2763467909",
+      "Source": "Ancient Whale Mandables",
+      "Trans": {"SC":"古代鲸鱼下颌骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::946247569",
+      "Source": "To obtain this you must kill an ADULT LIVYATAN.   Use this to make a Livyatan Bone Saddle in the Livyatan Crafting Station Saddle Assembly Menu",
+      "Trans": {"SC":"要获得这个物品，你必须杀死一头成年利维坦鲸。用它在利维坦鲸制作站的鞍具组装菜单中制作一个利维坦鲸骨制鞍具。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2525474573",
+      "Source": "Ancient Whale Skull",
+      "Trans": {"SC":"古代鲸鱼头骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::561931658",
+      "Source": "Baby Livyatan Skull",
+      "Trans": {"SC":"幼年利维坦鲸头骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2141103417",
+      "Source": "To obtain this you must kill a WILD BABY LIVYATAN (They can be found with adults).   Use this to make a Livyatan Bone Saddle in the Livyatan Crafting Station Saddle Assembly Menu",
+      "Trans": {"SC":"要获得这个物品，你必须杀死一只野生幼年利维坦鲸（它们会和成年利维坦鲸在一起）。用这个在利维坦鲸制作站的鞍具组装菜单中制作一个利维坦鲸骨制鞍具。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2739370038",
+      "Source": "Livyatan Jaw Bones",
+      "Trans": {"SC":"利维坦鲸鲸颌骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4197110509",
+      "Source": "Livyatan Ribcage",
+      "Trans": {"SC":"利维坦鲸胸腔骨架","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4045419538",
+      "Source": "Raw Livyatan Hide",
+      "Trans": {"SC":"生利维坦鲸兽皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::987075610",
+      "Source": "Fresh Hide from a Livyatan. Put this into a Livyatan Hide Drying Rack to dry it out and use it to craft Hide Pads used to craft Livyatan saddles.",
+      "Trans": {"SC":"取自利维坦鲸的新鲜兽皮。将其放入烘干架中晾干，然后用于制作兽皮垫，兽皮垫可用来制作利维坦鲸鞍具。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3642026270",
+      "Source": "Siege Saddle Back Plates",
+      "Trans": {"SC":"攻城鞍具背板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1933150439",
+      "Source": "This Engram is learned by killing an ALPHA LIVYATAN which can be spawned using the Alpha Livyatan calling horn. Use this item to make a Livyatan Siege Saddle.",
+      "Trans": {"SC":"这个技能印记可通过击杀一只精英利维坦鲸来学习，精英利维坦鲸可以使用精英利维坦鲸召唤号角来召唤。使用这个物品可以制作一个利维坦鲸攻城鞍。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::508481959",
+      "Source": "Livyatan Bone Saddle Fishing Nets",
+      "Trans": {"SC":"利维坦鲸骨鞍渔网","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2368676674",
+      "Source": "Use this to make a Livyatan Bone Saddle",
+      "Trans": {"SC":"用这个来制作一个利维坦鲸骨制鞍具。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2029693726",
+      "Source": "Siege Saddle Head Metal Plates",
+      "Trans": {"SC":"攻城鞍具头部金属板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1119555476",
+      "Source": "Livyatan Hide Pads",
+      "Trans": {"SC":"利维坦鲸兽皮垫","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::505244632",
+      "Source": "Made from dried livyatan hide. Use this to make a Livyatan Bone Saddle",
+      "Trans": {"SC":"由干燥的利维坦鲸兽皮制成，用这个来制作一个利维坦鲸骨制鞍具。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4099519413",
+      "Source": "Siege Saddle Metal Helmet",
+      "Trans": {"SC":"攻城鞍具金属头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::647092325",
+      "Source": "Siege Saddle Metal Pads",
+      "Trans": {"SC":"攻城鞍具金属护垫","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3420679122",
+      "Source": "Siege Saddle Stomach Plates",
+      "Trans": {"SC":"攻城鞍具腹部护板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1122509825",
+      "Source": "Livyatan Saddle Straps",
+      "Trans": {"SC":"利维坦鲸鞍带","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3415550026",
+      "Source": "Livyatan Bone Saddle",
+      "Trans": {"SC":"利维坦鲸骨制鞍具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2095160431",
+      "Source": "Equip this on a Livyatan to ride it. This is a saddle made of primitive materials such as whalebones, and other marine animal bones that are obtained by killing a wild adult livyatan and baby livyatan. This saddle can be upgraded in the Livyatan Crafting station upgrade menu by combinding 2 Bone Saddles together.",
+      "Trans": {"SC":"将这个装备在利维坦鲸身上以便骑乘它。这是一种由原始材料制成的鞍具，这些材料如鲸骨以及其他海洋动物的骨头，需通过猎杀野生成年利维坦鲸和幼年利维坦鲸来获取。这个鞍具可以在利维坦鲸制作站的升级菜单中，通过将两个骨制鞍具组合在一起来进行升级 。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3168350562",
+      "Source": "Livyatan Default Saddle",
+      "Trans": {"SC":"利维坦鲸初始鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::835200589",
+      "Source": "Equip a Livyatan with this to ride it. This is the first / default livyatan saddle with very low armor and no upgrade capabilities",
+      "Trans": {"SC":"给利维坦鲸装备这个就能骑乘它。这是首个默认的利维坦鲸鞍具，护甲值极低且不具备升级能力 。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1058166324",
+      "Source": "Livyatan Siege Saddle",
+      "Trans": {"SC":"利维坦鲸攻城鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3962089909",
+      "Source": "Engram can only be obtained by defeating an Alpha Livyatan.  You must craft this item by creating the siege saddle parts and combinding them in the saddle assembly menu in the Livyatan Crafting station. You can also upgrade this saddle in the Saddle Upgrade menu in the Livyatan crafting station by combinding 2 siege saddles together to increase the rarity.Equip a Livyatan with this to ride it, and to use it's super powerful gun which requires element to shoot and fires a giant laser. This saddle also grants oxygen to the rider.",
+      "Trans": {"SC":"该技能印记只能通过击败一只精英利维坦鲸获得。你必须先制作攻城鞍具的各个部件，然后在利维坦鲸制作站的鞍具组装菜单中将它们组合起来，才能制作出这个物品。你还可以在利维坦鲸制作站的鞍具升级菜单中，通过将两个攻城鞍具组合在一起来提升其稀有度，从而对这个鞍具进行升级。给利维坦鲸装备上这个鞍具，你就可以骑乘它，还能使用它那超级强大的需要元素才能发射的枪炮，它发射出的是一道巨大的激光。这个鞍具还能为骑手提供氧气。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3487745394",
+      "Source": "Livyatan Communication Pad",
+      "Trans": {"SC":"利维坦鲸通讯器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::62800081",
+      "Source": "Must be crafted in the inventory of the Livyatan crafting station. This pad allows you to tame a wild livyatan by connecting and communicating with it through sound waves generated through the success of the objectives and minigames given through the pad.",
+      "Trans": {"SC":"必须在利维坦鲸制作站的物品栏中制作。这个通讯板能让你通过完成板上给出的任务和小游戏，产生声波与野生利维坦鲸建立连接并进行交流，从而驯服它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::455300751",
+      "Source": "Livyatan Spine",
+      "Trans": {"SC":"利维坦鲸脊椎","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1556417484",
+      "Source": "Dried Livyatan Hide",
+      "Trans": {"SC":"晒干的利维坦鲸皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3257191850",
+      "Source": "This is the result of drying out Fresh Livyatan Hide. Use this to craft Hide Pads for a Livyatan Saddle",
+      "Trans": {"SC":"这是将新鲜的利维坦鲸皮晾干后的产物。用这个来制作利维坦鲸鞍具所需的兽皮垫。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2312829470",
+      "Source": "Siege Saddle Cockpit",
+      "Trans": {"SC":"攻城鞍具驾驶舱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2820370002",
+      "Source": "Livyatan CraftingBench",
+      "Trans": {"SC":"利维坦鲸制作站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3991638374",
+      "Source": "Moro's Livy CraftingBench",
+      "Trans": {"SC":"利维坦鲸制作站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2712531781",
+      "Source": "Must contain Gasoline to power",
+      "Trans": {"SC":"必须加入汽油才能提供动力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "307A834E454ABBE5D573DF98DC01730C",
+      "Source": "Charge Ram (While Sprinting)",
+      "Trans": {"SC":"蓄力冲撞 (冲刺时)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3156164151"}
+    },
+    {
+      "NamespaceHash": "C189BC9743539EBE59C5298B36A9BB2F",
+      "Source": "Sonic Blast",
+      "Trans": {"SC":"音波冲击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"317108190"}
+    },
+    {
+      "NamespaceHash": "7A4F664E40B99A345870A8916FC385A9",
+      "Source": "Livyatan Rage Bar",
+      "Trans": {"SC":"利维坦鲸愤怒值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2634568614"}
+    },
+    {
+      "NamespaceHash": "5F51A1384EFB290259791AAC98C271C5",
+      "Source": "Livyatan Trust Bar",
+      "Trans": {"SC":"利维坦鲸信任值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3533890729"}
+    },
+    {
+      "NamespaceHash": "1FEF211241BE559186628DB344A39AAC",
+      "Source": "Timer before communication link disconnects.",
+      "Trans": {"SC":"通信链路断开倒计时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4099085323"}
+    },
+    {
+      "NamespaceHash": "517D190D4ACEB478CB9A02A4044CD859",
+      "Source": "Controls",
+      "Trans": {"SC":"控制键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"818748456"}
+    },
+    {
+      "NamespaceHash": "61E81B3B43E565BDBD1255B432BFD0E1",
+      "Source": "Enable Virtual Keypad",
+      "Trans": {"SC":"启用虚拟键盘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1606067958"}
+    },
+    {
+      "NamespaceHash": "214E4DDC4771DACCCE7BB1853A370C5B",
+      "Source": "Hide SongPad",
+      "Trans": {"SC":"隐藏歌曲面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3556872256"}
+    },
+    {
+      "NamespaceHash": "BFAB186148A05F95DBD55DAD0C786DF4",
+      "Source": "Change Morph Game Shape",
+      "Trans": {"SC":"玩法模式切换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198555972"}
+    },
+    {
+      "NamespaceHash": "68424ED64F9FDD9203F6DC90D65FC3D3",
+      "Source": "Hints / Objectives",
+      "Trans": {"SC":"提示 / 目标<#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3314784443"}
+    },
+    {
+      "NamespaceHash": "E0629CA841A1F1F76989639AB4410C71",
+      "Source": "<#RN#>- Enable Virtual Keypad<#RN#><#RN#>- Press Tap / Range button <#RN#>using virtual keypad to <#RN#>attempt connecting with <#RN#>a wild Livyatan. This will <#RN#>start the taming process. <#RN#><#RN#>Or to practice using this pad press the<#RN#> \"Training Mode\" Button to simulate <#RN#>the games without needing to find <#RN#>a Livyatan",
+      "Trans": {"SC":"<#RN#>- 启用虚拟键盘<#RN#><#RN#>使用虚拟键盘按下 “启用” 按钮 尝试与野生利维坦鲸建立联系<#RN#>这将启动驯服过程<#RN#>若想练习使用此键盘 按下 “训练模式” 按钮<#RN#>无需寻找利维坦鲸即可模拟游戏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3664282199"}
+    },
+    {
+      "NamespaceHash": "549B57C8424247DC1217D6AEE0D2F59D",
+      "Source": "UNEQUIPPING PAD WILL RESTART PROGRESS",
+      "Trans": {"SC":"卸下设备将重新开始进度!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2490802449"}
+    },
+    {
+      "NamespaceHash": "A43718DF42D9B0DCF0240DB742C8A98A",
+      "Source": "Button Keypad",
+      "Trans": {"SC":"按键小键盘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2406160715"}
+    },
+    {
+      "NamespaceHash": "6CF1E6EA4157353E1DDEE9B77025CC4F",
+      "Source": "Tap /<#RN#>Range",
+      "Trans": {"SC":"启动","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2778235850"}
+    },
+    {
+      "NamespaceHash": "692C95C2418A105157D05F996313570D",
+      "Source": "Auto <#RN#>BMP",
+      "Trans": {"SC":"自动","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"758668093"}
+    },
+    {
+      "NamespaceHash": "1B4FF5AA4937B050F6238C847FCE2476",
+      "Source": "PAD <#RN#>MOTION",
+      "Trans": {"SC":"触碰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4226449863"}
+    },
+    {
+      "NamespaceHash": "B10B5F36460D36504D21BDA3B1B12BC3",
+      "Source": "MUTE",
+      "Trans": {"SC":"静音","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"317818841"}
+    },
+    {
+      "NamespaceHash": "35C577EA4C70032B9430529D9C5011B6",
+      "Source": "SAMPLING",
+      "Trans": {"SC":"采样","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"57482314"}
+    },
+    {
+      "NamespaceHash": "4D11074448E959CDEE6994B9E43B39C6",
+      "Source": "Exit Keypad",
+      "Trans": {"SC":"退出小键盘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1773552851"}
+    },
+    {
+      "NamespaceHash": "00EF8EB948418CD06899A2948FA30B79",
+      "Source": "Training Mode",
+      "Trans": {"SC":"训练模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3200848297"}
+    },
+    {
+      "NamespaceHash": "80A9D36741E8E2BA90BDE9BDBA7FEB24",
+      "Source": "Livyatan Communication Pad Button UI",
+      "Trans": {"SC":"利维坦鲸通信板按钮页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2441225781"}
+    },
+    {
+      "NamespaceHash": "7BD018154E846D942FF1F6B2742D433A",
+      "Source": "Melee",
+      "Trans": {"SC":"近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1993336256"}
+    },
+    {
+      "NamespaceHash": "D938A9CA4235157E7C2B48BCD4F71A20",
+      "Source": "Side Bash",
+      "Trans": {"SC":"侧撞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"810515524"}
+    },
+    {
+      "NamespaceHash": "304F7ABA4FFAD81F80E3D9AB7968AEC3",
+      "Source": "Activate Siege Saddle Gun",
+      "Trans": {"SC":"激活攻城鞍枪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"971369202"}
+    },
+    {
+      "NamespaceHash": "8506ADF5456A1CE2174A85B1E22561D8",
+      "Source": "Water Jump",
+      "Trans": {"SC":"水上跳跃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1624894194"}
+    },
+    {
+      "NamespaceHash": "0290CB0D434E56B1C2DBB3848AD3BE6C",
+      "Source": "Tail Slap",
+      "Trans": {"SC":"尾击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2883400870"}
+    },
+    {
+      "NamespaceHash": "A94B133E4FD6C499FF7F1495BBC5E88F",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "E94DDAD64A77A497D96155886F9FD147",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "ACC3260446C1315212210B841FC4EA65",
+      "Source": "Must be close to the surface of the water, and have no ground below.Current Ground Depth from surface is ({Depth}) Must be at least (-10000)",
+      "Trans": {"SC":"必须靠近水面，且下方无地面。当前地面距离水面的深度为 ({Depth}) 该深度至少要达到 (-10000)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3908844540"}
+    },
+    {
+      "NamespaceHash": "CF44A6EB45F360EC6CAF248BCF12A374",
+      "Source": "Too shallow!!!   Current Ground Depth is ({Depth} Meters) Must be at least (10000 Meters)",
+      "Trans": {"SC":"太浅了！！！当前地面深度为 ({Depth} 米) 必须至少达到 (10000 米)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2904131797"}
+    },
+    {
+      "NamespaceHash": "6E47B2BB4B51E083A6C16F8211E3B688",
+      "Source": "Developer Debug Log",
+      "Trans": {"SC":"开发者日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"517185625"}
+    },
+    {
+      "NamespaceHash": "AEAED6D94F47D91AAA6CF8828BFD9E7F",
+      "Source": "Moros Livyatan Admin Menu",
+      "Trans": {"SC":"利维坦鲸管理面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3198328245"}
+    },
+    {
+      "NamespaceHash": "5274374246F6EAC9A1AFEB976B00029E",
+      "Source": "Dev Debugging Tools",
+      "Trans": {"SC":"开发调试工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"7833592"}
+    },
+    {
+      "NamespaceHash": "8E5CC8A44DD6B0226A6387A403CD05A3",
+      "Source": "Print Engram Paths",
+      "Trans": {"SC":"打印印记路径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3635314562"}
+    },
+    {
+      "NamespaceHash": "FC622C9D4D65D53633F484975C3DD7D4",
+      "Source": "Find Livyatans",
+      "Trans": {"SC":"寻找利维坦鲸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2061709425"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::C526490142428F7CD9B19685DBC2BF79",
+      "Source": "WARNING: Please Purchase \"{ModName}\" to use this item. <#RN#><#RN#>This item can be used to summon the Alpha Livyatan, the King of the sea which will grant high quality loot and engrams when killed. Many ocean tributes are required to create this horn. (CAN ONLY BE USED UNDERWATER AND ONLY 1 USE ONLY!)",
+      "Trans": {"SC":"警告：请购买 \"{ModName}\" \"Moro's利维坦鲸\"以使用此物品.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2408891261"}
+    },
+    {
+      "NamespaceHash": "Content::4074149720",
+      "Source": "Livyatan Vibration Clicks",
+      "Trans": {"SC":"利维坦鲸振动点击声","JA":"利維坦鯨振動点擊声"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2568958540",
+      "Source": "You're ears and internal organs are bleeding from the Livyatans SonicBlast clicks! 5% of your Health will be drained!",
+      "Trans": {"SC":"你因利维坦鲸的音速冲击点击声导致耳朵和内脏出血！你的生命值将流失5%！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1060554475",
+      "Source": "Livyatan Sonic Blast",
+      "Trans": {"SC":"利维坦鲸音速冲击","JA":"利維坦鯨音速冲擊"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3305324367",
+      "Source": "Your Ears are bleeding and your vision is impaired!",
+      "Trans": {"SC":"你的耳朵在出血，视力受损！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3354456694",
+      "Source": "WhaleSongLure",
+      "Trans": {"SC":"鲸鸣诱饵","JA":"鯨鳴誘餌"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1163205195",
+      "Source": "Lures Creature to Source",
+      "Trans": {"SC":"将生物吸引至源头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2423821713",
+      "Source": "Moro's Livyatan Admin Panel",
+      "Trans": {"SC":"Moro的利维坦鲸管理面板","JA":"Moro的利維坦鯨管理面板"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1072067696",
+      "Source": "Squid Buff",
+      "Trans": {"SC":"鱿鱼增益","JA":"魷鱼增益"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3988753285",
+      "Source": "You killed a Tuso! Which means the Livyatan is now rapidly being healed and has a damage buff for 15 seconds!",
+      "Trans": {"SC":"你杀死了一只鱿鱼！这意味着利维坦鲸现在正在快速恢复生命值，并将获得15秒的伤害增益！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::598830537",
+      "Source": "Tranquilized By Tylosaurus Venom!",
+      "Trans": {"SC":"被沧龙毒液麻醉了！","JA":"被滄龙毒液麻醉了！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

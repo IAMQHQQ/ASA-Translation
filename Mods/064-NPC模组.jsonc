@@ -1,0 +1,119 @@
+{
+  "Human_Npc": [//2025.12.02
+    {
+      "NamespaceHash": "Content::1404317369",
+      "Source": "Thumper",
+      "Trans": {"SC":"重击者","JA":"重擊者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1261274684",
+      "Source": "Clubber",
+      "Trans": {"SC":"棍击者","JA":"棍擊者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::218624203",
+      "Source": "Hacker",
+      "Trans": {"SC":"骇客","JA":"駭客"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::341605350",
+      "Source": "Chopper",
+      "Trans": {"SC":"斧手","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1089546279",
+      "Source": "Huntress",
+      "Trans": {"SC":"女猎手","JA":"女獵手"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1998578459",
+      "Source": "Scrapper",
+      "Trans": {"SC":"拾荒者","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3572138083",
+      "Source": "Hunter",
+      "Trans": {"SC":"猎人","JA":"獵人"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2359761432",
+      "Source": "Brawler",
+      "Trans": {"SC":"格斗者","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1613463262",
+      "Source": "Sentry",
+      "Trans": {"SC":"哨兵","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1722785166",
+      "Source": "Trapper",
+      "Trans": {"SC":"陷阱猎手","JA":"陷阱獵手"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2542806489",
+      "Source": "Guard",
+      "Trans": {"SC":"守卫","JA":"守衛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1346044748",
+      "Source": "Catcher",
+      "Trans": {"SC":"捕手","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4133182770",
+      "Source": "No NPC Attack Sign",
+      "Trans": {"SC":"禁止NPC攻击标识","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1725865293",
+      "Source": "Archer",
+      "Trans": {"SC":"弓箭手","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1550285369",
+      "Source": "Bowman",
+      "Trans": {"SC":"弓兵","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3286477252",
+      "Source": "NPC Turret",
+      "Trans": {"SC":"NPC炮塔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::122137623",
+      "Source": "NPC Hut",
+      "Trans": {"SC":"NPC小屋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::668506355",
+      "Source": "Person",
+      "Trans": {"SC":"","JA":""},
+      //翻译起来怪怪的暂时不翻
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1472240103",
+      "Source": "Place this Sign to prevent a NPC Attack on structures within 100 meters.",
+      "Trans": {"SC":"放置此标牌以防止NPC攻击100米内的建筑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

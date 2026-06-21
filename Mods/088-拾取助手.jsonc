@@ -1,0 +1,466 @@
+{
+  "Loot Grabber": [//2026.6.7
+    {
+      "NamespaceHash": "Content::3384308543",
+      "Source": "LootGrabberV2",
+      "Trans": {"SC":"拾取助手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "FC9F59484ABE21D20A08D4958DB71D26",
+      "Source": "Grab Point",
+      "Trans": {"SC":"拾取点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2722690697"}
+    },
+    {
+      "NamespaceHash": "DB7CDDA64EF28CE59E8B15AD0522F06C",
+      "Source": "  Close  ",
+      "Trans": {"SC":"关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"165091856"}
+    },
+    {
+      "NamespaceHash": "C64D3E694F013ACF2D6C9887FEFBA586",
+      "Source": "Picking Up Loot!",
+      "Trans": {"SC":"正在拾取战利品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3327416106"}
+    },
+    {
+      "NamespaceHash": "7F2C526F4F7083FA518404AF036B0236",
+      "Source": "Fix Me",
+      "Trans": {"SC":"修复功能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3904657551"}
+    },
+    {
+      "NamespaceHash": "AE3E53C148135428A15D9F984B80CFE0",
+      "Source": "Fix Lasso Issue",
+      "Trans": {"SC":"修复套索问题","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4199929470"}
+    },
+    {
+      "NamespaceHash": "3A77E39E421775DD06DAC8AF5CDE1095",
+      "Source": "Fix Skins",
+      "Trans": {"SC":"修复皮肤异常","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1853079376"}
+    },
+    {
+      "NamespaceHash": "21D0DE7C4C5F7D25FC127A81321A868C",
+      "Source": "  Add  ",
+      "Trans": {"SC":"添加","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2280057468"}
+    },
+    {
+      "NamespaceHash": "748C078B439EBAEA0E854E9708E41DE1",
+      "Source": "  Remove  ",
+      "Trans": {"SC":"移除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"436634780"}
+    },
+    {
+      "NamespaceHash": "BBE4D919416A98B3F3A4BEBCABD40844",
+      "Source": "  Close  ",
+      "Trans": {"SC":"关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"165091856"}
+    },
+    {
+      "NamespaceHash": "947952384E84289169B35B93FAD6F267",
+      "Source": "  Clear  ",
+      "Trans": {"SC":"清空","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1204135328"}
+    },
+    {
+      "NamespaceHash": "1C8AE71F43CAF0D174A2719C7CBEEC17",
+      "Source": " FullScreen Image ",
+      "Trans": {"SC":"图片全屏显示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1331885642"}
+    },
+    {
+      "NamespaceHash": "83770D584EE084BAE312E795C1E50254",
+      "Source": ":Loot Bags",
+      "Trans": {"SC":": 拾取战利品袋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2148446189"}
+    },
+    {
+      "NamespaceHash": "3E1CC96D4F0B40E72598F9BF3AADFB3C",
+      "Source": ":Loot Corpses",
+      "Trans": {"SC":": 拾取生物尸体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2225214601"}
+    },
+    {
+      "NamespaceHash": "C795841C41AE863DC39119992D8C0B29",
+      "Source": ":Loot Beaver Dams",
+      "Trans": {"SC":": 拾取河狸坝物资","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"606022309"}
+    },
+    {
+      "NamespaceHash": "C107EA4E4CD35CEF618514A7B0F74283",
+      "Source": ":Loot Items",
+      "Trans": {"SC":": 拾取物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4139923470"}
+    },
+    {
+      "NamespaceHash": "B1E418654653D62FBAA0799E2A9F27C8",
+      "Source": "Current Upvotes",
+      "Trans": {"SC":"当前点赞数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1006679754"}
+    },
+    {
+      "NamespaceHash": "4AA0A3BB498D474835B1E9B60F4D7E83",
+      "Source": "Loot Grabber",
+      "Trans": {"SC":"拾取助手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2917772168"}
+    },
+    {
+      "NamespaceHash": "7222D2904416F6CAC9DE7EA6053E5F0E",
+      "Source": ":Key For Loot Grab",
+      "Trans": {"SC":": 拾取快捷键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2093385738"}
+    },
+    {
+      "NamespaceHash": "B68D283B4A8D7ABCDCB0859673F87722",
+      "Source": "Pick Up Range:",
+      "Trans": {"SC":"拾取范围：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3730682289"}
+    },
+    {
+      "NamespaceHash": "FB3F9F37453BFC57211351B312628678",
+      "Source": ":Use Crouch Button",
+      "Trans": {"SC":": 使用下蹲键触发","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"233393354"}
+    },
+    {
+      "NamespaceHash": "418D1E244BE6284611296B9263C8191E",
+      "Source": ":Use Drag Button",
+      "Trans": {"SC":": 使用拖拽键触发","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3489454749"}
+    },
+    {
+      "NamespaceHash": "330CCC154E3222B6FC600289E6B68557",
+      "Source": "Player Settings",
+      "Trans": {"SC":"玩家设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3875095640"}
+    },
+    {
+      "NamespaceHash": "902087314A621C900668B298DFCCB807",
+      "Source": "Item Prevention List",
+      "Trans": {"SC":"物品屏蔽列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"308426196"}
+    },
+    {
+      "NamespaceHash": "599FFD2B4F5E3051FCBE3C9E251BC452",
+      "Source": "Story unknown",
+      "Trans": {"SC":"暂无背景故事","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2793801302"}
+    },
+    {
+      "NamespaceHash": "BF35363F4A3BC0FB1A7D3F962FE0CA56",
+      "Source": ":Particle",
+      "Trans": {"SC":": 粒子效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3997321341"}
+    },
+    {
+      "NamespaceHash": "8F266C9E4A3D9334E4132EB0C99FEF04",
+      "Source": "Species: Bubo chinookusCommon name: Snow Owl",
+      "Trans": {"SC":"物种：奇努克雕鸮 通用名称：雪鸮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"247317349"}
+    },
+    {
+      "NamespaceHash": "6F58E8724B7EE5B9C323F6BC2B9D548A",
+      "Source": "Species: Tusoteuthis vampyrusCommon name: Giant Squid",
+      "Trans": {"SC":"物种：吸血托斯特巨鱿 通用名称：巨型鱿鱼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2740692755"}
+    },
+    {
+      "NamespaceHash": "DF71FCD247D361FB887AB29CDC48D058",
+      "Source": "\"..Unfortunately spawning way further from the island than the other survivors, Missy was racing for her life while the biggest sea creatures were chasing her for their next meal. She thought she was safe when she finally reached the shore line but the tusoteuthis had a different plan. Getting as close as it could to the waters edge, it reached out and grabbed ahold of Missy's leg. The monster squid slowly dragged Missy into the water as it pushed itself from the beach. Clawing at the sand, trying to grab ahold of anything she could use to free herself, a spear came down from the sky and nicked the squids tenticale. Missy quickly acted and pulled it from the sand, slashing the tendril off her leg and watched as arm franticly wiggled around, receding back into the ocean...\" ",
+      "Trans": {"SC":"“…… 米西的出生地点远比其他幸存者远离岛屿。巨型海洋生物将她视作猎物，她只能拼命奔逃。终于抵达海岸线时，她本以为安全了，可那只巨型鱿鱼却另有图谋。它紧贴岸边，伸出触须缠住了米西的腿。这头巨兽借着沙滩借力，缓缓将她拖入海中。米西拼命抓挠沙地，想要抓住一切能借力的东西挣脱束缚。就在这时，一支长矛从天而降，擦过鱿鱼的触须。米西当即抓起地上的长矛，斩断缠在腿上的腕足。只见那截触须疯狂扭动，随后缩回了深海之中……”","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3392934592"}
+    },
+    {
+      "NamespaceHash": "A656FACB46609E6F685136A01DDD6B39",
+      "Source": "Species: Cnidaria omnimorphCommon name: Jelly Fish",
+      "Trans": {"SC":"物种：百变刺胞生物 通用名称：水母","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"894165334"}
+    },
+    {
+      "NamespaceHash": "B71228024F871F8642BCAF8D8E8CA75A",
+      "Source": "\"...Missy was yoinked off the beach by a pteranodon and its rider. Struggling to free her arm from the grasp of the enemy, she reached into her bag and pulled out a knife, slashing the leg of the creature. Falling to the ocean water beneath her, she brought her legs close to her chest and impacted the water. Once she opened her eyes, she soon realized she was surrounded by cnidaria. Jellyfish, able to cause a powerful sting with its feathery arms, lathering you in bio toxin that causes paralysis. Swimming down only meant getting eaten by something larger in the depths as nothing would dare bother these brainless animals. Swimming up and out was unfortunately the only \"safe\" option...\"",
+      "Trans": {"SC":"“…… 米西被一头无齿翼龙连同其骑手一同从岸边掳走。她奋力挣脱被抓住的手臂，从背包里掏出小刀砍向翼龙的肢体。随后她坠入下方的海面，蜷起双腿落入水中。睁开眼后，她发现自己已被水母团团围住。这些生物凭借羽状触手释放强烈蛰刺，分泌的生物毒素会使人麻痹。若是向深海潜去，只会沦为更强大掠食者的食物，没有生物愿意招惹这些低智生物。无奈之下，向上游逃离成了唯一还算 “安全” 的选择……”","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"806148518"}
+    },
+    {
+      "NamespaceHash": "A1510C31400C50D648372799CE87584D",
+      "Source": "Species: Mosasaurus suspiritaCommon name: Mosa",
+      "Trans": {"SC":"物种：幽沧沧龙 通用名称：沧龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2309824021"}
+    },
+    {
+      "NamespaceHash": "11D1909F4D0A2C084A7C7D8DD4840357",
+      "Source": "Story unknown",
+      "Trans": {"SC":"暂无背景故事","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2793801302"}
+    },
+    {
+      "NamespaceHash": "5C2EDD79446473E840B30E8A1999A7F8",
+      "Source": "Species: Khorkoi arrakisCommon name: Deathworm",
+      "Trans": {"SC":"物种：阿拉克尼斯冥虫 通用名称：死亡蠕虫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1428169092"}
+    },
+    {
+      "NamespaceHash": "8162976D4F831F344E9E2EA314B486D8",
+      "Source": "Story unknown",
+      "Trans": {"SC":"暂无背景故事","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2793801302"}
+    },
+    {
+      "NamespaceHash": "A340A1A5484FDF7BCB884D852835BB9D",
+      "Source": "Species: Draconis viperaCommon name: Wyvern",
+      "Trans": {"SC":"物种：毒翼飞龙 通用名称：飞龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1642365054"}
+    },
+    {
+      "NamespaceHash": "1475010B4FA5C2144509B4B8DCEB9EDB",
+      "Source": ":Loot Items",
+      "Trans": {"SC":": 拾取物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4139923470"}
+    },
+    {
+      "NamespaceHash": "46B7DD0147D7A04D294EA5B4587896DA",
+      "Source": "\"...finally sneaking into the Scar on her Tapejara, Missy quickly climbed into the wyvern nest to secure the only radiant egg left to hatch. While trying to figure out how to grab ahold of the egg without dropping it, the Tapejara flew off without warning. She acted swiftly and jumped out of the nest and hid behind it, bring herself close together. She could hear powerful wings flapping towards her, getting louder and louder. Eventually feeling the thud of the wyvern landing at the entrance of the nest. Not being able to look around, she stayed quiet and listened. Being able to hear it's every inhale and exhale, hoping it doesn't have a good sense of smell...\"",
+      "Trans": {"SC":"“…… 米西乘着古神翼龙悄悄潜入裂谷地带，迅速爬上飞龙巢穴，想要拿到这最后一枚即将孵化的光耀龙蛋。正当她思索如何稳稳拿住龙蛋时，身下的古神翼龙突然不辞而别。她立刻跃出巢穴，蜷缩身体躲在巢后。沉重的振翅声由远及近，越来越清晰。不多时，她便感受到飞龙重重落在巢穴入口。她不敢探头，屏息凝神静静聆听，清晰听见对方每一次呼吸，心中暗自祈祷这头巨兽的嗅觉并不灵敏……”","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3402486161"}
+    },
+    {
+      "NamespaceHash": "C4B6711A4A610B1F986869A6C5510F0D",
+      "Source": "Story unknown",
+      "Trans": {"SC":"暂无背景故事","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2793801302"}
+    },
+    {
+      "NamespaceHash": "C5E86B5445ED9AF84F3F6B8E3C25C06A",
+      "Source": "About Missy",
+      "Trans": {"SC":"人物介绍：米西","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2642326422"}
+    },
+    {
+      "NamespaceHash": "74AE11D94A781E62942F7F98819E63A4",
+      "Source": "Missy is a seasoned survivalist from Australia, characterized by her love for hiking, camping, and thriving in a minimalistic environment. Once married, Missy has embraced a life of innovation and resilience, using her resourcefulness and stubborn determination to adhere to primitive technologies rather than adopting more advanced alternatives. Her skin, toughened by years of survival in the wilderness, is marked with numerous scars, each narrating a tale of her adventurous spirit and the challenges she has overcome. She wears these scars with pride, as they symbolize her strength and experiences.",
+      "Trans": {"SC":"米西是一名来自澳大利亚的资深求生者，热爱徒步与露营，擅长在简朴的环境中生存。她曾有过一段婚姻，如今凭借灵活的头脑与坚韧的意志，坚守原始生存技艺，拒绝依赖各类先进工具。常年的野外历练让她的皮肤变得粗糙，身上遍布伤疤，每一道伤痕都记录着她的冒险经历与艰难过往。她坦然以这些伤疤为荣，这是力量与阅历的见证。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2687426124"}
+    },
+    {
+      "NamespaceHash": "F0AC9D5F4A01A4E8E429A9952020F3CE",
+      "Source": ":Bag",
+      "Trans": {"SC":": 背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2415456874"}
+    },
+    {
+      "NamespaceHash": "64B8512347CED7F01767A883DC216CDD",
+      "Source": ":Notifications",
+      "Trans": {"SC":": 消息通知","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3665686226"}
+    },
+    {
+      "NamespaceHash": "E85630F743F36A9E48D21BA655CE5A69",
+      "Source": ":Debug Mode",
+      "Trans": {"SC":": 调试模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"56955234"}
+    },
+    {
+      "NamespaceHash": "256B3EEB4BC642796D65EAACDDDE827C",
+      "Source": ":Force Use Player Inventory",
+      "Trans": {"SC":": 强制使用玩家背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3288876746"}
+    },
+    {
+      "NamespaceHash": "DABCFD1B4A51FF507A2DF6BF7AEA892D",
+      "Source": ":Loot Eggs",
+      "Trans": {"SC":": 拾取龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2462773880"}
+    },
+    {
+      "NamespaceHash": "973B3FDB4DA051A666EE4EB9148EAF27",
+      "Source": ":Loot Fecal Matter",
+      "Trans": {"SC":": 拾取粪便","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2470884815"}
+    },
+    {
+      "NamespaceHash": "4491C6F846058AD735881A84F6D53086",
+      "Source": "Species: Tyrannosaurus dominumCommon name: T-Rex",
+      "Trans": {"SC":"物种：霸主霸王龙 通用名称：霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2985023550"}
+    },
+    {
+      "NamespaceHash": "05B2A8D04BC7F2D28A90CDB50FE4F3F2",
+      "Source": "Server Settings (INI)",
+      "Trans": {"SC":"服务器设置（配置文件）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1740928387"}
+    },
+    {
+      "NamespaceHash": "222E717B42395FB60A52109A1967C86F",
+      "Source": ":Loot Bags",
+      "Trans": {"SC":": 拾取战利品袋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2148446189"}
+    },
+    {
+      "NamespaceHash": "A29BF5244AE2B34907737B8B2A7BB73F",
+      "Source": ":Loot Corpses",
+      "Trans": {"SC":": 拾取生物尸体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2225214601"}
+    },
+    {
+      "NamespaceHash": "967FA45C4B9894AFBE5EFD8C94BF5DFB",
+      "Source": ":Loot Supply Drops",
+      "Trans": {"SC":": 拾取补给空投","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1528961593"}
+    },
+    {
+      "NamespaceHash": "5F9D96264DB5E7C661C0498B34422B93",
+      "Source": ":Loot Bags",
+      "Trans": {"SC":": 拾取战利品袋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2148446189"}
+    },
+    {
+      "NamespaceHash": "0DD689F4490F1F2015F146B950038EA3",
+      "Source": ":Loot Corpses",
+      "Trans": {"SC":": 拾取生物尸体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2225214601"}
+    },
+    {
+      "NamespaceHash": "7831E4364E4FA01D216FA9A3F69089DB",
+      "Source": ":Loot Beaver Dams",
+      "Trans": {"SC":": 拾取河狸坝物资","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"606022309"}
+    },
+    {
+      "NamespaceHash": "7435BCF948B8F88EA77112ADACB7ECAC",
+      "Source": ":Loot Items",
+      "Trans": {"SC":": 拾取物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4139923470"}
+    },
+    {
+      "NamespaceHash": "04319EE84A8809A3F6FF6B96AE0C86FF",
+      "Source": "Loot Grabber Settings",
+      "Trans": {"SC":"拾取助手设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4252900253"}
+    },
+    {
+      "NamespaceHash": "013792FF4EE1E4E0AA5B919ABB063FE4",
+      "Source": ":Key For Loot Grab",
+      "Trans": {"SC":": 拾取快捷键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2093385738"}
+    },
+    {
+      "NamespaceHash": "246B87D94ED321D76B78C28764960023",
+      "Source": "Pick Up Range:",
+      "Trans": {"SC":"拾取范围：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3730682289"}
+    },
+    {
+      "NamespaceHash": "255866DA474734316BFD309DCFA02262",
+      "Source": ":Use Crouch?",
+      "Trans": {"SC":": 是否使用下蹲键？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3923865743"}
+    },
+    {
+      "NamespaceHash": "BB0007544B3F745E5E2F42A880368AAC",
+      "Source": ":Use Grab?",
+      "Trans": {"SC":": 是否使用拾取键？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2471959316"}
+    },
+    {
+      "NamespaceHash": "9128332443E587E19BADC684BCD0DF61",
+      "Source": "Player Settings",
+      "Trans": {"SC":"玩家设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3875095640"}
+    },
+    {
+      "NamespaceHash": "1D66A68D48BA963B94E895927F020D9B",
+      "Source": ":Particle",
+      "Trans": {"SC":": 粒子效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3997321341"}
+    },
+    {
+      "NamespaceHash": "BFA5438B40AFBDBC5ED8EA9BEAE2BFA1",
+      "Source": ":Loot Items",
+      "Trans": {"SC":": 拾取物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4139923470"}
+    },
+    {
+      "NamespaceHash": "4410D0F842D0A44E553D69B6CD4D27C4",
+      "Source": ":Loot Eggs",
+      "Trans": {"SC":": 拾取龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2462773880"}
+    },
+    {
+      "NamespaceHash": "36BD479C46B7AD99696364B497F7D6F8",
+      "Source": ":Loot Fecal Matter",
+      "Trans": {"SC":": 拾取粪便","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2470884815"}
+    },
+    {
+      "NamespaceHash": "427B50F2426702AC0F8705963E328039",
+      "Source": "Server Settings (From INI)",
+      "Trans": {"SC":"服务器设置（读取自配置文件）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4279231472"}
+    },
+    {
+      "NamespaceHash": "B5966F40408A2D688B31DAB1EF2CB4FB",
+      "Source": ":Loot Bags",
+      "Trans": {"SC":": 拾取战利品袋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2148446189"}
+    },
+    {
+      "NamespaceHash": "C20E7F994B24BA342A959AA9D4488170",
+      "Source": ":Loot Corpses",
+      "Trans": {"SC":": 拾取生物尸体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2225214601"}
+    },
+    {
+      "NamespaceHash": "9697D6564BF061AA2A39E99615748007",
+      "Source": ":Loot Supply Drops",
+      "Trans": {"SC":": 拾取补给空投","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1528961593"}
+    },
+    {
+      "NamespaceHash": "3F4E72624221E1053E524B8C124089F9",
+      "Source": "  Click To Join Hyper's Discord!  ",
+      "Trans": {"SC":"点击加入Hyper的Discord社区","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2911660229"}
+    },
+    {
+      "NamespaceHash": "63E1AFD34BFA794C284F8DADFB1D4E7C",
+      "Source": "  Mexii's Discord  ",
+      "Trans": {"SC":"Mexii的Discord  ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1931733911"}
+    },
+    {
+      "NamespaceHash": "10BAAB7C43724FFB39C8E29E76324402",
+      "Source": "  Mexii's Website  ",
+      "Trans": {"SC":"Mexii的官网","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1300903909"}
+    },
+    {
+      "NamespaceHash": "2764CDB94040C492E9493BA3022DF60E",
+      "Source": " Upvote Image  ",
+      "Trans": {"SC":"图片点赞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1785034498"}
+    },
+    {
+      "NamespaceHash": "C98F85BC46368B50C13B92A844A1B1FA",
+      "Source": "  Upvote Mod!  ",
+      "Trans": {"SC":"模组点赞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"602306629"}
+    },
+    {
+      "NamespaceHash": "6CDB480F469EFA1929FD0C8AC92D7C96",
+      "Source": "  Downvote Mod!  ",
+      "Trans": {"SC":"模组点踩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3813154422"}
+    },
+    {
+      "NamespaceHash": "6080C8724EDB626C297BB48DBA374014",
+      "Source": "Mexii's Art!",
+      "Trans": {"SC":"Mexii的原创画作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3400826463"}
+    }
+  ]
+}

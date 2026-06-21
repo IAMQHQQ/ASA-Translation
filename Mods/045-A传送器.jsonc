@@ -1,0 +1,238 @@
+{
+  "A传": [//2025.11.29
+    {
+      "NamespaceHash": "Content::2758355484",
+      "Source": "Awesome Teleporter Remote",
+      "Trans": {"SC":"A传送器遥控器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::753953340",
+      "Source": "Primary fire allows Teleporting to anywhere an Awesome Teleporter can. Creates a bubble at your current location.<#RN#><#RN#>Secondary Fire will allow you to find your tracked dinos and teleport them to your current location.",
+      "Trans": {"SC":"主键可将你传送到超级传送器能到达的任何地方，并在你当前位置生成一个传送泡泡。<#RN#><#RN#>右键可用于查找你追踪的恐龙，并将它们传送到你的当前位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1145908353",
+      "Source": "Awesome Teleporter",
+      "Trans": {"SC":"A传送器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4211361923",
+      "Source": "Allows for quick travel across any distance.<#N#><#N#>Finds and teleports any of your dinos equipped with an Awesome Dino Tracker.<#N#><#N#>Can retrieve any items from your corpse.",
+      "Trans": {"SC":"可实现任意距离的快速旅行。<#RN#><#RN#>能找到并传送所有装备了超级恐龙追踪器的恐龙。<#RN#><#RN#>可从你的尸体上取回所有物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3175316582",
+      "Source": "Awesome Dino Tracker",
+      "Trans": {"SC":"A恐龙追踪器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::518734296",
+      "Source": "Using this on your Dino will allow it to be found using an Awesome Teleporter or Remote.",
+      "Trans": {"SC":"在你的恐龙身上使用此物品后，即可通过A传送器或遥控器找到它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::ACFF33E745E2627E3A3D43BFCBA35488",
+      "Source": "Teleporter",
+      "Trans": {"SC":"传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2087059861"}
+    },
+    {
+      "NamespaceHash": "49C979FE49AFF080580F3C8B661556CC",
+      "Source": "No Dino Selected<#N#>Mouse Over A Dino",
+      "Trans": {"SC":"未选择恐龙<#RN#>鼠标悬停在恐龙上","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2603259641"}
+    },
+    {
+      "NamespaceHash": "31D0F39D481816C1B88BEDA0DDE655FA",
+      "Source": "Female",
+      "Trans": {"SC":"雌性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"971907003"}
+    },
+    {
+      "NamespaceHash": "36B7414E4EAFE9DA0DEB7D8D66B0CDE6",
+      "Source": "Male",
+      "Trans": {"SC":"雄性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4089736532"}
+    },
+    {
+      "NamespaceHash": "49CFE2C047893DDE3E0A3BAD9A14D1F7",
+      "Source": "Baby",
+      "Trans": {"SC":"幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1919676539"}
+    },
+    {
+      "NamespaceHash": "3CFA79534866466B5F023C92254552B9",
+      "Source": "Water Dino",
+      "Trans": {"SC":"水生恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3485269006"}
+    },
+    {
+      "NamespaceHash": "71E5AFA5401618621150C5877BF6D700",
+      "Source": "Flyer",
+      "Trans": {"SC":"飞行生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3232990636"}
+    },
+    {
+      "NamespaceHash": "C7FC5DAE47B3C124A7D26B990B6A5819",
+      "Source": "Ready To Mate",
+      "Trans": {"SC":"可交配的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2008317361"}
+    },
+    {
+      "NamespaceHash": "F7E9DB1746B67D167CFD76AE15E6E6E6",
+      "Source": "Max Level",
+      "Trans": {"SC":"满级的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"241190249"}
+    },
+    {
+      "NamespaceHash": "8F8968C94E47C491514F118FE4E60CF1",
+      "Source": "Not Max Level",
+      "Trans": {"SC":"非满级的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4247212026"}
+    },
+    {
+      "NamespaceHash": "531E735342394E469E08398697A059F4",
+      "Source": "Saddled",
+      "Trans": {"SC":"已装备鞍具的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"539996912"}
+    },
+    {
+      "NamespaceHash": "F674867340C01548030D29ADE5A457D8",
+      "Source": "Has Items",
+      "Trans": {"SC":"携带物品的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1877818052"}
+    },
+    {
+      "NamespaceHash": "620E1E20419C6291F7208B8C5E7BACC8",
+      "Source": "Personal",
+      "Trans": {"SC":"个人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"685535571"}
+    },
+    {
+      "NamespaceHash": "76C44DBF47B63F3ED73F95B6B107F79C",
+      "Source": "Personal",
+      "Trans": {"SC":"个人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"685535571"}
+    },
+    {
+      "NamespaceHash": "D760541341D10DA7322C58A138105C85",
+      "Source": "Tribe Only",
+      "Trans": {"SC":"仅部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1305634316"}
+    },
+    {
+      "NamespaceHash": "CFFBBA014B83B1C9AE3E818B7E123BBC",
+      "Source": "Tribe Only",
+      "Trans": {"SC":"仅部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1305634316"}
+    },
+    {
+      "NamespaceHash": "D01F49C4439F8EE68BB89BBC571E7C8B",
+      "Source": "Allies",
+      "Trans": {"SC":"盟友","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"840118591"}
+    },
+    {
+      "NamespaceHash": "9E8639E144C5DC3CD31E8590E8489EF3",
+      "Source": "Water",
+      "Trans": {"SC":"水生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3539424888"}
+    },
+    {
+      "NamespaceHash": "EF6C87524B3ACBB7A6A6C1836A246FC4",
+      "Source": "Public",
+      "Trans": {"SC":"公共","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1806741151"}
+    },
+    {
+      "NamespaceHash": "AF3338FF406CCA4196AB8A953060DB86",
+      "Source": "Public",
+      "Trans": {"SC":"公共","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1806741151"}
+    },
+    {
+      "NamespaceHash": "D121F4054C580F46CD65B6BE7FA0B27C",
+      "Source": "Admin Public",
+      "Trans": {"SC":"管理员公共","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1109028627"}
+    },
+    {
+      "NamespaceHash": "584FDF2C477FC8D0E49597BE6B25AEDF",
+      "Source": "Admin Public",
+      "Trans": {"SC":"管理员公共","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1109028627"}
+    },
+    {
+      "NamespaceHash": "21B91859497261C382745B951EA4AAE2",
+      "Source": "Admin Only",
+      "Trans": {"SC":"仅管理员","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"446251449"}
+    },
+    {
+      "NamespaceHash": "BAE40F19483C716A6F2DA78B552CDDB6",
+      "Source": "Admin Only",
+      "Trans": {"SC":"仅管理员","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"446251449"}
+    },
+    {
+      "NamespaceHash": "65B5D2294B9E9087033FBDBC05FF1BB0",
+      "Source": "Dinos Only",
+      "Trans": {"SC":"仅恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"825889543"}
+    },
+    {
+      "NamespaceHash": "962CB30A4897C3BB443EFE9FF0146F74",
+      "Source": "Players only",
+      "Trans": {"SC":"仅玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1188929222"}
+    },
+    {
+      "NamespaceHash": "D4B8A84E48EABB8C83EEF495A6CC2989",
+      "Source": "Players + Dinos",
+      "Trans": {"SC":"玩家 + 恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3073147522"}
+    },
+    {
+      "NamespaceHash": "598DE6D9452F97E44A414397E1BB8A0B",
+      "Source": "Small",
+      "Trans": {"SC":"小型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"708482"}
+    },
+    {
+      "NamespaceHash": "EC70DC2146527A6FC41E4FA6083005DA",
+      "Source": "Medium",
+      "Trans": {"SC":"中型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3469406434"}
+    },
+    {
+      "NamespaceHash": "4D1EF7E94CEE7DDDB1F2FEB14CA56685",
+      "Source": "Large",
+      "Trans": {"SC":"大型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1620421534"}
+    },
+    {
+      "NamespaceHash": "13AF6134446C45F4026951B29611A9E8",
+      "Source": "Tribe + Allies",
+      "Trans": {"SC":"部落 + 盟友","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"175517388"}
+    },
+    {
+      "NamespaceHash": "Content::2121211133",
+      "Source": "Find Dinos",
+      "Trans": {"SC":"查找恐龙测试","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3178462772",
+      "Source": "This dino can be teleported to an Awesome Teleporter pad or remote!",
+      "Trans": {"SC":"这只恐龙可以被传送到A传送器平台或遥控器处！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

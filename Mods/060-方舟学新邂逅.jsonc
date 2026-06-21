@@ -1,0 +1,2446 @@
+{
+  "方舟学新邂逅": [//2025.11.30
+    {
+      "NamespaceHash": "Content::948135538",
+      "Source": "Arkology Dimorphodon",
+      "Trans": {"SC":"方舟学双型齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3985528010",
+      "Source": "Corrupted Arkology Dimorphodon",
+      "Trans": {"SC":"腐化方舟学双型齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1486252768",
+      "Source": "Arkology Diplocaulus",
+      "Trans": {"SC":"方舟学盗首螈","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1244254926",
+      "Source": "Arkology Diplodocus",
+      "Trans": {"SC":"方舟学梁龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2742318809",
+      "Source": "Alpha Arkology Carcharodontosaurus",
+      "Trans": {"SC":"精英方舟学鲨齿龙","JA":"精英方舟学鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::296206791",
+      "Source": "Arkology Megaloceros",
+      "Trans": {"SC":"方舟学大角鹿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::160254836",
+      "Source": "Arkology Dire Bear",
+      "Trans": {"SC":"方舟学恐熊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3157355354",
+      "Source": "Alpha Arkology Carnotaurus",
+      "Trans": {"SC":"精英方舟学肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2916152257",
+      "Source": "Arkology Polar Bear",
+      "Trans": {"SC":"方舟学北极熊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2164181784",
+      "Source": "Alpha Arkology Xiphactinus",
+      "Trans": {"SC":"精英方舟学剑射鱼","JA":"精英方舟学劍射鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1277661150",
+      "Source": "Arkology Stegosaurus",
+      "Trans": {"SC":"方舟学剑龙","JA":"方舟学劍龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3194416815",
+      "Source": "Corrupted Alpha Arkology Carnotaurus",
+      "Trans": {"SC":"腐化精英方舟学肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2249847923",
+      "Source": "Arkology Direwolf",
+      "Trans": {"SC":"方舟学恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2569715046",
+      "Source": "Corrupted Arkology Stegosaurus",
+      "Trans": {"SC":"腐化方舟学剑龙","JA":"腐化方舟学劍龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::293356041",
+      "Source": "Arkology Dodo",
+      "Trans": {"SC":"方舟学渡渡鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3178105348",
+      "Source": "Arkology Tapejara",
+      "Trans": {"SC":"方舟学古神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3340725585",
+      "Source": "Arkology Doedicurus",
+      "Trans": {"SC":"方舟学星尾兽","JA":"方舟学星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1917646851",
+      "Source": "Alpha Arkology Yi Ling",
+      "Trans": {"SC":"精英方舟学翎翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2256464697",
+      "Source": "Arkology Terror Bird",
+      "Trans": {"SC":"方舟学骇鸟","JA":"方舟学駭鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4086437564",
+      "Source": "Arkology Ichthyosaurus",
+      "Trans": {"SC":"方舟学鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::868543573",
+      "Source": "Alpha Arkology Ravager",
+      "Trans": {"SC":"精英方舟学劫掠者","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2362120096",
+      "Source": "Arkology Therizinosaur",
+      "Trans": {"SC":"方舟学镰刀龙","JA":"方舟学鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1908280683",
+      "Source": "Arkology Meganeura",
+      "Trans": {"SC":"方舟学巨脉蜻蜓","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2934225499",
+      "Source": "Arkology Thylacoleo",
+      "Trans": {"SC":"方舟学袋狮","JA":"方舟学袋獅"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::339513354",
+      "Source": "Arkology Dreadnoughtus",
+      "Trans": {"SC":"方舟学无畏巨龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4158134932",
+      "Source": "Alpha Arkology Yutyrannus",
+      "Trans": {"SC":"精英方舟学羽王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1667022952",
+      "Source": "Arkology Titanosaur",
+      "Trans": {"SC":"方舟学泰坦龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::725267234",
+      "Source": "Arkology Achatina",
+      "Trans": {"SC":"方舟学玛瑙螺","JA":"方舟学瑪瑙螺"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3688568955",
+      "Source": "Arkology Dung Beetle",
+      "Trans": {"SC":"方舟学蜣螂","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2132205574",
+      "Source": "Arkology Allosaurus",
+      "Trans": {"SC":"方舟学异特龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3257731992",
+      "Source": "Alpha Arkology Tusoteuthis",
+      "Trans": {"SC":"精英方舟学托斯特巨鱿","JA":"精英方舟学托斯特巨魷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1557075869",
+      "Source": "Alpha Arkology Ceratosaurus",
+      "Trans": {"SC":"精英方舟学角鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::974274727",
+      "Source": "Arkology Beelzebufo",
+      "Trans": {"SC":"方舟学魔鬼蛙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2524247000",
+      "Source": "Arkology Dunkleosteus",
+      "Trans": {"SC":"方舟学邓氏鱼","JA":"方舟学鄧氏鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1556644562",
+      "Source": "Alpha Arkology Leedsichthys",
+      "Trans": {"SC":"精英方舟学利兹鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::300537211",
+      "Source": "Arkology Microraptor",
+      "Trans": {"SC":"方舟学小盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2475254351",
+      "Source": "Alpha Arkology Karkinos",
+      "Trans": {"SC":"精英方舟学巨蟹","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3327160804",
+      "Source": "Arkology Electrophorus",
+      "Trans": {"SC":"方舟学电鳗","JA":"方舟学電鰻"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2726288285",
+      "Source": "Arkology Ammonite",
+      "Trans": {"SC":"方舟学菊石","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::220377185",
+      "Source": "Arkology Triceratops",
+      "Trans": {"SC":"方舟学三角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3966235378",
+      "Source": "Arkology Roll Rat",
+      "Trans": {"SC":"方舟学翻滚鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3581453732",
+      "Source": "Arkology Anglerfish",
+      "Trans": {"SC":"方舟学鮟鱇鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3626992345",
+      "Source": "Corrupted Arkology Triceratops",
+      "Trans": {"SC":"腐化方舟学三角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2670425178",
+      "Source": "Arkology Mesopithecus",
+      "Trans": {"SC":"方舟学中猴","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3193636240",
+      "Source": "Alpha Arkology Daeodon",
+      "Trans": {"SC":"精英方舟学凶齿豨","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1726394177",
+      "Source": "Arkology Equus",
+      "Trans": {"SC":"方舟学庞马","JA":"方舟学龐马"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::979347982",
+      "Source": "Arkology Trilobite",
+      "Trans": {"SC":"方舟学三叶虫","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4291819350",
+      "Source": "Arkology Mosasaurus",
+      "Trans": {"SC":"方舟学沧龙","JA":"方舟学滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2862151927",
+      "Source": "Arkology Troodon",
+      "Trans": {"SC":"方舟学伤齿龙","JA":"方舟学傷齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3663730399",
+      "Source": "Arkology Unicorn",
+      "Trans": {"SC":"方舟学独角兽","JA":"方舟学独角獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::824313738",
+      "Source": "Alpha Arkology Mosasaur",
+      "Trans": {"SC":"精英方舟学沧龙","JA":"精英方舟学滄龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2437452268",
+      "Source": "Arkology Eurypterid",
+      "Trans": {"SC":"方舟学广翅鲎","JA":"方舟学广翅鱟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3982141255",
+      "Source": "Arkology Carbonemys",
+      "Trans": {"SC":"方舟学碳龟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1057633930",
+      "Source": "Arkology Ankylosaurus",
+      "Trans": {"SC":"方舟学甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2151890813",
+      "Source": "Arkology Fasolasuchus",
+      "Trans": {"SC":"方舟学法索拉鳄","JA":"方舟学法索拉鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3895391781",
+      "Source": "Arkology Tusoteuthis",
+      "Trans": {"SC":"方舟学托斯特巨鱿","JA":"方舟学托斯特巨魷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2960386396",
+      "Source": "Arkology Moschops",
+      "Trans": {"SC":"方舟学麝足兽","JA":"方舟学麝足獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2026627142",
+      "Source": "Arkology Lymantria",
+      "Trans": {"SC":"方舟学沙蛾","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3028554913",
+      "Source": "Arkology Gacha",
+      "Trans": {"SC":"方舟学嘎查","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2845796333",
+      "Source": "Alpha Arkology Deathworm",
+      "Trans": {"SC":"精英方舟学死亡蠕虫","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2999391248",
+      "Source": "Elder Wyvern",
+      "Trans": {"SC":"老年双足飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1842583201",
+      "Source": "Arkology Gallimimus",
+      "Trans": {"SC":"方舟学似鸡龙","JA":"方舟学似雞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1858846735",
+      "Source": "Arkology Archaeopteryx",
+      "Trans": {"SC":"方舟学始祖鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2210598091",
+      "Source": "Alpha Arkology Deinosuchus",
+      "Trans": {"SC":"精英方舟学恐鳄","JA":"精英方舟学恐鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::750546747",
+      "Source": "Arkology Vulture",
+      "Trans": {"SC":"方舟学秃鹫","JA":"方舟学禿鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::123350874",
+      "Source": "Arkology Archelon",
+      "Trans": {"SC":"方舟学古巨龟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::36745981",
+      "Source": "Arkology Fire Wyvern",
+      "Trans": {"SC":"方舟学火焰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1206112101",
+      "Source": "Arkology Gasbags",
+      "Trans": {"SC":"方舟学气囊虫","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3380357914",
+      "Source": "Corrupted Arkology Wyvern",
+      "Trans": {"SC":"腐化方舟学双足飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3583604806",
+      "Source": "Arkology Gigantoraptor",
+      "Trans": {"SC":"方舟学巨盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2549433458",
+      "Source": "Arkology Argentavis",
+      "Trans": {"SC":"方舟学阿根廷鹫","JA":"方舟学阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1280423379",
+      "Source": "Arkology Ice Wyvern",
+      "Trans": {"SC":"方舟学寒冰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::742614139",
+      "Source": "Arkology Giganotosaurus",
+      "Trans": {"SC":"方舟学南方巨兽龙","JA":"方舟学南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::50997590",
+      "Source": "Arkology Arthropluera",
+      "Trans": {"SC":"方舟学节胸虫","JA":"方舟学節胸虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2608583484",
+      "Source": "Arkology Lightning Wyvern",
+      "Trans": {"SC":"方舟学闪电飞龙","JA":"方舟学閃電飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3435056515",
+      "Source": "Alpha Arkology Deinotherium",
+      "Trans": {"SC":"精英方舟学恐象","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3207866059",
+      "Source": "Corrupted Arkology Arthropluera",
+      "Trans": {"SC":"腐化方舟学节胸虫","JA":"腐化方舟学節胸虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2244556410",
+      "Source": "Corrupted Arkology Giganotosaurus",
+      "Trans": {"SC":"腐化方舟学南方巨兽龙","JA":"腐化方舟学南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3592153516",
+      "Source": "Arkology Poison Wyvern",
+      "Trans": {"SC":"方舟学剧毒飞龙","JA":"方舟学劇毒飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3869970418",
+      "Source": "Alpha Arkology Dilophosaur",
+      "Trans": {"SC":"精英方舟学双嵴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2763056619",
+      "Source": "Arkology Reaper Queen",
+      "Trans": {"SC":"方舟学死神王后","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3222612499",
+      "Source": "Arkology Griffin",
+      "Trans": {"SC":"方舟学狮鹫","JA":"方舟学獅鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2063953719",
+      "Source": "Arkology Baryonyx",
+      "Trans": {"SC":"方舟学重爪龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3841755655",
+      "Source": "Corrupted Alpha Arkology Dilophosaur",
+      "Trans": {"SC":"腐化精英方舟学双嵴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3900159569",
+      "Source": "Arkology Hesperornis",
+      "Trans": {"SC":"方舟学黄昏鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2497321201",
+      "Source": "Arkology Basilisk",
+      "Trans": {"SC":"方舟学帝蟒","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3811606268",
+      "Source": "Arkology Hyaenodon",
+      "Trans": {"SC":"方舟学鬣齿兽","JA":"方舟学鬣齿獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1256558540",
+      "Source": "Arkology Basilosaurus",
+      "Trans": {"SC":"方舟学龙王鲸","JA":"方舟学龙王鯨"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::771029316",
+      "Source": "Arkology Reaper King",
+      "Trans": {"SC":"方舟学死神国王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1746387733",
+      "Source": "Alpha Arkology Direwolf",
+      "Trans": {"SC":"精英方舟学恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2104147609",
+      "Source": "Arkology Onyc",
+      "Trans": {"SC":"方舟学爪蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::769143179",
+      "Source": "Arkology Subterranean Reaper King",
+      "Trans": {"SC":"方舟学地下死神国王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2996082828",
+      "Source": "Arkology Castoroides",
+      "Trans": {"SC":"方舟学巨河狸","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1634676695",
+      "Source": "Arkology Surface Reaper King",
+      "Trans": {"SC":"方舟学地表死神国王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3003945406",
+      "Source": "Arkology Managarmr",
+      "Trans": {"SC":"方舟学玛纳加尔姆","JA":"方舟学瑪納加尔姆"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3213056952",
+      "Source": "Arkology Gigantopithecus",
+      "Trans": {"SC":"方舟学巨猿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2821839296",
+      "Source": "Alpha Dreadnoughtus",
+      "Trans": {"SC":"精英无畏巨龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2473798034",
+      "Source": "Arkology Ichthyornis",
+      "Trans": {"SC":"方舟学鱼鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2997071682",
+      "Source": "Arkology Bison",
+      "Trans": {"SC":"方舟学野牛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4177120252",
+      "Source": "Corrupted Arkology Reaper King",
+      "Trans": {"SC":"腐化方舟学死神国王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3050069008",
+      "Source": "Arkology Iguanodon",
+      "Trans": {"SC":"方舟学禽龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2512218272",
+      "Source": "Arkology Titanoboa",
+      "Trans": {"SC":"方舟学泰坦蚺","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2868721317",
+      "Source": "Arkology Xiphactinus",
+      "Trans": {"SC":"方舟学剑射鱼","JA":"方舟学劍射鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::584176556",
+      "Source": "Alpha Arkology Fasolasuchus",
+      "Trans": {"SC":"精英方舟学法索拉鳄","JA":"精英方舟学法索拉鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1047800253",
+      "Source": "Arkology Morellatops",
+      "Trans": {"SC":"方舟学驼峰龙","JA":"方舟学駝峰龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::485779887",
+      "Source": "Arkology Jerboa",
+      "Trans": {"SC":"方舟学跳鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1308014680",
+      "Source": "Arkology Yeti",
+      "Trans": {"SC":"方舟学雪人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::71777797",
+      "Source": "Arkology Oil Jug Bug",
+      "Trans": {"SC":"方舟学油壶虫","JA":"方舟学油壺虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1293877997",
+      "Source": "Arkology Carcharodontosaurus",
+      "Trans": {"SC":"方舟学鲨齿龙","JA":"方舟学鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::635753935",
+      "Source": "Arkology Water Jug Bug",
+      "Trans": {"SC":"方舟学水壶虫","JA":"方舟学水壺虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::229679775",
+      "Source": "Arkology Yi Ling",
+      "Trans": {"SC":"方舟学翎翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2519897831",
+      "Source": "Arkology Carnotaurus",
+      "Trans": {"SC":"方舟学肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2025694500",
+      "Source": "Alpha Arkology Giganotosaurus",
+      "Trans": {"SC":"精英方舟学南方巨兽龙","JA":"精英方舟学南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1622506092",
+      "Source": "Arkology Kairuku",
+      "Trans": {"SC":"方舟学潜觅企鹅","JA":"方舟学潜覓企鵝"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2335794176",
+      "Source": "Arkology Veilwyn",
+      "Trans": {"SC":"方舟学霜灵狐","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1128244319",
+      "Source": "Corrupted Arkology Carnotaurus",
+      "Trans": {"SC":"腐化方舟学肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3608875082",
+      "Source": "Corrupted Alpha Arkology Giganotosaurus",
+      "Trans": {"SC":"腐化精英方舟学南方巨兽龙","JA":"腐化精英方舟学南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::561393850",
+      "Source": "Arkology Yutyrannus",
+      "Trans": {"SC":"方舟学羽王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1278785225",
+      "Source": "Arkology Ravager",
+      "Trans": {"SC":"方舟学劫掠者","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::336119880",
+      "Source": "Arkology Otter",
+      "Trans": {"SC":"方舟学水獭","JA":"方舟学水獺"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2935986598",
+      "Source": "Arkology Kaprosuchus",
+      "Trans": {"SC":"方舟学猪鳄","JA":"方舟学猪鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3219746959",
+      "Source": "Alpha Arkology Griffin",
+      "Trans": {"SC":"精英方舟学狮鹫","JA":"精英方舟学獅鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2476254034",
+      "Source": "Arkology Kentrosaurus",
+      "Trans": {"SC":"方舟学钉状龙","JA":"方舟学釘状龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2774071208",
+      "Source": "Arkology Oviraptor",
+      "Trans": {"SC":"方舟学窃蛋龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::728512766",
+      "Source": "Arkology Snow Owl",
+      "Trans": {"SC":"方舟学雪鸮","JA":"方舟学雪鴞"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3199312894",
+      "Source": "Arkology Featherlight",
+      "Trans": {"SC":"方舟学光羽鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1431578757",
+      "Source": "Alpha Arkology Managarmr",
+      "Trans": {"SC":"精英方舟学玛纳加尔姆","JA":"精英方舟学瑪納加尔姆"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3866732173",
+      "Source": "Arkology Pachyrhinosaurus",
+      "Trans": {"SC":"方舟学厚鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::548103783",
+      "Source": "Arkology Pachy",
+      "Trans": {"SC":"方舟学肿头龙","JA":"方舟学腫頭龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2453030964",
+      "Source": "Arkology Coelacanth",
+      "Trans": {"SC":"方舟学腔棘鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::615064500",
+      "Source": "Arkology Shinehorn",
+      "Trans": {"SC":"方舟学闪角鹿","JA":"方舟学閃角鹿"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2231133211",
+      "Source": "Alpha Arkology Kaprosuchus",
+      "Trans": {"SC":"精英方舟学猪鳄","JA":"精英方舟学猪鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3481288591",
+      "Source": "Arkology Paraceratherium",
+      "Trans": {"SC":"方舟学巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1986185657",
+      "Source": "Corrupted Arkology Paraceratherium",
+      "Trans": {"SC":"腐化方舟学巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3230472475",
+      "Source": "Arkology Glowtail",
+      "Trans": {"SC":"方舟学耀尾蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::822759299",
+      "Source": "Alpha Arkology Kentrosaurus",
+      "Trans": {"SC":"精英方舟学钉状龙","JA":"精英方舟学釘状龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::153718691",
+      "Source": "Arkology Compy",
+      "Trans": {"SC":"方舟学美颌龙","JA":"方舟学美頜龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::671610448",
+      "Source": "Arkology Parasaur",
+      "Trans": {"SC":"方舟学副栉龙","JA":"方舟学副櫛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2106021161",
+      "Source": "Arkology Karkinos",
+      "Trans": {"SC":"方舟学巨蟹","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::857363439",
+      "Source": "Arkology Megalania",
+      "Trans": {"SC":"方舟学古巨蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1585991687",
+      "Source": "Arkology Bulbdog",
+      "Trans": {"SC":"方舟学灯泡犬","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1701400040",
+      "Source": "Arkology Pegomastax",
+      "Trans": {"SC":"方舟学双坚颌龙","JA":"方舟学双堅頜龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3248971532",
+      "Source": "Arkology Daeodon",
+      "Trans": {"SC":"方舟学凶齿豨","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1738757364",
+      "Source": "Arkology Megalodon",
+      "Trans": {"SC":"方舟学巨齿鲨","JA":"方舟学巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1338498774",
+      "Source": "Arkology Deathworm",
+      "Trans": {"SC":"方舟学死亡蠕虫","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2643998050",
+      "Source": "Arkology Leech",
+      "Trans": {"SC":"方舟学水蛭","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::812153342",
+      "Source": "Arkology Megalosaurus",
+      "Trans": {"SC":"方舟学巨齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::602069315",
+      "Source": "Diseased Arkology Leech",
+      "Trans": {"SC":"患病方舟学水蛭","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::421274827",
+      "Source": "Arkology Pelagornis",
+      "Trans": {"SC":"方舟学伪齿鸟","JA":"方舟学偽齿鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4267339267",
+      "Source": "Arkology Leedsichthys",
+      "Trans": {"SC":"方舟学利兹鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2847994230",
+      "Source": "Arkology Deinosuchus",
+      "Trans": {"SC":"方舟学恐鳄","JA":"方舟学恐鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2308114336",
+      "Source": "Arkology Light Bug",
+      "Trans": {"SC":"方舟学电光萤","JA":"方舟学電光螢"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1848385874",
+      "Source": "Arkology Deinotherium",
+      "Trans": {"SC":"方舟学恐象","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1603550618",
+      "Source": "Arkology Phiomia",
+      "Trans": {"SC":"方舟学法尤姆象","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2545110053",
+      "Source": "Arkology Piranha",
+      "Trans": {"SC":"方舟学食人鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::168878146",
+      "Source": "Arkology Liopluerodon",
+      "Trans": {"SC":"方舟学滑齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3708957979",
+      "Source": "Alpha Arkology Mammoth",
+      "Trans": {"SC":"精英方舟学猛犸象","JA":"精英方舟学猛獁象"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3433624143",
+      "Source": "Arkology Dilophosaur",
+      "Trans": {"SC":"方舟学双嵴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3679615083",
+      "Source": "Arkology Plesiosaur",
+      "Trans": {"SC":"方舟学蛇颈龙","JA":"方舟学蛇頸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::430293239",
+      "Source": "Corrupted Arkology Dilophosaur",
+      "Trans": {"SC":"腐化方舟学双嵴龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1063050981",
+      "Source": "Arkology Lystrosaurus",
+      "Trans": {"SC":"方舟学水龙兽","JA":"方舟学水龙獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3128368666",
+      "Source": "Arkology Procoptodon",
+      "Trans": {"SC":"方舟学短面袋鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::404407401",
+      "Source": "Alpha Arkology Mantis",
+      "Trans": {"SC":"精英方舟学螳螂","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2451772787",
+      "Source": "Arkology Dimetrodon",
+      "Trans": {"SC":"方舟学异齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1705793480",
+      "Source": "Arkology Seeker",
+      "Trans": {"SC":"方舟学追寻者","JA":"方舟学追尋者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1381879091",
+      "Source": "Alpha Arkology Quetzal",
+      "Trans": {"SC":"精英方舟学风神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2307248139",
+      "Source": "Arkology Megatherium",
+      "Trans": {"SC":"方舟学大地懒","JA":"方舟学大地懶"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3531476606",
+      "Source": "Arkology Pteranodon",
+      "Trans": {"SC":"方舟学无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3577932500",
+      "Source": "Alpha Arkology Megalania",
+      "Trans": {"SC":"精英方舟学古巨蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1007818314",
+      "Source": "Alpha Arkology Raptor",
+      "Trans": {"SC":"精英方舟学迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2631188071",
+      "Source": "Arkology Sabertooth Salmon",
+      "Trans": {"SC":"方舟学剑齿鲑鱼","JA":"方舟学劍齿鮭鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2180771279",
+      "Source": "Alpha Arkology Megalodon",
+      "Trans": {"SC":"精英方舟学巨齿鲨","JA":"精英方舟学巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4267572044",
+      "Source": "Arkology Ceratosaurus",
+      "Trans": {"SC":"方舟学角鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2150373847",
+      "Source": "Corrupted Alpha Arkology Raptor",
+      "Trans": {"SC":"腐化精英方舟学迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2891335539",
+      "Source": "Arkology Chalicotherium",
+      "Trans": {"SC":"方舟学爪兽","JA":"方舟学爪獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::958997381",
+      "Source": "Alpha Arkology T-Rex",
+      "Trans": {"SC":"精英方舟学霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::816291371",
+      "Source": "Arkology Sarco",
+      "Trans": {"SC":"方舟学帝鳄","JA":"方舟学帝鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::98309490",
+      "Source": "Corrupted Arkology Chalicotherium",
+      "Trans": {"SC":"腐化方舟学爪兽","JA":"腐化方舟学爪獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2465895727",
+      "Source": "Alpha Arkology Megalosaurus",
+      "Trans": {"SC":"精英方舟学巨齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1485711430",
+      "Source": "Arkology Nameless",
+      "Trans": {"SC":"方舟学无名怪","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::673730951",
+      "Source": "Alpha Arkology Woolly Rhino",
+      "Trans": {"SC":"精英方舟学披毛犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::124121987",
+      "Source": "Arkology Brontosaurus",
+      "Trans": {"SC":"方舟学雷龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2743479734",
+      "Source": "Alpha Arkology Megatherium",
+      "Trans": {"SC":"精英方舟学大地懒","JA":"精英方舟学大地懶"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1487686125",
+      "Source": "Arkology Cnidaria",
+      "Trans": {"SC":"方舟学水母","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1967231372",
+      "Source": "Arkology Pulmonoscorpius",
+      "Trans": {"SC":"方舟学肺蝎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1038997263",
+      "Source": "Alpha Arkology Purlovia",
+      "Trans": {"SC":"精英方舟学普雷兽","JA":"精英方舟学普雷獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1568718418",
+      "Source": "Arkology Shastasaurus",
+      "Trans": {"SC":"方舟学沙斯塔鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2895068641",
+      "Source": "Alpha Arkology Rhyniognatha",
+      "Trans": {"SC":"精英方舟学莱尼颚虫","JA":"精英方舟学莱尼顎虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3837169794",
+      "Source": "Alpha Arkology Rock Drake",
+      "Trans": {"SC":"精英方舟学岩龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1581949659",
+      "Source": "Corrupted Alpha Arkology Rock Drake",
+      "Trans": {"SC":"腐化精英方舟学岩龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2011371757",
+      "Source": "Corrupted Arkology Pteranodon",
+      "Trans": {"SC":"腐化方舟学无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1541161775",
+      "Source": "Arkology Ovis",
+      "Trans": {"SC":"方舟学绵羊","JA":"方舟学綿羊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3554926697",
+      "Source": "Arkology Purlovia",
+      "Trans": {"SC":"方舟学普雷兽","JA":"方舟学普雷獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2896615962",
+      "Source": "Arkology Maeguana",
+      "Trans": {"SC":"方舟学风行蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2519771986",
+      "Source": "Arkology Alpha Rock Elemental",
+      "Trans": {"SC":"方舟学精英岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::748641689",
+      "Source": "Arkology Araneo",
+      "Trans": {"SC":"方舟学蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2733535111",
+      "Source": "Arkology Mammoth",
+      "Trans": {"SC":"方舟学猛犸象","JA":"方舟学猛獁象"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::765564847",
+      "Source": "Arkology Quetzal",
+      "Trans": {"SC":"方舟学风神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1106443362",
+      "Source": "Arkology Velonasaur",
+      "Trans": {"SC":"方舟学刺面龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1445630229",
+      "Source": "Arkology Manta",
+      "Trans": {"SC":"方舟学蝠鲼","JA":"方舟学蝠鱝"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2081948620",
+      "Source": "Arkology Thorny Dragon",
+      "Trans": {"SC":"方舟学棘蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4250830424",
+      "Source": "Arkology Mantis",
+      "Trans": {"SC":"方舟学螳螂","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2657578247",
+      "Source": "Arkology Spino",
+      "Trans": {"SC":"方舟学棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3404651631",
+      "Source": "Corrupted Arkology Spino",
+      "Trans": {"SC":"腐化方舟学棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2847459880",
+      "Source": "Alpha Arkology Allosaurus",
+      "Trans": {"SC":"精英方舟学异特龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::541081905",
+      "Source": "Alpha Arkology Sabertooth",
+      "Trans": {"SC":"精英方舟学刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2644040283",
+      "Source": "Alpha Arkology Ankylosaurus",
+      "Trans": {"SC":"精英方舟学甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3379874500",
+      "Source": "Alpha Arkology Therizinosaur",
+      "Trans": {"SC":"精英方舟学镰刀龙","JA":"精英方舟学鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3646313595",
+      "Source": "Arkology Raptor",
+      "Trans": {"SC":"方舟学迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1696573791",
+      "Source": "Corrupted Arkology Raptor",
+      "Trans": {"SC":"腐化方舟学迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1455279415",
+      "Source": "Arkology Rex",
+      "Trans": {"SC":"方舟学霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2711143815",
+      "Source": "Alpha Arkology Arthropluera",
+      "Trans": {"SC":"精英方舟学节胸虫","JA":"精英方舟学節胸虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3702599860",
+      "Source": "Corrupted Arkology Rex",
+      "Trans": {"SC":"腐化方舟学霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2784436050",
+      "Source": "Alpha Arkology Brontosaurus",
+      "Trans": {"SC":"精英方舟学雷龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2327493974",
+      "Source": "Arkology Woolly Rhino",
+      "Trans": {"SC":"方舟学披毛犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3962196166",
+      "Source": "Corrupted Alpha Arkology Arthropluera",
+      "Trans": {"SC":"腐化精英方舟学节胸虫","JA":"腐化精英方舟学節胸虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::236835120",
+      "Source": "Arkology Rhyniognatha",
+      "Trans": {"SC":"方舟学莱尼颚虫","JA":"方舟学莱尼顎虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::840481452",
+      "Source": "Arkology Rock Drake",
+      "Trans": {"SC":"方舟学岩龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2500548689",
+      "Source": "Alpha Arkology Baryonyx",
+      "Trans": {"SC":"精英方舟学重爪龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2060726167",
+      "Source": "Alpha Arkology Basilisk",
+      "Trans": {"SC":"精英方舟学帝蟒","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3232050196",
+      "Source": "Alpha Arkology Bison",
+      "Trans": {"SC":"精英方舟学野牛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2542119999",
+      "Source": "Corrupted Arkology Rock Drake",
+      "Trans": {"SC":"腐化方舟学岩龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2423991249",
+      "Source": "Alpha Arkology Pulmonoscorpius",
+      "Trans": {"SC":"精英方舟学肺蝎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3052595782",
+      "Source": "Alpha Arkology Titanosaur",
+      "Trans": {"SC":"精英方舟学泰坦龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4279390851",
+      "Source": "Alpha Arkology Shastasaurus",
+      "Trans": {"SC":"精英方舟学沙斯塔鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::270290524",
+      "Source": "Arkology Rock Elemental",
+      "Trans": {"SC":"方舟学岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3965840977",
+      "Source": "Alpha Arkology Spino",
+      "Trans": {"SC":"精英方舟学棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2771919095",
+      "Source": "Arkology Rubble Golem",
+      "Trans": {"SC":"方舟学遗迹魔像","JA":"方舟学遺迹魔像"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::656494044",
+      "Source": "Alpha Arkology Triceratops",
+      "Trans": {"SC":"精英方舟学三角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::963435753",
+      "Source": "Corrupted Alpha Arkology Spino",
+      "Trans": {"SC":"腐化精英方舟学棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4142820127",
+      "Source": "Arkology Sabertooth",
+      "Trans": {"SC":"方舟学刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::674451264",
+      "Source": "Alpha Arkology Fire Wyvern",
+      "Trans": {"SC":"精英方舟学火焰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3874955196",
+      "Source": "Corrupt Alpha Arkology Fire Wyvern",
+      "Trans": {"SC":"腐化精英方舟学火焰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2600443901",
+      "Source": "Alpha Arkology Ice Wyvern",
+      "Trans": {"SC":"精英方舟学寒冰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2669459211",
+      "Source": "Alpha Arkology Lightning Wyvern",
+      "Trans": {"SC":"精英方舟学闪电飞龙","JA":"精英方舟学閃電飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2477012168",
+      "Source": "Alpha Arkology Poison Wyvern",
+      "Trans": {"SC":"精英方舟学剧毒飞龙","JA":"精英方舟学劇毒飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::102893882",
+      "Source": "Alpha Arkology Reaper Queen",
+      "Trans": {"SC":"精英方舟学死神王后","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2399427555",
+      "Source": "Alpha Arkology Surface Reaper King",
+      "Trans": {"SC":"精英方舟学地表死神国王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::536713271",
+      "Source": "Alpha Arkology Chalk Elemental",
+      "Trans": {"SC":"精英方舟学白垩岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1403701895",
+      "Source": "Arkology Megaraptor",
+      "Trans": {"SC":"方舟学大盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4125890902",
+      "Source": "Arkology Hyaenodon ",
+      "Trans": {"SC":"方舟学鬣齿兽","JA":"方舟学鬣齿獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::493938531",
+      "Source": "Arkology Ice Elemental",
+      "Trans": {"SC":"方舟学冰霜岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1489975815",
+      "Source": "Alpha Arkology Ice Elemental",
+      "Trans": {"SC":"精英方舟学冰霜岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2231689385",
+      "Source": "Alpha Arkology Megaraptor",
+      "Trans": {"SC":"精英方舟学大盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1155698435",
+      "Source": "Alpha Arkology Rock Elemental",
+      "Trans": {"SC":"精英方舟学岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4207354474",
+      "Source": "Arkology Chalk Elemental",
+      "Trans": {"SC":"方舟学白垩岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2037161437",
+      "Source": "Alpha Bison Horn",
+      "Trans": {"SC":"精英野牛角","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::591469943",
+      "Source": "Fertilized Arkology Megalosaurus Egg",
+      "Trans": {"SC":"受精的方舟学巨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::929968511",
+      "Source": "Alpha Bronto Vertebra",
+      "Trans": {"SC":"精英雷龙脊椎","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1832703754",
+      "Source": "Fertilized Arkology Microraptor Egg",
+      "Trans": {"SC":"受精的方舟学小盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::448540547",
+      "Source": "Alpha Carcha Heart",
+      "Trans": {"SC":"精英鲨齿龙心脏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1046862181",
+      "Source": "Alpha Ravager Claw",
+      "Trans": {"SC":"精英劫掠者爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::283854335",
+      "Source": "Fertilized Arkology Moschops Egg",
+      "Trans": {"SC":"受精的方舟学麝足兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3392507175",
+      "Source": "Alpha Daeodon Hide",
+      "Trans": {"SC":"精英凶齿豨兽皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3111654055",
+      "Source": "Fertilized Arkology Oviraptor Egg",
+      "Trans": {"SC":"受精的方舟学窃蛋龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1790852969",
+      "Source": "Alpha Deinosuchus Skin",
+      "Trans": {"SC":"精英恐鳄皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1726909824",
+      "Source": "Fertilized Arkology Snow Owl Egg",
+      "Trans": {"SC":"受精的方舟学雪鸮蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3698964040",
+      "Source": "Fertilized Arkology Pachyrhino Egg",
+      "Trans": {"SC":"受精的方舟学厚鼻龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::354097164",
+      "Source": "Alpha Dilo Venom",
+      "Trans": {"SC":"精英双嵴龙毒液","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1207460397",
+      "Source": "Fertilized Arkology Pachycephalosaurus Egg",
+      "Trans": {"SC":"受精的方舟学肿头龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1616727774",
+      "Source": "Alpha Dire Wolf Tooth",
+      "Trans": {"SC":"精英恐狼齿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4197052298",
+      "Source": "Alpha Dreadnoughtus Head",
+      "Trans": {"SC":"精英无畏巨龙头","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::445556251",
+      "Source": "Fertilized Arkology Parasaur Egg",
+      "Trans": {"SC":"受精的方舟学副栉龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3039170471",
+      "Source": "Alpha Fasola Tooth",
+      "Trans": {"SC":"精英法索拉鳄牙齿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3853805516",
+      "Source": "Fertilized Arkology Pegomastax Egg",
+      "Trans": {"SC":"受精的方舟学双坚颌龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1555706133",
+      "Source": "Alpha Giga Heart",
+      "Trans": {"SC":"精英南方巨兽龙心脏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2710430360",
+      "Source": "Fertilized Arkology Pelagornis Egg",
+      "Trans": {"SC":"受精的方舟学伪齿鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1387390167",
+      "Source": "Alpha Golem Core",
+      "Trans": {"SC":"精英岩石巨人核心","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::241603722",
+      "Source": "Fertilized Arkology Pteranodon Egg",
+      "Trans": {"SC":"受精的方舟学无齿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::616869086",
+      "Source": "Alpha Chalk Elemental Core",
+      "Trans": {"SC":"精英白垩岩石巨人核心","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3757006058",
+      "Source": "Fertilized Arkology Quetzal Egg",
+      "Trans": {"SC":"受精的方舟学风神翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::583518168",
+      "Source": "Alpha Ice Elemental Core",
+      "Trans": {"SC":"精英冰霜岩石巨人核心","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2176825069",
+      "Source": "Alpha Griffin Feather",
+      "Trans": {"SC":"精英狮鹫羽毛","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3643310200",
+      "Source": "Fertilized ARkology Raptor Egg",
+      "Trans": {"SC":"受精的方舟学迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::324325316",
+      "Source": "Alpha Kaprosuchus Skin",
+      "Trans": {"SC":"精英猪鳄皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1779048606",
+      "Source": "Alpha Kentro Spike",
+      "Trans": {"SC":"精英钉状龙棘刺","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::573067905",
+      "Source": "Fertilized Arkology Rex Egg",
+      "Trans": {"SC":"受精的方舟学霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3474091685",
+      "Source": "Alpha Mammoth Frozen Tusk",
+      "Trans": {"SC":"精英猛犸象冻牙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::96825988",
+      "Source": "Alpha Managarmr Pelt",
+      "Trans": {"SC":"精英冰原狼毛皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3484982182",
+      "Source": "Fertilized Arkology Rock Drake Egg",
+      "Trans": {"SC":"受精的方舟学岩龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2621443001",
+      "Source": "Fertilized Arkology Sarco Egg",
+      "Trans": {"SC":"受精的方舟学帝鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::31056183",
+      "Source": "Alpha Mantis Arm",
+      "Trans": {"SC":"精英螳螂手臂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2298815362",
+      "Source": "Alpha Megalania Toxin",
+      "Trans": {"SC":"精英古巨蜥毒素","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::623012286",
+      "Source": "Alpha Megatherium Pelt",
+      "Trans": {"SC":"精英大地懒毛皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1903149805",
+      "Source": "Alpha Purlovia Paw",
+      "Trans": {"SC":"精英兽头兽爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2981740146",
+      "Source": "Fertilized Arkology Pulminoscorpius Egg",
+      "Trans": {"SC":"受精的方舟学肺蝎卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3521946206",
+      "Source": "Alpha Quetzal Talon",
+      "Trans": {"SC":"精英风神翼龙爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1026352137",
+      "Source": "Fertilized Arkology Araneo Egg",
+      "Trans": {"SC":"受精的方舟学蜘蛛卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::430885695",
+      "Source": "Alpha Woolly Rhino Horn",
+      "Trans": {"SC":"精英披毛犀角","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2768033354",
+      "Source": "Alpha Rhyniognatha Resin",
+      "Trans": {"SC":"精英莱尼颚虫黏脂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1993955324",
+      "Source": "Alpha Sabertooth Tooth",
+      "Trans": {"SC":"精英剑齿虎牙齿","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2938074006",
+      "Source": "Fertilized Arkology Velonasaur Egg",
+      "Trans": {"SC":"受精的方舟学刺面龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1422444248",
+      "Source": "Alpha Pulmonoscorpious Venom",
+      "Trans": {"SC":"精英肺蝎毒液","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::57788010",
+      "Source": "Fertilized Arkology Thorny Dragon Egg",
+      "Trans": {"SC":"受精的方舟学棘蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4188440599",
+      "Source": "Alpha Shastasaurus Blubber",
+      "Trans": {"SC":"精英沙斯塔鱼龙脂肪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1589877027",
+      "Source": "Fertilized Arkology Spino Egg",
+      "Trans": {"SC":"受精的方舟学棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1998177804",
+      "Source": "Fertilized Arkology Stego Egg",
+      "Trans": {"SC":"受精的方舟学剑龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::699780564",
+      "Source": "Alpha Spinosaurus Sail",
+      "Trans": {"SC":"精英棘龙背脊","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::536994236",
+      "Source": "Fertilized Arkology Tapejara Egg",
+      "Trans": {"SC":"受精的方舟学古神翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2133665359",
+      "Source": "Alpha Therizino Claws",
+      "Trans": {"SC":"精英镰刀龙爪子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::203702764",
+      "Source": "Fertilized Arkology Terror Bird Egg",
+      "Trans": {"SC":"受精的方舟学骇鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1384753364",
+      "Source": "Alpha Titanosaur Spine",
+      "Trans": {"SC":"精英泰坦龙脊椎","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::682230913",
+      "Source": "Alpha Trike Skull",
+      "Trans": {"SC":"精英三角龙头骨","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1219869356",
+      "Source": "Fertilized Arkology Therizino Egg",
+      "Trans": {"SC":"受精的方舟学镰刀龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4141069595",
+      "Source": "Alpha Velonosaur Claw",
+      "Trans": {"SC":"精英刺面龙爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2239818777",
+      "Source": "Fertilized Arkology Trike Egg",
+      "Trans": {"SC":"受精的方舟学三角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2543123032",
+      "Source": "Alpha Xiphactinus Eye",
+      "Trans": {"SC":"精英剑射鱼眼","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2352684615",
+      "Source": "Alpha Yi Ling Feather",
+      "Trans": {"SC":"精英翎翼龙羽毛","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2861176068",
+      "Source": "Fertilized Arkology Troodon Egg",
+      "Trans": {"SC":"受精的方舟学伤齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1702459527",
+      "Source": "Alpha Yutyrannus Lungs",
+      "Trans": {"SC":"精英羽暴龙肺","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3594002692",
+      "Source": "Alpha Cerato Venom Spine",
+      "Trans": {"SC":"精英角鼻龙毒脊刺","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::794708469",
+      "Source": "Fertilized Arkology Turtle Egg",
+      "Trans": {"SC":"受精的方舟学碳龟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2662235626",
+      "Source": "Fertilized Arkology Megaraptor Egg",
+      "Trans": {"SC":"受精的方舟学大盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2960785670",
+      "Source": "Alpha Megalosaurus Tooth",
+      "Trans": {"SC":"精英巨齿龙牙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::69544848",
+      "Source": "Alpha Reaper Queen Dead Larva Ovarie",
+      "Trans": {"SC":"精英死神王后死幼虫卵巢","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::982036517",
+      "Source": "Fertilized Arkology Vulture Egg",
+      "Trans": {"SC":"受精的方舟学秃鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::871879207",
+      "Source": "Alpha Rock Drake Feather",
+      "Trans": {"SC":"精英岩龙羽毛","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3096185032",
+      "Source": "Fertilized Arkology Fire Wyvern Egg",
+      "Trans": {"SC":"受精的方舟学火焰飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1588525081",
+      "Source": "Alpha Megaraptor Claw",
+      "Trans": {"SC":"精英大盗龙爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::686288703",
+      "Source": "Fertilized Arkology Lightning Wyvern Egg",
+      "Trans": {"SC":"受精的方舟学闪电飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3171997650",
+      "Source": "Corrupted Arkology Rock Drake Egg",
+      "Trans": {"SC":"腐化方舟学岩龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4167738310",
+      "Source": "Consume this item to spawn a Fertilized Arkology Rock Drake Egg",
+      "Trans": {"SC":"食用此物品可生成一颗受精的方舟学岩龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::78425788",
+      "Source": "Fertilized Arkology Poison Wyvern Egg",
+      "Trans": {"SC":"受精的方舟学剧毒飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2568261820",
+      "Source": "Fertilized Arkology Yi Ling Egg",
+      "Trans": {"SC":"受精的方舟学翎翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2783161919",
+      "Source": "Alpha Drake Trophy",
+      "Trans": {"SC":"精英岩龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::836113982",
+      "Source": "Corrupted Arkology Wyvern Egg",
+      "Trans": {"SC":"腐化方舟学双足飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2724284785",
+      "Source": "Consume this item to spawn a Fertilized Arkology Fire Wyvern Egg",
+      "Trans": {"SC":"食用此物品可生成一颗受精的方舟学火焰飞龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::847095335",
+      "Source": "Alpha Lightning Trophy",
+      "Trans": {"SC":"精英闪电飞龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2401794655",
+      "Source": "Alpha Poison Trophy",
+      "Trans": {"SC":"精英剧毒飞龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2825226866",
+      "Source": "Fertilized Arkology Allosaurus Egg",
+      "Trans": {"SC":"受精的方舟学异特龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::487412172",
+      "Source": "Fertilized Arkology Yutyrannus Egg",
+      "Trans": {"SC":"受精的方舟学羽王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::53620151",
+      "Source": "Fertilized Arkology Ankylo Egg",
+      "Trans": {"SC":"受精的方舟学甲龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3530087215",
+      "Source": "Apex Wyvern Trophy",
+      "Trans": {"SC":"顶级飞龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2368211725",
+      "Source": "Alpha Ice Wyvern Trophy",
+      "Trans": {"SC":"精英寒冰飞龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3245971996",
+      "Source": "Fertilized Arkology Archaeopteryx Egg",
+      "Trans": {"SC":"受精的方舟学始祖鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2284728161",
+      "Source": "Fertilized Arkology Angler Egg",
+      "Trans": {"SC":"受精的方舟学鮟鱇鱼卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1698821277",
+      "Source": "Fertilized Arkology Ice Wyvern Egg",
+      "Trans": {"SC":"受精的方舟学寒冰飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3715506650",
+      "Source": "Fertilized Arkology Diplocaulus Egg",
+      "Trans": {"SC":"受精的方舟学盗首螈卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1554922199",
+      "Source": "Fertilized Arkology Archelon Egg",
+      "Trans": {"SC":"受精的方舟学古巨龟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1750710174",
+      "Source": "Fertilized Arkology Argentavis Egg",
+      "Trans": {"SC":"受精的方舟学阿根廷鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2471833726",
+      "Source": "Fertilized Arkology Eel Egg",
+      "Trans": {"SC":"受精的方舟学电鳗卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1234059842",
+      "Source": "Arkology Mantis Egg",
+      "Trans": {"SC":"方舟学螳螂卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::847507180",
+      "Source": "Fertilized Arkology Beelzebufo Egg",
+      "Trans": {"SC":"受精的方舟学魔鬼蛙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3567185511",
+      "Source": "Fertilized Arkology Mantis Egg",
+      "Trans": {"SC":"受精的方舟学螳螂卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::642997386",
+      "Source": "Fertilized Arkology Tusoteuthis Egg",
+      "Trans": {"SC":"受精的方舟学托斯特巨鱿卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3044534149",
+      "Source": "Arkology Moth Egg",
+      "Trans": {"SC":"方舟学沙蛾卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3648212769",
+      "Source": "Fertilized Arkology Moth Egg",
+      "Trans": {"SC":"受精的方舟学沙蛾卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4212793340",
+      "Source": "Fertilized Arkology Xiphactinus Egg",
+      "Trans": {"SC":"受精的方舟学剑射鱼卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1107901158",
+      "Source": "Fertilized Arkology Arthropluera Egg",
+      "Trans": {"SC":"受精的方舟学节胸虫卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4153357408",
+      "Source": "Fertilized Arkology Baryonyx Egg",
+      "Trans": {"SC":"受精的方舟学重爪龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::535663031",
+      "Source": "Corrupted Arkology Carno",
+      "Trans": {"SC":"腐化方舟学肉食牛龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::954784251",
+      "Source": "This costume can be used to make your Carno look like a Corrupted Arkology Carno",
+      "Trans": {"SC":"此服饰可用于将你的肉食牛龙装扮成腐化方舟学肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::818227657",
+      "Source": "Fertilized Arkology Basilisk Egg",
+      "Trans": {"SC":"受精的方舟学帝蟒蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1291286724",
+      "Source": "This costume can be used to make your Chalicotherium look like a Corrupted Arkology Chalicotherium",
+      "Trans": {"SC":"此服饰可用于将你的爪兽装扮成腐化方舟学爪兽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1132817904",
+      "Source": "Fertilized Arkology Bronto Egg",
+      "Trans": {"SC":"受精的方舟学雷龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2268404486",
+      "Source": "Fertilized Arkology Morellatops Egg",
+      "Trans": {"SC":"受精的方舟学驼峰龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1198929715",
+      "Source": "This costume can be used to make your Dilophosaur look like a Corrupted Arkology Dilophosaur",
+      "Trans": {"SC":"此服饰可用于将你的双嵴龙装扮成腐化方舟学双嵴龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1258547335",
+      "Source": "Fertilized Arkology Carcharodontosaurus Egg",
+      "Trans": {"SC":"受精的方舟学鲨齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1194307107",
+      "Source": "Fertilized Arkology Carno Egg",
+      "Trans": {"SC":"受精的方舟学肉食牛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2625917510",
+      "Source": "Corrupted Arkology Dimorph",
+      "Trans": {"SC":"腐化方舟学双型齿翼龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3534429610",
+      "Source": "This costume can be used to make your Dimorph look like a Corrupted Arkology Dimorph",
+      "Trans": {"SC":"此服饰可用于将你的双型齿翼龙装扮成腐化方舟学双型齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::661734396",
+      "Source": "Fertilized Arkology Ceratosaurus Egg",
+      "Trans": {"SC":"受精的方舟学角鼻龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2653177393",
+      "Source": "This costume can be used to make your Wyvern look like a Corrupted Arkology Wyvern",
+      "Trans": {"SC":"此服饰可用于将你的双足飞龙装扮成腐化方舟学双足飞龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2267284161",
+      "Source": "This costume can be used to make your Giganotosaurus look like a Corrupted Arkology Giganotosaurus",
+      "Trans": {"SC":"此服饰可用于将你的南方巨兽龙装扮成腐化方舟学南方巨兽龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2251513856",
+      "Source": "Fertilized Arkology Compy Egg",
+      "Trans": {"SC":"受精的方舟学美颌龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1939361748",
+      "Source": "Corrupted Arkology Paracer",
+      "Trans": {"SC":"腐化方舟学巨犀","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3218552253",
+      "Source": "This costume can be used to make your Paracer look like a Corrupted Arkology Paracer",
+      "Trans": {"SC":"此服饰可用于将你的巨犀装扮成腐化方舟学巨犀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4176302691",
+      "Source": "Fertilized Arkology Deinosuchus Egg",
+      "Trans": {"SC":"受精的方舟学恐鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4099632143",
+      "Source": "This costume can be used to make your Pteranodon look like a Corrupted Arkology Pteranodon",
+      "Trans": {"SC":"此服饰可用于将你的无齿翼龙装扮成腐化方舟学无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2183370113",
+      "Source": "Fertilized Arkology Dilo Egg",
+      "Trans": {"SC":"受精的方舟学双嵴龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2965816591",
+      "Source": "Fertilized Arkology Dimetrodon Egg",
+      "Trans": {"SC":"受精的方舟学异齿龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::966189333",
+      "Source": "This costume can be used to make your Raptor look like a Corrupted Arkology Raptor",
+      "Trans": {"SC":"此服饰可用于将你的迅猛龙装扮成腐化方舟学迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::916206266",
+      "Source": "Fertilized Arkology Dimorph Egg",
+      "Trans": {"SC":"受精的方舟学双型齿翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::584814379",
+      "Source": "Fertilized Arkology Diplo Egg",
+      "Trans": {"SC":"受精的方舟学梁龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::620058933",
+      "Source": "This costume can be used to make your Reaper King look like a Corrupted Arkology Reaper King",
+      "Trans": {"SC":"此服饰可用于将你的死神国王装扮成腐化方舟学死神国王","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1435674481",
+      "Source": "Fertilized Arkology Dodo Egg",
+      "Trans": {"SC":"受精的方舟学渡渡鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2994787391",
+      "Source": "This costume can be used to make your Rex look like a Corrupted Arkology Rex",
+      "Trans": {"SC":"此服饰可用于将你的霸王龙装扮成腐化方舟学霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3116584957",
+      "Source": "Fertilized Arkology Dreadnoughtus Egg",
+      "Trans": {"SC":"受精的方舟学无畏巨龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1903048150",
+      "Source": "This costume can be used to make your Rock Drake look like a Corrupted Arkology Rock Drake",
+      "Trans": {"SC":"此服饰可用于将你的岩龙装扮成腐化方舟学岩龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2604294387",
+      "Source": "Fertilized Arkology Fasolasuchus Egg",
+      "Trans": {"SC":"受精的方舟学法索拉鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2831847231",
+      "Source": "Fertilized Arkology Gallimimus Egg",
+      "Trans": {"SC":"受精的方舟学似鸡龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2716005278",
+      "Source": "This costume can be used to make your Spino look like a Corrupted Arkology Spino",
+      "Trans": {"SC":"此服饰可用于将你的棘龙装扮成腐化方舟学棘龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4184508286",
+      "Source": "Fertilized Arkology Gigantoraptor Egg",
+      "Trans": {"SC":"受精的方舟学巨盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::410383957",
+      "Source": "Fertilized Arkology Giganotosaurus Egg",
+      "Trans": {"SC":"受精的方舟学南方巨兽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1104651857",
+      "Source": "This costume can be used to make your Stegosaurus look like a Corrupted Arkology Stegosaurus",
+      "Trans": {"SC":"此服饰可用于将你的剑龙装扮成腐化方舟学剑龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2190405223",
+      "Source": "This costume can be used to make your Triceratops look like a Corrupted Arkology Triceratops",
+      "Trans": {"SC":"此服饰可用于将你的三角龙装扮成腐化方舟学三角龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1941618473",
+      "Source": "Fertilized Arkology Griffin Egg",
+      "Trans": {"SC":"受精的方舟学狮鹫蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3561355801",
+      "Source": "Alpha Allo Brain",
+      "Trans": {"SC":"精英异特龙脑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2209955601",
+      "Source": "Alpha Ankylosaurus Club",
+      "Trans": {"SC":"精英甲龙尾锤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1856171188",
+      "Source": "Fertilized Arkology Hesperornis Egg",
+      "Trans": {"SC":"受精的方舟学黄昏鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1845577984",
+      "Source": "Alpha Arthropluera Chitin",
+      "Trans": {"SC":"精英节胸虫甲壳素","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::789947165",
+      "Source": "Fertilized Arkology Ichthyornis Egg",
+      "Trans": {"SC":"受精的方舟学鱼鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1875522316",
+      "Source": "Alpha Baryonyx Claw",
+      "Trans": {"SC":"精英重爪龙爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::928167787",
+      "Source": "Fertilized Arkology Iguanodon Egg",
+      "Trans": {"SC":"受精的方舟学禽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4054611680",
+      "Source": "Fertilized Arkology Kairuku Egg",
+      "Trans": {"SC":"受精的方舟学潜觅企鹅蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1640958093",
+      "Source": "Fertilized Arkology Kaprosuchus Egg",
+      "Trans": {"SC":"受精的方舟学猪鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2134879109",
+      "Source": "Fertilized Arkology Kentro Egg",
+      "Trans": {"SC":"受精的方舟学钉状龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3572663920",
+      "Source": "Fertilized Arkology Featherlight Egg",
+      "Trans": {"SC":"受精的方舟学光羽鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2479101124",
+      "Source": "Fertilized Arkology Glowtail Egg",
+      "Trans": {"SC":"受精的方舟学耀尾蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1475663857",
+      "Source": "Fertilized Arkology Lystrosaurus Egg",
+      "Trans": {"SC":"受精的方舟学水龙兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1005085163",
+      "Source": "Superior Fertilized Arkology Maeguana Egg",
+      "Trans": {"SC":"受精的上等方舟学风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1060193903",
+      "Source": "Regular Fertilized Arkology Maeguana Egg",
+      "Trans": {"SC":"受精的普通方舟学风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::177825648",
+      "Source": "Simple Fertilized Arkology Maeguana Egg",
+      "Trans": {"SC":"受精的简易方舟学风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2199920323",
+      "Source": "Extraordinary Fertilized Arkology Maeguana Egg",
+      "Trans": {"SC":"受精的非凡方舟学风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3140265282",
+      "Source": "Exceptional Fertilized Arkology Maeguana Egg",
+      "Trans": {"SC":"受精的卓越方舟学风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3509147125",
+      "Source": "Basic Fertilized Arkology Maeguana Egg",
+      "Trans": {"SC":"受精的基础方舟学风行蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::849270818",
+      "Source": "Fertilized Arkology Megalania Egg",
+      "Trans": {"SC":"受精的方舟学古巨蜥蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

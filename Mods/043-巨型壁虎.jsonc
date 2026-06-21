@@ -1,0 +1,106 @@
+{
+  "巨型壁虎": [//2025.11.29
+    {
+      "NamespaceHash": "Content::1951003642",
+      "Source": "Aberrant Magna Gecko",
+      "Trans": {"SC":"畸变巨型壁虎","JA":"畸變巨型壁虎"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1358738035",
+      "Source": "Big Magna Gecko",
+      "Trans": {"SC":"G-巨型壁虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3902709893",
+      "Source": "Magna Gecko",
+      "Trans": {"SC":"巨型壁虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2877874326",
+      "Source": "Chibi-Magna Gecko",
+      "Trans": {"SC":"袖珍-巨型壁虎","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1147887216",
+      "Source": "Tiny Animal Feces",
+      "Trans": {"SC":"小型动物粪便","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3012528910",
+      "Source": "Fertilized Magna Gecko Egg",
+      "Trans": {"SC":"受精的巨型壁虎卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1318115638",
+      "Source": "Magna Gecko Tail",
+      "Trans": {"SC":"巨型壁虎尾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3138288925",
+      "Source": "Mashed Bugs",
+      "Trans": {"SC":"昆虫碎末","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1251265288",
+      "Source": "Eating this yourself will cause severe illness, but there are critters out there who find this \"food\" to be a delight!",
+      "Trans": {"SC":"人类食用会导致严重疾病，但有些生物却把这种 “食物” 当作美味！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2136880028",
+      "Source": "Gecko Dossier",
+      "Trans": {"SC":"壁虎图鉴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1046568146",
+      "Source": "A book of knowledge, Specifically on the creatures of Cyrus' Critters",
+      "Trans": {"SC":"一本知识典籍，专门记载Cyrus生物群中的生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1514506481",
+      "Source": "Gecko Abilities",
+      "Trans": {"SC":"壁虎能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::588309396",
+      "Source": "Transferring Resources",
+      "Trans": {"SC":"资源转移","JA":"資源轉移"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2328334626",
+      "Source": "Transferring Re sources to gecko",
+      "Trans": {"SC":"向壁虎转移资源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3265895035",
+      "Source": "Aggro Immunity",
+      "Trans": {"SC":"仇恨免疫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "026C3CB9488B331E1FD5A5A5DEE182B1",
+      "Source": "Gecko Wheel",
+      "Trans": {"SC":"壁虎轮盘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1474430526"}
+    },
+    {
+      "NamespaceHash": "890323B345214ECF1394D39990BABC4D",
+      "Source": "Force Drop Tail(pc only)",
+      "Trans": {"SC":"强制断尾 (仅电脑端)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2789883005"}
+    }
+  ]
+}

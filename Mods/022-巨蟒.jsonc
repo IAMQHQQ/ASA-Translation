@@ -1,0 +1,928 @@
+{
+  "巨蟒": [//2025.11.29
+    {
+      "NamespaceHash": "Content::3168575624",
+      "Source": "Gigantophis Skin",
+      "Trans": {"SC":"巨蟒皮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::858920204",
+      "Source": "100% cosmetic Ammot belt, but super badass!",
+      "Trans": {"SC":"100%的装饰性弹药腰带，但超级酷！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2994129698",
+      "Source": "A placeable Gigantophis Dossier full of knowledge on the prehistoric serpent. <#RN#><#RN#>Can be used as decoration, or to learn information about Gigantophis",
+      "Trans": {"SC":"一个可放置的巨蟒资料档案，里面全是关于这条史前巨蛇的知识。<#RN#>它既可以用作装饰，也能用来了解有关巨蟒的信息。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2715712131",
+      "Source": "A strange, highly advanced gattling ammo belt.",
+      "Trans": {"SC":"一条奇特且极为先进的加特林弹药带。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1233169741",
+      "Source": "Activate Gun",
+      "Trans": {"SC":"激活枪械","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1596775476",
+      "Source": "Chibi-Gigantophis",
+      "Trans": {"SC":"袖珍-巨蟒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2249006611",
+      "Source": "Circle",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2160022662",
+      "Source": "Climb / Constrict",
+      "Trans": {"SC":"攀爬/缠绕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2950577326",
+      "Source": "Cobra Stance",
+      "Trans": {"SC":"眼镜蛇姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1836252166",
+      "Source": "Coil-Up",
+      "Trans": {"SC":"盘绕姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2827636543",
+      "Source": "Cuddled by Serpentine",
+      "Trans": {"SC":"蛇蛇拥抱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1798847461",
+      "Source": "Currently Digesting",
+      "Trans": {"SC":"当前正在消化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3790795792",
+      "Source": "Custom Santa Snake Hat for your Gigantophis!<#RN#><#RN#>100% cosmetic but super cool!",
+      "Trans": {"SC":"为你的巨蟒定制的圣诞老人蛇形帽！<#RN#>100% 纯装饰性，但超级酷炫！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2617694664",
+      "Source": "Custom Western Style Snake Hat for your Gigantophis!<#RN#><#RN#>100% cosmetic but badass!",
+      "Trans": {"SC":"为你的巨蟒定制的西部风格蛇帽！<#RN#>纯属装饰，但超酷炫！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::628969867",
+      "Source": "Deactivate Gun",
+      "Trans": {"SC":"解除枪械","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3525044295",
+      "Source": "DigestingDino",
+      "Trans": {"SC":"正在消化的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2193621761",
+      "Source": "Equip a Gigantophis enabling the rider to fire plasma projectiles.",
+      "Trans": {"SC":"给巨蟒装备该物品，让骑乘者能够发射等离子投射物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1269687311",
+      "Source": "Equip a Gigantophis with this to shoot.",
+      "Trans": {"SC":"给巨蟒装备这个以便进行射击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3701466712",
+      "Source": "Equip a Gigantophis with this, enabling the rider to shoot rapidly.",
+      "Trans": {"SC":"给巨蟒装备这个，让骑乘者能够快速射击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1880140299",
+      "Source": "Exit Coiled Mode",
+      "Trans": {"SC":"退出盘绕姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3065064722",
+      "Source": "Exit Gunmode",
+      "Trans": {"SC":"解除枪械","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2065898485",
+      "Source": "Fertilized Gigantophis Egg",
+      "Trans": {"SC":"受精的巨蟒蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::480915501",
+      "Source": "Full Auto",
+      "Trans": {"SC":"全自动射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2320385799",
+      "Source": "FullAuto",
+      "Trans": {"SC":"全自动射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::473603111",
+      "Source": "Gigantophis",
+      "Trans": {"SC":"巨蟒","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3164594145",
+      "Source": "Gigantophis Ammo Belt",
+      "Trans": {"SC":"巨蟒弹药带","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4178760575",
+      "Source": "Gigantophis Basic Saddle",
+      "Trans": {"SC":"巨蟒鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1580822107",
+      "Source": "Gigantophis Charmed",
+      "Trans": {"SC":"巨蟒被魅惑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::795111202",
+      "Source": "Gigantophis Charming Flute",
+      "Trans": {"SC":"巨蟒魅惑笛","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3082327432",
+      "Source": "Gigantophis Digestion Pellet",
+      "Trans": {"SC":"巨蟒消化弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2570900859",
+      "Source": "Gigantophis Dossier",
+      "Trans": {"SC":"巨蟒图鉴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3708900038",
+      "Source": "Gigantophis Egg",
+      "Trans": {"SC":"巨蟒蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4070091276",
+      "Source": "Gigantophis Gattling Ammo",
+      "Trans": {"SC":"巨蟒加特林弹药带","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1064342384",
+      "Source": "Gigantophis is charmed by a flute, it will not attack you, continue the taming progress with the flute!",
+      "Trans": {"SC":"巨蟒被笛子吸引，它不会攻击你，继续用笛子推进驯服进度！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2781632911",
+      "Source": "Gigantophis Pulse Ammo",
+      "Trans": {"SC":"巨蟒脉冲弹药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::982723927",
+      "Source": "Gigantophis Santa Hat",
+      "Trans": {"SC":"巨蟒圣诞帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2650427979",
+      "Source": "Gigantophis Tail Gattling Gun",
+      "Trans": {"SC":"巨蟒尾部加特林机枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4166555415",
+      "Source": "Gigantophis Tail Pulse Gun",
+      "Trans": {"SC":"巨蟒尾部脉冲枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2940347298",
+      "Source": "Gigantophis Taming Progress",
+      "Trans": {"SC":"巨蟒驯服进度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2591891716",
+      "Source": "GigantophisGattlingGun",
+      "Trans": {"SC":"巨蟒加特林机枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2741787543",
+      "Source": "Horizontal Infinity",
+      "Trans": {"SC":"水平无限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1330332459",
+      "Source": "Hypnotize",
+      "Trans": {"SC":"催眠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3818735167",
+      "Source": "Increased Insulation",
+      "Trans": {"SC":"绝缘性增强","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3753619193",
+      "Source": "Moros Gigantophis Admin Menu Remote",
+      "Trans": {"SC":"巨蟒管理器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3941144095",
+      "Source": "Oval",
+      "Trans": {"SC":"椭圆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1195983533",
+      "Source": "Play near a Gigantophis until this box is green to start the taming.",
+      "Trans": {"SC":"当在巨蟒附近活动，直到这个框变绿，便可开始驯服它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::157189170",
+      "Source": "Play Song",
+      "Trans": {"SC":"演奏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1256652800",
+      "Source": "Python Stance",
+      "Trans": {"SC":"蟒蛇姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969139769",
+      "Source": "Rotate",
+      "Trans": {"SC":"原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2751772415",
+      "Source": "Semi Auto",
+      "Trans": {"SC":"半自动射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1009663753",
+      "Source": "Semi-Auto Fire",
+      "Trans": {"SC":"半自动射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4118780337",
+      "Source": "Slam",
+      "Trans": {"SC":"猛击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::307421322",
+      "Source": "Slippery Serpent",
+      "Trans": {"SC":"滑溜溜的蛇","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4236794186",
+      "Source": "Square",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4093882956",
+      "Source": "Squeeze",
+      "Trans": {"SC":"挤压","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1686910068",
+      "Source": "Swallow",
+      "Trans": {"SC":"吞下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2475865745",
+      "Source": "Tail-Swipe",
+      "Trans": {"SC":"横扫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2105810556",
+      "Source": "Thermal",
+      "Trans": {"SC":"热成像","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4044448720",
+      "Source": "This device is an Admin Spawn / Configure Menu for Moro's Gigantophis Mod.<RN#><RN#>Only Useable with Cheats / Admin Enabled",
+      "Trans": {"SC":"此设备是Momo的巨蟒模组的管理员生成/配置菜单。<RN#><RN#>仅在开启作弊/管理员权限时可用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::425880547",
+      "Source": "Trapezoid",
+      "Trans": {"SC":"梯形","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1287425955",
+      "Source": "Triangle",
+      "Trans": {"SC":"三角形","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1998133324",
+      "Source": "Turn In Place",
+      "Trans": {"SC":"原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1716396046",
+      "Source": "Use Gun",
+      "Trans": {"SC":"激活枪械","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3469707915",
+      "Source": "Use this in your inventory to obtain items.",
+      "Trans": {"SC":"在你的物品栏中使用这个来获取物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2355781070",
+      "Source": "Vertical Infinity",
+      "Trans": {"SC":"垂直无限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2938404763",
+      "Source": "Western Gigantophis Hat",
+      "Trans": {"SC":"巨蟒牛仔帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3177896699",
+      "Source": "You can use this Flute to tame yourself a Gigantophis!<#RN#><#RN#>Taming Instructions: <#RN#><#RN#>1). Play this flute at a decent distance away from a Gigantophis. (Far enough so it doesn't attack you) <#RN#><#RN#>2). Once the \"Play Note\" Progress box is Green it will start to calm Gigantophis and start the taming process. (This is shown by a taming Icon appearing as well as Gigantophis swaying it's head)<#RN#><#RN#>3). Once the process is started, Gigantophis will approah you, and grab you, let it do this.<#RN#><#RN#>4). Once you are grabbed by Gigantophis you will then have to play the flute notes depending on the shape it draws with it's head. <#RN#><#RN#>- The Shape is randomized every 10 seconds and is shown by a progress bar which is visibly shown.<#RN#><#RN#>6). Play the correct note until the timer ends, which if done successfully will add taming progress. <#RN#><#RN#>Then just repeat until tamed.<#RN#><#RN#>NOTE You can unequip the flute and punch Gigantophis to force it to release you if wanted.",
+      "Trans": {"SC":"你可以用这支笛子给自己驯服一条巨蟒！<#RN#>驯服说明：<#RN#>1.在离巨蟒适当距离处吹奏这支笛子。（距离要足够远，以免它攻击你）<#RN#>2.一旦 “吹奏音符” 进度条变为绿色，巨蟒就会开始平静下来<#RN#>驯服过程随之开始（此时会出现一个驯服图标，同时巨蟒会摆动头部）<#RN#>3.驯服过程开启后，巨蟒会靠近你并抓住你，让它这么做。<#RN#>4.被巨蟒抓住后，你要根据它头部画出的形状吹奏笛子音符。<#RN#>形状每 10 秒随机变化一次，会通过一个可见的进度条显示。<#RN#>5.吹奏正确的音符，直到计时结束。如果吹奏成功，会增加驯服进度。<#RN#>然后重复以上步骤，直至成功驯服。<#RN#>注意：如果需要，你可以卸下笛子并击打巨蟒，迫使它放开你。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2260682087",
+      "Source": "SearchBox",
+      "Trans": {"SC":"搜索框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1642186916",
+      "Source": "Digested Remains of {Dino Name}<#RN#><#RN#>Use this item in inventory to search through the pellet for loot.",
+      "Trans": {"SC":"消化残余物 {Dino Name}<#RN#><#RN#>使用这个物品可以在消化残余物中搜寻战利品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2018295006",
+      "Source": "Currently Digesting {Dino Name}<#RN#><#RN#>Use This Item to force Gigantophis to spit out the creature.<#RN#><#RN#>When creature is fully digested, it will be gone forever, but grant recovery buff and have a chance to give loot from the digestion remains.",
+      "Trans": {"SC":"正在消化 {Dino Name}<#RN#><#RN#>使用这个物品迫使巨蟒吐出生物.<#RN#><#RN#>当生物被完全消化，它将永远消失，但会给予恢复增益，并且有可能从消化残余中获得战利品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3951817759",
+      "Source": "Target has constricting cooldown wait {Seconds} more seconds",
+      "Trans": {"SC":"对该目标的缠绕技能处于冷却状态，需再等待 {Seconds} 秒。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3350930907",
+      "Source": "Restore to Default",
+      "Trans": {"SC":"恢复默认设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3022180510",
+      "Source": "Apply Changes",
+      "Trans": {"SC":"应用更改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1003877767",
+      "Source": "Dev Debug Log",
+      "Trans": {"SC":"开发者调试日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1066264558",
+      "Source": "Victim must be {Max %}% health or lower to swallow. <#RN#><#RN#>Current Health of Victim = {Health %}%",
+      "Trans": {"SC":"猎物的生命值必须降至 {Max %}% 或更低才能被吞食.<#RN#><#RN#>当前目标的生命值= {Health %}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2332093626",
+      "Source": "Victim must be {Max %}% health or lower to constrict. <#RN#><#RN#>Current Health of Victim = {Health %}%",
+      "Trans": {"SC":"猎物的生命值必须降至 {Max %}% 或更低才能被缠绕.<#RN#><#RN#>当前目标的生命值= {Health %}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3221208393",
+      "Source": "Tail-Slam",
+      "Trans": {"SC":"重击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4087835161",
+      "Source": "{DinoName} Digested Remains Pellet",
+      "Trans": {"SC":"{DinoName} 消化残余物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3998001452",
+      "Source": "Yummers!",
+      "Trans": {"SC":"太美味啦!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::F4A0F8F847533417DCB8EC9439CF3A1C",
+      "Source": "Currently Targeting: {Target name},",
+      "Trans": {"SC":"正在锁定: {Target name},","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3647440054"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::38AEDED14CA92804B437AC931DFE7645",
+      "Source": "Currently Targets:<#RN#>({Current Targets})",
+      "Trans": {"SC":"当前锁定:<#RN#>{Current Targets},","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2508811278"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4CA4570742E6C1BC027DFC93D86B1418",
+      "Source": "Available Color Regions",
+      "Trans": {"SC":"颜色区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2473618898"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::6686E47442C6FAA474AB9FBA6538932F",
+      "Source": "{%}% Tamed",
+      "Trans": {"SC":"{%}% 驯服值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3328142317"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::36B5086C4CAE40D32ADA26ABD32DC5ED",
+      "Source": "AI Turret Mode Settings<#RN#>({TF})",
+      "Trans": {"SC":"Ai炮塔设置<#RN#>({TF})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1457262195"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::E0E639264CA908A4D06F78938D5A932E",
+      "Source": "(Current Range: {Range} Meters)",
+      "Trans": {"SC":"当前范围: {Range} 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4201724407"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::B4F9EA7C4B40B8D58EC32188E252E9AB",
+      "Source": "Toggle Turret Mode:<#RN#>({Current State})",
+      "Trans": {"SC":"炮塔模式:<#RN#>({Current State})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"693649457"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::232436574ADC1198854ECAB4E1E720F8",
+      "Source": "Colors for Region {#},",
+      "Trans": {"SC":"色块 {#},","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2981364638"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::B65AE5064ECDF93DAED578837B227C54",
+      "Source": "Region {#} ({State})",
+      "Trans": {"SC":"色块{#} ({State})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"771322992"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::70D9E796458BE5F24221F5BAF3DDBFD5",
+      "Source": "Target {T},",
+      "Trans": {"SC":"设置目标:{T},","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2580179809"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::018A7C7245B77D090E67C4AE2720CD03",
+      "Source": "Pattern {#},",
+      "Trans": {"SC":"图案{#},","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1449101433"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::44A3208E42E364FF25885FA7C9176223",
+      "Source": "(Current Range: {Range} Meters)",
+      "Trans": {"SC":"当前范围: {Range} 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4201724407"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::5A7D0A124714BBF0A19B60968ABECD0D",
+      "Source": "Show Side Controls List ({State})",
+      "Trans": {"SC":"显示侧边技能描述 ({State})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3851043122"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4ABA10CB4A404EEC64A1CAAFC74DFE0E",
+      "Source": "Show Abilities HUD ({State})",
+      "Trans": {"SC":"显示技能图标UI ({State})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"28376815"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1BF8546D401B7E5D345E149976F7D6A5",
+      "Source": "Enable",
+      "Trans": {"SC":"打开","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2201890003"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::BA662CD3420667898B09268B3FAB75B7",
+      "Source": "Disable",
+      "Trans": {"SC":"关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3631076157"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::91AE77FA49F9BED03ED3559DDD3DFFEB",
+      "Source": "{Toggle} {Name} Animated Style",
+      "Trans": {"SC":"{Toggle} {Name} 动画风格","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3483152337"}
+    },
+    {
+      "NamespaceHash": "1D69C2854E11A3BAD9E56FA7250DCE3F",
+      "Source": "Dinos Only",
+      "Trans": {"SC":"<#RN#>仅恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"825889543"}
+    },
+    {
+      "NamespaceHash": "3038FC874F4D09CFD2F3FD8F19B98123",
+      "Source": "Players Only",
+      "Trans": {"SC":"<#RN#>仅玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1373824443"}
+    },
+    {
+      "NamespaceHash": "E68721714659C9086ED9D796FA623887",
+      "Source": "Everything",
+      "Trans": {"SC":"<#RN#>所有目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2498633836"}
+    },
+    {
+      "NamespaceHash": "EA7D1ADD4C07B80BBD819BB6834EF22E",
+      "Source": "Configure Settings",
+      "Trans": {"SC":"配置设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2541883398"}
+    },
+    {
+      "NamespaceHash": "CCE184E9437C3A4AC3352289D02A26CF",
+      "Source": "Drop",
+      "Trans": {"SC":"释放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3161586888"}
+    },
+    {
+      "NamespaceHash": "A2F2DEA241A66F70516D9BBF051E2F74",
+      "Source": "Exit Hypnosis",
+      "Trans": {"SC":"解除催眠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2159240433"}
+    },
+    {
+      "NamespaceHash": "4BB585F043B052CC9322B0B2CAAFAF23",
+      "Source": "Hypnotise",
+      "Trans": {"SC":"催眠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1342461952"}
+    },
+    {
+      "NamespaceHash": "57082A904BAA43EB05E7D8A659A35DE1",
+      "Source": "MoroNada's Discord",
+      "Trans": {"SC":"Moro-Discord频道","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"545726276"}
+    },
+    {
+      "NamespaceHash": "D1F857B5441DF5351A50678D88623264",
+      "Source": "Moros Gigantophis Admin Menu",
+      "Trans": {"SC":"Moro巨蟒模组管理员菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3253062752"}
+    },
+    {
+      "NamespaceHash": "7E56B20E43F28C30A99FA4A74A418042",
+      "Source": "MoroNada's YouTube",
+      "Trans": {"SC":"Moro-YouTube平台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"734138069"}
+    },
+    {
+      "NamespaceHash": "0940B2DD4B668A2579F9A8A8A8D61782",
+      "Source": "MoroNada's Twitter",
+      "Trans": {"SC":"Moro-推特","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4094192436"}
+    },
+    {
+      "NamespaceHash": "3E179F5C4DF1B7134D00AFBFA4B29D9C",
+      "Source": "MoroNada's Artstation",
+      "Trans": {"SC":"Moro-作品网","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3781232131"}
+    },
+    {
+      "NamespaceHash": "ABF03C884E5BD9E7D55D1C90B3580728",
+      "Source": "Pattern & Colors",
+      "Trans": {"SC":"图案&颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3464726919"}
+    },
+    {
+      "NamespaceHash": "FB5489294AC4E073DA8A6592DE8E5A4C",
+      "Source": "Socials / Mod Info",
+      "Trans": {"SC":"社交活动 / 模组信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3322479258"}
+    },
+    {
+      "NamespaceHash": "9BF33DE8475539EF9A45A98E15972C25",
+      "Source": "Spawn Gigantophis",
+      "Trans": {"SC":"生成巨蟒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"888606090"}
+    },
+    {
+      "NamespaceHash": "6671F9D84E95D2A63EC0D3B9FD80DA9C",
+      "Source": "Spawn Items",
+      "Trans": {"SC":"生成物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2805398202"}
+    },
+    {
+      "NamespaceHash": "13C14C6F4223AFB3F15157839431A077",
+      "Source": "SpawnDinos",
+      "Trans": {"SC":"生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4147162385"}
+    },
+    {
+      "NamespaceHash": "B6CFE50A46C035CB17C3BBB04BAC1EC5",
+      "Source": "Gun Stance",
+      "Trans": {"SC":"持枪姿态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1203314140"}
+    },
+    {
+      "NamespaceHash": "482D790148AEA5F67FD4CA83608EBBC1",
+      "Source": "Hypnosis",
+      "Trans": {"SC":"催眠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3290955"}
+    },
+    {
+      "NamespaceHash": "76EB4154460FF9FFE998D3A8BC85BBD8",
+      "Source": "Print Log",
+      "Trans": {"SC":"打印日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"871925509"}
+    },
+    {
+      "NamespaceHash": "FA8CF1D74E29AA32782B798D044C68BD",
+      "Source": "Gigantophis Info Google Doc",
+      "Trans": {"SC":"巨蟒信息-谷歌文档","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3838812586"}
+    },
+    {
+      "NamespaceHash": "616B3F2043CD958FAB5A5C9E1914572C",
+      "Source": "Donate - CashApp",
+      "Trans": {"SC":"捐赠-CashApp","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1999813184"}
+    },
+    {
+      "NamespaceHash": "C389FF334C1B6C2255A77CA2B4EA7BE9",
+      "Source": "Donate - Patreon",
+      "Trans": {"SC":"捐赠-Patreon","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2466884922"}
+    },
+    {
+      "NamespaceHash": "CFD8B57A47EB2E67CACD29BB7BF3D481",
+      "Source": "Donate - Paypal",
+      "Trans": {"SC":"捐赠-Paypal","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3421789463"}
+    },
+    {
+      "NamespaceHash": "C48E0A3C47BC01DBBE0F13A01F762780",
+      "Source": "Mod Socials / Information",
+      "Trans": {"SC":"模组社交活动/信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2552655684"}
+    },
+    {
+      "NamespaceHash": "0F2D41144EEAAB49B3C5209A6DA9B6EB",
+      "Source": "Toggle Turn In Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"112219838"}
+    },
+    {
+      "NamespaceHash": "D2AFCC4441BB7A6041FE87943F7B5A44",
+      "Source": "Spawn",
+      "Trans": {"SC":"生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1690261171"}
+    },
+    {
+      "NamespaceHash": "398732884018C9B9D3E0E5B193F7F41C",
+      "Source": "Patterns",
+      "Trans": {"SC":"图案","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1401503440"}
+    },
+    {
+      "NamespaceHash": "416309994CD7815F501390897A7BB11C",
+      "Source": "Shed Skin",
+      "Trans": {"SC":"蜕皮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"728618117"}
+    },
+    {
+      "NamespaceHash": "BA41608247B136FC34BA739FE1968BDF",
+      "Source": "Make Blueprint",
+      "Trans": {"SC":"制作蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"457844221"}
+    },
+    {
+      "NamespaceHash": "CA137C4F41AFBB29D84D5DB3637D09D4",
+      "Source": "Tail-Slam",
+      "Trans": {"SC":"重击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3221208393"}
+    },
+    {
+      "NamespaceHash": "AB8C8F65482FED4A8FF2F69A351AA682",
+      "Source": "Heavy Strike",
+      "Trans": {"SC":"重击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2241926666"}
+    },
+    {
+      "NamespaceHash": "BDAC00DB469D18658973998ECAC95E3C",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "14E3E9754CC0437DB410AF97C73BBF31",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "489770FA4C7820384C04F0A336D99EC2",
+      "Source": "Coiled Stance",
+      "Trans": {"SC":"盘绕形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3711076091"}
+    },
+    {
+      "NamespaceHash": "DC0B347A4F58AEEF32F366BE03632B44",
+      "Source": "Light Strike",
+      "Trans": {"SC":"轻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1072361449"}
+    },
+    {
+      "NamespaceHash": "77AC48CB44AEC39AB77BA48491B70DD1",
+      "Source": "Grab",
+      "Trans": {"SC":"抓起","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+    },
+    {
+      "NamespaceHash": "78B1C64045CBE1366C30CC908216C106",
+      "Source": "Tail-Slam",
+      "Trans": {"SC":"重击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3221208393"}
+    },
+    {
+      "NamespaceHash": "36E0AC494B5AAEA9665F20BE3AA4E54C",
+      "Source": "Guns",
+      "Trans": {"SC":"枪械","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1061031621"}
+    },
+    {
+      "NamespaceHash": "Globals::3290736409",
+      "Source": "If you press Accept you will be logged out of the current game session to open the Mod Browser.",
+      "Trans": {"SC":"如果您点击 “接受”，将退出当前游戏会话，以打开模组页面。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1259974523",
+      "Source": "MorosGigantophis",
+      "Trans": {"SC":"巨蟒","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::946461279",
+      "Source": "Increased Hyperthermic & Hypothermic Insulation",
+      "Trans": {"SC":"提高抗高温与抗低温绝缘性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2054496559",
+      "Source": "Taming Giantophis",
+      "Trans": {"SC":"驯服巨蟒","JA":"馴服巨蟒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::847328297",
+      "Source": "Play the corresponding notes depending on the shape the gigantophis makes",
+      "Trans": {"SC":"根据巨蟒画出的形状吹奏对应的便签","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4038789347",
+      "Source": "Moro's Gigantophis Admin Panel",
+      "Trans": {"SC":"Moro的巨蟒管理员面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::746165983",
+      "Source": "Gigantophis Chibi Customizer",
+      "Trans": {"SC":"袖珍巨蟒定制器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3831436343",
+      "Source": "Gigantophis's has digested a creature and now is getting all the nutrients from said meal. Increasing it's food bar",
+      "Trans": {"SC":"巨蟒已消化一只生物，现在正从这顿饭中获取所有营养。增加它的食物条","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2898183431",
+      "Source": "Wreathed in Fire",
+      "Trans": {"SC":"被火焰环绕","JA":"被火焰環繞"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1581075947",
+      "Source": "Fire Immunity and Increased Insulation ",
+      "Trans": {"SC":"火焰免疫与提高绝缘性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2947004831",
+      "Source": "Shedded Skin",
+      "Trans": {"SC":"脱落的皮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::488811209",
+      "Source": "Constriction Protection",
+      "Trans": {"SC":"抗缠绕保护","JA":"抗纏繞保護"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3472248508",
+      "Source": "Can't be constricted temporarily",
+      "Trans": {"SC":"暂时无法被缠绕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::226538997",
+      "Source": "Gigantophis GattlingGun",
+      "Trans": {"SC":"巨蟒加特林机枪","JA":"巨蟒加特林机槍"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3708124082",
+      "Source": "Toggle to Shoot!",
+      "Trans": {"SC":"切换以射击！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2335867382",
+      "Source": "Gigantophis PulseGun",
+      "Trans": {"SC":"巨蟒脉冲枪","JA":"巨蟒脉冲槍"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2812193691",
+      "Source": "Spit Out",
+      "Trans": {"SC":"吐出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3417874406",
+      "Source": "Grabbed by a Gigantophis!",
+      "Trans": {"SC":"被巨蟒缠住了！","JA":"被巨蟒纏住了！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2740473527",
+      "Source": "You have been grabbed by a Gigantophis! Either use a flute to charm it or punch it to break free!",
+      "Trans": {"SC":"你被巨蟒缠住了！要么用长笛迷惑它，要么攻击它以挣脱！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

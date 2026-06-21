@@ -1,0 +1,388 @@
+{
+  "GaiaSciFiSoldier": [
+    {
+      "NamespaceHash": "Content::2057587415",
+      "Source": "Wildguard Top (Camo)",
+      "Trans": {"SC":"荒野守卫上衣（迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1629447839",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece with a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Military Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">带斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">军用迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1035871860",
+      "Source": "Wildguard Helmet (Floral Camo)",
+      "Trans": {"SC":"荒野守卫头盔（花卉迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::79625285",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Helmet</><#RN#><RichColor Color=\"1, 1, 1, 1\">Floral Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫头盔</><#RN#><RichColor Color=\"1, 1, 1, 1\">花卉迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1738739673",
+      "Source": "Wildguard Top (Splash Camo)",
+      "Trans": {"SC":"荒野守卫上衣（泼溅迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3230638017",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece with a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Splash Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">带斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">泼溅迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3922175555",
+      "Source": "Wildguard Helmet (Camo)",
+      "Trans": {"SC":"荒野守卫头盔（迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3451124756",
+      "Source": "Wildguard Top (Tiger Camo)",
+      "Trans": {"SC":"荒野守卫上衣（老虎迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2623782551",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece with a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Tiger Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">带斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">老虎迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4209126914",
+      "Source": "Wildguard Helmet (Splash Camo)",
+      "Trans": {"SC":"荒野守卫头盔（泼溅迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3195788745",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Helmet</><#RN#><RichColor Color=\"1, 1, 1, 1\">Splash Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫头盔</><#RN#><RichColor Color=\"1, 1, 1, 1\">泼溅迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1600207518",
+      "Source": "Wildguard Boots",
+      "Trans": {"SC":"荒野守卫靴子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4192926180",
+      "Source": "Wildguard Top (Floral NC)",
+      "Trans": {"SC":"荒野守卫上衣（花卉NC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::348460322",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece WITHOUT a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Floral Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">花卉迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3822664841",
+      "Source": "Wildguard Helmet (Tiger Camo)",
+      "Trans": {"SC":"荒野守卫头盔（老虎迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1058408588",
+      "Source": "Wildguard Boots (Floral)",
+      "Trans": {"SC":"荒野守卫靴子（花卉）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2383048728",
+      "Source": "Wildguard Bunny Helmet",
+      "Trans": {"SC":"荒野守卫兔子头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3693737741",
+      "Source": "Wildguard Top (Camo NC)",
+      "Trans": {"SC":"荒野守卫上衣（迷彩NC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3835444285",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece WITHOUT a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Military Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">军用迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1731932430",
+      "Source": "Wildguard Boots (Military Camo)",
+      "Trans": {"SC":"荒野守卫靴子（军用迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3312659161",
+      "Source": "Wildguard Top (NC)",
+      "Trans": {"SC":"荒野守卫上衣（NC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::865337846",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece WITHOUT a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Dyable</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">可染色</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1187812133",
+      "Source": "Wildguard Boots (Puzzle Camo)",
+      "Trans": {"SC":"荒野守卫靴子（拼图迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::261562189",
+      "Source": "Wildguard Fox Helmet",
+      "Trans": {"SC":"荒野守卫狐狸头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1579150096",
+      "Source": "Wildguard Boots (Tiger Camo)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3116899314",
+      "Source": "Wildguard Top (NS)",
+      "Trans": {"SC":"荒野守卫上衣（NS）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2234740531",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece WITHOUT a cape and shoulderpads</><#RN#><RichColor Color=\"1, 1, 1, 1\">Dyable</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无斗篷及肩甲的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">可染色</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3529653530",
+      "Source": "Wildguard Hood",
+      "Trans": {"SC":"荒野守卫兜帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::248590174",
+      "Source": "Wildguard Top (Puzzle NC)",
+      "Trans": {"SC":"荒野守卫上衣（拼图NC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4243536437",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece WITHOUT a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Puzzle Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">拼图迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::446213747",
+      "Source": "Wildguard Gauntlets",
+      "Trans": {"SC":"荒野守卫护手","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4145852216",
+      "Source": "Wildguard Top (Tiger NC)",
+      "Trans": {"SC":"荒野守卫上衣（老虎NC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3570907592",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece WITHOUT a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Tiger Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">无斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">老虎迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2837528802",
+      "Source": "Wildguard Gauntlets (Floral Camo)",
+      "Trans": {"SC":"荒野守卫护手（花卉迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2909068558",
+      "Source": "Wildguard Knife",
+      "Trans": {"SC":"荒野守卫匕首","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::865328015",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Knife</><#RN#><RichColor Color=\"1, 1, 1, 1\">Inspect by pressing reload (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫匕首</><#RN#><RichColor Color=\"1, 1, 1, 1\">按换弹键检视（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3461242355",
+      "Source": "Wildguard Pants",
+      "Trans": {"SC":"荒野守卫长裤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3568277259",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Pants</><#RN#><RichColor Color=\"1, 1, 1, 1\">Dyable</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫长裤</><#RN#><RichColor Color=\"1, 1, 1, 1\">可染色</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3055640267",
+      "Source": "Fabricated Wildguard Pistol",
+      "Trans": {"SC":"精制荒野守卫手枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::944797493",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Pistol</><#RN#><RichColor Color=\"1, 1, 1, 1\">(Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫手枪</><#RN#><RichColor Color=\"1, 1, 1, 1\">（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2732674014",
+      "Source": "Wildguard Gauntlets (Camo)",
+      "Trans": {"SC":"荒野守卫护手（迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2844728539",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Helmet</><#RN#><RichColor Color=\"1, 1, 1, 1\">Military Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫头盔</><#RN#><RichColor Color=\"1, 1, 1, 1\">军用迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1414249529",
+      "Source": "Wildguard Pants (Floral Camo)",
+      "Trans": {"SC":"荒野守卫长裤（花卉迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3782629606",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Pants</><#RN#><RichColor Color=\"1, 1, 1, 1\">Floral Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫长裤</><#RN#><RichColor Color=\"1, 1, 1, 1\">花卉迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2997733329",
+      "Source": "Wildguard Gauntlets (Puzzle Camo)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969176402",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Helmet</><#RN#><RichColor Color=\"1, 1, 1, 1\">Puzzle Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3292992109",
+      "Source": "Wildguard Assault Rifle",
+      "Trans": {"SC":"荒野守卫护手（拼图迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3438330443",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Rifle</><#RN#><RichColor Color=\"1, 1, 1, 1\">(Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫步枪</><#RN#><RichColor Color=\"1, 1, 1, 1\">（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1425952335",
+      "Source": "Wildguard Pants (Military Camo)",
+      "Trans": {"SC":"荒野守卫长裤（军用迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::589750207",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Pants</><#RN#><RichColor Color=\"1, 1, 1, 1\">Military Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫长裤</><#RN#><RichColor Color=\"1, 1, 1, 1\">军用迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1146449293",
+      "Source": "Wildguard Sword",
+      "Trans": {"SC":"荒野守卫剑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1974541589",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Sword</><#RN#><RichColor Color=\"1, 1, 1, 1\">(Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫剑</><#RN#><RichColor Color=\"1, 1, 1, 1\">（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::745230486",
+      "Source": "Wildguard Gauntlets (Tiger Camo)",
+      "Trans": {"SC":"荒野守卫护手（老虎迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3296457369",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Helmet</><#RN#><RichColor Color=\"1, 1, 1, 1\">Tiger Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫头盔</><#RN#><RichColor Color=\"1, 1, 1, 1\">老虎迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2467804239",
+      "Source": "Wildguard Pants (Splash Camo)",
+      "Trans": {"SC":"荒野守卫长裤（泼溅迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1538488682",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Pants</><#RN#><RichColor Color=\"1, 1, 1, 1\">Splash Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫长裤</><#RN#><RichColor Color=\"1, 1, 1, 1\">泼溅迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2701068207",
+      "Source": "Wildguard Top (Floral Camo)",
+      "Trans": {"SC":"荒野守卫上衣（花卉迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2051718733",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece with a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Floral Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">带斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">花卉迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1757807417",
+      "Source": "Wildguard Helmet",
+      "Trans": {"SC":"荒野守卫头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1812480102",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Helmet</><#RN#><RichColor Color=\"1, 1, 1, 1\">Dyable</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫头盔</><#RN#><RichColor Color=\"1, 1, 1, 1\">可染色</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2896486973",
+      "Source": "Wildguard Pants (Tiger Camo)",
+      "Trans": {"SC":"野守卫长裤（老虎迷彩）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::863454320",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Pants</><#RN#><RichColor Color=\"1, 1, 1, 1\">Tiger Camo (Dyable)</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">荒野守卫长裤</><#RN#><RichColor Color=\"1, 1, 1, 1\">老虎迷彩（可染色）</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4105427543",
+      "Source": "Wildguard Top",
+      "Trans": {"SC":"荒野守卫上衣","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1144004906",
+      "Source": "<RichColor Color=\"0, 0.8, 1, 1\">From sci-fi soldier</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">Wildguard Chest Piece with a cape</><#RN#><RichColor Color=\"1, 1, 1, 1\">Dyable</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">A Gaia Studios Mod</>",
+      "Trans": {"SC":"<RichColor Color=\"0, 0.8, 1, 1\">来自科幻士兵</><#RN#><#RN#><RichColor Color=\"0, 1, 0, 1\">带斗篷的荒野守卫胸甲</><#RN#><RichColor Color=\"1, 1, 1, 1\">可染色</><#RN#><#RN#><RichColor Color=\"1, 0, 1, 1\">盖亚工作室模组</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

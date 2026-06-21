@@ -1,0 +1,340 @@
+{
+  "Sanguivern": [//2026.3.8
+    {
+      "NamespaceHash": "Content::2015078520",
+      "Source": "Bloodstarved Sanguivern Flag",
+      "Trans": {"SC":"嗜血血灵龙蝠旗帜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::855354334",
+      "Source": "Arkology Sanguivern",
+      "Trans": {"SC":"方舟学血灵龙蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2872919398",
+      "Source": "Sanguivern Statue",
+      "Trans": {"SC":"血灵龙蝠雕像","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3331851990",
+      "Source": "Sanguivern",
+      "Trans": {"SC":"血灵龙蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2494889847",
+      "Source": "Bloodstarved Sanguivern",
+      "Trans": {"SC":"嗜血血灵龙蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1122330248",
+      "Source": "Beta Bloodstarved Sanguivern Trophy",
+      "Trans": {"SC":"中等嗜血血灵龙蝠战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2945433789",
+      "Source": "Gamma Bloodstarved Sanguivern Activation Device",
+      "Trans": {"SC":"简单嗜血血灵龙蝠激活装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3428289331",
+      "Source": "Gamma Bloodstarved Sanguivern Trophy",
+      "Trans": {"SC":"简单嗜血血灵龙蝠战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2324289823",
+      "Source": "Overseer's Bloodstarved Sanguivern Trophy",
+      "Trans": {"SC":"监察者嗜血血灵龙蝠战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2205670255",
+      "Source": "Perfected Sanguine Elixir",
+      "Trans": {"SC":"完美的血之灵药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::298605654",
+      "Source": "Tastes salty and metallic, yet still strangely fulfilling to hungry creatures...",
+      "Trans": {"SC":"尝起来咸咸的，带有金属味，但对饥饿的生物来说，却依然莫名地满足...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::996189419",
+      "Source": "Overseer's Bloodstarved Sanguivern Activation Device",
+      "Trans": {"SC":"监察者嗜血血灵龙蝠激活装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4258235052",
+      "Source": "Combine various Apex Drops to create this device to summon the Bloodstarved Sanguivern Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Bloodstarved Sanguivern. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"结合各种顶级掉落物来制造此装置，以召唤嗜血血灵龙蝠首领，迎接残酷挑战，并在击败它后获得丰厚奖励。<#RN#><#RN#>警告：此首领的难度预计是困难嗜血血灵龙蝠的两倍。切勿低估它。只有在完全准备好的情况下才进行召唤。<#RN#><#RN#>注意：制作成本会根据你是否安装了方舟学：新遭遇变体模组而改变。（此变化不会在印痕技能列表中显示）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1036889540",
+      "Source": "Purified Sanguine Elixir",
+      "Trans": {"SC":"净化的血之灵药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::215546446",
+      "Source": "Tastes salty and metallic, yet still strangely satisfying to hungry creatures...",
+      "Trans": {"SC":"尝起来咸咸的，带有金属味，但对饥饿的生物来说，却依然莫名地令人满足...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3346842241",
+      "Source": "Bloodstarved Sanguivern Costume",
+      "Trans": {"SC":"嗜血血灵龙蝠套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::401024458",
+      "Source": "This costume can be used to make your Sanguivern look like the Bloodstarved Sanguivern Boss",
+      "Trans": {"SC":"此服装可用于让你的血灵龙蝠看起来像嗜血血灵龙蝠首领","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::552052994",
+      "Source": "Sanguivern Head",
+      "Trans": {"SC":"血灵龙蝠头颅","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3182284072",
+      "Source": "Implant of the Bloodstarved Sanguivern",
+      "Trans": {"SC":"嗜血血灵龙蝠植入体","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1141392558",
+      "Source": "A mysterious implant found in the heart of the Bloodstarved Sanguivern. <#RN#><#RN#>It still hums of energy & sounds of a heart beat. I wonder if it still has a use...<#RN#><#RN#>-------!! ----- --------- -- ------------ ------ --- -------- ---- ---- vctaitea ---------- ----: --------------!!",
+      "Trans": {"SC":"在嗜血血灵龙蝠心脏中发现的神秘植入物。<#RN#><#RN#>它仍在嗡嗡作响，充满能量，并有心跳声。我想知道它是否还有用...<#RN#><#RN#>-------!! ----- --------- -- ------------ ------ --- -------- ---- ---- vctaitea ---------- ----: --------------!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2629589406",
+      "Source": "Chibi-Sanguivern",
+      "Trans": {"SC":"袖珍-血灵龙蝠","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3955098067",
+      "Source": "Chibi-Beta Bloodstarved Sanguivern",
+      "Trans": {"SC":"袖珍-中等嗜血血灵龙蝠","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1318648592",
+      "Source": "Chibi-Alpha Bloodstarved Sanguivern",
+      "Trans": {"SC":"袖珍-困难嗜血血灵龙蝠","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3908304471",
+      "Source": "Chibi-Gamma Bloodstarved Sanguivern",
+      "Trans": {"SC":"袖珍-简单嗜血血灵龙蝠","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3885224948",
+      "Source": "Chibi-Overseer's Bloodstarved Sanguivern",
+      "Trans": {"SC":"袖珍-监察者嗜血血灵龙蝠","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1386264178",
+      "Source": "Sanguivern Gothic Hat",
+      "Trans": {"SC":"血灵龙蝠哥特帽","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1100139957",
+      "Source": "Smaller version of hat on Sanguivern Gothic Saddle. Put it on a hat as a skin!!",
+      "Trans": {"SC":"血灵龙蝠哥特鞍上帽子的缩小版。将其作为皮肤戴在帽子上！！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1584896910",
+      "Source": "This flag is proof that you have defeated the Bloodstarved Sanguivern.",
+      "Trans": {"SC":"这面旗帜证明你已击败嗜血血灵龙蝠。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3425075617",
+      "Source": "This statue is proof that you have defeated the Overseer's Bloodstarved Sanguivern.",
+      "Trans": {"SC":"这座雕像证明你已击败监察者嗜血血灵龙蝠。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::809651003",
+      "Source": "Alpha Bloodstarved Sanguivern Trophy",
+      "Trans": {"SC":"困难嗜血血灵龙蝠战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1975788726",
+      "Source": "Sanguivern Saddle",
+      "Trans": {"SC":"血灵龙蝠鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2690771308",
+      "Source": "Equip a Sanguivern with this to ride it.",
+      "Trans": {"SC":"装备到血灵龙蝠上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1121009506",
+      "Source": "Sanguivern Gothic Saddle",
+      "Trans": {"SC":"血灵龙蝠哥特鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1523184774",
+      "Source": "Equip a Sanguivern with this saddle to ride it. Gives your Sanguivern a more Gothic look with a saddle covered in details inspired by hunters from Bloodborne.<#RN#><#RN#>This saddle can only be obtained by defeating Alpha Sanguivern Boss.<#RN#><#RN#>A Blueprint of this saddle can only be obtained by defeating the Overseer's Sanguivern Boss.",
+      "Trans": {"SC":"为血灵龙蝠装备此鞍以骑乘它。赋予你的血灵龙蝠更哥特的外观，鞍具上布满了受《血源诅咒》中猎人启发的细节。<#RN#><#RN#>此鞍只能通过击败困难血灵龙蝠首领获得。<#RN#><#RN#>此鞍的蓝图只能通过击败监察者血灵龙蝠首领获得。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4257494375",
+      "Source": "Sanguivern Blood",
+      "Trans": {"SC":"血灵龙蝠血液","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3739054962",
+      "Source": "Blood harvested from Sanguivern. Can consume to restore health similar to Bloodpacks albeit alot weaker. Mix with Sanguine Elixer to make more potent Elixers",
+      "Trans": {"SC":"从血灵龙蝠身上采集的血液。可以饮用以恢复生命值，类似于血袋，但效果弱得多。与血之灵药混合可制成更有效的灵药","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2242480199",
+      "Source": "Sanguivern Cocktail",
+      "Trans": {"SC":"血灵龙蝠鸡尾酒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1368185220",
+      "Source": "A unique mixture of different forms of Blood & other satisfying ingredients. Feed to a tamed creature then have a Sanguivern kill it to gain taming affinity.",
+      "Trans": {"SC":"由不同形式的血液和其他令人满足的成分混合而成的独特混合物。喂给已驯服的生物，然后让一只血灵龙蝠杀死它，以获得驯养亲密度。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2714675343",
+      "Source": "Sanguivern Egg",
+      "Trans": {"SC":"血灵龙蝠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::348286132",
+      "Source": "Fertilized Sanguivern Egg",
+      "Trans": {"SC":"受精的血灵龙蝠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::422055019",
+      "Source": "Fertilized Arkology Sanguivern Egg",
+      "Trans": {"SC":"受精的方舟学血灵龙蝠蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::903309179",
+      "Source": "Alpha Bloodstarved Sanguivern Activation Device",
+      "Trans": {"SC":"困难嗜血血灵龙蝠激活装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3476053753",
+      "Source": "Combine various Apex Drops to create this device to summon the Bloodstarved Sanguivern Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be very difficult. Do not underestimate it. Only Summon if absolutely prepared.<#RN#><#RN#>Note: Crafting costs will change if you have the Arkology: New Encounters Variant Mod installed or not. (Change does not show in engram list)",
+      "Trans": {"SC":"结合各种顶级掉落物来制造此装置，以召唤嗜血血灵龙蝠首领，迎接残酷挑战，并在击败它后获得丰厚奖励。<#RN#><#RN#>警告：此首领难度极高。切勿低估它。只有在完全准备好的情况下才进行召唤。<#RN#><#RN#>注意：制作成本会根据你是否安装了方舟学：新遭遇变体模组而改变。（此变化不会在印痕技能列表中显示）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1876238890",
+      "Source": "Beta Bloodstarved Sanguivern Activation Device",
+      "Trans": {"SC":"中等嗜血血灵龙蝠激活装置","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3655858537",
+      "Source": "Vampiric Regeneration",
+      "Trans": {"SC":"嗜血再生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::540602201",
+      "Source": "Restore health equal to 20% of damage dealt using Primary Attack",
+      "Trans": {"SC":"使用主要攻击时，恢复造成伤害20%的生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3035556636",
+      "Source": "Bat's Might",
+      "Trans": {"SC":"蝙蝠之力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4147948442",
+      "Source": "When in presense of Sanguivern, Onyc gain 50% increase to damage resistance & a 100% increase to damage output & movement speed",
+      "Trans": {"SC":"当血灵龙蝠在场时，爪蝠获得50%伤害抗性提升、100%伤害输出与移动速度提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3803114458",
+      "Source": "Enhances blood for taming Sanguivern",
+      "Trans": {"SC":"增强血液以驯服血灵龙蝠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4248150382",
+      "Source": "BloodHeal",
+      "Trans": {"SC":"血液治疗","JA":"血液治療"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::231900690",
+      "Source": "Bloodstarved Sanguivern is Healing",
+      "Trans": {"SC":"嗜血血灵龙蝠正在治疗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1060915564",
+      "Source": "Alpha Bloodstarved Sanguivern Activation Device (NON LC)",
+      "Trans": {"SC":"困难嗜血血灵龙蝠激活装置（非LC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2608278267",
+      "Source": "Beta Bloodstarved Sanguivern Activation Device (NON LC)",
+      "Trans": {"SC":"中等嗜血血灵龙蝠激活装置（非LC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3221466294",
+      "Source": "Gamma Bloodstarved Sanguivern Activation Device (NON LC)",
+      "Trans": {"SC":"简单嗜血血灵龙蝠激活装置（非LC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2045154550",
+      "Source": "Overseer's Bloodstarved Sanguivern Activation Device (NON LC)",
+      "Trans": {"SC":"监察者嗜血血灵龙蝠激活装置（非LC）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2654663014",
+      "Source": "Combine various Apex Drops to create this device to summon the Bloodstarved Sanguivern Boss for a brutal challenge & huge rewards upon it's defeat.<#RN#><#RN#>WARNING: This Boss is meant to be twice as hard as Alpha Bloodstarved Sanguivern. Do not underestimate it. Only Summon if absolutely prepared.",
+      "Trans": {"SC":"结合各类顶级掉落物制作该装置，用以召唤嗜血血灵龙蝠首领，直面残酷挑战，击败它即可获取丰厚奖励。<#RN#><#RN#>警告：该首领的难度为困难嗜血血灵龙蝠的两倍，切勿轻视。请在做好万全准备后再进行召唤。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "Skins_ModernPlaster": [
+    {
+      "NamespaceHash": "Content::671730917",
+      "Source": "Accent Wall",
+      "Trans": {"SC":"装饰墙面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1235168367",
+      "Source": "Alabaster Citadel",
+      "Trans": {"SC":"雪花石膏城堡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::565054121",
+      "Source": "Floral Arches",
+      "Trans": {"SC":"花卉拱门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::926228705",
+      "Source": "Decorative Glass",
+      "Trans": {"SC":"装饰玻璃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3208660807",
+      "Source": "Gothic Elegance",
+      "Trans": {"SC":"哥特式雅致","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2606764290",
+      "Source": "Gothic Revival",
+      "Trans": {"SC":"哥特复兴风格","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2707740602",
+      "Source": "Lumawalls",
+      "Trans": {"SC":"发光墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3421298726",
+      "Source": "Modern Plaster",
+      "Trans": {"SC":"现代石膏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::98627297",
+      "Source": "Modern Stonework",
+      "Trans": {"SC":"现代石砌工艺","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1392139421",
+      "Source": "Moorish Archways",
+      "Trans": {"SC":"摩尔式拱门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1338422174",
+      "Source": "Mosaic",
+      "Trans": {"SC":"马赛克","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2009471463",
+      "Source": "Nocturne Framework",
+      "Trans": {"SC":"夜曲框架","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4084739479",
+      "Source": "Plaster Column Heads",
+      "Trans": {"SC":"石膏柱顶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3597480657",
+      "Source": "Plaster Pillars",
+      "Trans": {"SC":"石膏立柱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::199385462",
+      "Source": "Regal Lattice",
+      "Trans": {"SC":"华丽格架","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1975696254",
+      "Source": "Signs, Awnings and wall decor",
+      "Trans": {"SC":"标识、遮阳篷与墙面装饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2769950652",
+      "Source": "Gothic Stone Structures",
+      "Trans": {"SC":"哥特式石结构","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3778505940",
+      "Source": "Wall Decor",
+      "Trans": {"SC":"墙面装饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4232285984",
+      "Source": "Accent walls and ceiling",
+      "Trans": {"SC":"装饰墙面与天花板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3796402266",
+      "Source": "Roman Style",
+      "Trans": {"SC":"罗马风格","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::480737270",
+      "Source": "Victorian Style",
+      "Trans": {"SC":"维多利亚风格","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2631376971",
+      "Source": "Flora Moderna Doors (Normal)",
+      "Trans": {"SC":"弗洛拉摩登门（普通）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::482812112",
+      "Source": "Plaster Pillar",
+      "Trans": {"SC":"石膏立柱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1735537921",
+      "Source": "Signs, Awnings and outdoor Furniture",
+      "Trans": {"SC":"标识、遮阳篷与户外家具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1931172743",
+      "Source": "Modern Matte White",
+      "Trans": {"SC":"现代哑光白","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1872183518",
+      "Source": "Flora Decor",
+      "Trans": {"SC":"植物装饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2568886512",
+      "Source": "Waterfall Decor",
+      "Trans": {"SC":"瀑布装饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3956329087",
+      "Source": "You can use this to skin the appearance of <RichColor Color=\"0.8,0.5,0,1\"> Walls and ceilings as accent pieces </>. <RichColor Color=\"0.2,0.8,0.2,1\"></>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">  </>.<#RN#><#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用这个来为<RichColor Color=\"0.8,0.5,0,1\"> 墙面和天花板作为装饰件 </>改变外观。<RichColor Color=\"0.2,0.8,0.2,1\"></>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">  </>.<#RN#><#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到带有皮肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住 Y、E 或三角键</>。前往<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1283366911",
+      "Source": "You can use this to skin the appearance of many structures in a Modern-style.<#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用这个来将许多结构改为现代风格外观。<#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到带有皮肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住 Y、E 或三角键</>。前往<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2179822408",
+      "Source": "You can use this to skin the appearance of many structures in a Haunted-style.<#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用这个来将许多结构改为闹鬼风格外观。<#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到带有皮肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住 Y、E 或三角键</>。前往<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::708984508",
+      "Source": "You can use this to skin the appearance of pillars Modern-style.<#RN#>Skin quarter walls to place pillar head decoration on walls.<#RN#><#RN#>Gives different pillars and Beams variant skins<#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用这个来将立柱改为现代风格外观。<#RN#>为四分之一墙添加皮肤，可在墙上放置柱顶装饰。<#RN#><#RN#>提供不同的立柱和横梁变体皮肤<#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到带有皮肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住 Y、E 或三角键</>。前往<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::902007097",
+      "Source": "You can use this to skin the appearance of <#RN#><#RN#>Pillars Thin and normal<#RN#>Flat Beams<#RN#>Flat thin Pillar<#RN#>Wall Signs<#RN#>Decor box Small<#RN#>Chair <#RN#>Bench<#RN#>Table (Bar Area)<#RN#><#RN#>. <RichColor Color=\"0.2,0.8,0.2,1\"> Adds different hanging wall decor </>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\"> Can also be placed on decor boxes to place flower decor all over your exteriors </>.<#RN#><#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle </>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用这个来为<#RN#><#RN#>细立柱与普通立柱<#RN#>平梁<#RN#>细平立柱<#RN#>墙面标识<#RN#>小型装饰盒<#RN#>椅子<#RN#>长凳<#RN#>桌子（吧台区域）<#RN#><#RN#>改变外观。<RichColor Color=\"0.2,0.8,0.2,1\"> 添加不同的壁挂装饰 </>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\"> 也可放置在装饰盒上，让花卉装饰遍布你的户外区域 </>.<#RN#><#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到带有皮肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住 Y、E 或三角键 </>。前往<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::493968000",
+      "Source": "You can use this to skin the appearance of<#RN#><#RN#>Flat Beams/Pillars<#RN#>Ceiling Pieces<#RN#>Wall Pieces<#RN#>Railings<#RN#>Rugs to create paths<#RN#><#RN#><RichColor Color=\"0.2,0.8,0.2,1\">Adds different hanging wall decor</>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">Can also be placed on decor boxes to place  decor all over your  exteriors</>.<#RN#><#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用这个来为<#RN#><#RN#>平梁/立柱<#RN#>天花板部件<#RN#>墙面部件<#RN#>栏杆<#RN#>用于铺成路径的地毯<#RN#><#RN#><RichColor Color=\"0.2,0.8,0.2,1\">添加不同的壁挂装饰</>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\">也可放置在装饰盒上，让装饰遍布你的户外区域</>.<#RN#><#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到带有皮肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住 Y、E 或三角键</>。前往<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1558974896",
+      "Source": "You can use this to skin the appearance of <#RN#><#RN#>Flat Beams/Pillars <#RN#>Wall and Ceilings add a water effect as well <#RN#><#RN#><RichColor Color=\"0.2,0.8,0.2,1\"> Adds differentwater decor </>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\"> Can also be placed on decor boxes to place water decor all over your exteriors </>.<#RN#><#RN#><#RN#>Most of the items in this skin mod have <RichColor Color=\"1,1,1,1\">variants and scaling systems</>. To access this system, simply walk up to the skinned item and <RichColor Color=\"0,0.8,0.8,1\">Hold Y, E, or Triangle</>. Head over to the <RichColor Color=\"0.8,0.2,0.2,1\">\"Cog\" icon</> to find the variants and skin system.",
+      "Trans": {"SC":"你可以用这个来为<#RN#><#RN#>平梁/立柱<#RN#>墙面和天花板还添加了水效<#RN#><#RN#><RichColor Color=\"0.2,0.8,0.2,1\"> 添加不同的水饰 </>.<#RN#><RichColor Color=\"0.6,0.3,0.1,1\"> 也可放置在装饰盒上，让水饰遍布你的户外区域 </>.<#RN#><#RN#><#RN#>这个皮肤模组中的大多数物品都有<RichColor Color=\"1,1,1,1\">变体和缩放系统</>。要使用该系统，只需走到带有皮肤的物品旁，<RichColor Color=\"0,0.8,0.8,1\">按住 Y、E 或三角键</>。前往<RichColor Color=\"0.8,0.2,0.2,1\">\"齿轮\"图标</>即可找到变体和皮肤系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

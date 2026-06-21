@@ -1,0 +1,64 @@
+{
+  "BC": [//补充
+    {
+      "NamespaceHash": "Content::2070176345",
+      "Source": "Winter",
+      "Trans": {"SC":"冬季仙境","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3513977454",
+      "Source": "Love Evolved",
+      "Trans": {"SC":"爱之升华","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::821440836",
+      "Source": "Dear Jane",
+      "Trans": {"SC":"亲爱的简","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4150501563",
+      "Source": "You'rebleeding! You're losing 5% Stamina per second!",
+      "Trans": {"SC":"你在流血！你每秒正在失去 5% 的耐力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2582317399",
+      "Source": "Summer",
+      "Trans": {"SC":"夏日","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::996470275",
+      "Source": "Eggcellent Adventure",
+      "Trans": {"SC":"精彩蛋冒险","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1477927427",
+      "Source": "Anniversary",
+      "Trans": {"SC":"周年庆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::4046092849",
+      "Source": "Use",
+      "Trans": {"SC":"使用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4084438060",
+      "Source": "Cuffed: Reload Respawns",
+      "Trans": {"SC":"拷住:重生后解除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3927336232",
+      "Source": "Plant Proto Species R",
+      "Trans": { "SC": "原始R异种植物", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    }
+  ]
+}

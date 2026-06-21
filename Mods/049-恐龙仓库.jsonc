@@ -1,0 +1,2135 @@
+{
+  "恐龙仓库": [//2025.11.29未汉化完成
+    {
+      "NamespaceHash": "Content::484265418",
+      "Source": "Dino Digitizer",
+      "Trans": {"SC":"恐龙数字转换枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::184769522",
+      "Source": "Capture hit targets like you would with a Dinoball. Uses crystal or Dinoballs as ammo",
+      "Trans": {"SC":"像使用恐龙球一样捕捉被击中的目标。以水晶或恐龙球为弹药","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1844184736",
+      "Source": "Dino Digitizer (Prototype)",
+      "Trans": {"SC":"恐龙原型数字转换枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1480366823",
+      "Source": "Dinoball",
+      "Trans": {"SC":"恐龙球","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::993539293",
+      "Source": "An empty Dinoball. Throw at an allied creature to capture it.<#RN#><#RN#><RichColor Color=\"0,1,1,1\">Hold reload while equipped to access Quick Swap and Player Preferences.</>",
+      "Trans": {"SC":"一个空的恐龙球。向友方生物投掷以捕捉它<#RN#><#RN#><RichColor Color=\"0,1,1,1\">装备状态下按住重新装填(R)键，可进入快速切换和玩家偏好设置。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::813474776",
+      "Source": "Dinoball Stack",
+      "Trans": {"SC":"堆叠的恐龙球","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2774037853",
+      "Source": "A stack of dinoballs.",
+      "Trans": {"SC":"一叠恐龙球。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3661784334",
+      "Source": "Dinoball Display",
+      "Trans": {"SC":"小型恐龙球展示盒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1568343360",
+      "Source": "A small display case for Dinoballs",
+      "Trans": {"SC":"一个小型的恐龙球展示盒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2517888657",
+      "Source": "Depot Gene Storage",
+      "Trans": {"SC":"基因仓库储存器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3729768872",
+      "Source": "Store gene traits in this high capacity storage.",
+      "Trans": {"SC":"在这个大容量储存器中储存基因特性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1980673173",
+      "Source": "Dinoball Storage",
+      "Trans": {"SC":"恐龙球储存器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::678115575",
+      "Source": "Stores Dinoballs containing dinos.",
+      "Trans": {"SC":"储存装有恐龙的恐龙球。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2360669891",
+      "Source": "Depot Terminal",
+      "Trans": {"SC":"仓库终端","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4148060061",
+      "Source": "Store Dinoballs and more!",
+      "Trans": {"SC":"储存恐龙球及更多物品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4237238453",
+      "Source": "Empty Dinoball",
+      "Trans": {"SC":"空的恐龙球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2660643606",
+      "Source": "Deposit a Dinoball to display the contained creature!",
+      "Trans": {"SC":"放入一颗恐龙球，即可展示其中容纳的生物！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::304266311",
+      "Source": "Dinoball Storage Box",
+      "Trans": {"SC":"恐龙球存储盒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3266506680",
+      "Source": "Store your Dinoballs.",
+      "Trans": {"SC":"存放你的恐龙球。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1845917172",
+      "Source": "Depot terminal. Captures babies born nearby while active.",
+      "Trans": {"SC":"仓库终端。激活状态下可捕捉附近出生的幼崽。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1822335098",
+      "Source": "Requires Dinoballs or crystal for capture.",
+      "Trans": {"SC":"捕捉需要恐龙球或晶体。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2784323280",
+      "Source": "An Oviraptor must be placed in the terminal for egg pickup.",
+      "Trans": {"SC":"终端内必须放置一只窃蛋龙才能拾取蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4196226844",
+      "Source": "Mating will be auto-disabled when the terminal is full.",
+      "Trans": {"SC":"当终端存满时，交配功能将自动关闭。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::385985618",
+      "Source": "Capture hit targets like you would with a Dinoball.<#RN#><#RN#>Uses crystal or Dinoballs as ammo.<#RN#><#RN#><RichColor Color=\"0,1,1,1\">Hold reload while equipped to access Quick Swap and Player Preferences.</>",
+      "Trans": {"SC":"像使用恐龙球一样捕捉被击中的目标。<#RN#><#RN#>以水晶或恐龙球为弹药。<#RN#><#RN#><RichColor Color=\"0,1,1,1\">装备状态下按住重新装填键，可进入快速切换和玩家偏好设置。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "F7BA8AB14509E6BA1593918D86276DEB",
+      "Source": "RECOVER SELECTED",
+      "Trans": {"SC":"恢复所选内容","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"878208448"}
+    },
+    {
+      "NamespaceHash": "1E36AD714AD87A0ABC28DA898C40D0E1",
+      "Source": "SEARCH BUILDER",
+      "Trans": {"SC":"搜索构建器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2647812316"}
+    },
+    {
+      "NamespaceHash": "4346869243C507311D219D9900BFF226",
+      "Source": "Admin Dino Recovery",
+      "Trans": {"SC":"管理员恐龙恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3995651348"}
+    },
+    {
+      "NamespaceHash": "A6C62C37467ED5AF3FAC73AE99073A3D",
+      "Source": "DINOS",
+      "Trans": {"SC":"恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2006072325"}
+    },
+    {
+      "NamespaceHash": "E8301CD14DC7942A610B488C00F57C7E",
+      "Source": "CLEAR SELECTION",
+      "Trans": {"SC":"清除选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4225974605"}
+    },
+    {
+      "NamespaceHash": "706B34BD4D6C90CE4E5ED180348D8A63",
+      "Source": "DELETE SELECTED",
+      "Trans": {"SC":"删除所选内容","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4155223643"}
+    },
+    {
+      "NamespaceHash": "F8B3B18C474A189022405E9BAF1C5A0D",
+      "Source": "DONE",
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3302924665"}
+    },
+    {
+      "NamespaceHash": "F871BA474D6039450A96D68FBAA98D78",
+      "Source": "Ascending",
+      "Trans": {"SC":"升序","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"861974066"}
+    },
+    {
+      "NamespaceHash": "9DA582F3439953CDD3C1E6B5F95489E7",
+      "Source": "Descending",
+      "Trans": {"SC":"降序","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"610728861"}
+    },
+    {
+      "NamespaceHash": "9EE64CFE40C15E6B423BA1BE664352FD",
+      "Source": "Dino Depot Mod Configuration",
+      "Trans": {"SC":"恐龙仓库模组配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3516576096"}
+    },
+    {
+      "NamespaceHash": "9564FA6E4615D89327935A95D7C12455",
+      "Source": "RESET TO DEFAULT",
+      "Trans": {"SC":"重置为默认值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1307841104"}
+    },
+    {
+      "NamespaceHash": "D6C896CD4D238C370F4639ADF4DA2B8A",
+      "Source": "SAVE AND CLOSE",
+      "Trans": {"SC":"保存并关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1140044709"}
+    },
+    {
+      "NamespaceHash": "72DAC4664FD39B431534C89F192E0A26",
+      "Source": "General",
+      "Trans": {"SC":"通用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"151724115"}
+    },
+    {
+      "NamespaceHash": "6AC5616E4EA253901E219789BF61AED8",
+      "Source": "Capture & Release",
+      "Trans": {"SC":"捕捉与释放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1224301084"}
+    },
+    {
+      "NamespaceHash": "E1B516714528251689833A9702805CEE",
+      "Source": "Passive Production",
+      "Trans": {"SC":"被动产出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2446106762"}
+    },
+    {
+      "NamespaceHash": "44F0A1FA426017FBF2C10FBD3C6D9C21",
+      "Source": "Aging",
+      "Trans": {"SC":"成长","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1301896837"}
+    },
+    {
+      "NamespaceHash": "8C01AE5640116216EC981C9EB991EBCD",
+      "Source": "Dino Data",
+      "Trans": {"SC":"恐龙数据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2886791269"}
+    },
+    {
+      "NamespaceHash": "B600CDF24C92962216D8D4A725D99277",
+      "Source": "Status Recovery Behaviour",
+      "Trans": {"SC":"状态恢复行为","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1104835589"}
+    },
+    {
+      "NamespaceHash": "C7BF1F134321BBAE527E19B9DABA4F8C",
+      "Source": "Resource Use",
+      "Trans": {"SC":"资源使用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3255019371"}
+    },
+    {
+      "NamespaceHash": "9EED039B4C99B34730FE32B5DB187F29",
+      "Source": "Conversion1",
+      "Trans": {"SC":"转换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2764543034"}
+    },
+    {
+      "NamespaceHash": "9E2DE9734ADFBFCBB24AEC8062492B41",
+      "Source": "Buffs",
+      "Trans": {"SC":"增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4257041598"}
+    },
+    {
+      "NamespaceHash": "220EA1FA413ADE82E5F501A85B61CDDB",
+      "Source": "Inventories",
+      "Trans": {"SC":"物品栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3738627021"}
+    },
+    {
+      "NamespaceHash": "32BD90C84854DE1F02AB10A0923A960E",
+      "Source": "Notifications",
+      "Trans": {"SC":"通知","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"343715950"}
+    },
+    {
+      "NamespaceHash": "2249B72A48A2225E5F2D2981A6703B90",
+      "Source": "Imprinting and Mating",
+      "Trans": {"SC":"印痕与交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3406145130"}
+    },
+    {
+      "NamespaceHash": "2DE147AD4CA36B2ED117A7B1748D0803",
+      "Source": "Admin Recovery",
+      "Trans": {"SC":"管理员恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"405966574"}
+    },
+    {
+      "NamespaceHash": "E97C88E3470788FB056BC1BDDA64B03B",
+      "Source": "Commands",
+      "Trans": {"SC":"命令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4144377447"}
+    },
+    {
+      "NamespaceHash": "9C964D984EE3450EC211ED9A773DA99D",
+      "Source": "Admin Overrides",
+      "Trans": {"SC":"管理员覆盖设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4065970098"}
+    },
+    {
+      "NamespaceHash": "Content::3638848060",
+      "Source": "Babies age in Dinoballs",
+      "Trans": {"SC":"恐龙球中的幼崽会成长","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2128917562",
+      "Source": "Baby aging cap",
+      "Trans": {"SC":"幼崽成长上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3715763499",
+      "Source": "Baby growth multiplier in Dinoballs",
+      "Trans": {"SC":"恐龙球中幼崽成长倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1691486274",
+      "Source": "Dinos gain exp in Dinoballs",
+      "Trans": {"SC":"恐龙在恐龙球中获得经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::278523984",
+      "Source": "Exp gain multiplier",
+      "Trans": {"SC":"经验获取倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2717559478",
+      "Source": "Dinoballs persist behaviours",
+      "Trans": {"SC":"恐龙球保留行为状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::774227353",
+      "Source": "Dinoballs persist cuddle type",
+      "Trans": {"SC":"恐龙球保留依偎类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4284731215",
+      "Source": "Oasisaur revive timer continues in ball",
+      "Trans": {"SC":"绿洲龙复活计时器在球内继续计时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3694948798",
+      "Source": "Gigantoraptor feather timer continues in ball",
+      "Trans": {"SC":"巨盗龙羽毛计时器在球内继续计时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1660775008",
+      "Source": "Charge regenerates in Dinoballs",
+      "Trans": {"SC":"电荷在恐龙球内再生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1857013417",
+      "Source": "Charge regen multiplier",
+      "Trans": {"SC":"电荷再生倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2688428540",
+      "Source": "Regenerate",
+      "Trans": {"SC":"再生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2358834254",
+      "Source": "Don't Regenerate",
+      "Trans": {"SC":"不再生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1850200165",
+      "Source": "Always Max",
+      "Trans": {"SC":"始终保持最大值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3757835684",
+      "Source": "Health recovery multiplier",
+      "Trans": {"SC":"生命值恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1447576572",
+      "Source": "Stamina recovery multiplier",
+      "Trans": {"SC":"耐力恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3786613944",
+      "Source": "Oxygen recovery multiplier",
+      "Trans": {"SC":"氧气恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1986997925",
+      "Source": "Food recovery multiplier",
+      "Trans": {"SC":"食物恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1393506547",
+      "Source": "Torpidity recovery multiplier",
+      "Trans": {"SC":"眩晕值恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::926731589",
+      "Source": "Normal",
+      "Trans": {"SC":"正常","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2903719457",
+      "Source": "Resourceless Auto-Capture",
+      "Trans": {"SC":"无资源可自动捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::62960357",
+      "Source": "Resourceless Digitizer",
+      "Trans": {"SC":"无资源可数字化枪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::704953374",
+      "Source": "Resourceless",
+      "Trans": {"SC":"无资源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2616623697",
+      "Source": "Resource consumption rules",
+      "Trans": {"SC":"资源消耗规则","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1301913283",
+      "Source": "Spawned/Recovered Dinoballs are temporary",
+      "Trans": {"SC":"生成 / 恢复的恐龙球为临时物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3586453637",
+      "Source": "Use class mapping",
+      "Trans": {"SC":"使用类别映射","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::392025619",
+      "Source": "Override class mapping url",
+      "Trans": {"SC":"覆盖类别映射链接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::737031034",
+      "Source": "Cryopods auto-convert to Dinoballs",
+      "Trans": {"SC":"低温舱自动转换为恐龙球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3017641352",
+      "Source": "Dinoballs persist buffs",
+      "Trans": {"SC":"恐龙球保留增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1885034482",
+      "Source": "Respect non-persistent buffs",
+      "Trans": {"SC":"遵循非持久性增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1389959068",
+      "Source": "Inventory handling",
+      "Trans": {"SC":"物品栏处理方式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3769884670",
+      "Source": "Transfer, Respect Weight",
+      "Trans": {"SC":"转移，受重量限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::907805236",
+      "Source": "Transfer, Ignore Weight",
+      "Trans": {"SC":"转移，忽略重量限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3566181671",
+      "Source": "Drop as cache",
+      "Trans": {"SC":"作为缓存掉落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::655169248",
+      "Source": "Allow crystal as Dinoball substitute",
+      "Trans": {"SC":"允许用水晶替代恐龙球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1330755376",
+      "Source": "Notify dino name on Dinoball equip",
+      "Trans": {"SC":"装备恐龙球时通知恐龙名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4087447859",
+      "Source": "Mating cooldown mode",
+      "Trans": {"SC":"交配冷却模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3861076658",
+      "Source": "Keep cooldowns",
+      "Trans": {"SC":"保留冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3578394288",
+      "Source": "No cooldowns",
+      "Trans": {"SC":"无冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3878380696",
+      "Source": "Regenerate existing cooldowns",
+      "Trans": {"SC":"重新生成现有冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1526647576",
+      "Source": "Always cooldown, keep existing",
+      "Trans": {"SC":"始终冷却，保留现有时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1079743616",
+      "Source": "Always generate new cooldown",
+      "Trans": {"SC":"始终生成新的冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1817633218",
+      "Source": "Mating cooldowns count down in Dinoballs",
+      "Trans": {"SC":"交配冷却时间在恐龙球内倒计时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3549934852",
+      "Source": "Babies imprint in Dinoballs",
+      "Trans": {"SC":"恐龙球中的幼崽可进行印痕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2920220684",
+      "Source": "Imprint assignment mode",
+      "Trans": {"SC":"印痕分配模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2587556354",
+      "Source": "Only for newborns",
+      "Trans": {"SC":"仅适用于新生幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3796180154",
+      "Source": "Give on release",
+      "Trans": {"SC":"释放时赋予","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::163002421",
+      "Source": "Imprint cap",
+      "Trans": {"SC":"印痕上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1738722781",
+      "Source": "Extra egg steal dinos",
+      "Trans": {"SC":"额外偷蛋恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::93051877",
+      "Source": "Extra egg steal dino classes. Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"额外偷蛋恐龙类别。在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3836299847",
+      "Source": "Admin recovery max dinos",
+      "Trans": {"SC":"管理员恢复恐龙最大数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1497988175",
+      "Source": "Force cull recovery data interval",
+      "Trans": {"SC":"强制清除恢复数据间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::62522706",
+      "Source": "Cull recovery data after capture",
+      "Trans": {"SC":"捕捉后清除恢复数据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::103907824",
+      "Source": "Recovery data cull delay",
+      "Trans": {"SC":"恢复数据清除延迟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1298593078",
+      "Source": "Hide recovery menu",
+      "Trans": {"SC":"隐藏恢复菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2517822024",
+      "Source": "SpawnDinolnBall command config url",
+      "Trans": {"SC":"在球中生成恐龙命令配置链接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2148264762",
+      "Source": "Same-tribe capture checks",
+      "Trans": {"SC":"同部落捕捉检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1703936900",
+      "Source": "Wild dino capture checks",
+      "Trans": {"SC":"野生恐龙捕捉检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4241053916",
+      "Source": "Unclaimed dino capture checks",
+      "Trans": {"SC":"未认领恐龙捕捉检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3892983696",
+      "Source": "Capture sleeping checks",
+      "Trans": {"SC":"捕捉睡眠状态检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1766933221",
+      "Source": "Capture attachment checks",
+      "Trans": {"SC":"捕捉附着物检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2926440307",
+      "Source": "Capture in mission rulechecks",
+      "Trans": {"SC":"任务中捕捉规则检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3291753956",
+      "Source": "Nearby structure capture checks",
+      "Trans": {"SC":"附近建筑捕捉检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1935611800",
+      "Source": "Platform structure checks",
+      "Trans": {"SC":"平台建筑检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::616407432",
+      "Source": "Recently hurt capture check",
+      "Trans": {"SC":"近期受伤捕捉检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3106157650",
+      "Source": "Cave release checks",
+      "Trans": {"SC":"洞穴释放检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2454266884",
+      "Source": "Prevention volume release checks",
+      "Trans": {"SC":"禁区释放检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1172601413",
+      "Source": "Map download rule checks",
+      "Trans": {"SC":"地图下载规则检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2855476298",
+      "Source": "Tame cap checks",
+      "Trans": {"SC":"驯服上限检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1038363955",
+      "Source": "Release in mission rule checks",
+      "Trans": {"SC":"任务中释放规则检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1579729361",
+      "Source": "Nearby structure release checks",
+      "Trans": {"SC":"附近建筑释放检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2743454003",
+      "Source": "Manage Genes",
+      "Trans": {"SC":"管理基因","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DB4FD5DB44175083F20645AB603E2E0B",
+      "Source": "Capture",
+      "Trans": {"SC":"捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"739218936"}
+    },
+    {
+      "NamespaceHash": "Content::1618857580",
+      "Source": "Allow Liopleurodon capture",
+      "Trans": {"SC":"允许捕捉滑齿龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::716884959",
+      "Source": "Allow unclaimed dino capture",
+      "Trans": {"SC":"允许捕捉未认领的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::778755764",
+      "Source": "Allow vehicle capture",
+      "Trans": {"SC":"允许捕捉载具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::246875104",
+      "Source": "Allow mission dino capture",
+      "Trans": {"SC":"允许捕捉任务恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::594735124",
+      "Source": "Allow capture sleeping",
+      "Trans": {"SC":"允许捕捉睡眠状态（的生物）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::160919987",
+      "Source": "Platform capture mode",
+      "Trans": {"SC":"平台捕捉模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::550168364",
+      "Source": "Re quire confirmation",
+      "Trans": {"SC":"需要确认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3192102",
+      "Source": "Never capture",
+      "Trans": {"SC":"禁止捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1234734976",
+      "Source": "Always capture",
+      "Trans": {"SC":"始终允许捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1832505329",
+      "Source": "Gestating capture mode",
+      "Trans": {"SC":"妊娠状态捕捉模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1836547128",
+      "Source": "Confirm capture timeout",
+      "Trans": {"SC":"捕捉确认超时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::224128095",
+      "Source": "Abort refunds mating cooldown",
+      "Trans": {"SC":"中止操作退还交配冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3134088649",
+      "Source": "Hurt capture cooldown enabled",
+      "Trans": {"SC":"启用受伤捕捉冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::270522817",
+      "Source": "Min damage for hurt capture",
+      "Trans": {"SC":"受伤捕捉的最小伤害值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3771321870",
+      "Source": "Hurt capture cooldown",
+      "Trans": {"SC":"受伤捕捉冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3658571579",
+      "Source": "Buffs can prevent capture",
+      "Trans": {"SC":"增益效果可阻止捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4060750507",
+      "Source": "Capture nearby structure mode",
+      "Trans": {"SC":"附近建筑捕捉模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::831155630",
+      "Source": "Capture nearby structure range",
+      "Trans": {"SC":"附近建筑捕捉范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1601354547",
+      "Source": "Capture nearby structure amount",
+      "Trans": {"SC":"附近建筑捕捉数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3531760934",
+      "Source": "Capture nearby structure type",
+      "Trans": {"SC":"附近建筑捕捉类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3120375307",
+      "Source": "Ignore",
+      "Trans": {"SC":"忽略","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3440890795",
+      "Source": "Near tribe only",
+      "Trans": {"SC":"仅部落附近","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2741738897",
+      "Source": "Near allied only",
+      "Trans": {"SC":"仅盟友附近","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2972412466",
+      "Source": "Near any",
+      "Trans": {"SC":"任意附近","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2816246191",
+      "Source": "Block near ernemy",
+      "Trans": {"SC":"阻止靠近敌人（时捕捉）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4043818965",
+      "Source": "Block near enemy and ally",
+      "Trans": {"SC":"阻止靠近敌人和盟友（时捕捉）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3911244781",
+      "Source": "Capture blacklist",
+      "Trans": {"SC":"捕捉黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2523282757",
+      "Source": "Capture Blacklist.<#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"捕捉黑名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2398078044",
+      "Source": "Capture whitelist",
+      "Trans": {"SC":"捕捉白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1396411199",
+      "Source": "Capture Whitelist. <#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"捕捉白名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4208579115",
+      "Source": "Skip Titan downloading",
+      "Trans": {"SC":"跳过泰坦下载","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2870342428",
+      "Source": "Delay mating behaviour restore",
+      "Trans": {"SC":"延迟恢复交配行为","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1700231286",
+      "Source": "Allow release in prevention volumes",
+      "Trans": {"SC":"允许在限制区域释放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4262505641",
+      "Source": "Allow release in caves",
+      "Trans": {"SC":"允许在洞穴中释放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::842704823",
+      "Source": "Release ignores map download rules",
+      "Trans": {"SC":"释放忽略地图下载规则","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::838893432",
+      "Source": "Release ignores taming cap",
+      "Trans": {"SC":"释放忽略驯服上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1444607612",
+      "Source": "Release ignores mission rules",
+      "Trans": {"SC":"释放忽略任务规则","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1558598963",
+      "Source": "Release checks for structure overlap",
+      "Trans": {"SC":"释放时检查结构重叠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1333368858",
+      "Source": "Release checks for dino overlap",
+      "Trans": {"SC":"释放时检查恐龙重叠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2011031967",
+      "Source": "Overlap check scale",
+      "Trans": {"SC":"重叠检查范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4111196813",
+      "Source": "Release nearby structure mode",
+      "Trans": {"SC":"附近结构释放模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4203563497",
+      "Source": "Block near enemy",
+      "Trans": {"SC":"阻止靠近敌人（时操作）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2718150638",
+      "Source": "Release nearby structure range",
+      "Trans": {"SC":"释放附近建筑范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3574218972",
+      "Source": "Release nearby structure amount",
+      "Trans": {"SC":"释放附近建筑数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3582174464",
+      "Source": "Release nearby structure type",
+      "Trans": {"SC":"释放附近建筑类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::715915871",
+      "Source": "Release blacklist",
+      "Trans": {"SC":"释放黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::389619353",
+      "Source": "Release Blacklist.<#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"释放黑名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1298341358",
+      "Source": "Release whitelist",
+      "Trans": {"SC":"释放白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2173958803",
+      "Source": "Release Whitelist.<#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"释放白名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2752736547",
+      "Source": "Map download rule overrides",
+      "Trans": {"SC":"地图下载规则覆盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2913871718",
+      "Source": "Download overrides.<#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"下载覆盖。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "815A928D401656B3A49DCCB412EA9F4C",
+      "Source": "Logging",
+      "Trans": {"SC":"日志记录","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"33237989"}
+    },
+    {
+      "NamespaceHash": "Content::3115642988",
+      "Source": "Log captures in tribe logs",
+      "Trans": {"SC":"在部落日志中记录捕捉操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4268475742",
+      "Source": "Log releases in tribe logs",
+      "Trans": {"SC":"在部落日志中记录释放操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "ECDFFB6B42BCAF6F8B49C397DF2E43A1",
+      "Source": "Death Auto Capture",
+      "Trans": {"SC":"死亡自动捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3504907523"}
+    },
+    {
+      "NamespaceHash": "Content::3888991227",
+      "Source": "Allow death auto capture",
+      "Trans": {"SC":"允许死亡自动捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::401454616",
+      "Source": "Terminal must be powered for DAC",
+      "Trans": {"SC":"死亡自动捕捉（DAC）需要终端供电","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1323752640",
+      "Source": "DAC requires empty Dinoball",
+      "Trans": {"SC":"死亡自动捕捉（DAC）需要空的恐龙球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::663083071",
+      "Source": "DAC mode",
+      "Trans": {"SC":"死亡自动捕捉（DAC）模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1031878016",
+      "Source": "Closest tribe member",
+      "Trans": {"SC":"最近的部落成员","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1777385907",
+      "Source": "Closest terminal",
+      "Trans": {"SC":"最近的终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2523395251",
+      "Source": "Either, prefer tribe member",
+      "Trans": {"SC":"两者均可，优先部落成员","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4193363348",
+      "Source": "Either, prefer terminal",
+      "Trans": {"SC":"两者均可，优先终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4049162116",
+      "Source": "DAC range",
+      "Trans": {"SC":"死亡自动捕捉（DAC）范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4202997739",
+      "Source": "Trigger for starvation",
+      "Trans": {"SC":"饥饿触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3640977185",
+      "Source": "Trigger for drowning",
+      "Trans": {"SC":"溺水触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::476769500",
+      "Source": "Trigger for fire damage",
+      "Trans": {"SC":"火焰伤害触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2144335988",
+      "Source": "Trigger for spike walls",
+      "Trans": {"SC":"尖刺墙触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::262081808",
+      "Source": "Trigger for radiation",
+      "Trans": {"SC":"辐射触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::356448442",
+      "Source": "Trigger for poison",
+      "Trans": {"SC":"中毒触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1839487701",
+      "Source": "Trigger for gravity",
+      "Trans": {"SC":"重力触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::624804986",
+      "Source": "Trigger for dino attacks",
+      "Trans": {"SC":"恐龙攻击触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::86993283",
+      "Source": "Trigger for player attacks",
+      "Trans": {"SC":"玩家攻击触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2243705318",
+      "Source": "Trigger for anything not listed",
+      "Trans": {"SC":"任何未列出情况的触发（机制）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "76F86ED449C7B5B9339FD39039AE48E0",
+      "Source": "Buffs",
+      "Trans": {"SC":"增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4257041598"}
+    },
+    {
+      "NamespaceHash": "Content::609975908",
+      "Source": "Post-release buffs mode",
+      "Trans": {"SC":"释放后增益效果模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3893058428",
+      "Source": "Always give both",
+      "Trans": {"SC":"始终给予双方","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::15680757",
+      "Source": "Give dino if player has",
+      "Trans": {"SC":"若玩家拥有（某效果）则给予恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::859339950",
+      "Source": "Give player if dino has",
+      "Trans": {"SC":"若恐龙拥有（某效果）则给予玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4140358516",
+      "Source": "Post-release dino buffs",
+      "Trans": {"SC":"释放后恐龙增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::751787635",
+      "Source": "Post-release dino buffs. <#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"释放后恐龙增益效果。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1241920731",
+      "Source": "Post-release player buffs",
+      "Trans": {"SC":"释放后玩家增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2347021523",
+      "Source": "Post-release player buffs. <#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"释放后玩家增益效果 <#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1390929925",
+      "Source": "Buff whitelist",
+      "Trans": {"SC":"增益效果白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1947139873",
+      "Source": "Buffs Whitelist.<#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"增益效果白名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::891877300",
+      "Source": "Buff blacklist",
+      "Trans": {"SC":"增益效果黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3802405675",
+      "Source": "Buffs Blacklist.<#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"增益效果黑名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3306855087",
+      "Source": "Vault physics",
+      "Trans": {"SC":"地窖物理效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::909539402",
+      "Source": "Slot count",
+      "Trans": {"SC":"插槽数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3541370675",
+      "Source": "Max health",
+      "Trans": {"SC":"最大生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::377713486",
+      "Source": "Structure decay rate multiplier",
+      "Trans": {"SC":"建筑摧毁速率乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::221424128",
+      "Source": "Max nearby amount",
+      "Trans": {"SC":"最大附近数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4164043325",
+      "Source": "Max nearby range",
+      "Trans": {"SC":"最大附近范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "427B75194228FADE8FFACA8A85AC2137",
+      "Source": "Depot Terminal",
+      "Trans": {"SC":"仓库终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2360669891"}
+    },
+    {
+      "NamespaceHash": "Content::3576264233",
+      "Source": "Requires power",
+      "Trans": {"SC":"需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::891957921",
+      "Source": "Can be damaged",
+      "Trans": {"SC":"可被损坏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3047306385",
+      "Source": "Allow tribute structure mode",
+      "Trans": {"SC":"允许贡品结构模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1049731990",
+      "Source": "Incoming damage multiplier",
+      "Trans": {"SC":"受到伤害乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::6516999",
+      "Source": "Auto-disable mating when full",
+      "Trans": {"SC":"满员时自动禁用交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2458799823",
+      "Source": "Only allow Dinoballs",
+      "Trans": {"SC":"仅允许恐龙球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4241195389",
+      "Source": "Insulation effects enabled",
+      "Trans": {"SC":"隔热效果启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3708779532",
+      "Source": "Insulation range",
+      "Trans": {"SC":"隔热范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "D937B41542B85DE7501A4E982D175439",
+      "Source": "Passive Production",
+      "Trans": {"SC":"被动生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2446106762"}
+    },
+    {
+      "NamespaceHash": "Content::3947772462",
+      "Source": "Passive production enabled",
+      "Trans": {"SC":"被动生产启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3370742654",
+      "Source": "Passive production requires power",
+      "Trans": {"SC":"被动生产需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2450020173",
+      "Source": "Babies count towards passive production",
+      "Trans": {"SC":"幼崽计入被动生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::201478761",
+      "Source": "Variants count towards passive production",
+      "Trans": {"SC":"变体计入被动生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1909883746",
+      "Source": "Passive production interval",
+      "Trans": {"SC":"被动生产间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2884684862",
+      "Source": "Creature production interval multiplier",
+      "Trans": {"SC":"生物生产间隔乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2472551539",
+      "Source": "Passive production url",
+      "Trans": {"SC":"被动生产链接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "C831ED484D885E28EC1484821723960B",
+      "Source": "Spoiler Time Multipliers",
+      "Trans": {"SC":"腐败时间乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"79965320"}
+    },
+    {
+      "NamespaceHash": "Content::1671482239",
+      "Source": "Spoil multipliers require power",
+      "Trans": {"SC":"腐败乘数需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::288012681",
+      "Source": "All items spoil time multiplier",
+      "Trans": {"SC":"所有物品腐败时间乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3848257899",
+      "Source": "Consumable items spoil time multiplier",
+      "Trans": {"SC":"消耗品腐败时间乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2808003554",
+      "Source": "Egg spoil time multiplier",
+      "Trans": {"SC":"蛋腐败时间乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "9E5F7B23495FBDEBBCAB2A8A26A2E2C2",
+      "Source": "Poop Generation",
+      "Trans": {"SC":"粪便生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1721274924"}
+    },
+    {
+      "NamespaceHash": "Content::645290681",
+      "Source": "Poop generation enabled",
+      "Trans": {"SC":"粪便生成启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::127862719",
+      "Source": "Poop generation requires power",
+      "Trans": {"SC":"粪便生成需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2341476961",
+      "Source": "Babies generate poop",
+      "Trans": {"SC":"幼崽生成粪便","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3957101481",
+      "Source": "Poop generation interval",
+      "Trans": {"SC":"粪便生成间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2088834339",
+      "Source": "Poop generation chance",
+      "Trans": {"SC":"粪便生成概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1465191948",
+      "Source": "Poop generation limit",
+      "Trans": {"SC":"粪便生成限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1618536284",
+      "Source": "Require power",
+      "Trans": {"SC":"需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1277025324",
+      "Source": "Gene alteration obeys species checks",
+      "Trans": {"SC":"基因改造遵循物种检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::840849548",
+      "Source": "Gene alteration obeys age checks",
+      "Trans": {"SC":"基因改造遵循年龄检查","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::593097307",
+      "Source": "Max stored genes",
+      "Trans": {"SC":"最大存储基因数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2384635821",
+      "Source": "Decay multiplier",
+      "Trans": {"SC":"衰减乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "AC4D400547FE4B98B41DC19017814F6E",
+      "Source": "Newborn Auto-Capture",
+      "Trans": {"SC":"新生儿自动捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1072271640"}
+    },
+    {
+      "NamespaceHash": "Content::4095320385",
+      "Source": "Newborn auto-capture enabled",
+      "Trans": {"SC":"新生儿自动捕捉启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3077751084",
+      "Source": "Check for newborns on structure activate",
+      "Trans": {"SC":"结构激活时检查新生儿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::651885161",
+      "Source": "捕捉新生儿的物品栏物品",
+      "Trans": {"SC":"捕捉新生儿 inventory 物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::717877065",
+      "Source": "Newborn auto-capture max range",
+      "Trans": {"SC":"新生儿自动捕捉最大范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1391032805",
+      "Source": "Newborn auto-capture batch size",
+      "Trans": {"SC":"新生儿自动捕捉批量大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::342758995",
+      "Source": "Range display auto-timeout enabled",
+      "Trans": {"SC":"范围显示自动超时启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4036268980",
+      "Source": "Range display auto-timeout",
+      "Trans": {"SC":"范围显示自动超时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2661097810",
+      "Source": "Terminal newborn auto-capture whitelist",
+      "Trans": {"SC":"终端新生儿自动捕捉白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1355022150",
+      "Source": "Terminal auto-capture whitelist. <#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"终端自动捕捉白名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4182916835",
+      "Source": "Terminal newborn auto-capture blacklist",
+      "Trans": {"SC":"终端新生儿自动捕捉黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3692102988",
+      "Source": "Terminal auto-capture blacklist. <#RN#><#RN#>Input BP paths here. Separate paths with a ,",
+      "Trans": {"SC":"终端自动捕捉黑名单。<#RN#><#RN#> 在此输入蓝图路径，用逗号分隔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "62F2CD52464412BEF763DEBA5918ADB0",
+      "Source": "Fertilizer Distribution",
+      "Trans": {"SC":"肥料分配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2571037870"}
+    },
+    {
+      "NamespaceHash": "Content::2767407176",
+      "Source": "Fertilizer distribution enabled",
+      "Trans": {"SC":"肥料分配启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3173462885",
+      "Source": "Fertilizer distribution requires power",
+      "Trans": {"SC":"肥料分配需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2414222199",
+      "Source": "Fertilizer distribution interval",
+      "Trans": {"SC":"肥料分配间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::929312390",
+      "Source": "Fertilizer distribution range",
+      "Trans": {"SC":"肥料分配范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "4C135213438A28CDB1D9ABAB2B5C2848",
+      "Source": "Fertilized Egg Pickup",
+      "Trans": {"SC":"受精蛋拾取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"461854751"}
+    },
+    {
+      "NamespaceHash": "Content::4136506310",
+      "Source": "Fertilized egg pickup enabled",
+      "Trans": {"SC":"受精蛋拾取启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3903499167",
+      "Source": "Fertilized egg pickup requires power",
+      "Trans": {"SC":"受精蛋拾取需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1362481647",
+      "Source": "Fertilized egg pickup requires Oviraptor",
+      "Trans": {"SC":"受精蛋拾取需要窃蛋龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2502612441",
+      "Source": "Fertilized egg pickup per check cap",
+      "Trans": {"SC":"每次检查的受精蛋拾取上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4252838989",
+      "Source": "Fertilized egg pickup interval",
+      "Trans": {"SC":"受精蛋拾取间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3186856443",
+      "Source": "Also pickup unfertilized",
+      "Trans": {"SC":"也拾取未受精的（蛋）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "67D480F947F74E4F699AEAA5A5591B41",
+      "Source": "Unfertilized Egg Production",
+      "Trans": {"SC":"未受精蛋生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"534497554"}
+    },
+    {
+      "NamespaceHash": "Content::1636975648",
+      "Source": "Unfertilized egg production enabled",
+      "Trans": {"SC":"未受精蛋生产启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2896724760",
+      "Source": "Unfertilized egg production requires power",
+      "Trans": {"SC":"未受精蛋生产需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1685630497",
+      "Source": "Babies count towards unfertilized egg production",
+      "Trans": {"SC":"幼崽计入未受精蛋生产","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::760647007",
+      "Source": "Unfertilized egg production requires a male",
+      "Trans": {"SC":"未受精蛋生产需要雄性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::178811512",
+      "Source": "Hesper can produce gold eggs",
+      "Trans": {"SC":"黄昏鸟可生产金蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::365038389",
+      "Source": "Gold egg chance",
+      "Trans": {"SC":"金蛋概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1480753679",
+      "Source": "Unfertilized egg lay chance",
+      "Trans": {"SC":"未受精蛋产卵概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4018557222",
+      "Source": "Unfertilized egg production interval",
+      "Trans": {"SC":"未受精蛋生产间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3148179260",
+      "Source": "Unfertilized egg amount multiplier",
+      "Trans": {"SC":"未受精蛋数量乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2397332558",
+      "Source": "Oviraptor extra egg amount multiplier",
+      "Trans": {"SC":"窃蛋龙额外蛋数量乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "5D1B33034C7BE86101FE66B5A5BE3FDB",
+      "Source": "Incubation",
+      "Trans": {"SC":"孵化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"740877953"}
+    },
+    {
+      "NamespaceHash": "Content::3987475316",
+      "Source": "Incubation enabled",
+      "Trans": {"SC":"孵化启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1531390430",
+      "Source": "Incubation requires power",
+      "Trans": {"SC":"孵化需要电力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::252470059",
+      "Source": "Incubation update interval",
+      "Trans": {"SC":"孵化更新间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2855253981",
+      "Source": "Incubation rate multiplier",
+      "Trans": {"SC":"孵化速率乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1523587881",
+      "Source": "Incubation progress floor",
+      "Trans": {"SC":"孵化进度下限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "E39071154F0DDEFE6C70F6BF24D69EF3",
+      "Source": "Killing",
+      "Trans": {"SC":"击杀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3714464291"}
+    },
+    {
+      "NamespaceHash": "Content::126596765",
+      "Source": "Kill all/selected enabled",
+      "Trans": {"SC":"允许击杀全部 / 已选择（生物）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1951335148",
+      "Source": "Kill all/selected gives exp",
+      "Trans": {"SC":"击杀全部 / 已选择（生物）给予经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::733172105",
+      "Source": "Kill all/selected exp is tribe shared",
+      "Trans": {"SC":"击杀全部 / 已选择（生物）的经验在部落内共享","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1711649621",
+      "Source": "Kill all/selected exp multiplier",
+      "Trans": {"SC":"击杀全部 / 已选择（生物）的经验乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "473386FA4E23AFD32B0917A407845CFB",
+      "Source": "Dinoballs",
+      "Trans": {"SC":"恐龙球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4120982768"}
+    },
+    {
+      "NamespaceHash": "Content::1171717747",
+      "Source": "Prevent transfer/upload",
+      "Trans": {"SC":"阻止转移 / 上传","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4027282910",
+      "Source": "Fire while riding",
+      "Trans": {"SC":"骑乘时发射","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2277495214",
+      "Source": "Fire while submerged",
+      "Trans": {"SC":"水下时发射","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1209411667",
+      "Source": "Fire while running",
+      "Trans": {"SC":"奔跑时发射","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4099384155",
+      "Source": "Use dynamic weight",
+      "Trans": {"SC":"使用动态重量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4261897482",
+      "Source": "Dynamic weight multiplier",
+      "Trans": {"SC":"动态重量乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1049156405",
+      "Source": "Base weight",
+      "Trans": {"SC":"基础重量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3331252039",
+      "Source": "Max stack size",
+      "Trans": {"SC":"最大状态生命值大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3309624940",
+      "Source": "Radial swap enabled",
+      "Trans": {"SC":"径向切换启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3823180031",
+      "Source": "Auto swap on capture",
+      "Trans": {"SC":"捕捉时自动切换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::671499697",
+      "Source": "Auto swap on release",
+      "Trans": {"SC":"释放时自动切换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4157353538",
+      "Source": "Auto-stack mode",
+      "Trans": {"SC":"自动堆叠模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2750903942",
+      "Source": "Always",
+      "Trans": {"SC":"始终（自动堆叠）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2294570543",
+      "Source": "If a stack exists",
+      "Trans": {"SC":"若存在堆叠（则自动堆叠）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1859898412",
+      "Source": "More than threshold",
+      "Trans": {"SC":"超过阈值（则自动堆叠）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4068983473",
+      "Source": "Never",
+      "Trans": {"SC":"从不（自动堆叠）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1438077857",
+      "Source": "Auto-stack threshold",
+      "Trans": {"SC":"自动堆叠阈值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2890573196",
+      "Source": "Projectile lifespan",
+      "Trans": {"SC":"投射物生命周期","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2061693343",
+      "Source": "Projectile submerged lifespan",
+      "Trans": {"SC":"水下投射物生命周期","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2268607770",
+      "Source": "Tooltip update interval",
+      "Trans": {"SC":"工具提示更新间隔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "3E07F03246B40764913FD382755671EE",
+      "Source": "Digitizer",
+      "Trans": {"SC":"数字化转换枪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"447147704"}
+    },
+    {
+      "NamespaceHash": "Content::2613669031",
+      "Source": "Player cache pickup mode",
+      "Trans": {"SC":"玩家缓存拾取模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2356201304",
+      "Source": "Cache pickup mode",
+      "Trans": {"SC":"缓存拾取模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3378075146",
+      "Source": "Can pick up wild dino caches",
+      "Trans": {"SC":"可拾取野生恐龙缓存","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1239862936",
+      "Source": "Hit range",
+      "Trans": {"SC":"命中范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2908420423",
+      "Source": "Re-fire delay",
+      "Trans": {"SC":"再次发射延迟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2231024460",
+      "Source": "Filterables url",
+      "Trans": {"SC":"可筛选内容链接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "8898802E4A54B5D0646DEE916EC779DB",
+      "Source": "Place an item in the terminal, or capture a dino for Dino Depot to learn about it!",
+      "Trans": {"SC":"在终端中放置一件物品，或捕捉一只恐龙，让恐龙仓库了解它！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2628409394"}
+    },
+    {
+      "NamespaceHash": "3CA512CD4025D3D197C57B98ECB98FB1",
+      "Source": "Productions",
+      "Trans": {"SC":"生产内容","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2630005523"}
+    },
+    {
+      "NamespaceHash": "DAFBBB9F45B5A5B10F4471997D6C4569",
+      "Source": "Alternates",
+      "Trans": {"SC":"替代方案","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"668399285"}
+    },
+    {
+      "NamespaceHash": "079F9E2940B18074FED147AB3C0C2003",
+      "Source": "Consumes",
+      "Trans": {"SC":"消耗品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3741632378"}
+    },
+    {
+      "NamespaceHash": "Content::617755120",
+      "Source": "Self",
+      "Trans": {"SC":"自己","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4292697625",
+      "Source": "Allied",
+      "Trans": {"SC":"盟友","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2743473614",
+      "Source": "Anyone",
+      "Trans": {"SC":"任何人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2445160993",
+      "Source": "Prevent",
+      "Trans": {"SC":"阻止","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2140216670",
+      "Source": "What should happen to a dino's health while balled?",
+      "Trans": {"SC":"恐龙被收进球中时，其生命值应如何处理？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::383039815",
+      "Source": "When should resources be consumed?",
+      "Trans": {"SC":"资源应在何时消耗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3996475512",
+      "Source": "How should target dino inventories be handled?",
+      "Trans": {"SC":"目标恐龙的物品栏应如何处理？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3830623478",
+      "Source": "When should imprinter status be granted?",
+      "Trans": {"SC":"印记者状态应在何时授予？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1948023288",
+      "Source": "How should target dino's with platform structures be handled?",
+      "Trans": {"SC":"带有平台结构的目标恐龙应如何处理？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3603287490",
+      "Source": "How should target dino's actively gestating be handled?",
+      "Trans": {"SC":"正在孕育后代的目标恐龙应如何处理？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3752935080",
+      "Source": "What rules should capturing near structures follow?",
+      "Trans": {"SC":"在建筑附近捕捉应遵循哪些规则？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2830782228",
+      "Source": "Where should DAC send captured dinos?",
+      "Trans": {"SC":"死亡自动捕捉（DAC）应将捕捉到的恐龙送往何处？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::780018486",
+      "Source": "How should buffs be granted after releasing a dino?",
+      "Trans": {"SC":"释放恐龙后应如何授予增益效果？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1817490561",
+      "Source": "When should Dinoballs be auto stacked?",
+      "Trans": {"SC":"恐龙球应在何时自动堆叠？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3815104212",
+      "Source": "What kinds of item caches can the digitizer grab?",
+      "Trans": {"SC":"数字化枪可以抓取哪些类型的物品缓存？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3466064672",
+      "Source": "Require confirmation",
+      "Trans": {"SC":"需要确认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3613949201",
+      "Source": "Depot Pad",
+      "Trans": {"SC":"仓库平台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3613675521",
+      "Source": "Depot Pad description not loaded.",
+      "Trans": {"SC":"仓库平台描述未加载","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+        {
+      "NamespaceHash": "Content::3163379702",
+      "Source": "Depot Terminal (Primitive)",
+      "Trans": {"SC":"仓库终端（原始版）","JA":"倉庫終端（原始版）"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3562951110",
+      "Source": "Depot Terminal (Repurposed Tek)",
+      "Trans": {"SC":"仓库终端（改造泰克版）","JA":"倉庫終端（改造泰克版）"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1185056783",
+      "Source": "Depot Terminal (Retro)",
+      "Trans": {"SC":"仓库终端（复古版）","JA":"倉庫終端（復古版）"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1785645568",
+      "Source": "Cryo Conversion Buff",
+      "Trans": {"SC":"冷冻转换增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3504907523",
+      "Source": "Death Auto Capture",
+      "Trans": {"SC":"死亡自动捕获","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1636380380",
+      "Source": "Mating Delay",
+      "Trans": {"SC":"交配延迟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3189115139",
+      "Source": "This creature is waiting to re-enable mating.",
+      "Trans": {"SC":"该生物正在等待重新进入可交配状态。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1000040302",
+      "Source": "Quick Swap",
+      "Trans": {"SC":"快速切换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+
+  ]
+}

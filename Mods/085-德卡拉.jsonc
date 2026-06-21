@@ -1,0 +1,246 @@
+{
+  "Isle of Myths: Skyshroud Drakara": [//2026.3.5
+    {
+      "NamespaceHash": "Content::762442446",
+      "Source": "Mudshieldfish",
+      "Trans": {"SC":"泥盾鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2468634848",
+      "Source": "Atokirina",
+      "Trans": {"SC":"伊鲁","JA":"伊魯"},
+      //阿凡达中文官方统一译作 伊鲁 
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2883934561",
+      "Source": "Myths Drakara",
+      "Trans": {"SC":"神话德卡拉","JA":"神話德卡拉"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::836366767",
+      "Source": "Alpha Drakara",
+      "Trans": {"SC":"精英德卡拉","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2406152956",
+      "Source": "Arctic Drakara",
+      "Trans": {"SC":"极地德卡拉","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1659392321",
+      "Source": "Bloodfang Drakara",
+      "Trans": {"SC":"血牙德卡拉","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2338543734",
+      "Source": "Dwarf Drakara",
+      "Trans": {"SC":"矮化德卡拉","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::1650669741",
+      "Source": "Drakara",
+      "Trans": {"SC":"德卡拉","JA":""},
+      //该模组为参考阿凡达电影中的飞行坐骑的原创生物，故按英文原名德拉卡拉或德卡拉都可以，这里简介一些所以翻译德卡拉
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2384839599",
+      "Source": "Aberrant Drakara",
+      "Trans": {"SC":"畸变德卡拉","JA":"畸變德卡拉"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4010524526",
+      "Source": "Fertilized Aberrant Drakara Egg",
+      "Trans": {"SC":"受精的畸变德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4148900988",
+      "Source": "Fertilized Arctic  Drakara Egg",
+      "Trans": {"SC":"受精的极地德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3513445275",
+      "Source": "Fertilized Bloodfang Drakara Egg",
+      "Trans": {"SC":"受精的血牙德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::963116154",
+      "Source": "Fertilized Dwarf Drakara Egg",
+      "Trans": {"SC":"受精的矮化德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1401753304",
+      "Source": "Fertilized Myths Drakara Egg",
+      "Trans": {"SC":"受精的神话德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::574160446",
+      "Source": "Fertilized Pigmy  Drakara Egg",
+      "Trans": {"SC":"受精的小型德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::784724461",
+      "Source": "Pigmy Drakara Egg",
+      "Trans": {"SC":"小型德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::845240283",
+      "Source": "Instinct Nullifier",
+      "Trans": {"SC":"野性抑制喷雾","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1611033124",
+      "Source": "This  makes Drakaras neutral, they won't attack you unless you attack them! Use this Spray to get close enough to tame them!",
+      "Trans": {"SC":"使用后可让德卡拉进入中立状态，除非你主动攻击，否则它们不会发起进攻！用这款喷雾靠近目标，即可进行驯服！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1540829246",
+      "Source": "Raw MudshieldFish Meat",
+      "Trans": {"SC":"泥盾鱼生肉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4246781945",
+      "Source": "Atokirina Meat",
+      "Trans": {"SC":"伊鲁肉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::938794697",
+      "Source": "Atokirina Meat! Use it to feed & tame a Drakara! I would suggest to not eat it!",
+      "Trans": {"SC":"伊鲁肉！可用于喂食并驯服德卡拉！不建议人类食用！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3626131699",
+      "Source": "Drakara Kibble",
+      "Trans": {"SC":"德卡拉饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3384193290",
+      "Source": "Use This to tame a Drakara! You can craft this in a cooking pot",
+      "Trans": {"SC":"用于驯服德卡拉！可在烹饪锅中制作。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4029606577",
+      "Source": "Drakara Egg",
+      "Trans": {"SC":"德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1828305358",
+      "Source": "Aberrant Drakara Egg",
+      "Trans": {"SC":"畸变德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::810469557",
+      "Source": "Artic Drakara Egg",
+      "Trans": {"SC":"极地德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3401047945",
+      "Source": "Bloodfang Drakara Egg",
+      "Trans": {"SC":"血牙德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1432573150",
+      "Source": "Dwarf Drakara Egg",
+      "Trans": {"SC":"矮化德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::561165707",
+      "Source": "Fertilized Drakara Egg",
+      "Trans": {"SC":"受精的德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {//
+      "NamespaceHash": "Content::639969572",
+      "Source": "Breaking Drakara",
+      "Trans": {"SC":"驯服德卡拉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2876589291",
+      "Source": "Pyro Drakara",
+      "Trans": {"SC":"烈焰德卡拉","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2301587998",
+      "Source": "Tropical Drakara",
+      "Trans": {"SC":"热带德卡拉","JA":"熱帶德卡拉"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1566965410",
+      "Source": "Drakara Armor",
+      "Trans": {"SC":"德卡拉护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1370749215",
+      "Source": "Equip a Drakara with this to give it armor!",
+      "Trans": {"SC":"给德卡拉装备此物，即可为其提供护甲！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::791770153",
+      "Source": "Bio Armor",
+      "Trans": {"SC":"生物护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1024299147",
+      "Source": "Drakara has natural armor.",
+      "Trans": {"SC":"德卡拉拥有天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3168864975",
+      "Source": "Use This to tame a Drakara! You can craft this in your inventory!",
+      "Trans": {"SC":"使用此物驯服德卡拉！你可在背包中制作该物品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2239397061",
+      "Source": "Fertilized Pyro Drakara Egg",
+      "Trans": {"SC":"受精的烈焰德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3395997545",
+      "Source": "Pyro Drakara Egg",
+      "Trans": {"SC":"烈焰德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2014957737",
+      "Source": "Fertilized Tropical Drakara Egg",
+      "Trans": {"SC":"受精的热带德卡拉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}
