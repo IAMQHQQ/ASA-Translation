@@ -12462,14 +12462,14 @@
       "Trans": {"SC":"蛋","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
+    //{
+    //  "NamespaceHash": "Content::3634939746",
+    //  "Source": "Egg Health",
+    //  "Trans": {"SC":"蛋的生命值","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
-      "NamespaceHash": "Content::3634939746",
-      "Source": "Egg Health",
-      "Trans": {"SC":"蛋的生命值","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2385309523",
+      "NamespaceHash": "GraphLiteral::2385309523",
       "Source": "Egg Health: 0.0%",
       "Trans": {"SC":"蛋的生命值: 0.0%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -50841,12 +50841,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Globals::Command5",
-      "Source": "Chat Mode",
-      "Trans": {"SC":"Chat Mode","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"976706570"}
-    },
-    {
       "NamespaceHash": "Globals::1603585760",
       "Source": "Chef: ",
       "Trans": {"SC":"厨师:","JA":""},
@@ -51902,11 +51896,17 @@
       "Trans": {"SC":"GHz]","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
+    //{
+    //  "NamespaceHash": "Globals::447346111",
+    //  "Source": "GROUP: ",
+    //  "Trans": {"SC":"小组: ","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
-      "NamespaceHash": "Globals::447346111",
-      "Source": "GROUP: ",
-      "Trans": {"SC":"小组: ","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "NamespaceHash": "Globals::447346111",  //#23
+      "Source": "GROUP ",
+      "Trans": { "SC": "小组 ", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "1521326713" }
     },
     {
       "NamespaceHash": "Globals::3852415973",
@@ -67246,12 +67246,12 @@
       "Trans": { "SC": "", "JA": "" },
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
-    {
-      "NamespaceHash": "Globals::2096473238",
-      "Source": "ALL MAPS",
-      "Trans": { "SC": "", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
-    },
+    //{
+    //  "NamespaceHash": "Globals::2096473238",
+    //  "Source": "ALL MAPS",
+    //  "Trans": { "SC": "", "JA": "" },
+    //  "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    //},
     {
       "NamespaceHash": "Content::667937672",
       "Source": "Left",

@@ -518,12 +518,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1941688548",
-      "Source": "Crouch",
-      "Trans": {"SC":"蹲伏","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1723202661",
       "Source": "Revenant Tyrannosaurus",
       "Trans": {"SC":"怨灵霸王龙","JA":""},

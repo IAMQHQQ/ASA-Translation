@@ -5923,12 +5923,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::502693608",
-      "Source": "Weight: 0.5",
-      "Trans": {"SC":"重量：0.5","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1739241745",
       "Source": "Bones",
       "Trans": {"SC":"骨架","JA":""},

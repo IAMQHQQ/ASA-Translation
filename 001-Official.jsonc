@@ -1,6 +1,48 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Globals::408963416",  //#28
+      "Source": "Toggle Planned Structure Visibility",
+      "Trans": { "SC": "显示模板规划建筑", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::610574432",  //#1498
+      "Source": "Planned Structure",
+      "Trans": { "SC": "模板规划建筑", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Globals::MainMenuAllMaps",
+      "Source": "ALL MAPS",
+      "Trans": { "SC": "全部地图", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "2096473238" }
+    },
+    {
+      "NamespaceHash": "Globals::3352939514",
+      "Source": "ASTRAEOS", //MMmapname
+      "Trans": { "SC": "星耀", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    //{
+    //  "NamespaceHash": "Globals::1782234725",  //这个应该是bug捏, key值是CLUB ARK
+    //  "Source": "ASTRAEOS",
+    //  "Trans": { "SC": "星耀2", "JA": "" },
+    //  "Config": { "Item": false, "Dino": false, "Default_Hash": "3352939514" }
+    //},
+    {
+      "NamespaceHash": "Globals::Command0",
+      "Source": "Dino Groups",  //手柄
+      "Trans": { "SC": "恐龙分组", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "1579100646" }
+    },
+    {
+      "NamespaceHash": "Globals::Command5",
+      "Source": "Chat Mode",  //手柄
+      "Trans": { "SC": "聊天模式", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "976706570" }
+    },
+    {
       "NamespaceHash": "GraphLiteral::3508089698",
       "Source": "Text Chat Bubbles",
       "Trans": { "SC": "文本聊天气泡", "JA": "" },
@@ -56775,10 +56817,10 @@
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     {
-      "NamespaceHash": "Globals::Command0",
-      "Source": "Clear Tame Ordering Group",
+      "NamespaceHash": "GraphLiteral::1579211033", //Globals::Command0
+      "Source": "Clear Tame Ordering Group",//key冲突
       "Trans": { "SC": "清空恐指令小组", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "1579211033" }
       //标记Globals-其它生效, 但是暂时先不搞
     },
     {
@@ -70283,12 +70325,12 @@
       "Trans": { "SC": "将驯养食物放入最右侧的物品栏来喂养!", "JA": "" },
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
-    {
-      "NamespaceHash": "Content::2096473238",
-      "Source": "ALL MAPS",
-      "Trans": { "SC": "全部地图", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
-    },
+    //{
+    //  "NamespaceHash": "Content::2096473238",
+    //  "Source": "ALL MAPS",
+    //  "Trans": { "SC": "全部地图", "JA": "" },
+    //  "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    //},
     {
       "NamespaceHash": "Globals::2685768481",
       "Source": "You found all the Explorer Notes! +10 Max Levels",
