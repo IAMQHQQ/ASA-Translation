@@ -12462,14 +12462,14 @@
       "Trans": {"SC":"蛋","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::3634939746",
-    //  "Source": "Egg Health",
-    //  "Trans": {"SC":"蛋的生命值","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
     {
-      "NamespaceHash": "GraphLiteral::2385309523",
+      "NamespaceHash": "Globals::3634939746",
+      "Source": "Egg Health",
+      "Trans": {"SC":"蛋的生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2385309523",
       "Source": "Egg Health: 0.0%",
       "Trans": {"SC":"蛋的生命值: 0.0%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -66980,13 +66980,13 @@
       "Trans": { "SC": "", "JA": "" },
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
-    //{
-    //  "NamespaceHash": "Globals::3406468518",
-    //  "Source": "%.0f/%.0f",
-    //  //奇怪的指向
-    //  "Trans": { "SC": "", "JA": "" },
-    //  "Config": { "Item": false, "Dino": false, "Default_Hash": "1792955261"}
-    //},
+    {
+      "NamespaceHash": "Globals::3406468518",
+      "Source": "%.0f/%.0f",
+      //奇怪的指向
+      "Trans": { "SC": "", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "1792955261"}
+    },
     {
       "NamespaceHash": "Content::1941688548",
       "Source": "Crouch",

@@ -1,6 +1,12 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Globals::249072205",
+      "Source": "You must own ARK: Fantastic Tames - Season 1 to access this content, go to the store page?",
+      "Trans": { "SC": "你必须拥有 奇幻驯兽: 第一季 才能解锁该内容, 是否需要前往商店?", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
       "NamespaceHash": "Globals::408963416",  //#28
       "Source": "Toggle Planned Structure Visibility",
       "Trans": { "SC": "显示模板规划建筑", "JA": "" },
@@ -95,12 +101,6 @@
       "Source": "Categories",
       "Trans": { "SC": "类目", "JA": "" },
       "Config": { "Item": false, "Dino": false, "Default_Hash": "3503894571" }
-    },
-    {
-      "NamespaceHash": "Content::1495943527",
-      "Source": "You Must own Fantastic Tames: Season 1 to access this content, go to the store page?",
-      "Trans": { "SC": "你必须拥有 奇幻驯兽: 第一季 才能解锁该内容, 是否需要前往商店?", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     {
       "NamespaceHash": "GraphLiteral::3915318708",
@@ -934,6 +934,26 @@
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     //Discord———————————————————————————————————————————————————
+    {
+      "NamespaceHash": "DiscordFriendsUI::DiscordNotReadyStatus",
+      "Source": "Discord is not ready.",
+      "Trans": { "SC": "Discord 尚未就绪。", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "163005799" }
+    },
+    //[#3] 次数:1
+    {
+      "NamespaceHash": "DiscordFriendsUI::DisconnectingFromDiscordStatus",
+      "Source": "Disconnecting from Discord...",
+      "Trans": { "SC": "正在断开与 Discord 的连接...", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "2893921948" }
+    },
+    //[#4] 次数:1
+    {
+      "NamespaceHash": "DiscordFriendsUI::ConnectFullDiscordAccountStatus",
+      "Source": "Connect a full Discord account to use the unified friends list.",
+      "Trans": { "SC": "绑定完整 Discord 账号以使用统一好友列表。", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "673874013" }
+    },
     {
       "NamespaceHash": "GraphLiteral::1314745482",
       "Source": "Coords: {Location}",
@@ -17730,16 +17750,16 @@
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     {
-      "NamespaceHash": "Content::1172642592",
+      "NamespaceHash": "Content::1172642592", //NetworkErrors::CFConnectionInProgress
       "Source": "The client is currently trying to confirm a connection to mod services, please try again in a few seconds.",
       "Trans": { "SC": "客户端正在尝试确认与模组服务的连接, 请稍等几秒后重试。", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "1172642592" }
     },
     {
-      "NamespaceHash": "Content::1665772087",
+      "NamespaceHash": "Content::1665772087", //NetworkErrors::CFConnectionFailed
       "Source": "The client has failed to connect to mod services, putting the mod system into offline mode.\nYou can use your currently downloaded mods in Singleplayer.",
       "Trans": { "SC": "客户端未能连接模组服务, 已将模组系统切换至离线模式。\n你可以在单机模式下使用已下载的模组。", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "1665772087" }
     },
     {
       "NamespaceHash": "Content::2913120029",
@@ -28749,7 +28769,8 @@
     {
       "NamespaceHash": "Content::1564187030",
       "Source": "Survivor, this is my last message to you, to be\nrelayed in the event of my... deactivation.",
-      "Trans": { "SC": "生存者, 这是我留给你的最后一条讯息, 若你\n收到了这条转播就说明我已经...停止运转了。", "JA": "" },
+      "Trans": { "SC": "生存者, 这是我留给你的最后一条讯息\n若你听到了这段转播, 就说明我已经...不存在了。", "JA": "" },
+      //生存者, 这是我留给你的最后一条讯息, 若你\n收到了这条转播就说明我已经...停止运转了。
       //这样翻译我会觉得更符合中文的语境和通顺; 😄很满意!
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
@@ -28839,7 +28860,7 @@
     {
       "NamespaceHash": "Content::3840620391",
       "Source": "I guess I’ve been losing faith,",
-      "Trans": { "SC": "我感觉自己的信念在消逝, 而他们却不断变得更强大。", "JA": "" },
+      "Trans": { "SC": "我感觉自己的信念在消逝, 而它们却不断变得更强大。", "JA": "" },
       //标记-补充, 这样看起来就会连贯流畅;后续若官方连贯了需要改回来
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
       //孤岛序幕
@@ -53369,7 +53390,7 @@
       //沙斯塔鱼龙
     },
     {
-      "NamespaceHash": "GraphLiteral::2262090046",
+      "NamespaceHash": "Globals::2262090046",
       "Source": "You must own ARK: Fantastic Tames - Pyromane to access this content, go to the store page?",
       "Trans": { "SC": "你需要购买 方舟: 奇幻生物: 炽炎猫 才能访问此内容, 是否需要前往商店?", "JA": "" },
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
@@ -61378,7 +61399,7 @@
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     {
-      "NamespaceHash": "GraphLiteral::1373317472",
+      "NamespaceHash": "Globals::1373317472",
       "Source": "You must own ARK: Fantastic Tames - Dreadmare to access this content, go to the store page?",
       "Trans": { "SC": "你需要购买 方舟: 奇幻生物: 梦魇马 才能访问此内容, 是否需要前往商店?\r\n\r\nARK: Fantastic Tames - Dreadmare", "JA": "" },
       "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
