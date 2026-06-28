@@ -1,4 +1,5 @@
-{ //2025.11.29
+{
+  //2025.11.29
   // 模组包含
   // Paleo ARK - Evolution | Apex Predators (Crossplay)——远古方舟-进化|顶级掠食者(EVO霸王龙.南巨)
   // Paleo ARK - Evolution | Dangerous Depths (Crossplay!)——远古方舟-进化|深渊之险(EVO沧龙)
@@ -289,7 +290,7 @@
       "Trans": {"SC":"Scott Hartman会引以为傲的","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "625ECA3741DE351C41F50B9511942873",
       "Source": "Bite | Headbash turn (Look left or right)",
       "Trans": {"SC":"啃咬 | 转向头槌 (视角向左或向右看)","JA":""},
@@ -621,7 +622,7 @@
       "Trans": {"SC":"远古三角龙","JA":"遠古三角龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "Content::1955809717",
       "Source": "Fertilized Greater Yutyrannus Egg",
       "Trans": {"SC":"受精的远古羽王龙蛋","JA":""},
@@ -803,7 +804,7 @@
       "Trans": {"SC":"方尖碑鱿鱼","JA":"方尖碑魷鱼"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "Content::970088804",
       "Source": "Cryptoclidus Gel",
       "Trans": {"SC":"浅隐龙凝胶","JA":""},
@@ -857,7 +858,7 @@
       "Trans": {"SC":"受精的方尖碑鱿鱼卵","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "Content::1942062630",
       "Source": "Veil Charge",
       "Trans": {"SC":"全体隐匿 [充能值],","JA":""},
@@ -973,7 +974,7 @@
       "Trans": {"SC":"装备到EVO沧龙上以骑乘。你可以在上面建造一个移动基地。<#RN#><RichColor Color=\"0, 1, 1, 1\">远古方舟: 进化 (Paleo ARK: Evolution)</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-       {
+    {
       "NamespaceHash": "Content::2221668176",
       "Source": "Oceanic Apex",
       "Trans": {"SC":"海洋霸主","JA":""},
@@ -1029,7 +1030,7 @@
     }
   ],
   "EVO镰刀龙.甲龙.雷龙": [
-   {
+    {
       "NamespaceHash": "Content::2890474585",
       "Source": "Alpha Therizinosaurus",
       "Trans": {"SC":"精英镰刀龙","JA":"精英鐮刀龙"},

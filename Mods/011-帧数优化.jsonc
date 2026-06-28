@@ -4,26 +4,26 @@
     {
       "NamespaceHash": "C965E6F84C158D9835B18ABCBB86EC72",
       "Source": "FreeVersion",
-      "Trans": { "SC": " ", "JA": "" }, //这个置空,因为挡视野
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1288138975" }
+      "Trans": {"SC":" ","JA":""}, //这个置空,因为挡视野
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1288138975"}
     },
     {
       "NamespaceHash": "5CCE08CC4E0C15F66EBA74B9E5206A5F",
       "Source": "RESET FPS BOOST",
-      "Trans": { "SC": "关闭FPS提升", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2232865697" }
+      "Trans": {"SC":"关闭FPS提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2232865697"}
     },
     {
       "NamespaceHash": "32F4EC534F2F7FDA3FC2A0BDEFCA54EA",
       "Source": "HARD FPS BOOST",
-      "Trans": { "SC": "强力FPS提升", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "130374241" }
+      "Trans": {"SC":"强力FPS提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"130374241"}
     },
     {
       "NamespaceHash": "FFA3FDB74486E1E02453F09AB248601E",
       "Source": "LIGHT FPS BOOST",
-      "Trans": { "SC": "轻度FPS提升", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2620031567" }
+      "Trans": {"SC":"轻度FPS提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2620031567"}
     }
   ]
 }

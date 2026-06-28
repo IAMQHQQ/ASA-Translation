@@ -1,1157 +1,1157 @@
 {
   // 2026-02-18 21:07:19
-  "AwesomeSpyGlass": [ 
+  "AwesomeSpyGlass": [
     {
       "NamespaceHash": "GraphLiteral::EFF480DA4569FF39BE492CA9562154A3",
       "Source": "Team",
-      "Trans": { "SC": "驯服", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2502908757" }
+      "Trans": {"SC":"驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2502908757"}
     },
     {
       "NamespaceHash": "22896BC64D97D68BFBF3C2A93176E963",
       "Source": "Top Left",
-      "Trans": { "SC": "", "JA": "" },  //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "607383221" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"607383221"}
     },
     {
       "NamespaceHash": "F43132BB49756110E0C0E4AE9F41FD74",
       "Source": "Center Left",
-      "Trans": { "SC": "", "JA": "" }, //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "486046501" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"486046501"}
     },
     {
       "NamespaceHash": "52515AFC4DA34B7E232B838EF3453D18",
       "Source": "Bottom Left",
-      "Trans": { "SC": "", "JA": "" }, //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "999357000" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"999357000"}
     },
     {
       "NamespaceHash": "5B664FBE43F6624CEE792C9A9234849F",
       "Source": "Top Right",
-      "Trans": { "SC": "", "JA": "" }, //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1779200437" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1779200437"}
     },
     {
       "NamespaceHash": "6312766145BDDE0C514801952F97521A",
       "Source": "Center Right",
-      "Trans": { "SC": "", "JA": "" },  //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "748182545" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"748182545"}
     },
     {
       "NamespaceHash": "D7808BFB459436D4803A69855D483EC8",
       "Source": "Bottom Right",
-      "Trans": { "SC": "", "JA": "" },  //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "218977980" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"218977980"}
     },
     {
       "NamespaceHash": "546939F94BE805F0DC9BB1854B6943DB",
       "Source": "Cross",
-      "Trans": { "SC": "", "JA": "" },  //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3436284499" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3436284499"}
     },
     {
       "NamespaceHash": "7C8304E64A2783E073EA069BD83EE567",
       "Source": "Square",
-      "Trans": { "SC": "", "JA": "" },  //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4236794186" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4236794186"}
     },
     {
       "NamespaceHash": "675EBE234D92AEC1930B1A81770DF310",
       "Source": "Line",
-      "Trans": { "SC": "", "JA": "" },  //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "428182854" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"428182854"}
     },
     {
       "NamespaceHash": "4025E43045FCC983167FC89FFE6ED6CA",
       "Source": "Star",
-      "Trans": { "SC": "", "JA": "" },  //不能翻译-占位
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4145104250" }
+      "Trans": {"SC":"","JA":""}, //不能翻译-占位
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4145104250"}
     },
     {
       "NamespaceHash": "3EEEAEF4479EA4123E2D25888AFCEBCB",
       "Source": "Brightness",
-      "Trans": { "SC": "明亮度", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1211148070" }
+      "Trans": {"SC":"明亮度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1211148070"}
     },
     {
       "NamespaceHash": "GraphLiteral::3220547798",
       "Source": "Friendly Colour:",
-      "Trans": { "SC": "友好颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"友好颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::4096491985",
       "Source": "Neutral Colour:",
-      "Trans": { "SC": "中立颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"中立颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::811478244",
       "Source": "Fleeing Colour:",
-      "Trans": { "SC": "逃跑颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"逃跑颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2776290851",
       "Source": "Enemy Colour:",
-      "Trans": { "SC": "敌人颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"敌人颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2357027521",
       "Source": "Reverse Order:",
-      "Trans": { "SC": "倒序排列:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"倒序排列:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::94753511",
       "Source": "Group Berries:",
-      "Trans": { "SC": "浆果分组:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"浆果分组:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3655649970",
       "Source": "Max Taming Foods:",
-      "Trans": { "SC": "最大驯服食物数:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"最大驯服食物数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3250617096",
       "Source": "Auto Adjust Brightness:",
-      "Trans": { "SC": "自动调整明亮度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"自动调整明亮度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::691577A44894A082B5E8ACB13B0CE14F",
       "Source": "Tamable",
-      "Trans": { "SC": "可驯服", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3892436497" }
+      "Trans": {"SC":"可驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3892436497"}
     },
     {
       "NamespaceHash": "GraphLiteral::111114E74F2FB260BB9EFB818249283A_Format0",
       "Source": "Incubation: {_I}%",
-      "Trans": { "SC": "孵化: {_I}%", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2985842960" }
+      "Trans": {"SC":"孵化: {_I}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2985842960"}
     },
     {
       "NamespaceHash": "6F646CB84BC4FEDE02107A8B696E5837",
       "Source": "Hide Delay:",
-      "Trans": { "SC": "隐藏延迟:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2692210760" }
+      "Trans": {"SC":"隐藏延迟:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2692210760"}
     },
     {
       "NamespaceHash": "5CB9A03D43CDAFA7707739859EC0B62A",
       "Source": "HUD:",
-      "Trans": { "SC": "视图显示:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "659544878" }
+      "Trans": {"SC":"视图显示:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"659544878"}
     },
     {
       "NamespaceHash": "84CE21DA4FC60886D08A83AA13900770",
       "Source": "Scale:",
-      "Trans": { "SC": "尺寸:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2670317778" }
+      "Trans": {"SC":"尺寸:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2670317778"}
     },
     {
       "NamespaceHash": "FD52A7214B07DEFF7A70DEBB2BC37573",
       "Source": "GPS:",
-      "Trans": { "SC": "坐标:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1199108918" }
+      "Trans": {"SC":"坐标:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1199108918"}
     },
     {
       "NamespaceHash": "B50AD28E45D3F59BB0FED9AA271F434D",
       "Source": "Colour:",
-      "Trans": { "SC": "颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1381852943" }
+      "Trans": {"SC":"颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1381852943"}
     },
     {
       "NamespaceHash": "A4DC84FE4E1FFB11A8B0249F2142832E",
       "Source": "Crosshairs:",
-      "Trans": { "SC": "准星:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1603286167" }
+      "Trans": {"SC":"准星:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1603286167"}
     },
     {
       "NamespaceHash": "3A004BBF4148868C6CDD50B99BE89136",
       "Source": "Style:",
-      "Trans": { "SC": "风格:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "195001525" }
+      "Trans": {"SC":"风格:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"195001525"}
     },
     {
       "NamespaceHash": "CE9B9C974283F6A531701AAA8C86652B",
       "Source": "First Person:",
-      "Trans": { "SC": "第一人称:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3609765243" }
+      "Trans": {"SC":"第一人称:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3609765243"}
     },
     {
       "NamespaceHash": "B31350144543EE97C769FEA590029628",
       "Source": "Third Person:",
-      "Trans": { "SC": "第三人称:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1713872679" }
+      "Trans": {"SC":"第三人称:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1713872679"}
     },
     {
       "NamespaceHash": "ED91581E4C92C87E7BDD69BAF6681799",
       "Source": "First Person Riding:",
-      "Trans": { "SC": "第一人称骑乘:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2178533226" }
+      "Trans": {"SC":"第一人称骑乘:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2178533226"}
     },
     {
       "NamespaceHash": "C7EB2F4441E2D4F4DCEC99BA7E8611FD",
       "Source": "Third Person Riding:",
-      "Trans": { "SC": "第三人称骑乘:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1827982852" }
+      "Trans": {"SC":"第三人称骑乘:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1827982852"}
     },
     {
       "NamespaceHash": "F720C81B49AD99BC4B5DDE9B1A282EDE",
       "Source": "Zoom:",
-      "Trans": { "SC": "缩放:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3035333867" }
+      "Trans": {"SC":"缩放:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3035333867"}
     },
     {
       "NamespaceHash": "4D93A05C4627DE53303F919D022B8438",
       "Source": "Character Outline:",
-      "Trans": { "SC": "角色轮廓:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3219070980" }
+      "Trans": {"SC":"角色轮廓:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3219070980"}
     },
     {
       "NamespaceHash": "3261BF504773F653701548B28EA4DFA2",
       "Source": "Thickness:",
-      "Trans": { "SC": "厚度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1059560320" }
+      "Trans": {"SC":"厚度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1059560320"}
     },
     {
       "NamespaceHash": "15887B4E4A56D0F26EB2B98EB54CCA57",
       "Source": "Background Colour:",
-      "Trans": { "SC": "背景颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "127455089" }
+      "Trans": {"SC":"背景颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"127455089"}
     },
     {
       "NamespaceHash": "E9BE4E574E8FC11B739724A76060E0D5",
       "Source": "Borders Colour:",
-      "Trans": { "SC": "边框颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4278530244" }
+      "Trans": {"SC":"边框颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4278530244"}
     },
     {
       "NamespaceHash": "A72511AF41E1A6C6AEC3DBA66E9A138C",
       "Source": "Text Colour:",
-      "Trans": { "SC": "文本颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2324040639" }
+      "Trans": {"SC":"文本颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2324040639"}
     },
     {
       "NamespaceHash": "CFB6764C41DFC889E7C59BA82E3F3713",
       "Source": "Including Info:",
-      "Trans": { "SC": "包括信息:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3568449735" }
+      "Trans": {"SC":"包括信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3568449735"}
     },
     {
       "NamespaceHash": "3693A1814EAD34394C64998DBF890678",
       "Source": "Including Buffs:",
-      "Trans": { "SC": "包括状态:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3684776229" }
+      "Trans": {"SC":"包括状态:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3684776229"}
     },
     {
       "NamespaceHash": "8A3937744466572FA22D4E8F967D9831",
       "Source": "Including Items:",
-      "Trans": { "SC": "包括物品:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1821345545" }
+      "Trans": {"SC":"包括物品:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1821345545"}
     },
     {
       "NamespaceHash": "094E7E5D450322D71896F394C646CF49",
       "Source": "Character Icon Colour:",
-      "Trans": { "SC": "角色图标颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1383031312" }
+      "Trans": {"SC":"角色图标颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1383031312"}
     },
     {
       "NamespaceHash": "C9B21C3D4936D73BFADFDB8245BDA5B4",
       "Source": "Stats Grid Columns:",
-      "Trans": { "SC": "状态栏列数:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3251178237" }
+      "Trans": {"SC":"状态栏列数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3251178237"}
     },
     {
       "NamespaceHash": "12012E94474B84BD2F941BB4A5272B9E",
       "Source": "Stat Bars:",
-      "Trans": { "SC": "状态栏:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3128489934" }
+      "Trans": {"SC":"状态栏:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3128489934"}
     },
     {
       "NamespaceHash": "C16BE6084A420B2C043FCD9ECF611EDA",
       "Source": "Health Bar Colour:",
-      "Trans": { "SC": "生命值栏颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1476429088" }
+      "Trans": {"SC":"生命值栏颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1476429088"}
     },
     {
       "NamespaceHash": "58354FCD4CE4E38EC74B99BAE98B2C12",
       "Source": "Food Bar Colour:",
-      "Trans": { "SC": "食物栏颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1220289090" }
+      "Trans": {"SC":"食物栏颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1220289090"}
     },
     {
       "NamespaceHash": "4F06668942D53F5EB264FBAD3B7FC01F",
       "Source": "Torpor Bar Colour:",
-      "Trans": { "SC": "眩晕栏颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "862715394" }
+      "Trans": {"SC":"眩晕栏颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"862715394"}
     },
     {
       "NamespaceHash": "15AEAA464D431349875AFD90F7F9FF95",
       "Source": "Progress Bar Colour:",
-      "Trans": { "SC": "驯养进度栏颜色:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2175532246" }
+      "Trans": {"SC":"驯养进度栏颜色:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2175532246"}
     },
     {
       "NamespaceHash": "08DFA53F40A49DC5FB6AC0ABDCFD0566",
       "Source": "Targeting:",
-      "Trans": { "SC": "目标:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4092935603" }
+      "Trans": {"SC":"目标:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4092935603"}
     },
     {
       "NamespaceHash": "DDFAAB8C4A5E160247D747B7D8861E1A",
       "Source": "Dinos:",
-      "Trans": { "SC": "恐龙:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3320821184" }
+      "Trans": {"SC":"恐龙:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3320821184"}
     },
     {
       "NamespaceHash": "FB33D3F54E7A33C28989BEB395E8D0C0",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "4F9CED5F41546A40C25AA5B0E17AE79E",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "76765D3A433D19F9ACE8DB9A3B2D6343",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "BA49BC504693BB4FFA1213A917DAC068",
       "Source": "Grid Stats:",
-      "Trans": { "SC": "统计状态:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3004078700" }
+      "Trans": {"SC":"统计状态:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3004078700"}
     },
     {
       "NamespaceHash": "1514BF694BC0F282C539609AF520AA69",
       "Source": "Health:",
-      "Trans": { "SC": "生命值:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3210587042" }
+      "Trans": {"SC":"生命值:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3210587042"}
     },
     {
       "NamespaceHash": "87EC73964B61FD1462164B86FA892A0A",
       "Source": "Stamina:",
-      "Trans": { "SC": "耐力:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2559924972" }
+      "Trans": {"SC":"耐力:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2559924972"}
     },
     {
       "NamespaceHash": "4135CE7A477C8F7FE08F9EB075EF0159",
       "Source": "Torpor:",
-      "Trans": { "SC": "眩晕:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "987232759" }
+      "Trans": {"SC":"眩晕:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"987232759"}
     },
     {
       "NamespaceHash": "E98868DA45EBCEA5A00F8FA21575A217",
       "Source": "Oxygen:",
-      "Trans": { "SC": "氧气:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2282036788" }
+      "Trans": {"SC":"氧气:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2282036788"}
     },
     {
       "NamespaceHash": "0AE4B0D7456B774AD7FC469124FDA086",
       "Source": "Food:",
-      "Trans": { "SC": "食物:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2555644174" }
+      "Trans": {"SC":"食物:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2555644174"}
     },
     {
       "NamespaceHash": "BC7B1DB84FCD0CA9C1C86AB1AD37F611",
       "Source": "Water:",
-      "Trans": { "SC": "水分:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1263065386" }
+      "Trans": {"SC":"水分:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1263065386"}
     },
     {
       "NamespaceHash": "69C3EDAE4445455995294AB9BEDE6C6F",
       "Source": "Temperature:",
-      "Trans": { "SC": "温度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4023118961" }
+      "Trans": {"SC":"温度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4023118961"}
     },
     {
       "NamespaceHash": "582BB83A460F371FDE87C29FE47BCEDA",
       "Source": "Melee:",
-      "Trans": { "SC": "近战伤害:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2461148188" }
+      "Trans": {"SC":"近战伤害:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2461148188"}
     },
     {
       "NamespaceHash": "AF7550194DE52686CDDB62938866105B",
       "Source": "Speed:",
-      "Trans": { "SC": "移动速度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1433682101" }
+      "Trans": {"SC":"移动速度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1433682101"}
     },
     {
       "NamespaceHash": "9A82BA31435C329180AB8CADC8CDAA3A",
       "Source": "Fortitude:",
-      "Trans": { "SC": "抗性:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1880566796" }
+      "Trans": {"SC":"抗性:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1880566796"}
     },
     {
       "NamespaceHash": "456E6FB54CB580C5B9C6919799AF8ED4",
       "Source": "Crafting:",
-      "Trans": { "SC": "制作速度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2222340984" }
+      "Trans": {"SC":"制作速度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2222340984"}
     },
     {
       "NamespaceHash": "086DDE9444DCF48FA4B5B0BF7BF02F7E",
       "Source": "Imprinting:",
-      "Trans": { "SC": "留痕:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1457221665" }
+      "Trans": {"SC":"留痕:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1457221665"}
     },
     {
       "NamespaceHash": "7B9A9D6942A7A7E88331DA820538BBC9",
       "Source": "Bar Stats:",
-      "Trans": { "SC": "状态栏:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1733336410" }
+      "Trans": {"SC":"状态栏:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1733336410"}
     },
     {
       "NamespaceHash": "06C1696944390EB122D5998D22AB0A8A",
       "Source": "Level Points:",
-      "Trans": { "SC": "等级点数:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "134865773" }
+      "Trans": {"SC":"等级点数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"134865773"}
     },
     {
       "NamespaceHash": "1895BBF24C70739B91D17B984D24A2D5",
       "Source": "Behaviour:",
-      "Trans": { "SC": "行为:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3266132712" }
+      "Trans": {"SC":"行为:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3266132712"}
     },
     {
       "NamespaceHash": "97C9D8324ED2D59FFAA1A19CC7831B4B",
       "Source": "Colours",
-      "Trans": { "SC": "颜色", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3024187576" }
+      "Trans": {"SC":"颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3024187576"}
     },
     {
       "NamespaceHash": "B2F6DBF941A00F2FA6657B8B0086EAC8",
       "Source": "Buffs:",
-      "Trans": { "SC": "效果:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2828588160" }
+      "Trans": {"SC":"效果:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2828588160"}
     },
     {
       "NamespaceHash": "A4D9498146ED7A6A7A77E2AF1501CD26",
       "Source": "Custom Info:",
-      "Trans": { "SC": "自定义信息:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "504877585" }
+      "Trans": {"SC":"自定义信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"504877585"}
     },
     {
       "NamespaceHash": "D59E53794809F9A8FC101A9CBE69EF9B",
       "Source": "Taming Food:",
-      "Trans": { "SC": "驯养食物:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2923992130" }
+      "Trans": {"SC":"驯养食物:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2923992130"}
     },
     {
       "NamespaceHash": "B9039AB24DEC0E5880AA5E9B61533648",
       "Source": "Baby Info:",
-      "Trans": { "SC": "幼崽信息:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4143607730" }
+      "Trans": {"SC":"幼崽信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4143607730"}
     },
     {
       "NamespaceHash": "917C6C5F420049A106C0CA9D85118B41",
       "Source": "Players:",
-      "Trans": { "SC": "玩家:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2046783220" }
+      "Trans": {"SC":"玩家:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2046783220"}
     },
     {
       "NamespaceHash": "94EC1AAB4A731C1CCFF97484FEDC39BE",
       "Source": "Structures:",
-      "Trans": { "SC": "建筑物:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "85969931" }
+      "Trans": {"SC":"建筑物:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"85969931"}
     },
     {
       "NamespaceHash": "33452BDE41D44E4879CF7B8CA22D0305",
       "Source": "Natural Structures:",
-      "Trans": { "SC": "天然建筑物:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "26265202" }
+      "Trans": {"SC":"天然建筑物:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"26265202"}
     },
     {
       "NamespaceHash": "0F4476334B6272951B20D68D21A4E115",
       "Source": "Item List:",
-      "Trans": { "SC": "物品列表:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "743446609" }
+      "Trans": {"SC":"物品列表:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743446609"}
     },
     {
       "NamespaceHash": "5B6F8CB344EB4EAF6CF7E8A24A116C6E",
       "Source": "Supply Drops:",
-      "Trans": { "SC": "补给箱:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "935166148" }
+      "Trans": {"SC":"补给箱:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"935166148"}
     },
     {
       "NamespaceHash": "C1C7DD83472160AC602E8DBE8F9EA494",
       "Source": "Supply Crates:",
-      "Trans": { "SC": "藏宝箱:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1395242395" }
+      "Trans": {"SC":"藏宝箱:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1395242395"}
     },
     {
       "NamespaceHash": "1ADEFCCD40E66F62F3E2CC8ED2C9D6E8",
       "Source": "Loot:",
-      "Trans": { "SC": "战利品:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3019544603" }
+      "Trans": {"SC":"战利品:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3019544603"}
     },
     {
       "NamespaceHash": "AF2A4FEC486F7C3E1AE3BBA425150DE2",
       "Source": "Eggs:",
-      "Trans": { "SC": "蛋:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "882677063" }
+      "Trans": {"SC":"蛋:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"882677063"}
     },
     {
       "NamespaceHash": "96E56B4447BD8A8CA5033EB2401337D6",
       "Source": "Loot Targeting:",
-      "Trans": { "SC": "战利品目标:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "354343120" }
+      "Trans": {"SC":"战利品目标:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"354343120"}
     },
     {
       "NamespaceHash": "F937209C43B2DD2A1C1C2093B9E27D69",
       "Source": "Apply",
-      "Trans": { "SC": "应用", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "890595538" }
+      "Trans": {"SC":"应用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"890595538"}
     },
     {
       "NamespaceHash": "423DC8A8496F646774918DAE5815F4AA",
       "Source": "Admin Settings",
-      "Trans": { "SC": "管理员设置", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "932630994" }
+      "Trans": {"SC":"管理员设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"932630994"}
     },
     {
       "NamespaceHash": "3DF909F7400A198582035B91B9474CBD",
       "Source": "Done",
-      "Trans": { "SC": "完成", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2242623465" }
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2242623465"}
     },
     {
       "NamespaceHash": "CC91DFD548E9F016290402ABF40836CF",
       "Source": "Character Outline:",
-      "Trans": { "SC": "角色轮廓:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3219070980" }
+      "Trans": {"SC":"角色轮廓:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3219070980"}
     },
     {
       "NamespaceHash": "482454B44219E020055CF08600C5B173",
       "Source": "HUD:",
-      "Trans": { "SC": "视图显示:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "659544878" }
+      "Trans": {"SC":"视图显示:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"659544878"}
     },
     {
       "NamespaceHash": "5452B40C4BB260D523729A9E039A129C",
       "Source": "GPS:",
-      "Trans": { "SC": "坐标:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1199108918" }
+      "Trans": {"SC":"坐标:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1199108918"}
     },
     {
       "NamespaceHash": "67E290D74D840DCD2AA527A2505FA7CA",
       "Source": "Scale:",
-      "Trans": { "SC": "尺寸:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2670317778" }
+      "Trans": {"SC":"尺寸:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2670317778"}
     },
     {
       "NamespaceHash": "F7BEB2CB4AFF77B31F914B9DAFE2BC05",
       "Source": "Targeting:",
-      "Trans": { "SC": "目标:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4092935603" }
+      "Trans": {"SC":"目标:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4092935603"}
     },
     {
       "NamespaceHash": "F197DB1A4882B9F3D7D9BBB8495FC029",
       "Source": "Dinos:",
-      "Trans": { "SC": "恐龙:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3320821184" }
+      "Trans": {"SC":"恐龙:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3320821184"}
     },
     {
       "NamespaceHash": "FF1B992C4D10C3C76688FA8AA36DB790",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "3E80567B4EDCBE0A38B465B44D64DD11",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "E4AEEC3140AC7E59E38998A3AA493897",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "69496B844CC30ACE332159B3A244F1A4",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "A384BE2E4602BEA4971C3681F22D440F",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "CF3C1A5B4DF686FDAA5898A5994E4EBA",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "65A8987C44C0E20FEE67F4B3847B3F47",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "B913CDF8416839E541A1F3BD9B3117D8",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "B2B589DF466A001C480386B72BF0A7FE",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "33A15EBD4A4EC546F23EF29F448025DE",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "58B4CE2B4750899E1EFD3E944CBCFBB3",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "9570C5E84EAA3510992A1BA61BF69D15",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "EDE4908E4DFC40BA32EE04AA0F229698",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "4B1082EA4847A7541B5EF8AE04A694DA",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "4E571CED4E9BB1F876F6EB91F5C5D7CB",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "5C673FFC4CAB78DD0DCE8ABC1B189DF0",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "1CBB730E44FB1353512348850FCA6A8E",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "C7A24779434B66A2A8088783FAEC623E",
       "Source": "Friendly:",
-      "Trans": { "SC": "友方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1198785150" }
+      "Trans": {"SC":"友方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1198785150"}
     },
     {
       "NamespaceHash": "DFB3FCB8495FC7061A9B1F9AC04D8F43",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "1CD3FD9849B248662C396887E56A1CD8",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "3FA6397940A4DDCDFC68AD8DFABC635B",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "E21F22724AB4A5188E8580A347F0BB61",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "CCA3DC0243FD310C3F2029A88329064B",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "50A64E804940919C680FD39ACE145276",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "88DF0A3C41AF8AE69ABD199D0A9F187A",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "2B68FB2E47BFD9E4A06CDF902CA1C386",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "4B1AF4874A683E7E70E366937C6424F7",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "7F1F0438489E6EB34D1D8A92F727B888",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "77BD8F2E467169C63DE1DE95A5ABBC46",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "85940AA5442BAF7785FF99856D06E330",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "AC3D34EE4B0B754B8D858C87D9911C6D",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "52ECD3B54A0D5796757AFC9C3DABECBC",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "8CF0AD78467E12B1AC2E64AE31A286CA",
       "Source": "Wild:",
-      "Trans": { "SC": "野生:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "972694137" }
+      "Trans": {"SC":"野生:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"972694137"}
     },
     {
       "NamespaceHash": "F790EA2948A0B0721EDDE8BF01582383",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "362E28B348E11BCF2B98948E264FEF9D",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "9C81AF3E407D566DEC2AA8900966DEDD",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "E080E94D459556FFD70130A2FBEE3E44",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "2BEC39AA4FFA36F67ECB06968ED95DBB",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "DD9FA2844DEB30E52D16C1B0BF9E399B",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "DC676ECB4A4C21D50178149E2773CC87",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "1E73148840E0BD2D5BCDA2863BDE2DDF",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "9D13A0F44A1A05B57B039D8D9FE54B18",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "C1FBBD66405567F3425B8087BB41EECB",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "C4F3DA3E4A9F9D7492048D936CF96D1F",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "D5B5EA86434C9E28BFB9729A8D9C8688",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "995CC197487D11EDACB4FFA91549C1BF",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "4A80714947F3C8B577F97895A045435B",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "DEE5460A495736145A9A1A94D8571489",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "37DAEA1A441AB826966C459D17FA7186",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "B0D58DDC4A9C2724347CF99A599DA7D3",
       "Source": "Enemy:",
-      "Trans": { "SC": "敌方:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2192498590" }
+      "Trans": {"SC":"敌方:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2192498590"}
     },
     {
       "NamespaceHash": "5391CB02421E9EDA92762D83F12A2D6C",
       "Source": "Grid Stats:",
-      "Trans": { "SC": "统计状态:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3004078700" }
+      "Trans": {"SC":"统计状态:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3004078700"}
     },
     {
       "NamespaceHash": "CB7866464865C429372868A38B1CF1A0",
       "Source": "Health:",
-      "Trans": { "SC": "生命值:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3210587042" }
+      "Trans": {"SC":"生命值:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3210587042"}
     },
     {
       "NamespaceHash": "874F0C654707ADEE590517958D87DFE2",
       "Source": "Stamina:",
-      "Trans": { "SC": "耐力:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2559924972" }
+      "Trans": {"SC":"耐力:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2559924972"}
     },
     {
       "NamespaceHash": "7B336FB84A3A5BAEB9038BACA6AEC9C0",
       "Source": "Torpor:",
-      "Trans": { "SC": "眩晕:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "987232759" }
+      "Trans": {"SC":"眩晕:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"987232759"}
     },
     {
       "NamespaceHash": "6ACF8D3643892009B8385999D572F42B",
       "Source": "Torpor:",
-      "Trans": { "SC": "眩晕:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "987232759" }
+      "Trans": {"SC":"眩晕:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"987232759"}
     },
     {
       "NamespaceHash": "66680A1049B91B037920409E429636AA",
       "Source": "Torpor:",
-      "Trans": { "SC": "眩晕:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "987232759" }
+      "Trans": {"SC":"眩晕:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"987232759"}
     },
     {
       "NamespaceHash": "41B1C1114141FCFF17A77EAC5362E511",
       "Source": "Oxygen:",
-      "Trans": { "SC": "氧气:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2282036788" }
+      "Trans": {"SC":"氧气:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2282036788"}
     },
     {
       "NamespaceHash": "790E3887463BC401AD1EA0BFF47C42B5",
       "Source": "Food:",
-      "Trans": { "SC": "食物:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2555644174" }
+      "Trans": {"SC":"食物:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2555644174"}
     },
     {
       "NamespaceHash": "172918EB4AA85DF76DD3DF957E9AC2E5",
       "Source": "Food:",
-      "Trans": { "SC": "食物:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2555644174" }
+      "Trans": {"SC":"食物:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2555644174"}
     },
     {
       "NamespaceHash": "0CBD6D2843CAE91C1F44D4A957299B2E",
       "Source": "Water:",
-      "Trans": { "SC": "水分:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1263065386" }
+      "Trans": {"SC":"水分:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1263065386"}
     },
     {
       "NamespaceHash": "CB784BEC46CBA63864A4FA93F6BC97B6",
       "Source": "Temperature:",
-      "Trans": { "SC": "温度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4023118961" }
+      "Trans": {"SC":"温度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4023118961"}
     },
     {
       "NamespaceHash": "8FAA0F24480FDAE99C9533B97E46CA4E",
       "Source": "Melee:",
-      "Trans": { "SC": "近战伤害:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2461148188" }
+      "Trans": {"SC":"近战伤害:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2461148188"}
     },
     {
       "NamespaceHash": "D36A683A4C439518BCB464B1FBED4B71",
       "Source": "Speed:",
-      "Trans": { "SC": "移动速度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1433682101" }
+      "Trans": {"SC":"移动速度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1433682101"}
     },
     {
       "NamespaceHash": "A38195C842E9DB642F9E7AA0DA885CC6",
       "Source": "Fortitude:",
-      "Trans": { "SC": "抗性:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1880566796" }
+      "Trans": {"SC":"抗性:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1880566796"}
     },
     {
       "NamespaceHash": "9745C2B043BFBBB5CB1EDE85C017030E",
       "Source": "Crafting:",
-      "Trans": { "SC": "制作速度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2222340984" }
+      "Trans": {"SC":"制作速度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2222340984"}
     },
     {
       "NamespaceHash": "290C0CF94C1B4033A50A47BC6218A3DC",
       "Source": "Imprinting:",
-      "Trans": { "SC": "留痕:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1457221665" }
+      "Trans": {"SC":"留痕:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1457221665"}
     },
     {
       "NamespaceHash": "7FE1200F4008BAE16641799A52174CF3",
       "Source": "Bar Stats:",
-      "Trans": { "SC": "状态栏:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1733336410" }
+      "Trans": {"SC":"状态栏:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1733336410"}
     },
     {
       "NamespaceHash": "E044EC7C4E414E54D893378A1974356E",
       "Source": "Progress:",
-      "Trans": { "SC": "驯养进度:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3248897157" }
+      "Trans": {"SC":"驯养进度:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3248897157"}
     },
     {
       "NamespaceHash": "5D0D9EAD4A5E11661155E6A5BA384D54",
       "Source": "Level Points:",
-      "Trans": { "SC": "等级点数:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "134865773" }
+      "Trans": {"SC":"等级点数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"134865773"}
     },
     {
       "NamespaceHash": "2ECC00A24D78BDF9B0BA19A6D2487792",
       "Source": "Level Points:",
-      "Trans": { "SC": "等级点数:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "134865773" }
+      "Trans": {"SC":"等级点数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"134865773"}
     },
     {
       "NamespaceHash": "84946A3940A3F46AF9C52487F761625F",
       "Source": "Level Points:",
-      "Trans": { "SC": "等级点数:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "134865773" }
+      "Trans": {"SC":"等级点数:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"134865773"}
     },
     {
       "NamespaceHash": "270121AE4248141516D54CBAF2123CD4",
       "Source": "Baby Info:",
-      "Trans": { "SC": "幼崽信息:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4143607730" }
+      "Trans": {"SC":"幼崽信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4143607730"}
     },
     {
       "NamespaceHash": "04716572426075654A441D807DA10ABB",
       "Source": "Baby Info:",
-      "Trans": { "SC": "幼崽信息:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4143607730" }
+      "Trans": {"SC":"幼崽信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4143607730"}
     },
     {
       "NamespaceHash": "F4BCFFDE4CEA0463D85A8A8F6648EF92",
       "Source": "Baby Info:",
-      "Trans": { "SC": "幼崽信息:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "4143607730" }
+      "Trans": {"SC":"幼崽信息:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4143607730"}
     },
     {
       "NamespaceHash": "67FCF11C4AE5BA5988EAE29958D3875C",
       "Source": "Players:",
-      "Trans": { "SC": "玩家:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2046783220" }
+      "Trans": {"SC":"玩家:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2046783220"}
     },
     {
       "NamespaceHash": "ED42750A4D14EB5F61D32DB81AA2097C",
       "Source": "Natural Structures:",
-      "Trans": { "SC": "天然建筑物:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "26265202" }
+      "Trans": {"SC":"天然建筑物:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"26265202"}
     },
     {
       "NamespaceHash": "499A6D044C99B506370893B917BE95E5",
       "Source": "Item List:",
-      "Trans": { "SC": "物品列表:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "743446609" }
+      "Trans": {"SC":"物品列表:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743446609"}
     },
     {
       "NamespaceHash": "45271AFD444E21EE3508E890F8C29A46",
       "Source": "Item List:",
-      "Trans": { "SC": "物品列表:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "743446609" }
+      "Trans": {"SC":"物品列表:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743446609"}
     },
     {
       "NamespaceHash": "F2E37F6F4A63D3F91AD909AD1C0A653F",
       "Source": "Item List:",
-      "Trans": { "SC": "物品列表:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "743446609" }
+      "Trans": {"SC":"物品列表:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743446609"}
     },
     {
       "NamespaceHash": "881CB1EE4B64F6022764B9BF893F7FE6",
       "Source": "Item List:",
-      "Trans": { "SC": "物品列表:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "743446609" }
+      "Trans": {"SC":"物品列表:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743446609"}
     },
     {
       "NamespaceHash": "5223B7EB4FAD83A86E09EBA933521603",
       "Source": "Supply Drops:",
-      "Trans": { "SC": "补给箱:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "935166148" }
+      "Trans": {"SC":"补给箱:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"935166148"}
     },
     {
       "NamespaceHash": "EF4888BF45DEE5766413448884E28CD9",
       "Source": "Supply Crates:",
-      "Trans": { "SC": "藏宝箱:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1395242395" }
+      "Trans": {"SC":"藏宝箱:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1395242395"}
     },
     {
       "NamespaceHash": "6B1B19A646E262D25111C5876FD7000E",
       "Source": "Eggs:",
-      "Trans": { "SC": "蛋:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "882677063" }
+      "Trans": {"SC":"蛋:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"882677063"}
     },
     {
       "NamespaceHash": "03FF5E494D3F929E74BC36B0785CAC61",
       "Source": "Buff List:",
-      "Trans": { "SC": "效果列表:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "796990147" }
+      "Trans": {"SC":"效果列表:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"796990147"}
     },
     {
       "NamespaceHash": "F8E4CFB74FA237116882F4997B8845CF",
       "Source": "Food List:",
-      "Trans": { "SC": "食物列表:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2396319425" }
+      "Trans": {"SC":"食物列表:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2396319425"}
     },
     {
       "NamespaceHash": "2C22F0324C18D93EE4047090D7FA468F",
       "Source": "Stats:",
-      "Trans": { "SC": "状态:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "778796746" }
+      "Trans": {"SC":"状态:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"778796746"}
     },
     {
       "NamespaceHash": "7727780046BF2249525ACCA579DC5585",
       "Source": "Stats:",
-      "Trans": { "SC": "状态:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "778796746" }
+      "Trans": {"SC":"状态:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"778796746"}
     },
     {
       "NamespaceHash": "8E5F484C4C21B92B9132D19F237BFFAD",
       "Source": "Tamed:",
-      "Trans": { "SC": "已驯服:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2464053486" }
+      "Trans": {"SC":"已驯服:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2464053486"}
     },
     {
       "NamespaceHash": "Content::1316582024",
       "Source": "Awesome SpyGlass!",
-      "Trans": { "SC": "A镜!", "JA": "" },
-      "Config": { "Item": true, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"A镜!","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3050666368",
       "Source": "Like a regular Spyglass, except Awesomer!\\n\r\n-Can target: Dinos, Players, Structures, Eggs, Crates and Natural Structures (configurable)\\n\r\n-Bring up the radial menu to adjust settings and quickly toggle options",
-      "Trans": { "SC": "超越常规望远镜的卓越之作!\\n\r\n-可锁定目标: 恐龙, 玩家, 建筑物, 蛋, 补给箱, 以及天然建筑物 (均可设置)\\n\r\n-通过呼出轮盘菜单以快速调整设置并切换选项", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"超越常规望远镜的卓越之作!\\n\r\n-可锁定目标: 恐龙, 玩家, 建筑物, 蛋, 补给箱, 以及天然建筑物 (均可设置)\\n\r\n-通过呼出轮盘菜单以快速调整设置并切换选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2486889A461FA8FE6A699B9FE570EE9A",
       "Source": "Damage +{_D} Armor +{_A}",
-      "Trans": { "SC": "伤害 +{_D} 护甲 +{_A}", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2233331428" }
+      "Trans": {"SC":"伤害 +{_D} 护甲 +{_A}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2233331428"}
     },
     {
       "NamespaceHash": "GraphLiteral::A6C7626241E987C0C9154AB2F10C278D",
       "Source": "Damage +{_D} Armor +{_A}",
-      "Trans": { "SC": "伤害 +{_D} 护甲 +{_A}", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2233331428" }
+      "Trans": {"SC":"伤害 +{_D} 护甲 +{_A}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2233331428"}
     },
     {
       "NamespaceHash": "GraphLiteral::B5F279D347CDFB5E530E94943871C939",
       "Source": "{_P}% [Care In: {_C}]",
-      "Trans": { "SC": "{_P}% [留痕: {_C}]", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2307351988" }
+      "Trans": {"SC":"{_P}% [留痕: {_C}]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2307351988"}
     },
     {
       "NamespaceHash": "GraphLiteral::8D4B0862419B7C35591020B551EE005E",
       "Source": "Parent",
-      "Trans": { "SC": "", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2032045267" }
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2032045267"}
     },
     {
       "NamespaceHash": "GraphLiteral::B7A6B36C4ACCE476129427A59A08B559",
       "Source": "Waking In: {_T}",
-      "Trans": { "SC": "苏醒倒计时: {_T}", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "1390616907" }
+      "Trans": {"SC":"苏醒倒计时: {_T}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1390616907"}
     },
     {
       "NamespaceHash": "GraphLiteral::4516ACC947BF3C574D95D896179B0B1D",
       "Source": "{_P}% [Wants Care]",
-      "Trans": { "SC": "{_P}% [想要关注]", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "389381734" }
+      "Trans": {"SC":"{_P}% [想要关注]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"389381734"}
     },
     {
       "NamespaceHash": "GraphLiteral::8DF6CDDD4E004B73D3E635B4A42E60EA",
       "Source": "Damage x{_D} Armor x{_A}",
-      "Trans": { "SC": "伤害 x{_D} 护甲 x{_A}", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2532369416" }
+      "Trans": {"SC":"伤害 x{_D} 护甲 x{_A}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2532369416"}
     },
     {
       "NamespaceHash": "GraphLiteral::95E362AF4E4135C99A462CADE86F4E82_Format0",
       "Source": "Decomposes In: {_T}",
-      "Trans": { "SC": "分解倒计时: {_T}", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "975072183" }
+      "Trans": {"SC":"分解倒计时: {_T}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"975072183"}
     },
     {
       "NamespaceHash": "GraphLiteral::2D78C52E4F6307FA62CABC8D071FA788_Format0",
       "Source": "Taming: {_P}% Effectiveness: {_E}%",
-      "Trans": { "SC": "驯服: {_P}% 有效性: {_E}%", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "2191688758"}
+      "Trans": {"SC":"驯服: {_P}% 有效性: {_E}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2191688758"}
     }
   ]
 }

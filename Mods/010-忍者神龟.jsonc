@@ -1,522 +1,523 @@
 {
-  "NinjaTurtles-Mod": [ // 2026-01-22 20:26:31 //忍者神龟模组
+  "NinjaTurtles-Mod": [
+    // 2026-01-22 20:26:31 //忍者神龟模组
     {
       "NamespaceHash": "Content::322525390",
       "Source": "Manhole",
-      "Trans": { "SC": "下水道井盖", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"下水道井盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::557911423",
       "Source": "Pizza Box",
-      "Trans": { "SC": "披萨盒（打开状态）", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"披萨盒（打开状态）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3159841226",
       "Source": "Pizza Box (Closed)",
-      "Trans": { "SC": "披萨盒（闭合状态）", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"披萨盒（闭合状态）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::487077946",
       "Source": "This costume can be used to make your Survivor look like Battle Mode Shredder from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款史莱德!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款史莱德!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3352601620",
       "Source": "This skin can be used to make your Small Decor Box look like a TCRI Cannister from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的小型装饰箱变为《忍者神龟》中的科技宇宙研究所能量容器!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的小型装饰箱变为《忍者神龟》中的科技宇宙研究所能量容器!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4123182238",
       "Source": "Primal Raphael",
-      "Trans": { "SC": "拉斐尔原始版", "JA": "" },
+      "Trans": {"SC":"拉斐尔原始版","JA":""},
       //游戏里是原始人(龟)穿着兽皮 风格的皮肤，所以此系列都翻译为原始版或原始款？
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2266593748",
       "Source": "This costume can be used to make your Survivor look like Primal Raphael from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的原始人款拉斐尔!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的原始人款拉斐尔!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1319528268",
       "Source": "Pizza",
-      "Trans": { "SC": "披萨", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"披萨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2256841596",
       "Source": "This skin can be used to make your Small Decor Box look like a pizza  from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的小型装饰箱变为《忍者神龟》主题的披萨!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的小型装饰箱变为《忍者神龟》主题的披萨!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2863231299",
       "Source": "Pizza Box Open",
-      "Trans": { "SC": "打开的披萨盒", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"打开的披萨盒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2034014003",
       "Source": "This skin can be used to make your Small Decor Box look like an open pizza box from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的小型装饰箱变为《忍者神龟》中的打开款披萨盒!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的小型装饰箱变为《忍者神龟》中的打开款披萨盒!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1310435955",
       "Source": "Pizza Box Closed",
-      "Trans": { "SC": "闭合的披萨盒", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"闭合的披萨盒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1735604643",
       "Source": "This skin can be used to make your Small Decor Box look like a Pizza Box from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的小型装饰箱变为《忍者神龟》中的披萨盒!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的小型装饰箱变为《忍者神龟》中的披萨盒!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::985567450",
       "Source": "This costume can be used to make your Survivor look like Splinter from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的斯普林特大师!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的斯普林特大师!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3673573227",
       "Source": "Pizza Box Filled",
-      "Trans": { "SC": "装满披萨的披萨盒", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"装满披萨的披萨盒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::323833417",
       "Source": "This costume can be used to make your Survivor look like Donatello from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的多纳泰罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的多纳泰罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2536717202",
       "Source": "This skin can be used to make your vehicle look like Party Wagon from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的载具变为《忍者神龟》中的派对战车!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的载具变为《忍者神龟》中的派对战车!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4148802553",
       "Source": "This skin can be used to make your pike look like Casey Jones' Hockey Stick from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的长矛变为《忍者神龟》中凯西・琼斯的曲棍球棒!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的长矛变为《忍者神龟》中凯西・琼斯的曲棍球棒!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4293622469",
       "Source": "This costume can be used to make your Survivor look like a Footclan from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的脚帮忍者!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的脚帮忍者!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3941361591",
       "Source": "This costume can be used to make your Survivor look like Battle Mode Donatello from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款多纳泰罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款多纳泰罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2168090140",
       "Source": "This costume can be used to make your Survivor look like Shredder from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的史莱德!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的史莱德!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1451053855",
       "Source": "Primal Donatello",
-      "Trans": { "SC": "多纳泰罗原始版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"多纳泰罗原始版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2373596551",
       "Source": "This costume can be used to make your Survivor look like Primal Donatello from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的原始人款多纳泰罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的原始人款多纳泰罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2578188653",
       "Source": "This costume can be used to make your Survivor look like Vintage Donatello from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的经典复古款多纳泰罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的经典复古款多纳泰罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2468433484",
       "Source": "This costume can be used to make your Survivor look like Leonardo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的莱昂纳多!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的莱昂纳多!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3217976332",
       "Source": "Primal Leonardo",
-      "Trans": { "SC": "莱昂纳多原始版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"莱昂纳多原始版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3061398022",
       "Source": "This costume can be used to make your Survivor look like Primal Leonardo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的原始人款莱昂纳多!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的原始人款莱昂纳多!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::571098478",
       "Source": "This costume can be used to make your Dodo look like the Mousers from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可将你的渡渡鸟变为《忍者神龟》中的捕鼠机器人!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可将你的渡渡鸟变为《忍者神龟》中的捕鼠机器人!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::252909674",
       "Source": "This costume can be used to make your Survivor look like Battle Mode Leonardo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款莱昂纳多!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款莱昂纳多!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2856284264",
       "Source": "This costume can be used to make your Survivor look like Vintage Leonardo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的经典复古款莱昂纳多!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的经典复古款莱昂纳多!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1604506592",
       "Source": "This costume can be used to make your Survivor look like Michelangelo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的米开朗基罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的米开朗基罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1929399190",
       "Source": "This costume can be used to make your Survivor look like Battle Mode Michelangelo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款米开朗基罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款米开朗基罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3334015220",
       "Source": "Primal Michelangelo",
-      "Trans": { "SC": "米开朗基罗原始版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"米开朗基罗原始版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3008105908",
       "Source": "This costume can be used to make your Survivor look like Primal Michelangelo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的原始人款米开朗基罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的原始人款米开朗基罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::410277865",
       "Source": "This costume can be used to make your Rex look like the Mousers from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可将你的霸王龙变为《忍者神龟》中的捕鼠机器人!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可将你的霸王龙变为《忍者神龟》中的捕鼠机器人!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2428359573",
       "Source": "This costume can be used to make your Survivor look like Vintage Michelangelo from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的经典复古款米开朗基罗!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的经典复古款米开朗基罗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::262912309",
       "Source": "This skin can be used to make your Creature look like they are wearing a ninja eye mask from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可让你的生物戴上《忍者神龟》主题的忍者眼罩!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可让你的生物戴上《忍者神龟》主题的忍者眼罩!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::183755965",
       "Source": "April Boots",
-      "Trans": { "SC": "爱普莉尔之靴", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"爱普莉尔之靴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4174704091",
       "Source": "This skin can be used to make your Boots look like April O'Neil's boots from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的靴子变为《忍者神龟》中爱普莉尔・奥尼尔的同款靴子!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的靴子变为《忍者神龟》中爱普莉尔・奥尼尔的同款靴子!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1290211636",
       "Source": "April Hair",
-      "Trans": { "SC": "爱普莉尔发型", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"爱普莉尔发型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1186963377",
       "Source": "This skin can be used to make your Hat look like April O'Neil's hair from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的帽子变为《忍者神龟》中爱普莉尔・奥尼尔的同款发型!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的帽子变为《忍者神龟》中爱普莉尔・奥尼尔的同款发型!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::163684683",
       "Source": "This costume can be used to make your Survivor look like Raphael from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的拉斐尔!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的拉斐尔!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2614920144",
       "Source": "April Pants",
-      "Trans": { "SC": "爱普莉尔长裤", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"爱普莉尔长裤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4202051927",
       "Source": "This skin can be used to make your Pants look like April O'Neil's pants from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的长裤变为《忍者神龟》中爱普莉尔・奥尼尔的同款长裤!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的长裤变为《忍者神龟》中爱普莉尔・奥尼尔的同款长裤!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::321383797",
       "Source": "This costume can be used to make your Survivor look like Battle Mode Raphael from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款拉斐尔!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的战斗模式款拉斐尔!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3324909685",
       "Source": "April Shirt",
-      "Trans": { "SC": "爱普莉尔上衣", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"爱普莉尔上衣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3644869426",
       "Source": "This skin can be used to make your Shirt look like April O'Neil's shirt from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的上衣变为《忍者神龟》中爱普莉尔・奥尼尔的同款上衣!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的上衣变为《忍者神龟》中爱普莉尔・奥尼尔的同款上衣!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3069618723",
       "Source": "This costume can be used to make your Survivor look like Vintage Raphael from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款服饰可让你的生存者化身《忍者神龟》中的经典复古款拉斐尔!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款服饰可让你的生存者化身《忍者神龟》中的经典复古款拉斐尔!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1595768571",
       "Source": "April Shirt Long",
-      "Trans": { "SC": "爱普莉尔长款上衣", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"爱普莉尔长款上衣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2603161899",
       "Source": "This skin can be used to make your Item look like KC's mask from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的物品变为《忍者神龟》中的凯西的面具!", "JA": "" },
+      "Trans": {"SC":"这款皮肤可将你的物品变为《忍者神龟》中的凯西的面具!","JA":""},
       //"KC" 是凯西 (Casey) 的常见粉丝缩写
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3359925369",
       "Source": "This skin can be used to make your sword, pick, or hatchet look like Michelangelo's Nunchuk from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的剑、稿子或斧头变为《忍者神龟》中米开朗基罗的双节棍!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的剑、稿子或斧头变为《忍者神龟》中米开朗基罗的双节棍!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::337200505",
       "Source": "This skin can be used to make your sword look like Raphael's Sai from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的剑变为《忍者神龟》中拉斐尔的刺叉!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的剑变为《忍者神龟》中拉斐尔的刺叉!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1252358712",
       "Source": "This skin can be used to make your Survivor look like they are wearing a ninja eye mask from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可让你的生存者戴上《忍者神龟》主题的忍者眼罩!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可让你的生存者戴上《忍者神龟》主题的忍者眼罩!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1342858945",
       "Source": "Manhole Cover",
-      "Trans": { "SC": "下水道井盖", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"下水道井盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3714422015",
       "Source": "This skin can be used to make your Small Decor Box look like a Manhole Cover from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的小型装饰箱变为《忍者神龟》中的下水道井盖!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的小型装饰箱变为《忍者神龟》中的下水道井盖!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1554203237",
       "Source": "This skin can be used to make your metal pike look like Donatello's Bo Staff from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的金属长矛变为《忍者神龟》中多纳泰罗的武士棍!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的金属长矛变为《忍者神龟》中多纳泰罗的武士棍!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3433400846",
       "Source": "This skin can be used to make your sword look like Leonardo's Katana from Teenage Mutant Ninja Turtles!",
-      "Trans": { "SC": "这款皮肤可将你的剑变为《忍者神龟》中莱昂纳多的忍者刀!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"这款皮肤可将你的剑变为《忍者神龟》中莱昂纳多的忍者刀!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::850560415",
       "Source": "Ooze's Cannister",
-      "Trans": { "SC": "诱变黏液容器", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"诱变黏液容器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1144133853",
       "Source": "Donatello Battle Mode",
-      "Trans": { "SC": "多纳泰罗作战版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"多纳泰罗作战版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::357575296",
       "Source": "Donatello Vintage",
-      "Trans": { "SC": "多纳泰罗经典版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"多纳泰罗经典版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1959124849",
       "Source": "Donatello",
-      "Trans": { "SC": "多纳泰罗", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"多纳泰罗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::924811747",
       "Source": "Footclan",
-      "Trans": { "SC": "大脚帮", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"大脚帮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::271272097",
       "Source": "Leonardo Battle Mode",
-      "Trans": { "SC": "莱昂纳多作战版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"莱昂纳多作战版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1084592114",
       "Source": "Leonardo Vintage",
-      "Trans": { "SC": "莱昂纳多经典版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"莱昂纳多经典版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3339506667",
       "Source": "Leonardo",
-      "Trans": { "SC": "莱昂纳多", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"莱昂纳多","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::340595019",
       "Source": "Michelangelo Battle Mode",
-      "Trans": { "SC": "米开朗基罗作战版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"米开朗基罗作战版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4081002492",
       "Source": "Michelangelo Vintage",
-      "Trans": { "SC": "米开朗基罗经典版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"米开朗基罗经典版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1258778962",
       "Source": "Michelangelo",
-      "Trans": { "SC": "米开朗基罗", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"米开朗基罗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::516061599",
       "Source": "Raphael Battle Mode",
-      "Trans": { "SC": "拉斐尔作战版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"拉斐尔作战版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1331872570",
       "Source": "Raphael Vintage",
-      "Trans": { "SC": "拉斐尔经典版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"拉斐尔经典版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1938355544",
       "Source": "Raphael",
-      "Trans": { "SC": "拉斐尔", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"拉斐尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3626336594",
       "Source": "Shredder Battle Mode",
-      "Trans": { "SC": "史莱德作战版", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"史莱德作战版","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::193676055",
       "Source": "Shredder",
-      "Trans": { "SC": "史莱德", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"史莱德","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::733807047",
       "Source": "Splinter",
-      "Trans": { "SC": "斯普林特", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"斯普林特","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2218694364",
       "Source": "Mouser Dodo",
-      "Trans": { "SC": "机械捕鼠渡渡鸟", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"机械捕鼠渡渡鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3680884137",
       "Source": "Mouser Rex",
-      "Trans": { "SC": "机械捕鼠霸王龙", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"机械捕鼠霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3166815046",
       "Source": "Ninja Eye Mask (Creature)",
-      "Trans": { "SC": "忍者眼罩 (生物)", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"忍者眼罩 (生物)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::799413276",
       "Source": "Ninja Eye Mask (Survivor)",
-      "Trans": { "SC": "忍者眼罩 (生存者)", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"忍者眼罩 (生存者)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2166099046",
       "Source": "TCRI Cannister",
-      "Trans": { "SC": "科技宇宙研究所容器", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"科技宇宙研究所容器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3699093061",
       "Source": "KC Mask",
-      "Trans": { "SC": "凯西面具", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"凯西面具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3089630545",
       "Source": "Party Wagon",
-      "Trans": { "SC": "派对战车", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"派对战车","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1936276722",
       "Source": "Hockey Stick",
-      "Trans": { "SC": "冰球棍", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"冰球棍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4289074619",
       "Source": "Nunchuck",
-      "Trans": { "SC": "双节棍", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"双节棍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1784632895",
       "Source": "Sai",
-      "Trans": { "SC": "刺叉", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"刺叉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::853834462",
       "Source": "Bo Staff",
-      "Trans": { "SC": "武士棍", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"武士棍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3140916046",
       "Source": "Katana",
-      "Trans": { "SC": "忍者刀", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": ""}
+      "Trans": {"SC":"忍者刀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
 }
