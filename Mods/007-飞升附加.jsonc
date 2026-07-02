@@ -64,7 +64,7 @@
     {
       "NamespaceHash": "Content::993253881",
       "Source": "Paleo Acrocanthosaurus",
-      "Trans": {"SC":"远古高棘龙","JA":""},
+      "Trans": {"SC":"远古高棘龙","JA":"遠古高棘龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -204,14 +204,14 @@
     {
       "NamespaceHash": "Content::3958214491",
       "Source": "Acrocanthosaurus Dossier",
-      "Trans": {"SC":"高棘龙图鉴","JA":""},
+      "Trans": {"SC":"高棘龙图鉴","JA":"高棘龙圖鑒"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1369932933",
       "Source": "An Acro gave you Adrenaline! Attack, Defense, and Speed are increased!",
       //正式版会重做, 需要注意
-      "Trans": {"SC":"一只高棘龙激发了你的肾上腺素! 攻击, 防御, 速度增加了!","JA":""},
+      "Trans": {"SC":"一只高棘龙激发了你的肾上腺素! 攻击, 防御, 速度增加了!","JA":"高棘龙激發了你的腎上腺素! 攻擊, 防御, 速度增加了!"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
@@ -225,7 +225,7 @@
     {
       "NamespaceHash": "Content::468924771",
       "Source": "Brachiosaurus Dossier",
-      "Trans": {"SC":"腕龙图鉴","JA":""},
+      "Trans": {"SC":"腕龙图鉴","JA":"腕龙圖鑒"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -322,7 +322,7 @@
     {
       "NamespaceHash": "Content::714501961",
       "Source": "Battle Mode",
-      "Trans": {"SC":"战斗模式","JA":""},
+      "Trans": {"SC":"战斗模式","JA":"戰斗模式"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -348,13 +348,13 @@
     {
       "NamespaceHash": "Content::109179675",
       "Source": "Helicoprion",
-      "Trans": {"SC":"旋齿鲨","JA":""},
+      "Trans": {"SC":"旋齿鲨","JA":"旋齿鯊"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1227807040",
       "Source": "Helicoprion Dossier",
-      "Trans": {"SC":"旋齿鲨图鉴","JA":""},
+      "Trans": {"SC":"旋齿鲨图鉴","JA":"旋齿鲨圖鑒"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

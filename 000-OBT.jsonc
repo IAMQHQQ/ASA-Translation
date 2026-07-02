@@ -22898,7 +22898,7 @@
     },
     {
       "NamespaceHash": "Content::3469406434",
-      "Source": "Medium",
+      "Source": "Medium", //可能会导致bug但是没办法官方的调用点太多了, 只能说后续如果不是什么特么严重的bug可以做专项修复比如绿洲龙的花盆问题。
       "Trans": {"SC":"中","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
