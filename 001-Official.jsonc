@@ -1,6 +1,51 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::2875638755",
+      "Source": "HAPPY ARK Anniversary! Place it, write a custom message & hop inside, then jump out to surprise your friends! Or just use it to hide from danger...",
+      "Trans": {"SC":"ARK周年快乐!放置它, 写下自定义留言并钻进去, 然后跳出来给朋友一个惊喜!或者干脆用它躲避危险...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "029EA9824DFF7EA0B8A9E093E62346E7", //捏人
+      "Source": "CORE",
+      "Trans": {"SC":"躯干","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"305364328"}
+    },
+    {
+      "NamespaceHash": "81DBFF8647CF5D9D471642809B2C8894", //捏人
+      "Source": "MASS",
+      "Trans": {"SC":"体重1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1649954816"}
+    },
+    {
+      "NamespaceHash": "6EF5788A4317C23574BD1CB83E0BC288", //捏人
+      "Source": "MASS",
+      "Trans": {"SC":"体重2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1649954816"}
+    },
+    {
+      //"NamespaceHash": "GraphLiteral::1958662169",
+      "NamespaceHash": "311CA5DF440AE09B40832C914B1A6ED6", //捏人
+      "Source": "BUTT",
+      "Trans": {"SC":"臀部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1958662169"}
+    },
+    {
+      //"NamespaceHash": "GraphLiteral::1866708214",
+      "NamespaceHash": "B4BB3397473B7289E9B3D2891379CCE6", //捏人
+      "Source": "CALVES",
+      "Trans": {"SC":"","JA":"小腿"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1866708214"}
+    },
+    {
+      //"NamespaceHash": "GraphLiteral::425272341",
+      "NamespaceHash": "F03A2E884F01155F17A4C08462B058CF", //捏人
+      "Source": "THIGH",
+      "Trans": {"SC":"大腿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"425272341"}
+    },
+    {
       "NamespaceHash": "DT_Milestones_LC::Task.LC.TameGloonHighEff_MilestoneDescription",
       "Source": "Tame 1 Gloon at 90%+ Taming Effectiveness",
       "Trans": {"SC":"以驯养有效 90%+ 驯服 1 只咕隆","JA":""},
@@ -633,6 +678,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::3546998250",
+      "Source": "Alpha Palaeoctopus",
+      "Trans": {"SC":"精英古蛸","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::3329776360",
       "Source": "Palaeoctopus",
       "Trans": {"SC":"古蛸","JA":""},
@@ -987,14 +1038,12 @@
       "Trans": {"SC":"Discord 尚未就绪。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"163005799"}
     },
-    //[#3] 次数:1
     {
       "NamespaceHash": "DiscordFriendsUI::DisconnectingFromDiscordStatus",
       "Source": "Disconnecting from Discord...",
       "Trans": {"SC":"正在断开与 Discord 的连接...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2893921948"}
     },
-    //[#4] 次数:1
     {
       "NamespaceHash": "DiscordFriendsUI::ConnectFullDiscordAccountStatus",
       "Source": "Connect a full Discord account to use the unified friends list.",
@@ -51230,7 +51279,7 @@
     {
       "NamespaceHash": "Content::2177085755",
       "Source": "Plant this in a viable large crop plot to grow a strange-looking plant, which will grow large spores that can be used to immobilize humans and small creatures.",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"可以将这个长相怪异的植物种植在适合的大型作物地块中, 这种植物会长出大型的孢子, 可以用来使人类和小型生物无法移动。","JA":""},
       //可能是Y种子
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -67755,6 +67804,1004 @@
       "Source": "Common Name: Ossidon\r\nSpecies: Cryopithecus Dominus\r\nTime: Necrocene\r\nDiet: Carnivore\r\nTemperament: Relentless\r\n\r\nOverview\r\nProject Ossidon has already yielded the ideal apex protector for our people! Experimentation with Red Element infusion of creatures engineered for hardiness has given us a truly fearsome anthropoid that can dominate the Antarctic wastes. \r\n\r\nNote Information\r\nBy design, these noble snow-beasts can be sorted at a distance by adaption. Each specimen morphologically expresses its most useful genomic trait. The healthiest Ossidon will grow largest, while the deadliest will flash the longest claws.\r\n\r\nApplications\r\nBiotech teams are laboring around the clock to gestate and domesticate as many Ossidons as possible, for the day they may be needed to keep a Titan at bay. In the near term, these glorious behemoths will be employed as our peacekeepers and guardians.\r\n\r\nVisual Attachment\r\nOssidon was engineered to produce excessive quantities of cryogenic mucus. This foul substance is the creature's greatest weapon, whether rolled into an icy wrecking ball or spit in a shower of bone-chilling slush.\r\n\r\nAny rider will feel unstoppable astride one of these imposing brutes! Our mounted forces will soon become as integral to the defense of this outpost as our shielding.",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ],
+  "TidesOfFortune": [
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXParasaur_MilestoneDescription",
+      "Source": "Tame 1 X-Parasaur",
+      "Trans": {"SC":"驯服 1 只X-副栉龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3160609173"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishNets_MilestoneDescription",
+      "Source": "Craft 5 Fish Nets",
+      "Trans": {"SC":"制作 5 个渔网","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3038997429"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchFishNetsA_MilestoneDescription",
+      "Source": "Catch 25 Fish with Fish Nets",
+      "Trans": {"SC":"使用渔网捕获 25 条鱼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2567120961"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXOtterA_MilestoneDescription",
+      "Source": "Tame 1 X-Otter",
+      "Trans": {"SC":"驯服 1 只X-水獭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3667721025"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftBountyBoard_MilestoneDescription",
+      "Source": "Craft 1 Bounty Board",
+      "Trans": {"SC":"制作 1 个悬赏板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2320772496"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRamsContractA_MilestoneDescription",
+      "Source": "Complete 1 Ramshackle Contract",
+      "Trans": {"SC":"完成 1 个普通契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3133197250"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsA_MilestoneDescription",
+      "Source": "Spend 100 Hexagons at the Hexchange",
+      "Trans": {"SC":"在六角币商店消费 100 枚六角币","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3068759579"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftWoodPlatform_MilestoneDescription",
+      "Source": "Craft 1 Wood Ocean Platform",
+      "Trans": {"SC":"制作 1 个木制海洋平台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"611208889"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCargoLedgerA_MilestoneDescription",
+      "Source": "Craft 1 Cargo Ledger",
+      "Trans": {"SC":"制作 1 个货物账簿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3186834496"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMarketA_MilestoneDescription",
+      "Source": "Craft 1 Market",
+      "Trans": {"SC":"制作 1 个市场","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3789284287"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXIchthy_MilestoneDescription",
+      "Source": "Tame 1 X-Ichthyosaurus",
+      "Trans": {"SC":"驯服1只X-鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"251954610"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelXIchthy_MilestoneDescription",
+      "Source": "Travel 100,000 Meters Distance on an X-Ichthyosaurus",
+      "Trans": {"SC":"骑乘X-鱼龙移动100,000米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"895559949"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoA_MilestoneDescription",
+      "Source": "Collect 1 Ramshackle Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集1个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1415326515"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRaptor_MilestoneDescription",
+      "Source": "Tame 1 X-Raptor",
+      "Trans": {"SC":"驯服1只X-迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3951222929"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXSabertooth_MilestoneDescription",
+      "Source": "Tame 1 X-Sabertooth",
+      "Trans": {"SC":"驯服1只X-剑齿虎","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3041687113"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXAllosaurus_MilestoneDescription",
+      "Source": "Tame 1 X-Allosaurus",
+      "Trans": {"SC":"驯服1只X-异特龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1018494288"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXAnkylosaurus_MilestoneDescription",
+      "Source": "Tame 1 X-Ankylosaurus",
+      "Trans": {"SC":"驯服1只X-甲龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3788350393"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsA_MilestoneDescription",
+      "Source": "Complete 1 Gamma Mission",
+      "Trans": {"SC":"完成1个简单任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"798092502"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRaceMission_MilestoneDescription",
+      "Source": "Complete 1 Race Mission",
+      "Trans": {"SC":"完成1个竞速任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2598127120"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteEscortMission_MilestoneDescription",
+      "Source": "Complete 1 Escort Mission",
+      "Trans": {"SC":"完成1个护送任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3661288538"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishTankA_MilestoneDescription",
+      "Source": "Craft 1 Aquarium",
+      "Trans": {"SC":"制作1个水族箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2124961631"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishBasketsA_MilestoneDescription",
+      "Source": "Craft 10 Fish Baskets",
+      "Trans": {"SC":"制作10个鱼篮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"138010236"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchSalmon_MilestoneDescription",
+      "Source": "Catch 10 X-Sabertooth Salmon with Fish Baskets",
+      "Trans": {"SC":"使用鱼篮捕获10只X-剑齿鲑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3263484338"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftShipyardA_MilestoneDescription",
+      "Source": "Craft 1 Shipyard",
+      "Trans": {"SC":"制作1个船坞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"648718057"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructSloopA_MilestoneDescription",
+      "Source": "Construct a Sloop",
+      "Trans": {"SC":"建造1艘单桅帆船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3546547529"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelSloop_MilestoneDescription",
+      "Source": "Travel 10,000 Meters Distance with Sloop",
+      "Trans": {"SC":"使用单桅帆船移动10,000米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1817891892"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXTrike_MilestoneDescription",
+      "Source": "Tame 1 X-Trike",
+      "Trans": {"SC":"驯服1只X-三角龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"290075646"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestWoodA_MilestoneDescription",
+      "Source": "Harvest 1,000 Wood/Fungal Wood",
+      "Trans": {"SC":"采集1,000份木头/真菌木","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1947720776"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCargoLedgerB_MilestoneDescription",
+      "Source": "Craft 3 Cargo Ledgers",
+      "Trans": {"SC":"制作3个货物账簿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"708637367"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestWoodB_MilestoneDescription",
+      "Source": "Harvest 5,000 Wood/Fungal Wood",
+      "Trans": {"SC":"采集5,000份木头/真菌木","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4034132589"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftStorageBoxes_MilestoneDescription",
+      "Source": "Craft 25 Large Storage Boxes",
+      "Trans": {"SC":"制作25个大型储物箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"29915149"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupA_MilestoneDescription",
+      "Source": "Tame 1 Tidepup",
+      "Trans": {"SC":"驯服1只潮佑螈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"726345108"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameParrotB_MilestoneDescription",
+      "Source": "Tame 3 Parrots",
+      "Trans": {"SC":"驯服3只鹦鹉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3517542355"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXOtterB_MilestoneDescription",
+      "Source": "Tame 3 X-Otters",
+      "Trans": {"SC":"驯服3只X-水獭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4244483860"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructSloopB_MilestoneDescription",
+      "Source": "Construct 3 Sloops",
+      "Trans": {"SC":"建造3艘单桅帆船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4138463399"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsB_MilestoneDescription",
+      "Source": "Destroy 3 Pirate Ships",
+      "Trans": {"SC":"摧毁3个海盗船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3756222956"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatFleetCaptainA_MilestoneDescription",
+      "Source": "Defeat 1 Fleet Captain Ship",
+      "Trans": {"SC":"击败1艘舰队长船只","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3741177841"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameParrotA_MilestoneDescription",
+      "Source": "Tame 1 Parrot",
+      "Trans": {"SC":"驯服1只鹦鹉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3254144942"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoC_MilestoneDescription",
+      "Source": "Collect 5 Ramshackle Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集5个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1877919793"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsB_MilestoneDescription",
+      "Source": "Complete 3 Gamma Missions",
+      "Trans": {"SC":"完成3个简单任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4254712966"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBetaMissionsA_MilestoneDescription",
+      "Source": "Complete 1 Beta Mission",
+      "Trans": {"SC":"完成1个中等任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1762316004"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsB_MilestoneDescription",
+      "Source": "Spend 2,500 Hexagons at the Hexchange",
+      "Trans": {"SC":"在六角币交易所花费2,500枚六角币","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"732816263"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRamsContractB_MilestoneDescription",
+      "Source": "Complete 3 Ramshackle Contracts",
+      "Trans": {"SC":"完成3个普通契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1454674604"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteApprContractA_MilestoneDescription",
+      "Source": "Complete 1 Apprentice Contract",
+      "Trans": {"SC":"完成1个优秀契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"728645662"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsC_MilestoneDescription",
+      "Source": "Spend 2,500 Hexagons at the Hexchange",
+      "Trans": {"SC":"在六角币交易所花费2,500枚六角币","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"732816263"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishTankB_MilestoneDescription",
+      "Source": "Craft 3 Aquariums",
+      "Trans": {"SC":"制作3个水族箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"660663729"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishBasketsB_MilestoneDescription",
+      "Source": "Craft 25 Fish Baskets",
+      "Trans": {"SC":"制作25个鱼篮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3892123431"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchFishNetsB_MilestoneDescription",
+      "Source": "Catch 50 Fish with Fish Nets",
+      "Trans": {"SC":"使用渔网捕获50条鱼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"206894077"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsA_MilestoneDescription",
+      "Source": "Raid 1 Pirate Camp or Ocean Outpost",
+      "Trans": {"SC":"袭击1个海盗营地或海洋前哨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2149887342"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsA_MilestoneDescription",
+      "Source": "Complete 1 Treasure Map Bottle",
+      "Trans": {"SC":"完成1个藏宝图瓶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2058816076"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsA_MilestoneDescription",
+      "Source": "Destroy 3 Pirate Ships",
+      "Trans": {"SC":"摧毁3个海盗船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3756222956"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMetalPlatform_MilestoneDescription",
+      "Source": "Craft 1 Metal Ocean Platform",
+      "Trans": {"SC":"制作1个金属海洋平台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3189604871"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftShipyardB_MilestoneDescription",
+      "Source": "Craft 1 Shipyard",
+      "Trans": {"SC":"制作1个船坞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"648718057"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMarketB_MilestoneDescription",
+      "Source": "Craft 1 Market",
+      "Trans": {"SC":"制作1个市场","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3789284287"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftTekSensor_MilestoneDescription",
+      "Source": "Craft 1 Tek Sensor",
+      "Trans": {"SC":"制作1个泰克传感器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"149777426"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftTekJumpPad_MilestoneDescription",
+      "Source": "Craft 1 Tek Jump Pad",
+      "Trans": {"SC":"制作1个泰克跳板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2464477888"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelTekJumpPad_MilestoneDescription",
+      "Source": "Travel 10,000 Meters Distance with Tek Jump Pad",
+      "Trans": {"SC":"使用泰克弹射板移动10,000米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2426567741"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoB_MilestoneDescription",
+      "Source": "Collect 5 Ramshackle Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集5个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1877919793"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoA_MilestoneDescription",
+      "Source": "Collect 3 Apprentice Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集3个优秀废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1658586834"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoA_MilestoneDescription",
+      "Source": "Collect 1 Journeyman Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集1个精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3951526098"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoC_MilestoneDescription",
+      "Source": "Collect 5 Journeyman Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集5个精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3493159888"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsB_MilestoneDescription",
+      "Source": "Complete 3 Treasure Map Bottles",
+      "Trans": {"SC":"完成3个藏宝图瓶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"809861714"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsC_MilestoneDescription",
+      "Source": "Destroy 10 Pirate Ships",
+      "Trans": {"SC":"摧毁10个海盗船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1864092368"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteApprContractB_MilestoneDescription",
+      "Source": "Complete 3 Apprentice Contracts",
+      "Trans": {"SC":"完成3个优秀契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1624920665"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteJourContractA_MilestoneDescription",
+      "Source": "Complete 1 Journeyman Contract",
+      "Trans": {"SC":"完成1个精良契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1023250490"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsD_MilestoneDescription",
+      "Source": "Spend 5,000 Hexagons at the Hexchange",
+      "Trans": {"SC":"在六角币交易所花费5,000枚六角币","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3140877669"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsA_MilestoneDescription",
+      "Source": "Complete 5 Ocean Biome Missions",
+      "Trans": {"SC":"完成5个海洋生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3636175266"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteVolcanicMissionsA_MilestoneDescription",
+      "Source": "Complete 5 Volcanic Biome Missions",
+      "Trans": {"SC":"完成5个火山生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3551497636"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteSpaceMissionsA_MilestoneDescription",
+      "Source": "Complete 5 Space Biome Missions",
+      "Trans": {"SC":"完成5个太空生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1742016742"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMiningDrill_MilestoneDescription",
+      "Source": "Craft 1 Mining Drill",
+      "Trans": {"SC":"制作1个采矿钻","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"483702605"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillA_MilestoneDescription",
+      "Source": "Harvest 150,000 Resources with Mining Drill",
+      "Trans": {"SC":"使用采矿钻采集150,000份资源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRex_MilestoneDescription",
+      "Source": "Tame 1 X-Rex",
+      "Trans": {"SC":"驯服1只X-霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1842080243"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXYutyrannusB_MilestoneDescription",
+      "Source": "Tame 1 X-Yutyrannus",
+      "Trans": {"SC":"驯服1只X-羽暴龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1658072556"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXSpino_MilestoneDescription",
+      "Source": "Tame 1 X-Spino",
+      "Trans": {"SC":"驯服1只X-棘背龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1358126606"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupB_MilestoneDescription",
+      "Source": "Tame 3 Tidepups",
+      "Trans": {"SC":"驯服3只潮佑螈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1856204759"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.EvolveTidepupNeotenic_MilestoneDescription",
+      "Source": "Evolve 1 Tidepup via Neotenic Stabilization",
+      "Trans": {"SC":"通过幼态稳定进化1只潮佑螈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2709255680"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DispelDebuffsTidepup_MilestoneDescription",
+      "Source": "Have 10 debuffs dispelled by Tidepup on your shoulder",
+      "Trans": {"SC":"让肩上的潮佑螈驱散10个减益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4075223804"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurus_MilestoneDescription",
+      "Source": "Tame 1 X-Mosasaurus",
+      "Trans": {"SC":"驯服1只X-沧龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3161319936"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsB_MilestoneDescription",
+      "Source": "Complete 5 Ocean Biome Missions",
+      "Trans": {"SC":"完成5个海洋生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3636175266"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaMoeder_MilestoneDescription",
+      "Source": "Defeat Boss: Gamma Moeder, Master of the Ocean",
+      "Trans": {"SC":"击败首领：海洋之主莫德尔（简单）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1866832116"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineA_MilestoneDescription",
+      "Source": "Construct 1 Brigantine",
+      "Trans": {"SC":"建造1艘双桅帆船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1256332626"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsD_MilestoneDescription",
+      "Source": "Destroy 10 Pirate Ships",
+      "Trans": {"SC":"摧毁10个海盗船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1864092368"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsB_MilestoneDescription",
+      "Source": "Raid 5 Pirate Camps or Ocean Outposts",
+      "Trans": {"SC":"袭击5个海盗营地或海洋前哨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1343011468"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoD_MilestoneDescription",
+      "Source": "Collect 25 Ramshackle Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集25个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2309292462"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoB_MilestoneDescription",
+      "Source": "Collect 15 Apprentice Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集15个优秀废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2286156963"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoB_MilestoneDescription",
+      "Source": "Collect 5 Journeyman Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集5个精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3493159888"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXYutyrannusA_MilestoneDescription",
+      "Source": "Tame 1 X-Yutyrannus",
+      "Trans": {"SC":"驯服1只X-羽暴龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1658072556"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsC_MilestoneDescription",
+      "Source": "Complete 10 Gamma Missions",
+      "Trans": {"SC":"完成10个简单任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1721629206"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaController_MilestoneDescription",
+      "Source": "Defeat Boss: Gamma Corrupted Master Controller",
+      "Trans": {"SC":"击败首领：腐化的主宰者（简单）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3239498533"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CreateBloodPacksA_MilestoneDescription",
+      "Source": "Create 10 Blood Packs",
+      "Trans": {"SC":"制作10个血袋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2662587059"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameBloodstalkerA_MilestoneDescription",
+      "Source": "Tame 1 Bloodstalker",
+      "Trans": {"SC":"驯服1只血蛛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1774806983"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsA_MilestoneDescription",
+      "Source": "Complete 5 Bog Biome Missions",
+      "Trans": {"SC":"完成5个沼泽生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1648397108"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXDunkleosteus_MilestoneDescription",
+      "Source": "Tame 3 X-Dunkleosteus",
+      "Trans": {"SC":"驯服3只X-邓氏鱼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2376612736"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestShellFragments_MilestoneDescription",
+      "Source": "Harvest 10 Shell Fragments",
+      "Trans": {"SC":"采集10份贝壳碎片","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1548839888"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillB_MilestoneDescription",
+      "Source": "Harvest 150,000 Resources with Mining Drill",
+      "Trans": {"SC":"使用采矿钻采集150,000份资源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftHoverSkiff_MilestoneDescription",
+      "Source": "Craft 1 Tek Hover Skiff",
+      "Trans": {"SC":"制作1个泰克悬浮艇","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3330712628"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelHoverSkiff_MilestoneDescription",
+      "Source": "Travel 100,000 Meters Distance with Tek Hover Skiff",
+      "Trans": {"SC":"使用泰克悬浮艇移动100,000米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1726745278"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteSpaceMissionsB_MilestoneDescription",
+      "Source": "Complete 10 Space Biome Missions",
+      "Trans": {"SC":"完成10个太空生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3944153332"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteJourContractB_MilestoneDescription",
+      "Source": "Complete 3 Journeyman Contracts",
+      "Trans": {"SC":"完成3个精良契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"465306398"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteMasterContractA_MilestoneDescription",
+      "Source": "Complete 1 Mastercraft Contract",
+      "Trans": {"SC":"完成1个史诗契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"849106320"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsE_MilestoneDescription",
+      "Source": "Spend 10,000 Hexagons at the Hexchange",
+      "Trans": {"SC":"在六角币交易所花费10,000枚六角币","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1101661303"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurusHighEff_MilestoneDescription",
+      "Source": "Tame 1 X-Mosasaurus at 90% Taming Effectiveness",
+      "Trans": {"SC":"以90%驯服效率驯服1只X-沧龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1987602063"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelon_MilestoneDescription",
+      "Source": "Tame 1 Megachelon",
+      "Trans": {"SC":"驯服1只巨龟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"824652351"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusA_MilestoneDescription",
+      "Source": "Tame 3 Palaeoctopus",
+      "Trans": {"SC":"驯服3只古章鱼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"731898538"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsC_MilestoneDescription",
+      "Source": "Raid 10 Pirate Camps or Ocean Outposts",
+      "Trans": {"SC":"袭击10个海盗营地或海洋前哨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3116076307"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsC_MilestoneDescription",
+      "Source": "Complete 5 Treasure Map Bottles",
+      "Trans": {"SC":"完成5个藏宝图瓶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"464204869"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatFleetCaptainB_MilestoneDescription",
+      "Source": "Defeat 5 Fleet Captain Ships",
+      "Trans": {"SC":"击败5艘舰队长船只","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2647942983"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupC_MilestoneDescription",
+      "Source": "Tame 5 Tidepups",
+      "Trans": {"SC":"驯服5只潮佑螈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1004146375"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.EvolveTidepupMetamorph_MilestoneDescription",
+      "Source": "Evolve 1 Tidepup via Metamorphosis",
+      "Trans": {"SC":"通过蜕变进化1只潮佑螈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1646132582"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HealAlliesTidepup_MilestoneDescription",
+      "Source": "Restore 50,000 health to allies while mounted on a Tidepup",
+      "Trans": {"SC":"骑乘潮佑螈为盟友恢复50,000点生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2606523342"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGauntletMissions_MilestoneDescription",
+      "Source": "Complete 3 Gauntlet Missions",
+      "Trans": {"SC":"完成3个挑战任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2452316498"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteVolcanicMissionsB_MilestoneDescription",
+      "Source": "Complete 10 Volcanic Biome Missions",
+      "Trans": {"SC":"完成10个火山生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1632704459"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaController_MilestoneDescription",
+      "Source": "Defeat Boss: Beta Corrupted Master Controller",
+      "Trans": {"SC":"击败首领：腐化的主宰者（中等）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3531842341"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestElementShards_MilestoneDescription",
+      "Source": "Harvest 5,000 Element Shards",
+      "Trans": {"SC":"采集5,000份元素碎片","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1475923933"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameFeroxHighLvl_MilestoneDescription",
+      "Source": "Tame 1 Ferox at level 135+",
+      "Trans": {"SC":"驯服1只135级以上的猿狐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3494785429"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameFeroxHighEff_MilestoneDescription",
+      "Source": "Tame 1 Ferox at 90% Taming Effectiveness",
+      "Trans": {"SC":"以90%驯服效率驯服1只猿狐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3149808607"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusA_MilestoneDescription",
+      "Source": "Tame 1 Astrocetus",
+      "Trans": {"SC":"驯服1只太空鲸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3002520868"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ObtainAmbergris_MilestoneDescription",
+      "Source": "Obtain 50 Ambergris",
+      "Trans": {"SC":"获得50份龙涎香","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1121307388"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelAstrocetus_MilestoneDescription",
+      "Source": "Travel 100,000 Meters Distance with Astrocetus",
+      "Trans": {"SC":"骑乘太空鲸移动100,000米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"964650413"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageHandCannonA_MilestoneDescription",
+      "Source": "Deal 150,000 Damage with Hand Cannon",
+      "Trans": {"SC":"使用手炮造成150,000点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3581859765"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.FireTekGrenades_MilestoneDescription",
+      "Source": "Fire 100 Grenades with Tek Grenade Launcher",
+      "Trans": {"SC":"使用泰克榴弹发射器发射100枚榴弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4109630502"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageShoulderCannonA_MilestoneDescription",
+      "Source": "Deal 100,000 Damage with Tek Shoulder Cannon",
+      "Trans": {"SC":"使用泰克肩炮造成100,000点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3539613316"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMegalodon_MilestoneDescription",
+      "Source": "Tame 5 X-Megalodon",
+      "Trans": {"SC":"驯服5只X-巨齿鲨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2917230"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsC_MilestoneDescription",
+      "Source": "Complete 10 Ocean Biome Missions",
+      "Trans": {"SC":"完成10个海洋生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1417261488"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaMoeder_MilestoneDescription",
+      "Source": "Defeat Boss: Beta Moeder, Master of the Ocean",
+      "Trans": {"SC":"击败首领：海洋之主莫德尔（中等）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2094065908"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBetaMissionsB_MilestoneDescription",
+      "Source": "Complete 10 Beta Missions",
+      "Trans": {"SC":"完成10个中等任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3369861657"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsB_MilestoneDescription",
+      "Source": "Complete 10 Bog Biome Missions",
+      "Trans": {"SC":"完成10个沼泽生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1536623345"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteArcticMissionsA_MilestoneDescription",
+      "Source": "Complete 10 Arctic Biome Missions",
+      "Trans": {"SC":"完成10个极地生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3038174785"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.StealMagmasaurEgg_MilestoneDescription",
+      "Source": "Steal 1 Magmasaur Egg",
+      "Trans": {"SC":"偷取1个熔喉龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2753241219"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestObsidian_MilestoneDescription",
+      "Source": "Harvest 50,000 Obsidian",
+      "Trans": {"SC":"采集50,000份黑曜石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"808050534"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRexHighLvl_MilestoneDescription",
+      "Source": "Tame 3 X-Rex at level 135+",
+      "Trans": {"SC":"驯服3只135级以上的X-霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3888027845"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaMissions_MilestoneDescription",
+      "Source": "Complete 5 Alpha Missions",
+      "Trans": {"SC":"完成5个困难任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3679227071"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaController_MilestoneDescription",
+      "Source": "Defeat Boss: Alpha Corrupted Master Controller",
+      "Trans": {"SC":"击败首领：腐化的主宰者（困难）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1359111898"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CreateBloodPacksB_MilestoneDescription",
+      "Source": "Create 100 Blood Packs",
+      "Trans": {"SC":"制作100个血袋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2808869744"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameBloodstalkerB_MilestoneDescription",
+      "Source": "Tame 5 Bloodstalkers",
+      "Trans": {"SC":"驯服5只血蛛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1295407153"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsC_MilestoneDescription",
+      "Source": "Complete 25 Bog Biome Missions",
+      "Trans": {"SC":"完成25个沼泽生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3643415521"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineB_MilestoneDescription",
+      "Source": "Construct 5 Brigantines",
+      "Trans": {"SC":"建造5艘双桅帆船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2872568049"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsE_MilestoneDescription",
+      "Source": "Destroy 50 Pirate Ships",
+      "Trans": {"SC":"摧毁50个海盗船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4072143982"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsD_MilestoneDescription",
+      "Source": "Raid 25 Pirate Camps or Ocean Outposts",
+      "Trans": {"SC":"袭击25个海盗营地或海洋前哨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3256099548"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMegalodonHighLvl_MilestoneDescription",
+      "Source": "Tame 5 X-Megalodon at level 135+",
+      "Trans": {"SC":"驯服5只135级以上的X-巨齿鲨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"482670797"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurusHighLvl_MilestoneDescription",
+      "Source": "Tame 5 X-Mosasaurus at level 135+",
+      "Trans": {"SC":"驯服5只135级以上的X-沧龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1675212389"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaMoeder_MilestoneDescription",
+      "Source": "Defeat Boss: Alpha Moeder, Master of the Ocean",
+      "Trans": {"SC":"击败首领：海洋之主莫德尔（困难）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4283510027"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteMasterContractB_MilestoneDescription",
+      "Source": "Complete 3 Mastercraft Contracts",
+      "Trans": {"SC":"完成3个史诗契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3136163685"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAscContract_MilestoneDescription",
+      "Source": "Complete 1 Ascendant Contract",
+      "Trans": {"SC":"完成1个传说契约","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3509526931"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsF_MilestoneDescription",
+      "Source": "Spend 50,000 Hexagons at the Hexchange",
+      "Trans": {"SC":"在六角币交易所花费50,000枚六角币","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2387988667"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineC_MilestoneDescription",
+      "Source": "Construct 1 Brigantine",
+      "Trans": {"SC":"建造1艘双桅帆船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1256332626"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelBrigantine_MilestoneDescription",
+      "Source": "Travel 250,000 Meters Distance with Brigantine",
+      "Trans": {"SC":"使用双桅帆船移动250,000米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"610355502"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageBrigantineB_MilestoneDescription",
+      "Source": "Deal 500,000 Damage with Brigantine",
+      "Trans": {"SC":"使用双桅帆船造成500,000点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"762923087"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCruiseMissiles_MilestoneDescription",
+      "Source": "Craft 10 Cruise Missiles",
+      "Trans": {"SC":"制作10个巡航导弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"251245819"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusB_MilestoneDescription",
+      "Source": "Tame 3 Astrocetus",
+      "Trans": {"SC":"驯服3只太空鲸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3381988508"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusHighEff_MilestoneDescription",
+      "Source": "Tame 1 Astrocetus at 90% Taming Effectiveness",
+      "Trans": {"SC":"以90%驯服效率驯服1只太空鲸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2767431223"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageBrigantineA_MilestoneDescription",
+      "Source": "Deal 500,000 Damage with Brigantine",
+      "Trans": {"SC":"使用双桅帆船造成500,000点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"762923087"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageShoulderCannonB_MilestoneDescription",
+      "Source": "Deal 250,000 Damage with Tek Shoulder Cannon",
+      "Trans": {"SC":"使用泰克肩炮造成250,000点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1211297278"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageHandCannonB_MilestoneDescription",
+      "Source": "Deal 500,000 Damage with Hand Cannon",
+      "Trans": {"SC":"使用手炮造成500,000点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1722967206"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusHighLvl_MilestoneDescription",
+      "Source": "Tame 1 Palaeoctopus at level 135+",
+      "Trans": {"SC":"驯服1只135级以上的古章鱼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2719424802"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelonHighLvl_MilestoneDescription",
+      "Source": "Tame 1 Megachelon at level 135+",
+      "Trans": {"SC":"驯服1只135级以上的巨龟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3580047671"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsD_MilestoneDescription",
+      "Source": "Complete 25 Ocean Biome Missions",
+      "Trans": {"SC":"完成25个海洋生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3086400223"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoE_MilestoneDescription",
+      "Source": "Collect 100 Ramshackle Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集100个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3938514540"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoC_MilestoneDescription",
+      "Source": "Collect 75 Apprentice Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集75个优秀废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3711745657"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoD_MilestoneDescription",
+      "Source": "Collect 25 Journeyman Abandoned Cargo with a ship",
+      "Trans": {"SC":"使用船只收集25个精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"914270799"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaArcticMissions_MilestoneDescription",
+      "Source": "Complete 10 Alpha Arctic Biome Missions",
+      "Trans": {"SC":"完成10个困难北极生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1473641712"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaVolcanicMissions_MilestoneDescription",
+      "Source": "Complete 10 Alpha Volcanic Biome Missions",
+      "Trans": {"SC":"完成10个困难火山生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3863417314"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaSpaceMissions_MilestoneDescription",
+      "Source": "Complete 10 Alpha Space Biome Missions",
+      "Trans": {"SC":"完成10个困难火山生物群系任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2439718516"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestBioToxin_MilestoneDescription",
+      "Source": "Harvest 1,000 Bio Toxin",
+      "Trans": {"SC":"采集1,000份生物毒素","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2666939981"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusB_MilestoneDescription",
+      "Source": "Tame 5 Palaeoctopus",
+      "Trans": {"SC":"驯服 5 只古蛸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1726057048"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXBasilosaurusHighLvl_MilestoneDescription",
+      "Source": "Tame 3 X-Basilosaurus at level 135+",
+      "Trans": {"SC":"驯服 3 只等级 135+ 的X-龙王鲸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1056673754"}
     }
   ],
   // 2025-10-09 20:53:11 //恐龙双语
