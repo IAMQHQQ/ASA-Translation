@@ -1,6 +1,144 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::1714270199",
+      "Source": "BOB",
+      "Trans": { "SC": "鲍勃", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2898414703",
+      "Source": "Draco Skill Tree",
+      "Trans": { "SC": "龙族技能树", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+        {
+      "NamespaceHash": "GraphLiteral::3926298704",
+      "Source": "Dragontopia Skill Tree",
+      "Trans": { "SC": "龙之国度技能树", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2903625370",
+      "Source": "Drake Claw Skill Tree",
+      "Trans": { "SC": "龙爪技能树", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+        {
+      "NamespaceHash": "GraphLiteral::3812037761",
+      "Source": "Lost Colony Skill Tree",
+      "Trans": { "SC": "失落之地技能树", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+        {
+      "NamespaceHash": "GraphLiteral::3633187916",
+      "Source": "Skill tree of Tides Of Fortune",
+      "Trans": { "SC": "命运之潮技能树", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+        {
+      "NamespaceHash": "GraphLiteral::4013824965",
+      "Source": "Umbra & Lumina Skill Tree",
+      "Trans": { "SC": "幽影仔 & 皎光仔技能树", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Globals::1053057888",
+      "Source": "Quantity For Sale", //没有本地化
+      "Trans": {"SC":"在售数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3585459144",
+      "Source": " : Decrease Amount",
+      "Trans": {"SC":" : 减少数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2834610693",
+      "Source": " : Increase Amount",
+      "Trans": {"SC":" : 增加数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3000049680",
+      "Source": "Awaken in a virtual simulation with your robotic companion to survive new exotic worlds! Genesis Ascended introduces a massive ocean biome featuring overhauled water physics, dynamic waves, and epic maritime warfare. Master the Palaeoctopus: a cliff-climbing cephalopod that crushes dual targets and supplies limitless colored ink!",
+      "Trans": {"SC":"在创世模拟中醒来, 身旁是一位奇怪又熟悉的机械伙伴。你需要完成一系列严苛任务, 在数个前所未见、与过往截然不同的异域世界中努力生存! «创世飞升»带来了辽阔的海洋生态群系, 全面重制水体物理效果与动态海浪系统, 并加入史诗级海战玩法。驯服并驾驭古蛸 —— 这种能够攀爬峭壁的头足类生物, 可同时碾碎两个目标, 还能持续产出彩色墨汁。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1746886388",
+      "Source": "MODIFY SALE",
+      "Trans": {"SC":"调整售卖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3895475775",
+      "Source": "COORDINATES",
+      "Trans": {"SC":"坐标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3026584792",
+      "Source": "DISTANCE",
+      "Trans": {"SC":"距离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3389813877",
+      "Source": "SELL ",
+      "Trans": {"SC":"出售 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::5653098",
+      "Source": "SELLER",
+      "Trans": {"SC":"卖家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2895960774",
+      "Source": "QUANTITY",
+      "Trans": {"SC":"数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1095362414",
+      "Source": "TOTAL PRICE",
+      "Trans": {"SC":"总价","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::17447111",
+      "Source": "ToF Hammock",
+      "Trans": {"SC":"命运之潮吊床","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1977421078",
+      "Source": "You can use this to skin a bed.",
+      "Trans": {"SC":"可用于改变床的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2737595563",
+      "Source": "TidesOfForturne",
+      "Trans": {"SC":"命运之潮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::629456887",
+      "Source": "Spanish Colonial Structures",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2707598507",
+      "Source": "You can use this to skin the appearance of many Structures in the old-Earth Caribbean style",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::246175816",
       "Source": "A fantastic gift for any Creature. Can be used in place of any imprinting or passive-taming request.",
       "Trans": {"SC":"赠予任何生物的绝佳礼物。可代替任意印痕或被动驯服需求。","JA":""},
@@ -37742,7 +37880,7 @@
     },
     {
       "NamespaceHash": "Content::561968176",
-      "Source": "Fabricator",
+      "Source": "EDIT MARKET INFO",
       "Trans": {"SC":"机床","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
@@ -72090,115 +72228,115 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXOtterB_MilestoneDescription",
       "Source": "Tame 3 X-Otters",
-      "Trans": {"SC":"驯服3只X-水獭","JA":""},
+      "Trans": {"SC":"驯服 3 只X-水獭","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4244483860"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructSloopB_MilestoneDescription",
       "Source": "Construct 3 Sloops",
-      "Trans": {"SC":"建造3艘单桅帆船","JA":""},
+      "Trans": {"SC":"建造 3 艘单桅帆船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4138463399"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsB_MilestoneDescription",
       "Source": "Destroy 3 Pirate Ships",
-      "Trans": {"SC":"摧毁3个海盗船","JA":""},
+      "Trans": {"SC":"摧毁 3 个海盗船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3756222956"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatFleetCaptainA_MilestoneDescription",
       "Source": "Defeat 1 Fleet Captain Ship",
-      "Trans": {"SC":"击败1艘舰队长船只","JA":""},
+      "Trans": {"SC":"击败 1 艘舰队长船只","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3741177841"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameParrotA_MilestoneDescription",
       "Source": "Tame 1 Parrot",
-      "Trans": {"SC":"驯服1只鹦鹉","JA":""},
+      "Trans": {"SC":"驯服 1 只鹦鹉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3254144942"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoC_MilestoneDescription",
       "Source": "Collect 5 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集5个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 5 个普通废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1877919793"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsB_MilestoneDescription",
       "Source": "Complete 3 Gamma Missions",
-      "Trans": {"SC":"完成3个简单任务","JA":""},
+      "Trans": {"SC":"完成 3 个简单任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4254712966"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBetaMissionsA_MilestoneDescription",
       "Source": "Complete 1 Beta Mission",
-      "Trans": {"SC":"完成1个中等任务","JA":""},
+      "Trans": {"SC":"完成 1 个中等任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1762316004"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsB_MilestoneDescription",
       "Source": "Spend 2,500 Hexagons at the Hexchange",
-      "Trans": {"SC":"在六角币交易所花费2,500枚六角币","JA":""},
+      "Trans": {"SC":"在六角币交易所花费 2,500 枚六角币","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"732816263"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRamsContractB_MilestoneDescription",
       "Source": "Complete 3 Ramshackle Contracts",
-      "Trans": {"SC":"完成3个普通契约","JA":""},
+      "Trans": {"SC":"完成 3 个普通契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1454674604"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteApprContractA_MilestoneDescription",
       "Source": "Complete 1 Apprentice Contract",
-      "Trans": {"SC":"完成1个优秀契约","JA":""},
+      "Trans": {"SC":"完成 1 个优秀契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"728645662"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsC_MilestoneDescription",
       "Source": "Spend 2,500 Hexagons at the Hexchange",
-      "Trans": {"SC":"在六角币交易所花费2,500枚六角币","JA":""},
+      "Trans": {"SC":"在六角币交易所花费 2,500 枚六角币","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"732816263"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishTankB_MilestoneDescription",
       "Source": "Craft 3 Aquariums",
-      "Trans": {"SC":"制作3个水族箱","JA":""},
+      "Trans": {"SC":"制作 3 个水族箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"660663729"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishBasketsB_MilestoneDescription",
       "Source": "Craft 25 Fish Baskets",
-      "Trans": {"SC":"制作25个鱼篮","JA":""},
+      "Trans": {"SC":"制作 25 个鱼篮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3892123431"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchFishNetsB_MilestoneDescription",
       "Source": "Catch 50 Fish with Fish Nets",
-      "Trans": {"SC":"使用渔网捕获50条鱼","JA":""},
+      "Trans": {"SC":"使用渔网捕获 50 条鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"206894077"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsA_MilestoneDescription",
       "Source": "Raid 1 Pirate Camp or Ocean Outpost",
-      "Trans": {"SC":"袭击1个海盗营地或海洋前哨","JA":""},
+      "Trans": {"SC":"袭击 1 个海盗营地或海洋前哨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2149887342"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsA_MilestoneDescription",
       "Source": "Complete 1 Treasure Map Bottle",
-      "Trans": {"SC":"完成1个藏宝图瓶","JA":""},
+      "Trans": {"SC":"完成 1 个藏宝图瓶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2058816076"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsA_MilestoneDescription",
       "Source": "Destroy 3 Pirate Ships",
-      "Trans": {"SC":"摧毁3个海盗船","JA":""},
+      "Trans": {"SC":"摧毁 3 个海盗船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3756222956"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMetalPlatform_MilestoneDescription",
       "Source": "Craft 1 Metal Ocean Platform",
-      "Trans": {"SC":"制作1个金属海洋平台","JA":""},
+      "Trans": {"SC":"制作 1 个金属海洋平台","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3189604871"}
     },
     {
@@ -72210,667 +72348,667 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMarketB_MilestoneDescription",
       "Source": "Craft 1 Market",
-      "Trans": {"SC":"制作1个市场","JA":""},
+      "Trans": {"SC":"制作 1 个市场","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3789284287"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftTekSensor_MilestoneDescription",
       "Source": "Craft 1 Tek Sensor",
-      "Trans": {"SC":"制作1个泰克传感器","JA":""},
+      "Trans": {"SC":"制作 1 个泰克传感器","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"149777426"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftTekJumpPad_MilestoneDescription",
       "Source": "Craft 1 Tek Jump Pad",
-      "Trans": {"SC":"制作1个泰克跳板","JA":""},
+      "Trans": {"SC":"制作 1 个泰克跳板","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2464477888"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelTekJumpPad_MilestoneDescription",
       "Source": "Travel 10,000 Meters Distance with Tek Jump Pad",
-      "Trans": {"SC":"使用泰克弹射板移动10,000米","JA":""},
+      "Trans": {"SC":"使用泰克弹射板移动 10,000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2426567741"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoB_MilestoneDescription",
       "Source": "Collect 5 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集5个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 5 个普通废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1877919793"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoA_MilestoneDescription",
       "Source": "Collect 3 Apprentice Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集3个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 3 个优秀废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1658586834"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoA_MilestoneDescription",
       "Source": "Collect 1 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集1个精良废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 1 个精良废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3951526098"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoC_MilestoneDescription",
       "Source": "Collect 5 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集5个精良废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 5 个精良废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3493159888"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsB_MilestoneDescription",
       "Source": "Complete 3 Treasure Map Bottles",
-      "Trans": {"SC":"完成3个藏宝图瓶","JA":""},
+      "Trans": {"SC":"完成 3 个藏宝图瓶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"809861714"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsC_MilestoneDescription",
       "Source": "Destroy 10 Pirate Ships",
-      "Trans": {"SC":"摧毁10个海盗船","JA":""},
+      "Trans": {"SC":"摧毁 10 个海盗船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1864092368"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteApprContractB_MilestoneDescription",
       "Source": "Complete 3 Apprentice Contracts",
-      "Trans": {"SC":"完成3个优秀契约","JA":""},
+      "Trans": {"SC":"完成 3 个优秀契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1624920665"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteJourContractA_MilestoneDescription",
       "Source": "Complete 1 Journeyman Contract",
-      "Trans": {"SC":"完成1个精良契约","JA":""},
+      "Trans": {"SC":"完成 1 个精良契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1023250490"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsD_MilestoneDescription",
       "Source": "Spend 5,000 Hexagons at the Hexchange",
-      "Trans": {"SC":"在六角币交易所花费5,000枚六角币","JA":""},
+      "Trans": {"SC":"在六角币交易所花费 5,000 枚六角币","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3140877669"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsA_MilestoneDescription",
       "Source": "Complete 5 Ocean Biome Missions",
-      "Trans": {"SC":"完成5个海洋生物群系任务","JA":""},
+      "Trans": {"SC":"完成 5 个海洋生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3636175266"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteVolcanicMissionsA_MilestoneDescription",
       "Source": "Complete 5 Volcanic Biome Missions",
-      "Trans": {"SC":"完成5个火山生物群系任务","JA":""},
+      "Trans": {"SC":"完成 5 个火山生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3551497636"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteSpaceMissionsA_MilestoneDescription",
       "Source": "Complete 5 Space Biome Missions",
-      "Trans": {"SC":"完成5个太空生物群系任务","JA":""},
+      "Trans": {"SC":"完成 5 个太空生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1742016742"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMiningDrill_MilestoneDescription",
       "Source": "Craft 1 Mining Drill",
-      "Trans": {"SC":"制作1个采矿钻","JA":""},
+      "Trans": {"SC":"制作 1 个采矿钻","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"483702605"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillA_MilestoneDescription",
       "Source": "Harvest 150,000 Resources with Mining Drill",
-      "Trans": {"SC":"使用采矿钻采集150,000份资源","JA":""},
+      "Trans": {"SC":"使用采矿钻采集 150,000 份资源","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRex_MilestoneDescription",
       "Source": "Tame 1 X-Rex",
-      "Trans": {"SC":"驯服1只X-霸王龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-霸王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1842080243"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXYutyrannusB_MilestoneDescription",
       "Source": "Tame 1 X-Yutyrannus",
-      "Trans": {"SC":"驯服1只X-羽暴龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-羽王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1658072556"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXSpino_MilestoneDescription",
       "Source": "Tame 1 X-Spino",
-      "Trans": {"SC":"驯服1只X-棘背龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-棘龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1358126606"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupB_MilestoneDescription",
       "Source": "Tame 3 Tidepups",
-      "Trans": {"SC":"驯服3只潮佑螈","JA":""},
+      "Trans": {"SC":"驯服 3 只潮佑螈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1856204759"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.EvolveTidepupNeotenic_MilestoneDescription",
       "Source": "Evolve 1 Tidepup via Neotenic Stabilization",
-      "Trans": {"SC":"通过幼态稳定进化1只潮佑螈","JA":""},
+      "Trans": {"SC":"通过幼态稳定进化 1 只潮佑螈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2709255680"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DispelDebuffsTidepup_MilestoneDescription",
       "Source": "Have 10 debuffs dispelled by Tidepup on your shoulder",
-      "Trans": {"SC":"让肩上的潮佑螈驱散10个减益效果","JA":""},
+      "Trans": {"SC":"让肩上的潮佑螈驱散 10 个减益效果","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4075223804"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurus_MilestoneDescription",
       "Source": "Tame 1 X-Mosasaurus",
-      "Trans": {"SC":"驯服1只X-沧龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-沧龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3161319936"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsB_MilestoneDescription",
       "Source": "Complete 5 Ocean Biome Missions",
-      "Trans": {"SC":"完成5个海洋生物群系任务","JA":""},
+      "Trans": {"SC":"完成 5 个海洋生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3636175266"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Gamma Moeder, Master of the Ocean",
-      "Trans": {"SC":"击败首领：海洋之主莫德尔（简单）","JA":""},
+      "Trans": {"SC":"击败首领: 海洋之主莫德尔 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1866832116"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineA_MilestoneDescription",
       "Source": "Construct 1 Brigantine",
-      "Trans": {"SC":"建造1艘双桅帆船","JA":""},
+      "Trans": {"SC":"建造 1 艘双桅帆船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1256332626"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsD_MilestoneDescription",
       "Source": "Destroy 10 Pirate Ships",
-      "Trans": {"SC":"摧毁10个海盗船","JA":""},
+      "Trans": {"SC":"摧毁 10 个海盗船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1864092368"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsB_MilestoneDescription",
       "Source": "Raid 5 Pirate Camps or Ocean Outposts",
-      "Trans": {"SC":"袭击5个海盗营地或海洋前哨","JA":""},
+      "Trans": {"SC":"袭击 5 个海盗营地或海洋前哨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1343011468"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoD_MilestoneDescription",
       "Source": "Collect 25 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集25个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 25 个普通废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2309292462"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoB_MilestoneDescription",
       "Source": "Collect 15 Apprentice Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集15个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 15 个优秀废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2286156963"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoB_MilestoneDescription",
       "Source": "Collect 5 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集5个精良废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 5 个精良废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3493159888"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXYutyrannusA_MilestoneDescription",
       "Source": "Tame 1 X-Yutyrannus",
-      "Trans": {"SC":"驯服1只X-羽暴龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-羽王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1658072556"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsC_MilestoneDescription",
       "Source": "Complete 10 Gamma Missions",
-      "Trans": {"SC":"完成10个简单任务","JA":""},
+      "Trans": {"SC":"完成 10 个简单任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1721629206"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaController_MilestoneDescription",
       "Source": "Defeat Boss: Gamma Corrupted Master Controller",
-      "Trans": {"SC":"击败首领：腐化的主宰者（简单）","JA":""},
+      "Trans": {"SC":"击败首领: 腐化的主宰者 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3239498533"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CreateBloodPacksA_MilestoneDescription",
       "Source": "Create 10 Blood Packs",
-      "Trans": {"SC":"制作10个血袋","JA":""},
+      "Trans": {"SC":"制作 10 个血袋","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2662587059"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameBloodstalkerA_MilestoneDescription",
       "Source": "Tame 1 Bloodstalker",
-      "Trans": {"SC":"驯服1只血蛛","JA":""},
+      "Trans": {"SC":"驯服 1 只血蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1774806983"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsA_MilestoneDescription",
       "Source": "Complete 5 Bog Biome Missions",
-      "Trans": {"SC":"完成5个沼泽生物群系任务","JA":""},
+      "Trans": {"SC":"完成 5 个沼泽生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1648397108"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXDunkleosteus_MilestoneDescription",
       "Source": "Tame 3 X-Dunkleosteus",
-      "Trans": {"SC":"驯服3只X-邓氏鱼","JA":""},
+      "Trans": {"SC":"驯服 3 只X-邓氏鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2376612736"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestShellFragments_MilestoneDescription",
       "Source": "Harvest 10 Shell Fragments",
-      "Trans": {"SC":"采集10份贝壳碎片","JA":""},
+      "Trans": {"SC":"采集 10 份贝壳碎片","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1548839888"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillB_MilestoneDescription",
       "Source": "Harvest 150,000 Resources with Mining Drill",
-      "Trans": {"SC":"使用采矿钻采集150,000份资源","JA":""},
+      "Trans": {"SC":"使用采矿钻采集 150,000 份资源","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftHoverSkiff_MilestoneDescription",
       "Source": "Craft 1 Tek Hover Skiff",
-      "Trans": {"SC":"制作1个泰克悬浮艇","JA":""},
+      "Trans": {"SC":"制作 1 个泰克悬浮艇","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3330712628"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelHoverSkiff_MilestoneDescription",
       "Source": "Travel 100,000 Meters Distance with Tek Hover Skiff",
-      "Trans": {"SC":"使用泰克悬浮艇移动100,000米","JA":""},
+      "Trans": {"SC":"使用泰克悬浮艇移动 100,000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1726745278"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteSpaceMissionsB_MilestoneDescription",
       "Source": "Complete 10 Space Biome Missions",
-      "Trans": {"SC":"完成10个太空生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个太空生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3944153332"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteJourContractB_MilestoneDescription",
       "Source": "Complete 3 Journeyman Contracts",
-      "Trans": {"SC":"完成3个精良契约","JA":""},
+      "Trans": {"SC":"完成 3 个精良契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"465306398"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteMasterContractA_MilestoneDescription",
       "Source": "Complete 1 Mastercraft Contract",
-      "Trans": {"SC":"完成1个史诗契约","JA":""},
+      "Trans": {"SC":"完成 1 个史诗契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"849106320"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsE_MilestoneDescription",
       "Source": "Spend 10,000 Hexagons at the Hexchange",
-      "Trans": {"SC":"在六角币交易所花费10,000枚六角币","JA":""},
+      "Trans": {"SC":"在六角币交易所花费 10,000 枚六角币","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1101661303"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurusHighEff_MilestoneDescription",
       "Source": "Tame 1 X-Mosasaurus at 90% Taming Effectiveness",
-      "Trans": {"SC":"以90%驯服效率驯服1只X-沧龙","JA":""},
+      "Trans": {"SC":"以驯养有效 90%+ 驯服 1 只X-沧龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1987602063"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelon_MilestoneDescription",
       "Source": "Tame 1 Megachelon",
-      "Trans": {"SC":"驯服1只巨龟","JA":""},
+      "Trans": {"SC":"驯服 1 只巨龟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"824652351"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusA_MilestoneDescription",
       "Source": "Tame 3 Palaeoctopus",
-      "Trans": {"SC":"驯服3只古蛸","JA":""},
+      "Trans": {"SC":"驯服 3 只古蛸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"731898538"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsC_MilestoneDescription",
       "Source": "Raid 10 Pirate Camps or Ocean Outposts",
-      "Trans": {"SC":"袭击10个海盗营地或海洋前哨","JA":""},
+      "Trans": {"SC":"袭击 10 个海盗营地或海洋前哨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3116076307"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsC_MilestoneDescription",
       "Source": "Complete 5 Treasure Map Bottles",
-      "Trans": {"SC":"完成5个藏宝图瓶","JA":""},
+      "Trans": {"SC":"完成 5 个藏宝图瓶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"464204869"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatFleetCaptainB_MilestoneDescription",
       "Source": "Defeat 5 Fleet Captain Ships",
-      "Trans": {"SC":"击败5艘舰队长船只","JA":""},
+      "Trans": {"SC":"击败 5 艘舰队长船只","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2647942983"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupC_MilestoneDescription",
       "Source": "Tame 5 Tidepups",
-      "Trans": {"SC":"驯服5只潮佑螈","JA":""},
+      "Trans": {"SC":"驯服 5 只潮佑螈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1004146375"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.EvolveTidepupMetamorph_MilestoneDescription",
       "Source": "Evolve 1 Tidepup via Metamorphosis",
-      "Trans": {"SC":"通过蜕变进化1只潮佑螈","JA":""},
+      "Trans": {"SC":"通过蜕变进化 1 只潮佑螈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1646132582"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HealAlliesTidepup_MilestoneDescription",
       "Source": "Restore 50,000 health to allies while mounted on a Tidepup",
-      "Trans": {"SC":"骑乘潮佑螈为盟友恢复50,000点生命值","JA":""},
+      "Trans": {"SC":"骑乘潮佑螈为盟友恢复 50,000 点生命值","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2606523342"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGauntletMissions_MilestoneDescription",
       "Source": "Complete 3 Gauntlet Missions",
-      "Trans": {"SC":"完成3个挑战任务","JA":""},
+      "Trans": {"SC":"完成 3 个挑战任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2452316498"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteVolcanicMissionsB_MilestoneDescription",
       "Source": "Complete 10 Volcanic Biome Missions",
-      "Trans": {"SC":"完成10个火山生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个火山生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1632704459"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaController_MilestoneDescription",
       "Source": "Defeat Boss: Beta Corrupted Master Controller",
-      "Trans": {"SC":"击败首领：腐化的主宰者（中等）","JA":""},
+      "Trans": {"SC":"击败首领: 腐化的主宰者 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3531842341"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestElementShards_MilestoneDescription",
       "Source": "Harvest 5,000 Element Shards",
-      "Trans": {"SC":"采集5,000份元素碎片","JA":""},
+      "Trans": {"SC":"采集 5,000 份元素碎片","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1475923933"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameFeroxHighLvl_MilestoneDescription",
       "Source": "Tame 1 Ferox at level 135+",
-      "Trans": {"SC":"驯服1只135级以上的猿狐","JA":""},
+      "Trans": {"SC":"驯服 1 只 135 级以上的猿狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3494785429"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameFeroxHighEff_MilestoneDescription",
       "Source": "Tame 1 Ferox at 90% Taming Effectiveness",
-      "Trans": {"SC":"以90%驯服效率驯服1只猿狐","JA":""},
+      "Trans": {"SC":"以驯养有效 90%+ 驯服 1 只猿狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3149808607"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusA_MilestoneDescription",
       "Source": "Tame 1 Astrocetus",
-      "Trans": {"SC":"驯服1只太空鲸","JA":""},
+      "Trans": {"SC":"驯服 1 只星辰鲸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3002520868"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ObtainAmbergris_MilestoneDescription",
       "Source": "Obtain 50 Ambergris",
-      "Trans": {"SC":"获得50份龙涎香","JA":""},
+      "Trans": {"SC":"获得 50 份龙涎香","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1121307388"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelAstrocetus_MilestoneDescription",
       "Source": "Travel 100,000 Meters Distance with Astrocetus",
-      "Trans": {"SC":"骑乘太空鲸移动100,000米","JA":""},
+      "Trans": {"SC":"骑乘太空鲸移动 100,000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"964650413"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageHandCannonA_MilestoneDescription",
       "Source": "Deal 150,000 Damage with Hand Cannon",
-      "Trans": {"SC":"使用手炮造成150,000点伤害","JA":""},
+      "Trans": {"SC":"使用手炮造成 150,000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3581859765"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.FireTekGrenades_MilestoneDescription",
       "Source": "Fire 100 Grenades with Tek Grenade Launcher",
-      "Trans": {"SC":"使用泰克榴弹发射器发射100枚榴弹","JA":""},
+      "Trans": {"SC":"使用泰克榴弹发射器发射 100 枚榴弹","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4109630502"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageShoulderCannonA_MilestoneDescription",
       "Source": "Deal 100,000 Damage with Tek Shoulder Cannon",
-      "Trans": {"SC":"使用泰克肩炮造成100,000点伤害","JA":""},
+      "Trans": {"SC":"使用泰克肩炮造成 100,000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3539613316"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMegalodon_MilestoneDescription",
       "Source": "Tame 5 X-Megalodon",
-      "Trans": {"SC":"驯服5只X-巨齿鲨","JA":""},
+      "Trans": {"SC":"驯服 5 只X-巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2917230"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsC_MilestoneDescription",
       "Source": "Complete 10 Ocean Biome Missions",
-      "Trans": {"SC":"完成10个海洋生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个海洋生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1417261488"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Beta Moeder, Master of the Ocean",
-      "Trans": {"SC":"击败首领：海洋之主莫德尔（中等）","JA":""},
+      "Trans": {"SC":"击败首领: 海洋之主莫德尔 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2094065908"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBetaMissionsB_MilestoneDescription",
       "Source": "Complete 10 Beta Missions",
-      "Trans": {"SC":"完成10个中等任务","JA":""},
+      "Trans": {"SC":"完成 10 个中等任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3369861657"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsB_MilestoneDescription",
       "Source": "Complete 10 Bog Biome Missions",
-      "Trans": {"SC":"完成10个沼泽生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个沼泽生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1536623345"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteArcticMissionsA_MilestoneDescription",
       "Source": "Complete 10 Arctic Biome Missions",
-      "Trans": {"SC":"完成10个极地生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个极地生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3038174785"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.StealMagmasaurEgg_MilestoneDescription",
       "Source": "Steal 1 Magmasaur Egg",
-      "Trans": {"SC":"偷取1个熔喉龙蛋","JA":""},
+      "Trans": {"SC":"偷取 1 个熔喉龙蛋","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2753241219"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestObsidian_MilestoneDescription",
       "Source": "Harvest 50,000 Obsidian",
-      "Trans": {"SC":"采集50,000份黑曜石","JA":""},
+      "Trans": {"SC":"采集 50,000 份黑曜石","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"808050534"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRexHighLvl_MilestoneDescription",
       "Source": "Tame 3 X-Rex at level 135+",
-      "Trans": {"SC":"驯服3只135级以上的X-霸王龙","JA":""},
+      "Trans": {"SC":"驯服 3 只 135 级以上的X-霸王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3888027845"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaMissions_MilestoneDescription",
       "Source": "Complete 5 Alpha Missions",
-      "Trans": {"SC":"完成5个困难任务","JA":""},
+      "Trans": {"SC":"完成 5 个困难任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3679227071"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaController_MilestoneDescription",
       "Source": "Defeat Boss: Alpha Corrupted Master Controller",
-      "Trans": {"SC":"击败首领：腐化的主宰者（困难）","JA":""},
+      "Trans": {"SC":"击败首领: 腐化的主宰者 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1359111898"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CreateBloodPacksB_MilestoneDescription",
       "Source": "Create 100 Blood Packs",
-      "Trans": {"SC":"制作100个血袋","JA":""},
+      "Trans": {"SC":"制作 100 血袋","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2808869744"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameBloodstalkerB_MilestoneDescription",
       "Source": "Tame 5 Bloodstalkers",
-      "Trans": {"SC":"驯服5只血蛛","JA":""},
+      "Trans": {"SC":"驯服 5 只血蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1295407153"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsC_MilestoneDescription",
       "Source": "Complete 25 Bog Biome Missions",
-      "Trans": {"SC":"完成25个沼泽生物群系任务","JA":""},
+      "Trans": {"SC":"完成 25个 沼泽生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3643415521"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineB_MilestoneDescription",
       "Source": "Construct 5 Brigantines",
-      "Trans": {"SC":"建造5艘双桅帆船","JA":""},
+      "Trans": {"SC":"建造 5 艘双桅帆船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2872568049"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsE_MilestoneDescription",
       "Source": "Destroy 50 Pirate Ships",
-      "Trans": {"SC":"摧毁50个海盗船","JA":""},
+      "Trans": {"SC":"摧毁 50 个海盗船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4072143982"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsD_MilestoneDescription",
       "Source": "Raid 25 Pirate Camps or Ocean Outposts",
-      "Trans": {"SC":"袭击25个海盗营地或海洋前哨","JA":""},
+      "Trans": {"SC":"袭击 25 个海盗营地或海洋前哨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3256099548"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMegalodonHighLvl_MilestoneDescription",
       "Source": "Tame 5 X-Megalodon at level 135+",
-      "Trans": {"SC":"驯服5只135级以上的X-巨齿鲨","JA":""},
+      "Trans": {"SC":"驯服 5 只 135 级以上的X-巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"482670797"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurusHighLvl_MilestoneDescription",
       "Source": "Tame 5 X-Mosasaurus at level 135+",
-      "Trans": {"SC":"驯服5只135级以上的X-沧龙","JA":""},
+      "Trans": {"SC":"驯服 5 只 135 级以上的X-沧龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1675212389"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Alpha Moeder, Master of the Ocean",
-      "Trans": {"SC":"击败首领：海洋之主莫德尔（困难）","JA":""},
+      "Trans": {"SC":"击败首领: 海洋之主莫德尔 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4283510027"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteMasterContractB_MilestoneDescription",
       "Source": "Complete 3 Mastercraft Contracts",
-      "Trans": {"SC":"完成3个史诗契约","JA":""},
+      "Trans": {"SC":"完成 3 个史诗契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3136163685"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAscContract_MilestoneDescription",
       "Source": "Complete 1 Ascendant Contract",
-      "Trans": {"SC":"完成1个传说契约","JA":""},
+      "Trans": {"SC":"完成 1 个传说契约","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3509526931"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsF_MilestoneDescription",
       "Source": "Spend 50,000 Hexagons at the Hexchange",
-      "Trans": {"SC":"在六角币交易所花费50,000枚六角币","JA":""},
+      "Trans": {"SC":"在六角币交易所花费 50,000 枚六角币","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2387988667"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineC_MilestoneDescription",
       "Source": "Construct 1 Brigantine",
-      "Trans": {"SC":"建造1艘双桅帆船","JA":""},
+      "Trans": {"SC":"建造 1 艘双桅帆船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1256332626"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelBrigantine_MilestoneDescription",
       "Source": "Travel 250,000 Meters Distance with Brigantine",
-      "Trans": {"SC":"使用双桅帆船移动250,000米","JA":""},
+      "Trans": {"SC":"使用双桅帆船移动 250,000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"610355502"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageBrigantineB_MilestoneDescription",
       "Source": "Deal 500,000 Damage with Brigantine",
-      "Trans": {"SC":"使用双桅帆船造成500,000点伤害","JA":""},
+      "Trans": {"SC":"使用双桅帆船造成 500,000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"762923087"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCruiseMissiles_MilestoneDescription",
       "Source": "Craft 10 Cruise Missiles",
-      "Trans": {"SC":"制作10个巡航导弹","JA":""},
+      "Trans": {"SC":"制作 10 个巡航导弹","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"251245819"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusB_MilestoneDescription",
       "Source": "Tame 3 Astrocetus",
-      "Trans": {"SC":"驯服3只太空鲸","JA":""},
+      "Trans": {"SC":"驯服 3 只星辰鲸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3381988508"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusHighEff_MilestoneDescription",
       "Source": "Tame 1 Astrocetus at 90% Taming Effectiveness",
-      "Trans": {"SC":"以90%驯服效率驯服1只太空鲸","JA":""},
+      "Trans": {"SC":"以驯养有效 90%+ 驯服 1 只星辰鲸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2767431223"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageBrigantineA_MilestoneDescription",
       "Source": "Deal 500,000 Damage with Brigantine",
-      "Trans": {"SC":"使用双桅帆船造成500,000点伤害","JA":""},
+      "Trans": {"SC":"使用双桅帆船造成 500,000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"762923087"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageShoulderCannonB_MilestoneDescription",
       "Source": "Deal 250,000 Damage with Tek Shoulder Cannon",
-      "Trans": {"SC":"使用泰克肩炮造成250,000点伤害","JA":""},
+      "Trans": {"SC":"使用泰克肩炮造成 250,000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1211297278"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageHandCannonB_MilestoneDescription",
       "Source": "Deal 500,000 Damage with Hand Cannon",
-      "Trans": {"SC":"使用手炮造成500,000点伤害","JA":""},
+      "Trans": {"SC":"使用手炮造成 500,000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1722967206"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusHighLvl_MilestoneDescription",
       "Source": "Tame 1 Palaeoctopus at level 135+",
-      "Trans": {"SC":"驯服1只135级以上的古蛸","JA":""},
+      "Trans": {"SC":"驯服 1 只 135 级以上的古蛸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2719424802"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelonHighLvl_MilestoneDescription",
       "Source": "Tame 1 Megachelon at level 135+",
-      "Trans": {"SC":"驯服1只135级以上的巨龟","JA":""},
+      "Trans": {"SC":"驯服 1 只 135 级以上的巨龟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3580047671"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsD_MilestoneDescription",
       "Source": "Complete 25 Ocean Biome Missions",
-      "Trans": {"SC":"完成25个海洋生物群系任务","JA":""},
+      "Trans": {"SC":"完成 25 个海洋生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3086400223"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoE_MilestoneDescription",
       "Source": "Collect 100 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集100个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 100 个普通废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3938514540"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoC_MilestoneDescription",
       "Source": "Collect 75 Apprentice Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集75个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 75 个优秀废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3711745657"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoD_MilestoneDescription",
       "Source": "Collect 25 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集25个精良废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 25 个精良废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"914270799"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaArcticMissions_MilestoneDescription",
       "Source": "Complete 10 Alpha Arctic Biome Missions",
-      "Trans": {"SC":"完成10个困难北极生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个困难北极生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1473641712"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaVolcanicMissions_MilestoneDescription",
       "Source": "Complete 10 Alpha Volcanic Biome Missions",
-      "Trans": {"SC":"完成10个困难火山生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个困难火山生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3863417314"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaSpaceMissions_MilestoneDescription",
       "Source": "Complete 10 Alpha Space Biome Missions",
-      "Trans": {"SC":"完成10个困难火山生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个困难火山生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2439718516"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestBioToxin_MilestoneDescription",
       "Source": "Harvest 1,000 Bio Toxin",
-      "Trans": {"SC":"采集1,000份生物毒素","JA":""},
+      "Trans": {"SC":"采集 1,000 份生物毒素","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2666939981"}
     },
     {
@@ -72884,6 +73022,1058 @@
       "Source": "Tame 3 X-Basilosaurus at level 135+",
       "Trans": {"SC":"驯服 3 只等级 135+ 的X-龙王鲸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1056673754"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1716367401",
+      "Source": "Catch 10 X-Sabertooth Salmon",
+      "Trans": {"SC":"捕获 10 只X-剑齿鲑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::2790830260",
+      "Source": "Collect 1 Journeyman Abandoned Cargo",
+      "Trans": {"SC":"收集 1 个精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3347166156",
+      "Source": "Collect 1 Ramshackle Abandoned Cargo",
+      "Trans": {"SC":"收集 1 个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::833035279",
+      "Source": "Collect 100 Ramshackle Abandoned Cargo",
+      "Trans": {"SC":"收集 100 个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1997639454",
+      "Source": "Collect 15 Apprentice Abandoned Cargo",
+      "Trans": {"SC":"收集 15 个优秀废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3149366936",
+      "Source": "Collect 25 Journeyman Abandoned Cargo",
+      "Trans": {"SC":"收集 25 个精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3664676320",
+      "Source": "Collect 25 Ramshackle Abandoned Cargo",
+      "Trans": {"SC":"收集 25 个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::195457652",
+      "Source": "Collect 3 Apprentice Abandoned Cargo",
+      "Trans": {"SC":"收集 3 个优秀废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1639477320",
+      "Source": "Collect 5 Journeyman Abandoned Cargo",
+      "Trans": {"SC":"收集 5 个精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::6386480",
+      "Source": "Collect 5 Ramshackle Abandoned Cargo",
+      "Trans": {"SC":"收集 5 个普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1916852590",
+      "Source": "Collect 75 Apprentice Abandoned Cargo",
+      "Trans": {"SC":"收集 75 个优秀废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3101806033",
+      "Source": "Complete 1 Treasure Map Bottle Chain",
+      "Trans": {"SC":"完成 1 个藏宝图瓶链","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3195966188",
+      "Source": "Complete 3 Treasure Map Bottle Chains",
+      "Trans": {"SC":"完成 3 个藏宝图瓶链","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::443429486",
+      "Source": "Complete 5 Treasure Map Bottle Chains",
+      "Trans": {"SC":"完成 5 个藏宝图瓶链","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1959225187",
+      "Source": "Craft 1 Fish Tank",
+      "Trans": {"SC":"制作 1 个鱼缸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::2490726450",
+      "Source": "Craft 3 Fish Tanks",
+      "Trans": {"SC":"制作 3 个鱼缸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3465855343",
+      "Source": "Harvest 1,000 Fiber",
+      "Trans": {"SC":"采集 1,000 份纤维","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3837703180",
+      "Source": "Harvest 1,000 Stone",
+      "Trans": {"SC":"采集 1,000 块石头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::2287736795",
+      "Source": "Harvest 1,000 Thatch",
+      "Trans": {"SC":"采集 1,000 茅草","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::876868951",
+      "Source": "Harvest 2,500 Berries",
+      "Trans": {"SC":"采集 2,500 个浆果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1755410570",
+      "Source": "Harvest 25,000 Raw Metal",
+      "Trans": {"SC":"采集 25,000 金属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::4261390302",
+      "Source": "Harvest 250,000 Raw Metal",
+      "Trans": {"SC":"采集 250,000 金属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::289672141",
+      "Source": "Harvest 500 Raw Metal",
+      "Trans": {"SC":"采集 500 金属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1326877459",
+      "Source": "Heal 50,000 ally health with Tidepup",
+      "Trans": {"SC":"使用潮佑螈为盟友恢复50,000点生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1326877459"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::3132647779",
+      "Source": "Kill 1 Alpha Carno",
+      "Trans": {"SC":"击杀 1 只精英肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_ToF::1411352423",
+      "Source": "Travel 100,000 Meters Distance with Tek Jump Pad",
+      "Trans": {"SC":"使用泰克跳板移动100,000米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1411352423"}
+    }
+  ],
+  "Dragontopia": [
+    {
+      "NamespaceHash": "GraphLiteral::3962476506",
+      "Source": "Twilight Tamer",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2645665144",
+      "Source": "Beast Hunter",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1097984257",
+      "Source": "Mounted Slayer",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3443495666",
+      "Source": "Mounted Forager",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1547130493",
+      "Source": "Prime Hunter",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2810981995",
+      "Source": "Deep Diver",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2332116921",
+      "Source": "Damage Dealer",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2493842491",
+      "Source": "Iron Hide",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1108053481",
+      "Source": "Seasoned Rider",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3051115442",
+      "Source": "Egg Hatcher",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3971187365",
+      "Source": "Primary Striker",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1569517147",
+      "Source": "Secondary Striker",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2851783022",
+      "Source": "Endless Flight",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1305464054",
+      "Source": "Mentor",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2097827664",
+      "Source": "Devoted Caretaker",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::848992273",
+      "Source": "Geneticist",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3046633437",
+      "Source": "Alpha Slayer",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1666135242",
+      "Source": "Flawless Hunter",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4183006495",
+      "Source": "Killing Spree",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.DoKillsRidingUmbra_MilestoneDescription",
+      "Source": "Kills 25 Creatures while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 25 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"98239256"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestRawMeatRiding_MilestoneDescription",
+      "Source": "Harvest 100 raw meats (any type) riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 100 块任意类型生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3968953181"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestRawMeatRidingA_MilestoneDescription",
+      "Source": "Harvest 250 raw meats (any type) riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 250 块任意类型生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2259464484"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestRawMeatRidingB_MilestoneDescription",
+      "Source": "Harvest 500 raw meats (any type) riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 500 块任意类型生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1603185768"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestPrimeMeatRiding_MilestoneDescription",
+      "Source": "Harvest 50 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
+      "Trans": {"SC":"骑乘幽影仔采集 50 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1901469262"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.ReceiveDamageRidingA_MilestoneDescription",
+      "Source": "Receive 5000 damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔承受 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"604483835"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.DoDamageSecondaryA_MilestoneDescription",
+      "Source": "Deal 25000 damage with Umbra's projectile attacks",
+      "Trans": {"SC":"使用幽影仔的投射攻击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"62bdd16e"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.FlyMWithoutLanding_MilestoneDescription",
+      "Source": "Fly 1000 meters without landing while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 1000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500418139"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.FlyMWithoutLandingA_MilestoneDescription",
+      "Source": "Fly 3000 meters without landing while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 3000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4222366285"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.FlyMWithoutLandingB_MilestoneDescription",
+      "Source": "Fly 5000 meters without landing while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 5000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"173877302"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.KillAlphasRidingUmbra_MilestoneDescription",
+      "Source": "Kill 3 Alphas while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 3 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"711968096"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.KillAlphasRidingUmbraA_MilestoneDescription",
+      "Source": "Kill 10 Alphas while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 10 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"853564615"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.KillCreaturesWithout_MilestoneDescription",
+      "Source": "Kill 10 creatures without receiving damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔在不受到伤害的情况下击杀 10 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3195321864"}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4052328853",
+      "Source": "Breed a baby Umbra/Lumina with 1 mutation",
+      "Trans": {"SC":"繁育 1 只带有 1 项突变的幽影仔/皎光仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1416191873",
+      "Source": "Breed a baby Umbra/Lumina with 2 mutations",
+      "Trans": {"SC":"繁育 1 只带有 2 项突变的幽影仔/皎光仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2118215651",
+      "Source": "Breed a baby Umbra/Lumina with 3 mutations",
+      "Trans": {"SC":"繁育 1 只带有 3 项突变的幽影仔/皎光仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::541687076",
+      "Source": "Claim 1 baby Umbra",
+      "Trans": {"SC":"认领 1 只幽影仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3898180281",
+      "Source": "Claim 15 baby Umbra",
+      "Trans": {"SC":"认领 15 只幽影仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3599683156",
+      "Source": "Claim 5 baby Umbra",
+      "Trans": {"SC":"认领 5 只幽影仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3096584580",
+      "Source": "Deal 10000 damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔造成 10000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3195807452",
+      "Source": "Deal 25000 damage with Umbra's bite or claw attacks",
+      "Trans": {"SC":"使用幽影仔的撕咬或爪击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3300722918",
+      "Source": "Deal 25000 damage with Umbra's projectile attacks",
+      "Trans": {"SC":"使用幽影仔的投射攻击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::558136340",
+      "Source": "Deal 35000 damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔造成 35000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3153355596",
+      "Source": "Deal 5000 damage with Umbra's bite or claw attacks",
+      "Trans": {"SC":"使用幽影仔的撕咬或爪击造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3303336839",
+      "Source": "Deal 5000 damage with Umbra's projectile attacks",
+      "Trans": {"SC":"使用幽影仔的投射攻击造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::147240293",
+      "Source": "Deal 50000 damage with Umbra's bite or claw attacks",
+      "Trans": {"SC":"使用幽影仔的撕咬或爪击造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::496965034",
+      "Source": "Deal 50000 damage with Umbra's projectile attacks",
+      "Trans": {"SC":"使用幽影仔的投射攻击造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::135608905",
+      "Source": "Deal 750000 damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔造成 750000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2358339058",
+      "Source": "Dive 300 s riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔俯冲 300 秒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::901703432",
+      "Source": "Dive 60 s riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔俯冲 60 秒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4093689690",
+      "Source": "Dive 600 s riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔俯冲 600 秒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1509800625",
+      "Source": "Dive for 10000m while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔俯冲 10000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4158217255",
+      "Source": "Dive for 1000m while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔俯冲 1000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3547597982",
+      "Source": "Dive for 2500m while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔俯冲 2500 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2446449944",
+      "Source": "Do 10 kills riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 10 个目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2858042243",
+      "Source": "Do 25 kills riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 25 个目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3545808756",
+      "Source": "Do 25000 damage riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1508647984",
+      "Source": "Do 25000 damage with Primary Attack riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔使用主要攻击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3274480576",
+      "Source": "Do 25000 damage with Secondary Attack riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔使用次要攻击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1446059492",
+      "Source": "Do 50 kills riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 50 个目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::223217491",
+      "Source": "Do 5000 damage riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4171252271",
+      "Source": "Do 5000 damage with Primary Attack riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔使用主要攻击造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3138174377",
+      "Source": "Do 5000 damage with Secondary Attack riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔使用次要攻击造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::936075885",
+      "Source": "Do 50000 damage riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1542937865",
+      "Source": "Do 50000 damage with Primary Attack riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔使用主要攻击造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::865068886",
+      "Source": "Do 50000 damage with Secondary Attack riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔使用次要攻击造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1584226643",
+      "Source": "Fly 15000 m without landing",
+      "Trans": {"SC":"不落地飞行 15000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1836390767",
+      "Source": "Fly 15000 meters without landing while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 15000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2918729997",
+      "Source": "Fly 30000 m without landing",
+      "Trans": {"SC":"不落地飞行 30000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::800455730",
+      "Source": "Fly 30000 meters without landing while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 30000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::558000491",
+      "Source": "Fly 5000 m without landing",
+      "Trans": {"SC":"不落地飞行 5000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2648073721",
+      "Source": "Fly 60000 meters without landing while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 60000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2171472228",
+      "Source": "Get 1 mutation on Umbra/Lumina",
+      "Trans": {"SC":"让幽影仔/皎光仔获得 1 次突变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::300342499",
+      "Source": "Get 100% imprint on 1 Umbra/Lumina",
+      "Trans": {"SC":"让1只幽影仔/皎光仔达到 100% 印痕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::928639130",
+      "Source": "Get 100% imprint on 2 Umbra/Lumina",
+      "Trans": {"SC":"让2只幽影仔/皎光仔达到 100% 印痕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::718076749",
+      "Source": "Get 100% imprint on 3 Umbra/Lumina",
+      "Trans": {"SC":"让3只幽影仔/皎光仔达到 100% 印痕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1905211745",
+      "Source": "Get 2 mutations on Umbra/Lumina",
+      "Trans": {"SC":"让幽影仔/皎光仔获得 2 次突变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3083205081",
+      "Source": "Get 3 mutations on Umbra/Lumina",
+      "Trans": {"SC":"让幽影仔/皎光仔获得 3 次突变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3399475020",
+      "Source": "Harvest 1000 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
+      "Trans": {"SC":"骑乘幽影仔采集 1000 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1249231440",
+      "Source": "Harvest 1000 raw meats (any type) riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 1000 块任意类型生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3405635756",
+      "Source": "Harvest 150 prime meat riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 150 份优质生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2055999818",
+      "Source": "Harvest 1500 raw meat riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 1500 份生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1507014778",
+      "Source": "Harvest 250 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
+      "Trans": {"SC":"骑乘幽影仔采集250块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::466836824",
+      "Source": "Harvest 2500 raw meats (any type) riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 2500 块任意类型生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3892192329",
+      "Source": "Harvest 300 prime meat riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 300 份优质生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2085012629",
+      "Source": "Harvest 3000 raw meat riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 3000 份生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1477845604",
+      "Source": "Harvest 50 prime meat riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 50 份优质生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::226466361",
+      "Source": "Harvest 500 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
+      "Trans": {"SC":"骑乘幽影仔采集500块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::859533292",
+      "Source": "Harvest 500 raw meat riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集500份生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2253563566",
+      "Source": "Harvest 5000 raw meats (any type) riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 5000 块任意类型生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1926220522",
+      "Source": "Hatch 1 egg from Umbra/Lumina",
+      "Trans": {"SC":"孵化 1 颗幽影仔/皎光仔蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2743953394",
+      "Source": "Hatch 10 eggs from Umbra/Lumina",
+      "Trans": {"SC":"孵化 10 颗幽影仔/皎光仔蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3830541877",
+      "Source": "Hatch 5 eggs from Umbra/Lumina",
+      "Trans": {"SC":"孵化 5 颗幽影仔/皎光仔蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1911268666",
+      "Source": "Kill 1 Alpha riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 1 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3396610208",
+      "Source": "Kill 1 Alpha while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 1 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::265356939",
+      "Source": "Kill 10 Creatures while riding Umbra/Lumina, with no more than 10 seconds between kills",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 10 只生物, 且每次击杀间隔不超过 10 秒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2898346560",
+      "Source": "Kill 10 creatures in a short time",
+      "Trans": {"SC":"短时间内击杀 10 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4235593587",
+      "Source": "Kill 100 creatures without receiving damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔在不受到伤害的情况下击杀 100 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4037399893",
+      "Source": "Kill 15 Alphas while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 15 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::97035698",
+      "Source": "Kill 15 Umbra/Lumina",
+      "Trans": {"SC":"击杀 15 只幽影仔/皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::338211366",
+      "Source": "Kill 15 creatures without receiving damage",
+      "Trans": {"SC":"不受伤害击杀 15 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::732926680",
+      "Source": "Kill 15 wild Umbra",
+      "Trans": {"SC":"击杀 15 只野生幽影仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::729050118",
+      "Source": "Kill 20 Creatures while riding Umbra/Lumina, with no more than 10 seconds between kills",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 20 只生物，且每次击杀间隔不超过 10 秒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3128866477",
+      "Source": "Kill 20 creatures without receiving damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔在不受到伤害的情况下击杀 20 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2102503944",
+      "Source": "Kill 3 Alphas riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 3 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1175432901",
+      "Source": "Kill 3 creatures in a short time",
+      "Trans": {"SC":"短时间内击杀 3 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::551543398",
+      "Source": "Kill 30 Umbra/Lumina",
+      "Trans": {"SC":"击杀 30 只幽影仔/皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1307002843",
+      "Source": "Kill 30 creatures without receiving damage",
+      "Trans": {"SC":"不受伤害击杀 30 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::859845998",
+      "Source": "Kill 30 wild Umbra",
+      "Trans": {"SC":"击杀 30 只野生幽影仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3644918410",
+      "Source": "Kill 5 Alphas riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 5 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2850632828",
+      "Source": "Kill 5 Alphas while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 5 只精英生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3853775638",
+      "Source": "Kill 5 Creatures while riding Umbra/Lumina, with no more than 10 seconds between kills",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 5 只生物，且每次击杀间隔不超过 10 秒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2309824901",
+      "Source": "Kill 5 Umbra/Lumina",
+      "Trans": {"SC":"击杀 5 只幽影仔/皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3189909398",
+      "Source": "Kill 5 creatures in a short time",
+      "Trans": {"SC":"短时间内击杀 5 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::442433877",
+      "Source": "Kill 5 creatures without receiving damage",
+      "Trans": {"SC":"不受伤害击杀 5 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2403257970",
+      "Source": "Kill 5 wild Umbra",
+      "Trans": {"SC":"击杀 5 只野生幽影仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2979225476",
+      "Source": "Kill 50 creatures without receiving damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔在不受到伤害的情况下击杀 50 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1836560898",
+      "Source": "Kills 100 Creatures while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 100 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1251074254",
+      "Source": "Kills 200 Creatures while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 200 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1472999050",
+      "Source": "Kills 300 Creatures while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 300 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2105951168",
+      "Source": "Level up Umbra/Lumina 10 levels",
+      "Trans": {"SC":"使幽影仔/皎光仔提升 10 级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2279892052",
+      "Source": "Level up Umbra/Lumina 10 times",
+      "Trans": {"SC":"为幽影仔/皎光仔升级 10 次","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::253849174",
+      "Source": "Level up Umbra/Lumina 100 times",
+      "Trans": {"SC":"为幽影仔/皎光仔升级 100 次","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2570463166",
+      "Source": "Level up Umbra/Lumina 25 levels",
+      "Trans": {"SC":"使幽影仔/皎光仔提升 25 级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1171659607",
+      "Source": "Level up Umbra/Lumina 50 levels",
+      "Trans": {"SC":"使幽影仔/皎光仔提升 50 级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4134436478",
+      "Source": "Level up Umbra/Lumina 50 times",
+      "Trans": {"SC":"为幽影仔/皎光仔升级 50 次","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2492920577",
+      "Source": "Receive 10000 damage riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔承受 10000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3992815965",
+      "Source": "Receive 10000 damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔承受 10000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::34327628",
+      "Source": "Receive 2500 damage riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔承受 2500 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::522368437",
+      "Source": "Receive 2500 damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔承受 2500 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3220896468",
+      "Source": "Receive 25000 damage riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔承受 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3826057596",
+      "Source": "Receive 25000 damage while riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔承受 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3642439069",
+      "Source": "Ride Umbra/Lumina for 1800 s",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔 1800 秒 (30分钟)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3333454221",
+      "Source": "Ride Umbra/Lumina for 1800 seconds",
+      "Trans": {"SC":"累计骑乘幽影仔/皎光仔 1800 秒 (30分钟)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2713724500",
+      "Source": "Ride Umbra/Lumina for 300 s",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔 300 秒 (5分钟)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::433631989",
+      "Source": "Ride Umbra/Lumina for 3600 s",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔 3600 秒 (60分钟)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3407082536",
+      "Source": "Ride Umbra/Lumina for 3600 seconds",
+      "Trans": {"SC":"累计骑乘幽影仔/皎光仔 3600 秒 (60分钟)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2507450064",
+      "Source": "Ride Umbra/Lumina for 7200 seconds",
+      "Trans": {"SC":"累计骑乘幽影仔/皎光仔 7200 秒 (120分钟)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3131182983",
+      "Source": "Tame 1 Umbra",
+      "Trans": {"SC":"驯服 1 只幽影仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4202271940",
+      "Source": "Tame 1 Umbra/Lumina",
+      "Trans": {"SC":"驯服 1 只幽影仔/皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3704004797",
+      "Source": "Tame 2 Umbra/Lumina",
+      "Trans": {"SC":"驯服 2 只幽影仔/皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3117020605",
+      "Source": "Tame 3 Umbra",
+      "Trans": {"SC":"驯服 3 只幽影仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3243488106",
+      "Source": "Tame 3 Umbra/Lumina",
+      "Trans": {"SC":"驯服 3 只幽影仔/皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3161848819",
+      "Source": "Tame 5 Umbra",
+      "Trans": {"SC":"驯服 5 只幽影仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1480565140",
+      "Source": "Travel 10000 m riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔移动 10000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4174716415",
+      "Source": "Travel 100000 m riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔移动 100000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::423126156",
+      "Source": "Travel 100000 meters riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔移动 100000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2939588953",
+      "Source": "Travel 25000 meters riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔移动 25000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::4160139254",
+      "Source": "Travel 50000 m riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔移动 50000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1269124160",
+      "Source": "Travel 50000 meters riding Umbra/Lumina",
+      "Trans": {"SC":"骑乘幽影仔/皎光仔移动 50000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
   // 2025-10-09 20:53:11 //恐龙双语
