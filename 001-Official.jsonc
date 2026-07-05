@@ -1,6 +1,1322 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::3111342066",
+      "Source": "Fancy Pirate Boots",
+      "Trans": {"SC":"华丽海盗长靴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2829972771",
+      "Source": "Fancy Pirate Gloves",
+      "Trans": {"SC":"华丽海盗手套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1726323433",
+      "Source": "Fancy Pirate Hat",
+      "Trans": {"SC":"华丽海盗帽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::677128351",
+      "Source": "Fancy Pirate Pants",
+      "Trans": {"SC":"华丽海盗长裤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1974383418",
+      "Source": "Fancy Pirate Shirt",
+      "Trans": {"SC":"华丽海盗上衣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1250225829",
+      "Source": "Fertilized X-Archelon Egg",
+      "Trans": {"SC":"受精的X-古巨龟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::362846175",
+      "Source": "Fertilized X-Cryolophosaurus Egg",
+      "Trans": {"SC":"受精的X-冰嵴龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::146767571",
+      "Source": "Fertilized X-Deinosuchus Egg",
+      "Trans": {"SC":"受精的X-恐鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3472388707",
+      "Source": "Fertilized X-Helicoprion Egg",
+      "Trans": {"SC":"受精的X-旋齿鲨蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::189281100",
+      "Source": "Fertilized X-Xiphactinus Egg",
+      "Trans": {"SC":"受精的X-剑射鱼蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3442772030",
+      "Source": "Parrot",
+      "Trans": {"SC":"鹦鹉","JA":"鸚鵡"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2545813193",
+      "Source": "Parrot Egg",
+      "Trans": {"SC":"鹦鹉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2164151518",
+      "Source": "Fertilized Parrot Egg",
+      "Trans": {"SC":"受精的鹦鹉蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::588460028",
+      "Source": "You recently tried taming a Parrot, and must wait to try again",
+      "Trans": {"SC":"你最近尝试驯服鹦鹉, 需要等待后才能再次尝试","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1606081716",
+      "Source": "Parrot Taming Cooldown",
+      "Trans": {"SC":"鹦鹉驯服冷却","JA":"鸚鵡馴服冷却"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::940797081",
+      "Source": "Parrot Taming",
+      "Trans": {"SC":"鹦鹉驯服","JA":"鸚鵡馴服"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1641527284",
+      "Source": " Log",
+      "Trans": {"SC":" 记录","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2906188161",
+      "Source": "PLACING COST:",
+      "Trans": {"SC":"下单费用：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3453606251",
+      "Source": "Price / Unit",
+      "Trans": {"SC":"单价","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3265227735",
+      "Source": "MAKE NEW REQUEST",
+      "Trans": {"SC":"创建新请求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3364700315",
+      "Source": "MODIFY REQUEST",
+      "Trans": {"SC":"修改请求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3408201230",
+      "Source": "CANCEL REQUEST",
+      "Trans": {"SC":"取消请求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4272049760",
+      "Source": "CANCEL SALE",
+      "Trans": {"SC":"取消出售","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::169527044",
+      "Source": "SELL",
+      "Trans": {"SC":"出售","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4077116816",
+      "Source": "SET WAYPOINT",
+      "Trans": {"SC":"设置航点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1548485475",
+      "Source": "REMOVE WAYPOINT",
+      "Trans": {"SC":"移除航点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2894319089",
+      "Source": "REMOVE ALL WAYPOINTS",
+      "Trans": {"SC":"移除所有航点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1126581477",
+      "Source": "FOR SALE",
+      "Trans": {"SC":"出售","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3475055942",
+      "Source": "REQUESTED",
+      "Trans": {"SC":"已请求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3940903692",
+      "Source": "Sort by:",
+      "Trans": {"SC":"排序方式：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1205091760",
+      "Source": "Filter by:",
+      "Trans": {"SC":"筛选方式：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3720015174",
+      "Source": "ORDER INFO",
+      "Trans": {"SC":"订单信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2952455283",
+      "Source": "WORLD MARKET",
+      "Trans": {"SC":"世界市场","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3609061429",
+      "Source": "LOCAL MARKET",
+      "Trans": {"SC":"本地市场","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1785997800",
+      "Source": "<Buyer>{buyer}</> bough <ItemName>{item} ({quantity})</> from <Seller>{seller}</> for <img src=\"HexagonIcon\"/> <Price>{price}</>",
+      "Trans": {"SC":"<Buyer>{buyer}</> 购买了 <ItemName>{item} ({quantity})</> 卖家为 <Seller>{seller}</> 花费 <img src=\"HexagonIcon\"/> <Price>{price}</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4265726398",
+      "Source": "<Seller>{seller}</> sold <ItemName>{item} ({quantity})</> to <Buyer>{buyer}</> for <img src=\"HexagonIcon\"/> <Price>{price}</>",
+      "Trans": {"SC":"<Seller>{seller}</> 出售了 <ItemName>{item} ({quantity})</> 买家为 <Buyer>{buyer}</> 花费 <img src=\"HexagonIcon\"/> <Price>{price}</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1123234375",
+      "Source": "Market of ",
+      "Trans": {"SC":"市场 - ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "00032E544C961DCE078734AAF1D03108",
+      "Source": "Quantity",
+      "Trans": {"SC":"数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"675527418"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3208419972",
+      "Source": "Sell Item",
+      "Trans": {"SC":"出售物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1940477575",
+      "Source": "Request Item",
+      "Trans": {"SC":"请求物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3354286878",
+      "Source": "Go To Order",
+      "Trans": {"SC":"前往订单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3785330038",
+      "Source": "EDIT MARKET INFO",
+      "Trans": {"SC":"编辑市场信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4057727264",
+      "Source": "MARKET INFO",
+      "Trans": {"SC":"市场信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "060934A141204AED18AFCCAC5D47B58D",
+      "Source": "Color",
+      "Trans": {"SC":"颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3347736421"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1281792534",
+      "Source": "MARKET NAME",
+      "Trans": {"SC":"市场名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3565473738",
+      "Source": "Market Name",
+      "Trans": {"SC":"市场名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3924165766",
+      "Source": "TOTAL PRICE:",
+      "Trans": {"SC":"总价:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3924165766"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1483226909",
+      "Source": "UNIT PRICE",
+      "Trans": {"SC":"单价","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::467463803",
+      "Source": "Unit Price",
+      "Trans": {"SC":"单价","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3746255035",
+      "Source": "HEX-CHANGE",
+      "Trans": {"SC":"六角币交易","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3636438482",
+      "Source": "Market Browser",
+      "Trans": {"SC":"交易市场面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2176727710",
+      "Source": "UNDO ALL",
+      "Trans": {"SC":"全部撤销","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4075052439",
+      "Source": "PREVIEW OFF",
+      "Trans": {"SC":"预览关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::277581449",
+      "Source": "PREVIEW ON",
+      "Trans": {"SC":"预览开启","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::458737090",
+      "Source": "CLEAR ALL",
+      "Trans": {"SC":"全部清除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "FD009C9447144A07350654B6E49CC813",
+      "Source": "None",
+      "Trans": {"SC":"全部","JA":""}, //标记-专项翻译
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1897401797"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1261393181",
+      "Source": "Cannot ",
+      "Trans": {"SC":"不可 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::627370442",
+      "Source": " (太远了)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "02E1F5B347FD34A8298C4FA2FBEA7FB0",
+      "Source": "Bones",
+      "Trans": {"SC":"骨头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1739241745"}
+    },
+    {
+      "NamespaceHash": "36DA839E4F61F9F51B8E67B225578386",
+      "Source": "Branch",
+      "Trans": {"SC":"树杈","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2945845914"}
+    },
+    {
+      "NamespaceHash": "61C5BF63455E23DD24376FB68AFB178B",
+      "Source": "Props",
+      "Trans": {"SC":"小道具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"221342559"}
+    },
+    {
+      "NamespaceHash": "9FCE909742F3E8CD0BC09586D8A2F3DB",
+      "Source": "Coral",
+      "Trans": {"SC":"珊瑚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2280614681"}
+    },
+    {
+      "NamespaceHash": "9EFCACB541FB0E195156D79EE7875804",
+      "Source": "None",
+      "Trans": {"SC":"无","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1897401797"}
+    },
+    {
+      "NamespaceHash": "7984543246B1F08DBFF8E0A82E6E100D",
+      "Source": "Kelp Coral Rock",
+      "Trans": {"SC":"海带珊瑚岩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"717697029"}
+    },
+    {
+      "NamespaceHash": "B7A287FC4058CD99EF4FAFA7EA3F6D9B",
+      "Source": "Vent Rock",
+      "Trans": {"SC":"喷口岩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2657330613"}
+    },
+    {
+      "NamespaceHash": "9E3BDF4B43CA77440537A083F05B19DB",
+      "Source": "Twin Peak Rock",
+      "Trans": {"SC":"双峰岩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"557393443"}
+    },
+    {
+      "NamespaceHash": "F9B968596687222CDD2A8D6B6687222C",
+      "Source": "Cannonballs",
+      "Trans": {"SC":"炮弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2963820802"}
+    },
+    {
+      "NamespaceHash": "29FFF621406CD591D06DBC978149DF3A",
+      "Source": "Big Branch",
+      "Trans": {"SC":"大树枝","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"184822093"}
+    },
+    {
+      "NamespaceHash": "EF6108B5415C62A2663581B126BC4ED6",
+      "Source": "Twisted Branch",
+      "Trans": {"SC":"扭曲树枝","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2361765564"}
+    },
+    {
+      "NamespaceHash": "D1B87D2F4C9DA7F0AC9EAD9525397170",
+      "Source": "Rex Skull",
+      "Trans": {"SC":"霸王龙头骨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1722895148"}
+    },
+    {
+      "NamespaceHash": "B5C0E61547FFF0161F3B438A9366A54C",
+      "Source": "Raptor Skull",
+      "Trans": {"SC":"迅猛龙头骨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3343537819"}
+    },
+    {
+      "NamespaceHash": "49FDAB0D48A569359D52A295345E2EB6",
+      "Source": "Trike Skull",
+      "Trans": {"SC":"三角龙头骨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"332830521"}
+    },
+    {
+      "NamespaceHash": "328E1DF94E7319650E2D739FEADBF553",
+      "Source": "Stego Skull",
+      "Trans": {"SC":"剑龙头骨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1155369490"}
+    },
+    {
+      "NamespaceHash": "CF3BD49C46B269D59E2B5296962DD237",
+      "Source": "White Loot Crate",
+      "Trans": {"SC":"白色战利品箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"16948454"}
+    },
+    {
+      "NamespaceHash": "C83315D54FDDA4DBBFBC57BE15F738B5",
+      "Source": "Green Loot Crate",
+      "Trans": {"SC":"绿色战利品箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2211933979"}
+    },
+    {
+      "NamespaceHash": "961A36B64929FFD14BDFC9BA3BEFB2CA",
+      "Source": "Blue Loot Crate",
+      "Trans": {"SC":"蓝色战利品箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2063787145"}
+    },
+    {
+      "NamespaceHash": "05276C0A4DA8849DB62CBFBFC71B91BA",
+      "Source": "Purple Loot Crate",
+      "Trans": {"SC":"紫色战利品箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"351265638"}
+    },
+    {
+      "NamespaceHash": "38167CB54CBCFD860E6564903BD87FE7",
+      "Source": "Yellow Loot Crate",
+      "Trans": {"SC":"黄色战利品箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1825907220"}
+    },
+    {
+      "NamespaceHash": "99372AC049991622F80D86A7283B5585",
+      "Source": "Red Loot Crate",
+      "Trans": {"SC":"红色战利品箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1056709419"}
+    },
+    {
+      "NamespaceHash": "088988E64519C3929C495CB8C10DC43D",
+      "Source": "Tube & Brain Corals",
+      "Trans": {"SC":"管珊瑚 & 脑珊瑚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2741090533"}
+    },
+    {
+      "NamespaceHash": "19ABC9064698F2E8CD3B59942502E659",
+      "Source": "Flower Corals & Kelp",
+      "Trans": {"SC":"花珊瑚 & 海带","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1389061543"}
+    },
+    {
+      "NamespaceHash": "57CF942C42C8A63581599A82AA08871B",
+      "Source": "Kelp Vent",
+      "Trans": {"SC":"海带喷口","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1706453086"}
+    },
+    {
+      "NamespaceHash": "63A752CA40AC657F0D6F9C845485D782",
+      "Source": "Deep Sea Flowers & Kelp",
+      "Trans": {"SC":"深海花 & 海带","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4063199818"}
+    },
+    {
+      "NamespaceHash": "91CF87544C0C1FD6674D47B9106314C4",
+      "Source": "Bottle",
+      "Trans": {"SC":"瓶子","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2820311926"}
+    },
+    {
+      "NamespaceHash": "3C84A8BC48C0F79D5042F1B647D3A45F",
+      "Source": "Deep Sea Flowers",
+      "Trans": {"SC":"深海花","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2636105552"}
+    },
+    {
+      "NamespaceHash": "D3182EFE440ADC0F5DFD3CA0987E6332",
+      "Source": "Long Crystal Rock",
+      "Trans": {"SC":"长晶石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3365623654"}
+    },
+    {
+      "NamespaceHash": "400D74AE4C02FD847F6BBE8B46E77CD8",
+      "Source": "Short Crystal Rock",
+      "Trans": {"SC":"短晶石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"878821794"}
+    },
+    {
+      "NamespaceHash": "7C6796CD457794A67A578CB839512C5F",
+      "Source": "Sword", //水族箱
+      "Trans": {"SC":"剑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1462408152"}
+    },
+    {
+      "NamespaceHash": "B0D9CD0B4BECD9865BFC91AAD3025344",
+      "Source": "Cannon", //水族箱-避免双语干扰
+      "Trans": {"SC":"火炮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2649924859"}
+    },
+    {
+      "NamespaceHash": "51399DF94AA751772ECFAA87751839EE",
+      "Source": "Magmasaur Egg", //水族箱-避免双语干扰
+      "Trans": {"SC":"熔岩龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3199261592"}
+    },
+    //[#1864] 次数:1
+    {
+      "NamespaceHash": "458C38A848F9CA69F13BD1AE4D11646F",
+      "Source": "Rock Drake Egg", //水族箱-避免双语干扰
+      "Trans": {"SC":"岩龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2002665282"}
+    },
+    {
+      "NamespaceHash": "BDE1F5164CB79C8A78003DBB7D9C3B91",
+      "Source": "Treasure Chest", //水族箱-避免双语干扰
+      "Trans": {"SC":"藏宝箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3014940338"}
+    },
+    {
+      "NamespaceHash": "5761CB294F63B196B563B59BFBAF6215",
+      "Source": "Lightning Wyvern Egg", //水族箱-避免双语干扰
+      "Trans": {"SC":"闪电飞龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1776227844"}
+    },
+    {
+      "NamespaceHash": "C7CCF0D64D5F8E6C7FED67959E82AB61",
+      "Source": "Fire Wyvern Egg", //水族箱-避免双语干扰
+      "Trans": {"SC":"火焰飞龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4068361423"}
+    },
+    {
+      "NamespaceHash": "BE2A93C2496903EF2BE042BC5FC2A0ED",
+      "Source": "Poison Wyvern Egg", //水族箱-避免双语干扰
+      "Trans": {"SC":"剧毒飞龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3353034834"}
+    },
+    {
+      "NamespaceHash": "E7A1006446346015AB36EFA29D54DB5D",
+      "Source": "Ice Wyvern Egg", //水族箱-避免双语干扰
+      "Trans": {"SC":"寒冰飞龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3718729849"}
+    },
+    {
+      "NamespaceHash": "2CF21E2F47C2359E60232F95CF28DEAC",
+      "Source": "Slots",
+      "Trans": {"SC":"位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3765952602"}
+    },
+    {
+      "NamespaceHash": "F2C99DEE433E2CC1AD40C2858F41D42B",
+      "Source": "Layout",
+      "Trans": {"SC":"布局","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"742637486"}
+    },
+    {
+      "NamespaceHash": "7D6A3D4D43EB294BB52207BECF605D19",
+      "Source": "Decorations",
+      "Trans": {"SC":"摆件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1247921375"}
+    },
+    {
+      "NamespaceHash": "Content::3601482936",
+      "Source": "Hide Background",
+      "Trans": {"SC":"隐藏背景","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3766454718",
+      "Source": "Show Background",
+      "Trans": {"SC":"显示背景","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1814317635",
+      "Source": "Prevent Storage Interface Linking",
+      "Trans": {"SC":"储物接口禁止关联","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::466894478",
+      "Source": "Allow Storage Interface Linking",
+      "Trans": {"SC":"储物接口允许关联","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1091716322",
+      "Source": "Tap on Glass",
+      "Trans": {"SC":"轻敲玻璃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1391019905",
+      "Source": "Customize Fishtank",
+      "Trans": {"SC":"自定义水族箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3807187018",
+      "Source": "Show Items",
+      "Trans": {"SC":"展开物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2576951687",
+      "Source": "Change range from: ",
+      "Trans": {"SC":"调整距离为: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"884592004"}
+    },
+    {
+      "NamespaceHash": "Globals::2578310390",
+      "Source": "Toggle Item Tracking",
+      "Trans": {"SC":"开关物品追踪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1627148048",
+      "Source": "Withdraw Quantity",
+      "Trans": {"SC":"取出数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1163250763",
+      "Source": "Withdraw All",
+      "Trans": {"SC":"全部取出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1695205149",
+      "Source": "Set Threshold",
+      "Trans": {"SC":"设置阈值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::565502691",
+      "Source": "Remove Threshold",
+      "Trans": {"SC":"移除阈值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2961357046",
+      "Source": "Hide Trackers",
+      "Trans": {"SC":"隐藏追踪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3327362925",
+      "Source": "Stop Tracking",
+      "Trans": {"SC":"关闭追踪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::907252561",
+      "Source": "Linked Structures: ",
+      "Trans": {"SC":"已关联建筑: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2298573131",
+      "Source": "Owned",
+      "Trans": {"SC":"已拥有","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3746241702",
+      "Source": "OWNED",
+      "Trans": {"SC":"已拥有","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1045283785",
+      "Source": "Cargo Ledger",
+      "Trans": {"SC":"货物账台","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2725121324",
+      "Source": "Keeps track of items in nearby containers, and allows withdrawing those items without physically accessing each container.",
+      "Trans": {"SC":"记录附近容器中的物品, 并允许无需逐一接触容器即可取出物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::427759766",
+      "Source": "Aquarium",
+      "Trans": {"SC":"水族箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3432742335",
+      "Source": "A decorative Structure for showing off your best catches. Transfer Creatures into it via Fishing Basket, and display them in a beautiful aquatic habitat.",
+      "Trans": {"SC":"用于展示你最佳渔获的装饰性建筑。通过鱼篮将生物转入其中, 并在美丽的水生栖境中展示它们。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3734289469",
+      "Source": "Hand Cannon",
+      "Trans": {"SC":"手炮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1645378064",
+      "Source": "The HandCannon is a high impact, single-shot firearm designed for area denial/displacement, rather than sustained damage. It excels in close-quarters and naval combat by allowing players to forcibly reposition enemies.",
+      "Trans": {"SC":"手炮是一种高冲击单发火器, 侧重区域压制与位移控制, 而非持续伤害。它在近距离与海战中表现出色, 可迫使敌人改变位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2740374280",
+      "Source": "Grapeshot",
+      "Trans": {"SC":"霰弹炮弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1424355131",
+      "Source": "A few simple bullets in a padded hide wrapping, used with Hand Cannons.",
+      "Trans": {"SC":"几枚用厚皮包裹的简易子弹, 用于手炮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::166384153",
+      "Source": "Bounty Board",
+      "Trans": {"SC":"悬赏板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::659555353",
+      "Source": "A Tribe-wide mission generator, for gaining Hexagons that can be spent in the Hexagon Exchange.",
+      "Trans": {"SC":"全部落通用任务生成器, 可获得可在六角币交易所消费的六角币。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1755310013",
+      "Source": "Tidepup Saddle",
+      "Trans": {"SC":"潮佑螈鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::197756684",
+      "Source": "Equip a Tidepup with this to ride it.",
+      "Trans": {"SC":"装备到潮佑螈上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1098770720",
+      "Source": "Shipyard",
+      "Trans": {"SC":"船坞","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2595405784",
+      "Source": "An large Structure used to construct, fast-travel, and manage Ships. Must be placed in water.",
+      "Trans": {"SC":"一座用于建造、快速旅行和管理船只的大型建筑。必须放置在水中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2281765728",
+      "Source": "Market",
+      "Trans": {"SC":"市场","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::459584209",
+      "Source": "Allows Survivors to safely buy and sell Items with other Survivors. Set the Item you want to buy/sell, a price (in Hexagons), and an quantity... then wait for someone to fulfill that order. Also works as a local hub for the Hexagon Exchange.",
+      "Trans": {"SC":"允许生存者与其他生存者安全买卖物品。设置你想购买/出售的物品、价格 (以六角币计) 和数量...然后等待其他人完成订单。也可作为本地六角币交易所使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3541263049",
+      "Source": "Sloop",
+      "Trans": {"SC":"单桅帆船","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1555901628",
+      "Source": "A very fast, medium-sized Ship for naval travel. Comes equipped with several cannons, and can be customized with tileset Structures.",
+      "Trans": {"SC":"适合海上航行的高速中型船只。配备数门火炮, 并可使用拼装建筑进行自定义。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1434197564",
+      "Source": "ToF Lights",
+      "Trans": {"SC":"命运之潮灯具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2491215549",
+      "Source": "Requires fuel electricity to activate.",
+      "Trans": {"SC":"需要燃料或电力才能启动。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::865734337",
+      "Source": "Corrosive Ship Cannonball",
+      "Trans": {"SC":"腐蚀舰炮弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::64219949",
+      "Source": "This Ship-projectile contains acidic slime. Deals moderate damage to targets and corrodes their armor, causing them to take additional damage for a short duration.",
+      "Trans": {"SC":"这种舰载弹药装有酸性黏液。可对目标造成中等伤害并腐蚀其护甲, 使其在短时间内受到额外伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1480664523",
+      "Source": "Incendiary Ship Cannonball",
+      "Trans": {"SC":"燃烧舰炮弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2519563898",
+      "Source": "This Ship-projectile contains flaming sludge. Deals moderate damage to targets and sets them on fire, dealing additional damage over time, and setting any Survivor or Tame that steps on the fire ablaze.",
+      "Trans": {"SC":"这种舰载弹药装有燃烧淤泥。可对目标造成中等伤害并引燃目标, 持续造成额外伤害; 踏入火焰的生存者或驯养生物也会被点燃。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::732701732",
+      "Source": "Reinforced Ship Cannonball",
+      "Trans": {"SC":"强化舰炮弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::909144646",
+      "Source": "This Ship-projectile is made from heavier metals than standard cannonballs. Deals very high damage to targets, and can even damage Player-owned Sturctures.",
+      "Trans": {"SC":"这种舰载弹药采用比标准炮弹更重的金属制成。对目标造成极高伤害, 甚至能伤害玩家建筑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::697897006",
+      "Source": "Brigantine",
+      "Trans": {"SC":"双桅帆船","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1053026563",
+      "Source": "A powerful, large-sized Ship for naval travel. Comes equipped with MANY cannons, and can be customized with tileset Structures.",
+      "Trans": {"SC":"适合海上航行的强力大型船只。配备大量火炮, 并可使用拼装建筑进行自定义。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4201820678",
+      "Source": "Aquatic Compartment",
+      "Trans": {"SC":"水生舱室","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1077487267",
+      "Source": "An enclosed aquatic area.",
+      "Trans": {"SC":"封闭式水生区域。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1727556582",
+      "Source": "Drake Claw",
+      "Trans": {"SC":"龙爪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1606135225",
+      "Source": "Fires a claw that provides a speedy dash to targeted Tame or location.",
+      "Trans": {"SC":"发射龙爪, 使你迅速冲向目标驯养生物或指定位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::425042683",
+      "Source": "Lumina",
+      "Trans": {"SC":"皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2833013753",
+      "Source": "Lumina Saddle",
+      "Trans": {"SC":"皎光仔鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2615418478",
+      "Source": "Equip a Lumina with this to ride it.",
+      "Trans": {"SC":"装备到皎光仔上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::526764001",
+      "Source": "Fertilized Lumina Egg",
+      "Trans": {"SC":"受精皎光仔蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1911324318",
+      "Source": "Lumina Dossier",
+      "Trans": {"SC":"皎光仔图鉴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1760328547",
+      "Source": "Umbra",
+      "Trans": {"SC":"幽影仔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2580855553",
+      "Source": "Umbra Saddle",
+      "Trans": {"SC":"幽影仔鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::861622814",
+      "Source": "Equip a Umbra with this to ride it.",
+      "Trans": {"SC":"装备到幽影仔上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::126790354",
+      "Source": "Fertilized Umbra Egg",
+      "Trans": {"SC":"受精幽影仔蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::47913540",
+      "Source": "Umbra Dossier",
+      "Trans": {"SC":"幽影仔图鉴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3964757791",
+      "Source": "DRAGONTOPIA",
+      "Trans": {"SC":"龙之国度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3602339854",
+      "Source": "Bob's Arat Tales 1",
+      "Trans": {"SC":"鲍勃的阿拉特故事 1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3288528864",
+      "Source": "Bob's Arat Tales 2",
+      "Trans": {"SC":"鲍勃的阿拉特故事 2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2092863621",
+      "Source": "Bob's Arat Tales 3",
+      "Trans": {"SC":"鲍勃的阿拉特故事 3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3781797948",
+      "Source": "Bob's Arat Tales 4",
+      "Trans": {"SC":"鲍勃的阿拉特故事 4","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1507184473",
+      "Source": "Bob's Arat Tales 5",
+      "Trans": {"SC":"鲍勃的阿拉特故事 5","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1264607415",
+      "Source": "Bob's Arat Tales 6",
+      "Trans": {"SC":"鲍勃的阿拉特故事 6","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4091283410",
+      "Source": "Bob's Arat Tales 7",
+      "Trans": {"SC":"鲍勃的阿拉特故事 7","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2881427332",
+      "Source": "Bob's Arat Tales 8",
+      "Trans": {"SC":"鲍勃的阿拉特故事 8","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::862765348",
+      "Source": "Bob's Arat Tales Full",
+      "Trans": {"SC":"鲍勃的阿拉特故事全集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::92366646",
+      "Source": "Bob's Arat Tales Prologue",
+      "Trans": {"SC":"鲍勃的阿拉特故事序章","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::684841970",
+      "Source": "GENESIS 1",
+      "Trans": {"SC":"创世纪Ⅰ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3162260205",
+      "Source": "Ghost Anglerfish",
+      "Trans": {"SC":"幽灵鮟鱇鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2477212714",
+      "Source": "Got some hexagons you’re keen to spend?",
+      "Trans": {"SC":"手里攒了不少六边形货币, 正打算花掉吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4229236480",
+      "Source": "Nothing looks good?",
+      "Trans": {"SC":"没有什么想要的吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3460530355",
+      "Source": "Hexagons",
+      "Trans": {"SC":"六角币","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3865635712",
+      "Source": "Common Chibi",
+      "Trans": {"SC":"普通袖珍宠物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3622885213",
+      "Source": "Uncommon Chibi",
+      "Trans": {"SC":"优秀袖珍宠物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1003367647",
+      "Source": "Rare Chibi",
+      "Trans": {"SC":"稀有袖珍宠物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2239944441",
+      "Source": "Very Rare Chibi",
+      "Trans": {"SC":"极稀有袖珍宠物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3708384466",
+      "Source": "Legendary Chibi",
+      "Trans": {"SC":"传说袖珍宠物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::464710818",
+      "Source": "Drops a random chibi of common quality.",
+      "Trans": {"SC":"掉落一个随机普通品质袖珍宠物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::404124520",
+      "Source": "Drops a random chibi of legendary quality.",
+      "Trans": {"SC":"掉落一个随机传说品质袖珍宠物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3863990718",
+      "Source": "Drops a random chibi of rare quality.",
+      "Trans": {"SC":"掉落一个随机稀有品质袖珍宠物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3223179596",
+      "Source": "Drops a random chibi of uncommon quality.",
+      "Trans": {"SC":"掉落一个随机优秀品质袖珍宠物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1530831269",
+      "Source": "Drops a random chibi of very rare quality.",
+      "Trans": {"SC":"掉落一个随机极稀有品质袖珍宠物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3572982472",
+      "Source": "INTO",
+      "Trans": {"SC":"兑换","JA":""}, //标记-专门为六角比商店做的专项翻译
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1655302280",
+      "Source": "Chit-chat", //HLN-A
+      "Trans": {"SC":"闲聊","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3765427751",
+      "Source": "SKILL TREES",
+      "Trans": {"SC":"技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2166049594",
+      "Source": "Tides Of Fortune",
+      "Trans": {"SC":"命运之潮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2166049594"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::615833327",
+      "Source": "Umbra & Lumina",
+      "Trans": {"SC":"幽影仔 & 皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1357654228",
+      "Source": "Complete Milestones to earn skill points, which can be used on the Skill Tree. Spending skill points required owning Lost Colony Expansion Pass.",
+      "Trans": {"SC":"完成成就任务即可获取技能点数, 技能点数可用于技能树加点。消耗技能点数需拥有《失落之地》扩展包。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2541986277",
+      "Source": "TIDES OF FORTUNE",
+      "Trans": {"SC":"命运之潮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3655227352",
+      "Source": "ARK: Tides of Fortune or Bob's Tall Tales",
+      "Trans": {"SC":"方舟: 命运之潮或鲍勃的传奇故事","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3266199164",
+      "Source": "Requires Tides Of Fortune",
+      "Trans": {"SC":"需要《命运之潮》","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4027662273",
+      "Source": "Requires Tides of Fortune",
+      "Trans": {"SC":"需要《命运之潮》","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3765559099",
+      "Source": "Requires Bob's Tall Tales or Tides of Fortune",
+      "Trans": {"SC":"需要《鲍勃的传奇故事》或《命运之潮》","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::881400610",
+      "Source": "Requires Shovel From Bob's Tall Tales or Tides of Fortune",
+      "Trans": {"SC":"需要《鲍勃的传奇故事》或《命运之潮》中的铲子","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::863882888",
+      "Source": "BUY TIDES OF FORTUNE",
+      "Trans": {"SC":"购买命运之潮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3236841702",
+      "Source": "Hello! I'm HLN-A, a fractal personality designed to be your guide.",
+      "Trans": {"SC":"嗨! 我是HLN-A, 专为引导你而设计的分形人格。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2029111807",
+      "Source": "Just listen to me, and you won't get yourself killed...",
+      "Trans": {"SC":"听我的, 至少能少死几回...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1764116907",
+      "Source": "Probably...",
+      "Trans": {"SC":"大概吧...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3267695832",
+      "Source": "I'm new at this, too.  ",
+      "Trans": {"SC":"毕竟我也是头一回干这个。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1852435195",
+      "Source": "Ocean [Easy]",
+      "Trans": {"SC":"海洋[简单]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2623646407",
+      "Source": "Bog [Medium]",
+      "Trans": {"SC":"沼泽[中等]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::864955822",
+      "Source": "Volcanic [Hard]",
+      "Trans": {"SC":"火山 [困难]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4119564169",
+      "Source": "Suppress By Default",
+      "Trans": {"SC":"默认屏蔽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1158668974",
+      "Source": "UNINSTALL SUPPRESSED COSMETICS",
+      "Trans": {"SC":"卸载已屏蔽装饰皮肤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "3C350536FE3D1D619401D8CB17A3CF33::518686326",
+      "Source": "Kill 1 Aberrant Achatina",
+      "Trans": {"SC":"击杀1只畸变玛瑙螺","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::425254108",
+      "Source": "All the Bugs!!!",
+      "Trans": {"SC":"全是BUG!!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4243859663",
+      "Source": "ARK: Lost Colony OST",
+      "Trans": {"SC":"方舟: 失落之地原声音乐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::987336275",
+      "Source": "ARK: Tides of Fortune OST",
+      "Trans": {"SC":"方舟: 命运之潮原声音乐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1943039691",
+      "Source": "A World Glitch has been found.",
+      "Trans": {"SC":"发现了一个世界漏洞。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3308455399",
+      "Source": "A Brute Malfunctioning Tek Quetzal is on the prowl, take it down!",
+      "Trans": {"SC":"一只凶恶故障泰克风神翼龙正在游荡, 击倒它!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1864119749",
+      "Source": "A Brute Megalodon is on the prowl, take it down!",
+      "Trans": {"SC":"一只凶恶巨齿鲨正在游荡, 击倒它!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::405413466",
+      "Source": "(0/20 OWNED)",
+      "Trans": {"SC":"(已拥有 0/20)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1577228667",
+      "Source": "DLC OWNED (5 / 10)",
+      "Trans": {"SC":"已有扩展包 (5 / 10)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2164659905",
+      "Source": "DLC OWNED ({5} / {10})",
+      "Trans": {"SC":"已有扩展包 ({5} / {10})","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2820092888",
+      "Source": "DLC PACKS",
+      "Trans": {"SC":"扩展包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3013888647",
+      "Source": "Tides of Fortune",
+      "Trans": {"SC":"命运之潮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //创世纪↑↑↑—————————————————————————————————————————————————————————————————————————————————————
+    {
       "NamespaceHash": "Content::2875638755",
       "Source": "HAPPY ARK Anniversary! Place it, write a custom message & hop inside, then jump out to surprise your friends! Or just use it to hide from danger...",
       "Trans": {"SC":"ARK周年快乐!放置它, 写下自定义留言并钻进去, 然后跳出来给朋友一个惊喜!或者干脆用它躲避危险...","JA":""},
@@ -716,13 +2032,13 @@
     {
       "NamespaceHash": "Content::4069637394",
       "Source": "Tidepup",
-      "Trans": {"SC":"潮汐幼螈","JA":""},
+      "Trans": {"SC":"潮佑螈","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1541496319",
       "Source": "Cerberax", //Cerberus
-      "Trans": {"SC":"三相狱犬","JA":""}, //原型:刻耳柏洛斯
+      "Trans": {"SC":"三相狱犬","JA":"三相獄犬"}, //原型:刻耳柏洛斯
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -740,7 +2056,7 @@
     {
       "NamespaceHash": "Content::2859169420",
       "Source": "Enigmasaur", //Enigma; saur
-      "Trans": {"SC":"幻隐龙","JA":""},
+      "Trans": {"SC":"幻隐龙","JA":"幻隱龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -872,7 +2188,7 @@
     {
       "NamespaceHash": "Content::4099231094",
       "Source": "Dirt Camouflage",
-      "Trans": {"SC":"尘土伪装","JA":""},
+      "Trans": {"SC":"尘土伪装","JA":"塵土偽装"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -67870,139 +69186,139 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXIchthy_MilestoneDescription",
       "Source": "Tame 1 X-Ichthyosaurus",
-      "Trans": {"SC":"驯服1只X-鱼龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-鱼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"251954610"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelXIchthy_MilestoneDescription",
       "Source": "Travel 100,000 Meters Distance on an X-Ichthyosaurus",
-      "Trans": {"SC":"骑乘X-鱼龙移动100,000米","JA":""},
+      "Trans": {"SC":"骑乘X-鱼龙移动 100,000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"895559949"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoA_MilestoneDescription",
       "Source": "Collect 1 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集1个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 1 个普通废弃货箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1415326515"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRaptor_MilestoneDescription",
       "Source": "Tame 1 X-Raptor",
-      "Trans": {"SC":"驯服1只X-迅猛龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-迅猛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3951222929"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXSabertooth_MilestoneDescription",
       "Source": "Tame 1 X-Sabertooth",
-      "Trans": {"SC":"驯服1只X-剑齿虎","JA":""},
+      "Trans": {"SC":"驯服 1 只X-刃齿虎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3041687113"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXAllosaurus_MilestoneDescription",
       "Source": "Tame 1 X-Allosaurus",
-      "Trans": {"SC":"驯服1只X-异特龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-异特龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1018494288"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXAnkylosaurus_MilestoneDescription",
       "Source": "Tame 1 X-Ankylosaurus",
-      "Trans": {"SC":"驯服1只X-甲龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-甲龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3788350393"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsA_MilestoneDescription",
       "Source": "Complete 1 Gamma Mission",
-      "Trans": {"SC":"完成1个简单任务","JA":""},
+      "Trans": {"SC":"完成 1 个简单任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"798092502"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRaceMission_MilestoneDescription",
       "Source": "Complete 1 Race Mission",
-      "Trans": {"SC":"完成1个竞速任务","JA":""},
+      "Trans": {"SC":"完成 1 个竞速任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2598127120"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteEscortMission_MilestoneDescription",
       "Source": "Complete 1 Escort Mission",
-      "Trans": {"SC":"完成1个护送任务","JA":""},
+      "Trans": {"SC":"完成 1 个护送任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3661288538"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishTankA_MilestoneDescription",
       "Source": "Craft 1 Aquarium",
-      "Trans": {"SC":"制作1个水族箱","JA":""},
+      "Trans": {"SC":"制作 1 个水族箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2124961631"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishBasketsA_MilestoneDescription",
       "Source": "Craft 10 Fish Baskets",
-      "Trans": {"SC":"制作10个鱼篮","JA":""},
+      "Trans": {"SC":"制作 10 个鱼篮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"138010236"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchSalmon_MilestoneDescription",
       "Source": "Catch 10 X-Sabertooth Salmon with Fish Baskets",
-      "Trans": {"SC":"使用鱼篮捕获10只X-剑齿鲑","JA":""},
+      "Trans": {"SC":"使用鱼篮捕获 10 只X-剑齿鲑","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3263484338"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftShipyardA_MilestoneDescription",
       "Source": "Craft 1 Shipyard",
-      "Trans": {"SC":"制作1个船坞","JA":""},
+      "Trans": {"SC":"制作 1 个船坞","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"648718057"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructSloopA_MilestoneDescription",
       "Source": "Construct a Sloop",
-      "Trans": {"SC":"建造1艘单桅帆船","JA":""},
+      "Trans": {"SC":"建造 1 艘单桅帆船","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3546547529"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelSloop_MilestoneDescription",
       "Source": "Travel 10,000 Meters Distance with Sloop",
-      "Trans": {"SC":"使用单桅帆船移动10,000米","JA":""},
+      "Trans": {"SC":"使用单桅帆船移动 10,000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1817891892"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXTrike_MilestoneDescription",
       "Source": "Tame 1 X-Trike",
-      "Trans": {"SC":"驯服1只X-三角龙","JA":""},
+      "Trans": {"SC":"驯服 1 只X-三角龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"290075646"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestWoodA_MilestoneDescription",
       "Source": "Harvest 1,000 Wood/Fungal Wood",
-      "Trans": {"SC":"采集1,000份木头/真菌木","JA":""},
+      "Trans": {"SC":"采集 1,000 份木头/真菌木","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1947720776"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCargoLedgerB_MilestoneDescription",
       "Source": "Craft 3 Cargo Ledgers",
-      "Trans": {"SC":"制作3个货物账簿","JA":""},
+      "Trans": {"SC":"制作 3 个货物账台","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"708637367"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestWoodB_MilestoneDescription",
       "Source": "Harvest 5,000 Wood/Fungal Wood",
-      "Trans": {"SC":"采集5,000份木头/真菌木","JA":""},
+      "Trans": {"SC":"采集 5,000 份木头/真菌木","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4034132589"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftStorageBoxes_MilestoneDescription",
       "Source": "Craft 25 Large Storage Boxes",
-      "Trans": {"SC":"制作25个大型储物箱","JA":""},
+      "Trans": {"SC":"制作 25 个大型储物箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"29915149"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupA_MilestoneDescription",
       "Source": "Tame 1 Tidepup",
-      "Trans": {"SC":"驯服1只潮佑螈","JA":""},
+      "Trans": {"SC":"驯服 1 只潮佑螈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"726345108"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameParrotB_MilestoneDescription",
       "Source": "Tame 3 Parrots",
-      "Trans": {"SC":"驯服3只鹦鹉","JA":""},
+      "Trans": {"SC":"驯服 3 只鹦鹉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3517542355"}
     },
     {
