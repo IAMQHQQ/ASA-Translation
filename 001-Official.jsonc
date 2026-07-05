@@ -1,46 +1,106 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::3435060474",
+      "Source": "Wrap up warm and combat the cold creatures, making your way to the glacial gorilla!",
+      "Trans": {"SC":"裹紧保暖装备, 对抗严寒生物, 一路杀向冰川巨猿!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::266879180",
+      "Source": "Yeti Or Not, Here I Come",
+      "Trans": {"SC":"雪人不雪人, 我来了","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2594631588",
+      "Source": "X-Acrocanthosaurus",
+      "Trans": {"SC":"X-高棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2408053356",
+      "Source": "X-Archelon",
+      "Trans": {"SC":"X-古巨龟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::842825496",
+      "Source": "X-Cryolophosaurus",
+      "Trans": {"SC":"X-冰嵴龙","JA":"X-冰脊龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1539211461",
+      "Source": "X-Deinosuchus",
+      "Trans": {"SC":"X-恐鳄","JA":"X-恐鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::350972437",
+      "Source": "X-Helicoprion",
+      "Trans": {"SC":"X-旋齿鲨","JA":"X-旋齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1484998422",
+      "Source": "X-Xiphactinus",
+      "Trans": {"SC":"X-剑射鱼","JA":"X-劍射鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1120560500",
+      "Source": "Bond Dragon",
+      "Trans": {"SC":"契约龙仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3905643082",
+      "Source": "Skill not unlocked",
+      "Trans": {"SC":"技能未解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::1714270199",
       "Source": "BOB",
-      "Trans": { "SC": "鲍勃", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"鲍勃","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2898414703",
       "Source": "Draco Skill Tree",
-      "Trans": { "SC": "龙族技能树", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"龙族技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "GraphLiteral::3926298704",
       "Source": "Dragontopia Skill Tree",
-      "Trans": { "SC": "龙之国度技能树", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"龙之国度技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2903625370",
       "Source": "Drake Claw Skill Tree",
-      "Trans": { "SC": "龙爪技能树", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"龙爪技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "GraphLiteral::3812037761",
       "Source": "Lost Colony Skill Tree",
-      "Trans": { "SC": "失落之地技能树", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"失落之地技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "GraphLiteral::3633187916",
       "Source": "Skill tree of Tides Of Fortune",
-      "Trans": { "SC": "命运之潮技能树", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"命运之潮技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "GraphLiteral::4013824965",
       "Source": "Umbra & Lumina Skill Tree",
-      "Trans": { "SC": "幽影仔 & 皎光仔技能树", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"幽影仔 & 皎光仔技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::1053057888",
@@ -73181,6 +73241,366 @@
     }
   ],
   "Dragontopia": [
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoFury_SkillName",
+      "Source": "Draco Fury",
+      "Trans": {"SC":"龙之怒火","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2573350975"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoFury_SkillDescription",
+      "Source": "Unlocks the Draco Fury passive ability.",
+      "Trans": {"SC":"解锁龙之怒火被动能力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3976189948"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_BiteClawCharge_SkillName",
+      "Source": "Claw Charge",
+      "Trans": {"SC":"爪击追击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2895913915"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_BiteClawCharge_SkillDescription",
+      "Source": "Unlocks a Claw follow-up attack chained from the Bite.",
+      "Trans": {"SC":"解锁撕咬后可衔接的爪击追击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"478087093"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DashClawRange_SkillName",
+      "Source": "Dash Claw Range",
+      "Trans": {"SC":"冲刺爪击范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4219970709"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DashClawRange_SkillDescription",
+      "Source": "Increases the range of the Dash Claw attack.{DashClawRange}",
+      "Trans": {"SC":"提高冲刺爪击的攻击范围。{DashClawRange}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2126930516"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DashClaw_SkillName",
+      "Source": "Dash Claw",
+      "Trans": {"SC":"冲刺爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1307643264"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DashClaw_SkillDescription",
+      "Source": "Unlocks the Dash Claw attack.",
+      "Trans": {"SC":"解锁冲刺爪击攻击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3807910062"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaProjectileRedirect_SkillName",
+      "Source": "Plasma Projectile Redirect",
+      "Trans": {"SC":"等离子射弹偏转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"525826974"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaProjectileRedirect_SkillDescription",
+      "Source": "Unlocks the ability to redirect a Plasma Projectile toward your current target, converting it into a smaller projectile.",
+      "Trans": {"SC":"解锁将等离子射弹偏转至当前目标的能力, 并将其转化为较小射弹。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1424501814"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaProjectileRedirectLockOn_SkillName",
+      "Source": "Plasma Projectile Redirect Lock on Target",
+      "Trans": {"SC":"等离子射弹偏转目标锁定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2487270737"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaProjectileRedirectLockOn_SkillDescription",
+      "Source": "Unlocks target lock-on for the Plasma Projectile Redirect ability.",
+      "Trans": {"SC":"解锁等离子射弹偏转的目标锁定功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1742111295"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaProjectileTravelDamage_SkillName",
+      "Source": "Plasma Projectile Travel Damage",
+      "Trans": {"SC":"等离子射弹飞行伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"831084370"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaProjectileTravelDamage_SkillDescription",
+      "Source": "Redirected Plasma Projectile: damage multiplier scales with distance traveled in flight. {PlasmaProjectileTravelDamage}",
+      "Trans": {"SC":"偏转后的等离子射弹: 伤害倍率随飞行距离提升。{PlasmaProjectileTravelDamage}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"851847155"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_PlasmaBurst_SkillName",
+      "Source": "Plasma Burst",
+      "Trans": {"SC":"等离子爆发","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2506889092"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_PlasmaBurst_SkillDescription",
+      "Source": "Unlocks the Plasma Burst ability.",
+      "Trans": {"SC":"解锁等离子爆发能力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3107283227"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_PlasmaBurstChargeTime_SkillName",
+      "Source": "Plasma Burst Charge Time",
+      "Trans": {"SC":"等离子爆发蓄力时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2751916507"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_PlasmaBurstChargeTime_SkillDescription",
+      "Source": "Reduces the time needed to charge Plasma Burst. {PlasmaBurstChargeTime}",
+      "Trans": {"SC":"缩短等离子爆发所需蓄力时间。{PlasmaBurstChargeTime}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1074330619"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_PlasmaBurstLockOn_SkillName",
+      "Source": "Plasma Burst Lock-On",
+      "Trans": {"SC":"等离子爆发锁定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"48914520"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_PlasmaBurstLockOn_SkillDescription",
+      "Source": "Unlocks target lock-on for Plasma Burst.",
+      "Trans": {"SC":"解锁等离子爆发的目标锁定功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"512422740"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaTeleport_SkillName",
+      "Source": "Plasma Teleport",
+      "Trans": {"SC":"等离子传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1713910218"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaTeleport_SkillDescription",
+      "Source": "Unlocks the Plasma Teleport ability.",
+      "Trans": {"SC":"解锁等离子传送能力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3508975373"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_SwapTeleport_SkillName",
+      "Source": "Swap Teleport",
+      "Trans": {"SC":"换位传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1835266642"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_SwapTeleport_SkillDescription",
+      "Source": "Unlocks the Swap Teleport ability, swapping places with your target.",
+      "Trans": {"SC":"解锁换位传送能力, 与目标互换位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"593453764"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_SynergyBenefit_SkillName",
+      "Source": "Synergy Benefit",
+      "Trans": {"SC":"协同收益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4095672824"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_SynergyBenefit_SkillDescription",
+      "Source": "Increases the synergy stat bonus gained while Umbra and Lumina are close together.",
+      "Trans": {"SC":"提高幽影仔与皎光仔彼此靠近时获得的协同属性加成。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3657156148"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBackflip_SkillName",
+      "Source": "Draco Backflip",
+      "Trans": {"SC":"龙之后空翻","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"897310880"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBackflip_SkillDescription",
+      "Source": "Unlocks the Draco Backflip maneuver.",
+      "Trans": {"SC":"解锁龙之后空翻机动。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4002814632"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoQuickTurn_SkillName",
+      "Source": "Draco Quick Turn",
+      "Trans": {"SC":"龙之急转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2621583454"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoQuickTurn_SkillDescription",
+      "Source": "Unlocks the Draco Quick Turn maneuver.",
+      "Trans": {"SC":"解锁龙之急转机动。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3254046981"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBarrelRoll_SkillName",
+      "Source": "Draco Barrel Roll",
+      "Trans": {"SC":"龙之横滚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3335051537"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBarrelRoll_SkillDescription",
+      "Source": "Unlocks the Draco Barrel Roll maneuver.",
+      "Trans": {"SC":"解锁龙之横滚机动。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1053229296"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDive_SkillName",
+      "Source": "Dive",
+      "Trans": {"SC":"俯冲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3318233239"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDive_SkillDescription",
+      "Source": "Unlocks the Draco Dive ability.",
+      "Trans": {"SC":"解锁龙之俯冲能力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"391919169"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDiveSpeedMultiplier_SkillName",
+      "Source": "Dive Speed Multiplier",
+      "Trans": {"SC":"俯冲速度倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4236762739"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDiveSpeedMultiplier_SkillDescription",
+      "Source": "Increases the speed multiplier applied while diving. {DiveBoostMaxCharge}",
+      "Trans": {"SC":"提高俯冲时应用的速度倍率。{DiveBoostMaxCharge}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2054643111"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoSprintFlightMode_SkillName",
+      "Source": "Sprint Flight Mode",
+      "Trans": {"SC":"疾飞模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"907545013"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoSprintFlightMode_SkillDescription",
+      "Source": "Unlocks Sprint Flight Mode.",
+      "Trans": {"SC":"解锁疾飞模式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"603016726"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoAllowMating_SkillName",
+      "Source": "Allow Mating",
+      "Trans": {"SC":"允许交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3806713421"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoAllowMating_SkillDescription",
+      "Source": "Allows this dragon to mate.",
+      "Trans": {"SC":"允许此龙交配。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2617435307"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornLink_SkillName",
+      "Source": "Dragon Horn Bond",
+      "Trans": {"SC":"龙之号角羁绊","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2575758754"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornLink_SkillDescription",
+      "Source": "Unlocks the ability to bond to a Dragon",
+      "Trans": {"SC":"解锁与龙建立羁绊的能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4215872058"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornGetMe_SkillName",
+      "Source": "Dragon Horn Get Me",
+      "Trans": {"SC":"龙之号角: 来接我","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2404653876"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornGetMe_SkillDescription",
+      "Source": "Unlocks the Dragon Horn 'Get Me' command.",
+      "Trans": {"SC":"解锁龙之号角的 “来接我” 指令。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1118913100"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornFlyAwayComeHere_SkillName",
+      "Source": "Dragon Horn Fly Away",
+      "Trans": {"SC":"龙之号角: 飞离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"793517945"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornFlyAwayComeHere_SkillDescription",
+      "Source": "Unlocks the Dragon Horn 'Fly Away / Come Here' commands.",
+      "Trans": {"SC":"解锁龙之号角的 “飞离/过来” 指令。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1062896170"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornGetMeDistance_SkillName",
+      "Source": "Dragon Horn Get Me Distance",
+      "Trans": {"SC":"龙之号角: 来接我距离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"566896674"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornGetMeDistance_SkillDescription",
+      "Source": "Increases the range of the Dragon Horn 'Get Me' command. Multiplier: {GetMeDistanceMultiplier}",
+      "Trans": {"SC":"提高龙之号角 “来接我” 指令的作用范围。倍率: {GetMeDistanceMultiplier}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1684703711"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornGetMeCooldown_SkillName",
+      "Source": "Dragon Horn Get Me Cooldown",
+      "Trans": {"SC":"龙之号角: 来接我冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3952262427"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornGetMeCooldown_SkillDescription",
+      "Source": "Reduces the cooldown of the Dragon Horn 'Get Me' command. {GetMeCooldownMultiplier}",
+      "Trans": {"SC":"缩短龙之号角 “来接我” 指令的冷却时间。{GetMeCooldownMultiplier}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3899654276"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornFlyAwayComeHereCooldown_SkillName",
+      "Source": "Dragon Horn Fly Away Cooldown",
+      "Trans": {"SC":"龙之号角: 飞离冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1202766789"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDragonHornFlyAwayComeHereCooldown_SkillDescription",
+      "Source": "Reduces the cooldown of the Dragon Horn 'Fly Away / Come Here' commands. {FlyAwayCooldownMultiplier}",
+      "Trans": {"SC":"缩短龙之号角 “飞离/过来” 指令的冷却时间。{FlyAwayCooldownMultiplier}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2636012741"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoFlightSprintStaminaCostMultiplier_SkillName",
+      "Source": "Sprint Flight Stamina Cost Multiplier",
+      "Trans": {"SC":"疾飞耐力消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"826942770"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoFlightSprintStaminaCostMultiplier_SkillDescription",
+      "Source": "Reduces the stamina cost of Sprint Flight. {SprintStaminaCost}",
+      "Trans": {"SC":"降低疾飞的耐力消耗。{SprintStaminaCost}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3805910135"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoManeuverStaminaCostMultiplier_SkillName",
+      "Source": "Maneuver Stamina Cost Multiplier",
+      "Trans": {"SC":"机动耐力消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3294996554"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoManeuverStaminaCostMultiplier_SkillDescription",
+      "Source": "Reduces the stamina cost of flight maneuvers. {ManeuverStaminaCost}",
+      "Trans": {"SC":"降低飞行机动的耐力消耗。{ManeuverStaminaCost}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1363483399"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoManeuverCooldownMultiplier_SkillName",
+      "Source": "Maneuver Cooldown Multiplier",
+      "Trans": {"SC":"机动冷却倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"774051340"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoManeuverCooldownMultiplier_SkillDescription",
+      "Source": "Reduces the cooldown of flight maneuvers. {ManeuverCooldownMultiplier}",
+      "Trans": {"SC":"缩短飞行机动的冷却时间。{ManeuverCooldownMultiplier}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3694141974"}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2855610006",
+      "Source": "Plasma Burst Tek Disable",
+      "Trans": {"SC":"等离子爆发泰克失效","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::224682397",
+      "Source": "Plasma Burst disables TEK on impact.",
+      "Trans": {"SC":"等离子爆发命中时会使泰克失效。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "GraphLiteral::3962476506",
       "Source": "Twilight Tamer",
