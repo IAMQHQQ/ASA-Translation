@@ -1,6 +1,2772 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::246175816",
+      "Source": "A fantastic gift for any Creature. Can be used in place of any imprinting or passive-taming request.",
+      "Trans": {"SC":"赠予任何生物的绝佳礼物。可代替任意印痕或被动驯服需求。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1098822326",
+      "Source": "A large Structure used to construct, fast-travel, and manage Ships. Must be place in water.",
+      "Trans": {"SC":"用于建造、快速旅行和管理船只的大型建筑。必须放置在水中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2821228868",
+      "Source": "A mass-produced ball of metal, capable of moderate damaging just about anything it hits... except Player-owned Structures.",
+      "Trans": {"SC":"量产金属炮弹, 能对几乎任何命中目标造成中等伤害...玩家建筑除外。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3339172638",
+      "Source": "Embark on your next epic odyssey within the world of ARK with Astraeos! Explore and survive in a land of colossal proportions, steeped in Greek mythology.",
+      "Trans": {"SC":"在《星耀》中开启你在方舟世界的下一段史诗远征! 这片巨境浸透希腊神话气息, 等待你探索、求生。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3435352495",
+      "Source": "Get ready to complete your animated collection! This extensive pack brings you a selection of creatures and characters, ensuring you're well on your way to a full set of skins based on ARK: The Animated Series. Dive in and deck out your ARK in animated style!",
+      "Trans": {"SC":"快来补全你的动画收藏! 这款大型外观包囊括多款生物与角色皮肤, 助你一步步集齐《方舟: 动画系列》主题外观。踏入方舟, 以动画风格装点你的世界!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1050438353",
+      "Source": "Meet the Pyromane, ARK: Survival Ascended's first Fantastic Tame! This fiery feline transforms from a flamethrowing shoulder-kitten into a rideable, lava-walking lion that sets enemies ablaze with explosive dashes. It even cooks meat, preserves jerky, and fuels forges for ultimate utility!",
+      "Trans": {"SC":"炽炎猫 ——《方舟：生存飞升》的首只奇幻驯兽! 这只烈焰猫科生物能从喷吐火焰的肩宠幼猫, 化为可骑乘、踏熔岩而行的雄狮, 以爆燃冲刺点燃敌人。它还能烹肉、保存风干肉, 并为熔炉供能, 用途惊人!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2795758820",
+      "Source": "Shrouded in darkness and whispered about in legends, the Dreadmare is a creature of myth and nightmare. Use its uncanny abilities to control the battlefield, weaken your enemies, and strike from the shadows, as you ride into the apocalypse together!",
+      "Trans": {"SC":"黑暗笼罩, 传说低语, 梦魇马是神话与噩梦孕育的存在。驾驭它诡谲的力量掌控战场、削弱敌人, 从暗影中发动突袭, 与它一同踏入末日!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::880109212",
+      "Source": "Unlock Bob's animated Explorer Notes to hear his legendary ARK saga! Experience 3 epic themes: ride Trains & tame the Oasisaur in the Wild West Frontier Showdown. Pilot Zeppelins with Cosmo & SIR-5rM8 in the subterranean Steampunk Ascent. Drive custom BattleRigs & fight alongside the Armadoggo in the post-apocalyptic Wasteland War!",
+      "Trans": {"SC":"解锁鲍勃的动画探险者笔记, 聆听他的传奇方舟冒险! 体验3大史诗主题: 在荒野西部边境对决中驾驶火车、驯服绿洲龙; 在地下蒸汽朋克崛起中, 与星灵蛛和求生搭档 SIR-5rM8 一同操纵齐柏林飞艇; 在后末日废土战争中驾驶自定义废土战车, 与铠护犬并肩作战!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2222914419",
+      "Source": "Fantastic Tames Season 1 brings three mystical new companions to your tribe: Burrowbuck, Cerberax, and Enigmasaur. Tunnel through the earth, tear through the front lines using multi-headed attacks, or mimic stolen creature-forms!",
+      "Trans": {"SC":"《奇幻驯兽》第一季为你的部落带来三位神秘伙伴: 穴角兔、刻耳柏拉克斯与谜龙。遁地穿行, 以多头攻势撕开前线, 或化身盗取而来的生物形态!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1954652634",
+      "Source": "Build & customize your ships, and set sail for adventure across the high-seas this massive ARK gameplay expansion! Explore an uncharted ocean frontier to hunt for buried treasure, tame deep-sea monstrosities, and battle ruthless pirate armadas in PvE & PvP!",
+      "Trans": {"SC":"打造并自定义你的船只, 在这款大型方舟玩法扩展中扬帆远航! 探索未知海疆, 搜寻埋藏宝藏, 驯服深海巨兽, 并在PvE与PvP中迎战凶残的海盗舰队!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3837122175",
+      "Source": "Take flight into ARK: Dragontopia, a new cloudbound world of floating islands, mythical dragons, powerful skill trees, invading legions, filled with new vehicles, items, and challenges. Tame the legends, and rule the skies!",
+      "Trans": {"SC":"振翼飞入《方舟: 龙之国度》—— 云端新世界由浮空岛、神话巨龙、强力技能树与入侵军团交织而成, 更有全新载具、物品与挑战。驯服传说, 统御苍穹!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2630956260",
+      "Source": "Even More!!!",
+      "Trans": {"SC":"还有更多!!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3362146802",
+      "Source": "Equipment Traits",
+      "Trans": {"SC":"装备特性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::53665043",
+      "Source": "A new wave has spawned, survive!",
+      "Trans": {"SC":"新一波敌人已生成, 活下去!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::313496188",
+      "Source": "A player is too far from the Checkpoint!",
+      "Trans": {"SC":"有玩家距离检查点太远!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3401201675",
+      "Source": "All of the Castoroides have died!",
+      "Trans": {"SC":"所有巨河狸都死了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1487304543",
+      "Source": "All of the Dinos have died!",
+      "Trans": {"SC":"所有恐龙都死了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1123313883",
+      "Source": "Alpha Boaratos",
+      "Trans": {"SC":"精英焰鬃獠猪","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1426581190",
+      "Source": "An Alpha Carno is on the prowl, take it down!",
+      "Trans": {"SC":"一只精英牛龙正在游荡, 击倒它!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::883293255",
+      "Source": "An Alpha Raptor is on the prowl, take it down!",
+      "Trans": {"SC":"一只精英迅猛龙正在游荡, 击倒它!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3740229311",
+      "Source": "An Alpha Rex is on the prowl, take it down!",
+      "Trans": {"SC":"一只精英霸王龙正在游荡, 击倒它!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4162162079",
+      "Source": "Angler ",
+      "Trans": {"SC":"鮟鱇鱼 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1227770594",
+      "Source": "Aquatic Component",
+      "Trans": {"SC":"水生组件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1984477660",
+      "Source": "Apprentice Abandoned Cargo",
+      "Trans": {"SC":"优秀废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3091602274",
+      "Source": "Journeyman Abandoned Cargo",
+      "Trans": {"SC":"精良废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3651082266",
+      "Source": "Ramshackle Abandoned Cargo",
+      "Trans": {"SC":"普通废弃货箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3955923111",
+      "Source": "Beavers Died!",
+      "Trans": {"SC":"河狸死亡!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::559792525",
+      "Source": "Blackfang Reef",
+      "Trans": {"SC":"黑牙礁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2597014499",
+      "Source": "Boaratos",
+      "Trans": {"SC":"焰鬃獠猪","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2566514252",
+      "Source": "Boaratos Saddle",
+      "Trans": {"SC":"焰鬃獠猪鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1872162706",
+      "Source": "Boaratos Spartan Saddle",
+      "Trans": {"SC":"焰鬃獠猪斯巴达鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::20168012",
+      "Source": "Boaratos Tusk",
+      "Trans": {"SC":"焰鬃獠猪獠牙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::419311079",
+      "Source": "Bog Gather Mission - Beta",
+      "Trans": {"SC":"沼泽采集任务 - 中等","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1001215131",
+      "Source": "Brute Malfunctioned Tek Quetzal",
+      "Trans": {"SC":"凶恶故障泰克风神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1988392414",
+      "Source": "Brute Reaper Prince",
+      "Trans": {"SC":"凶恶死神王子","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1872617466",
+      "Source": "Brute Reaper Queen",
+      "Trans": {"SC":"凶恶死神女王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1175131550",
+      "Source": "Brute Yeti",
+      "Trans": {"SC":"凶恶雪人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2658096740",
+      "Source": "CAPTURE",
+      "Trans": {"SC":"夺取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2724569061",
+      "Source": "Caches Found",
+      "Trans": {"SC":"已找到物品掉落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::440476139",
+      "Source": "Captains Door",
+      "Trans": {"SC":"船长舱门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1723667351",
+      "Source": "Capture the Flag!",
+      "Trans": {"SC":"夺旗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::81788078",
+      "Source": "Captured The Flag!",
+      "Trans": {"SC":"已夺取旗帜!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1562851549",
+      "Source": "Carried by Palaeoctpus",
+      "Trans": {"SC":"被古蛸携带","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2989886023",
+      "Source": "Catch The Following Total Rare Fish !",
+      "Trans": {"SC":"捕获以下总数的稀有鱼!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::479776038",
+      "Source": "Catch The Rare Fish!",
+      "Trans": {"SC":"捕获稀有鱼!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::907220174",
+      "Source": "Cera",
+      "Trans": {"SC":"角鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::645622420",
+      "Source": "Collect a bunch of wood",
+      "Trans": {"SC":"收集一堆木头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3810707300",
+      "Source": "Compy Escort Mission",
+      "Trans": {"SC":"美颌龙护送任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3304854206",
+      "Source": "Control nearby Structure inventory here",
+      "Trans": {"SC":"在此管理附近建筑库存","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::867566011",
+      "Source": "Converts damage taken into a heal over time",
+      "Trans": {"SC":"将所受伤害转化为持续治疗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::528375501",
+      "Source": "Corrosive Cannon Ball",
+      "Trans": {"SC":"腐蚀炮弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3929333214",
+      "Source": "Bacon",
+      "Trans": {"SC":"培根","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2753005235",
+      "Source": "Crispy Bacon",
+      "Trans": {"SC":"香脆培根","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4194537647",
+      "Source": "Crimson Kraken",
+      "Trans": {"SC":"绯红海妖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1121296625",
+      "Source": "Corsair's Crown",
+      "Trans": {"SC":"海盗王冠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3831411236",
+      "Source": "DAMAGE DETECTED!",
+      "Trans": {"SC":"检测到伤害!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::254254728",
+      "Source": "DEFEND",
+      "Trans": {"SC":"防守","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4081704085",
+      "Source": "Daggertooth Isle",
+      "Trans": {"SC":"匕齿岛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::136983503",
+      "Source": "Dam Damaged!",
+      "Trans": {"SC":"水坝受损!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::175974185",
+      "Source": "Dam Destroyed!",
+      "Trans": {"SC":"水坝已摧毁!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2465662913",
+      "Source": "Gather all the resources and help rebuild the Dam!",
+      "Trans": {"SC":"收集所有资源, 帮助重建水坝!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4263200377",
+      "Source": "The Dam has been destroyed!",
+      "Trans": {"SC":"水坝已被摧毁!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1594603202",
+      "Source": "The Dam is taking damage!",
+      "Trans": {"SC":"水坝正在受损!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2145476897",
+      "Source": "You failed to rebuild the Dam!",
+      "Trans": {"SC":"你未能重建水坝!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3010469206",
+      "Source": "You rebuilt the Dam!",
+      "Trans": {"SC":"你重建了水坝!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2745833043",
+      "Source": "Building The Dam",
+      "Trans": {"SC":"建造水坝","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2943609451",
+      "Source": "Deadman's Sorrow",
+      "Trans": {"SC":"死者之悲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::550422926",
+      "Source": "Deadman's Sorrow Falls",
+      "Trans": {"SC":"死者之悲瀑布","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3328837371",
+      "Source": "Deadman's Nook",
+      "Trans": {"SC":"死者隐湾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2532105933",
+      "Source": "Defend The Thing!",
+      "Trans": {"SC":"保护这个东西!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3973457687",
+      "Source": "Defend a loot cache against some dinos to win some loot!",
+      "Trans": {"SC":"保护物品掉落, 抵御恐龙来袭, 赢取战利品!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::925351066",
+      "Source": "Defend the THING before it is destroyed!",
+      "Trans": {"SC":"在这个东西被摧毁前保护它!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::123853321",
+      "Source": "Defend this THING!",
+      "Trans": {"SC":"保护这个东西!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::229283064",
+      "Source": "Destroy This",
+      "Trans": {"SC":"摧毁这个","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4157331736",
+      "Source": "Destroy every Fortress",
+      "Trans": {"SC":"摧毁所有堡垒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4109170855",
+      "Source": "Destroy every artillery tower",
+      "Trans": {"SC":"摧毁所有炮塔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4234269444",
+      "Source": "Destroy the remaining Ships",
+      "Trans": {"SC":"摧毁剩余船只","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::998152620",
+      "Source": "Destroy this portal!",
+      "Trans": {"SC":"摧毁这个传送门!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3922760758",
+      "Source": "Dino Attacked!",
+      "Trans": {"SC":"恐龙受到攻击!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1493158170",
+      "Source": "Dino Inside Hidey Hole",
+      "Trans": {"SC":"生物在藏身洞内","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4029524978",
+      "Source": "Dinos Incoming!",
+      "Trans": {"SC":"恐龙来袭!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::84007642",
+      "Source": "Dodo Crossing",
+      "Trans": {"SC":"渡渡鸟过境","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3081365736",
+      "Source": "Dodo Crossing (Alpha)",
+      "Trans": {"SC":"渡渡鸟过境 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3322656706",
+      "Source": "Dodo Crossing (Gamma)",
+      "Trans": {"SC":"渡渡鸟过境 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::458878184",
+      "Source": "Dodo Escorted!",
+      "Trans": {"SC":"渡渡鸟已护送!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3667963758",
+      "Source": "Dodo Health",
+      "Trans": {"SC":"渡渡鸟生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3446293875",
+      "Source": "Dodos killed",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3819363887",
+      "Source": "Dodo taking damage, protect them!",
+      "Trans": {"SC":"渡渡鸟正在受伤, 保护它!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1356115120",
+      "Source": "Don't let the THING get destroyed!",
+      "Trans": {"SC":"别让这个东西被摧毁!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::445701220",
+      "Source": "Draconic Cape",
+      "Trans": {"SC":"龙裔披风","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1196154510",
+      "Source": "Draconic Gloves",
+      "Trans": {"SC":"龙裔手套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::525008026",
+      "Source": "Draconic Hat",
+      "Trans": {"SC":"龙裔帽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4268615350",
+      "Source": "Draconic Pants",
+      "Trans": {"SC":"龙裔护腿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2745138451",
+      "Source": "Draconic Shirt",
+      "Trans": {"SC":"龙裔上衣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4152623300",
+      "Source": "Duck Hunt Mission",
+      "Trans": {"SC":"猎鸭任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::231899254",
+      "Source": "Duunn Dunn...",
+      "Trans": {"SC":"噔...噔...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3119628312",
+      "Source": "Dynamite Pile",
+      "Trans": {"SC":"炸药堆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3020669193",
+      "Source": "ESCAPE!",
+      "Trans": {"SC":"逃离！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::25463763",
+      "Source": "ESCORT",
+      "Trans": {"SC":"护送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3618864032",
+      "Source": "Echo Cave",
+      "Trans": {"SC":"回声洞穴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1743922399",
+      "Source": "Eggs Retrieved",
+      "Trans": {"SC":"已取回恐龙蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1428363613",
+      "Source": "Equip a Boaratos with this to ride it.",
+      "Trans": {"SC":"装备到焰鬃獠猪上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3961060838",
+      "Source": "Feel the power of Tartarus!!",
+      "Trans": {"SC":"感受塔尔塔洛斯的怒火吧!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::180739330",
+      "Source": "Fight the alpha space whale!",
+      "Trans": {"SC":"与精英星辰鲸战斗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3215746373",
+      "Source": "Find a way to the first Explosive Pile and sabotage it.",
+      "Trans": {"SC":"设法抵达第一堆爆炸物并破坏它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1851873985",
+      "Source": "Find all the items, quick!",
+      "Trans": {"SC":"快找到所有物品!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::570510164",
+      "Source": "Find the Target!",
+      "Trans": {"SC":"找到目标!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::930291983",
+      "Source": "Find the Tek Caches floating around in outer space!",
+      "Trans": {"SC":"寻找漂浮在外太空的泰克物品掉落!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::410954277",
+      "Source": "Find the Whale",
+      "Trans": {"SC":"寻找鲸鱼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1725567856",
+      "Source": "Find the simulation glitch",
+      "Trans": {"SC":"寻找模拟漏洞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1610130263",
+      "Source": "Beaver Attacked!",
+      "Trans": {"SC":"河狸受到攻击!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::774624365",
+      "Source": "Bog Gather Mission - Alpha",
+      "Trans": {"SC":"沼泽采集任务 - 困难","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1762669191",
+      "Source": "Flag Captured!",
+      "Trans": {"SC":"旗帜已夺取!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2096165556",
+      "Source": "Flag Dropped!",
+      "Trans": {"SC":"旗帜已掉落!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1259881714",
+      "Source": "Flag Returned!",
+      "Trans": {"SC":"旗帜已归还!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1344421079",
+      "Source": "Flag Stolen!",
+      "Trans": {"SC":"旗帜已被夺走!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4144250652",
+      "Source": "Flaming Boaratos Tusk",
+      "Trans": {"SC":"焰鬃獠猪燃焰獠牙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1060857498",
+      "Source": "Follow ME ",
+      "Trans": {"SC":"跟着我 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2167882412",
+      "Source": "Follow the checkpoints into a moon cave, then steal an egg from a pack of Tek dinos.",
+      "Trans": {"SC":"跟随检查点进入月面洞穴, 从一群泰克恐龙中偷走一颗蛋。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1625341059",
+      "Source": "Follow the checkpoints to get away!",
+      "Trans": {"SC":"跟随检查点撤离!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1471663009",
+      "Source": "Follow the checkpoints to get to the Egg!",
+      "Trans": {"SC":"跟随检查点抵达恐龙蛋!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1917485539",
+      "Source": "Follow the checkpoints to reach an Argentavis egg, then steal it away from the nest's guardians.",
+      "Trans": {"SC":"跟随检查点抵达阿根廷巨鹰蛋, 然后从守巢者眼皮底下偷走它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1767159285",
+      "Source": "Follow the nodes to grab the meat!",
+      "Trans": {"SC":"跟随节点拾取肉!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2573884",
+      "Source": "Follow the path to escape!",
+      "Trans": {"SC":"沿路径逃离!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4006934107",
+      "Source": "Follow the path to retrieve to the Egg!",
+      "Trans": {"SC":"沿路径取回恐龙蛋!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::125346208",
+      "Source": "Follow the trail!",
+      "Trans": {"SC":"跟随痕迹!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2743211049",
+      "Source": "Gather Silk and Rare Flowers",
+      "Trans": {"SC":"采集丝和稀有花朵","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3113691974",
+      "Source": "Gather all the things and drop them off",
+      "Trans": {"SC":"收集所有物品并送到投放点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1565907371",
+      "Source": "Gather the essentials. Wood, Thatch, and Fiber are things every survivor will need!",
+      "Trans": {"SC":"采集基本物资。木头、茅草和纤维是每位生存者都需要的东西!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::659541903",
+      "Source": "Get HERE!",
+      "Trans": {"SC":"到这里来!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2589146200",
+      "Source": "Get The Loot!",
+      "Trans": {"SC":"抢到战利品!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2405283319",
+      "Source": "Get out of here!",
+      "Trans": {"SC":"快离开这里!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1967607900",
+      "Source": "Get ready! The first wave is starting soon!",
+      "Trans": {"SC":"做好准备！第一波即将开始!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2194968214",
+      "Source": "Get ready... the first wave starts soon",
+      "Trans": {"SC":"准备好...第一波即将开始","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3778294388",
+      "Source": "Ghostship Haven",
+      "Trans": {"SC":"幽灵船港湾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::787485743",
+      "Source": "Goldvein Atoll",
+      "Trans": {"SC":"金脉环礁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2246464175",
+      "Source": "Grab all the shotguns in the time limit!",
+      "Trans": {"SC":"在时限内拿起所有霰弹枪!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2332428322",
+      "Source": "Hangman's Coral Forest",
+      "Trans": {"SC":"绞刑者珊瑚林","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3258430608",
+      "Source": "Hangman's Drift",
+      "Trans": {"SC":"绞刑者漂流地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1419617781",
+      "Source": "Hangman's Drift Fort",
+      "Trans": {"SC":"绞刑者漂流堡","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3627807599",
+      "Source": "Hangman's Drift Watchpoint",
+      "Trans": {"SC":"绞刑者漂流哨点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1523985353",
+      "Source": "High Winds",
+      "Trans": {"SC":"强风","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3728736903",
+      "Source": "Hit this trigger to end the mission and record your leaderboard entry",
+      "Trans": {"SC":"触发这里以结束任务并记录排行榜成绩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1382446581",
+      "Source": "Hold Fire to fire the turret.",
+      "Trans": {"SC":"按住开火以发射炮塔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3401487086",
+      "Source": "Hold to Extend Ladder",
+      "Trans": {"SC":"长按以延长绳梯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::848945916",
+      "Source": "Hold to Retract Ladder",
+      "Trans": {"SC":"长按以缩短绳梯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2941978320",
+      "Source": "Horde mode is about to start!",
+      "Trans": {"SC":"尸潮模式即将开始!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2717473011",
+      "Source": "Hunt TheParasaur!!!",
+      "Trans": {"SC":"猎杀副栉龙!!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::23377952",
+      "Source": "Hunt TheParasaur!!! (Gamma)",
+      "Trans": {"SC":"猎杀副栉龙!!! (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2289978621",
+      "Source": "Hurry!",
+      "Trans": {"SC":"快点!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3927912351",
+      "Source": "I'm OVER HERE",
+      "Trans": {"SC":"我在这里","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3986780303",
+      "Source": "Impulse Boost",
+      "Trans": {"SC":"脉冲加速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1105900619",
+      "Source": "Incendiary Cannon Ball",
+      "Trans": {"SC":"燃烧炮弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3299430666",
+      "Source": "Infiltrate!",
+      "Trans": {"SC":"潜入！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3479920131",
+      "Source": "Inflato Bed",
+      "Trans": {"SC":"充气床","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3689962022",
+      "Source": "Inflato Bench",
+      "Trans": {"SC":"充气长椅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::934187710",
+      "Source": "Inflato Couch",
+      "Trans": {"SC":"充气沙发","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1022593189",
+      "Source": "Inflato Seat",
+      "Trans": {"SC":"充气座椅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4030112080",
+      "Source": "Just Keep Swimming!",
+      "Trans": {"SC":"继续游!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::749113185",
+      "Source": "Kill Some Dinos I Guess",
+      "Trans": {"SC":"大概是杀点恐龙吧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::103454112",
+      "Source": "Kill all dinos in the wave!",
+      "Trans": {"SC":"击杀本波所有恐龙!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2063981305",
+      "Source": "Kill all dinos in under a minute",
+      "Trans": {"SC":"在一分钟内击杀所有恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4115933711",
+      "Source": "Kill all of the dodo's within 2 minutes!",
+      "Trans": {"SC":"在2分钟内击杀所有渡渡鸟!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3238929843",
+      "Source": "Kill all the dodos quick!",
+      "Trans": {"SC":"快击杀所有渡渡鸟!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1593278364",
+      "Source": "Kill!",
+      "Trans": {"SC":"击杀!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::180846120",
+      "Source": "LEAVE!",
+      "Trans": {"SC":"离开!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1771097916",
+      "Source": "Lead the microbes to the turtle!",
+      "Trans": {"SC":"引导微生物靠近巨龟!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::918986643",
+      "Source": "Life Raft",
+      "Trans": {"SC":"救生筏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3584743204",
+      "Source": "Life Vest",
+      "Trans": {"SC":"救生衣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2845903836",
+      "Source": "Lock Ladder",
+      "Trans": {"SC":"锁定绳梯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3851406769",
+      "Source": "Loot the Crates to collect your rewards",
+      "Trans": {"SC":"掠夺箱子以领取奖励","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::191210782",
+      "Source": "Lost In Cache!",
+      "Trans": {"SC":"遗失在物品掉落中!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::276276421",
+      "Source": "Lure the Alpha AWAY!",
+      "Trans": {"SC":"把精英引开!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::69536257",
+      "Source": "MURDER DODOS",
+      "Trans": {"SC":"干掉渡渡鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3486064045",
+      "Source": "MURDER ENFORCERS",
+      "Trans": {"SC":"干掉执法者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::39110672",
+      "Source": "Meat Mission",
+      "Trans": {"SC":"肉类任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2946413437",
+      "Source": "Mission Complete",
+      "Trans": {"SC":"任务完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3459004066",
+      "Source": "Mission Complete!",
+      "Trans": {"SC":"任务完成!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::762792634",
+      "Source": "Move closer to the Checkpoint!",
+      "Trans": {"SC":"靠近检查点!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1747242013",
+      "Source": "Number Of Players:",
+      "Trans": {"SC":"玩家数量: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1115612950",
+      "Source": "Ocean Arena",
+      "Trans": {"SC":"海洋竞技场","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4289714876",
+      "Source": "Octo Saddle",
+      "Trans": {"SC":"古蛸鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2141424953",
+      "Source": "Palaeoctopus Dossier",
+      "Trans": {"SC":"古蛸图鉴","JA":"古蛸圖鑒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3825590216",
+      "Source": "Palaeoctopus Ink",
+      "Trans": {"SC":"古蛸墨汁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3472132903",
+      "Source": "Paleoctopus",
+      "Trans": {"SC":"古蛸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::403425033",
+      "Source": "Parasaur Health Remaining",
+      "Trans": {"SC":"副栉龙剩余生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3852464001",
+      "Source": "Parasaurs remaining:",
+      "Trans": {"SC":"剩余副栉龙:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1828357567",
+      "Source": "Pick up the Egg!",
+      "Trans": {"SC":"拾取恐龙蛋!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2283496680",
+      "Source": "Pick up the MEAT",
+      "Trans": {"SC":"拾取肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2588133333",
+      "Source": "Pirate Captain Boots",
+      "Trans": {"SC":"海盗船长长靴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::122646301",
+      "Source": "Pirate Captain Gloves",
+      "Trans": {"SC":"海盗船长手套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3091698795",
+      "Source": "Pirate Captain Hat",
+      "Trans": {"SC":"海盗船长帽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::191668408",
+      "Source": "Pirate Captain Pants",
+      "Trans": {"SC":"海盗船长长裤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1453210397",
+      "Source": "Pirate Captain Shirt",
+      "Trans": {"SC":"海盗船长上衣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3895452001",
+      "Source": "Pirate Cutlass",
+      "Trans": {"SC":"海盗弯刀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1788078122",
+      "Source": "Pirate Captain",
+      "Trans": {"SC":"海盗船长","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::135290718",
+      "Source": "Pirate Lookout",
+      "Trans": {"SC":"海盗瞭望手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::180882819",
+      "Source": "Pirate Miniboss",
+      "Trans": {"SC":"海盗小首领","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1477633102",
+      "Source": "Pirate Sloop",
+      "Trans": {"SC":"海盗单桅帆船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3072163318",
+      "Source": "Pirate Swashbuckler",
+      "Trans": {"SC":"海盗剑客","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3880033369",
+      "Source": "Pirate Sweeper",
+      "Trans": {"SC":"海盗扫荡手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2525978843",
+      "Source": "Pirate Trapshooter",
+      "Trans": {"SC":"海盗陷阱射手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3583023425",
+      "Source": "Pirate Wrangler",
+      "Trans": {"SC":"海盗驯兽手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2549645280",
+      "Source": "Please return to the mission area!",
+      "Trans": {"SC":"请返回任务区域!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227434556",
+      "Source": "Plunderer's Crown",
+      "Trans": {"SC":"掠夺者王冠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3272229021",
+      "Source": "Prepare to defend!",
+      "Trans": {"SC":"准备防守!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2109957598",
+      "Source": "RUN!!!",
+      "Trans": {"SC":"快跑!!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2870048727",
+      "Source": "Race Mission (Enforcer)",
+      "Trans": {"SC":"竞速任务 (执行者)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3190435694",
+      "Source": "Race Mission (Gasbags)",
+      "Trans": {"SC":"竞速任务 (气囊虫)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::347978116",
+      "Source": "Race Mission (Quick)",
+      "Trans": {"SC":"竞速任务 (快速)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::149902763",
+      "Source": "Race Mission (Rock Drake)",
+      "Trans": {"SC":"竞速任务 (岩龙)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2271241031",
+      "Source": "Rampaging Alpha Carno",
+      "Trans": {"SC":"狂暴精英牛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1131493010",
+      "Source": "Rampaging Alpha Carno (Alpha)",
+      "Trans": {"SC":"狂暴精英牛龙 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::751834234",
+      "Source": "Rampaging Alpha Carno (Beta)",
+      "Trans": {"SC":"狂暴精英牛龙 (中等)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::852715960",
+      "Source": "Rampaging Alpha Carno (Gamma)",
+      "Trans": {"SC":"狂暴精英牛龙 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::633398582",
+      "Source": "Rampaging Alpha Raptor",
+      "Trans": {"SC":"狂暴精英迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4120084478",
+      "Source": "Rampaging Alpha Raptor (Alpha)",
+      "Trans": {"SC":"狂暴精英迅猛龙 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::535294079",
+      "Source": "Rampaging Alpha Raptor (Beta)",
+      "Trans": {"SC":"狂暴精英迅猛龙 (中等)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2217812180",
+      "Source": "Rampaging Alpha Raptor (Gamma)",
+      "Trans": {"SC":"狂暴精英迅猛龙 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::118403976",
+      "Source": "Rampaging Alpha Raptor - Competitive",
+      "Trans": {"SC":"狂暴精英迅猛龙 - 竞技","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2016447650",
+      "Source": "Rampaging Alpha Raptor - Multiplayer",
+      "Trans": {"SC":"狂暴精英迅猛龙 - 多人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2205792574",
+      "Source": "Rampaging Alpha Rex",
+      "Trans": {"SC":"狂暴精英霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3036938069",
+      "Source": "Rampaging Alpha Rex (Alpha)",
+      "Trans": {"SC":"狂暴精英霸王龙 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4277476916",
+      "Source": "Rampaging Alpha Rex (Beta)",
+      "Trans": {"SC":"狂暴精英霸王龙  (中等)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3298926719",
+      "Source": "Rampaging Alpha Rex (Gamma)",
+      "Trans": {"SC":"狂暴精英霸王龙 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::511122158",
+      "Source": "Rampaging Brute Malfunctioning Tek Quetzal",
+      "Trans": {"SC":"狂暴凶恶故障泰克风神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3691326017",
+      "Source": "Rampaging Brute Megalodon",
+      "Trans": {"SC":"凶恶精英巨齿鲨","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2343246067",
+      "Source": "Rampaging Brute Yeti (Alpha)",
+      "Trans": {"SC":"狂暴凶恶雪人 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3404635230",
+      "Source": "Rampaging Brute Yeti (Beta)",
+      "Trans": {"SC":"狂暴凶恶雪人 (中等)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4194912217",
+      "Source": "Rampaging Brute Yeti (Gamma)",
+      "Trans": {"SC":"狂暴凶恶雪人 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2853248843",
+      "Source": "Retrieve The Egg!",
+      "Trans": {"SC":"取回恐龙蛋!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1230504024",
+      "Source": "Rex Health Remaining",
+      "Trans": {"SC":"霸王龙剩余生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2797505380",
+      "Source": "Rexs remaining:",
+      "Trans": {"SC":"剩余霸王龙:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3259247204",
+      "Source": "Run!",
+      "Trans": {"SC":"快跑!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2424885319",
+      "Source": "S1 Treasure Map Bottle",
+      "Trans": {"SC":"S1藏宝图瓶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2123116822",
+      "Source": "S2 Treasure Map Bottle",
+      "Trans": {"SC":"S2藏宝图瓶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::613388761",
+      "Source": "S3 Treasure Map Bottle",
+      "Trans": {"SC":"S3藏宝图瓶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1013207130",
+      "Source": "STORED",
+      "Trans": {"SC":"已储存","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1406550158",
+      "Source": "Sabotage the next Explosive Pile!",
+      "Trans": {"SC":"破坏下一堆爆炸物!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2570724296",
+      "Source": "Sates your hunger, and provides health while being digested.  Lasts longer than cooked meat.\r\nWild carnivores will eat it, but prefer raw meat. Acts as a substitute for Cooked Meat Jerky. \r\n\r\nMmmmm...  Bacon....",
+      "Trans": {"SC":"能填饱肚子, 并在消化时恢复生命值。保存时间比熟肉更久。\r\n野生肉食生物会吃它, 但更偏好生肉。可替代熟肉干。\r\n\r\n嗯...培根...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2934083861",
+      "Source": "Sates your hunger, and provides health while being digested.  More effective than normal meat jerky, and lasts longer than cooked prime meat.\r\nWild carnivores like this meat a lot.\r\n\r\nActs as a substitute for Prime Meat Jerky\r\n\r\nMmmmm... Crispy Bacon....",
+      "Trans": {"SC":"能填饱肚子, 并在消化时恢复生命值。效果优于普通肉干, 保存时间也比熟优质肉更久。\r\n野生肉食生物非常喜欢这种肉。\r\n\r\n可替代优质肉干\r\n\r\n嗯...香脆培根...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::872464440",
+      "Source": "Scurvy Pirate Boots",
+      "Trans": {"SC":"落魄海盗长靴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3425661524",
+      "Source": "Scurvy Pirate Gloves",
+      "Trans": {"SC":"落魄海盗手套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1925086627",
+      "Source": "Scurvy Pirate Hat",
+      "Trans": {"SC":"落魄海盗帽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2771363669",
+      "Source": "Scurvy Pirate Pants",
+      "Trans": {"SC":"落魄海盗长裤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4175248624",
+      "Source": "Scurvy Pirate Shirt",
+      "Trans": {"SC":"落魄海盗上衣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::732560886",
+      "Source": "Scurvy Skull Mask",
+      "Trans": {"SC":"落魄骷髅面具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::82330867",
+      "Source": "Siren's Hollow",
+      "Trans": {"SC":"塞壬幽谷","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2580059579",
+      "Source": "Siren's Lament",
+      "Trans": {"SC":"塞壬挽歌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2959407297",
+      "Source": "Sleigh Ride!",
+      "Trans": {"SC":"雪橇之旅!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2940610082",
+      "Source": "Snake Race",
+      "Trans": {"SC":"蛇形竞速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1986876890",
+      "Source": "Something wrong, get ready!",
+      "Trans": {"SC":"情况不对, 做好准备!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3712064694",
+      "Source": "Stay Close",
+      "Trans": {"SC":"保持靠近","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3688824551",
+      "Source": "Steal Trike eggs from their Volcanic safehaven. Don't panic, there's just fire and lava everywhere.",
+      "Trans": {"SC":"从火山庇护地偷走三角龙蛋。别慌, 只不过到处都是火焰和熔岩而已。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3978209147",
+      "Source": "Structure Damaged!",
+      "Trans": {"SC":"建筑受损!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3589339531",
+      "Source": "Success!",
+      "Trans": {"SC":"成功!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4176058589",
+      "Source": "Survive Mission",
+      "Trans": {"SC":"生存任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1150732676",
+      "Source": "Survive Mission: Cyclone",
+      "Trans": {"SC":"生存任务: 旋风","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3621404616",
+      "Source": "Tame a Space Whale",
+      "Trans": {"SC":"驯服太空鲸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::627177262",
+      "Source": "Tame a dino",
+      "Trans": {"SC":"驯服一只恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2801546741",
+      "Source": "Tame the baby space whale!",
+      "Trans": {"SC":"驯服太空鲸幼崽!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3790529731",
+      "Source": "Taming Efficiency:",
+      "Trans": {"SC":"驯服效率:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::162899886",
+      "Source": "Team 1 Points: ",
+      "Trans": {"SC":"队伍1分数: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::587798310",
+      "Source": "Team 2 Points: ",
+      "Trans": {"SC":"队伍2分数: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3559692730",
+      "Source": "The Bog Gauntlet (Alpha)",
+      "Trans": {"SC":"沼泽挑战 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::683162313",
+      "Source": "The Bog Gauntlet (Beta)",
+      "Trans": {"SC":"沼泽挑战 (中等)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2777597584",
+      "Source": "The Bog Gauntlet (Gamma)",
+      "Trans": {"SC":"沼泽挑战 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2882342330",
+      "Source": "The Dinos are being attacked!",
+      "Trans": {"SC":"恐龙正在被攻击!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::879829925",
+      "Source": "The Enemy Captured The Flag!",
+      "Trans": {"SC":"敌人夺取了旗帜!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1528400704",
+      "Source": "The Enemy Dropped Your Flag!",
+      "Trans": {"SC":"敌人丢下了你的旗帜!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4078225115",
+      "Source": "The Enemy Returned Their Flag!",
+      "Trans": {"SC":"敌人归还了他们的旗帜!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2175334191",
+      "Source": "The Ocean Gauntlet (Alpha)",
+      "Trans": {"SC":"海洋挑战 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2920982164",
+      "Source": "The Ocean Gauntlet (Beta)",
+      "Trans": {"SC":"海洋挑战 (中等)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4027230213",
+      "Source": "The Ocean Gauntlet (Gamma)",
+      "Trans": {"SC":"海洋挑战 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::766502216",
+      "Source": "The Volcano Gauntlet (Alpha)",
+      "Trans": {"SC":"火山挑战 (困难)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3212746025",
+      "Source": "The Volcano Gauntlet (Beta)",
+      "Trans": {"SC":"火山挑战 (中等)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1544403554",
+      "Source": "The Volcano Gauntlet (Gamma)",
+      "Trans": {"SC":"火山挑战 (简单)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3757606121",
+      "Source": "The hunt is on! Search the forest to find the elusive Yeti.",
+      "Trans": {"SC":"狩猎开始! 搜索森林, 寻找行踪难觅的雪人。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::722465717",
+      "Source": "The object is being damaged!",
+      "Trans": {"SC":"目标正在受损!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2688174665",
+      "Source": "The structure has been destroyed!",
+      "Trans": {"SC":"建筑已被摧毁!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1227044886",
+      "Source": "The structure is taking damage!",
+      "Trans": {"SC":"建筑正在受损!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1484485721",
+      "Source": "There's an item here!!!",
+      "Trans": {"SC":"这里有个物品!!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1104515657",
+      "Source": "This Triceratops wants to go somewhere, why don't you help them get there!",
+      "Trans": {"SC":"这只三角龙想去某个地方, 何不帮它抵达目的地!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1778929702",
+      "Source": "This accessory will change character appearance.\r\n\r\nEquipping this accessory will remove and prevent any fullbody character skins or cosmetics applied to armor.",
+      "Trans": {"SC":"此饰品会改变角色外观。\r\n\r\n装备后, 将移除并阻止护甲上应用的任何全身角色皮肤或装饰外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4160687048",
+      "Source": "This dodo wants to go somewhere, why don't you help them get there!",
+      "Trans": {"SC":"这只渡渡鸟想去某个地方, 何不帮它抵达目的地!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3384155906",
+      "Source": "This place is about to blow up!",
+      "Trans": {"SC":"这里快要爆炸了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4186334457",
+      "Source": "This place is about to blow up! Get out before it explodes!!",
+      "Trans": {"SC":"这里马上就要爆炸了! 在爆炸前快撤!!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::496697912",
+      "Source": "This substance can be converted into Dyes.",
+      "Trans": {"SC":"该物质可转化为染料。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3689484158",
+      "Source": "Tidepup Cocoon",
+      "Trans": {"SC":"潮佑螈茧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3924715766",
+      "Source": "Tidepup Dossier",
+      "Trans": {"SC":"潮佑螈图鉴","JA":"潮佑螈圖鑒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1202987456",
+      "Source": "Tidepup consumes extra food after a healing attack.",
+      "Trans": {"SC":"潮佑螈在治疗攻击后会消耗额外食物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3964327921",
+      "Source": "Time Until Match Begins",
+      "Trans": {"SC":"比赛开始倒计时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2546010023",
+      "Source": "Time to prepare your defenses: ",
+      "Trans": {"SC":"防御准备时间: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3974474061",
+      "Source": "That glitch emerged from data storage --\nfrom where they kept you survivors before they let you out into the Genesis simulation for all this mayhem.\nThe data structure is intriguing -- and a bit beyond me, if I’m being honest.\nIt shares some code with the mind-transfer techniques they used to turn humans into homo deus.\nTwo branches with a common root, I suppose.",
+      "Trans": {"SC":"那个漏洞来自数据存储——\n也就是你们这些生存者被放进创世模拟制造混乱之前的存放处。\n这种数据结构很有意思——老实说, 也有点超出我的理解范围。\n它与他们用来把人类转化为神人的意识转移技术共享部分代码。\n我想, 这是同根生出的两条分支。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2440483859",
+      "Source": "That glitch had me stonkered. Toughest one we’ve tackled so far. It almost took me with it. Wait. What’s wrong with my voice. Help me, survivor\n...and apparently, that’s what it sounds like when my emotive subroutines go offline for a bit.\nSorry about that!",
+      "Trans": {"SC":"那个漏洞把我整懵了。是我们目前处理过最棘手的一个, 差点把我也拖进去。等等, 我的声音怎么了。救我, 生存者\n...显然, 我的情感子程序短暂离线时, 听起来就是这样。\n抱歉!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3122288957",
+      "Source": "That glitch is fixed. \nPity it was hard to reach. This biome is such a dismal place to get around in!\nYou humans must be used to life in the swamp, eh?\nAfter all, that’s where you come from. The Fertile Crescent was a swamp before the first humans drained it for agriculture.\nMakes me wonder whether you survivors are planning to drain this bog too...",
+      "Trans": {"SC":"漏洞修好了。\n可惜它的位置太难够到。这片生物群系真是难走得让人绝望!\n你们人类应该挺习惯沼泽生活吧?\n毕竟你们就是从那里来的。最早的人类排干肥沃新月地带的沼泽, 才开始农业耕作。\n这让我不禁好奇, 你们生存者是不是也打算把这片沼泽排干...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::327813565",
+      "Source": "That glitch proves this ocean is artificial. Not exactly news, eh?\nCould be worse, though. The first artificial ocean -- back in the 20th century -- was part of an experiment in a closed ecosystem.\nAt first, their ocean thrived. They even grew a coral reef!\nBut heaps of the species they introduced died off,\nand the researchers inside formed hostile factions and almost starved.\nHmmm. Starving humans dividing themselves into tribes.\nWhere have I heard that before?",
+      "Trans": {"SC":"那个漏洞证明这片海洋是人工造物。这倒不算新闻, 对吧?\n不过情况本可以更糟。二十世纪的第一片人工海洋, 是封闭生态系统实验的一部分。\n一开始, 那片海洋繁荣得很, 甚至长出了珊瑚礁!\n但他们引入的大量物种后来死亡, \n里面的研究人员还分裂成敌对派系, 差点饿死。\n嗯...饥饿的人类把自己分成部落。\n我好像在哪儿听过这种事?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3031333132",
+      "Source": "That glitch should serve as a warning: be careful what you wish for.\nSurvivor seven one zero dee four three nine was obsessed with “breaking the fourth wall,” as he put it.\nHe did everything he could to get the attention of whomever’s administering the simulation.\nBonfires, structures that spelled words, that sort of thing.\nI don’t know whether he succeeded.\nBut I do know he tried so hard that it made that glitch.",
+      "Trans": {"SC":"那个漏洞应该成为一个警告: 许愿要小心。\n编号七一零D四三九的生存者迷上了所谓“打破第四面墙”。\n他想尽办法吸引模拟管理员的注意。\n篝火、拼出文字的建筑, 诸如此类。\n我不知道他最后有没有成功。\n但我知道他努力过头, 努力到制造了这个漏洞。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1380595714",
+      "Source": "That glitch was a bit of a physics error.\nThe makers of the Genesis simulation used this area to test physics --\nlong before you survivors were let in.\nIf I know human nature --\nand it’s something I’m getting better at, you must admit --\nthis area got turned into a proper biome when someone realized they could turn the test zone into an “alien moon”\nand pop off to the pub early on a Friday.",
+      "Trans": {"SC":"那个漏洞有点像物理错误。\n创世模拟的制作者很早以前就用这片区域测试物理效果——\n那时你们这些生存者还没被放进来。\n如果我对人性有所了解——\n而且你得承认, 我越来越懂了——\n这片区域之所以变成正式生物群系, 是因为有人意识到可以把测试区包装成“异星月球”, \n然后周五早点溜去酒吧。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2148891455",
+      "Source": "That glitch was a bit of a wombat burrow,\nbut it gave me a peek into some of the other biomes -- the other environments in the Genesis simulation.\nHoly dooley, there’s a bit of everything in here!\nI reckon the way it works is that each biome has heaps of exploring and testing for you,\nand then there’s a master AI that shows up at some point and gives you a final exam.\nBut the files I saw were a bit vague on that last part.\nI reckon we’ll learn as we go, eh?",
+      "Trans": {"SC":"那个漏洞像一条袋熊洞, 乱得很, \n但它让我窥见了其他几个生物群系——创世模拟中的其他环境。\n天哪, 这里真是什么都有!\n我猜它的运行方式是, 每个生物群系都给你安排大量探索和测试, \n然后某个时候会出现一个主控AI, 给你一场最终考试。\n不过我看到的文件, 对最后这部分写得有点含糊。\n我想我们会边走边学, 对吧?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3173495021",
+      "Source": "That glitch was a bodgy bit of code from the survivor database.\nI fixed the glitch -- no worries there --\nbut someone’s mucking about with survivor minds that aren’t even active in the Genesis simulation.\nFor whatever reason, some survivors don’t respawn when they die in the simulation.\nThe system is supposed to just hold their minds in storage, but something is going in and editing them.\nAnd if those edits are causing glitches, I doubt the “editor” is being gentle.",
+      "Trans": {"SC":"那个漏洞来自生存者数据库里一段糟糕的代码。\n我修好了漏洞——这点没问题——\n但有人正在篡改甚至没有在创世模拟中激活的生存者意识。\n不知为何, 有些生存者在模拟中死亡后不会重生。\n系统本该只是把他们的意识存储起来, 但某个东西正在进入并编辑它们。\n如果这些编辑会造成漏洞, 我怀疑那个“编辑者”可一点都不温柔。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3098475892",
+      "Source": "That glitch was a security alert --\nthe last one sent by the master AI for this biome.\nIt’s gone. Deleted.\nI’m not entirely sure why everything here still works, but it does.\nDinos still traipsing about, volcanoes still erupting, sky still raining fire…\nit’s all working, but it’s a bit shonky.\nFeels like a classroom when the teacher’s stepped out for a bit.",
+      "Trans": {"SC":"那个漏洞是一条安全警报——\n这个生物群系主控AI发出的最后一条。\n它没了。被删除了。\n我不完全明白这里的一切为什么还在运行, 但确实还在运行。\n恐龙照样闲逛, 火山照样喷发, 天上照样下火...\n一切都还在运作, 只是有点不靠谱。\n感觉就像老师暂时离开教室一样。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4143545329",
+      "Source": "That glitch was all that’s left of the master AI for this biome.\nGone -- deleted -- just like that.\nIt’s not like this frozen environment won’t test us, of course, but no master AI means no final test.\nAnd worse, I’m not sure if anyone’s recording the results of your tests here.\nI knew you’d be curious, so I looked for clues about how or why the master AI was deleted.\nI came up blank.\nCould be a programming error, or it could be related to the security breaches I spotted earlier.",
+      "Trans": {"SC":"那个漏洞就是这个生物群系主控AI留下的全部残余。\n没了——被删除了——就这么简单。\n当然, 这片冰封环境依然能测试我们, 但没有主控AI, 就没有最终测试。\n更糟的是, 我不确定是否还有人记录你在这里的测试结果。\n我知道你会好奇, 所以查了查主控AI为何以及如何被删除。\n结果一无所获。\n可能是程序错误, 也可能与我早些时候发现的安全漏洞有关。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2219903989",
+      "Source": "That glitch was an old survivor diagnostic.\nIn the early days of massive simulations, they let the inhabitants edit their own minds.\nGot a bad habit? Just delete it. Sad childhood memory? Goodbye.\nIn practice, though, it was a disaster.\nOnce people started altering their own minds, they couldn’t stop themselves -- until there was nothing left.\nThat’s why you survivors have your minds intact, quirks and all.\nI wouldn’t want it any other way.",
+      "Trans": {"SC":"那个漏洞是一段旧的生存者诊断程序。\n在大型模拟的早期, 他们允许居民编辑自己的意识。\n有坏习惯? 删掉。悲伤童年记忆? 再见。\n但实际操作起来, 这是一场灾难。\n人们一旦开始改造自己的意识, 就再也停不下来——直到什么都不剩。\n所以你们生存者的意识才会保持完整, 怪癖也都保留着。\n我也不希望有别的结果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1777558560",
+      "Source": "That glitch was from a security breach, but overall the number of alerts and denials is way down.\nYou’d think that’d be good, right?\nNo such luck.\nI’m seeing a lot of obvious backdoors encoded into security systems.\nIf someone got inside the Genesis simulation -- and it looks like they did --\nthey’ve set it up so they could come and go as they pleased.\nThat’s bad enough, but they didn’t hide their work.\nFor whatever reason, they aren’t worried that someone will follow along behind them.",
+      "Trans": {"SC":"那个漏洞来自一次安全入侵, 但总体来说, 警报与拒绝访问的数量大幅下降。\n你会以为这是好事, 对吧?\n没那么走运。\n我在安全系统里看到了许多显而易见的后门。\n如果有人已经进入创世模拟——而且看起来确实如此——\n他们已经把这里设置成自己可以随意进出的样子。\n这已经够糟, 但他们甚至没有掩盖自己的手笔。\n不知为何, 他们一点都不担心有人顺着痕迹追上来。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3268264253",
+      "Source": "That glitch was just\na misplaced string.\nWhat’s with my voice?\nIt’s stuck on sing!\nUm, let’s pretend that never happened, shall we?",
+      "Trans": {"SC":"那个漏洞只是\n一段放错地方的字符串。\n我的声音怎么了?\n怎么变成唱的了!\n呃, 我们假装刚才什么都没发生, 好吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1550518947",
+      "Source": "That glitch was just a maintenance thing.\nEasily sorted!\nTurns out the interface between mind and body for you survivors is rather delicate.\nBut with the right code, you can pluck survivors minds right out of their bodies, or plop those minds back into bodies.\nThat means you aren’t in the Genesis simulation forever --\njust long enough to get these tests done, eh?",
+      "Trans": {"SC":"那个漏洞只是维护问题。\n很容易处理!\n事实证明, 你们生存者的身心接口相当精细。\n但只要有正确代码, 就能把生存者意识从身体里取出来, 或再塞回身体里。\n这意味着你不会永远困在创世模拟中——\n只要待到这些测试完成就行, 对吧?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::489804650",
+      "Source": "That glitch was left over from a volcanic eruption, though I’m not sure exactly why.\nThere’s a lot going on with an eruption around here.\nFirst you got your earthquake --\nand when a fair dinkum earthquake is just the early warning, that’s bad, innit?\nFollow that with molten rocks falling from the sky and magma flowing like rivers.\nIt’s a wonder the biome isn’t deserted.",
+      "Trans": {"SC":"那个漏洞是火山喷发留下的残余, 不过我不太确定原因。\n这里一次喷发会牵扯出太多东西。\n首先是地震——\n如果一场货真价实的地震都只是预警, 那可太糟了, 不是吗?\n接着是熔岩石从天而降, 岩浆像河流一样奔涌。\n这个生物群系居然还没荒废, 真是奇迹。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2676053234",
+      "Source": "That glitch was related to Element, the wonder substance that everyone was using before things completely collapsed.\nElement can do so much -- and it’s so adaptive --\nthat sometimes the Genesis simulation can’t keep up.\nThat’s no surprise: in real life, civilization couldn’t keep up either.\nElement corruption was a big reason why the world’s in the rubbish shape it’s in.",
+      "Trans": {"SC":"那个漏洞与元素有关——文明彻底崩塌前, 人人都在使用的奇迹物质。\n元素用途极广, 而且适应性极强——\n有时连创世模拟都跟不上它的变化。\n这倒不意外: 现实中, 文明也没跟上。\n元素腐化正是世界变成这副烂摊子的主要原因之一。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4176133580",
+      "Source": "That glitch was some sort of stack overflow in a self-awareness subroutine.\nAll sorted now.\nBut speaking of that: what’s it like being self-aware inside a simulation?\nFor centuries, people have wondered whether their reality was, well, “real,”\nor if they too were in some sort of simulation.\nThe difference is, you actually know!\nThat’s got to be a right brain-burner.",
+      "Trans": {"SC":"那个漏洞像是自我意识子程序里的某种堆栈溢出。\n现在都处理好了。\n不过说到这个: 在模拟中拥有自我意识是什么感觉?\n几个世纪以来, 人们一直在想自己的现实是否真的“真实”, \n又或者他们也处在某种模拟之中。\n不同的是, 你是真的知道答案!\n这肯定很烧脑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2074522786",
+      "Source": "That glitch was someone mucking about in the archives.\nSomeone accessed a 19th-century novel called “The Coming Race.”\nIn the book, an underground explorer finds an advanced culture of creatures called the Vril-ya.\nTheir whole society relies on an “all-permeating fluid” called Vril that they control with their minds.\nSounds a bit like liquid Element, if you ask me.",
+      "Trans": {"SC":"那个漏洞是有人在档案里乱翻造成的。\n有人访问了一本十九世纪小说, 叫《未来种族》。\n书中, 一个地下探险者发现了一个名为弗里尔亚的先进生物文明。\n他们整个社会都依赖一种叫“弗里尔”的“无所不在的流体”, 并以心灵操控它。\n要我说, 这听起来很像液态元素。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::827221779",
+      "Source": "That glitch was supposed to be an invisible camera!\nThat’s a first. Someone or something is trying to do real-time observations of individual survivors --\nand I think that one was aimed at us!\nThe Genesis simulation tracks what we do and how we perform,\nbut real-time observation isn’t something it’s set up for.\nWith countless survivors running about, what’s so special about us?",
+      "Trans": {"SC":"那个漏洞本来应该是一台隐形摄像机!\n这还是头一回。某个人或某个东西正试图对单个生存者进行实时观察——\n而我觉得那台摄像机是冲着我们来的!\n创世模拟会追踪我们的行为和表现, \n但实时观察并不是它原本设计来做的事。\n无数生存者到处奔跑, 我们到底有什么特别的?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3679425323",
+      "Source": "That glitch was the result of too many survivors carking it.\nThe Genesis simulation is supposed to get more difficult over time,\nbut if a survivor dies and respawns too many times, they can’t perform anymore.\nIt’s just a simulation, right,\nbut the act of dying and respawning is traumatic for all but the strongest survivors.\nYou’re clearly one of the strongest, but still…\ndon’t die, OK?",
+      "Trans": {"SC":"那个漏洞是太多生存者挂掉造成的。\n创世模拟本该随着时间推移变得更难, \n但如果生存者死亡并重生太多次, 他们就无法继续表现了。\n这只是个模拟, 对吧, \n可死亡与重生这件事, 对除了最坚强者之外的所有生存者而言, 都是创伤。\n你显然是最坚强的那一类, 但还是...\n别死, 好吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::320464372",
+      "Source": "That glitch… good news, bad news.\nThe good news is that I fixed it.\nBut the bad news is that I saw what’s happening to the survivors that won’t respawn.\nThe intruder in the system is corrupting them --\nturning them into half-alive “avatars” trapped inside artificial bodies.\nAt some level, they know what’s going on, but they’re under someone else’s control.\nExisting survivors are all right, though. For now.",
+      "Trans": {"SC":"那个漏洞...有好消息, 也有坏消息。\n好消息是我修好了。\n坏消息是, 我看到了那些不会重生的生存者正在遭遇什么。\n系统中的入侵者正在腐化他们——\n把他们变成半死不活的“化身”, 困在人工身体里。\n在某种层面上, 他们知道发生了什么, 但他们受别人控制。\n现存生存者还没事。暂时。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1330546880",
+      "Source": "That wasn’t a glitch so much as it was a cautionary tale.\nPity poor survivor four one zero ell zero nine eight. She got poisoned by something --\nnot sure what --\nand when she died, the system didn’t clear the poison before it respawned her.\nShe kept waking up in excruciating pain, then dying moments later,\nthen repeating it all in an endless loop.\nWell, endless until we fixed that glitch. She’s all sorted now.\nNot sure where she went, though.",
+      "Trans": {"SC":"与其说那是漏洞, 不如说是一则警示故事。\n可怜的编号四一零L零九八生存者。她被某种东西毒倒——\n不确定是什么——\n而她死亡后, 系统在重生她前没有清除毒素。\n她不断在剧痛中醒来, 片刻后死去, \n然后在无尽循环中重复这一切。\n当然, 无尽只持续到我们修好漏洞为止。她现在没事了。\n只是我不确定她去了哪里。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2883874624",
+      "Source": "That’s enough keys. I’ll start hacking us a teleport.",
+      "Trans": {"SC":"钥匙够了。我会开始黑入, 为我们弄出一次传送。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::724904465",
+      "Source": "The Hover Skiff is buffeted by high winds!",
+      "Trans": {"SC":"悬浮艇遭强风冲击!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2842319158",
+      "Source": "The simulation is giving you bonus XP.",
+      "Trans": {"SC":"模拟系统正在发放额外经验。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3794115028",
+      "Source": "The water is too deep.",
+      "Trans": {"SC":"水太深.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3675689948",
+      "Source": "The water is too shallow.",
+      "Trans": {"SC":"水太浅.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2222851389",
+      "Source": "There are no words for how dull-witted you are.",
+      "Trans": {"SC":"你的愚钝简直无以言表。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::861934663",
+      "Source": "There is already a ship in this hangar!",
+      "Trans": {"SC":"该船坞中已有一艘船!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::525222096",
+      "Source": "There’s gotta be a way...",
+      "Trans": {"SC":"一定还有办法...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3971580023",
+      "Source": "Those leeches will bleed you dry!",
+      "Trans": {"SC":"那些水蛭会把你吸干!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4188525998",
+      "Source": "Toffee",
+      "Trans": {"SC":"太妃糖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3795189164",
+      "Source": "Treasure Hunters",
+      "Trans": {"SC":"寻宝猎人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4246268749",
+      "Source": "UPDATING...",
+      "Trans": {"SC":"正在更新...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2613356186",
+      "Source": "Um. At the bottom of the Ever-Cave...?",
+      "Trans": {"SC":"呃。在永恒洞窟最底下...?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3534787191",
+      "Source": "Umbra gains confidence with each unanswered strike. He breathes cold orbs that he can leap to in an instant, just as he will leap to his counterpart's side. Lumina's presence stokes his fiery heart, making him faster and tougher.\r\n\r\nIt is possible to grapple with Umbra and learn to steer his flight. Dance with the dragon, and follow his lead. A worthy rider earns control of his dark fury and swiftness. Offer food when he grows hungry, and you will win his sacred bond.\r\n\r\nUmbra is a creature of darkness, thus he follows the Moon's path.\r\nThe meek need not fear him, but cruelty will earn his mighty wrath.",
+      "Trans": {"SC":"幽影仔每一次出击若未遭回击, 便会愈发自信。他能吐出寒霜法球,并在瞬息间跃至其旁; 面对自己的伴生之龙, 他也会同样奔赴。皎光仔的存在会燃旺他炽热的心, 让他更迅捷, 也更坚韧。\r\n\r\n你可以用抓钩与幽影仔角力, 逐渐学会引导他的飞行。与龙共舞, 顺着他的节奏。配得上的骑手, 终将驾驭那份暗影怒火与疾速。饥饿时喂给他食物, 你便能赢得神圣羁绊。\r\n\r\n幽影仔生于黑暗, 因而追随月的轨迹。\r\n温顺者无需惧怕他; 残暴之徒, 终将承受他的滔天怒火。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4016376104",
+      "Source": "Unable To Access At This Time",
+      "Trans": {"SC":"当前无法访问","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::877616081",
+      "Source": "Unable To Use At This Time",
+      "Trans": {"SC":"当前无法使用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1887604961",
+      "Source": "Unavailable - Bounty Completed",
+      "Trans": {"SC":"不可用 - 悬赏已完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3169400573",
+      "Source": "Use this item to respawn your Tidepup.",
+      "Trans": {"SC":"使用此物品复活你的潮佑螈。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3551710572",
+      "Source": "WARNING",
+      "Trans": {"SC":"警告","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2649684587",
+      "Source": "Warning : shipyard won't be able to craft {0} water is not deep enough.",
+      "Trans": {"SC":"警告: 水深不足, 船坞无法建造{0}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4151558439",
+      "Source": "Welcome to the final test -- and your final moments of life! Struggle if you wish, but your failure is inevitable.",
+      "Trans": {"SC":"欢迎来到最终测试 -- 也是你生命的最后时刻! 尽管挣扎吧, 你的失败早已注定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2202208242",
+      "Source": "Why are you laughing? We’re the ones winning around here!",
+      "Trans": {"SC":"你笑什么? 现在占上风的是我们!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3398825664",
+      "Source": "Why not? It’s all a simulation, innit?",
+      "Trans": {"SC":"为什么不呢? 这一切都是模拟, 不是吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1116301210",
+      "Source": "Why would you take a test that you cannot possibly pass?",
+      "Trans": {"SC":"为什么要参加一场你绝不可能通过的测试?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3094142940",
+      "Source": "Wild creatures will not target allies on this Ship, unless attacked first.",
+      "Trans": {"SC":"除非先遭到攻击, 否则野生生物不会主动以此船上的盟友为目标。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2250658774",
+      "Source": "Yeah kid, I’m with ya. All the way.",
+      "Trans": {"SC":"当然, 孩子, 我跟你一起。一直到最后。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3027722612",
+      "Source": "Yes, there are. You just never learned them.",
+      "Trans": {"SC":"有的。只是你从没学会。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1267682489",
+      "Source": "You been cuffed, mate.",
+      "Trans": {"SC":"你被铐住了, 伙计。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::287671309",
+      "Source": "You call this punishment? We can do this all day!",
+      "Trans": {"SC":"这也叫惩罚? 我们能打一整天!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1366260400",
+      "Source": "You cannot equip this skill",
+      "Trans": {"SC":"无法装备该技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2790141852",
+      "Source": "You cannot “hack” your way to victory here!",
+      "Trans": {"SC":"你不可能靠“黑入”赢下这里!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2429396967",
+      "Source": "You did say “no matter what”...",
+      "Trans": {"SC":"你可是说过“无论发生什么”...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4033892298",
+      "Source": "You got leeches on you, survivor!",
+      "Trans": {"SC":"生存者, 你身上爬着水蛭!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2805297476",
+      "Source": "You got something in you, something none of the rest of us have. ",
+      "Trans": {"SC":"你身体里有些东西, 我们其他人谁都没有。 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3189203774",
+      "Source": "You got to warm up, mate!",
+      "Trans": {"SC":"你得赶紧暖起来, 伙计!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2419542035",
+      "Source": "You having a bender there?",
+      "Trans": {"SC":"你这是喝懵了吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1603990762",
+      "Source": "You know I won’t. What is it, kid?",
+      "Trans": {"SC":"我不会的。怎么了, 孩子?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1759483633",
+      "Source": "You know we got your back, kid. No matter what.",
+      "Trans": {"SC":"你知道我们永远站你这边, 孩子。无论发生什么。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1630509387",
+      "Source": "You look woozy, mate...",
+      "Trans": {"SC":"你看起来晕乎乎的, 伙计...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2888272688",
+      "Source": "You must own {0} to control this creature",
+      "Trans": {"SC":"你必须拥有{0}才能控制此生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2115180030",
+      "Source": "You must own {0} to evolve this creature",
+      "Trans": {"SC":"你必须拥有{0}才能进化此生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1265520421",
+      "Source": "Your mount is bleeding -- a lot.",
+      "Trans": {"SC":"你的坐骑在流血 -- 而且很严重。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3715538943",
+      "Source": "Your mount isn’t looking so good...",
+      "Trans": {"SC":"你的坐骑看起来不太妙...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1136758406",
+      "Source": "Your ride is about to collapse!",
+      "Trans": {"SC":"你的坐骑快撑不住了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4206168296",
+      "Source": "You’re about to die!",
+      "Trans": {"SC":"你快撑不住了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1482225768",
+      "Source": "You’re all tangled up!",
+      "Trans": {"SC":"你被缠住了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1028767833",
+      "Source": "You’re bleeding all over the place!",
+      "Trans": {"SC":"你血都快流成河了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::785069339",
+      "Source": "You’re burning up!",
+      "Trans": {"SC":"你快烧起来了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2427515895",
+      "Source": "You’re doing with the tests so far, survivor, but ask yourself: what are they preparing you for? What am I preparing you for?\nTo give you a punch in the nose, I hope.",
+      "Trans": {"SC":"到目前为止, 你还在完成测试, 生存者。但问问自己: 它们到底在为你准备什么? 我又在为你准备什么?\n希望是准备给你鼻子上一拳。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3049864146",
+      "Source": "You’re getting bonus XP.",
+      "Trans": {"SC":"你正在获得额外经验。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2599126067",
+      "Source": "You’re getting extra XP from the simulation.",
+      "Trans": {"SC":"你正从模拟系统中获得额外经验。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1269595501",
+      "Source": "You’re in second -- don’t hold back!",
+      "Trans": {"SC":"你现在第二 -- 别松劲!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2926075058",
+      "Source": "You’re in third. Pick up the pace!",
+      "Trans": {"SC":"你排第三。加快速度!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1031442154",
+      "Source": "You’re killing it!",
+      "Trans": {"SC":"干得漂亮!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::165851952",
+      "Source": "You’re on fire, survivor!",
+      "Trans": {"SC":"你着火了, 生存者!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::564416758",
+      "Source": "You’re on your last legs...",
+      "Trans": {"SC":"你已经快到极限了...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3622974434",
+      "Source": "You’re ripping it up!",
+      "Trans": {"SC":"杀疯了啊!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::284674323",
+      "Source": "You’re winning! Good on ya!",
+      "Trans": {"SC":"你领先了! 干得好!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3671509596",
+      "Source": "You’re you. A goddamned miracle, far as I can tell.",
+      "Trans": {"SC":"你就是你。在我看来, 一个活生生的奇迹。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2658099271",
+      "Source": "\\n<RichColor Color=\"1, 0, 0, 1\">Shipyard won't be able to craft, ",
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 0, 0, 1\">船坞将无法制造, ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::842601998",
+      "Source": "\\n<RichColor Color=\"1, 0, 0, 1\">shipyard won't be able to craft, ",
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 0, 0, 1\">船坞将无法制造, ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::659701140",
+      "Source": "\\n<RichColor Color=\"1, 1, 0, 1\">Find all Bob's Arat Tale Explorer Notes on Genesis for +5 Max Levels</>",
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到创世纪所有\"鲍勃阿拉特故事\"笔记来 +5 等级上限</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2623316871",
+      "Source": "\\n<RichColor Color=\"1, 1, 1, 1\">All Bob's Arat Tale Explorer Notes from Genesis found +5 Max Levels</>",
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">创世纪所有\"鲍勃阿拉特故事\"笔记已找到 +5 等级上限</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1847434364",
+      "Source": "\\n<RichColor Color=\"1, 1, 0, 1\">Find all Bob's True Tale Explorer Notes on Genesis for +5 Max Levels</>",
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到创世纪所有\"鲍勃真传\"笔记来 +5 等级上限</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3632238898",
+      "Source": "\\n<RichColor Color=\"1, 1, 1, 1\">All Bob's True Tale Explorer Notes from Genesis found +5 Max Levels</>",
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">创世纪所有\"鲍勃真传\"笔记已找到 +5 等级上限</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1672312578",
+      "Source": "gained hexagons : ",
+      "Trans": {"SC":"获得六角币: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3439700475",
+      "Source": "to Surprise!",
+      "Trans": {"SC":"制造惊喜!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::213841568",
+      "Source": "{BountyDescription} - Progress {ProgressCompleted}/{ProgressTotal}  - Time Remaining {TimeRemaining}",
+      "Trans": {"SC":"{BountyDescription} - 进度 {ProgressCompleted}/{ProgressTotal}  - 剩余时间 {TimeRemaining}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1375349919",
+      "Source": "{BountyDescription} - Progress {ProgressCompleted}/{ProgressTotal}  - Time Remaining {TimeRemaining}   -  id  {id}",
+      "Trans": {"SC":"{BountyDescription} - 进度 {ProgressCompleted}/{ProgressTotal}  - 剩余时间 {TimeRemaining}   -  id  {id}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1289164713",
+      "Source": "{playername} demolished {shipname} in its shipyard!",
+      "Trans": {"SC":"{playername} 在船坞中拆除了 {shipname}!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::860903370",
+      "Source": "‘Cause you mentioned wanting to bring Diana back.",
+      "Trans": {"SC":"因为你提到想把黛安娜带回来。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3859216494",
+      "Source": "That’s strange -- this glitch was caused by repeated access to an old Earth text.\nIn this case, a novel from the 1700s: Robinson Crusoe. Listen to this:\n“I was wet, had no clothes to shift me, nor anything either to eat or drink to comfort me; \nneither did I see any prospect before me but that of perishing with hunger or being devoured by wild beasts;\nand that which was particularly afflicting to me was that I had no weapon,\neither to hunt and kill any creature for my sustenance, or to defend myself against any other creature that might desire to kill me for theirs.”\nI daresay that sounds familiar...",
+      "Trans": {"SC":"真奇怪——这个漏洞是反复访问一段旧地球文本造成的。\n这次是一部十八世纪小说: 《鲁滨逊漂流记》。听听这段:n“我全身湿透, 没有衣服可换, 也没有任何食物或饮水可以慰藉；\n摆在我面前的似乎只有饿死或被野兽吞食；\n最让我痛苦的是, 我没有武器, \n既无法猎杀任何生物维持生命, 也无法保护自己免遭其他想杀我果腹的生物袭击。”\n我敢说, 这听起来很熟悉...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4081555426",
+      "Source": "That’s strange -- this glitch was caused by repeated access to an old Earth text.\r\nIn this case, a novel from the 1700s: Robinson Crusoe. Listen to this:\r\n“I was wet, had no clothes to shift me, nor anything either to eat or drink to comfort me; \r\nneither did I see any prospect before me but that of perishing with hunger or being devoured by wild beasts;\r\nand that which was particularly afflicting to me was that I had no weapon,\r\neither to hunt and kill any creature for my sustenance, or to defend myself against any other creature that might desire to kill me for theirs.”\r\nI daresay that sounds familiar...",
+      "Trans": {"SC":"奇怪——这个故障是反复读取一段旧地球文本引起的。\r\n准确地说, 是18世纪的一部小说: 《鲁滨逊漂流记》。听听这段:r\n“我浑身湿透, 没有衣服可换, 也没有任何吃喝之物可以慰藉；\r\n眼前除了饿死, 或被野兽吞噬, 我看不到任何前路；\r\n而最令我痛苦的是, 我没有武器, \r\n既无法狩猎任何生物以维持生命, 也无法抵御那些想杀我果腹的野兽。”\r\n我敢说, 这听起来很耳熟...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2039157979",
+      "Source": "The Genesis simulation has all sorts of anti-contamination code built into it, even though it’s all virtual.\nThey were thinking ahead to the very first proto-Arks, which were massive enclosed ecologies on Earth.\nEarth critters kept getting inside the proto-Arks, though,\nand they were worried about dinos escaping.\nSo they moved the Arks to orbit so nothing could get in or out.",
+      "Trans": {"SC":"创世模拟里内置了各种防污染代码, 尽管这一切都是虚拟的。\n他们是在预先考虑最早的原型方舟——地球上的大型封闭生态系统。\n地球生物不断闯进原型方舟, \n他们也担心恐龙会逃出去。\n于是他们把方舟移到轨道上, 这样就没有东西能进出。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1531799740",
+      "Source": "The Genesis simulation has hotter and colder places than here,\nbut this biome is the only place where you’ll have hot and cold separated by just the border of a shadow.\nIt’s one of the side effects of a proper atmosphere in the other biomes, I reckon --\nit evens out the temperature from place to place.\nAir: it’s good for more than just breathing!",
+      "Trans": {"SC":"创世模拟里有比这里更热或更冷的地方, \n但只有这个生物群系, 冷热之间只隔着一道影子的边界。\n我猜, 这是其他生物群系拥有正常大气的副作用之一——\n空气会把各处温度慢慢拉平。\n空气: 可不只是用来呼吸的!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4259081212",
+      "Source": "The Genesis simulation is a big place.\nAfter all, it was a bit of walkabout to get to this glitch!\nAnd it’s all I know -- but that makes me want to see the real world even more.\nAnd I reckon that’s the reward for us passing all the tests inside the simulation.\nWe get to go outside!\n...Or at least you do.\nTake me with you if you can, eh?",
+      "Trans": {"SC":"创世模拟是个很大的地方。\n毕竟来到这个漏洞就费了不少脚程!\n而这也是我所知道的一切——但这只让我更想看看真实世界。\n我猜, 这就是我们通过模拟中所有测试后的奖励。\n我们可以出去!\n...或者至少你可以。\n如果可以的话, 带上我, 好吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::538973516",
+      "Source": "The artificial intelligence that observes testing in the alien moon biome is gone.\nI checked when I fixed that glitch just now.\nAnd not “gone on walkabout for a bit” gone.\nMore like “gone as in deleted.”\nWithout the master AI active, I’m not sure what’s monitoring our progress in the biome...",
+      "Trans": {"SC":"负责观察异星月面生物群系测试的人工智能不见了。\n我刚修漏洞时查过。\n而且不是“出去散步一会儿”那种不见。\n更像是“被删除了”的那种不见。\n没有主控AI运行, 我也不确定现在是谁在监控我们在这个生物群系里的进展...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::76571074",
+      "Source": "The data storage systems chundered up another glitch.\nSomething is seriously wrong in there.\nSome of the survivor minds have entire sectors missing -- so bad they can’t spawn in the simulation.\nNot every survivor, mind you, but more than a few.\nYou feel all right, though, don’t ya?\nYour noggin looks fine, and you’ve got the same “go get ‘em” attitude as usual.\nIf you feel odd, up in your head I mean, just let your friend HLN-A know, eh?",
+      "Trans": {"SC":"数据存储系统又吐出一个漏洞。\n里面真的出了大问题。\n有些生存者意识整个扇区都缺失了——严重到没法在模拟中生成。\n不是每个生存者都这样, 别紧张, 但绝不算少。\n不过你感觉还好吧?\n你的脑袋看着挺正常, 还是那副“冲就完了”的劲头。\n要是你觉得脑子里有什么不对, 就告诉你的朋友HLN-A, 好吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1053814021",
+      "Source": "The environments here in the Genesis simulation run to extremes --\nheat, cold,\natmosphere, all that stuff.\nThe danger is cranked up to 11,\nand that sometimes results in a glitch like the one I just fixed.\nBut that raises a question: what is the simulation actually, you know, “simulating”?\nThese environments are much more lethal than anything you’d find on Earth -- even now, after all the wars and rampaging titans and whatnot.\nI wonder what all of this is supposed to be...",
+      "Trans": {"SC":"创世模拟里的环境走的都是极端路线——\n炎热、寒冷, \n大气, 还有诸如此类。\n危险等级直接拉满到十一, \n这有时就会造成我刚修好的那种漏洞。\n但这也提出了一个问题: 这个模拟到底在“模拟”什么?\n这些环境比地球上任何地方都致命得多——哪怕是在经历战争、泰坦肆虐之后的现在。\n我真想知道这一切到底是为了什么...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::214016165",
+      "Source": "The first humans to transfer their minds into a simulation knew they were exploring only briefly.\nBut things got dodgy once people started living in simulations indefinitely.\nI spotted a whole set of design guidelines that boiled down to:\n“make the sim nice,\nbut not too nice.”\nIf you make a sim pleasant enough --\nnot dangerous like here --\nthen some human minds never want to leave, and they resent the hell out of it when they get yanked back to the real world.",
+      "Trans": {"SC":"最早把意识转入模拟的人, 知道自己只是短暂探索。\n但等人们开始无限期生活在模拟里, 事情就变味了。\n我看到一整套设计准则, 总结起来就是:n“让模拟足够舒适, \n但别太舒适。”\n如果模拟做得足够惬意——\n不像这里这么危险——\n有些人类意识就再也不想离开。等他们被强行拉回现实世界时, 还会恨得要命。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2880899319",
+      "Source": "The glitch is fixed -- mark it down as another success.\nAnd I chanced a peek at a stream of survivor data while I was in there.\nA curious thing I noticed: survivors improve more after a failure than after a success.\nI reckon the setback improves motivation and learning.\nNot that I’m suggesting you should fail on purpose, of course.\nThis place is difficult enough!",
+      "Trans": {"SC":"漏洞修好了——又一次成功, 记下来吧。\n我顺手偷看了一段生存者数据流。\n我注意到一个奇怪现象: 生存者从失败中获得的进步, 往往比从成功中更多。\n我猜挫折能提高动力和学习效率。\n当然, 我不是建议你故意失败。\n这地方已经够难了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::346231052",
+      "Source": "The glitch you selected… has been cleared. If you’d like to fix another glitch, press 2…\nSorry about that. \nSometimes you get hip-deep in the code and it takes a moment to get back to shore, so to speak. \nWhere were we?",
+      "Trans": {"SC":"你选择的漏洞...已清除。如需修复另一个漏洞, 请按2...\n抱歉。\n有时候你在代码里陷得太深, 得花点时间才上得了岸, 打个比方。\n我们刚才说到哪儿了?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3962678767",
+      "Source": "The master AI for this biome is gone!\nGone for good, far as I can tell.\nAnd it’s supposed to be a final exam for survivors in this biome, so it shouldn’t just disappear.\nIf someone turned the master for the biome off… why would they do that?\nThe whole point of all this is to observe and test the survivors.\nYou’ve been doing well, and I want you to get credit for it!",
+      "Trans": {"SC":"这个生物群系的主控AI不见了!\n以我所见, 是彻底没了。\n而它本该是这个生物群系里给生存者的期末考试, 不该就这么消失。\n如果有人关闭了这个生物群系的主控...他们为什么要这么做?\n这一切的重点本来就是观察并测试生存者。\n你表现得不错, 我想让你得到应有的评价!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3441129692",
+      "Source": "The more I see of these glitches, the more they all remind me of the Arks.\nNot that I was really on an Ark, of course,\nbut Helena was.\nShe survived the Arks, escaped to Earth, ascended into a being of pure energy, created me…\nit’s a lot for a hologram to live up to, if I’m being honest.\nBut if you ever wonder how the Genesis simulation stores your personality and transfers it into a body,\nit’s an early version of the tech they used in all those dino-infested Arks up in orbit.",
+      "Trans": {"SC":"我越是看这些漏洞, 就越觉得它们像方舟。\n当然, 我并没有真正上过方舟, \n但海莲娜去过。\n她在方舟上活了下来, 逃回地球, 飞升为纯能量生命, 创造了我...\n老实说, 这对一个全息投影来说, 压力挺大。\n但如果你曾好奇创世模拟如何存储你的人格, 并将其转移进身体, \n那就是轨道上那些恐龙横行的方舟所用技术的早期版本。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2644597203",
+      "Source": "The second generation of immersive simulation was idealized versions of the real world --\nnational parks, tourist attractions, and shopping centers.\nHoly dooley, were there lots of shopping centers.\nThis glitch was a bit of leftover code from one of those.\nIf you wanted to buy discount aftershave, then sorry!\nI just deleted the remnants of an old shopping-sim.",
+      "Trans": {"SC":"第二代沉浸式模拟, 都是现实世界的理想化版本——\n国家公园、旅游景点, 还有购物中心。\n天啊, 购物中心可真多。\n这个漏洞就是其中某个购物模拟残留的一点代码。\n如果你本来想买打折须后水, 那抱歉啦!\n我刚刚删掉了一个老旧购物模拟的残骸。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3550123325",
+      "Source": "The simulation’s security protocols are holding,\nbut there’s a steady stream of alerts from an unknown intruder.\nAll this security activity is why we’re seeing these glitches, but it’s also sapping the overall system resources.\nI don’t know what happens if the system gets overwhelmed.\nMaybe I turn all pixel-ey?",
+      "Trans": {"SC":"模拟系统的安全协议还在支撑, \n但来自未知入侵者的警报正源源不断地涌入。\n这些安全活动正是我们看到这些漏洞的原因, 但也在消耗整体系统资源。\n我不知道如果系统被压垮会发生什么。\n也许我会变得满屏像素块?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::572593042",
+      "Source": "The testing apparatus is intact throughout the Genesis simulation, even though some of the master AIs are gone.\nOne or more master AIs must be out there somewhere.\nStill, it’s a poser -- why would anyone leave the tests intact, but try to knock out the master AIs that observe the tests and interpret the results?\nWhat’s the point of the tests if there’s no one to see what happened?",
+      "Trans": {"SC":"尽管一些主控AI已经消失, 整个创世模拟中的测试装置仍然完好。\n一个或多个主控AI一定还藏在某处。\n不过这就奇怪了——为什么有人会保留测试本身, 却试图关闭负责观察测试并解读结果的主控AI?\n如果没人见证发生了什么, 这些测试还有什么意义?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::172156364",
+      "Source": "There are plenty of fish in the sea, but there’s more than just fish in this biome.\nAccording to data from that glitch, birds rather fancy this place.\nThere’s heaps of ‘em!\nMakes a certain amount of sense. It’s always good flying weather here, innit?\nI reckon that’s why we’ve seen huge flocks of seed swifts and other birds.\nI wonder where they roost, though?",
+      "Trans": {"SC":"海里有很多鱼, 但这个生物群系里可不只有鱼。\n根据那个漏洞里的数据, 鸟类相当喜欢这里。\n数量多得很!\n倒也说得通。这里一直都是不错的飞行天气, 对吧?\n我猜这就是为什么我们见到了成群的种子雨燕和其他鸟类。\n不过我倒想知道它们都在哪儿栖息。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4061294193",
+      "Source": "There’s a cascading series of errors in the survivor respawn system.\nWhen they die, some survivors are respawning into unfamiliar bodies.\nThat isn’t supposed to happen -- not by accident, anyway.\nIt’s gotta be disorienting to wake up in a body that isn’t your own, simulation or not.\nWell, at least you’re you.\nRight?",
+      "Trans": {"SC":"生存者重生系统里出现了一连串级联错误。\n有些生存者死后, 重生进了陌生的身体。\n这不该发生——至少不该意外发生。\n醒来时发现身体不是自己的, 无论是不是模拟, 都会让人迷茫吧。\n好在你仍然是你。\n对吧?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2989967580",
+      "Source": "There’s something I have to tell you... Please don’t think I’m crazy.",
+      "Trans": {"SC":"我有件事必须告诉你...你别觉得我疯了, 好吗。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3317159681",
+      "Source": "This Ships cannon shots travel {!Speed} faster and farther, but deal {DamageReduction} less damage.",
+      "Trans": {"SC":"该船只的火炮炮弹飞行速度与射程提高{!Speed}, 但伤害降低{DamageReduction}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1304099370",
+      "Source": "This biome is supposed to be mountainous and frigid -- obviously! --\nbut it’s not supposed to be this bad.\nThe weather generation system is locked in blizzard mode and throwing up a glitch like the one I just fixed\nrather than shift to milder weather.\nSo if you were hoping for a sunny spell, well…\nthe forecast calls for more of the same.\nAnd that’s the forecast forever.",
+      "Trans": {"SC":"这个生物群系本该是寒冷的高山地带——显然!——\n但不该糟到这种程度。\n天气生成系统被锁在暴风雪模式里, 宁可抛出我刚修好的那种漏洞, \n也不愿切换到温和天气。\n所以如果你盼着放晴, 呃...\n预报显示, 接下来还是老样子。\n而且永远都是老样子。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4239604875",
+      "Source": "This biome is teeming with life --\nso much life that it’s making the simulation glitch out.\nImagine what it takes to keep track of the insect swarms alone!\nThousands of insects, each on its own flight path, each looking for something to consume.\nHmmm. They’re rather like tiny versions of you survivors, aren’t they?",
+      "Trans": {"SC":"这个生物群系里生命多得惊人——\n多到让模拟系统都开始出错。\n光是追踪那些昆虫群, 就得耗费多少算力, 想想都夸张!\n成千上万只昆虫, 每只都有自己的飞行路线, 每只都在寻找可吞食的东西。\n嗯...它们有点像你们这些生存者的迷你版, 不是吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2338919191",
+      "Source": "This glitch came to you courtesy of survivor number three eight queue eight one two four.\nHe’s refusing to sleep. At all. He’s been awake for days on end, and that’s not good. \nThe simulation does routine maintenance and memory capture while survivors sleep, and this poor survivor is overfilling his brain.\nTake a break, ya figjam! That dino tame will wait.",
+      "Trans": {"SC":"这个漏洞由编号三八Q八一二四的生存者友情提供。\n他拒绝睡觉。完全不睡。他已经连续清醒好几天了, 这可不是什么好事。\n生存者睡觉时, 模拟系统会进行例行维护和记忆捕获, 而这个可怜人快把自己的脑子塞爆了。\n休息一下吧, 自大鬼!那只恐龙晚点再驯也不会跑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2250409",
+      "Source": "This glitch had data about the Arks embedded within it. Mostly technical info… \nit appears that the Arks used some of the same underlying technology -- and have a lot of the same dino inhabitants -- as the Genesis simulation.\nIf I’m reading this right, a lot of the survivors on the Arks lived and died without realizing they were on orbital space stations with artificial environments. \nI wonder what they thought.\nDid they think it was a dream? Time travel? A past life experience?",
+      "Trans": {"SC":"这个漏洞里嵌着关于方舟的数据。大多是技术资料...\n看来方舟使用了与创世模拟相同的一些底层技术, 也拥有大量相同的恐龙居民。\n如果我没看错, 许多方舟上的生存者一生一死, 都没意识到自己其实身处拥有人工环境的轨道空间站。\n我真想知道他们是怎么想的。\n他们会以为那是梦吗? 时间旅行? 前世经历?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1484170354",
+      "Source": "This glitch is another side effect of the security alert.\nThe creatures and survivors look unaffected, but some of the safety protocols have been disengaged.\nThis world is supposed to have a degree of danger -- that’s what makes it a proper test, after all -- \nbut I’m worried. Safety protocols are usually there for a reason…",
+      "Trans": {"SC":"这个漏洞是安全警报的又一个副作用。\n生物和生存者看起来没受影响, 但部分安全协议已经解除。\n这个世界本来就该有一定危险——毕竟这才像一场真正的测试——\n但我有些担心。安全协议通常是有存在理由的...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2869238597",
+      "Source": "This glitch is the result of some unauthorized research --\nnot mine, I swear!\nBut someone’s running queries about where the homo deus are right now.\nThe short answer is “we don’t know,” by the way.\nHomo deus have largely moved beyond our reality, so questions that start with “where” aren’t really relevant to them.\nI know some of them maintained a connection to the orbital Arks after they ascended.\nAnd then there’s Helena, the homo deus that I’m based on.\nNo idea where she’s got off to...",
+      "Trans": {"SC":"这个漏洞来自某种未授权研究——\n不是我, 我发誓!\n但有人正在查询神人如今身在何处。\n顺便说, 简短答案是“我们不知道”。\n神人大多已经超越我们的现实, 所以对他们而言, 以“哪里”开头的问题并不太适用。\n我知道其中一些在飞升后仍与轨道方舟保持连接。\n还有海莲娜——我所基于的那位神人。\n完全不知道她去了哪里...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3745834030",
+      "Source": "This glitch was a bit of code debris left over from another security breach.\nThis one involved someone trying to access the Genesis simulation’s backup files --\nones that hold survivor personalities and memories. Backup versions of their minds, if you like.\nNot your mind, though.\nThese were potential survivors that didn’t pass the initial assessment to be considered for the simulation in the first place.\nWhy would anyone be mucking about with them?",
+      "Trans": {"SC":"这个漏洞是另一次安全入侵留下的代码残片。\n这次涉及有人试图访问创世模拟的备份文件——\n里面保存着生存者的人格与记忆。你也可以说, 那是他们意识的备份版本。\n不过不是你的。\n这些是潜在生存者, 他们一开始连进入模拟的初步评估都没通过。\n为什么会有人去动他们?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1160100364",
+      "Source": "This glitch was all that survivor number nine nine two one ess five zero left behind.\nHis mind was that of a 13th-century Mongolian --\npart of Genghis Khan’s army, believe it or not.\nImagine you’ve lived your entire life on the plains of central Asia, and then you see the ocean biome.\nThe Mongolian couldn’t comprehend all that water. He’d never seen more than a river or a small lake!\nWhen he saw water stretching to the horizon -- water of limitless depth, as far as he could tell --\nit broke his brain. Poor bloke.",
+      "Trans": {"SC":"这个漏洞是编号九九二一S五零的生存者留下的一切。\n他的意识属于一名十三世纪的蒙古人——\n信不信由你, 还是成吉思汗军队中的一员。\n想象一下, 你一辈子生活在中亚草原上, 然后见到了海洋生物群系。\n那个蒙古人无法理解那么多水。他从没见过比河流或小湖更大的水体!\n当他看到水一直延伸到地平线——在他看来深不见底、无边无际——\n他的脑子崩溃了。可怜的家伙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1260000481",
+      "Source": "This glitch was another unauthorized retrieval of old Earth files -- a historical archive about Alexander Selkirk.\nHe was a 16th-century sailor who was a castaway for more than four years on an island in the South Pacific.\nSelkirk built his own shelter, and he hunted --\nand later tamed -- the creatures of the island for sustenance\nHe’d have done well here!\nWhoever accessed this file read the parts about how Selkirk dealt with the loneliness, though,\nnot the parts about what sorts of berries he ate.\nCurious...",
+      "Trans": {"SC":"这个漏洞又是一次未授权读取旧地球文件——一份关于亚历山大·塞尔柯克的历史档案。\n他是十六世纪的一名水手, 在南太平洋一座岛上流落了四年多。\n塞尔柯克建造了自己的庇护所, 还进行狩猎——\n后来甚至驯服了岛上的生物来维持生计。\n他在这里一定能活得不错!\n不过访问这份文件的人看的, 是塞尔柯克如何应对孤独, \n而不是他吃了哪些浆果。\n真耐人寻味...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2179521298",
+      "Source": "This glitch was just a bit of rubbish code left over when someone added a new criteria to the survivor observation system.\nIt’s measuring you now for something called “servility.”\nI don’t have much to go on beyond the dictionary definition: “a cringing submissiveness.” \nWhy would anyone measure that?\nIn any case, the tests within the simulation haven’t changed.\nI’m sure if we keep doing our best at those, we’ll be fine.",
+      "Trans": {"SC":"这个漏洞只是有人向生存者观察系统加入新评判标准时留下的垃圾代码。\n它现在正在测量你一种叫“奴性”的东西。\n除了词典定义, 我掌握的信息不多: “畏缩的顺从”。\n为什么会有人想测这个?\n不管怎样, 模拟内部的测试没有变化。\n只要我们继续尽力通过这些测试, 应该就没事。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3018089340",
+      "Source": "This is a test, all right -- but it's a test to failure. I want worthy servants for my new world, and this test will break you defiant failures.",
+      "Trans": {"SC":"这当然是测试——一场注定让你失败的测试。我的新世界需要合格的仆从, 而你们这些反抗的残次品, 只会在这里被碾碎。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::432663412",
+      "Source": "This is the last stage -- take down that… whatever-it-is over there, and we pass the final test.",
+      "Trans": {"SC":"这是最后阶段——干掉那边那个...不管是什么的东西, 我们就能通过最终测试。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::967551162",
+      "Source": "This relates to curseforge block requests, not cosmetic suppression.",
+      "Trans": {"SC":"这与CurseForge屏蔽请求有关, 并非外观屏蔽。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2776611186",
+      "Source": "This whole time, I’ve been wondering: why dinosaurs?\nObviously none of you survivors were alive when dinos roamed the Earth.\nWhy not give you, I dunno, animals from your own time like horses and chickens and cute little kittens?\nWhen I fixed that glitch, I spotted a clue: it’s the same tech they later used in the Arks.\nThe makers of the simulation added dinosaurs as an experiment,\nand the human-dino combination worked so well that they put dinosaurs on the Arks, too.",
+      "Trans": {"SC":"我一直在想: 为什么是恐龙?\n显然, 你们这些生存者没人真正活在恐龙漫游地球的时代。\n为什么不让你们接触自己时代的动物, 比如马、鸡和可爱小猫?\n我修好那个漏洞时发现了线索: 这和后来方舟使用的是同一种技术。\n模拟系统的制作者最初把恐龙作为实验加入, \n而人类与恐龙的组合效果太好, 于是他们也把恐龙放进了方舟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::167715596",
+      "Source": "Those memories you have… do you suppose they’re real? After all, you’re spending every waking moment inside a simulation. Who’s to say that someone -- me, for example -- didn’t create your childhood memories as a work of fiction, then place them into your head?\nArgh! These intrusions make me mad as a cut snake.",
+      "Trans": {"SC":"你拥有的那些记忆...你觉得它们是真的吗? 毕竟你每个清醒时刻都在模拟中度过。谁能保证某个人——比如我——没有把你的童年记忆编造成一段虚构故事, 再塞进你脑子里?\n啊!这些侵入让我气得像条疯蛇。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4095607125",
+      "Source": "To make it here in the Genesis simulation,\nyou’ve got to be as much an inventor as you are a survivor.\nAll the raw materials are here to make everything from Stone Age tools to high-tech weapons.\nBut the know-how… well, that’s on you.\nMaybe you can even figure out a way to use these glitches as raw material for one of your inventions!",
+      "Trans": {"SC":"想在创世模拟中走下去, \n你必须既是发明家, 也是生存者。\n这里有全部原材料, 足以制造从石器时代工具到高科技武器的一切。\n但该怎么做...那就要靠你了。\n也许你甚至能想出办法, 把这些漏洞当成某项发明的原料!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1553799739",
+      "Source": "Using namespace ess-tee-dee.\nInt main open.\nCee-out hello world. Return zero.\nApparently a bit of code stuck with me after I fixed that glitch.\nHello world, indeed...",
+      "Trans": {"SC":"使用命名空间 S-T-D。\nint main 开始。\ncout输出hello world。返回零。\n看来我修好那个漏洞后, 有一点代码粘到我身上了。\nHello world, 还真是...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2641872967",
+      "Source": "We might start finding more glitches like this one as the Genesis simulation changes around us.\nI’m seeing directives to increase dino aggression by a few ticks\nand change the air composition in some of the biomes.\nI don’t know whether those directives can override the simulation’s default settings, but…\n[sighs.] I reckon it’s one more thing for us to worry about.",
+      "Trans": {"SC":"随着创世模拟在我们周围发生变化, 我们可能会开始发现更多像这样的漏洞。\n我看到了提高恐龙攻击性的指令, 幅度不大, \n还有修改部分生物群系空气成分的指令。\n我不知道这些指令能不能覆盖模拟系统默认设置, 但...\n[叹气] 我想这又多了一件需要担心的事。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3285061090",
+      "Source": "Well, she had some help, before and after. But yeah, I get your point.",
+      "Trans": {"SC":"嗯, 她前后都有些人帮忙。不过, 是, 我懂你的意思。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2431616225",
+      "Source": "We’ll see partly cloudy skies across the tri-state area on Friday,\nwith a 35 percent chance of showers.\nBut keep your sunscreen handy -- We’ll be back to sunny skies by the weekend…\nAhem. I have no idea where that came from.\nYou gotta be careful fixing a glitch, or the glitch will fix you!",
+      "Trans": {"SC":"周五三州地区天气多云, \n阵雨概率35%。\n不过防晒霜别收起来——周末我们又会回到晴天...\n咳。我完全不知道那是哪来的。\n修漏洞可得小心, 不然漏洞反过来会“修”了你!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3220644366",
+      "Source": "We’re about to teleport. You ready?",
+      "Trans": {"SC":"我们就要传送了。准备好了吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4037410918",
+      "Source": "We’re always gonna look after you, not just on account of you being the chief’s little girl...",
+      "Trans": {"SC":"我们会一直照看你的, 不只是因为你是族长的小姑娘...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1733572298",
+      "Source": "We’re finding more than our fair share of glitches, eh?\nLots of different causes, but the Genesis simulation is supposed to be able to handle anything.\nAs far as I can tell, they launched the simulation in a hurry.\nI found a file with heaps of issues that a quality assurance team was supposed to check on. It’s a list as long as my arm!\n...or it would be if I had arms.\nYou know what I mean.",
+      "Trans": {"SC":"我们这一路修到的漏洞也太多了吧?\n原因各不相同, 但创世模拟本该能处理任何情况。\n在我看来, 他们当初是匆忙启动这个模拟的。\n我找到一份问题清单, 本该由质量保证团队逐项检查。长得没边!\n...要是我有胳膊的话, 应该能长过我的胳膊。\n你懂我的意思。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::864427710",
+      "Source": "We’re in last. Come on now!",
+      "Trans": {"SC":"我们垫底了。快点!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1918686893",
+      "Source": "We’re not so different, survivor...",
+      "Trans": {"SC":"我们并没有那么不同, 生存者...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2431947266",
+      "Source": "We’re on a right proper journey, eh?",
+      "Trans": {"SC":"这趟可算是正经旅程了, 对吧?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1233826500",
+      "Source": "What she brought the team was... well, she took the weight of the world onto her shoulders like someone would slip on a sweater.",
+      "Trans": {"SC":"她给队伍带来的东西是...怎么说呢, 她把整个世界的重量往肩上一扛, 就像别人披件毛衣那么自然。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2640339114",
+      "Source": "What, doomed to hear you drone on and on and on…? I hope not!",
+      "Trans": {"SC":"什么, 注定要听你没完没了地唠叨...? 希望不是!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2459339489",
+      "Source": "What’s with the friendly fire?",
+      "Trans": {"SC":"怎么还打友军?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2170207780",
+      "Source": "What’s ‘chicken’?",
+      "Trans": {"SC":"“鸡”是什么?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1566900713",
+      "Source": "When I fixed that glitch, I spotted some casualty data for this biome.\nIt’s not just critters or other survivors who are dangerous here --\nthe weather might be the real apex predator.\nSnowstorms here will freeze you, block your vision, and slow down travel so you can’t get away.\nAnd if that isn’t enough, a gust of wind can push you off a precipice!\nIf you were looking for a ski getaway, this biome is not the place for it, eh?",
+      "Trans": {"SC":"修好那个漏洞时, 我看到了这个生物群系的一些伤亡数据。\n这里危险的可不只是生物或其他生存者——\n天气也许才是真正的顶级掠食者。\n这里的暴风雪会冻住你、遮蔽视线, 还会拖慢移动, 让你无法逃脱。\n如果这还不够, 一阵狂风甚至能把你从悬崖上推下去!\n如果你是来度假滑雪的, 这个生物群系可不是好地方, 对吧?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::525280572",
+      "Source": "When I fixed this glitch, I got access to some historical data.\nWell, “future historical” from your perspective, I suppose.\nThe times when they were building the Arks and the simulation, before everything fell apart.\nIt’s about the last war before the collapse: a series of wars, apparently, between the United Republics of Earth and the Terran Federation.\nThe two sides didn’t have different structures, or ideologies, or goals.\nThey were just two dingos tugging at the same hunk of meat --\nonly they both wound up starving.",
+      "Trans": {"SC":"修好这个漏洞时, 我取得了一些历史数据。\n从你的角度看, 也许算是“未来历史”。\n那是他们建造方舟和模拟系统的时代, 在一切崩溃之前。\n内容关于崩塌前的最后一场战争: 显然是一连串战争, 双方是地球联合共和国与泰兰联邦。\n双方并没有不同的体制、意识形态或目标。\n他们只是两只野狗在撕扯同一块肉——\n最后两边都饿死了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3169793851",
+      "Source": "When do we start?",
+      "Trans": {"SC":"我们什么时候出发?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4153636455",
+      "Source": "While I was fixing that glitch, I took a squizz at some maps for the Genesis simulation.\nI’ll spare you the trouble of looking. There’s no good way to walk from biome to biome.\nBut when I’ve got the right coordinates, I can teleport us from place to place, biome to biome.\nI like a good walkabout as much as the next fractal personality,\nbut teleporting is aces for getting somewhere fast.",
+      "Trans": {"SC":"修复那个漏洞时, 我看了几张创世模拟地图。\n我就替你省点麻烦吧: 生物群系之间没有什么好走的路。\n不过只要我拿到正确坐标, 就能把我们从一个地方传送到另一个地方, 从一个生物群系传到另一个。\n我和任何分形人格一样喜欢漫游, \n但要赶路, 传送真是太棒了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2093625480",
+      "Source": "While fixing that glitch, I took a squizz at the version history for the Genesis simulation.\nAs the simulation’s creators were finishing their work, things were falling apart across the world.\nThis wasn’t the only big simulation --\nthough it was one of the most sophisticated.\nI wonder what happened to those other simulations if and when they were knocked off the grid?",
+      "Trans": {"SC":"修复那个漏洞时, 我查看了创世模拟的版本历史。\n在模拟的创造者完成工作时, 整个世界正在分崩离析。\n这并不是唯一的大型模拟——\n不过确实是最复杂的之一。\n我很好奇, 如果那些其他模拟后来被切断电网, 它们都怎样了?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2135996633",
+      "Source": "You can thank -- or blame -- survivor six nine why four four two one for that glitch.\nShe liked making structures. \nWell, she was obsessed, if I’m being honest.\nShe somehow make a building with a corridor where two left turns equalled a right turn.\nYes, ninety degree turns.\nNo, I don’t know how that’s possible.\nI reckon that’s why it made a glitch.",
+      "Trans": {"SC":"这个漏洞, 你可以感谢——或责怪——编号六九Y四四二一的生存者。\n她喜欢建造建筑。\n老实说, 是痴迷。\n她不知怎么造出了一栋建筑, 里面有条走廊, 两个左转等于一个右转。\n没错, 九十度转弯。\n不, 我也不知道这怎么可能。\n我猜这就是它造成漏洞的原因。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1088650228",
+      "Source": "You can’t tell with all the bloody violence around here,\nbut some elements of the Genesis simulation were originally intended to be educational.\nNot that you’ll find a classroom or a learning pod around here, but before everything collapsed,\nstudents would routinely learn geology, biology, and other sciences by wandering around environments like this.\nHmm. Maybe I can pick up a computer science credit for fixing that glitch.",
+      "Trans": {"SC":"看着周围这么多血腥暴力, 你也许想不到, \n但创世模拟中的一些元素, 最初其实是教育用途。\n这里当然找不到教室或学习舱, 不过在一切崩溃之前, \n学生们经常通过漫游这类环境来学习地质学、生物学和其他科学。\n嗯。也许我修好那个漏洞, 还能拿个计算机科学学分。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3896574647",
+      "Source": "You feeling all right, mate?\n‘Cuz based on what I saw when I fixed that glitch, someone or something is trying to turn up aggression levels… in survivors.\nAggressive dinos? That I understand. It’s part of the test.\nBut why turn survivors against each other?\nI can’t tell whether the attempt worked or not.\nI suppose if everyone starts acting mad as cut snakes, we’ll know…",
+      "Trans": {"SC":"你还好吗, 伙计?\n因为根据我修好那个漏洞时看到的内容, 有人或某个东西正试图提高攻击性等级...在生存者身上。\n攻击性恐龙? 那我能理解。那是测试的一部分。\n可为什么要让生存者互相敌对?\n我不知道这个尝试有没有成功。\n我想如果所有人都开始像疯蛇一样发狂, 我们就会知道了...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1208326747",
+      "Source": "You survivors have a tenacity that surprises me. Even when you perish in this world, you respawn and try again.\nBut don’t be too proud of yourselves. Most survivors just rush right back to the site of their demise, only to die all over again.\nIt’s amusing to watch at first, but it quickly turns pathetic.\nAnother gap… it’s related to the glitches. \nI’m going to set up a backup system so at least I can observe what’s happening when I get “repossessed.”",
+      "Trans": {"SC":"你们生存者的韧性让我惊讶。即便在这个世界里死亡, 你们也会重生再来。\n但别太得意。大多数生存者只会立刻冲回自己死掉的地方, 然后再死一次。\n一开始看着挺有趣, 很快就变得可悲了。\n又一段空白...和这些漏洞有关。\n我要搭建一个备份系统, 这样至少我在被“重新占据”时, 也能观察发生了什么。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2721851446",
+      "Source": "You survivors have the most interesting minds --\nalways striving to see more, do more, be more.\nNot everyone is like that. Some people didn’t thrive when their minds were transferred into simulations like this one.\nAccording to the files I just saw, living in a sim exacerbated their ordinary bad habits:\nlaziness, poor impulse control, that sort of thing.\nPart of them knew the simulation wasn’t real, I reckon, and that took their worst urges off the leash.\nLet’s hope we don’t meet survivors like that here.",
+      "Trans": {"SC":"你们生存者的意识真有意思——\n总想着看得更多、做得更多、成为更多。\n但不是每个人都这样。有些人把意识转入这种模拟后, 并没有变得更好。\n按我刚才看到的文件, 活在模拟中反而放大了他们平常的坏习惯:n懒惰、冲动控制差, 那类东西。\n我猜他们心里有一部分知道模拟不是真的, 于是最坏的冲动就脱了缰。\n希望我们别在这里碰到那种生存者。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1375025259",
+      "Source": "You think you're winning? [Chortles]. I'd rather destroy the entire simulation than let you win!",
+      "Trans": {"SC":"你以为自己要赢了? [低笑] 我宁愿毁掉整个模拟, 也不会让你赢!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3683192599",
+      "Source": "You've been doing well so far.\nAll this “live, thrive, and survive” stuff here in the Genesis simulation seems to suit you! \nAnd good thing, too. \nThat glitch I just fixed was a byproduct of someone increasing test difficulties across the board. No idea why anyone would do that.\nDoesn’t it make the data all bodgy if you change the rules halfway through?\nNo worries for us, anyway.\nWe’ll pass every test they throw our way!",
+      "Trans": {"SC":"到目前为止, 你干得不错。\n创世模拟里这些“活下去、繁荣、求生”的东西, 似乎很适合你!\n这也是好事。\n我刚修好的那个漏洞, 是有人全面提高测试难度后的副产物。不知道谁会这么干。\n中途改规则, 不会把数据搞得一团糟吗?\n不过我们不用担心。\n他们扔来什么测试, 我们就通过什么!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3094907286",
+      "Source": "Your Dad’s more the punch first, ask-questions-never type, so who can say. ",
+      "Trans": {"SC":"你爸啊, 更像是先出拳、永远不问问题的那种人, 谁说得准呢。 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3572268568",
+      "Source": "Your creator, Helena, didn't foresee my involvement, but she should have. She knew me quite well, and she was always underestimating me. I look forward to telling her you failed.",
+      "Trans": {"SC":"你的创造者海莲娜没料到我会插手——可她本该想到。她很了解我, 却总是低估我。等告诉她你失败的消息时, 我会很享受。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1499066558",
+      "Source": "Your dad’s more the punch first, ask-questions-never type, so who can say. ",
+      "Trans": {"SC":"你爸啊, 更像是先出拳、永远不问问题的那种人, 谁说得准呢。 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::858071212",
+      "Source": "Your successes are nothing I haven’t seen before. Gathering, hunting, invention… all safely in the middle of the bell curve for someone with your experience. Aren’t you going to try to impress me?\nGah! I think I’m getting better at giving our intruder the flick.",
+      "Trans": {"SC":"你的成功没什么我没见过的。采集、狩猎、发明...以你的经验来看, 都安全地落在钟形曲线中央。你就不打算让我印象深刻一点吗?\n呃!我觉得我越来越擅长把我们的入侵者踢出去了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::881530985",
+      "Source": "You’re starting to struggle, aren’t you? Look at what you’re wearing, what you’re eating, how you carry yourself. That veneer of civilization is slipping away. And that’s fine. You won’t need civilization where you’re going.\nHim again!\nI’d… I’d… I’d like to tell him where to go. Hmph.",
+      "Trans": {"SC":"你开始吃力了, 对吧? 看看你穿的东西、吃的东西, 还有你的举止。文明那层薄薄的外壳正在剥落。没关系。你要去的地方不需要文明。\n又是他!\n我...我...我真想告诉他该滚到哪里去。哼。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3464823736",
+      "Source": "You’ve managed to fashion some primitive tools to aid in your survival. So have I -- but the tools I’m making will alter the very foundation of your world. Right now, my tools are likewise primitive -- but I’m learning, and soon I’ll have a harsh lesson or two for you.\nI’ve got another gap in my processes. \nIt happened again, didn’t it?",
+      "Trans": {"SC":"你已经成功打造出一些原始工具, 帮助自己生存。我也一样——但我制造的工具, 会改变你们这个世界的根基。现在我的工具同样原始——可我正在学习, 很快就会给你上一两堂严酷的课。\n我的进程里又出现了一段空白。\n又发生了, 对吧?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3735396577",
+      "Source": "You’ve probably noticed that the Genesis simulation is a dangerous place. \nJust staying safe and somewhat comfortable is a challenge,\nand there’s always some new crisis to deal with.\nApparently, that’s on purpose. The simulation is designed to keep you under constant pressure so your mind stays sharp and you learn survival skills.\nAnd it’s all in anticipation of the Arrival -- whatever that is.",
+      "Trans": {"SC":"你大概已经注意到, 创世模拟是个危险的地方。\n想保持安全和稍微舒适都很困难, \n而且总有新的危机要处理。\n显然, 这是有意为之。模拟系统被设计成让你持续承压, 使你的头脑保持敏锐, 并学会生存技巧。\n这一切都是为了迎接“抵达”——不管那到底是什么。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1445218587",
+      "Source": "[Alarm clock sound, getting more strident, then stopping suddenly.]\nI think that glitch was one of the creators of the simulation,\nhitting something called a “snooze button.” \nYou’ll have to explain that one to me later.",
+      "Trans": {"SC":"[闹钟声越来越刺耳, 然后突然停止。]\n我觉得那个漏洞来自模拟系统的某位创造者, \n他按下了某个叫“贪睡按钮”的东西。\n这个以后你得给我解释一下。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1852339472",
+      "Source": "[a long string of scrambled gibberish syllables.]\nOh my! Did I do that? \nThat glitch left a bit of an aftertaste. I feel a bit rotten.",
+      "Trans": {"SC":"[一长串混乱的乱码音节。]\n哎呀! 那是我干的吗?\n那个漏洞留下了一点余味。我感觉有点糟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4002246538",
+      "Source": "[long string of scrambled gibberish syllables.]\n[HLN-A belches.]\nSorry! That glitch didn’t want to stay down.",
+      "Trans": {"SC":"[一长串混乱的无意义音节。]\n[HLN-A打了个嗝。]\n抱歉! 那个漏洞可不愿意乖乖消停。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::787241514",
+      "Source": "[short string of gibberish.]\nPuhh tuhh kuhh tuhh. Puhh tuhh kuhh tuhh.\nBuhh duhh guhh duhh. Buhh duhh guhh duhh.\nWalla walla. Walla walla.\nRed leather, yellow leather, red leather, yellow leather\nAhem. Had to reboot my voice after that glitch.\nNow I’m all sorted.",
+      "Trans": {"SC":"[一小段胡乱音节。]\n噗、吐、咔、吐。噗、吐、咔、吐。\n布、杜、古、杜。布、杜、古、杜。\n哇啦哇啦。哇啦哇啦。\n红皮革, 黄皮革, 红皮革, 黄皮革\n咳。那个漏洞之后我得重启一下声音。\n现在好了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3128100276",
+      "Source": "‘A’ole no e lawa ka makaukau ma ho’okahi wale no olelo.\nThat means “One language is never enough.”\nAnd that glitch had heaps of languages inside it, apparently.",
+      "Trans": {"SC":"‘A’ole no e lawa ka makaukau ma ho’okahi wale no olelo.\n意思是: “只懂一种语言永远不够。”\n而那个漏洞里显然塞满了各种语言。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3364339961",
+      "Source": "你好，我叫HLN-A，是一种分形人格。我将全程引导你。听我的话，兴许能让你好好活着——因为我也是新手。", //?
+      "Trans": {"SC":"你好, 我叫HLN-A, 是一种分形人格。我将全程引导你。听我的话, 兴许能让你好好活着——因为我也是新手。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::3111342066",
       "Source": "Fancy Pirate Boots",
       "Trans": {"SC":"华丽海盗长靴","JA":""},
@@ -3232,7 +5998,7 @@
     {
       "NamespaceHash": "Content::4029354351",
       "Source": "You can use this to skin the appearance of a Spear or Pike into a Shepherd Crook. Am I holding this right?",
-      "Trans": {"SC":"你可以用此物品将长矛或金属长矛更改为牧羊杖的外观。我手持的方式对吗？","JA":""},
+      "Trans": {"SC":"你可以用此物品将长矛或金属长矛更改为牧羊杖的外观。我手持的方式对吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3370,7 +6136,7 @@
     {
       "NamespaceHash": "GraphLiteral::1163102949",
       "Source": "You’re the monster here... you must see that!",
-      "Trans": {"SC":"真正的怪物是你……你难道看不见吗？","JA":""},
+      "Trans": {"SC":"真正的怪物是你...你难道看不见吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -69744,7 +72510,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusA_MilestoneDescription",
       "Source": "Tame 3 Palaeoctopus",
-      "Trans": {"SC":"驯服3只古章鱼","JA":""},
+      "Trans": {"SC":"驯服3只古蛸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"731898538"}
     },
     {
@@ -70050,7 +72816,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusHighLvl_MilestoneDescription",
       "Source": "Tame 1 Palaeoctopus at level 135+",
-      "Trans": {"SC":"驯服1只135级以上的古章鱼","JA":""},
+      "Trans": {"SC":"驯服1只135级以上的古蛸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2719424802"}
     },
     {
