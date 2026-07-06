@@ -47983,24 +47983,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3815541012",
-      "Source": "[ Damage detected ]",
-      "Trans": {"SC":"[检测到受损]","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::433782864",
-      "Source": "[ Full Repair Mode Active ]",
-      "Trans": {"SC":"[完全修复模式已激活]","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::883432931",
-      "Source": "[ SEVERE DAMAGE DETECTED ]",
-      "Trans": {"SC":"[检测到严重受损]","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::3859530149",
       "Source": "[Armor]",
       "Trans": {"SC":"[护甲]","JA":""},

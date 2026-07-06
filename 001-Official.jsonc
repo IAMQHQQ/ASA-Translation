@@ -1,6 +1,462 @@
 {
   "Official": [
     {
+      "NamespaceHash": "GraphLiteral::4139983458",
+      "Source": "Increase Health Buffer Threshold From: ",
+      "Trans": {"SC":"生命缓冲阈值上调自: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1158506378",
+      "Source": "Decrease Health Buffer Threshold From: ",
+      "Trans": {"SC":"生命缓冲阈值下调自: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::150788354",
+      "Source": "Ferox (Transformed)", //基因枪
+      "Trans": {"SC":"猿狐 (变身形态)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2280601145",
+      "Source": "Ship", //基因枪
+      "Trans": {"SC":"船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1368277976",
+      "Source": "Force Up To: ",
+      "Trans": {"SC":"功率增加至: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2295842610",
+      "Source": "Force Down To: ",
+      "Trans": {"SC":"功率减少至: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1646691605",
+      "Source": "Treasure!",
+      "Trans": {"SC":"宝藏!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1132990484",
+      "Source": "Check the map!",
+      "Trans": {"SC":"看地图!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3182203995",
+      "Source": "Pretty bird",
+      "Trans": {"SC":"漂亮小鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3830424460",
+      "Source": "Ahoy!",
+      "Trans": {"SC":"啊嘿!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::915571008",
+      "Source": "Aye, Aye!",
+      "Trans": {"SC":"收到! 收到!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3034362238",
+      "Source": "Savvy?",
+      "Trans": {"SC":"懂了吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3366005897",
+      "Source": "Walk the plank!",
+      "Trans": {"SC":"扔去喂鱼!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3741890337",
+      "Source": "[ ASSESSING DAMAGE :: Repairing disabled! ]",
+      "Trans": {"SC":"[ 正在评估受损程度 :: 已禁用修复! ]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3815541012",
+      "Source": "[ Damage detected ]",
+      "Trans": {"SC":"[ 检测到受损 ]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::433782864",
+      "Source": "[ Full Repair Mode Active ]",
+      "Trans": {"SC":"[ 完全修复模式已激活 ]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::883432931",
+      "Source": "[ SEVERE DAMAGE DETECTED ]",
+      "Trans": {"SC":"[ 检测到严重受损 ]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3819723418",
+      "Source": "Force: {val}%",
+      "Trans": {"SC":"功率: {val}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2309180660",
+      "Source": "Do Noting",
+      "Trans": {"SC":"无操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1487544735",
+      "Source": "Change Shape To Dome",
+      "Trans": {"SC":"切换为穹顶形状","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2589773531",
+      "Source": "Change Shape To Cube",
+      "Trans": {"SC":"切换为立方体形状","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1786383378",
+      "Source": "Enhanced Regeneration",
+      "Trans": {"SC":"强化再生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "D73E9254488D60A0DE17BDB293B89816",
+      "Source": "Reversal",
+      "Trans": {"SC":"再生逆转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1612727356"}
+    },
+    {
+      "NamespaceHash": "CBAC0F3E4E9BD03C1F5E688ACC6C2DFD",
+      "Source": "Stasis",
+      "Trans": {"SC":"再生静滞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1368698129"}
+    },
+    {
+      "NamespaceHash": "A5F038454D2BF30ADBF8A2BEEA76E738",
+      "Source": "Dispell",
+      "Trans": {"SC":"净化恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2578635319"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3313754671",
+      "Source": "Regenerative Reversal",
+      "Trans": {"SC":"再生逆转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3980895800",
+      "Source": "Regenerative Stasis",
+      "Trans": {"SC":"再生静滞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3980895800",
+      "Source": "Regenerative Stasis",
+      "Trans": {"SC":"再生静滞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::19374394",
+      "Source": "Regenerative Zone",
+      "Trans": {"SC":"再生领域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3874896428",
+      "Source": "Restorative Dispell",
+      "Trans": {"SC":"净化恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::424539165",
+      "Source": "Prevents damage reducing below 25% and converts damage taken into a heal over time",
+      "Trans": {"SC":"防止伤害将生命值降至25%以下, 并将受到的伤害转化为持续治疗效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2609087709",
+      "Source": "Life Sense",
+      "Trans": {"SC":"生命感知","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "AD81FD344367AA554AB6BC86964A31D0",
+      "Source": "Zone",
+      "Trans": {"SC":"再生领域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1125023708"}
+    },
+    {
+      "NamespaceHash": "F27C14384696D5023DBFB9BE3E48A92B",
+      "Source": "Lunge",
+      "Trans": {"SC":"突进","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1536260602"}
+    },
+    {
+      "NamespaceHash": "Content::4204269302",
+      "Source": "Increased health recovery when idle, in water, or both",
+      "Trans": {"SC":"闲置时、处于水中时, 或两者兼具时, 生命恢复效果提高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1625939100",
+      "Source": "You must own Tides of Fortune to access this structure",
+      "Trans": {"SC":"你必须拥有 命运之潮 才能解锁该建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3063368849",
+      "Source": "You must own Tides of Fortune to access this structure's inventory",
+      "Trans": {"SC":"你必须拥有 命运之潮 才能打开该建筑的物品栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::348804907",
+      "Source": "You must own ARK: Tides of Fortune to access this content, go to the store page?",
+      "Trans": {"SC":"你必须拥有 命运之潮 才能解锁该内容, 是否需要前往商店?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3156126812",
+      "Source": "You must own {0} to access this structure's inventory",
+      "Trans": {"SC":"你必须拥有 {0} 才能打开该建筑的物品栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1467431584",
+      "Source": "You must own {0} to clone this creature.",
+      "Trans": {"SC":"必须拥有 {0} 才能克隆该生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1056645752",
+      "Source": "You must own {0} to tame this creature",
+      "Trans": {"SC":"你必须拥有 {0} 才能驯服该生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::108367226",
+      "Source": "You must own {0} to claim this creature",
+      "Trans": {"SC":"你必须拥有 {0} 才能认养该生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3734396587",
+      "Source": "You must own {0} to ride this creature",
+      "Trans": {"SC":"你必须拥有 {0} 才能骑乘该生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::648636491",
+      "Source": "You must own {0} to pick up this creature",
+      "Trans": {"SC":"你必须拥有 {0} 才能捡起该生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1916176739",
+      "Source": "You must own {0} to access this creature's inventory",
+      "Trans": {"SC":"你必须拥有 {0} 才能打开该生物的物品栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2968088691",
+      "Source": "YYou must own {0} use this ability.",
+      "Trans": {"SC":"你必须拥有 {0} 才能使用这项能力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::736459322",
+      "Source": "You must own ARK: ",
+      "Trans": {"SC":"你必须拥有方舟: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2890436803",
+      "Source": "To Use, you must own ARK: ",
+      "Trans": {"SC":"若要使用, 你必须拥有方舟: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::933718713",
+      "Source": "You must own {0} to access this content, go to the store page?",
+      "Trans": {"SC":"你必须拥有 {0} 才能解锁该内容, 是否需要前往商店?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::473986358",
+      "Source": "You must own {0} to craft this item",
+      "Trans": {"SC":"你必须拥有 {0} 才能制作该物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3657331148",
+      "Source": "You must own {0} to use this item",
+      "Trans": {"SC":"你必须拥有 {0} 才能使用这个物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2101026469",
+      "Source": "Treasure Hunt Distance",
+      "Trans": {"SC":"寻宝距离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::836356443",
+      "Source": "Treasure Hunt Tracking Types",
+      "Trans": {"SC":"追寻宝藏类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2944807503",
+      "Source": "Imitation Mode",
+      "Trans": {"SC":"模仿模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2767945018",
+      "Source": "Enable Imitation",
+      "Trans": {"SC":"启用模仿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::358958987",
+      "Source": "Disable Imitation",
+      "Trans": {"SC":"停止模仿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::742402153",
+      "Source": "Ruined Prison",
+      "Trans": {"SC":"废弃监狱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3962378524",
+      "Source": "Bone Reef Sanctuary",
+      "Trans": {"SC":"骨礁圣所","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1733634102",
+      "Source": "Pelagornis Race!",
+      "Trans": {"SC":"伪齿鸟竞速!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::293414632",
+      "Source": "Plunder Bay",
+      "Trans": {"SC":"掠夺湾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::716380074",
+      "Source": "Plunderer's Fort",
+      "Trans": {"SC":"掠夺者堡垒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1059294789",
+      "Source": "Plunderer's Watchpoint",
+      "Trans": {"SC":"掠夺者哨点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::107107239",
+      "Source": "Powerful ocean winds buffet the Hoverskiff, drastically reducing its speed and maneuverability.",
+      "Trans": {"SC":"强劲海风不断冲击悬浮艇, 大幅降低其速度与机动性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3468803331",
+      "Source": "Activating Mine",
+      "Trans": {"SC":"激活水雷","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1840030483",
+      "Source": "Already Evolved",
+      "Trans": {"SC":"已进化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4264655157",
+      "Source": "Cannot Evolve",
+      "Trans": {"SC":"无法进化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4200896803",
+      "Source": "Cannot Use This Map At This Time",
+      "Trans": {"SC":"当前无法使用此地图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3523006107",
+      "Source": "Cannot Charge ",
+      "Trans": {"SC":"无法蓄力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::318501110",
+      "Source": "Tidepup Cocoon : 0h",
+      "Trans": {"SC":"潮佑螈茧: 0h","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2233598330",
+      "Source": "Saltscar Falls",
+      "Trans": {"SC":"盐痕瀑布","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2399322037",
+      "Source": "Saltscar Reef",
+      "Trans": {"SC":"盐痕礁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2709115642",
+      "Source": "Saltscarred Spire",
+      "Trans": {"SC":"盐蚀尖塔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3742706726",
+      "Source": "Steppe Peaks",
+      "Trans": {"SC":"荒原群峰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3044436884",
+      "Source": "Store items that you want to trade",
+      "Trans": {"SC":"存放你想要交易的物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1016701007",
+      "Source": "Structure Destroyed!",
+      "Trans": {"SC":"建筑已摧毁!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4111551405",
+      "Source": "The Atoll Wreck",
+      "Trans": {"SC":"环礁沉骸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::3480347423",
       "Source": "Convert to Dye",
       "Trans": {"SC":"转化为染料","JA":""},
@@ -8,8 +464,8 @@
     },
     {
       "NamespaceHash": "Content::3833694002",
-      "Source": "按下 {Jump}",
-      "Trans": {"SC":"","JA":""},
+      "Source": "Press {Jump}",
+      "Trans": {"SC":"按下 {Jump}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -559,12 +1015,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3060440892",
-      "Source": "Ready to catch the big one, eh?",
-      "Trans": {"SC":"准备好钓大家伙了吗?","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::3009033387",
       "Source": "Ready to go! Get to the teleport zone!",
       "Trans": {"SC":"准备好了! 前往传送区域!","JA":""},
@@ -592,12 +1042,6 @@
       "NamespaceHash": "GraphLiteral::1869849503",
       "Source": "Race Checkpoint",
       "Trans": {"SC":"竞速检查点","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::4256636528",
-      "Source": "Rack off, you drongo! We got a battle to win.",
-      "Trans": {"SC":"滚开, 你这蠢货! 我们还有一场仗要赢。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -637,21 +1081,9 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3330050736",
-      "Source": "Other than the insanity and the big ugly head, you mean?",
-      "Trans": {"SC":"你是说除了疯狂和那颗丑陋的大脑袋之外?","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::86793252",
       "Source": "Okay, maybe Honker here went after you, but I was just chasing him down.",
       "Trans": {"SC":"好吧, 也许是哼哼先追着你跑, 但我只是追它追到这儿的。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3094119071",
-      "Source": "Now this is a relaxing spot for some fishing...",
-      "Trans": {"SC":"这里真是个放松钓鱼的好地方...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -745,12 +1177,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::1279677133",
-      "Source": "Looks like you got a rare one!",
-      "Trans": {"SC":"看来你钓到稀有货了!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::307537356",
       "Source": "Look -- we’re here! The Ever-Cave...",
       "Trans": {"SC":"看——到了! 永恒洞窟...","JA":""},
@@ -832,12 +1258,6 @@
       "NamespaceHash": "GraphLiteral::2737484473",
       "Source": "Did you feel a bit disjointed when you woke up in the simulation?\nThat’s normal. Your personality and your memories are stored in huge memory banks,\nand then they get combined with a physical body inside the Genesis simulation.\nOnce that combination of mind and body happens, though, you’re on your own.\nWell, you’ve got me, of course. That counts for something! ",
       "Trans": {"SC":"你在模拟中醒来时, 有没有感到一点割裂?\n这很正常。你的人格和记忆储存在巨大的记忆库里, \n然后它们会与创世模拟中的实体身体结合。\n不过一旦身心结合完成, 你就只能靠自己了。\n当然, 你还有我。这也算点帮助吧!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::268071838",
-      "Source": "Here’s our final test, survivor. Everything we did prepared us for this. But I’m detecting some recent edits in this part of the simulation...",
-      "Trans": {"SC":"这是我们的最终测试, 生存者。我们此前所做的一切, 都是为了这一刻。但我检测到模拟系统这一部分最近被人改动过...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1051,12 +1471,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2928787508",
-      "Source": "I can hack those shields open for a bit, but we’ll need keys for the codebreaker first.",
-      "Trans": {"SC":"我能暂时破解那些护盾, 但我们得先拿到解码器需要的钥匙。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1397535516",
       "Source": "I can see her -- Diana, I mean. At night, in my dreams. ",
       "Trans": {"SC":"我能看见她 -- 我是说黛安娜。晚上，在梦里。 ","JA":""},
@@ -1117,12 +1531,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::1751625448",
-      "Source": "Hacking in progress. I’ll have teleport coordinates soon.",
-      "Trans": {"SC":"黑入进行中。我很快就能拿到传送坐标。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::101168447",
       "Source": "Hang on -- We’ve been tracked.",
       "Trans": {"SC":"等等 -- 我们被跟踪了。","JA":""},
@@ -1144,12 +1552,6 @@
       "NamespaceHash": "GraphLiteral::2033361084",
       "Source": "Fiery Slam (Needs Hogs Wrath Active)",
       "Trans": {"SC":"烈焰重踏 (需要激活焰鬃之怒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1593993108",
-      "Source": "Fine -- We accept our inevitable triumph!",
-      "Trans": {"SC":"好吧——我们接受自己必然的胜利!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1327,18 +1729,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2896649302",
-      "Source": "Beauty of a catch!",
-      "Trans": {"SC":"好漂亮的一条鱼!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::4036127",
-      "Source": "Because we know something you don’t, mate.",
-      "Trans": {"SC":"因为我们知道你不知道的事, 伙计。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1592850400",
       "Source": "Behold! Your demise approaches! Ha ha ha ha ha...",
       "Trans": {"SC":"看吧! 你的末日正在逼近! 哈哈哈哈哈...","JA":""},
@@ -1366,12 +1756,6 @@
       "NamespaceHash": "GraphLiteral::1854337004",
       "Source": "Aw Meeka, that’s not what I meant.",
       "Trans": {"SC":"哎, 米卡, 我不是那个意思。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::187434678",
-      "Source": "Aw, don’t be so hard on yourself.",
-      "Trans": {"SC":"哎, 别对自己太苛刻。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1593,7 +1977,7 @@
     {
       "NamespaceHash": "Content::2939101451",
       "Source": "Treasure Hunter",
-      "Trans": {"SC":"寻宝猎人","JA":""},
+      "Trans": {"SC":"寻宝猎人","JA":"尋宝獵人"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1671,7 +2055,7 @@
     {
       "NamespaceHash": "Content::1769961536",
       "Source": "Tidepup Mounted",
-      "Trans": {"SC":"骑乘潮佑螈","JA":""},
+      "Trans": {"SC":"潮佑螈相伴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1750,12 +2134,6 @@
       "NamespaceHash": "Content::1421833254",
       "Source": "Increased health recovery and reduced oxygen consumption",
       "Trans": {"SC":"生命恢复提高, 氧气消耗降低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::4204269302",
-      "Source": "Increased health recovery when idle, in water, or both",
-      "Trans": {"SC":"待机、水中或同时满足两者时, 生命恢复提高","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1894,12 +2272,6 @@
       "NamespaceHash": "Content::2904961026",
       "Source": "Press E to fix the glitch.",
       "Trans": {"SC":"按E修复漏洞。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::424539165",
-      "Source": "Prevents damage reducing below 25% and converts damage taken into a heal over time",
-      "Trans": {"SC":"防止伤害将生命值降至25%以下, 并将所受伤害转化为持续治疗","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4201,6 +4573,24 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::457853349",
+      "Source": "Time feeding narcotic food!",
+      "Trans": {"SC":"可以投喂麻醉食物了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2300584120",
+      "Source": "Too early! Wait for the real bite!",
+      "Trans": {"SC":"太早了! 等它真正进食再喂!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2775228058",
+      "Source": "Put a narcotic food in Last Item Slot",
+      "Trans": {"SC":"将驯养麻醉食物放入最右侧的物品栏来喂养!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::2882342330",
       "Source": "The Dinos are being attacked!",
       "Trans": {"SC":"恐龙正在被攻击!","JA":""},
@@ -4339,9 +4729,15 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::2908755916",
+      "Source": "Tidepup's hunger", //我不理解
+      "Trans": {"SC":"潮佑螈疗愈消耗","JA":"潮佑螈療愈消耗"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::1202987456",
       "Source": "Tidepup consumes extra food after a healing attack.",
-      "Trans": {"SC":"潮佑螈在治疗攻击后会消耗额外食物。","JA":""},
+      "Trans": {"SC":"潮佑螈每次给予治疗后, 都会额外消耗自身食物值。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4366,12 +4762,6 @@
       "NamespaceHash": "GraphLiteral::3122288957",
       "Source": "That glitch is fixed. \nPity it was hard to reach. This biome is such a dismal place to get around in!\nYou humans must be used to life in the swamp, eh?\nAfter all, that’s where you come from. The Fertile Crescent was a swamp before the first humans drained it for agriculture.\nMakes me wonder whether you survivors are planning to drain this bog too...",
       "Trans": {"SC":"漏洞修好了。\n可惜它的位置太难够到。这片生物群系真是难走得让人绝望!\n你们人类应该挺习惯沼泽生活吧?\n毕竟你们就是从那里来的。最早的人类排干肥沃新月地带的沼泽, 才开始农业耕作。\n这让我不禁好奇, 你们生存者是不是也打算把这片沼泽排干...","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2883874624",
-      "Source": "That’s enough keys. I’ll start hacking us a teleport.",
-      "Trans": {"SC":"钥匙够了。我会开始黑入, 为我们弄出一次传送。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4483,18 +4873,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2202208242",
-      "Source": "Why are you laughing? We’re the ones winning around here!",
-      "Trans": {"SC":"你笑什么? 现在占上风的是我们!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3398825664",
-      "Source": "Why not? It’s all a simulation, innit?",
-      "Trans": {"SC":"为什么不呢? 这一切都是模拟, 不是吗?","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1116301210",
       "Source": "Why would you take a test that you cannot possibly pass?",
       "Trans": {"SC":"为什么要参加一场你绝不可能通过的测试?","JA":""},
@@ -4510,18 +4888,6 @@
       "NamespaceHash": "GraphLiteral::2250658774",
       "Source": "Yeah kid, I’m with ya. All the way.",
       "Trans": {"SC":"当然, 孩子, 我跟你一起。一直到最后。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3027722612",
-      "Source": "Yes, there are. You just never learned them.",
-      "Trans": {"SC":"有的。只是你从没学会。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::287671309",
-      "Source": "You call this punishment? We can do this all day!",
-      "Trans": {"SC":"这也叫惩罚? 我们能打一整天!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4570,24 +4936,6 @@
       "NamespaceHash": "GraphLiteral::2115180030",
       "Source": "You must own {0} to evolve this creature",
       "Trans": {"SC":"你必须拥有{0}才能进化此生物","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1269595501",
-      "Source": "You’re in second -- don’t hold back!",
-      "Trans": {"SC":"你现在第二 -- 别松劲!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2926075058",
-      "Source": "You’re in third. Pick up the pace!",
-      "Trans": {"SC":"你排第三。加快速度!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::284674323",
-      "Source": "You’re winning! Good on ya!",
-      "Trans": {"SC":"你领先了! 干得好!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4723,12 +5071,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::432663412",
-      "Source": "This is the last stage -- take down that… whatever-it-is over there, and we pass the final test.",
-      "Trans": {"SC":"这是最后阶段——干掉那边那个...不管是什么的东西, 我们就能通过最终测试。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::967551162",
       "Source": "This relates to curseforge block requests, not cosmetic suppression.",
       "Trans": {"SC":"这与CurseForge屏蔽请求有关, 并非外观屏蔽。","JA":""},
@@ -4741,21 +5083,9 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3220644366",
-      "Source": "We’re about to teleport. You ready?",
-      "Trans": {"SC":"我们就要传送了。准备好了吗?","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::4037410918",
       "Source": "We’re always gonna look after you, not just on account of you being the chief’s little girl...",
       "Trans": {"SC":"我们会一直照看你的, 不只是因为你是族长的小姑娘...","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::864427710",
-      "Source": "We’re in last. Come on now!",
-      "Trans": {"SC":"我们垫底了。快点!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4768,12 +5098,6 @@
       "NamespaceHash": "GraphLiteral::1233826500",
       "Source": "What she brought the team was... well, she took the weight of the world onto her shoulders like someone would slip on a sweater.",
       "Trans": {"SC":"她给队伍带来的东西是...怎么说呢, 她把整个世界的重量往肩上一扛, 就像别人披件毛衣那么自然。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2640339114",
-      "Source": "What, doomed to hear you drone on and on and on…? I hope not!",
-      "Trans": {"SC":"什么, 注定要听你没完没了地唠叨...? 希望不是!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4924,6 +5248,12 @@
       "NamespaceHash": "Content::940797081",
       "Source": "Parrot Taming",
       "Trans": {"SC":"鹦鹉驯服","JA":"鸚鵡馴服"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4116395369",
+      "Source": "You are able to tame the Parrot on your shoulder by killing Alpha Creatures--or by looting a Supply Drop, Cave Crate, Treasure Bottle, or Pirate Ship.",
+      "Trans": {"SC":"你可以通过击杀精英生物, 或搜刮补给空投、洞穴宝箱、藏宝瓶、海盗船，来驯服肩上的鹦鹉。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5864,12 +6194,6 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2477212714",
-      "Source": "Got some hexagons you’re keen to spend?",
-      "Trans": {"SC":"手里攒了不少六边形货币, 正打算花掉吗?","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::3460530355",
       "Source": "Hexagons",
       "Trans": {"SC":"六角币","JA":""},
@@ -5951,6 +6275,12 @@
       "NamespaceHash": "GraphLiteral::3765427751",
       "Source": "SKILL TREES",
       "Trans": {"SC":"技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3013888647",
+      "Source": "Tides of Fortune",
+      "Trans": {"SC":"命运之潮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -28750,13 +29080,13 @@
     {
       "NamespaceHash": "Content::1851996759",
       "Source": "You must own Lost Colony to access this structure's inventory",
-      "Trans": {"SC":"你必须拥有“失落之地”才能打开该建筑的物品栏","JA":""},
+      "Trans": {"SC":"你必须拥有 “失落之地” 才能打开该建筑的物品栏","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1436777486",
       "Source": "You must own Lost Colony Expansion Pass to access this structure's inventory",
-      "Trans": {"SC":"你必须拥有“失落之地”才能打开该建筑的物品栏","JA":""},
+      "Trans": {"SC":"你必须拥有 “失落之地” 才能打开该建筑的物品栏","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32424,9 +32754,15 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "GraphLiteral::2674724919",
+      "Source": "Animated Pack",
+      "Trans": {"SC":"动画包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::2674724919",
       "Source": "Animated Pack",
-      "Trans": {"SC":"动画包 (Animated Pack)","JA":""},
+      "Trans": {"SC":"动画包","JA":""},
       //因为感觉没必要翻译, 所以仅作为日后可能翻译的保留.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -76686,7 +77022,7 @@
     {
       "NamespaceHash": "GraphLiteral::480384702",
       "Source": "Hello I’m HLN-A, a fractal personality designed to be your guide. Just listen to me, and you won’t get yourself killed... Probably... I’m new at this, too.  ",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"你好, 我叫HLN-A, 是一种分形人格。我将全程引导你。听我的话，兴许能让你好好活着 —— 因为我也是新手。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_cinematic_firstspawn_01_en
     },
@@ -77822,7 +78158,7 @@
     {
       "NamespaceHash": "GraphLiteral::1751625448",
       "Source": "Hacking in progress. I’ll have teleport coordinates soon.",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"黑入进行中。我很快就能拿到传送坐标。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_bot_codebreak_start_01
     },
@@ -77871,7 +78207,7 @@
     {
       "NamespaceHash": "GraphLiteral::2883874624",
       "Source": "That’s enough keys. I’ll start hacking us a teleport.",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"钥匙够了。我会开始黑入, 为我们弄出一次传送。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_bot_key_enough
     },
@@ -77940,14 +78276,14 @@
     {
       "NamespaceHash": "GraphLiteral::432663412",
       "Source": "This is the last stage -- take down that… whatever-it-is over there, and we pass the final test.",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"这是最后阶段——干掉那边那个...不管是什么的东西, 我们就能通过最终测试。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_bot_opening_final
     },
     {
       "NamespaceHash": "GraphLiteral::268071838",
       "Source": "Here’s our final test, survivor. Everything we did prepared us for this. But I’m detecting some recent edits in this part of the simulation...",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"这是我们的最终测试, 生存者。我们此前所做的一切, 都是为了这一刻。但我检测到模拟系统这一部分最近被人改动过...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_bot_opening_stage
     },
@@ -77996,7 +78332,7 @@
     {
       "NamespaceHash": "GraphLiteral::2928787508",
       "Source": "I can hack those shields open for a bit, but we’ll need keys for the codebreaker first.",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"我能暂时破解那些护盾, 但我们得先拿到解码器需要的钥匙。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_bot_shield_instrux
     },
@@ -78052,7 +78388,7 @@
     {
       "NamespaceHash": "GraphLiteral::3220644366",
       "Source": "We’re about to teleport. You ready?",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"我们就要传送了。准备好了吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_bot_teleport_imminent
     },
@@ -78196,20 +78532,6 @@
       "Source": "We’re making progress. Moeder is definitely wounded.",
       "Trans": {"SC":"我们有进展。莫德尔肯定受伤了。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2933761901",
-      "Source": "Strewth, Moeder is hurting, but she’s not done yet...",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //s_hlna_mission_deep_weakness_a_g06_02_en
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1635749471",
-      "Source": "Moeder’s on her last legs! Er, you know what I mean…",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //s_hlna_mission_deep_weakness_a_g06_03_en
     },
     {
       "NamespaceHash": "GraphLiteral::2933761901",
@@ -78563,7 +78885,7 @@
     {
       "NamespaceHash": "GraphLiteral::1279677133",
       "Source": "Looks like you got a rare one!",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"看来你钓到稀有货了!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_fish_hooked_gold
     },
@@ -78591,14 +78913,14 @@
     {
       "NamespaceHash": "GraphLiteral::3060440892",
       "Source": "Ready to catch the big one, eh?",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"准备好钓大家伙了吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_fish_start_big
     },
     {
       "NamespaceHash": "GraphLiteral::3094119071",
       "Source": "Now this is a relaxing spot for some fishing...",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"这里真是个放松钓鱼的好地方...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //s_hlna_mission_fish_start_relax
     },
@@ -79032,12 +79354,6 @@
       "NamespaceHash": "GraphLiteral::760076467",
       "Source": "This was harder than I thought it’d be.",
       "Trans": {"SC":"这比我预想中难多了。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2714081017",
-      "Source": "Good on ya!",
-      "Trans": {"SC":"你真棒!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -79949,139 +80265,135 @@
   ],
   "HLN-A_Store": [
     {
-      "entries": [
-        {
-          "NamespaceHash": "GraphLiteral::442239732",
-          "Source": "Ka-ching!",
-          "Trans": {"SC":"已收款!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_buy_01
-        },
-        {
-          "NamespaceHash": "GraphLiteral::3301813665",
-          "Source": "That’ll do ya right!",
-          "Trans": {"SC":"明智之选!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_buy_02
-        },
-        {
-          "NamespaceHash": "GraphLiteral::1277655960",
-          "Source": "Ripper of a choice!",
-          "Trans": {"SC":"眼光独到!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_buy_03
-        },
-        {
-          "NamespaceHash": "GraphLiteral::288484053",
-          "Source": "I made some changes to the exchange.",
-          "Trans": {"SC":"店铺调整啦","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_change_01
-        },
-        {
-          "NamespaceHash": "GraphLiteral::1527688408",
-          "Source": "Have a look -- I made some changes.",
-          "Trans": {"SC":"看一看, 小店调整啦。","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_change_02
-        },
-        {
-          "NamespaceHash": "GraphLiteral::3021734021",
-          "Source": "Cheers, survivor!",
-          "Trans": {"SC":"慢走不送!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_close_01
-        },
-        {
-          "NamespaceHash": "GraphLiteral::1942325507",
-          "Source": "Let’s do this again!",
-          "Trans": {"SC":"欢迎下次光临!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_close_02
-        },
-        {
-          "NamespaceHash": "GraphLiteral::3759126975",
-          "Source": "Thanks, mate!",
-          "Trans": {"SC":"感谢惠顾!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_close_03
-        },
-        {
-          "NamespaceHash": "GraphLiteral::2756139544",
-          "Source": "I got some new bits and bobs for you.",
-          "Trans": {"SC":"店里进新货啦。","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_new_01
-        },
-        {
-          "NamespaceHash": "GraphLiteral::1193673644",
-          "Source": "New items in the exchange today.",
-          "Trans": {"SC":"今日上新啦。","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_new_02
-        },
-        {
-          "NamespaceHash": "GraphLiteral::75726031",
-          "Source": "Just browsing, eh?",
-          "Trans": {"SC":"随便看看?","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_nothing_01
-        },
-        {
-          "NamespaceHash": "GraphLiteral::4229236480",
-          "Source": "Nothing looks good?",
-          "Trans": {"SC":"没有看中的吗?","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_nothing_02
-        },
-        //{
-        //  "Source": "Nothing looks good?",
-        //  "Trans": {"SC":"没有什么想要的吗?","JA":""},
-        //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-        //},
-        {
-          "NamespaceHash": "GraphLiteral::1739740180",
-          "Source": "Come again soon!",
-          "Trans": {"SC":"下次保准让您满意!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_nothing_03
-        },
-        {
-          "NamespaceHash": "GraphLiteral::4274127865",
-          "Source": "Welcome to the Hexagon Exchange!",
-          "Trans": {"SC":"欢迎来到六角币兑换中心!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_open_01
-        },
-        {
-          "NamespaceHash": "GraphLiteral::291795139",
-          "Source": "G’day, survivor. Here’s what I’ve got.",
-          "Trans": {"SC":"生存者你好呀。来看看我的货吧。","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_open_02
-        },
-        {
-          "NamespaceHash": "GraphLiteral::2477212714",
-          "Source": "Got some hexagons you’re keen to spend?",
-          "Trans": {"SC":"是不是想花些钱呀?","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_open_03
-        },
-        {
-          "NamespaceHash": "GraphLiteral::1717286190",
-          "Source": "Lower prices today. Have a look!",
-          "Trans": {"SC":"今天特价。来瞧一瞧!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_sale_01
-        },
-        {
-          "NamespaceHash": "GraphLiteral::2657254992",
-          "Source": "I’ve got a sale on!",
-          "Trans": {"SC":"打折出售!","JA":""},
-          "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-          //s_hlna_store_sale_02
-        }
-      ]
+      "NamespaceHash": "GraphLiteral::442239732",
+      "Source": "Ka-ching!",
+      "Trans": {"SC":"已收款!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_buy_01
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3301813665",
+      "Source": "That’ll do ya right!",
+      "Trans": {"SC":"明智之选!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_buy_02
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1277655960",
+      "Source": "Ripper of a choice!",
+      "Trans": {"SC":"眼光独到!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_buy_03
+    },
+    {
+      "NamespaceHash": "GraphLiteral::288484053",
+      "Source": "I made some changes to the exchange.",
+      "Trans": {"SC":"店铺调整啦","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_change_01
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1527688408",
+      "Source": "Have a look -- I made some changes.",
+      "Trans": {"SC":"看一看, 小店调整啦。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_change_02
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3021734021",
+      "Source": "Cheers, survivor!",
+      "Trans": {"SC":"慢走不送!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_close_01
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1942325507",
+      "Source": "Let’s do this again!",
+      "Trans": {"SC":"欢迎下次光临!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_close_02
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3759126975",
+      "Source": "Thanks, mate!",
+      "Trans": {"SC":"感谢惠顾!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_close_03
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2756139544",
+      "Source": "I got some new bits and bobs for you.",
+      "Trans": {"SC":"店里进新货啦。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_new_01
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1193673644",
+      "Source": "New items in the exchange today.",
+      "Trans": {"SC":"今日上新啦。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_new_02
+    },
+    {
+      "NamespaceHash": "GraphLiteral::75726031",
+      "Source": "Just browsing, eh?",
+      "Trans": {"SC":"随便看看?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_nothing_01
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4229236480",
+      "Source": "Nothing looks good?",
+      "Trans": {"SC":"没有看中的吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_nothing_02
+    },
+    //{
+    //  "Source": "Nothing looks good?",
+    //  "Trans": {"SC":"没有什么想要的吗?","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    {
+      "NamespaceHash": "GraphLiteral::1739740180",
+      "Source": "Come again soon!",
+      "Trans": {"SC":"下次保准让您满意!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_nothing_03
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4274127865",
+      "Source": "Welcome to the Hexagon Exchange!",
+      "Trans": {"SC":"欢迎来到六角币兑换中心!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_open_01
+    },
+    {
+      "NamespaceHash": "GraphLiteral::291795139",
+      "Source": "G’day, survivor. Here’s what I’ve got.",
+      "Trans": {"SC":"生存者你好呀。来看看我的货吧。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_open_02
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2477212714",
+      "Source": "Got some hexagons you’re keen to spend?",
+      "Trans": {"SC":"是不是想花些钱呀?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_open_03
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1717286190",
+      "Source": "Lower prices today. Have a look!",
+      "Trans": {"SC":"今天特价。来瞧一瞧!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_sale_01
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2657254992",
+      "Source": "I’ve got a sale on!",
+      "Trans": {"SC":"打折出售!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //s_hlna_store_sale_02
     }
   ],
   "TidesOfFortune": [
