@@ -8787,13 +8787,13 @@
     {
       "NamespaceHash": "Content::2695174681",
       "Source": "Cosmic Power: {cur} - {cost} / {max}",
-      "Trans": {"SC":"Cosmic Power: {cur} - {cost} / {max}","JA":""},
+      "Trans": {"SC":"宇宙之力: {cur} - {cost} / {max}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::755884658",
       "Source": "Cosmic Power: {cur} / {max}",
-      "Trans": {"SC":"Cosmic Power: {cur} / {max}","JA":""},
+      "Trans": {"SC":"宇宙之力: {cur} / {max}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -18429,7 +18429,7 @@
     {
       "NamespaceHash": "Content::1107421618",
       "Source": "Hyperdrive",
-      "Trans": {"SC":"时空跃迁","JA":""},
+      "Trans": {"SC":"时空跃迁","JA":"時空躍迁"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22575,7 +22575,7 @@
     {
       "NamespaceHash": "Content::3475015102",
       "Source": "Magmasaur Prevent Freezing",
-      "Trans": {"SC":"熔岩龙免疫冰冻","JA":""},
+      "Trans": {"SC":"熔岩龙免疫冰冻","JA":"熔岩龙免疫冰凍"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

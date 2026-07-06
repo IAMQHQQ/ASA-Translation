@@ -1,6 +1,60 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::1941388251",
+      "Source": "Cargo",
+      "Trans": {"SC":"货物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3005586664",
+      "Source": "Place Dynamite",
+      "Trans": {"SC":"放置炸药","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2583089365",
+      "Source": " Infiltrate",
+      "Trans": {"SC":" 潜入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1603286542",
+      "Source": "Naval Assault",
+      "Trans": {"SC":"海上突袭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::112302861",
+      "Source": "Explosive Sabotage Progress",
+      "Trans": {"SC":"爆炸物破坏进度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2394301790",
+      "Source": "Not enough ",
+      "Trans": {"SC":"材料不足","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2789120015",
+      "Source": "Astrocetus Turret Ammo",
+      "Trans": {"SC":"星辰鲸炮塔弹药","JA":"星辰鯨炮塔彈藥"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::803121638",
+      "Source": "Hyperdrive Recharging: ",
+      "Trans": {"SC":"时空跃迁充能中: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3476672719",
+      "Source": "Cosmic Power: ",
+      "Trans": {"SC":"宇宙之力: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::4139983458",
       "Source": "Increase Health Buffer Threshold From: ",
       "Trans": {"SC":"生命缓冲阈值上调自: ","JA":""},
@@ -181,6 +235,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::4030699479",
+      "Source": "Regenerative Buffer",
+      "Trans": {"SC":"再生缓冲","JA":"再生緩冲"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::424539165",
       "Source": "Prevents damage reducing below 25% and converts damage taken into a heal over time",
       "Trans": {"SC":"防止伤害将生命值降至25%以下, 并将受到的伤害转化为持续治疗效果","JA":""},
@@ -220,6 +280,24 @@
       "NamespaceHash": "Globals::3063368849",
       "Source": "You must own Tides of Fortune to access this structure's inventory",
       "Trans": {"SC":"你必须拥有 命运之潮 才能打开该建筑的物品栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3063368849",
+      "Source": "You must own Tides of Fortune to access this structure's inventory",
+      "Trans": {"SC":"你必须拥有 命运之潮 才能打开该建筑的物品栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::4134038196",
+      "Source": "You must own the DLC to pick up this creature",
+      "Trans": {"SC":"你必须拥有该DLC才能捡起该生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1243980481",
+      "Source": "You must own the DLC to access this creature's inventory",
+      "Trans": {"SC":"你必须拥有该DLC才能打开该生物的物品栏","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -346,6 +424,42 @@
       "NamespaceHash": "Content::3962378524",
       "Source": "Bone Reef Sanctuary",
       "Trans": {"SC":"骨礁圣所","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2464962316",
+      "Source": "Spire Ponds",
+      "Trans": {"SC":"尖塔池","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4100215666",
+      "Source": "Tempest's Teeth",
+      "Trans": {"SC":"风暴之齿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1056439901",
+      "Source": "Shattered Mines",
+      "Trans": {"SC":"破碎矿井","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::995169682",
+      "Source": "Fortress",
+      "Trans": {"SC":"堡垒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1424728071",
+      "Source": "Ship Cannonball",
+      "Trans": {"SC":"舰炮弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2939210071",
+      "Source": "Ship Construction",
+      "Trans": {"SC":"船只建造","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2991,7 +3105,7 @@
     {
       "NamespaceHash": "GraphLiteral::3435352495",
       "Source": "Get ready to complete your animated collection! This extensive pack brings you a selection of creatures and characters, ensuring you're well on your way to a full set of skins based on ARK: The Animated Series. Dive in and deck out your ARK in animated style!",
-      "Trans": {"SC":"快来补全你的动画收藏! 这款大型外观包囊括多款生物与角色皮肤, 助你一步步集齐《方舟: 动画系列》主题外观。踏入方舟, 以动画风格装点你的世界!","JA":""},
+      "Trans": {"SC":"快来补全你的动画收藏! 这款大型外观包囊括多款生物与角色皮肤, 助你一步步集齐«方舟: 动画系列»主题外观。踏入方舟, 以动画风格装点你的世界!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
