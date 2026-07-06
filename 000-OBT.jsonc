@@ -50421,7 +50421,7 @@
     {
       "NamespaceHash": "Globals::4252494867",
       "Source": "Close ",
-      "Trans": {"SC":"关闭","JA":""},
+      "Trans": {"SC":"关闭 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
