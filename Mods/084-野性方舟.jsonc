@@ -1861,12 +1861,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::45885233",
-      "Source": "Adrenaline!",
-      "Trans": {"SC":"肾上腺素飙升！","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::354633479",
       "Source": "Adrenaline",
       "Trans": {"SC":"肾上腺素","JA":""},

@@ -9747,7 +9747,7 @@
     {
       "NamespaceHash": "Content::999150826",
       "Source": "Can be equipped in the Trophy slot within a dino.<#RN#><#RN#><#RN#>Can be further upgraded by applying Relic traits to it.",
-      "Trans": {"SC":"可装备在恐龙的战利品栏中。\\n\\n\\n可通过施加圣物特质进一步升级。","JA":""},
+      "Trans": {"SC":"可装备在恐龙的战利品栏中。\\n\\n\\n可通过施加圣物特性进一步升级。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10389,7 +10389,7 @@
     {
       "NamespaceHash": "Content::1265854612",
       "Source": "Alpha Multiplier<#RN#><#RN#><RichColor Color=\"1,0.25,0.25,1\">Trait must be applied in a Makeshift Megalab</>",
-      "Trans": {"SC":"精英倍率<#RN#><#RN#><RichColor Color=\"1,0.25,0.25,1\">特质必须在临时巨型实验室中应用</>","JA":""},
+      "Trans": {"SC":"精英倍率<#RN#><#RN#><RichColor Color=\"1,0.25,0.25,1\">特性必须在临时巨型实验室中应用</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10443,7 +10443,7 @@
     {
       "NamespaceHash": "Content::71677397",
       "Source": "A tool for finding nearby Creatures of a chosen species, scanning Creatures for Traits, extracting/implanting Traits.",
-      "Trans": {"SC":"一种用于寻找附近特定物种生物、扫描生物特质、提取/植入特质的工具。","JA":""},
+      "Trans": {"SC":"一种用于寻找附近特定物种生物、扫描生物特性、提取/植入特性的工具。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

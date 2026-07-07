@@ -1,5 +1,6 @@
 {
-  "A管理员工具": [//2026.6.21
+  "A管理员工具": [
+    //2026-7-7 17:25:55
     {
       "NamespaceHash": "Content::2805398202",
       "Source": "Spawn Items",
@@ -525,7 +526,7 @@
     {
       "NamespaceHash": "Content::3846055636",
       "Source": "Traits",
-      "Trans": {"SC":"特质","JA":""},
+      "Trans": {"SC":"特性","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -621,7 +622,7 @@
     {
       "NamespaceHash": "Content::2657656170",
       "Source": "Selected Traits",
-      "Trans": {"SC":"选定的特质","JA":""},
+      "Trans": {"SC":"选定的特性","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1641,7 +1642,7 @@
     {
       "NamespaceHash": "Content::3234858918",
       "Source": "Hide the whole admin menu from non-admins including the AATMenu button.\\n\\n\\nOff: Everyone can open the AATMenu.\\n\\nOn: Only admins can open the AATMenu.",
-      "Trans": {"SC":"对非管理员隐藏整个管理菜单（包括 AATMenu 按钮）。\\n\\n\\n 关闭：所有人均可打开 AATMenu。\\n\\n 开启：仅管理员可打开 AATMenu。","JA":""},
+      "Trans": {"SC":"对非管理员隐藏整个管理菜单（包括 AAT菜单 按钮）。\\n\\n\\n 关闭：所有人均可打开 AATMenu。\\n\\n 开启：仅管理员可打开 AAT菜单。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1833,13 +1834,13 @@
     {
       "NamespaceHash": "Content::2661564123",
       "Source": "A comma-seperated list of EosIDs of players.\\nAll players in this list can access the AATMenu in admin mode without having to log in as admin.\\n\\nNon-admins can also be given admin access to the menu in admin mode this way.\\n\\n\\n[AwesomeAdminTools]\\nAdminWhitelist=w8u7gb1s9gtggks5g1s, w7g8bs55h7d1fbd, e7g9b1s7f9gv1",
-      "Trans": {"SC":"以逗号分隔的玩家 EosID 列表。\\n 列表中的所有玩家无需以管理员身份登录，即可在管理员模式下访问 AATMenu。\\n\\n 也可通过此方式为非管理员赋予管理员模式下的菜单访问权限。\\n\\n\\n [AwesomeAdminTools]\\nAdminWhitelist=w8u7gb1s9gtggks5g1s, w7g8bs55h7d1fbd, e7g9b1s7f9gv1","JA":""},
+      "Trans": {"SC":"以逗号分隔的玩家 EosID 列表。\\n 列表中的所有玩家无需以管理员身份登录，即可在管理员模式下访问 AAT菜单。\\n\\n 也可通过此方式为非管理员赋予管理员模式下的菜单访问权限。\\n\\n\\n [AwesomeAdminTools]\\nAdminWhitelist=w8u7gb1s9gtggks5g1s, w7g8bs55h7d1fbd, e7g9b1s7f9gv1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::964205109",
       "Source": "Only players in the 'Admin Whitelist' will be able to access the AATMenu in admin mode.\\n\\n\\nOff: All admins and all players in the 'Admin Whitelist' can access the AATMenu in admin mode.\\n\\nOn: Only the players in the 'Admin Whitelist' can access the AATMenu in admin mode.\\n\\n\\n[AwesomeAdminTools]\\nAdminWhitelistRequired=false",
-      "Trans": {"SC":"仅 “管理员白名单” 中的玩家可在管理员模式下访问 AATMenu。\\n\\n\\n 关闭：所有管理员及 “管理员白名单” 中的所有玩家，均可在管理员模式下访问 AATMenu。\\n\\n 开启：仅 “管理员白名单” 中的玩家可在管理员模式下访问 AATMenu。\\n\\n\\n [AwesomeAdminTools]\\nAdminWhitelistRequired=false","JA":""},
+      "Trans": {"SC":"仅 “管理员白名单” 中的玩家可在管理员模式下访问 AAT菜单。\\n\\n\\n 关闭：所有管理员及 “管理员白名单” 中的所有玩家，均可在管理员模式下访问 AAT菜单。\\n\\n 开启：仅 “管理员白名单” 中的玩家可在管理员模式下访问 AAT菜单。\\n\\n\\n [AwesomeAdminTools]\\nAdminWhitelistRequired=false","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2279,7 +2280,7 @@
       "Source": "PlayerTarget (EosID or PlayerlD)",
       "Trans": {"SC":"玩家目标（EosID或PlayerID）","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },//2026.3.17更新
+    }, //2026.3.17更新
     {
       "NamespaceHash": "Content::1011822614",
       "Source": "Admin Large Tek Teleporter",
@@ -2599,12 +2600,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::2721769209",
-      "Source": "History",
-      "Trans": {"SC":"历史记录","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::2161836973",
       "Source": "Online Player",
       "Trans": {"SC":"在线玩家","JA":""},
@@ -2854,6 +2849,798 @@
       "NamespaceHash": "Content::2689354834",
       "Source": "Mutation",
       "Trans": {"SC":"突变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1818931748",
+      "Source": "Server",
+      "Trans": {"SC":"服务器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::315098708",
+      "Source": "Search By Player Name Or ID",
+      "Trans": {"SC":"按玩家名称或ID搜索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1291717778",
+      "Source": "Go To Tribe",
+      "Trans": {"SC":"前往部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2530616663",
+      "Source": "Scans the server for new dino classes.",
+      "Trans": {"SC":"扫描服务器以查找新的恐龙类别。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2705952837",
+      "Source": "Target",
+      "Trans": {"SC":"目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1087163215",
+      "Source": "Exact Stats",
+      //没生效
+      "Trans": {"SC":"精确属性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1729903308",
+      "Source": "Aggressive (cheat 1)",
+      "Trans": {"SC":"好斗 (作弊 1)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3918740783",
+      "Source": "Aggressive (cheat 2)",
+      "Trans": {"SC":"好斗 (作弊 2)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1973016110",
+      "Source": "Sign Out Admin",
+      "Trans": {"SC":"退出管理员","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3280844189",
+      "Source": "Duplicate Item",
+      "Trans": {"SC":"复制物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2384125009",
+      "Source": "Dupe Items",
+      //没生效
+      "Trans": {"SC":"复制物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4191215652",
+      "Source": "Select an item to duplicate.",
+      "Trans": {"SC":"选择一个要复制的物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::448251014",
+      "Source": "Zones",
+      "Trans": {"SC":"区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2082174948",
+      "Source": "Zone Type:",
+      "Trans": {"SC":"区域类型：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3702978957",
+      "Source": "Select Any Zone To Configure It",
+      "Trans": {"SC":"选择任意区域进行配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1444989560",
+      "Source": "Non Admin Object Types",
+      "Trans": {"SC":"非管理员对象类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3970178315",
+      "Source": "Supply Beacons",
+      //没生效
+      "Trans": {"SC":"补给信标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2045334908",
+      "Source": "Supply Crates",
+      //没生效
+      "Trans": {"SC":"补给箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3724587709",
+      "Source": "Any Structure",
+      //没生效
+      "Trans": {"SC":"任何建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1027830157",
+      "Source": "AATMenu Button Name",
+      "Trans": {"SC":"AAT菜单按钮名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3470167454",
+      "Source": "Renames the AATMenu button to a custom name.",
+      "Trans": {"SC":"将AAT菜单按钮重命名为自定义名称。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::406051562",
+      "Source": "Tamed Dino Name",
+      "Trans": {"SC":"已驯服恐龙名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3938919988",
+      "Source": "Dupe Selected Item",
+      "Trans": {"SC":"复制选中的物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3291161649",
+      "Source": "Hides the AATMenu button from the inventory.\\n\\nTHIS DOES NOT MAKE IT ADMIN ONLY\\n\\nSet all individual tabs to admin only for actual admin only.\\n\\n\\nOff: Everone can see the AATMenu button in the inventory.\\n\\nOn: Only admins can see the AATMenu button in the inventory.",
+      "Trans": {"SC":"从库存中隐藏AAT菜单按钮。<#N#><#N#>这并不会使其仅限管理员使用<#N#><#N#>将所有单独的选项卡设置为仅限管理员，以实现真正的仅限管理员。<#N#><#N#><#N#>关闭：所有人都可以在库存中看到AAT菜单按钮。<#N#><#N#>开启：只有管理员可以在库存中看到AAT菜单按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::723097602",
+      "Source": "INI Override",
+      "Trans": {"SC":"INI 覆盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3002416456",
+      "Source": "Online",
+      "Trans": {"SC":"在线","JA":""},
+      //没生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3317214507",
+      "Source": "Offline",
+      "Trans": {"SC":"离线","JA":""},
+      //没生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2721769209",
+      "Source": "History",
+      //没生效
+      "Trans": {"SC":"历史记录","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1096871152",
+      "Source": "Dino Classes",
+      "Trans": {"SC":"恐龙类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3762202319",
+      "Source": "Live Count",
+      "Trans": {"SC":"实时数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4060655175",
+      "Source": "Remove Dino Class",
+      "Trans": {"SC":"移除恐龙类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2633657527",
+      "Source": "Add Dino Class",
+      "Trans": {"SC":"添加恐龙类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::437355580",
+      "Source": "Scan Dino Classes",
+      "Trans": {"SC":"扫描恐龙类别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1348521279",
+      "Source": "Mails",
+      "Trans": {"SC":"邮件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::539996912",
+      "Source": "Saddled",
+      "Trans": {"SC":"装鞍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4209292217",
+      "Source": "ST",
+      "Trans": {"SC":"耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2602969189",
+      "Source": "OX",
+      "Trans": {"SC":"氧气","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1235704936",
+      "Source": "FO",
+      "Trans": {"SC":"食物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2517339577",
+      "Source": "WE",
+      "Trans": {"SC":"负重","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2710279070",
+      "Source": "DM",
+      "Trans": {"SC":"攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1694414058",
+      "Source": "Custom Pages",
+      "Trans": {"SC":"自定义页面","JA":""},
+      //没生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::333150831",
+      "Source": "A discord button will appear in the pause menu.",
+      "Trans": {"SC":"暂停菜单中会出现一个 Discord 按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1576066498",
+      "Source": "Welcome Message",
+      "Trans": {"SC":"欢迎信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::944840214",
+      "Source": "Welcome Panel Position",
+      "Trans": {"SC":"欢迎面板位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4054298621",
+      "Source": "Welcome Panel Size",
+      "Trans": {"SC":"欢迎面板大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2027014288",
+      "Source": "Adds a welcome message to the pause menu.",
+      "Trans": {"SC":"在暂停菜单中添加一条欢迎信息。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3586280498",
+      "Source": "Changes the position of the Welcome Panel in the Pause Menu.",
+      "Trans": {"SC":"更改暂停菜单中欢迎面板的位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3605981011",
+      "Source": "Changes the size of the Welcome Panel in the Pause Menu.",
+      "Trans": {"SC":"更改暂停菜单中欢迎面板的大小。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1745758710",
+      "Source": "Prevent Cheat Fly",
+      "Trans": {"SC":"防止作弊飞行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1969556983",
+      "Source": "Prevents non-admins from cheat-flying (cheat fly).\\nFixes the issue where players sometimes start to fly without reason.\\nLogs to server-log with the following message: \"[AAT] Prevented <PlayerName> from cheat-flying.\"\\n\\n\\nOn: non-admins won't be able to receive any cheat-fly buffs.\\n\\nOff: non-admins can receive cheat-fly buffs.",
+      "Trans": {"SC":"阻止非管理员玩家进行作弊飞行（cheat fly）。<#N#>修复玩家有时无故开始飞行的问题。<#N#>在服务器日志中记录以下信息：\"[AAT] 已阻止 <PlayerName> 进行作弊飞行。\"<#N#><#N#><#N#>开启：非管理员玩家将无法获得任何作弊飞行增益。<#N#><#N#>关闭：非管理员玩家可以获得作弊飞行增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2341908743",
+      "Source": "AATMenu - General",
+      "Trans": {"SC":"AAT菜单-通用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1458691676",
+      "Source": "Gives tribe owners the ability to destroy their own structures and dinos using the AATMenu in Tribes overview tab. In other words: Gives tribe owners admin powers over their own tribe.\\n\\n\\nOff: Tribe owners can not destroy their own tribe.\\n\\nOn: Tribe owners can destroy their own tribe.",
+      "Trans": {"SC":"赋予部落长在部落概览选项卡中使用AAT菜单摧毁自己部落建筑和恐龙的能力。换句话说：赋予部落长对自己部落的管理员权限。<#N#><#N#><#N#>关闭：部落长不能摧毁自己的部落。<#N#><#N#>开启：部落长可以摧毁自己的部落。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::405267726",
+      "Source": "Tribe Owner Can Cryo Own Tribe",
+      "Trans": {"SC":"部落长可冷冻自己部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3250768724",
+      "Source": "Gives tribe owners the ability to cryo their own dinos using the AATMenu in Structure/Tamed dinos overview tab. In other words: Gives tribe owners admin powers over their own tribe.\\n\\n\\nOff: Tribe owners can not cryo their own dinos.\\n\\nOn: Tribe owners can cryo their own dinos.",
+      "Trans": {"SC":"赋予部落长在建筑/已驯服恐龙概览选项卡中使用 AAT菜单 冷冻自己恐龙的能力。换句话说：赋予部落长对自己部落的管理员权限。<#N#><#N#><#N#>关闭：部落长不能冷冻自己的恐龙。<#N#><#N#>开启：部落长可以冷冻自己的恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2385645577",
+      "Source": "Hide Advanced Configuration",
+      "Trans": {"SC":"隐藏高级配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::968110593",
+      "Source": "Show Advanced Configuration",
+      "Trans": {"SC":"显示高级配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2025595416",
+      "Source": "AATMenu - Players",
+      "Trans": {"SC":"AAT菜单 - 玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4287440747",
+      "Source": "Coords of players will only be visible to admins.\\n\\n\\nOff: Everyone can see coords of players.\\n\\nOn: Non-admins can not see coords of players. They will also not be able to use the tracking system for these type of actors.",
+      "Trans": {"SC":"玩家的坐标将仅对管理员可见。<#N#><#N#><#N#>关闭：所有人都能看到玩家的坐标。<#N#><#N#>开启：非管理员无法看到玩家的坐标。他们也将无法对这些类型的角色使用追踪系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3956756755",
+      "Source": "AATMenu - Tribes",
+      "Trans": {"SC":"AAT菜单 - 部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3631759062",
+      "Source": "Hide the tribes tab from non-admins.\\n\\n\\nOff: Everyone can see the tribes tab.\\n\\nOn: Only admins can see the tribes tab.",
+      "Trans": {"SC":"隐藏部落标签页，使其对非管理员不可见。<#N#><#N#><#N#>关闭：所有人都能看到部落标签页。<#N#><#N#>开启：仅管理员能看到部落标签页。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2171660123",
+      "Source": "Coords of tribe bases and dinos will only be visible to admins.\\n\\n\\nOff: Everyone can see coords of tribe bases and dinos.\\n\\nOn: Non-admins can not see coords of tribe bases and dinos. They will also not be able to use the tracking system for these type of actors.",
+      "Trans": {"SC":"部落基地和恐龙的坐标将仅对管理员可见。<#N#><#N#><#N#>关闭：所有人都能看到部落基地和恐龙的坐标。<#N#><#N#>开启：非管理员无法看到部落基地和恐龙的坐标。他们也将无法对这些类型的角色使用追踪系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1176232998",
+      "Source": "AATMenu - Wild Dinos",
+      "Trans": {"SC":"AAT菜单 - 野生恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1104362345",
+      "Source": "Tab Admin Only",
+      "Trans": {"SC":"标签页仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3943412169",
+      "Source": "Coords Admin Only",
+      "Trans": {"SC":"坐标仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4188294390",
+      "Source": "Stats Admin Only",
+      "Trans": {"SC":"属性仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3710580363",
+      "Source": "Traits Admin Only",
+      "Trans": {"SC":"特性仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2907066479",
+      "Source": "Traits Quality Admin Only",
+      "Trans": {"SC":"特性品质仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4122416995",
+      "Source": "Level Admin Only",
+      "Trans": {"SC":"等级仅管理员可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1210581669",
+      "Source": "Location Random Offset",
+      "Trans": {"SC":"位置随机偏移","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1576222835",
+      "Source": "Should the stats of the dinos be hidden for non admins.\\n\\n\\nOff: Everyone can see the stats of wild dinos.\\n\\nOn: Only admins can see the stat of wild dinos.",
+      "Trans": {"SC":"是否对非管理员隐藏恐龙的属性。<#N#><#N#><#N#>关闭：所有人都能看到野生恐龙的属性。<#N#><#N#>开启：仅管理员能看到野生恐龙的属性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3551685569",
+      "Source": "Should the traits of the dinos be hidden for non admins.\\n\\n\\nOff: Everyone can see the traits of tamed and wild dinos.\\n\\nOn: Only admins can see the traits of tamed and wild dinos.",
+      "Trans": {"SC":"是否对非管理员隐藏恐龙的特性。<#N#><#N#><#N#>关闭：所有人都能看到已驯服和野生恐龙的特性。<#N#><#N#>开启：仅管理员能看到已驯服和野生恐龙的特性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2323662447",
+      "Source": "Should the quality of traits of the dinos be hidden for non admins.\\n\\n\\nOff: Everyone can see the quality of traits of tamed and wild dinos.\\n\\nOn: Only admins can see the quality of traits of tamed and wild dinos.",
+      "Trans": {"SC":"是否对非管理员隐藏恐龙特性的品质。<#N#><#N#><#N#>关闭：所有人都能看到已驯服和野生恐龙特性的品质。<#N#><#N#>开启：仅管理员能看到已驯服和野生恐龙特性的品质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::717914559",
+      "Source": "Should the level of dinos be hidden for non admins.\\n\\n\\nOff: Everyone can see the level of wild dinos.\\n\\nOn: Only admins can see the level of wild dinos.",
+      "Trans": {"SC":"是否对非管理员隐藏恐龙的等级。<#N#><#N#><#N#>关闭：所有人都能看到野生恐龙的等级。<#N#><#N#>开启：仅管理员能看到野生恐龙的等级。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2905818490",
+      "Source": "Adds a random offset to the location of dinos in the Wild Dinos tab.\\n\\n\\n3000: Adds a random offset of 10 foundations in every direction which means the selected dino could be anywhere in an area of 20 by 20 foundations.",
+      "Trans": {"SC":"为野生恐龙标签页中的恐龙位置添加随机偏移。<#N#><#N#><#N#>3000：在每个方向上添加10个地基的随机偏移，这意味着所选恐龙可能出现在20x20地基区域内的任何位置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2393063344",
+      "Source": "AATMenu - Admin Access",
+      "Trans": {"SC":"AAT菜单 - 管理员访问","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2474541695",
+      "Source": "INI only",
+      "Trans": {"SC":"仅INI","JA":""},
+      //没生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2308412452",
+      "Source": "No ID | Enable the Discord connection and/or check server logs starting with [AATb] for information.",
+      "Trans": {"SC":"无ID | 启用Discord连接和/或检查以[AATb]开头的服务器日志以获取信息。","JA":""},
+      //没生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::553831159",
+      "Source": "Server ID",
+      "Trans": {"SC":"服务器ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1772142082",
+      "Source": "Chat Box UI Status",
+      "Trans": {"SC":"聊天框UI状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::620064128",
+      "Source": "Discord Bot Connection Status",
+      "Trans": {"SC":"Discord机器人连接状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::743244781",
+      "Source": "Not Connected",
+      "Trans": {"SC":"未连接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::648441904",
+      "Source": "Do Not Send ARK Messages Starting With:",
+      "Trans": {"SC":"不发送以以下内容开头的ARK消息：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3783368731",
+      "Source": "Connection URL",
+      "Trans": {"SC":"连接URL","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::225394817",
+      "Source": "API URL",
+      "Trans": {"SC":"API URL","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1459539603",
+      "Source": "Ignored Chat Messages Webhook",
+      "Trans": {"SC":"忽略的聊天消息Webhook","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::15382829",
+      "Source": "Messages from ARK will not get send to other servers/Discord server if they start with this prefix.",
+      "Trans": {"SC":"如果ARK消息以此前缀开头，则不会发送到其他服务器/Discord服务器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::665839721",
+      "Source": "Can be changed to connect to a different bot/websocket server.",
+      "Trans": {"SC":"可以更改以连接到不同的机器人/WebSocket服务器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1143337046",
+      "Source": "Can be changed to connect to a different API. Used to register the ARK server.",
+      "Trans": {"SC":"可以更改以连接到不同的API。用于注册ARK服务器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2715737712",
+      "Source": "All Tribe, Ally, and Local chats are sent to this Discord webhook.\\n\\nA \"Privacy Notice\" button will appear in the pause menu. This can NOT be removed in any way.",
+      "Trans": {"SC":"所有部落、盟友和本地聊天都会发送到此Discord Webhook。<#N#><#N#>暂停菜单中会出现一个“隐私声明”按钮。此按钮无法以任何方式移除。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4035553410",
+      "Source": "Pages",
+      "Trans": {"SC":"页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3144383221",
+      "Source": "New Page",
+      "Trans": {"SC":"新页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::432756454",
+      "Source": "KeyBinds",
+      "Trans": {"SC":"按键绑定","JA":""},
+      //没生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3345382766",
+      "Source": "Open AATMenu",
+      "Trans": {"SC":"打开AAT菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::456463688",
+      "Source": "Keybind to open the AATMenu",
+      "Trans": {"SC":"打开AAT菜单的按键绑定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2144400703",
+      "Source": "Keybind to use the primary action of the Admin Tool.",
+      "Trans": {"SC":"使用管理工具主要操作的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3020635961",
+      "Source": "Keybind to spawn and equip the Admin Tool.",
+      "Trans": {"SC":"生成并装备管理员工具的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3249718360",
+      "Source": "Keybind to use the secondary action of the Admin Tool.",
+      "Trans": {"SC":"使用管理员工具次要操作的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1642818645",
+      "Source": "Keybind to use the tertiary action of the Admin Tool.",
+      "Trans": {"SC":"使用管理工具第三操作的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3295386321",
+      "Source": "Quarternary",
+      "Trans": {"SC":"第四","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1536971220",
+      "Source": "Keybind to use the quarternary action of the Admin Tool.",
+      "Trans": {"SC":"使用管理员工具第四操作的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1119885369",
+      "Source": "Keybind to toggle the Fly buff.",
+      "Trans": {"SC":"切换飞行增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2771522432",
+      "Source": "Keybind to toggle the Ghost buff.",
+      "Trans": {"SC":"切换穿墙增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2879248377",
+      "Source": "Keybind to toggle the Godmode buff.",
+      "Trans": {"SC":"切换无敌增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4031756993",
+      "Source": "Keybind to toggle the Hide buff.",
+      "Trans": {"SC":"切换隐藏增益的快捷键。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2684352456",
+      "Source": "Keybind to toggle the Infinite Ammo buff.",
+      "Trans": {"SC":"切换无限弹药增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3959738835",
+      "Source": "Keybind to toggle the Infinite Clip buff.",
+      "Trans": {"SC":"切换无限弹匣增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3164570144",
+      "Source": "No Durability Usage",
+      "Trans": {"SC":"无耐久消耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2999042624",
+      "Source": "No Recoil",
+      "Trans": {"SC":"无后坐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3853205812",
+      "Source": "Keybind to toggle the No Durability Usage buff.",
+      "Trans": {"SC":"切换无耐久消耗增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::412423608",
+      "Source": "Keybind to toggle the No Recoil buff.",
+      "Trans": {"SC":"切换无后坐力增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::773404491",
+      "Source": "Keybind to toggle the Full Auto Weapons buff.",
+      "Trans": {"SC":"切换全自动武器增益的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::660342652",
+      "Source": "Open Quick Teleports",
+      "Trans": {"SC":"打开快速传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::335219898",
+      "Source": "Open Quick Commands",
+      "Trans": {"SC":"打开快速命令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2386489141",
+      "Source": "Keybind to open the Quick Teleports.",
+      "Trans": {"SC":"打开快速传送的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2918778809",
+      "Source": "Keybind to open the Quick Commands.",
+      "Trans": {"SC":"打开快速命令的按键绑定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::883139403",
+      "Source": "Automatically log in as admin with this password.",
+      "Trans": {"SC":"使用此密码自动以管理员身份登录。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::310965419",
+      "Source": "Radial Wheel",
+      "Trans": {"SC":"径向菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3085156175",
+      "Source": "Add \"Open AATMenu\" Option",
+      "Trans": {"SC":"添加“打开AAT菜单”选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2478605521",
+      "Source": "Add \"Equip Admin Tool\" Option",
+      "Trans": {"SC":"添加“装备管理员工具”选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3967456523",
+      "Source": "Adds an option to open the AATMenu to the radial wheel.",
+      "Trans": {"SC":"向径向菜单添加打开AAT菜单的选项。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::642224746",
+      "Source": "Adds an option to spawn the Admin Tool to the radial wheel.",
+      "Trans": {"SC":"向径向菜单添加生成管理员工具的选项。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3375425056",
+      "Source": "Translation \"Global\"",
+      "Trans": {"SC":"翻译“全局”","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1964682620",
+      "Source": "Translation of the word \"Global\" to the language of your ARK installation.Is used to check if you are talking in global chat which will get sent to the cross-chat.Only required if your ARK is not in english.",
+      "Trans": {"SC":"将单词“Global”翻译为您的ARK安装语言。用于检查您是否在全局聊天中发言，该聊天将发送到跨服聊天。仅当您的ARK不是英文时才需要。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2994621218",
+      "Source": "Clears all dino, item, buff and engram cache.",
+      "Trans": {"SC":"清除所有恐龙、物品、增益和印痕缓存。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1402387451",
+      "Source": "Clear Cache",
+      "Trans": {"SC":"清除缓存","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3367291954",
+      "Source": "Select which tabs are visible from the AATMenu sidebar.",
+      "Trans": {"SC":"选择AAT菜单侧边栏中可见的标签页。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::265532600",
+      "Source": "These settings only apply to you, not the whole server.",
+      "Trans": {"SC":"这些设置仅适用于您，不适用于整个服务器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3668629857",
+      "Source": "Close On Selection",
+      "Trans": {"SC":"选择时关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::777147404",
+      "Source": "Quaternary",
+      "Trans": {"SC":"第四","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1898137728",
+      "Source": "No settings available.",
+      "Trans": {"SC":"没有可用的设置。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
