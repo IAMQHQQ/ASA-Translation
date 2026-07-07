@@ -1,5 +1,5 @@
 {
-  "A管理员工具": [
+  "Awesome Admin Tools": [
     //2026-7-7 17:25:55
     {
       "NamespaceHash": "Content::2805398202",
@@ -1126,7 +1126,7 @@
     {
       "NamespaceHash": "Content::1779200437",
       "Source": "Top Right",
-      "Trans": {"SC":"右上角","JA":""},
+      "Trans": {"SC":"右上方","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1144,13 +1144,14 @@
     {
       "NamespaceHash": "Content::218977980",
       "Source": "Bottom Right",
-      "Trans": {"SC":"右下角","JA":""},
+      "Trans": {"SC":"右下方","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::226165008",
       "Source": "Bottom Right Corner",
-      "Trans": {"SC":"右下方","JA":""},
+      "Trans": {"SC":"右下角","JA":""},
+      //这个也不生效 感觉是作者打错了
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3070,6 +3071,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::1414990227",
+      "Source": "HP",
+      "Trans": { "SC": "生命", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
       "NamespaceHash": "Content::4209292217",
       "Source": "ST",
       "Trans": {"SC":"耐力","JA":""},
@@ -3641,6 +3648,139 @@
       "NamespaceHash": "Content::1898137728",
       "Source": "No settings available.",
       "Trans": {"SC":"没有可用的设置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2400545595",
+      "Source": "Welcome to Awesome ARK Tools",
+      "Trans": {"SC":"欢迎使用A更好的方舟工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::424130943",
+      "Source": "This menu will guide you through the most important configurations and features of this mod.",
+      "Trans": {"SC":"此菜单将引导您了解此模组最重要的配置和功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3190993435",
+      "Source": "You can always open this menu again in AATMenu > Configuration tab > Open onboarding",
+      "Trans": {"SC":"您可以随时在 AAT菜单 > 配置选项卡 > 打开入门指南中再次打开此菜单。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::343841997",
+      "Source": "Select the location of the AATMenu Button. For custom location, skip this panel and change the offset in the configuration tab in the menu.",
+      "Trans": {"SC":"选择 AAT菜单按钮的位置。如需自定义位置，请跳过此面板并在菜单的配置选项卡中更改偏移量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2956041424",
+      "Source": "Current Location",
+      "Trans": {"SC":"当前位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2415122682",
+      "Source": "Bottom Rlght Corner",
+      "Trans": {"SC":"右下角","JA":""},
+      //其他按钮都生效就这个不生效 奇奇怪怪
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1293126611",
+      "Source": "Top Right Corner",
+      "Trans": {"SC":"右上角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3611999143",
+      "Source": "Players only see their own tribe",
+      "Trans": {"SC":"玩家仅能看到自己的部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3686823414",
+      "Source": "Player Overview",
+      "Trans": {"SC":"玩家概览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::84889118",
+      "Source": "Player location visibility",
+      "Trans": {"SC":"玩家位置可见性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3031390668",
+      "Source": "Tribe Overview",
+      "Trans": {"SC":"部落概览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1792754056",
+      "Source": "Tribe bases and dinos location visibility",
+      "Trans": {"SC":"部落基地和恐龙位置可见性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2888313497",
+      "Source": "Wild Dinos Overview",
+      "Trans": {"SC":"野生恐龙概览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2843188896",
+      "Source": "Wild dino location visibility",
+      "Trans": {"SC":"野生恐龙位置可见性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2965640664",
+      "Source": "ADMIN ONLY",
+      "Trans": {"SC":"仅管理员","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2309260238",
+      "Source": "EVERYONE",
+      "Trans": {"SC":"所有人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1656932919",
+      "Source": "YES",
+      "Trans": {"SC":"是","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2588035037",
+      "Source": "NO",
+      "Trans": {"SC":"否","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4090135495",
+      "Source": "Thank you for using Awesome ARK Tools",
+      "Trans": {"SC":"感谢您使用A更好的方舟工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::395709121",
+      "Source": "All and more detailed configurations can be found in the AATMenu configuration tab.",
+      "Trans": {"SC":"所有更详细的配置均可在 AAT菜单配置选项卡中找到。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3552620991",
+      "Source": "No players",
+      "Trans": {"SC":"没有玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1149830694",
+      "Source": "No Dinos",
+      "Trans": {"SC":"没有恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

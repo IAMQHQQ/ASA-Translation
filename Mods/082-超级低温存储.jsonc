@@ -1,11 +1,6 @@
 {
-  "Super Cryo Storage": [//2026.6.17
-    {
-      "NamespaceHash": "Content::607345456",
-      "Source": "Dino Test",
-      "Trans": {"SC":"恐龙测试","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
-    },
+  "Super Cryo Storage": [
+    //2026-7-7 23:45:11修正
     {
       "NamespaceHash": "Content::1628282149",
       "Source": "SCS Display Case",
@@ -65,894 +60,6 @@
       "Source": "Super Cryo Storage",
       "Trans": {"SC":"超级低温存储","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "697045A244BC26F453123CBE340583BA",
-      "Source": "Raptor - Lvl 225 (Male)",
-      "Trans": {"SC":"迅猛龙 - 225 级（雄性）","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"417544505"}
-    },
-    {
-      "NamespaceHash": "D6EB4D9F4D9DA0C13F1655A08316755D",
-      "Source": "Tribe:",
-      "Trans": {"SC":"部落：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2981247895"}
-    },
-    {
-      "NamespaceHash": "ED046FC34CF0A998EA520CB9C9BB79A6",
-      "Source": "Trapper:",
-      "Trans": {"SC":"捕获者：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3419490617"}
-    },
-    {
-      "NamespaceHash": "0AB2ADE349A146712730A5B3FB445609",
-      "Source": "ID:",
-      "Trans": {"SC":"编号：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3831406556"}
-    },
-    {
-      "NamespaceHash": "A66EA1C445371B389E9B7ABA7B4BDD75",
-      "Source": "Last Update:",
-      "Trans": {"SC":"最后更新：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4227106189"}
-    },
-    {
-      "NamespaceHash": "C884F66742236E89CC401B8E862A139B",
-      "Source": "Raptor - Lvl 150 (Raptor)",
-      "Trans": {"SC":"迅猛龙 - 150 级（迅猛龙）","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1753422048"}
-    },
-    {
-      "NamespaceHash": "3EF475B144BF6EE553CD2687B93193EB",
-      "Source": "Bruno",
-      "Trans": {"SC":"布鲁诺","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3001579605"}
-    },
-    {
-      "NamespaceHash": "135AD0B04D15989BD5FD56BCDD0BE0E1",
-      "Source": "Tribe of Bruno",
-      "Trans": {"SC":"布鲁诺部落","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3026395377"}
-    },
-    {
-      "NamespaceHash": "CB8F2CA14F786164C9818F879FB69C6E",
-      "Source": "% Chance:",
-      "Trans": {"SC":"概率：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2323702143"}
-    },
-    {
-      "NamespaceHash": "D4AE96574A1E6777085556A5EAEC60CA",
-      "Source": "Max Time:",
-      "Trans": {"SC":"最长时长：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1202975418"}
-    },
-    {
-      "NamespaceHash": "11DB7DFE469A01FAC87FE4880CDF999A",
-      "Source": "% Chance w/ Male:",
-      "Trans": {"SC":"雄性参与概率：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3381931423"}
-    },
-    {
-      "NamespaceHash": "85B16AE44F82D9CB445A49BAA89B7B71",
-      "Source": "Min Time:",
-      "Trans": {"SC":"最短时长：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3125025136"}
-    },
-    {
-      "NamespaceHash": "5FD364DD48A0B7BB0663A78133E2C793",
-      "Source": "Selected",
-      "Trans": {"SC":"已选中","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2559487631"}
-    },
-    {
-      "NamespaceHash": "BD0C638544427CC3A4A276A5CE85F0F4",
-      "Source": "Both",
-      "Trans": {"SC":"两者","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3375049523"}
-    },
-    {
-      "NamespaceHash": "90E8DB9A40003D73C44B49BFFD282984",
-      "Source": "Both",
-      "Trans": {"SC":"两者","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3375049523"}
-    },
-    {
-      "NamespaceHash": "FD68C0A44E0269C78B70B8BFAF95C523",
-      "Source": "% Chance:",
-      "Trans": {"SC":"概率：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2323702143"}
-    },
-    {
-      "NamespaceHash": "3710DE4A46E936E8E6DEE593F9C2F9DF",
-      "Source": "Resource:",
-      "Trans": {"SC":"资源：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"461810504"}
-    },
-    {
-      "NamespaceHash": "B6058ABF411458016E2639BB2FEEE81C",
-      "Source": "Interval:",
-      "Trans": {"SC":"间隔：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"229790573"}
-    },
-    {
-      "NamespaceHash": "D4DE31874598578B6B15F588B7807913",
-      "Source": "Human",
-      "Trans": {"SC":"人类","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1938607829"}
-    },
-    {
-      "NamespaceHash": "05B602054EEAD5603409608380473B50",
-      "Source": "Small",
-      "Trans": {"SC":"小型","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"708482"}
-    },
-    {
-      "NamespaceHash": "541F8494440814DC9C02658D98FC5D75",
-      "Source": "Medium",
-      "Trans": {"SC":"中型","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3469406434"}
-    },
-    {
-      "NamespaceHash": "6B51A8BD485DFA5EBB80109FA444B059",
-      "Source": "Large",
-      "Trans": {"SC":"大型","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1620421534"}
-    },
-    {
-      "NamespaceHash": "6843CB0B47E09428A43A17944CB02E63",
-      "Source": "Massive",
-      "Trans": {"SC":"巨型","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4212418662"}
-    },
-    {
-      "NamespaceHash": "446E201547CF1E001DD435A8CA532DA6",
-      "Source": "Fertilizer",
-      "Trans": {"SC":"化肥","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1991699640"}
-    },
-    {
-      "NamespaceHash": "C591DF2C41300389C52163A46F9D574C",
-      "Source": "Male",
-      "Trans": {"SC":"雄性","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4089736532"}
-    },
-    {
-      "NamespaceHash": "BA4C54CF4CF0E20C4121E4874F02363D",
-      "Source": "Female",
-      "Trans": {"SC":"雌性","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"971907003"}
-    },
-    {
-      "NamespaceHash": "2BCA415F4660D4F60089A69202F15713",
-      "Source": "Both",
-      "Trans": {"SC":"两者","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3375049523"}
-    },
-    {
-      "NamespaceHash": "4B939C994F6850B658EAD3A1C954301B",
-      "Source": "Fixed",
-      "Trans": {"SC":"固定","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1413291158"}
-    },
-    {
-      "NamespaceHash": "66B1E17E4705FA6FD80BFF84E96C991D",
-      "Source": "Random",
-      "Trans": {"SC":"随机","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2604595566"}
-    },
-    {
-      "NamespaceHash": "619D2D8A4EBCFCF12726E2964284F41C",
-      "Source": "EnableCryoSickness",
-      "Trans": {"SC":"开启低温症","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3959380395"}
-    },
-    {
-      "NamespaceHash": "96EAE12C45FF47C034953688E507FF73",
-      "Source": "GiveImprintToDeployer",
-      "Trans": {"SC":"印痕效果转移至使用者","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1532320828"}
-    },
-    {
-      "NamespaceHash": "EBE0135C4BCFB63C8C8B13AF3CD62D27",
-      "Source": "DeployWithStructurePrevention",
-      "Trans": {"SC":"禁止在建筑范围内部署","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"542425075"}
-    },
-    {
-      "NamespaceHash": "5C2CE4164C4767091C8B1A9DDAC1BD3D",
-      "Source": "DeployWithFlyerPrevention",
-      "Trans": {"SC":"禁止在飞行单位范围内部署","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2330594281"}
-    },
-    {
-      "NamespaceHash": "3B1663084F99B6AE1E26A4AC43C17702",
-      "Source": "StoredBabiesCanAutoGrow",
-      "Trans": {"SC":"储存的幼龙可自动成长","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2973120398"}
-    },
-    {
-      "NamespaceHash": "606222D9432ECF1C72DFD3B7E13CFE92",
-      "Source": "StoredBabiesCanAutoImprint",
-      "Trans": {"SC":"储存的幼龙可自动完成留痕","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"791299380"}
-    },
-    {
-      "NamespaceHash": "76D073114B7DC25372880C9367D79255",
-      "Source": "DisableUseDuringStorm",
-      "Trans": {"SC":"雷暴天气期间禁止使用","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3920277082"}
-    },
-    {
-      "NamespaceHash": "D293855549FE7955AC8D3E812A0A715A",
-      "Source": "CanOnlyDeployInTerminalRange",
-      "Trans": {"SC":"仅可在终端范围内部署","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1298071206"}
-    },
-    {
-      "NamespaceHash": "734C755E47925360CFE9A8827F393442",
-      "Source": "CapturingTime",
-      "Trans": {"SC":"捕获时长","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3875796778"}
-    },
-    {
-      "NamespaceHash": "6CA212DF48DF53B11CD4B48D81409852",
-      "Source": "CapturingTimeInCombat",
-      "Trans": {"SC":"战斗中捕获时长","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3333386675"}
-    },
-    {
-      "NamespaceHash": "A71EBDFE4DCEC7F2D9BA12A37D926536",
-      "Source": "ThrowDistance",
-      "Trans": {"SC":"投掷距离","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2400461534"}
-    },
-    {
-      "NamespaceHash": "8969A6E94E288D09EF7881A46C6DFDB5",
-      "Source": "CryoSicknessTime",
-      "Trans": {"SC":"低温症持续时长","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3140552787"}
-    },
-    {
-      "NamespaceHash": "30ACE9CB4D13BCE3ABC36EBA3702703D",
-      "Source": "GrowthSpeedMultiplier",
-      "Trans": {"SC":"成长速度倍率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3675098540"}
-    },
-    {
-      "NamespaceHash": "F12E35F546ADDF81B1948A828DEBBF4B",
-      "Source": "AutoGrowUseServerSettings",
-      "Trans": {"SC":"自动成长沿用服务器设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2735767770"}
-    },
-    {
-      "NamespaceHash": "DF857B3F4ACA7BA562DECB87BB28841F",
-      "Source": "DinoHealingSpeed",
-      "Trans": {"SC":"恐龙回血速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2109493656"}
-    },
-    {
-      "NamespaceHash": "687503154E1DCFB7896812AA89918557",
-      "Source": "StoredXPMultiplier",
-      "Trans": {"SC":"储存恐龙经验倍率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"317026186"}
-    },
-    {
-      "NamespaceHash": "CAECE9AD4BEADBAA2966F8A4AA793A74",
-      "Source": "DeployForeingDinos",
-      "Trans": {"SC":"部署外来恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1388273257"}
-    },
-    {
-      "NamespaceHash": "760B10184B4A2D4ECFBD378BA8663087",
-      "Source": "TitansDownloadTime",
-      "Trans": {"SC":"泰坦生物载入时长","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"854212733"}
-    },
-    {
-      "NamespaceHash": "88C4C2DB4671C62F4CF8BEBF5ABF57F8",
-      "Source": "CanCaptureDinoInCombat",
-      "Trans": {"SC":"可在战斗中捕获恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3343995743"}
-    },
-    {
-      "NamespaceHash": "0E58608A4EDE0F01639233AD2B89CFC7",
-      "Source": "CanCaptureItemsInBags",
-      "Trans": {"SC":"可拾取背包内物品","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"672360690"}
-    },
-    {
-      "NamespaceHash": "3902208D453068486B753EB438733B8E",
-      "Source": "CapturingDinosReportToTribeLog",
-      "Trans": {"SC":"捕获恐龙记录至部落日志","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2359200874"}
-    },
-    {
-      "NamespaceHash": "5573F7F1444ACFB233C29295CBA60652",
-      "Source": "CanCaptureRaidDinos",
-      "Trans": {"SC":"可捕获特殊恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"418861794"}
-    },
-    {
-      "NamespaceHash": "46A3D2BA40DC8448A8216CA918B8BE78",
-      "Source": "SaveDinoInventory",
-      "Trans": {"SC":"保留恐龙背包物品","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"775343645"}
-    },
-    {
-      "NamespaceHash": "E51AED8B4F068CB2427F06ADA40ACB6C",
-      "Source": "CanCaptureExtinctionTitans",
-      "Trans": {"SC":"可捕获灭绝泰坦生物","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1439610841"}
-    },
-    {
-      "NamespaceHash": "8EAFEA8B47C2E40BCF59869BE8B276D5",
-      "Source": "StorePregnantResetMating",
-      "Trans": {"SC":"储存受孕恐龙后重置交配冷却","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2557274971"}
-    },
-    {
-      "NamespaceHash": "C1154D8843F000A053C75FBA9A40BD66",
-      "Source": "CanGenerateResources",
-      "Trans": {"SC":"可产出资源","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3053771102"}
-    },
-    {
-      "NamespaceHash": "18E2F60448134DF4D1317DB765D241D8",
-      "Source": "CanGenerateEggs",
-      "Trans": {"SC":"可产下蛋","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1745056450"}
-    },
-    {
-      "NamespaceHash": "D1026FAF49D1982DFCDC12821783FF50",
-      "Source": "CanCollectFertilizedEggs",
-      "Trans": {"SC":"可收集受精蛋","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1434248817"}
-    },
-    {
-      "NamespaceHash": "ACEE6EB640368573663B7EB1C14D698C",
-      "Source": "CanIncubateFertilizedEggs",
-      "Trans": {"SC":"可孵化受精蛋","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"30142758"}
-    },
-    {
-      "NamespaceHash": "6C34228B41101FC0F0A309A28A86FD5F",
-      "Source": "CanAutoTrapBabies",
-      "Trans": {"SC":"可自动捕获幼龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"991586801"}
-    },
-    {
-      "NamespaceHash": "FF73A46C49D6F09BB2FA6CB8C7A1576E",
-      "Source": "CanGeneratePoop",
-      "Trans": {"SC":"可产生粪便","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"857822191"}
-    },
-    {
-      "NamespaceHash": "68CEBCAC4D9D5990A7D414BC76FA329D",
-      "Source": "BeetlesCanConvertPoopIntoFertilizer",
-      "Trans": {"SC":"蜣螂可将粪便转化为化肥","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1706672834"}
-    },
-    {
-      "NamespaceHash": "367C0261447AB27F9F13D9994526F58C",
-      "Source": "AutoTransferDediStorage",
-      "Trans": {"SC":"自动转移至专用仓库","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3829509094"}
-    },
-    {
-      "NamespaceHash": "51353B4C448F40516A938E8ACD321F38",
-      "Source": "TerminalRange",
-      "Trans": {"SC":"终端作用范围","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3311575097"}
-    },
-    {
-      "NamespaceHash": "92B1FA504945FC75BD30B2A7B5079B28",
-      "Source": "FertilizerPerPlot",
-      "Trans": {"SC":"每块耕地化肥用量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1656699866"}
-    },
-    {
-      "NamespaceHash": "1B08F1F64DB4D67ED8ACE39901DE0C10",
-      "Source": "HumanPoopSlots",
-      "Trans": {"SC":"人类粪便容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4273987522"}
-    },
-    {
-      "NamespaceHash": "FA56F63F4EED8BD904A3E298E5C950FF",
-      "Source": "SmallPoopSlots",
-      "Trans": {"SC":"小型生物粪便容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2836304104"}
-    },
-    {
-      "NamespaceHash": "B9B445D94E4194E35AFA169F73630528",
-      "Source": "MediumPoopSlots",
-      "Trans": {"SC":"中型生物粪便容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2313722169"}
-    },
-    {
-      "NamespaceHash": "2FE9E8EB452199DDAEFC92BB990F12D9",
-      "Source": "LargePoopSlots",
-      "Trans": {"SC":"大型生物粪便容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2583379634"}
-    },
-    {
-      "NamespaceHash": "41D1B39140F44E19AFA03598751D48CF",
-      "Source": "MassivePoopSlots",
-      "Trans": {"SC":"巨型生物粪便容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2086406916"}
-    },
-    {
-      "NamespaceHash": "2310FC7D4136DF74E36596BB89E912C0",
-      "Source": "FertilizerSlots",
-      "Trans": {"SC":"化肥容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3980466358"}
-    },
-    {
-      "NamespaceHash": "E1F0E8DD4B0067DD09B38B9C11898FB7",
-      "Source": "PelletSlots",
-      "Trans": {"SC":"饲料容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"744133607"}
-    },
-    {
-      "NamespaceHash": "3E2ED2E9490663422B36998F4F904598",
-      "Source": "PelletPerGacha",
-      "Trans": {"SC":"每只嘎查产出饲料数量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2798797139"}
-    },
-    {
-      "NamespaceHash": "DB7CF1D64EB8150D820B1CA78DA54B3E",
-      "Source": "EnableBabyAutoTrap",
-      "Trans": {"SC":"开启幼龙自动捕获","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2410330556"}
-    },
-    {
-      "NamespaceHash": "4FE2202A483B3AE3CB8CDC8B97E82C66",
-      "Source": "EnableFertilizedEggCollection",
-      "Trans": {"SC":"开启受精蛋收集","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"875422484"}
-    },
-    {
-      "NamespaceHash": "6AE1309243DF749C881770BDB7FB527C",
-      "Source": "EnableFertilizedEggIncubation",
-      "Trans": {"SC":"开启受精蛋孵化","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3921950638"}
-    },
-    {
-      "NamespaceHash": "1064443D46F8BA14342B79899C9C3EF1",
-      "Source": "EnableGainKillXPDeletingDinos",
-      "Trans": {"SC":"删除恐龙可获得击杀经验","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3225584751"}
-    },
-    {
-      "NamespaceHash": "F9EE28934F38816BE137FD8044B81515",
-      "Source": "EnableMatingInRange",
-      "Trans": {"SC":"开启范围内交配功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2579256309"}
-    },
-    {
-      "NamespaceHash": "323289EE4579E6083BD2C8A666A9224B",
-      "Source": "EnableNeuterInRange",
-      "Trans": {"SC":"开启范围内绝育功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2266903760"}
-    },
-    {
-      "NamespaceHash": "E614FD2A445A1507BE995692D70A0AC0",
-      "Source": "EnableCaptureDinosInRange",
-      "Trans": {"SC":"开启范围内捕获恐龙功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1140376315"}
-    },
-    {
-      "NamespaceHash": "36D2F31C47FEC7B530BE728C68513A77",
-      "Source": "EnablePassiveGeneration",
-      "Trans": {"SC":"开启被动产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3560780471"}
-    },
-    {
-      "NamespaceHash": "9C4D783E46ADD46D9D5480B17A07D9BB",
-      "Source": "EnableUnfertilizedEggGeneration",
-      "Trans": {"SC":"开启未受精蛋产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3239014021"}
-    },
-    {
-      "NamespaceHash": "898B8C4E4CE835C48B985394F69C4F40",
-      "Source": "EnablePoopGeneration",
-      "Trans": {"SC":"开启粪便产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1265513772"}
-    },
-    {
-      "NamespaceHash": "AF5350E3462911761B9C23AB6D013B5B",
-      "Source": "BeetlesConvertPoop",
-      "Trans": {"SC":"蜣螂转化粪便","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1299798708"}
-    },
-    {
-      "NamespaceHash": "5BFAFBD14E518A4ABC3A988CB2B89A55",
-      "Source": "DistributeFertilizerToCropPlots",
-      "Trans": {"SC":"向耕地分配化肥","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1185769333"}
-    },
-    {
-      "NamespaceHash": "E86972D341CBE484687FFC8012E3BC12",
-      "Source": "MaxRange",
-      "Trans": {"SC":"最大范围","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3210668864"}
-    },
-    {
-      "NamespaceHash": "2DEB0FB441D75B6ADEC0DAA9200BDBD0",
-      "Source": "OviraptorBonusMultiplier",
-      "Trans": {"SC":"窃蛋龙加成倍率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3796416909"}
-    },
-    {
-      "NamespaceHash": "C60190644F2D7A7639427A96D57E9462",
-      "Source": "EggGenerationSpeed",
-      "Trans": {"SC":"产蛋速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1870373666"}
-    },
-    {
-      "NamespaceHash": "1854B71942A625FC00461D951D10959B",
-      "Source": "PoopGenerationSpeed",
-      "Trans": {"SC":"产粪速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3061421830"}
-    },
-    {
-      "NamespaceHash": "5B3E54824AE39D89E42CBFBB17EB1A71",
-      "Source": "ResourceGenerationSpeed",
-      "Trans": {"SC":"资源产出速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"29972741"}
-    },
-    {
-      "NamespaceHash": "1E4D3BF14E16B41058F9159E879345A5",
-      "Source": "BeetlesGenerationSpeed",
-      "Trans": {"SC":"蜣螂转化速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"645921453"}
-    },
-    {
-      "NamespaceHash": "33EF6B1B4EBB0FE3124477803C87D666",
-      "Source": "EggIncubationSpeed",
-      "Trans": {"SC":"孵蛋速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3654870028"}
-    },
-    {
-      "NamespaceHash": "D1DEAA234AE8ACC3158E31AC9F32C483",
-      "Source": "OasisaurCanGenerate",
-      "Trans": {"SC":"绿洲龙可产出物资","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4033789490"}
-    },
-    {
-      "NamespaceHash": "708AC5344A1D55BD10667EB75F975EB7",
-      "Source": "EggIncubationUseServerSettings",
-      "Trans": {"SC":"孵蛋速度沿用服务器设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"451128116"}
-    },
-    {
-      "NamespaceHash": "3BDE4BD044743CFD63D0C5ADA9406CF4",
-      "Source": "TerminalSlots",
-      "Trans": {"SC":"终端容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3047992258"}
-    },
-    {
-      "NamespaceHash": "55F9B5D6442977943A8BAABCC5001191",
-      "Source": "GachaCanGenerate",
-      "Trans": {"SC":"嘎查可产出物资","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"820065163"}
-    },
-    {
-      "NamespaceHash": "35A1E3674F9609768F107290879F1BF0",
-      "Source": "DeleteXPMultiplier",
-      "Trans": {"SC":"删除恐龙经验倍率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2963281197"}
-    },
-    {
-      "NamespaceHash": "B1D7E9254164851CF70DA5B149584DA8",
-      "Source": "CanAutoTransferToDediStorage",
-      "Trans": {"SC":"可自动转移至专用仓库","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"788624497"}
-    },
-    {
-      "NamespaceHash": "CD318C29430652858B4770B45FF20F48",
-      "Source": "GachaGenerationSpeedMultiplier",
-      "Trans": {"SC":"嘎查产出速度倍率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1080464300"}
-    },
-    {
-      "NamespaceHash": "5A2E86C4499B7E2AF0A923934F8DA3E5",
-      "Source": "GachaGenerationChance",
-      "Trans": {"SC":"嘎查产出概率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2092961369"}
-    },
-    {
-      "NamespaceHash": "4EB551BE496D6CED6B99279E683BC2D4",
-      "Source": "DisableDinoRecovery",
-      "Trans": {"SC":"禁用恐龙恢复功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4034979828"}
-    },
-    {
-      "NamespaceHash": "BBA61B8F4B36AAFD49AF24BDF70BFC62",
-      "Source": "Select All Dinos",
-      "Trans": {"SC":"全选恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1443940471"}
-    },
-    {
-      "NamespaceHash": "483345B44244D282291B6ABDCAE3BAA7",
-      "Source": "Select Player...",
-      "Trans": {"SC":"选择玩家……","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"220700604"}
-    },
-    {
-      "NamespaceHash": "D74E4648475BD87894EE1FAFA4F0B825",
-      "Source": "Select Player...",
-      "Trans": {"SC":"选择玩家……","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"220700604"}
-    },
-    {
-      "NamespaceHash": "5AF99D0E4CFD3B7F0F26419542F99E87",
-      "Source": "Alphabetically",
-      "Trans": {"SC":"按字母排序","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2852152130"}
-    },
-    {
-      "NamespaceHash": "95A6D3174AE1E71293E3FE9986CE7A59",
-      "Source": "Higher Level",
-      "Trans": {"SC":"等级从高到低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3316338152"}
-    },
-    {
-      "NamespaceHash": "1AF8A6EA4732ECD128AC019278E99502",
-      "Source": "Recent",
-      "Trans": {"SC":"最近排序","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2793866378"}
-    },
-    {
-      "NamespaceHash": "C2E3176D483E41F3AB4FF98A150F93DF",
-      "Source": "Older",
-      "Trans": {"SC":"最早排序","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2864219210"}
-    },
-    {
-      "NamespaceHash": "8BE07DE9427BE9F3EC8672A1F4026AA4",
-      "Source": "Search for Dino Name, Dino ID, Player Name or Tribe Name",
-      "Trans": {"SC":"搜索恐龙名称、恐龙编号、玩家名称或部落名称","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1740069763"}
-    },
-    {
-      "NamespaceHash": "4499691B4125DA3EF4BE829473F02920",
-      "Source": "Select a player on the players list , and then select the dino you want to recover from this player. You can select as many dinos as you want. After selecting the dinos, choose the player you want to give the dinos to and click \"Recover Selected Dinos\" button",
-      "Trans": {"SC":"在玩家列表中选择一名玩家，再选取该玩家名下待恢复的恐龙，可多选。选好后选择接收恐龙的玩家，点击 “恢复选中恐龙” 按钮","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1024535890"}
-    },
-    {
-      "NamespaceHash": "87DEA9FF49C7079D93BAFD90EC026330",
-      "Source": "Clear All Recovery Data",
-      "Trans": {"SC":"清空所有恢复数据","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"117723614"}
-    },
-    {
-      "NamespaceHash": "175AB04B47C98F1569DD10ACE10A5D1A",
-      "Source": "Recover Selected Dinos",
-      "Trans": {"SC":"恢复选中恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4041992226"}
-    },
-    {
-      "NamespaceHash": "0657D7584D139B23017B6E82FA9D43BF",
-      "Source": "Dino Recovery",
-      "Trans": {"SC":"恐龙恢复","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3379227703"}
-    },
-    {
-      "NamespaceHash": "C2877CE241C4BA8F28F7D0BB2DAA7FD6",
-      "Source": "Sort:",
-      "Trans": {"SC":"排序：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3172249357"}
-    },
-    {
-      "NamespaceHash": "31AED3804FE5E96714C93597760AD158",
-      "Source": "Give to:",
-      "Trans": {"SC":"移交至：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"920416013"}
-    },
-    {
-      "NamespaceHash": "AA5FE7B04542D71846869080E7922942",
-      "Source": "How to Use?",
-      "Trans": {"SC":"使用说明？","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1330686423"}
-    },
-    {
-      "NamespaceHash": "C05A36B046041B1346CC848414AF4048",
-      "Source": "Delete Selected Dinos",
-      "Trans": {"SC":"删除选中恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2340215804"}
-    },
-    {
-      "NamespaceHash": "977D3BE54C27253C70BC35A5C05ADD3A",
-      "Source": "0 / 1800",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"936566746"}
-    },
-    {
-      "NamespaceHash": "19994F1A4497DCEE56DCDE91628A0C17",
-      "Source": "The dino you are trying to trap is pregnant. If you trap the dino, the baby will be lost, but the dino will be able to mate again.",
-      "Trans": {"SC":"你尝试捕获的恐龙已受孕。若进行捕获，腹中幼体将会消失，该恐龙可重新进行交配。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1803960142"}
-    },
-    {
-      "NamespaceHash": "2787877240F71F0CF96B73BB5032A4BE",
-      "Source": "Cryo Dino?",
-      "Trans": {"SC":"冷冻恐龙？","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2413040095"}
-    },
-    {
-      "NamespaceHash": "3C6F0D90412A29AD230D418B74380C99",
-      "Source": "SCS: {0}{1}",
-      "Trans": {"SC":"超级低温储存：{0}{1}","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"258175357"}
-    },
-    {
-      "NamespaceHash": "B2AA93A244F8DAE69B172BB022D508C9_Format0",
-      "Source": "<RichColor Color=\"1, 0, 0, 1\">{0}'s '{1}' died in a Cryopod!</>",
-      "Trans": {"SC":"<RichColor Color=\"1, 0, 0, 1\">{0} 的 {1} 在低温舱内死亡！</>","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2247825922"}
-    },
-    {
-      "NamespaceHash": "A3290B9D4AA03D7BC6DE8E9EF43F0D97",
-      "Source": "If you want to close the panel, there is a close button in the right top corner. But if you want to Restore all settings to default, click ACCEPT and Save the panel",
-      "Trans": {"SC":"如需关闭面板，请点击右上角关闭按钮。若要恢复默认设置，请点击确认并保存面板","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1985276091"}
-    },
-    {
-      "NamespaceHash": "B7107B4848F677E5F47178B8D1CEAC4A",
-      "Source": "Restore Defaults?",
-      "Trans": {"SC":"恢复默认设置？","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2231817283"}
-    },
-    {
-      "NamespaceHash": "92782B3A4CC18356A8C1F9AB6E3D5C00",
-      "Source": "Level",
-      "Trans": {"SC":"等级","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2291111057"}
-    },
-    {
-      "NamespaceHash": "319C30AA4755A269C31C7D8EA8A9AF53",
-      "Source": "Gender",
-      "Trans": {"SC":"性别","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3676425587"}
-    },
-    {
-      "NamespaceHash": "BD025019402838FE0BE4AC92535C98E2",
-      "Source": "Species",
-      "Trans": {"SC":"物种","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"328365039"}
-    },
-    {
-      "NamespaceHash": "34DF87A04A7AB44D6921C299C8F8E8FE",
-      "Source": "Level",
-      "Trans": {"SC":"等级","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2291111057"}
-    },
-    {
-      "NamespaceHash": "7204A7454ED3A4EDDE0457BA91F34F12",
-      "Source": "Gender",
-      "Trans": {"SC":"性别","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3676425587"}
-    },
-    {
-      "NamespaceHash": "A13C38CD44DC09220903CBAE41CEA3E9",
-      "Source": "Species",
-      "Trans": {"SC":"物种","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"328365039"}
-    },
-    {
-      "NamespaceHash": "9F064DCF4CAC8252E49EC49C6D15798E",
-      "Source": "Filters",
-      "Trans": {"SC":"筛选器","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3019559774"}
-    },
-    {
-      "NamespaceHash": "633EBDF646ED1EF69D6EF9A3AC434F36",
-      "Source": "Advanced Seach",
-      "Trans": {"SC":"高级搜索","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2240632963"}
-    },
-    {
-      "NamespaceHash": "3885D6FC469A3EB10CFBCDA0F0BCF921",
-      "Source": "Terminal Inventory",
-      "Trans": {"SC":"终端仓库","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2331341018"}
-    },
-    {
-      "NamespaceHash": "F750857E48F2453E0377A9876D56FB2E",
-      "Source": "Text Color:",
-      "Trans": {"SC":"文字颜色：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1885418229"}
-    },
-    {
-      "NamespaceHash": "615AF84A4D913EE89EE90FA8F14603C0",
-      "Source": "Display Name",
-      "Trans": {"SC":"显示名称","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3598646024"}
-    },
-    {
-      "NamespaceHash": "C1A702A947D8A7FB27BC0FA5B294DAF8",
-      "Source": "Name to display:",
-      "Trans": {"SC":"展示名称：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1102203352"}
-    },
-    {
-      "NamespaceHash": "230A0B414C2A04ED19EA3B8EEF312209",
-      "Source": "Example",
-      "Trans": {"SC":"示例","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1251952952"}
-    },
-    {
-      "NamespaceHash": "4CCEB9374D365C6E75813187124A0524",
-      "Source": "Imprint:",
-      "Trans": {"SC":"留痕：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"521418544"}
-    },
-    {
-      "NamespaceHash": "60EA1C204564EE7655340889D79A79FD",
-      "Source": "Baby Age:",
-      "Trans": {"SC":"幼龙时长：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2073281500"}
-    },
-    {
-      "NamespaceHash": "F978DD86409C7FCD64D4B780D9B12CD2",
-      "Source": "Cuddle Time:",
-      "Trans": {"SC":"关注时长：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2113949064"}
-    },
-    {
-      "NamespaceHash": "A07BFACE4D801090D6755DB9490AD720",
-      "Source": "Maturation Time:",
-      "Trans": {"SC":"成熟时长：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3097239598"}
-    },
-    {
-      "NamespaceHash": "6B25FF334D05AE4E698CAC832B8B97EF",
-      "Source": "Mating Interval:",
-      "Trans": {"SC":"交配间隔：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3642155756"}
-    },
-    {
-      "NamespaceHash": "DE443A704BF7D6186DE349A657EC9DA3",
-      "Source": "SCS CONTAINER (EMPTY)",
-      "Trans": {"SC":"超级低温储存容器（空）","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1217706642"}
-    },
-    {
-      "NamespaceHash": "500466424CE759D7BCE627BF712FE775",
-      "Source": "Empty SCS Container",
-      "Trans": {"SC":"空的超级低温储存容器","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"590871714"}
-    },
-    {
-      "NamespaceHash": "9F282BBC48AFA03FCB34508F9B1EE91D",
-      "Source": "0/20 Mutations",
-      "Trans": {"SC":"变异数 0/20","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1789932488"}
-    },
-    {
-      "NamespaceHash": "A1527D59470EEC316D17DFAE4A1A3B00",
-      "Source": "0/20 Mutations",
-      "Trans": {"SC":"变异数 0/20","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1789932488"}
-    },
-    {
-      "NamespaceHash": "3BF0D83F480A2DA6D3294EB2188B8E6C",
-      "Source": "Name or Path",
-      "Trans": {"SC":"名称或路径","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3030341133"}
-    },
-    {
-      "NamespaceHash": "CF8636B441730C8B7CA73D98BD86652C",
-      "Source": "Can't find it? Enter the path manually!",
-      "Trans": {"SC":"找不到？手动输入路径！","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1910192982"}
-    },
-    {
-      "NamespaceHash": "749CCD0049F4391A852736A587D2CCBC",
-      "Source": "Dino Name",
-      "Trans": {"SC":"恐龙名称","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3023435550"}
     },
     {
       "NamespaceHash": "DC0CAA034AD2D11FFD1181A888EBBF65",
@@ -1027,6 +134,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3419490617"}
     },
     {
+      "NamespaceHash": "87DF3B784CA7D79ADF5C84A1AB340567",
+      "Source": "Parent   Name  /  Mutation   Count",
+      "Trans": {"SC":"父级名称 / 变异次数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"968847401"}
+    },
+    {
       "NamespaceHash": "A99A19FC4CAB221A822685B4B04D668B",
       "Source": "Wild Stat Points  /  Mutation Points  /  Tamed Stat Points",
       "Trans": {"SC":"野生属性点 / 变异点数 / 分配点数","JA":""},
@@ -1045,16 +158,16 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"823704422"}
     },
     {
-      "NamespaceHash": "87DF3B784CA7D79ADF5C84A1AB340567",
-      "Source": "Parent   Name  /  Mutation   Count",
-      "Trans": {"SC":"父代名称 / 变异次数","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"968847401"}
-    },
-    {
       "NamespaceHash": "F9F5B0FA409777F736F1AC8B503DF7F8",
       "Source": "Mating:",
       "Trans": {"SC":"交配状态：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1596165513"}
+    },
+    {
+      "NamespaceHash": "3FA0B46A4DC17E5E756AD9818B23F242",
+      "Source": "Attack Your Target",
+      "Trans": {"SC":"攻击你的目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3884146029"}
     },
     {
       "NamespaceHash": "A9862F524823212E8EB3D8B62C1FBB71",
@@ -1081,12 +194,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2981247895"}
     },
     {
-      "NamespaceHash": "2732912044AD7A5E1A91EA8DC782579C",
-      "Source": "Resource Production",
-      "Trans": {"SC":"资源产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2684344267"}
-    },
-    {
       "NamespaceHash": "4B6098F242FBB07E9F5F79961FB15126",
       "Source": "Drag Weight:",
       "Trans": {"SC":"拖拽重量：","JA":""},
@@ -1099,142 +206,10 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2174929427"}
     },
     {
-      "NamespaceHash": "AF29EB984CDE06C185068EB40A0B8CF7",
-      "Source": "Ready",
-      "Trans": {"SC":"已就绪","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2723993491"}
-    },
-    {
-      "NamespaceHash": "38D080784D71C3DE8D4F36919168762D",
-      "Source": "Rex_Character_BP",
-      "Trans": {"SC":"霸王龙角色文件","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1587535346"}
-    },
-    {
-      "NamespaceHash": "3A1909E140C3A855BCC5BA8ECC965065",
-      "Source": "SCS CONTAINER",
-      "Trans": {"SC":"超级低温储存容器","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2152182751"}
-    },
-    {
-      "NamespaceHash": "B63C59CC4F69BEE448B998A645F205EF",
-      "Source": "SCS CONTAINER (EMPTY)",
-      "Trans": {"SC":"超级低温储存容器（空）","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1217706642"}
-    },
-    {
-      "NamespaceHash": "3FA0B46A4DC17E5E756AD9818B23F242",
-      "Source": "Attack Your Target",
-      "Trans": {"SC":"攻击目标","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3884146029"}
-    },
-    {
-      "NamespaceHash": "218EA97D475275A0B69A66BCF877832C",
-      "Source": "Tribe of Human",
-      "Trans": {"SC":"人类部落","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1963431537"}
-    },
-    {
-      "NamespaceHash": "331A27364761EF6B5A01969EDF2DA5E6",
-      "Source": "Trike - Lvl 120 (Trike)",
-      "Trans": {"SC":"三角龙 - 120 级（三角龙）","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2744490599"}
-    },
-    {
-      "NamespaceHash": "67D58DD541BADC545872C7B9319E36DD",
-      "Source": "Bruno",
-      "Trans": {"SC":"布鲁诺","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3001579605"}
-    },
-    {
-      "NamespaceHash": "441C00D745413BC5961A78AA2231DAD9",
-      "Source": "True",
-      "Trans": {"SC":"是","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3505014808"}
-    },
-    {
-      "NamespaceHash": "B01A90F045EB5C49D6DACDB4E3043FF6",
-      "Source": "False",
-      "Trans": {"SC":"否","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"710412947"}
-    },
-    {
-      "NamespaceHash": "4C4B30DD4E511660206E7DBBA16E45E3",
-      "Source": "Trike - Lvl 120 (Trike)",
-      "Trans": {"SC":"三角龙 - 120 级（三角龙）","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2744490599"}
-    },
-    {
-      "NamespaceHash": "1CDE11E84C805C7A7D8065BDE53B3214",
-      "Source": "Ready",
-      "Trans": {"SC":"已就绪","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2723993491"}
-    },
-    {
-      "NamespaceHash": "2C1FC40446F67C4A98B6E1AFA29249E3",
-      "Source": "Completed",
-      "Trans": {"SC":"已完成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1805818778"}
-    },
-    {
-      "NamespaceHash": "C3A47DF84F1AD37FA831C395F7CB8EA3",
-      "Source": "Frenetic",
-      "Trans": {"SC":"干劲十足","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3798104982"}
-    },
-    {
-      "NamespaceHash": "E68FD9144092ABC0993DE3BFFBE5FA1F",
-      "Source": "Giantslaying",
-      "Trans": {"SC":"巨人杀手","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3059196305"}
-    },
-    {
-      "NamespaceHash": "9FDB745249F84B272315768CA010F9D6",
-      "Source": "Cowardly",
-      "Trans": {"SC":"胆怯","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3387753948"}
-    },
-    {
-      "NamespaceHash": "FE8750094C839682BB1F50B182C631BF",
-      "Source": "Frail",
-      "Trans": {"SC":"虚弱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3949716344"}
-    },
-    {
-      "NamespaceHash": "F5DB3D4F4A05C995B04B8B8A09A09FEC",
-      "Source": "Bruno",
-      "Trans": {"SC":"布鲁诺","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3001579605"}
-    },
-    {
-      "NamespaceHash": "5FD1DBEE400509B38E3674A640BECB08",
-      "Source": "ADD DINO",
-      "Trans": {"SC":"添加恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"199148510"}
-    },
-    {
-      "NamespaceHash": "3BC425BA4B54E9E8ADB715B8791FA06A",
-      "Source": "Under Construction...",
-      "Trans": {"SC":"功能开发中……","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2349510334"}
-    },
-    {
-      "NamespaceHash": "70135CFD4B106CF0430C7DAE50D568DB",
-      "Source": "Egg Generation settings",
-      "Trans": {"SC":"产蛋设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"174203720"}
-    },
-    {
       "NamespaceHash": "9FF1BB9242C21120841832A26E6266D8",
       "Source": "Initial Page",
-      "Trans": {"SC":"首页","JA":""},
+      "Trans": {"SC":"初始页面","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2389695050"}
-    },
-    {
-      "NamespaceHash": "DC63FE4E40587542EB5E49945C47FF47",
-      "Source": "Rescan Dinos",
-      "Trans": {"SC":"重新扫描恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1065781636"}
     },
     {
       "NamespaceHash": "EA46998748456F96C3B85AA6C6A00599",
@@ -1243,339 +218,147 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1126338817"}
     },
     {
-      "NamespaceHash": "F2849E28401D564E8D781B888EE943DD",
-      "Source": "Resource Generation settings",
-      "Trans": {"SC":"资源产出设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2223731056"}
-    },
-    {
       "NamespaceHash": "4D3FCDE846BA624F8DD5D887FEF04204",
       "Source": "SCS Container settings",
-      "Trans": {"SC":"超级低温储存容器设置","JA":""},
+      "Trans": {"SC":"SCS 低温舱设置","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2155741743"}
     },
     {
       "NamespaceHash": "33F363FB47C8DC64B47A1EA4F114D696",
       "Source": "SCS Gun settings",
-      "Trans": {"SC":"超级低温枪设置","JA":""},
+      "Trans": {"SC":"SCS 手枪设置","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"348210702"}
-    },
-    {
-      "NamespaceHash": "4462E38147D8F8641D1222B88E17508B",
-      "Source": "SCS Terminal settings",
-      "Trans": {"SC":"超级低温储存终端设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1272168541"}
-    },
-    {
-      "NamespaceHash": "24D200B1497F9FA1AC3EE5ADDC4530AE",
-      "Source": "TOGGLE\r\nTOOLTIPS",
-      "Trans": {"SC":"切换提示","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1330691880"}
-    },
-    {
-      "NamespaceHash": "2A379079443B47CFA7A93D9BD7D23B4D",
-      "Source": "TOGGLETOOLTIPS",
-      "Trans": {"SC":"切换提示","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2327127038"}
-    },
-    {
-      "NamespaceHash": "6B4391B040358E76DD7AE69589F4DB09",
-      "Source": "Stored dinos will passively generate resources",
-      "Trans": {"SC":"储存的恐龙会被动产出资源","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2833001427"}
-    },
-    {
-      "NamespaceHash": "47F615204BF5EB7ECE2E09814A50292B",
-      "Source": "Stored dinos will generate unfertilized eggs",
-      "Trans": {"SC":"储存的恐龙会产下未受精蛋","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4195594511"}
-    },
-    {
-      "NamespaceHash": "5A536E1E426660A0DDE7EAA35FCB59C3",
-      "Source": "Adjust the Egg Generation oviraptor bonus",
-      "Trans": {"SC":"调整窃蛋龙对产蛋的加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2891067588"}
-    },
-    {
-      "NamespaceHash": "A53AD8CA404C9F9B37649E8F02CB9A57",
-      "Source": "Add New Resource",
-      "Trans": {"SC":"添加新资源","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1119116814"}
-    },
-    {
-      "NamespaceHash": "98ABB6204AE13DC951EAFA90C664FAE1",
-      "Source": "Adjust the Unfertilized Egg Generation speed",
-      "Trans": {"SC":"调整未受精蛋产出速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"449007567"}
     },
     {
       "NamespaceHash": "2DA1B2054F2C387971E69E8269E8A0A4",
       "Source": "In this panel you can change how you want your server to work with the mod.",
-      "Trans": {"SC":"你可在此面板修改服务器关于该模组的各项配置。","JA":""},
+      "Trans": {"SC":"在此面板中，您可以更改服务器与模组的交互方式。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2349762610"}
-    },
-    {
-      "NamespaceHash": "DC53B0EF49D7A85292999C8ADCCFCDBF",
-      "Source": "Adjust the Poop Generation speed",
-      "Trans": {"SC":"调整产粪速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2569831436"}
-    },
-    {
-      "NamespaceHash": "E756D590443F4F5BD4A115A37C9E4EAE",
-      "Source": "Adjust the Resource Generation speed",
-      "Trans": {"SC":"调整资源产出速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2428576511"}
     },
     {
       "NamespaceHash": "CBB5756646F70FC86BBD20B228B62C33",
       "Source": "Players can capture dinos in combat",
-      "Trans": {"SC":"玩家可在战斗中捕获恐龙","JA":""},
+      "Trans": {"SC":"玩家可以在战斗中捕获恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3571328783"}
-    },
-    {
-      "NamespaceHash": "87BCCCD146393CEAABAD309597022923",
-      "Source": "Adjust the speed beetles convert poop into fertilizer",
-      "Trans": {"SC":"调整蜣螂将粪便转化为化肥的速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1645521953"}
-    },
-    {
-      "NamespaceHash": "7FB1026348C0D89BDF5D2BB4D94406F1",
-      "Source": "Egg Generation",
-      "Trans": {"SC":"产蛋设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"809519730"}
     },
     {
       "NamespaceHash": "12FEE1504931F9DB82F6979F08D2486F",
       "Source": "Keep in Mind:",
-      "Trans": {"SC":"注意事项：","JA":""},
+      "Trans": {"SC":"请注意：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"829159967"}
     },
     {
       "NamespaceHash": "2E8313BD49726E9CB9B0138AA8E0FDAC",
       "Source": "Players will not be able to Capture or Deploy dinos during storms",
-      "Trans": {"SC":"雷暴天气期间玩家无法捕获或部署恐龙","JA":""},
+      "Trans": {"SC":"玩家在风暴期间将无法捕获或部署恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1737070869"}
     },
     {
       "NamespaceHash": "85B087AC4AD242545B6E40A975512CBB",
       "Source": "Loading Data...",
-      "Trans": {"SC":"加载数据中……","JA":""},
+      "Trans": {"SC":"加载数据中...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1381022868"}
-    },
-    {
-      "NamespaceHash": "0CBC78A74EAD5C1E4629D7B17898902D",
-      "Source": "Adjust the egg incubation speed inside SCS Terminals",
-      "Trans": {"SC":"调整超级低温储存终端内的孵蛋速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3143341378"}
-    },
-    {
-      "NamespaceHash": "6999E8D04CA49E920BD61D9B65E4443C",
-      "Source": "Players can enable the fertilized egg collection",
-      "Trans": {"SC":"玩家可开启受精蛋收集功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"325190360"}
     },
     {
       "NamespaceHash": "952EE0604CB0B7C06D4B3686AB505CDD",
       "Source": "Players will be able to capture Titanosaur and Oasisaur",
-      "Trans": {"SC":"玩家可捕获泰坦龙与绿洲龙","JA":""},
+      "Trans": {"SC":"玩家将能够捕获泰坦龙和绿洲龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1088443734"}
     },
     {
       "NamespaceHash": "F766611B41427E37887083BF8A8C8595",
       "Source": "Use the official Cryopod settings for deploying",
-      "Trans": {"SC":"部署时使用官方低温舱设置","JA":""},
+      "Trans": {"SC":"使用官方低温舱设置进行部署","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"237841117"}
     },
     {
       "NamespaceHash": "85D08BF343E082EC6B42A4A27A07234E",
       "Source": "Everything you change in this panel will be applied in real time. There is no need to restart the server.",
-      "Trans": {"SC":"此面板内的所有修改均即时生效，无需重启服务器。","JA":""},
+      "Trans": {"SC":"您在此面板中所做的所有更改都将实时应用，无需重启服务器。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2226128493"}
-    },
-    {
-      "NamespaceHash": "4678F07342C3654B61313FB4EFBE43D9",
-      "Source": "Stored dinos will generate poop",
-      "Trans": {"SC":"储存的恐龙会产生粪便","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1111771346"}
     },
     {
       "NamespaceHash": "76627B2E413C651857C01B9541C9BF4E",
       "Source": "If you accidentaly hit \"Restore Defaults\". Just close the panel without saving and open it again",
-      "Trans": {"SC":"若误点 “恢复默认设置”，直接关闭面板且不保存，重新打开即可复原","JA":""},
+      "Trans": {"SC":"如果您不小心点击了“恢复默认设置”，只需关闭面板而不保存，然后重新打开即可。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1475934430"}
-    },
-    {
-      "NamespaceHash": "EF5D9DE242D3E375957F8E8CC35CC13E",
-      "Source": "Players can enable the fertilized egg incubation",
-      "Trans": {"SC":"玩家可开启受精蛋孵化功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3465270882"}
     },
     {
       "NamespaceHash": "8FC49FE94D68B0FF2E850F95C47FD786",
       "Source": "You can access Dino Recovery using the wheel menu in SCS Terminal",
-      "Trans": {"SC":"可通过超级低温储存终端的环形菜单打开恐龙恢复功能","JA":""},
+      "Trans": {"SC":"您可以通过 SCS 终端中的轮盘菜单访问恐龙恢复功能","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1641303582"}
-    },
-    {
-      "NamespaceHash": "96A23A774063922A15F79EB884D27DA2",
-      "Source": "Players can get XP deleting dinos in the SCS Terminal",
-      "Trans": {"SC":"玩家在超级低温储存终端内删除恐龙可获得经验","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1923425735"}
     },
     {
       "NamespaceHash": "1DE9F97D48CD207A46A84DA88B8060C2",
       "Source": "To activate the Admin Mode, remember to use \"enablecheats\" in the console",
-      "Trans": {"SC":"如需开启管理员模式，请在控制台输入指令 “enablecheats”","JA":""},
+      "Trans": {"SC":"要激活管理员模式，请记得在控制台中使用“enablecheats”","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"493375201"}
     },
     {
       "NamespaceHash": "D02B7C554FFED400589C96B9591760CB",
       "Source": "Check Discord",
-      "Trans": {"SC":"前往Discord社区查看","JA":""},
+      "Trans": {"SC":"查看 Discord","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4201401247"}
-    },
-    {
-      "NamespaceHash": "E65DB4874A6626B49224C7B425F8C786",
-      "Source": "Enable if Oasisaur can generate in the SCS Terminal inventory",
-      "Trans": {"SC":"设置绿洲龙是否可在超级低温储存终端内产出物资","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"826947098"}
     },
     {
       "NamespaceHash": "C208DE624B7AD76B05A1E58BD76D9989",
       "Source": "Click \"Save\" button everytime you make a change",
-      "Trans": {"SC":"每次修改设置后请点击 “保存” 按钮","JA":""},
+      "Trans": {"SC":"每次进行更改后，请点击“保存”按钮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2849148169"}
     },
     {
       "NamespaceHash": "0AD95FD3492F94A6DB6E8395DAF1778A",
       "Source": "If enabled, Auto Grow will use the same rate as the server",
-      "Trans": {"SC":"开启后，自动成长速度将沿用服务器全局设置","JA":""},
+      "Trans": {"SC":"如果启用，自动成长将使用与服务器相同的速率","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2214694627"}
-    },
-    {
-      "NamespaceHash": "DE8FAB3D46854325A8B60F98EEDEA1FF",
-      "Source": "If enabled, egg incubation will use the same rate as the server",
-      "Trans": {"SC":"开启后，孵蛋速度将沿用服务器全局设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2778962301"}
-    },
-    {
-      "NamespaceHash": "A56C26CD43541CDC7E1FE4B3CD8CA8CF",
-      "Source": "Players can use the mate in range button",
-      "Trans": {"SC":"玩家可使用范围内交配按钮","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2975648512"}
-    },
-    {
-      "NamespaceHash": "2AD223AE4F5D441A71654A808D34946F",
-      "Source": "Dino Conversion",
-      "Trans": {"SC":"恐龙转换","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2607225372"}
     },
     {
       "NamespaceHash": "EAFBEB81490BCF978E548AA829764B74",
       "Source": "All items in dino inventory will be saved with the dino",
-      "Trans": {"SC":"恐龙背包内所有物品会随恐龙一同保存","JA":""},
+      "Trans": {"SC":"恐龙背包中的所有物品都将与恐龙一起保存","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3336236336"}
     },
     {
       "NamespaceHash": "C9E0453F4B239F56B67193878FCA62CD",
       "Source": "If enabled players will be able to deploy all dinos in aberration",
-      "Trans": {"SC":"开启后玩家可在畸变地图部署所有恐龙","JA":""},
+      "Trans": {"SC":"如果启用，玩家将能够在畸变地图中部署所有恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"695787410"}
-    },
-    {
-      "NamespaceHash": "170698994E6933F25688CB9A0D939907",
-      "Source": "Players can use the spay dinos in range button",
-      "Trans": {"SC":"玩家可使用范围内绝育按钮","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"931314721"}
     },
     {
       "NamespaceHash": "41D0479946BF7FBE7AFC6B946968835F",
       "Source": "Stored babies will grow up inside cryopods",
-      "Trans": {"SC":"低温舱内的幼龙会自行成长","JA":""},
+      "Trans": {"SC":"存储的幼崽将在低温舱内成长","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1029425573"}
-    },
-    {
-      "NamespaceHash": "23F195FD47B472AA542ED88AD96567C8",
-      "Source": "Adjust the inventory size of SCS Terminal",
-      "Trans": {"SC":"调整超级低温储存终端的仓库容量","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1098321782"}
     },
     {
       "NamespaceHash": "53C508EA43FA11887D971EA90719CC1B",
       "Source": "For any questions or suggestions:",
-      "Trans": {"SC":"如有问题或建议：","JA":""},
+      "Trans": {"SC":"如有任何问题或建议：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3323761851"}
-    },
-    {
-      "NamespaceHash": "4D891DD74D2F972AEA352A87C74A6FEA",
-      "Source": "If enabled, gachas will be able to generate resources in terminal",
-      "Trans": {"SC":"开启后，嘎查可在终端内产出资源","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4128699313"}
     },
     {
       "NamespaceHash": "C57464D648DDC4474493A998E62E3F5A",
       "Source": "If enabled, players will be able to capture extinction titans",
-      "Trans": {"SC":"开启后，玩家可捕获灭绝泰坦生物","JA":""},
+      "Trans": {"SC":"如果启用，玩家将能够捕获灭绝泰坦","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3946299457"}
-    },
-    {
-      "NamespaceHash": "D276F2B548F02A2A05A840B69EAB99ED",
-      "Source": "Adjust the multiplier deleting dinos",
-      "Trans": {"SC":"调整删除恐龙的经验倍率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4099640369"}
-    },
-    {
-      "NamespaceHash": "0E937F354CE3AE60F0634D984053F7D8",
-      "Source": "Terminals will auto transfer resources to dedi storages",
-      "Trans": {"SC":"终端会自动将资源转移至专用仓库","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"346023615"}
-    },
-    {
-      "NamespaceHash": "504D273F4C1E670C54B4FA9D1AE8FF90",
-      "Source": "Players can use the capture all dinos in range button",
-      "Trans": {"SC":"玩家可使用捕获范围内所有恐龙的按钮","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1757013115"}
-    },
-    {
-      "NamespaceHash": "8CBC29A941DC41A6CB697794600CDB13",
-      "Source": "Percent chance gachas will generate resources in interval",
-      "Trans": {"SC":"嘎查单次产出资源的概率","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"917837604"}
-    },
-    {
-      "NamespaceHash": "A351463442890963B8EECB99B04E2C50",
-      "Source": "Speed that Gachas will generate resources",
-      "Trans": {"SC":"嘎查资源产出速度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2104273864"}
-    },
-    {
-      "NamespaceHash": "AF80B8A34FC51325B7C96A85C51FECC6",
-      "Source": "When a pregnant dino is stored, it will be able to mate again when released",
-      "Trans": {"SC":"受孕恐龙被储存后，释放时可重新交配","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"379465814"}
     },
     {
       "NamespaceHash": "D36E15EB46BED5F901AE018F215798B3",
       "Source": "Players can collect Death Cache using the SCS Gun",
-      "Trans": {"SC":"玩家可使用超级低温枪拾取死亡掉落物","JA":""},
+      "Trans": {"SC":"玩家可以使用 SCS 手枪收集死亡缓存","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"83556698"}
-    },
-    {
-      "NamespaceHash": "C7ED89AC4D1C1A777984789E67AB9A8A",
-      "Source": "Admins will not be able to recover lost dinos",
-      "Trans": {"SC":"管理员无法恢复丢失的恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2884016295"}
     },
     {
       "NamespaceHash": "72B6002048BB932452F462A55C9590F5",
       "Source": "If auto grow up is checked, stored babies will be auto imprinted",
-      "Trans": {"SC":"开启自动成长后，储存的幼体会自动完成留痕","JA":""},
+      "Trans": {"SC":"如果勾选了自动成长，存储的幼崽将自动留痕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"800704326"}
     },
     {
       "NamespaceHash": "8940DD534525049026CC1080EBFAF3E3",
       "Source": "If enabled, imprint will be transfered to deployer",
-      "Trans": {"SC":"开启后，恐龙留痕效果会转移至部署者","JA":""},
+      "Trans": {"SC":"如果启用，留痕将转移给部署者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1915384793"}
     },
     {
@@ -1587,38 +370,14 @@
     {
       "NamespaceHash": "71B9F6294A88D4185741A8B66F48C8AC",
       "Source": "Players will be able to deploy dinos in boss arenas",
-      "Trans": {"SC":"玩家可在 BOSS 场地部署恐龙","JA":""},
+      "Trans": {"SC":"玩家将能够在 Boss 竞技场中部署恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3847659927"}
     },
     {
       "NamespaceHash": "43A3E2594AEA0AE542F3E7B6A7293FEB",
       "Source": "Enable this option to activate CryoSickness on your server",
-      "Trans": {"SC":"开启此选项，服务器将启用低温症机制","JA":""},
+      "Trans": {"SC":"启用此选项以在服务器上激活低温症","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3843155888"}
-    },
-    {
-      "NamespaceHash": "5620210A4518BF01073ACBB62373E2D0",
-      "Source": "Beetles will be able to convert poop into fertilizer",
-      "Trans": {"SC":"蜣螂可将粪便转化为化肥","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3317043123"}
-    },
-    {
-      "NamespaceHash": "89B0D9AB48A345CB4EF27EA0F7B11456",
-      "Source": "Save",
-      "Trans": {"SC":"保存","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3625617538"}
-    },
-    {
-      "NamespaceHash": "AC56C7CB4CE97C28900755910844FA14",
-      "Source": "It is highly recomended convert dinos with the same species only.",
-      "Trans": {"SC":"强烈建议仅转换同物种恐龙。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"452248968"}
-    },
-    {
-      "NamespaceHash": "B23B50634C47B629DC010ABC9313E353",
-      "Source": "Enable to allow players to distribute fertilizer to crops",
-      "Trans": {"SC":"允许玩家向耕地分配化肥","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"79195390"}
     },
     {
       "NamespaceHash": "A8C2473245DEB4A78CBD3E826422822B",
@@ -1629,44 +388,20 @@
     {
       "NamespaceHash": "DCA2FEE344458EAFC06D49B41EDEE368",
       "Source": "Welcome to Super Cryo Storage!",
-      "Trans": {"SC":"欢迎使用超级低温储存系统！","JA":""},
+      "Trans": {"SC":"欢迎使用超级低温存储！","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2062828298"}
     },
     {
       "NamespaceHash": "3264DDEA48CFFCB361218DBF40502B63",
       "Source": "If enabled, tribes will receive logs when the dino is stored",
-      "Trans": {"SC":"开启后，恐龙被储存时部落会收到日志记录","JA":""},
+      "Trans": {"SC":"如果启用，部落将在恐龙被存储时收到日志","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2438900572"}
-    },
-    {
-      "NamespaceHash": "AA017D9E4E9F0EA9161C31A9E12E79F2",
-      "Source": "Resource Generation",
-      "Trans": {"SC":"资源产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"661511963"}
     },
     {
       "NamespaceHash": "0D0454D541C50D008B708C958E562C91",
       "Source": "Players will be able to deploy dinos in caves",
-      "Trans": {"SC":"玩家可在洞穴内部署恐龙","JA":""},
+      "Trans": {"SC":"玩家将能够在洞穴中部署恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"995928785"}
-    },
-    {
-      "NamespaceHash": "A1E670574291D880E80B37939FA115D0",
-      "Source": "Adjust the SCS Terminal max range",
-      "Trans": {"SC":"调整超级低温储存终端最大作用范围","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"344367627"}
-    },
-    {
-      "NamespaceHash": "C1ED2AE049C50912D80E3ABBD30897B8",
-      "Source": "Enable to allow players to auto capture baby dinos",
-      "Trans": {"SC":"允许玩家自动捕获幼龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1125418919"}
-    },
-    {
-      "NamespaceHash": "3A2CAAA64C60A1F252F55895B6EDEF9F",
-      "Source": "For Example: Modded Cerato to Vanilla Cerato",
-      "Trans": {"SC":"示例：模组角龙转换为原版角龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1460317974"}
     },
     {
       "NamespaceHash": "0A35A30D4227FECA9D190490F447AFCF",
@@ -1677,103 +412,67 @@
     {
       "NamespaceHash": "7E3A6F6946DF7F001ED6D39141A84265",
       "Source": "Auto grow use server rate",
-      "Trans": {"SC":"自动成长沿用服务器速度","JA":""},
+      "Trans": {"SC":"自动成长使用服务器速率","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3000265675"}
-    },
-    {
-      "NamespaceHash": "12A6B0B94C9894E161C01DA6BE3067E5",
-      "Source": "Beetles Generation Speed:",
-      "Trans": {"SC":"蜣螂转化速度：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4163818060"}
     },
     {
       "NamespaceHash": "CCE3537848B016D883C881845ECBF26D",
       "Source": "Capturing dinos report to tribe log",
-      "Trans": {"SC":"捕获恐龙记录至部落日志","JA":""},
+      "Trans": {"SC":"捕获恐龙报告至部落日志","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2727195331"}
-    },
-    {
-      "NamespaceHash": "BA1487E847EEA936614EE6ADBC77E9AF",
-      "Source": "Enable Capture Dinos in Range",
-      "Trans": {"SC":"开启范围内捕获恐龙功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3046241096"}
     },
     {
       "NamespaceHash": "549A5800474B88D3417F1293EFF3AE78",
       "Source": "Capture items in bags",
-      "Trans": {"SC":"拾取背包内物品","JA":""},
+      "Trans": {"SC":"捕获背包中的物品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3800641122"}
     },
     {
       "NamespaceHash": "ACACB75E4ED908418A9F3AAA5256FE50",
       "Source": "Can capture dino in combat",
-      "Trans": {"SC":"可在战斗中捕获恐龙","JA":""},
+      "Trans": {"SC":"可以在战斗中捕获恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1029206661"}
     },
     {
       "NamespaceHash": "A5A011024131B2BD327EBCA1D7630149",
       "Source": "Can capture raid dinos",
-      "Trans": {"SC":"可捕获特殊恐龙","JA":""},
+      "Trans": {"SC":"可以捕获泰坦类恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3668325551"}
     },
     {
       "NamespaceHash": "57C6808C4DE657EA05F556836292F236",
       "Source": "Can Deploy In Boss Arena",
-      "Trans": {"SC":"可在 BOSS 场地部署","JA":""},
+      "Trans": {"SC":"可以在 Boss 竞技场中部署","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"9612355"}
     },
     {
       "NamespaceHash": "D7A4F5A141487DC35D52AFBD1525434E",
       "Source": "Can Deploy In Caves",
-      "Trans": {"SC":"可在洞穴内部署","JA":""},
+      "Trans": {"SC":"可以在洞穴中部署","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2348665332"}
-    },
-    {
-      "NamespaceHash": "932ADFF44DBD20E0F8E9CD99E9835188",
-      "Source": "Distribute fertilizer to crop plots",
-      "Trans": {"SC":"向耕地分配化肥","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3441015006"}
-    },
-    {
-      "NamespaceHash": "CB73874A4202F67B3E6AED9DF01C5DB7",
-      "Source": "Enable mating in range",
-      "Trans": {"SC":"开启范围内交配","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"661445407"}
-    },
-    {
-      "NamespaceHash": "76BE3D0743AB9EA8AA1CC0A55DA2520C",
-      "Source": "Enable Gain Kill XP Deleting Dinos",
-      "Trans": {"SC":"删除恐龙可获得击杀经验","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2690819458"}
     },
     {
       "NamespaceHash": "91F3194C4D7ADDB66D0BB1A5A5EC0220",
       "Source": "Can only deploy in terminal range",
-      "Trans": {"SC":"仅可在终端范围内部署","JA":""},
+      "Trans": {"SC":"只能在终端范围内部署","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1050395752"}
-    },
-    {
-      "NamespaceHash": "4305407D40D791168B9A81B33A848DED",
-      "Source": "Enable Neuter in Range",
-      "Trans": {"SC":"开启范围内绝育功能","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2136255549"}
     },
     {
       "NamespaceHash": "AAAE1A464907BE268135BD907130B45B",
       "Source": "Can capture Extinction Titans",
-      "Trans": {"SC":"可捕获灭绝泰坦生物","JA":""},
+      "Trans": {"SC":"可以捕获灭绝泰坦","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2732703625"}
     },
     {
       "NamespaceHash": "D9E7A7AA4FDBF2E69CE3BE8AEB5CA94B",
       "Source": "Capturing Time:",
-      "Trans": {"SC":"捕获时长：","JA":""},
+      "Trans": {"SC":"捕获时间：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3884013708"}
     },
     {
       "NamespaceHash": "9F5895204AAF46D562ADE5923987E92C",
       "Source": "Capturing time in combat:",
-      "Trans": {"SC":"战斗中捕获时长：","JA":""},
+      "Trans": {"SC":"战斗中的捕获时间：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"69125310"}
     },
     {
@@ -1785,8 +484,351 @@
     {
       "NamespaceHash": "89DB1DCA476D351FF6C0AE9204EE1861",
       "Source": "Cryo Sickness Time:",
-      "Trans": {"SC":"低温症时长：","JA":""},
+      "Trans": {"SC":"低温症时间：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1734192633"}
+    },
+    {
+      "NamespaceHash": "DE8F93E34C891D42143088A9BADD4BE2",
+      "Source": "Disable Use During Storm",
+      "Trans": {"SC":"风暴期间禁用使用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2142894781"}
+    },
+    {
+      "NamespaceHash": "C7744694412B69D7C141F382C17E2B04",
+      "Source": "Enable Cryo Sickness",
+      "Trans": {"SC":"启用低温症","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"196011906"}
+    },
+    {
+      "NamespaceHash": "AAAAB72048D4B87FCD7BCBA150BF4490",
+      "Source": "Give imprint to deployer",
+      "Trans": {"SC":"将留痕给予部署者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2210566285"}
+    },
+    {
+      "NamespaceHash": "F6EE1A4F4A6FA168946AA28CE14F4840",
+      "Source": "Stored babies can auto grow",
+      "Trans": {"SC":"存储的幼崽可以自动成长","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3554468722"}
+    },
+    {
+      "NamespaceHash": "515890E5442CDFFDC9EC59BA85AE3699",
+      "Source": "Dino Healing Speed:",
+      "Trans": {"SC":"恐龙治疗速度：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"391409013"}
+    },
+    {
+      "NamespaceHash": "DB6BD11745F1227D9ACDA98F8FF4702F",
+      "Source": "Stored XP Multiplier:",
+      "Trans": {"SC":"存储经验倍率：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2466418678"}
+    },
+    {
+      "NamespaceHash": "500251D34CCE4FCF35D55CAA6769263A",
+      "Source": "Stored babies can auto imprint",
+      "Trans": {"SC":"存储的幼崽可以自动留痕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2206091522"}
+    },
+    {
+      "NamespaceHash": "185428ED447016CE8DFBE99E05A13FD7",
+      "Source": "Save dino inventory",
+      "Trans": {"SC":"保存恐龙背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3630596592"}
+    },
+    {
+      "NamespaceHash": "21D23EF74D7C33CDE18F2AB55E41FFA1",
+      "Source": "Titans Download Time:",
+      "Trans": {"SC":"泰坦下载时间：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2165049373"}
+    },
+    {
+      "NamespaceHash": "4203A07F45417762A8BFD5952E0CBB3A",
+      "Source": "Whitelist",
+      "Trans": {"SC":"白名单","JA":""},
+      //翻译不生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"944421348"}
+    },
+    {
+      "NamespaceHash": "3BF0D83F480A2DA6D3294EB2188B8E6C",
+      "Source": "Name or Path",
+      "Trans": {"SC":"名称或路径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3030341133"}
+    },
+    {
+      "NamespaceHash": "CF8636B441730C8B7CA73D98BD86652C",
+      "Source": "Can't find it? Enter the path manually!",
+      "Trans": {"SC":"找不到？手动输入路径！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1910192982"}
+    },
+    {
+      "NamespaceHash": "5FD1DBEE400509B38E3674A640BECB08",
+      "Source": "ADD DINO",
+      "Trans": {"SC":"添加恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"199148510"}
+    },
+    {
+      "NamespaceHash": "3BC425BA4B54E9E8ADB715B8791FA06A",
+      "Source": "Under Construction...",
+      "Trans": {"SC":"正在建设中...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2349510334"}
+    },
+    {
+      "NamespaceHash": "70135CFD4B106CF0430C7DAE50D568DB",
+      "Source": "Egg Generation settings",
+      "Trans": {"SC":"蛋生成设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"174203720"}
+    },
+    {
+      "NamespaceHash": "DC63FE4E40587542EB5E49945C47FF47",
+      "Source": "Rescan Dinos",
+      "Trans": {"SC":"重新扫描恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1065781636"}
+    },
+    {
+      "NamespaceHash": "F2849E28401D564E8D781B888EE943DD",
+      "Source": "Resource Generation settings",
+      "Trans": {"SC":"资源生成设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2223731056"}
+    },
+    {
+      "NamespaceHash": "4462E38147D8F8641D1222B88E17508B",
+      "Source": "SCS Terminal settings",
+      "Trans": {"SC":"SCS 终端设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1272168541"}
+    },
+    {
+      "NamespaceHash": "6B4391B040358E76DD7AE69589F4DB09",
+      "Source": "Stored dinos will passively generate resources",
+      "Trans": {"SC":"存储的恐龙将被动生成资源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2833001427"}
+    },
+    {
+      "NamespaceHash": "47F615204BF5EB7ECE2E09814A50292B",
+      "Source": "Stored dinos will generate unfertilized eggs",
+      "Trans": {"SC":"存储的恐龙将生成未受精蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4195594511"}
+    },
+    {
+      "NamespaceHash": "5A536E1E426660A0DDE7EAA35FCB59C3",
+      "Source": "Adjust the Egg Generation oviraptor bonus",
+      "Trans": {"SC":"调整产蛋窃蛋龙加成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2891067588"}
+    },
+    {
+      "NamespaceHash": "98ABB6204AE13DC951EAFA90C664FAE1",
+      "Source": "Adjust the Unfertilized Egg Generation speed",
+      "Trans": {"SC":"调整未受精蛋生成速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"449007567"}
+    },
+    {
+      "NamespaceHash": "DC53B0EF49D7A85292999C8ADCCFCDBF",
+      "Source": "Adjust the Poop Generation speed",
+      "Trans": {"SC":"调整粪便生成速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2569831436"}
+    },
+    {
+      "NamespaceHash": "E756D590443F4F5BD4A115A37C9E4EAE",
+      "Source": "Adjust the Resource Generation speed",
+      "Trans": {"SC":"调整资源生成速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2428576511"}
+    },
+    {
+      "NamespaceHash": "87BCCCD146393CEAABAD309597022923",
+      "Source": "Adjust the speed beetles convert poop into fertilizer",
+      "Trans": {"SC":"调整蜣螂将粪便转化为化肥的速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1645521953"}
+    },
+    {
+      "NamespaceHash": "7FB1026348C0D89BDF5D2BB4D94406F1",
+      "Source": "Egg Generation",
+      "Trans": {"SC":"蛋生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"809519730"}
+    },
+    {
+      "NamespaceHash": "0CBC78A74EAD5C1E4629D7B17898902D",
+      "Source": "Adjust the egg incubation speed inside SCS Terminals",
+      "Trans": {"SC":"调整 SCS 终端内的蛋孵化速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3143341378"}
+    },
+    {
+      "NamespaceHash": "6999E8D04CA49E920BD61D9B65E4443C",
+      "Source": "Players can enable the fertilized egg collection",
+      "Trans": {"SC":"玩家可以启用受精蛋收集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"325190360"}
+    },
+    {
+      "NamespaceHash": "4678F07342C3654B61313FB4EFBE43D9",
+      "Source": "Stored dinos will generate poop",
+      "Trans": {"SC":"存储的恐龙将生成粪便","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1111771346"}
+    },
+    {
+      "NamespaceHash": "EF5D9DE242D3E375957F8E8CC35CC13E",
+      "Source": "Players can enable the fertilized egg incubation",
+      "Trans": {"SC":"玩家可以启用受精蛋孵化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3465270882"}
+    },
+    {
+      "NamespaceHash": "96A23A774063922A15F79EB884D27DA2",
+      "Source": "Players can get XP deleting dinos in the SCS Terminal",
+      "Trans": {"SC":"玩家在 SCS 终端中删除恐龙可获得经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1923425735"}
+    },
+    {
+      "NamespaceHash": "E65DB4874A6626B49224C7B425F8C786",
+      "Source": "Enable if Oasisaur can generate in the SCS Terminal inventory",
+      "Trans": {"SC":"启用以允许绿洲龙在 SCS 终端库存中生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"826947098"}
+    },
+    {
+      "NamespaceHash": "DE8FAB3D46854325A8B60F98EEDEA1FF",
+      "Source": "If enabled, egg incubation will use the same rate as the server",
+      "Trans": {"SC":"如果启用，蛋孵化将使用与服务器相同的速率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2778962301"}
+    },
+    {
+      "NamespaceHash": "A56C26CD43541CDC7E1FE4B3CD8CA8CF",
+      "Source": "Players can use the mate in range button",
+      "Trans": {"SC":"玩家可以使用范围内交配按钮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2975648512"}
+    },
+    {
+      "NamespaceHash": "2AD223AE4F5D441A71654A808D34946F",
+      "Source": "Dino Conversion",
+      "Trans": {"SC":"恐龙转换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2607225372"}
+    },
+    {
+      "NamespaceHash": "170698994E6933F25688CB9A0D939907",
+      "Source": "Players can use the spay dinos in range button",
+      "Trans": {"SC":"玩家可以使用范围内绝育恐龙按钮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"931314721"}
+    },
+    {
+      "NamespaceHash": "23F195FD47B472AA542ED88AD96567C8",
+      "Source": "Adjust the inventory size of SCS Terminal",
+      "Trans": {"SC":"调整 SCS 终端的库存大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1098321782"}
+    },
+    {
+      "NamespaceHash": "4D891DD74D2F972AEA352A87C74A6FEA",
+      "Source": "If enabled, gachas will be able to generate resources in terminal",
+      "Trans": {"SC":"如果启用，嘎查将能够在终端中生成资源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4128699313"}
+    },
+    {
+      "NamespaceHash": "D276F2B548F02A2A05A840B69EAB99ED",
+      "Source": "Adjust the multiplier deleting dinos",
+      "Trans": {"SC":"调整删除恐龙的倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4099640369"}
+    },
+    {
+      "NamespaceHash": "0E937F354CE3AE60F0634D984053F7D8",
+      "Source": "Terminals will auto transfer resources to dedi storages",
+      "Trans": {"SC":"终端将自动将资源转移到专用存储","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"346023615"}
+    },
+    {
+      "NamespaceHash": "504D273F4C1E670C54B4FA9D1AE8FF90",
+      "Source": "Players can use the capture all dinos in range button",
+      "Trans": {"SC":"玩家可以使用捕获范围内所有恐龙按钮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1757013115"}
+    },
+    {
+      "NamespaceHash": "8CBC29A941DC41A6CB697794600CDB13",
+      "Source": "Percent chance gachas will generate resources in interval",
+      "Trans": {"SC":"嘎查在间隔内生成资源的百分比几率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"917837604"}
+    },
+    {
+      "NamespaceHash": "A351463442890963B8EECB99B04E2C50",
+      "Source": "Speed that Gachas will generate resources",
+      "Trans": {"SC":"嘎查生成资源的速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2104273864"}
+    },
+    {
+      "NamespaceHash": "AF80B8A34FC51325B7C96A85C51FECC6",
+      "Source": "When a pregnant dino is stored, it will be able to mate again when released",
+      "Trans": {"SC":"当怀孕的恐龙被存储时，释放后它将能够再次交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"379465814"}
+    },
+    {
+      "NamespaceHash": "C7ED89AC4D1C1A777984789E67AB9A8A",
+      "Source": "Admins will not be able to recover lost dinos",
+      "Trans": {"SC":"管理员将无法恢复丢失的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2884016295"}
+    },
+    {
+      "NamespaceHash": "5620210A4518BF01073ACBB62373E2D0",
+      "Source": "Beetles will be able to convert poop into fertilizer",
+      "Trans": {"SC":"蜣螂将能够将粪便转化为化肥","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3317043123"}
+    },
+    {
+      "NamespaceHash": "AC56C7CB4CE97C28900755910844FA14",
+      "Source": "It is highly recomended convert dinos with the same species only.",
+      "Trans": {"SC":"强烈建议仅转换同物种的恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"452248968"}
+    },
+    {
+      "NamespaceHash": "AA017D9E4E9F0EA9161C31A9E12E79F2",
+      "Source": "Resource Generation",
+      "Trans": {"SC":"资源生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"661511963"}
+    },
+    {
+      "NamespaceHash": "FF2387494A110339A6C7B089B7B20D15",
+      "Source": "Resource Generation",
+      "Trans": {"SC":"资源生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"661511963"}
+    },
+    {
+      "NamespaceHash": "C1ED2AE049C50912D80E3ABBD30897B8",
+      "Source": "Enable to allow players to auto capture baby dinos",
+      "Trans": {"SC":"启用以允许玩家自动捕获幼崽恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1125418919"}
+    },
+    {
+      "NamespaceHash": "3A2CAAA64C60A1F252F55895B6EDEF9F",
+      "Source": "For Example: Modded Cerato to Vanilla Cerato",
+      "Trans": {"SC":"例如：模组角鼻龙转换为原版角鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1460317974"}
+    },
+    {
+      "NamespaceHash": "12A6B0B94C9894E161C01DA6BE3067E5",
+      "Source": "Beetles Generation Speed:",
+      "Trans": {"SC":"蜣螂生成速度：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4163818060"}
+    },
+    {
+      "NamespaceHash": "BA1487E847EEA936614EE6ADBC77E9AF",
+      "Source": "Enable Capture Dinos in Range",
+      "Trans": {"SC":"启用范围内捕获恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3046241096"}
+    },
+    {
+      "NamespaceHash": "932ADFF44DBD20E0F8E9CD99E9835188",
+      "Source": "Distribute fertilizer to crop plots",
+      "Trans": {"SC":"将化肥分配到耕地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3441015006"}
+    },
+    {
+      "NamespaceHash": "CB73874A4202F67B3E6AED9DF01C5DB7",
+      "Source": "Enable mating in range",
+      "Trans": {"SC":"启用范围内交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"661445407"}
+    },
+    {
+      "NamespaceHash": "76BE3D0743AB9EA8AA1CC0A55DA2520C",
+      "Source": "Enable Gain Kill XP Deleting Dinos",
+      "Trans": {"SC":"启用删除恐龙获得击杀经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2690819458"}
+    },
+    {
+      "NamespaceHash": "4305407D40D791168B9A81B33A848DED",
+      "Source": "Enable Neuter in Range",
+      "Trans": {"SC":"启用范围内绝育","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2136255549"}
     },
     {
       "NamespaceHash": "15C0188D4693961BA816D2ACF7E0B0C7",
@@ -1795,28 +837,10 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"792445328"}
     },
     {
-      "NamespaceHash": "F86E3753426979925FE843A8DBE7E528",
-      "Source": "Achatina is currently generating the following resources:",
-      "Trans": {"SC":"玛瑙螺当前正在产出以下资源：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2654730788"}
-    },
-    {
       "NamespaceHash": "D2A89B4E4E22F2899D00D4B4E218B378",
       "Source": "Disable Dino Recovery Tool",
       "Trans": {"SC":"禁用恐龙恢复工具","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2087531920"}
-    },
-    {
-      "NamespaceHash": "DE8F93E34C891D42143088A9BADD4BE2",
-      "Source": "Disable Use During Storm",
-      "Trans": {"SC":"雷暴天气期间禁止使用","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2142894781"}
-    },
-    {
-      "NamespaceHash": "6D9F103E422812531B26808A93E13039",
-      "Source": "Rex is laying the following egg(s):",
-      "Trans": {"SC":"霸王龙正在产下以下蛋：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2148858700"}
     },
     {
       "NamespaceHash": "C7296CE24883A97E7C21B7B7FC18A412",
@@ -1827,31 +851,25 @@
     {
       "NamespaceHash": "253B46BE44B5430649FD8D9731C2A8EB",
       "Source": "Egg Incubation Speed:",
-      "Trans": {"SC":"孵蛋速度：","JA":""},
+      "Trans": {"SC":"蛋孵化速度：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4278939965"}
     },
     {
       "NamespaceHash": "9DFF26DF4FE225103489B0917EC5EDD6",
       "Source": "Egg Incubation use server rate",
-      "Trans": {"SC":"孵蛋速度沿用服务器设置","JA":""},
+      "Trans": {"SC":"蛋孵化使用服务器速率","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1759833544"}
     },
     {
       "NamespaceHash": "9159A1654EBE13DBD510C7973B043109",
       "Source": "Enable baby auto trap",
-      "Trans": {"SC":"开启幼龙自动捕获","JA":""},
+      "Trans": {"SC":"启用幼崽自动捕获","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2430301479"}
-    },
-    {
-      "NamespaceHash": "C7744694412B69D7C141F382C17E2B04",
-      "Source": "Enable Cryo Sickness",
-      "Trans": {"SC":"开启低温症","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"196011906"}
     },
     {
       "NamespaceHash": "CEF4A77E46D8D9D63886A7BD4E4CB2A2",
       "Source": "Gacha Generation Chance:",
-      "Trans": {"SC":"嘎查产出概率：","JA":""},
+      "Trans": {"SC":"嘎查生成几率：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4205293528"}
     },
     {
@@ -1863,14 +881,8 @@
     {
       "NamespaceHash": "5CC4D1E94A118497909CD9AFE661404F",
       "Source": "Gachas can generate in Terminal",
-      "Trans": {"SC":"嘎查可在终端内产出物资","JA":""},
+      "Trans": {"SC":"嘎查可以在终端中生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"686398597"}
-    },
-    {
-      "NamespaceHash": "AAAAB72048D4B87FCD7BCBA150BF4490",
-      "Source": "Give imprint to deployer",
-      "Trans": {"SC":"留痕效果转移至使用者","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2210566285"}
     },
     {
       "NamespaceHash": "DB11C36A446F87799F605F822D34FA23",
@@ -1879,39 +891,9 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1668874881"}
     },
     {
-      "NamespaceHash": "F6EE1A4F4A6FA168946AA28CE14F4840",
-      "Source": "Stored babies can auto grow",
-      "Trans": {"SC":"储存的幼龙可自动成长","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3554468722"}
-    },
-    {
-      "NamespaceHash": "515890E5442CDFFDC9EC59BA85AE3699",
-      "Source": "Dino Healing Speed:",
-      "Trans": {"SC":"恐龙回血速度：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"391409013"}
-    },
-    {
-      "NamespaceHash": "DB6BD11745F1227D9ACDA98F8FF4702F",
-      "Source": "Stored XP Multiplier:",
-      "Trans": {"SC":"储存恐龙经验倍率：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2466418678"}
-    },
-    {
-      "NamespaceHash": "500251D34CCE4FCF35D55CAA6769263A",
-      "Source": "Stored babies can auto imprint",
-      "Trans": {"SC":"储存的幼龙可自动完成留痕","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2206091522"}
-    },
-    {
-      "NamespaceHash": "9EA8FF1E437B5997CD360E929E69E426",
-      "Source": "Beetles convert poop",
-      "Trans": {"SC":"蜣螂转化粪便","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2422751175"}
-    },
-    {
       "NamespaceHash": "5A5541F840DFD774B95701B5D981D62E",
       "Source": "Oasisaur Can Generate Resources",
-      "Trans": {"SC":"绿洲龙可产出资源","JA":""},
+      "Trans": {"SC":"绿洲龙可以生成资源","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2370793328"}
     },
     {
@@ -1923,56 +905,81 @@
     {
       "NamespaceHash": "28939E314595483B5E3732ACD34B423B",
       "Source": "Enable Resource Generation",
-      "Trans": {"SC":"开启资源产出","JA":""},
+      "Trans": {"SC":"启用资源生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1862425709"}
     },
     {
       "NamespaceHash": "6E7D77164D0CD0C3BE629EBE0FD48D76",
       "Source": "Enable Poop generation",
-      "Trans": {"SC":"开启粪便产出","JA":""},
+      "Trans": {"SC":"启用粪便生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3828568609"}
     },
     {
       "NamespaceHash": "4B1E47EE49D8E6AB11AB94B17CC06D35",
       "Source": "Poop Generation Speed:",
-      "Trans": {"SC":"产粪速度：","JA":""},
+      "Trans": {"SC":"粪便生成速度：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2910923548"}
     },
     {
       "NamespaceHash": "5C6D6BF8401F5EC82B8A40813037AA75",
       "Source": "Resource Generation Speed:",
-      "Trans": {"SC":"资源产出速度：","JA":""},
+      "Trans": {"SC":"资源生成速度：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2335430903"}
-    },
-    {
-      "NamespaceHash": "185428ED447016CE8DFBE99E05A13FD7",
-      "Source": "Save dino inventory",
-      "Trans": {"SC":"保留恐龙背包物品","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3630596592"}
     },
     {
       "NamespaceHash": "7B247F224F5A36A94B0FCA96B75543A0",
       "Source": "Store pregnant reset mating",
-      "Trans": {"SC":"储存受孕恐龙后重置交配冷却","JA":""},
+      "Trans": {"SC":"存储怀孕重置交配","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"240917358"}
     },
     {
       "NamespaceHash": "4A135BCB4940D8F61C0C888DC15A4CDB",
       "Source": "Enable Auto Resource Transfer",
-      "Trans": {"SC":"开启资源自动转移","JA":""},
+      "Trans": {"SC":"启用自动资源转移","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"588901858"}
     },
     {
       "NamespaceHash": "D89697BD4E6850D8AB78F9A239F2A46C",
       "Source": "Enable Fertilized Egg Collection",
-      "Trans": {"SC":"开启受精蛋收集","JA":""},
+      "Trans": {"SC":"启用受精蛋收集","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1105869513"}
     },
     {
       "NamespaceHash": "256C6AD041A73188C0E07DB3644E01CF",
       "Source": "Enable Fertilized Egg Incubation",
-      "Trans": {"SC":"开启受精蛋孵化","JA":""},
+      "Trans": {"SC":"启用受精蛋孵化","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2617503347"}
+    },
+    {
+      "NamespaceHash": "F384AB6740F59A6F76F6999CA7B3BEBB",
+      "Source": "Max Terminal Slots:",
+      "Trans": {"SC":"最大终端槽位：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2791708280"}
+    },
+    {
+      "NamespaceHash": "464464684DDC8D87BF29139CC20105F9",
+      "Source": "Enable Unfertilized Egg generation",
+      "Trans": {"SC":"启用未受精蛋生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"789533993"}
+    },
+    {
+      "NamespaceHash": "6B51A8BD485DFA5EBB80109FA444B059",
+      "Source": "Large",
+      "Trans": {"SC":"","JA":""},
+      //暂时不翻译，留着
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1620421534"}
+    },
+    {
+      "NamespaceHash": "B23B50634C47B629DC010ABC9313E353",
+      "Source": "Enable to allow players to distribute fertilizer to crops",
+      "Trans": {"SC":"启用后允许玩家向作物分发化肥","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"79195390"}
+    },
+    {
+      "NamespaceHash": "A1E670574291D880E80B37939FA115D0",
+      "Source": "Adjust the SCS Terminal max range",
+      "Trans": {"SC":"调整SCS终端的最大范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"344367627"}
     },
     {
       "NamespaceHash": "55BFA3CB49B5601A584A7A8A9B4B505B",
@@ -1981,39 +988,15 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3351795278"}
     },
     {
-      "NamespaceHash": "F384AB6740F59A6F76F6999CA7B3BEBB",
-      "Source": "Max Terminal Slots:",
-      "Trans": {"SC":"终端最大容量：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2791708280"}
-    },
-    {
-      "NamespaceHash": "21D23EF74D7C33CDE18F2AB55E41FFA1",
-      "Source": "Titans Download Time:",
-      "Trans": {"SC":"泰坦生物载入时长：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2165049373"}
-    },
-    {
-      "NamespaceHash": "464464684DDC8D87BF29139CC20105F9",
-      "Source": "Enable Unfertilized Egg generation",
-      "Trans": {"SC":"开启未受精蛋产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"789533993"}
-    },
-    {
-      "NamespaceHash": "4203A07F45417762A8BFD5952E0CBB3A",
-      "Source": "Whitelist",
-      "Trans": {"SC":"白名单","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"944421348"}
-    },
-    {
       "NamespaceHash": "8CEF5EDD4EC4CC02AA77D8B8A3828F9C",
       "Source": "Disable Mating",
-      "Trans": {"SC":"禁止交配","JA":""},
+      "Trans": {"SC":"禁用交配","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2056178872"}
     },
     {
       "NamespaceHash": "E31FC5C34323BF39CDC96F80B4D00E6D",
       "Source": "Poop Slot Settings",
-      "Trans": {"SC":"粪便容量设置","JA":""},
+      "Trans": {"SC":"粪便槽设置","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"408000453"}
     },
     {
@@ -2025,49 +1008,49 @@
     {
       "NamespaceHash": "1A509843461DB99ADEC9BA8A6406C8E0",
       "Source": "Pellets",
-      "Trans": {"SC":"饲料","JA":""},
+      "Trans": {"SC":"食团","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1162413687"}
     },
     {
       "NamespaceHash": "4CFE89A94F0F383E22D6E391EF8F779C",
       "Source": "Pellets per Gacha",
-      "Trans": {"SC":"每只嘎查产出饲料数量","JA":""},
+      "Trans": {"SC":"每个嘎查的食团","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3886081553"}
     },
     {
       "NamespaceHash": "554BE888465D9739418386A8254B97A4",
       "Source": "Generation Info",
-      "Trans": {"SC":"产出信息","JA":""},
+      "Trans": {"SC":"生成信息","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2002189169"}
     },
     {
       "NamespaceHash": "47D0057A45AAA623982569A93BC31E2A",
       "Source": "Utilities",
-      "Trans": {"SC":"功能工具","JA":""},
+      "Trans": {"SC":"实用工具","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2323286452"}
     },
     {
       "NamespaceHash": "74E7EE884F6B76C85D7259B3213B1A0D",
       "Source": "Cryo Dinos",
-      "Trans": {"SC":"低温恐龙","JA":""},
+      "Trans": {"SC":"冷冻恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1578563162"}
     },
     {
       "NamespaceHash": "404D48664085AD68D261AB9CF774F43B",
       "Source": "SCS Terminal - Settings",
-      "Trans": {"SC":"超级低温储存终端 - 设置","JA":""},
+      "Trans": {"SC":"SCS 终端 - 设置","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2265687220"}
     },
     {
       "NamespaceHash": "016EDFE749C3243F9E6002B3634D2E63",
       "Source": "Small",
-      "Trans": {"SC":"小型","JA":""},
+      "Trans": {"SC":"小","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"708482"}
     },
     {
       "NamespaceHash": "713D5166477E6D9BB422DA8DF09801EF",
       "Source": "Enable Mating",
-      "Trans": {"SC":"开启交配","JA":""},
+      "Trans": {"SC":"启用交配","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1543478819"}
     },
     {
@@ -2085,13 +1068,13 @@
     {
       "NamespaceHash": "71F6770A40AA89CDF609B58CFF5D8465",
       "Source": "Terminal Range:",
-      "Trans": {"SC":"终端作用范围：","JA":""},
+      "Trans": {"SC":"终端范围：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"215432372"}
     },
     {
       "NamespaceHash": "2873D1D04028CC5D4843F2BB75E51819",
       "Source": "Fertilizer per plot",
-      "Trans": {"SC":"每块耕地化肥用量","JA":""},
+      "Trans": {"SC":"每块地的化肥","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1469276119"}
     },
     {
@@ -2103,13 +1086,13 @@
     {
       "NamespaceHash": "7726F2804FE24C545DCC6080BEC6BFE6",
       "Source": "Auto Transfer To Dedi Storage",
-      "Trans": {"SC":"自动转移至专用仓库","JA":""},
+      "Trans": {"SC":"自动转移到专用存储","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1940902815"}
     },
     {
       "NamespaceHash": "368123804D63736B02BBA4835DDEB593",
       "Source": "Auto Trap Babies",
-      "Trans": {"SC":"自动捕获幼龙","JA":""},
+      "Trans": {"SC":"自动捕捉幼崽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3611640894"}
     },
     {
@@ -2133,37 +1116,31 @@
     {
       "NamespaceHash": "250E368E4CC31070221EF19196538764",
       "Source": "Poop Generation",
-      "Trans": {"SC":"粪便产出","JA":""},
+      "Trans": {"SC":"粪便生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1721274924"}
-    },
-    {
-      "NamespaceHash": "FF2387494A110339A6C7B089B7B20D15",
-      "Source": "Resource Generation",
-      "Trans": {"SC":"资源产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"661511963"}
     },
     {
       "NamespaceHash": "65BE1BE84F5D1824AA3C139E0D8D887D",
       "Source": "Spay Dinos",
-      "Trans": {"SC":"恐龙绝育","JA":""},
+      "Trans": {"SC":"绝育恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3150962668"}
     },
     {
       "NamespaceHash": "E9C9FDE74E9C7976F3E3B293068CB7C3",
       "Source": "Unfertilized Egg Generation",
-      "Trans": {"SC":"未受精蛋产出","JA":""},
+      "Trans": {"SC":"未受精蛋生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2806628802"}
     },
     {
       "NamespaceHash": "C1325FB146DD8331BE0FE4BCA57877E3",
       "Source": "Check All Dinos",
-      "Trans": {"SC":"查看全部恐龙","JA":""},
+      "Trans": {"SC":"检查所有恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3883097674"}
     },
     {
       "NamespaceHash": "60309C924FDBE9C99F135B9D62D486EC",
       "Source": "No Filter",
-      "Trans": {"SC":"无筛选","JA":""},
+      "Trans": {"SC":"无过滤","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1670579682"}
     },
     {
@@ -2175,7 +1152,7 @@
     {
       "NamespaceHash": "284CCA6C426C50A108D780B4DCEB8398",
       "Source": "Hold the button to delete",
-      "Trans": {"SC":"长按按钮进行删除","JA":""},
+      "Trans": {"SC":"按住按钮删除","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1554479150"}
     },
     {
@@ -2185,94 +1162,106 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4040112642"}
     },
     {
-      "NamespaceHash": "85FE7DEB498F25B74A27FBB84E4FC8D3",
-      "Source": "Confirm",
-      "Trans": {"SC":"确认","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"438339643"}
+      "NamespaceHash": "Content::2019671166",
+      "Source": "Click this button to enable mating for all dinos in range",
+      "Trans": {"SC":"点击此按钮以启用范围内所有恐龙的交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "15CCF78343CF1F310A92208E1426177D",
-      "Source": "Are you sure?",
-      "Trans": {"SC":"确定吗？","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1823543238"}
+      "NamespaceHash": "Content::2239192274",
+      "Source": "Click this button to store all dinos in range",
+      "Trans": {"SC":"点击此按钮以存放范围内所有恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "0A90E4F94C030267CBBA40910ECB8B35",
-      "Source": "This is irreversible. If you confirm, all stored dino data for all players will be deleted.",
-      "Trans": {"SC":"此操作不可撤销。确认后，所有玩家的储存恐龙数据将被全部清除。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3423871641"}
+      "NamespaceHash": "Content::3070547026",
+      "Source": "Click this button to disable mating for all dinos in range",
+      "Trans": {"SC":"点击此按钮以禁用范围内所有恐龙的交配","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "78960FD2417D2834282651AF3A0A170F",
-      "Source": "ADD DINO",
-      "Trans": {"SC":"添加恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"199148510"}
+      "NamespaceHash": "Content::3958433510",
+      "Source": "Hold this button to spay all dinos in range",
+      "Trans": {"SC":"按住此按钮以绝育范围内所有恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "02511CD74EF3153F2F8C4281A0CB7CBE",
-      "Source": "Choose Resource:",
-      "Trans": {"SC":"选择资源：","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1891858109"}
+      "NamespaceHash": "Content::3634898766",
+      "Source": "Enable this option to activate auto collection of fertilized eggs on this terminal",
+      "Trans": {"SC":"启用此选项以激活此终端上受精蛋的自动收集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "D131F285460A8300F60A7F9D0411ED12",
-      "Source": "Confirm Production",
-      "Trans": {"SC":"确认产出","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2788898121"}
+      "NamespaceHash": "Content::1286336891",
+      "Source": "Enable this option to activate fertilized egg incubation on this terminal",
+      "Trans": {"SC":"启用此选项以激活此终端上受精蛋的孵化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "14578DBD440D610E65E335A1DD10D2EA",
-      "Source": "Gacha Production Settings",
-      "Trans": {"SC":"嘎查产出设置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3914477096"}
+      "NamespaceHash": "Content::257195849",
+      "Source": "Enable this option to activate the auto-trap of newborn baby dinos",
+      "Trans": {"SC":"启用此选项以激活新生幼崽恐龙的自动捕捉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "C8371B3546310250D3DC589406A3923E",
-      "Source": "No Filter",
-      "Trans": {"SC":"无筛选","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1670579682"}
+      "NamespaceHash": "Content::3255010136",
+      "Source": "Enable this option to activate resource generation on this terminal",
+      "Trans": {"SC":"启用此选项以激活此终端上的资源生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "503404B84021BBCA6F63159F1D8D3FEC",
-      "Source": "Generation Info",
-      "Trans": {"SC":"产出信息","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2002189169"}
+      "NamespaceHash": "Content::3649664386",
+      "Source": "Enable this option to activate unfertilized egg generation on this terminal",
+      "Trans": {"SC":"启用此选项以激活此终端上未受精蛋的生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "489A14B7440C698E35E8D1BE46A014CF",
-      "Source": "Enter new dino name",
-      "Trans": {"SC":"输入新恐龙名称","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"539904862"}
+      "NamespaceHash": "Content::470996304",
+      "Source": "Enable this option to activate poop generation on this terminal",
+      "Trans": {"SC":"启用此选项以激活此终端上的粪便生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "61E82C8D4CDDD4ED15A0068D57AC455B",
-      "Source": "Melee Dmg",
-      "Trans": {"SC":"近战伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3859601686"}
+      "NamespaceHash": "Content::797638309",
+      "Source": "Enable this option to activate fertilizer convertion from stored Dung Beetles",
+      "Trans": {"SC":"启用此选项以激活从储存的蜣螂转化化肥","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "FE2C685147094DA9E371FEAD0A4FD999",
-      "Source": "Auto Rename",
-      "Trans": {"SC":"自动重命名","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1199812499"}
+      "NamespaceHash": "Content::3404731143",
+      "Source": "This feature is not enabled on the server",
+      "Trans": {"SC":"此功能未在服务器上启用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
+    //{
+      //"NamespaceHash": "GraphLiteral::AF29EB984CDE06C185068EB40A0B8CF7",
+      //"Source": "Ready",
+      //"Trans": {"SC":"已就绪","JA":""},
+      //"Config": {"Item":false,"Dino":false,"Default_Hash":"2723993491"}
+    //},
+    //{
+      //"NamespaceHash": "GraphLiteral::B01A90F045EB5C49D6DACDB4E3043FF6",
+      //"Source": "False",
+      //"Trans": {"SC":"否","JA":""},
+      //"Config": {"Item":false,"Dino":false,"Default_Hash":"710412947"}
+    //},
+    //{
+      //"NamespaceHash": "GraphLiteral::1CDE11E84C805C7A7D8065BDE53B3214",
+      //"Source": "Ready",
+      //"Trans": {"SC":"已就绪","JA":""},
+      //"Config": {"Item":false,"Dino":false,"Default_Hash":"2723993491"}
+    //},
+    //{
+      //"NamespaceHash": "GraphLiteral::2C1FC40446F67C4A98B6E1AFA29249E3",
+      //"Source": "Completed",
+      //"Trans": {"SC":"已完成","JA":""},
+      //"Config": {"Item":false,"Dino":false,"Default_Hash":"1805818778"}
+    //},
     {
-      "NamespaceHash": "2C85E5AE4E2B627D30921AB39DEF0CC8",
-      "Source": "Rename Dino",
-      "Trans": {"SC":"重命名恐龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"99682186"}
-    },
-    {
-      "NamespaceHash": "Content::1620421534",
-      "Source": "Large",
-      "Trans": {"SC":"大型","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1620421534"}
-    },
-    {
-      "NamespaceHash": "Content::1414990227",
-      "Source": "HP",
-      "Trans": {"SC":"生命值","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1414990227"}
+      "NamespaceHash": "9EA8FF1E437B5997CD360E929E69E426",
+      "Source": "Beetles convert poop",
+      "Trans": {"SC":"蜣螂转化粪便","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2422751175"}
     }
   ]
 }
