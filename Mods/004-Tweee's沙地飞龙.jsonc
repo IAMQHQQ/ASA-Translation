@@ -1,0 +1,61 @@
+{
+  "Tweee's Tweaks: Wyverns": [
+    {
+      "NamespaceHash": "Content::1707065055",
+      "Source": "Silly Wyvern",
+      "Trans": {"SC":"笨蛋飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      //作者的恶趣味？
+    },
+    {
+      "NamespaceHash": "Content::2376335609",
+      "Source": "Sand Wyvern",
+      "Trans": {"SC":"沙地飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1739903640",
+      "Source": "Fertilized Sand Wyvern Egg",
+      "Trans": {"SC":"受精的沙地飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3246824363",
+      "Source": "Sand Wyvern Egg",
+      "Trans": {"SC":"沙地飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1483758082",
+      "Source": "Sand Talon",
+      "Trans": {"SC":"沙地飞龙爪钩","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3122323347",
+      "Source": "Sand Blasted",
+      "Trans": {"SC":"风沙蚀痕","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1075939282",
+      "Source": "Blindness, reduced movement speed, and increased damage vulnerability",
+      "Trans": {"SC":"失明，移动速度降低，以及受到的伤害增加","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "6837E6644409F1FD803E9C86D41EBB7E",
+      "Source": "Increases breath attack capacity.",
+      "Trans": {"SC":"增加吐息攻击容量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"99953297"}
+      //1
+    },
+    {
+      "NamespaceHash": "7F590D594B3554247707F3B9CF5C4CCA",
+      "Source": "Increases breath attack capacity.",
+      "Trans": {"SC":"增加吐息攻击容量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"99953297"}
+      //2
+    }
+  ]
+}

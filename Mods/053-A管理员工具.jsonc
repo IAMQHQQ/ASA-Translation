@@ -20,12 +20,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1917945924",
-      "Source": "Configuration",
-      "Trans": {"SC":"配置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::2625977294",
       "Source": "Logs",
       "Trans": {"SC":"日志","JA":""},
@@ -827,12 +821,6 @@
       "NamespaceHash": "Content::3565729979",
       "Source": "Admin Tool",
       "Trans": {"SC":"管理员工具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1910380285",
-      "Source": "AAT Discord Bot",
-      "Trans": {"SC":"AAT Discord机器人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3008,27 +2996,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3002416456",
-      "Source": "Online",
-      "Trans": {"SC":"在线","JA":""},
-      //没生效
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3317214507",
-      "Source": "Offline",
-      "Trans": {"SC":"离线","JA":""},
-      //没生效
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2721769209",
-      "Source": "History",
-      //没生效
-      "Trans": {"SC":"历史记录","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1096871152",
       "Source": "Dino Classes",
       "Trans": {"SC":"恐龙类别","JA":""},
@@ -3073,8 +3040,8 @@
     {
       "NamespaceHash": "Content::1414990227",
       "Source": "HP",
-      "Trans": { "SC": "生命", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"生命","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4209292217",
@@ -3104,13 +3071,6 @@
       "NamespaceHash": "Content::2710279070",
       "Source": "DM",
       "Trans": {"SC":"攻击","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1694414058",
-      "Source": "Custom Pages",
-      "Trans": {"SC":"自定义页面","JA":""},
-      //没生效
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3781,6 +3741,117 @@
       "NamespaceHash": "Content::1149830694",
       "Source": "No Dinos",
       "Trans": {"SC":"没有恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //以下是玩家页面按钮不生效
+    {
+      "NamespaceHash": "Content::3002416456",
+      "Source": "Online",
+      "Trans": {"SC":"在线","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3317214507",
+      "Source": "Offline",
+      "Trans": {"SC":"离线","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2721769209",
+      "Source": "History",
+      //按钮没生效先保留
+      "Trans": {"SC":"历史记录","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //以下是配置页面按钮不生效
+    {
+      "NamespaceHash": "Content::1917945924",
+      "Source": "Configuration",
+      "Trans": {"SC":"配置","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1910380285",
+      "Source": "AAT Discord Bot",
+      "Trans": {"SC":"AAT Discord机器人","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1694414058",
+      "Source": "Custom Pages",
+      "Trans": {"SC":"自定义页面","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //区域生成器页面不生效的按钮 Zone Players Dinos Structures
+    {
+      "NamespaceHash": "Content::2783072981",
+      "Source": "Identity",
+      "Trans": {"SC":"身份","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2633888391",
+      "Source": "Priority Information",
+      "Trans": {"SC":"优先级信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3499043209",
+      "Source": "The image on the right represents two zones where the \"No Fly\" setting is enabled.\\n\\nThe SubSetting \"Dismount In Zone\" is enabled in the green zone (priority = 0) but disabled in the blue zone (priority = 1).\\n\\n- If you are situated in one zone, you will use that zone his sub settings.\\n\\n- If you are situated in two zones (red area), you will use the sub settings of the zone with the highest priority.\\n\\nIn this example if you are situated in the:\\n\\nblue zone -> \"Dismount In Zone\" = disabled \\n\\ngreen zone -> \"Dismount In Zone\" = enabled\\n\\nred area  -> \"Dismount In Zone\" = disabled",
+      "Trans": {"SC":"右侧图像表示启用了“禁止飞行”设置的两个区域。<#N#><#N#>“区域内下马”子设置在绿色区域（优先级=0）中启用，但在蓝色区域（优先级=1）中禁用。<#N#><#N#>- 如果您位于一个区域内，将使用该区域的子设置。<#N#><#N#>- 如果您位于两个区域（红色区域），将使用优先级最高的区域的子设置。<#N#><#N#>在此示例中，如果您位于：<#N#><#N#>蓝色区域 -> “区域内下马” = 禁用 <#N#><#N#>绿色区域 -> “区域内下马” = 启用<#N#><#N#>红色区域 -> “区域内下马” = 禁用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3270301278",
+      "Source": "OK, I understand",
+      "Trans": {"SC":"好的，我明白了","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::963322399",
+      "Source": "Priority",
+      "Trans": {"SC":"优先级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1000361607",
+      "Source": "Dimensions",
+      "Trans": {"SC":"尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::743405946",
+      "Source": "Shape",
+      "Trans": {"SC":"形状","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3120896384",
+      "Source": "Visual",
+      "Trans": {"SC":"视觉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1666336568",
+      "Source": "foundations",
+      "Trans": {"SC":"基础","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1613937534",
+      "Source": "Affected Structures",
+      "Trans": {"SC":"受影响的建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2464911185",
+      "Source": "Structures In Range",
+      "Trans": {"SC":"范围内的建筑","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
