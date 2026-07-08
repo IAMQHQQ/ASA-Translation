@@ -1,0 +1,724 @@
+{
+  "Scorched Earth Reborn": [
+    {
+      "NamespaceHash": "Content::3443814618",
+      "Source": "Enter in an updated version of Scorched Earth with more biomes, more caves, more bosses and much more to do and explore!",
+      "Trans": {"SC":"进入重置版的焦土，这里有更多生物群系、更多洞穴、更多首领，还有更多可做可探索的内容！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::10819174",
+      "Source": "Baby Rhyniognatha",
+      "Trans": {"SC":"莱尼颚虫幼崽","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2120723249",
+      "Source": "The Progenitor",
+      "Trans": {"SC":"始祖","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::595789654",
+      "Source": "Rhyniognatha Guardian",
+      "Trans": {"SC":"莱尼颚虫守护者","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::327720989",
+      "Source": "Deathworm Queen",
+      "Trans": {"SC":"死亡蠕虫女王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2405539993",
+      "Source": "Thorny Dragon Scales",
+      "Trans": {"SC":"棘蜥鳞片","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::692558496",
+      "Source": "Blue Implant",
+      "Trans": {"SC":"蓝色植入体","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4032924736",
+      "Source": "a Strange Implant that could be used to summon something.",
+      "Trans": {"SC":"一个奇怪的植入体，可以用来召唤某物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2393038184",
+      "Source": "Green Implant",
+      "Trans": {"SC":"绿色植入体","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3525150154",
+      "Source": "Red Implant",
+      "Trans": {"SC":"红色植入体","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2652026519",
+      "Source": "Summon a deathworm Queen",
+      "Trans": {"SC":"召唤死亡蠕虫女王","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1070765159",
+      "Source": "Summon a Deathworm Queen and defeat it in battle!",
+      "Trans": {"SC":"召唤死亡蠕虫女王并在战斗中击败它！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2461284896",
+      "Source": "Summon a Lava Golem",
+      "Trans": {"SC":"召唤熔岩魔像","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2694746962",
+      "Source": "Summon a Lava Golem and defeat it in battle!",
+      "Trans": {"SC":"召唤熔岩魔像并在战斗中击败它！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::864155537",
+      "Source": "Summon The Progenitor",
+      "Trans": {"SC":"召唤始祖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3096960173",
+      "Source": "Summon The Progenitor and defeat it in battle!",
+      "Trans": {"SC":"召唤始祖并在战斗中击败它！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1138162303",
+      "Source": "Alpha Lightning Wyvern Trophy",
+      "Trans": {"SC":"精英闪电飞龙奖杯","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1542182674",
+      "Source": "Alpha Poison Wyvern Trophy",
+      "Trans": {"SC":"精英剧毒飞龙奖杯","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DA7A49824C2AB1985C1DF793055DB4E5",
+      "Source": "Ash Lands",
+      "Trans": {"SC":"灰烬之地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1655082542"}
+    //迷宫文字
+    },
+    {
+      "NamespaceHash": "1F610C3A4AD08AE85EB6AE8B454E1621",
+      "Source": "Sulphur Fields",
+      "Trans": {"SC":"硫磺旷野","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1604207936"}
+    //迷宫文字
+    },
+    {
+      "NamespaceHash": "79A47EBF44EFCE7CA972109E15966817",
+      "Source": "Location Of The Infestation",
+      "Trans": {"SC":"侵染之地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2528864884"}
+    //迷宫文字
+    },
+    {
+      "NamespaceHash": "AD18B81C41820CD6D08A16ABA9273069",
+      "Source": "Canyons",
+      "Trans": {"SC":"峡谷","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1681006169"}
+    //迷宫文字
+    },
+    {
+      "NamespaceHash": "043844B6492739C22622A09B3327C71C",
+      "Source": "Prophet's rest",
+      "Trans": {"SC":"先知安息地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2632448803"}
+    //迷宫文字
+    },
+    {
+      "NamespaceHash": "7F37C022478951491893FD88D18BC1F2",
+      "Source": "Final Boss is coming when its done!!  :)",
+      "Trans": {"SC":"最终Boss完成后即会登场!!  :)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2742541945"}
+    //飞升洞文字
+    },
+    {
+      "NamespaceHash": "Content::4057660924",
+      "Source": "The Scorched Tek Cave",
+      "Trans": {"SC":"焦土泰克洞穴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2747059756",
+      "Source": "Deathworm Queen Terminal",
+      "Trans": {"SC":"死亡蠕虫女王终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2941376188",
+      "Source": "Artifact of the Brood",
+      "Trans": {"SC":"上古神器之育母","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1840961441",
+      "Source": "Getting this artifact proves you are stronger than the brood.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"获得此神器足以证明你比育母更加强大。<#RN#><RichColor Color=\"1,0,0,1\">一个生物一次只能携带一个此类物品。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3466859862",
+      "Source": "Artifact of the FlameKeeper",
+      "Trans": {"SC":"上古神器之守焰者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3473054060",
+      "Source": "The mystery of this artifact exceeds many.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"此神器的神秘之处远不止于此。<#RN#><RichColor Color=\"1,0,0,1\">一个生物一次只能携带一个此类物品。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2933713490",
+      "Source": "Artifact of the Infested",
+      "Trans": {"SC":"上古神器之感染","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2593061257",
+      "Source": "The infestation originates from a far off ARK and its been around a long time.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"感染源自一个遥远的方舟，且已存在很长时间。<#RN#><RichColor Color=\"1,0,0,1\">一个生物一次只能携带一个此类物品。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1698881029",
+      "Source": "Artifact of the Inquisitive",
+      "Trans": {"SC":"上古神器之求知","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::34645591",
+      "Source": "The Overseer shows interest in your knowledge.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"监察者对你的知识表现出兴趣。<#RN#><RichColor Color=\"1,0,0,1\">一个生物一次只能携带一个此类物品。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3971903039",
+      "Source": "Artifact of the Molten",
+      "Trans": {"SC":"上古神器之熔火","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3306566659",
+      "Source": "This Artifact stands for the many things that can be molten including element...<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"此神器代表着许多可熔化的东西，包括元素...<#RN#><RichColor Color=\"1,0,0,1\">一个生物一次只能携带一个此类物品。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3822535755",
+      "Source": "Artifact of the Storm",
+      "Trans": {"SC":"上古神器之风暴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2480594554",
+      "Source": "This artifact gives you an omninous feeling of whats to come.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"此神器让你对即将到来的事物有一种不祥的预感。<#RN#><RichColor Color=\"1,0,0,1\">一个生物一次只能携带一个此类物品。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3914009942",
+      "Source": "Artifact of the Noxious",
+      "Trans": {"SC":"上古神器之剧毒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2974352980",
+      "Source": "Holding this artifact makes you feel off.<#RN#><RichColor Color=\"1,0,0,1\">Only one of these may be carried at a time by an organism.</>",
+      "Trans": {"SC":"持有此神器让你感到不适。<#RN#><RichColor Color=\"1,0,0,1\">一个生物一次只能携带一个此类物品。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2636677578",
+      "Source": "The Deathworm Tunnels",
+      "Trans": {"SC":"死亡蠕虫隧道","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::507832547",
+      "Source": "The Electrical Chamber",
+      "Trans": {"SC":"电气密室","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1256998280",
+      "Source": "The Bottom Of The Ark",
+      "Trans": {"SC":"方舟底部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2229883309",
+      "Source": "The Spiral",
+      "Trans": {"SC":"螺旋通道","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1516831679",
+      "Source": "The Entrance.",
+      "Trans": {"SC":"入口","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::909636824",
+      "Source": "The Labyrinth Of Worship",
+      "Trans": {"SC":"崇拜迷宫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2889683606",
+      "Source": "The Infested Cavern",
+      "Trans": {"SC":"感染洞穴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1698487869",
+      "Source": "Trial Of The Wyverns",
+      "Trans": {"SC":"飞龙试炼","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1024416614",
+      "Source": "Cavern Of The Molten",
+      "Trans": {"SC":"熔火洞穴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::187628878",
+      "Source": "Hidden Oasis",
+      "Trans": {"SC":"隐匿绿洲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3915774643",
+      "Source": "Convergent Hollow",
+      "Trans": {"SC":"汇聚空洞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1027733062",
+      "Source": "The Rotten Wastes",
+      "Trans": {"SC":"腐烂荒原","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::452691950",
+      "Source": "Titan Boneyard, 100% W",
+      "Trans": {"SC":"泰坦骨场, 100% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1023473181",
+      "Source": "The Salt Grove, 50% W",
+      "Trans": {"SC":"盐林, 50% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2007960173",
+      "Source": "The Savannah, 60% W",
+      "Trans": {"SC":"稀树草原, 60% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2066511583",
+      "Source": "Savannah's Reach, 60% W",
+      "Trans": {"SC":"萨凡纳之域, 60% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::784803452",
+      "Source": "The Ash Lands, 100% W",
+      "Trans": {"SC":"灰烬之地, 100% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2048776592",
+      "Source": "The Sulphur Fields, 85% W",
+      "Trans": {"SC":"硫磺场, 85% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1909396007",
+      "Source": "The Acid Wastes, 100% W",
+      "Trans": {"SC":"酸蚀废土, 100% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::667566659",
+      "Source": "The Acid Caverns",
+      "Trans": {"SC":"酸液洞穴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3484020553",
+      "Source": "Lava Golem Terminal",
+      "Trans": {"SC":"熔岩魔像终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2688847129",
+      "Source": "The Progenitor Terminal",
+      "Trans": {"SC":"始祖终端","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "10B8A31D43F4C919051DA4A25BC8070D",
+      "Source": "Nosti",
+      "Trans": {"SC":"诺斯蒂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2845765286"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "F9AD21AE42C5E72D6534FA827CDE7DC6",
+      "Source": "Arat Prime",
+      "Trans": {"SC":"阿拉特主星","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1620378585"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "14DE321041B239288E30F2815E0C4DA9",
+      "Source": "The swallowed city.",
+      "Trans": {"SC":"被吞噬的城市。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3745780851"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "B15D95BE42FB785CC3576A8F4459690B",
+      "Source": "John Dahkeya",
+      "Trans": {"SC":"约翰·达基亚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2806860172"}
+    //迷宫文字
+    },
+    {
+      "NamespaceHash": "97D48D8845ADD23413B9F79BC7DBA6E7",
+      "Source": "Nerva",
+      "Trans": {"SC":"涅尔瓦","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1092171639"}
+    //迷宫文字
+    },
+    {
+      "NamespaceHash": "247643674C3D06D080D565BB8BD2622E",
+      "Source": "The Scorched Warlord",
+      "Trans": {"SC":"焦土军阀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1128076210"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "6C41305341E2209AD1D8ED92952485CA",
+      "Source": "Timur",
+      "Trans": {"SC":"帖木儿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3813106363"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "E1FFE84F4AC377164FDDCBB7A1902B01",
+      "Source": "Helena",
+      "Trans": {"SC":"海伦娜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1006062481"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "3239A00B4CFE7C8E51F5F19F14157FA3",
+      "Source": "Raia",
+      "Trans": {"SC":"拉亚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1552657859"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "D9F60591400FE0C2256C179971CEAE0C",
+      "Source": "The One Who Waits",
+      "Trans": {"SC":"等待者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3964959849"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "7EB8ED194728670D0BBEF9B3C35EB3BA",
+      "Source": "Deathworms",
+      "Trans": {"SC":"死亡蠕虫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1247649425"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "16A68F944FE8051E93B84EBD88D1E8E0",
+      "Source": "Mantis",
+      "Trans": {"SC":"螳螂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2112964941"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "F66F5D0D4D4F1C8D3A5D2FADC6175835",
+      "Source": "Hatzegopteryx",
+      "Trans": {"SC":"哈特兹哥翼龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1908529636"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "E98F79CF42AFCC4EE8621EAE1AE7D760",
+      "Source": "The destroyer of civilizations",
+      "Trans": {"SC":"文明的毁灭者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3442129424"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "F149D7534438425696F55ABEAD6C82E2",
+      "Source": "This Boss is a placeholder!!  :)",
+      "Trans": {"SC":"此Boss为占位符!!  :)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3059708380"}
+    },
+    {
+      "NamespaceHash": "C363EC6F47DB9B5C60941E99AD29DCC3",
+      "Source": "This Boss is a placeholder!!  :)",
+      "Trans": {"SC":"此Boss为占位符!!  :)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3059708380"}
+    },
+    {
+      "NamespaceHash": "5E07FD404F743151B08D8F9F77115A1E",
+      "Source": "Gerald",
+      "Trans": {"SC":"杰拉尔德","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1757037661"}
+      //迷宫文字
+    },
+    {
+      "NamespaceHash": "4836D0E14B28469E8ED54084C262DB92",
+      "Source": "Prometheus",
+      "Trans": {"SC":"普罗米修斯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3514049631"}
+      //迷宫文字
+    }
+  ],
+  "Scorched Earth Reborn: Additions": [
+    {
+      "NamespaceHash": "Content::215605224",
+      "Source": "Scorched Bison",
+      "Trans": {"SC":"焦土野牛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1994656428",
+      "Source": "Scorched Megatherium",
+      "Trans": {"SC":"焦土大地懒","JA":"焦土大地懶"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3067646785",
+      "Source": "Alpha Sand Wyvern",
+      "Trans": {"SC":"精英沙地飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1883626554",
+      "Source": "Scorched Mammoth",
+      "Trans": {"SC":"焦土猛犸象","JA":"焦土猛獁象"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2604481228",
+      "Source": "Stegotetrabelodon",
+      "Trans": {"SC":"剑齿象","JA":"劍齿象"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2856025942",
+      "Source": "Scorched Carbonemys",
+      "Trans": {"SC":"焦土碳龟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::348852886",
+      "Source": "Scorched Megaraptor",
+      "Trans": {"SC":"焦土大盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::162385563",
+      "Source": "Scorched Sarcosuchus",
+      "Trans": {"SC":"焦土帝鳄","JA":"焦土帝鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1793123117",
+      "Source": "Gupfish",
+      "Trans": {"SC":"古普鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::607983737",
+      "Source": "Scorched Titanosaur",
+      "Trans": {"SC":"焦土泰坦龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4026550153",
+      "Source": "Fertilized Scorched Carbonemys Egg",
+      "Trans": {"SC":"受精的焦土碳龟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1135595794",
+      "Source": "Scorched Megatherium Saddle",
+      "Trans": {"SC":"焦土大地懒鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3329175402",
+      "Source": "Equip a Scorched Megatherium with this to ride it.",
+      "Trans": {"SC":"装备到焦土大地懒上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::140178247",
+      "Source": "Fertilized Scorched Megaraptor Egg",
+      "Trans": {"SC":"受精的焦土大盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::143085979",
+      "Source": "Equip a Purussaurus with this to ride it.",
+      "Trans": {"SC":"装备到普鲁斯鳄上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1562008732",
+      "Source": "Alpha Sand Wyvern Trophy",
+      "Trans": {"SC":"精英沙地飞龙奖杯","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3680920847",
+      "Source": "Scorched Sarco Saddle",
+      "Trans": {"SC":"焦土帝鳄鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3853398433",
+      "Source": "Equip a Scorched Sarco with this to ride it.",
+      "Trans": {"SC":"装备到焦土帝鳄上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2575450103",
+      "Source": "Scorched Titanosaur Platform Saddle",
+      "Trans": {"SC":"焦土泰坦龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4126423721",
+      "Source": "Equip a Scorched Titanosaur with this to ride it.  You can build structures on the large platform to make a mobile base.",
+      "Trans": {"SC":"装备到焦土泰坦龙上以骑乘。  你可以在大型平台上建造建筑，将其作为移动基地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2694781614",
+      "Source": "Stegotetrabelodon Saddle",
+      "Trans": {"SC":"剑齿象鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2475967885",
+      "Source": "Equip a Stegotetrabelodon with this to ride it.",
+      "Trans": {"SC":"装备到剑齿象上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2969086000",
+      "Source": "Scorched Carbonemys Saddle",
+      "Trans": {"SC":"焦土碳龟鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1650150469",
+      "Source": "Equip a Scorched Carbonemys with this to ride it.",
+      "Trans": {"SC":"装备到焦土碳龟上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1086345446",
+      "Source": "Fertilized Scorched Sarco Egg",
+      "Trans": {"SC":"受精的焦土帝鳄蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2277643667",
+      "Source": "Scorched Titano Egg",
+      "Trans": {"SC":"焦土泰坦龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::148651879",
+      "Source": "Scorched Mammoth Saddle",
+      "Trans": {"SC":"焦土猛犸象鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3722349049",
+      "Source": "Equip a Scorched Mammoth with this to ride it.",
+      "Trans": {"SC":"装备到焦土猛犸象上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4093599451",
+      "Source": "Fertilized Scorched Titano",
+      "Trans": {"SC":"受精的焦土泰坦龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1031669081",
+      "Source": "Scorched Mammoth Platform Saddle",
+      "Trans": {"SC":"焦土猛犸象平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1933017124",
+      "Source": "Equip a Scorched Mammoth with this to ride it. You can build structures on the large platform to make a mobile base.",
+      "Trans": {"SC":"装备到焦土猛犸象上以骑乘。你可以在大型平台上建造建筑，将其作为移动基地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::948332680",
+      "Source": "Cholesterol Poisioning",
+      "Trans": {"SC":"胆固醇中毒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3391692743",
+      "Source": "Why would you do that",
+      "Trans": {"SC":"你为什么要那样做？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3410667375",
+      "Source": "More Cholesterol Posioning",
+      "Trans": {"SC":"更多胆固醇中毒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3028785857",
+      "Source": "You are now full",
+      "Trans": {"SC":"你现在吃饱了","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1851349910",
+      "Source": "Titanatic Shelter",
+      "Trans": {"SC":"泰坦庇护所","JA":"泰坦庇護所"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}
