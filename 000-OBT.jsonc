@@ -22546,7 +22546,7 @@
     {
       "NamespaceHash": "Content::3610451519",
       "Source": "Magmasaur Heat",
-      "Trans": {"SC":"熔喉热量","JA":""},
+      "Trans": {"SC":"熔岩龙高温","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23224,7 +23224,7 @@
     {
       "NamespaceHash": "Content::3591006515",
       "Source": "Mission Area",
-      "Trans": {"SC":"任务区域","JA":""},
+      "Trans": {"SC":"任务区域","JA":"任務区域"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -26026,7 +26026,7 @@
     {
       "NamespaceHash": "Content::2699347341",
       "Source": "Outdoor Radiation",
-      "Trans": {"SC":"室外辐射","JA":""},
+      "Trans": {"SC":"室外辐射","JA":"室外輻射"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32386,7 +32386,7 @@
     {
       "NamespaceHash": "Content::4170333872",
       "Source": "Shielded",
-      "Trans": {"SC":"已有护盾","JA":""},
+      "Trans": {"SC":"已有护盾","JA":"已有護盾"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -45850,7 +45850,7 @@
     {
       "NamespaceHash": "Content::1331707937",
       "Source": "You are not able to build within mission areas.",
-      "Trans": {"SC":"你无法在任务区域内建造。","JA":""},
+      "Trans": {"SC":"你无法在任务区域内建造.","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -54496,7 +54496,7 @@
     {
       "NamespaceHash": "Globals::3183742170",
       "Source": "You are in a Mission Start zone. If you stay, you will join: ",
-      "Trans": {"SC":"你位于任务开始区域。如果你留下来, 则将加入: ","JA":""},
+      "Trans": {"SC":"你位于任务开始区域. 如果你留下来, 则将加入: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70202,7 +70202,7 @@
     {
       "NamespaceHash": "Content::3258139444",
       "Source": "Tek Stegosaurus",
-      "Trans": {"SC":"泰克剑龙","JA":"腐化劍龙"},
+      "Trans": {"SC":"泰克剑龙","JA":"泰克劍龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
