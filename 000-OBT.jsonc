@@ -2722,7 +2722,7 @@
     {
       "NamespaceHash": "Content::3248517560",
       "Source": "Addiction {0}",
-      "Trans": {"SC":"成瘾 {0}","JA":""},
+      "Trans": {"SC":"成瘾度 {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
