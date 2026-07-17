@@ -7478,12 +7478,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::306283331",
-      "Source": "SE",
-      "Trans": {"SC":"焦土","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      },
-    {
       "NamespaceHash": "Content::1089116644",
       "Source": "CUR",
       "Trans": {"SC":"当前","JA":""},
@@ -7493,12 +7487,6 @@
       "NamespaceHash": "Content::2696345315",
       "Source": "Search...",
       "Trans": {"SC":"搜索...","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2576966489",
-      "Source": "sec",
-      "Trans": {"SC":"秒","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

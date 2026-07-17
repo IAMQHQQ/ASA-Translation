@@ -1,5 +1,6 @@
 {
-  "奇虾": [//2025.11.29
+  //2025.11.29
+  "Additions Ascended: Anomalocaris": [
     {
       "NamespaceHash": "Content::2262940722",
       "Source": "Anomalocaris",
@@ -14,9 +15,9 @@
     },
     {
       "NamespaceHash": "Content::3874934773",
-      "Source": "Anomalocaris Pheromone",         
+      "Source": "Anomalocaris Pheromone",
       "Trans": {"SC":"奇虾信息素","JA":""},
-      "Config": {"Item": true,"Dino": false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::152150295",
@@ -178,7 +179,7 @@
       "NamespaceHash": "250ECDA9449D276999FFF3BCF5CC6965",
       "Source": "Anomalocaris prefers {preference},",
       "Trans": {"SC":"奇虾偏好 [{preference}] 攻击","JA":""},
-      "Config": {"Item": false,"Dino": true,"Default_Hash":"3214911511"}
+      "Config": {"Item":false,"Dino":true,"Default_Hash":"3214911511"}
     },
     {
       "NamespaceHash": "25E131404C68F226AE272B8707D60572",

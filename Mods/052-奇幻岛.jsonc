@@ -1,4 +1,5 @@
-{//未完成
+{
+  //2026-7-9 23:21:10
   "Amissa": [
     {
       "NamespaceHash": "Content::3261555875",
@@ -17,6 +18,138 @@
       "Source": "Air Dungeon 2 Boss",
       "Trans": {"SC":"空中地牢 2 首领","JA":"空中地牢 2 首領"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::336010262",
+      "Source": "Beautiful fantasy map with a past civilization which was fighting back the tek.",
+      "Trans": {"SC":"美丽的奇幻地图，描绘了一个曾与泰克科技抗争的古老文明。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1820469743",
+      "Source": "Dragon Throne",
+      "Trans": {"SC":"喷火龙王座","JA":"噴火龙王座"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1544310244",
+      "Source": "Mini Boss Megalodon",
+      "Trans": {"SC":"迷你巨齿鲨首领","JA":"迷你巨齿鯊首領"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::293122101",
+      "Source": "Mummy Egg",
+      "Trans": {"SC":"木乃伊蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2162635205",
+      "Source": "Fertilized Mummy Egg",
+      "Trans": {"SC":"受精的木乃伊蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3647868057",
+      "Source": "Amissa Main Cty",
+      "Trans": {"SC":"阿米萨主城","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4135215332",
+      "Source": "Grassland",
+      "Trans": {"SC":"草原","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::458935022",
+      "Source": "Crystal Beach",
+      "Trans": {"SC":"水晶海滩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4262522760",
+      "Source": "AB Island",
+      "Trans": {"SC":"AB岛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227362516",
+      "Source": "Falling Snow Kingdom",
+      "Trans": {"SC":"落雪王国","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1967965762",
+      "Source": "Red Jungle",
+      "Trans": {"SC":"红色丛林","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1253703972",
+      "Source": "Drake Island",
+      "Trans": {"SC":"龙岛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3895623174",
+      "Source": "Western Badlands - 40% Wind",
+      "Trans": {"SC":"西部荒地 - 40% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::480792914",
+      "Source": "Pirate Island",
+      "Trans": {"SC":"海盗岛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3763366178",
+      "Source": "Middle Low Desert, 20% W",
+      "Trans": {"SC":"中部低地沙漠, 20% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::565149539",
+      "Source": "Western Oasis, 40% W",
+      "Trans": {"SC":"西部绿洲, 40% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::268689861",
+      "Source": "Western Canyons, 65% W",
+      "Trans": {"SC":"西部峡谷, 65% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::402168449",
+      "Source": "Western Low Desert, 20% W",
+      "Trans": {"SC":"西部低地沙漠, 20% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3336803193",
+      "Source": "WestMountains, 85% W",
+      "Trans": {"SC":"西部山脉, 85% 风速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2826729049",
+      "Source": "Amissa City",
+      "Trans": {"SC":"阿米萨城","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4062008027",
+      "Source": "Desert City",
+      "Trans": {"SC":"沙漠城市","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2345039178",
+      "Source": "Amissa",
+      "Trans": {"SC":"奇幻岛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
 }

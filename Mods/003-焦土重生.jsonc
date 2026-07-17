@@ -1,7 +1,8 @@
 {
+  //2026-7-9 05:09:28
   "Scorched Earth Reborn": [
     {
-      "NamespaceHash": "Content::3443814618",
+      "NamespaceHash": "GraphLiteral::3443814618",
       "Source": "Enter in an updated version of Scorched Earth with more biomes, more caves, more bosses and much more to do and explore!",
       "Trans": {"SC":"进入重置版的焦土，这里有更多生物群系、更多洞穴、更多首领，还有更多可做可探索的内容！","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -113,42 +114,42 @@
       "Source": "Ash Lands",
       "Trans": {"SC":"灰烬之地","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1655082542"}
-    //迷宫文字
+      //迷宫文字
     },
     {
       "NamespaceHash": "1F610C3A4AD08AE85EB6AE8B454E1621",
       "Source": "Sulphur Fields",
       "Trans": {"SC":"硫磺旷野","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1604207936"}
-    //迷宫文字
+      //迷宫文字
     },
     {
       "NamespaceHash": "79A47EBF44EFCE7CA972109E15966817",
       "Source": "Location Of The Infestation",
       "Trans": {"SC":"侵染之地","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2528864884"}
-    //迷宫文字
+      //迷宫文字
     },
     {
       "NamespaceHash": "AD18B81C41820CD6D08A16ABA9273069",
       "Source": "Canyons",
       "Trans": {"SC":"峡谷","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1681006169"}
-    //迷宫文字
+      //迷宫文字
     },
     {
       "NamespaceHash": "043844B6492739C22622A09B3327C71C",
       "Source": "Prophet's rest",
       "Trans": {"SC":"先知安息地","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2632448803"}
-    //迷宫文字
+      //迷宫文字
     },
     {
       "NamespaceHash": "7F37C022478951491893FD88D18BC1F2",
       "Source": "Final Boss is coming when its done!!  :)",
       "Trans": {"SC":"最终Boss完成后即会登场!!  :)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2742541945"}
-    //飞升洞文字
+      //飞升洞文字
     },
     {
       "NamespaceHash": "Content::4057660924",
@@ -404,14 +405,14 @@
       "Source": "John Dahkeya",
       "Trans": {"SC":"约翰·达基亚","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2806860172"}
-    //迷宫文字
+      //迷宫文字
     },
     {
       "NamespaceHash": "97D48D8845ADD23413B9F79BC7DBA6E7",
       "Source": "Nerva",
       "Trans": {"SC":"涅尔瓦","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1092171639"}
-    //迷宫文字
+      //迷宫文字
     },
     {
       "NamespaceHash": "247643674C3D06D080D565BB8BD2622E",
@@ -531,7 +532,7 @@
     {
       "NamespaceHash": "Content::2604481228",
       "Source": "Stegotetrabelodon",
-      "Trans": {"SC":"剑齿象","JA":"劍齿象"},
+      "Trans": {"SC":"剑棱齿象","JA":"劍棱齿象"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -621,7 +622,7 @@
     {
       "NamespaceHash": "Content::4126423721",
       "Source": "Equip a Scorched Titanosaur with this to ride it.  You can build structures on the large platform to make a mobile base.",
-      "Trans": {"SC":"装备到焦土泰坦龙上以骑乘。  你可以在大型平台上建造建筑，将其作为移动基地。","JA":""},
+      "Trans": {"SC":"装备到焦土泰坦龙上以骑乘。你可以在大型平台上建造建筑，将其作为移动基地。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

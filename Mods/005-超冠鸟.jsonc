@@ -1,0 +1,917 @@
+{
+  "Supercephalosornis": [
+    {
+      "NamespaceHash": "Content::797777693",
+      "Source": "Supercephalosornis Dossier",
+      "Trans": {"SC":"超冠鸟图鉴","JA":"超冠鸟圖鑑"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1023943627",
+      "Source": "Supercephalosornis Lab Station",
+      "Trans": {"SC":"超冠鸟实验室","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4256548724",
+      "Source": "Supercephalosornis",
+      "Trans": {"SC":"超冠鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2220669922",
+      "Source": "Supercephalosornis Nest",
+      "Trans": {"SC":"超冠鸟巢穴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2965574644",
+      "Source": "Blood Extraction Dart",
+      "Trans": {"SC":"抽血镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::641169678",
+      "Source": "A Dart with a parachute that can extract blood from any creature. <#RN#><#RN#>Blood Can be converted into DNA",
+      "Trans": {"SC":"带有降落伞的镖，可以从任何生物身上抽取血液。<#RN#><#RN#>血液可以转化为DNA","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3837940303",
+      "Source": "Supercephalosornis Fur",
+      "Trans": {"SC":"超冠鸟毛皮","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2764568462",
+      "Source": "Ride that Supercephalosornis!",
+      "Trans": {"SC":"骑上那只超冠鸟！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::777908865",
+      "Source": "Supercephalosornis Saddle",
+      "Trans": {"SC":"超冠鸟鞍具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1510164624",
+      "Source": "Equip a Supercephalosornis with this to ride.",
+      "Trans": {"SC":"装备到超冠鸟上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3389329732",
+      "Source": "Supercephalosornis Egg",
+      "Trans": {"SC":"超冠鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2911154594",
+      "Source": "Fertilized Supercephalosornis Egg",
+      "Trans": {"SC":"受精的超冠鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4164254195",
+      "Source": "Genetically Altered Supercephalosornis Egg",
+      "Trans": {"SC":"基因改造的超冠鸟蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::651409634",
+      "Source": "Can only be hatched in a Supercephalosornis Nest!",
+      "Trans": {"SC":"只能在超冠鸟巢中孵化！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1574638069",
+      "Source": "Chibi-Supercephalosornis",
+      "Trans": {"SC":"袖珍-超冠鸟","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3230218814",
+      "Source": "Supercephalosornis Genetics Lab Station",
+      "Trans": {"SC":"超冠鸟遗传学实验站","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2158255797",
+      "Source": "Used to genetically Engineer your own pure bred Supercephalosornis",
+      "Trans": {"SC":"用于基因工程培育你自己的纯种超冠鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1502012830",
+      "Source": "A placeable Supercephalosornis Dossier full of knowledge on the hybrid super quetz<#RN#><#RN#>Can be used as decoration, or to learn information about Supercephalosornis",
+      "Trans": {"SC":"一个可放置的超冠鸟图鉴，充满了关于杂交版超级风神翼龙的知识<#RN#><#RN#>可用作装饰，或了解超冠鸟的信息。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3624186589",
+      "Source": "Contaminated Dino DNA",
+      "Trans": {"SC":"受污染的恐龙DNA","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2780111249",
+      "Source": "This is a raw extraction of DNA from a blood sample directly from a creature.<#RN#><#RN#>Clean this DNA in the microscope at the Lab Station",
+      "Trans": {"SC":"这是直接从生物血液样本中提取的原始DNA。<#RN#><#RN#>在实验室站的显微镜下清洁这个DNA。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3624585272",
+      "Source": "Dino Blood Sample",
+      "Trans": {"SC":"恐龙血液样本","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4132172891",
+      "Source": "This is a fresh blood sample taken directly from a creature.<#RN#><#RN#>Use this blood to extract DNA.",
+      "Trans": {"SC":"这是直接从生物身上采集的新鲜血液样本。<#RN#><#RN#>使用这个血液来提取DNA。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1062659590",
+      "Source": "Supercephalosornis Genome",
+      "Trans": {"SC":"超冠鸟基因组","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2904243562",
+      "Source": "Inject into a Fertilized <#RN#>Supercephalosornis Egg at<#RN#>the lab station (Stickynote #6)",
+      "Trans": {"SC":"注射到受精的<#RN#>超冠鸟蛋中，在<#RN#>实验室站（便利贴#6）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2507420957",
+      "Source": "Supercephalosornis Schematic",
+      "Trans": {"SC":"超冠鸟蓝图","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4128836845",
+      "Source": "Supercephalosornis Gun Ammo",
+      "Trans": {"SC":"超冠鸟枪弹药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::880147992",
+      "Source": "Used for a Supercephalosornis Gun to shoot",
+      "Trans": {"SC":"用于超冠鸟枪射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2004783181",
+      "Source": "Supercephalosornis Gun Attachment",
+      "Trans": {"SC":"超冠鸟枪配件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2617535813",
+      "Source": "Attach this to your Supercephalosornis's Equipment slot to mow down your enemies in the skies like a fighter jet!",
+      "Trans": {"SC":"将其装备到你的超冠鸟的装备栏，像战斗机一样在空中扫射敌人！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1164763396",
+      "Source": "Works as an Egg Incubator!<#RN#><#RN#>Place fertilized eggs inside and have a tamed Supercephalosornis sit on the nest to incubate them with enhanced speeds.<#RN#><#RN#>Requires a tamed Supercephalosornis sitting on the nest.<#RN#><#RN#>- To Get a Super to sit on nest, toggle the option in a tamed Super's Radial Wheel.",
+      "Trans": {"SC":"可作为蛋孵化器使用！<#RN#><#RN#>将受精的蛋放入其中，并让已驯服的超冠鸟坐在巢上，以加快孵化速度。<#RN#><#RN#>需要已驯服的超冠鸟坐在巢上。<#RN#><#RN#>- 要让超冠鸟坐在巢上，在已驯服的超冠鸟的径向菜单中选择该选项。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3442266995",
+      "Source": "Supercephalosornis Chibi",
+      "Trans": {"SC":"袖珍超冠鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4172938845",
+      "Source": "Slows down fall time",
+      "Trans": {"SC":"减缓下落速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4178940442",
+      "Source": "Fur Warmth",
+      "Trans": {"SC":"毛皮保暖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3279833613",
+      "Source": "Supercephalosornis Fur is keeping you warm!",
+      "Trans": {"SC":"超冠鸟毛皮让你保持温暖！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1322647848",
+      "Source": "Moro's Supercephalosornis",
+      "Trans": {"SC":"Moro的超冠鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "644A905E4C3ADED2ED87E9882B26760C",
+      "Source": "Jab",
+      "Trans": {"SC":"戳击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"753862227"}
+      //技能
+    },
+    {
+      "NamespaceHash": "9E122C454C9C83731347128B6414FCA4",
+      "Source": "Claw Swipe",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2380052121"}
+      //技能
+    },
+    {
+      "NamespaceHash": "161C5ED84D20E7149581F08A5ED9C363",
+      "Source": "Push",
+      "Trans": {"SC":"推","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1145453642"}
+      //技能
+    },
+    {
+      "NamespaceHash": "DC377F1448C3B0D69D2AB49E2B76EEDA",
+      "Source": "Dirt Swipe",
+      "Trans": {"SC":"扬尘扫击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"207202493"}
+      //技能
+    },
+    {
+      "NamespaceHash": "182410354C60EF07D1EC5191BC1426BB",
+      "Source": "Beak Pickup",
+      "Trans": {"SC":"喙拾取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3508454992"}
+      //技能
+    },
+    {
+      "NamespaceHash": "971194394DFDCAC19E2E9D982C28485B",
+      "Source": "Rest",
+      "Trans": {"SC":"休息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3576765682"}
+      //技能
+    },
+    {
+      "NamespaceHash": "090E2ADD4D80599B802491BC04B026C9",
+      "Source": "Emotes",
+      "Trans": {"SC":"表情动作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2232274118"}
+      //技能
+    },
+    {
+      "NamespaceHash": "2BEF836F498F5292C639CCA9AF20080B",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+      //技能
+    },
+    {
+      "NamespaceHash": "AADBE66841811880E8F250A9487ABA5B",
+      "Source": "Bite",
+      "Trans": {"SC":"咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+      //技能
+    },
+    {
+      "NamespaceHash": "420660DF4646EC2C49DC2F9D76FB2FFB",
+      "Source": "Tail Swipe",
+      "Trans": {"SC":"尾扫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2847699287"}
+      //技能
+    },
+    {
+      "NamespaceHash": "0FFBF36F431AB72905760895B4DEE90E",
+      "Source": "Barrel Roll",
+      "Trans": {"SC":"桶滚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"856411773"}
+      //技能
+    },
+    {
+      "NamespaceHash": "7262E5604EBC8832BF23A386895BC46C",
+      "Source": "Throw Mode",
+      "Trans": {"SC":"投掷模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1665368122"}
+      //技能
+    },
+    {
+      "NamespaceHash": "C4C8C55146C9F50D53AA4EAF4872D208",
+      "Source": "Beak Pickup",
+      "Trans": {"SC":"喙拾取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3508454992"}
+      //技能
+    },
+    {
+      "NamespaceHash": "8017267B430B91C05A5DA78012DC5D81",
+      "Source": "ThunderClap",
+      "Trans": {"SC":"雷霆一击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4124965542"}
+      //技能
+    },
+    {
+      "NamespaceHash": "5B34220A48D9B30678A5958AA2C76C77",
+      "Source": "Activate Gun",
+      "Trans": {"SC":"激活枪械","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1233169741"}
+      //技能
+    },
+    {
+      "NamespaceHash": "1108752848AAC98C11563DAA79380BF0",
+      "Source": "Grab",
+      "Trans": {"SC":"抓取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+      //技能
+    },
+    {
+      "NamespaceHash": "4DD30B184E774555D97D70A8A3E67EC1",
+      "Source": "Emotes & AutoPilot",
+      "Trans": {"SC":"表情动作与自动驾驶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4053032889"}
+      //技能
+    },
+    {
+      "NamespaceHash": "260B7F994EB2B7F0D58E9A8FD52D1FB8",
+      "Source": "Wall Latch",
+      "Trans": {"SC":"壁面攀附","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3092664358"}
+      //技能
+    },
+    {
+      "NamespaceHash": "29BEBBE541F3C755253039B585659D7C",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+      //技能
+    },
+    {
+      "NamespaceHash": "Content::2380052121",
+      "Source": "Claw Swipe",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //图标
+    },
+    {
+      "NamespaceHash": "Content::1145453642",
+      "Source": "Push",
+      "Trans": {"SC":"推","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //图标
+    },
+    {
+      "NamespaceHash": "Content::207202493",
+      "Source": "Dirt Swipe",
+      "Trans": {"SC":"扬尘扫击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //图标
+    },
+    {
+      "NamespaceHash": "Content::2847699287",
+      "Source": "Tail Swipe",
+      "Trans": {"SC":"尾扫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //图标
+    },
+    {
+      "NamespaceHash": "Content::2049164572",
+      "Source": "Grab",
+      "Trans": {"SC":"抓取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //图标
+    },
+    {
+      "NamespaceHash": "Content::4124965542",
+      "Source": "ThunderClap",
+      "Trans": {"SC":"雷霆一击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //图标
+    },
+    {
+      "NamespaceHash": "Content::856411773",
+      "Source": "Barrel Roll",
+      "Trans": {"SC":"桶滚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //图标
+    },
+    {
+      "NamespaceHash": "40B7740D48256F395DC825A85BE090F7",
+      "Source": "Moro's Mod Admin Panels",
+      "Trans": {"SC":"Moro的模组管理面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3407494384"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "A127B7FA461E4359385421A79F3136F8",
+      "Source": "Supercephalosornis Admin Panel",
+      "Trans": {"SC":"超冠鸟管理面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1512071423"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "40B1336C49876FBD43D8468B03BD5AD4",
+      "Source": "Admin Settings",
+      "Trans": {"SC":"管理员设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"932630994"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "34B6C8F940B9FDE8D8235A9E3E8C1785",
+      "Source": "Note: If you just purchased this mod, & the buttons are greyed out, restart your game or system to refresh arks registration system.",
+      "Trans": {"SC":"注意：如果您刚购买此模组，且按钮呈灰色，请重启游戏或系统以刷新方舟的注册系统。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4097701160"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "7273315749F40FE2F9388C833869D18E",
+      "Source": "Customize Dino",
+      "Trans": {"SC":"自定义恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4212407752"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "522D43FD439A146EE59FF2B526023238",
+      "Source": "Destroy All Nests & Wild Eggs",
+      "Trans": {"SC":"摧毁所有巢穴与野生蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1976511366"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "0F1E0AAF422E61E65EE072A98FB4DBA0",
+      "Source": "Destroy All Wild Supercephalosornis",
+      "Trans": {"SC":"摧毁所有野生超冠鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3054433734"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "22DF83F74C3F60629FF1F0A33B511602",
+      "Source": "Spawn Dinos Panel",
+      "Trans": {"SC":"生成恐龙面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1512438556"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "1D3CA79840084B55D78C10A6A3C8EB7E",
+      "Source": "Spawn Items Panel",
+      "Trans": {"SC":"生成物品面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2403955707"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "77DEAD8E483FF619D4BEA59216E64864",
+      "Source": "Configure Settings Panel",
+      "Trans": {"SC":"配置设置面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4158271305"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "AF86049C4EF3E46474EB2A9897C40BE1",
+      "Source": "Admin Actions",
+      "Trans": {"SC":"管理员操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3459130386"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "614B5C9B4D752B54DED74EA138551E0E",
+      "Source": "Credits & Socials & Donations",
+      "Trans": {"SC":"鸣谢 & 社交 & 捐赠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3180526478"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "D7CF981243946CFA9ED3AD8FCB08EDC5",
+      "Source": "MoroNada's Discord",
+      "Trans": {"SC":"MoroNada的Discord","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"545726276"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "C9AADDD9491C201AEBA268ACAD86F535",
+      "Source": "MoroNada's YouTube",
+      "Trans": {"SC":"MoroNada的YouTube","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"734138069"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "DE8AD5774549C5E67AE32A9379636BF2",
+      "Source": "Mod Info Google Doc",
+      "Trans": {"SC":"模组信息谷歌文档","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2649726401"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "959D2CA640F0ED43CD7ABCAA8AC5ABBE",
+      "Source": "MoroNada's Twitter",
+      "Trans": {"SC":"MoroNada的Twitter","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4094192436"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "B85FFE9C4C3E4AA3C5AFB3AED846B2B1",
+      "Source": "MoroNada's Artstation",
+      "Trans": {"SC":"MoroNada的Artstation","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3781232131"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "9B8CD53E4002D50D66E214B05FE30FF9",
+      "Source": "Donate - Paypal",
+      "Trans": {"SC":"捐赠 - Paypal","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3421789463"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "D12A30A94E141DA12D2CF3B902EF9989",
+      "Source": "Donate - CashApp",
+      "Trans": {"SC":"捐赠 - CashApp","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1999813184"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "6317D5864787C74BC9893283593D6E05",
+      "Source": "Donate - Patreon",
+      "Trans": {"SC":"捐赠 - Patreon","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2466884922"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "1395AD5A43154B2B8BB7DBACD3F96B03",
+      "Source": "Created all the sound effects used in this mod",
+      "Trans": {"SC":"制作了本模组中使用的所有音效","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1940060218"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "91C9D3C440E064BF4E3C38B11F84BB83",
+      "Source": "Donate To MoroNada!",
+      "Trans": {"SC":"捐赠给 MoroNada！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2802097731"}
+      //管理面板
+    },
+    {
+      "NamespaceHash": "F4B87A8640E0A3567C1C1990E2B26AFD",
+      "Source": "Higher the number, the more damage done",
+      "Trans": {"SC":"数字越高，造成的伤害越多","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1741591273"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "556827F34FAA589F52A2DD8BDB51EDFE",
+      "Source": "Lower the number = less damage taken",
+      "Trans": {"SC":"数字越低 = 受到的伤害越少","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1614153535"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "563F753A4BFA06377D1E3B830C9A5E56",
+      "Source": "Set to the amount of damage you want each shot to take off the gun's durability",
+      "Trans": {"SC":"设置为每次射击消耗枪支耐久度的伤害量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"909819897"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "6F67485E4D3208A1E90F269C06693701",
+      "Source": "Higher number = More Damage :: Lower number = Less Damage",
+      "Trans": {"SC":"数字越高 = 伤害越高 :: 数字越低 = 伤害越低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2953270102"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "F38CDEB843F0E85BD4A9AA8317447DBB",
+      "Source": "The master Adjustment multiplier for the damage output for the gun.",
+      "Trans": {"SC":"枪支伤害输出的主调整倍率。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3978803781"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "6CB08B6A4789C44800C7209A235704D3",
+      "Source": "For example: 300 means it can pickup any dino with a dragweight of 300 or lower",
+      "Trans": {"SC":"例如：300 表示可以抓取拖拽重量为 300 或更低的任何恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2528245841"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "87A800414FF3E52D1CF646A624CAE420",
+      "Source": "True = Allowed to pickup players",
+      "Trans": {"SC":"True = 允许抓取玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3355447920"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "285639644DA72CCA6D0A0A8EFBEAD557",
+      "Source": "True = Allowed to pickup dinos",
+      "Trans": {"SC":"True = 允许抓取恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4111331570"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "5C8CB6E941D7A5FF14144C8EE62B5630",
+      "Source": "True = Allowed to pickup eggs",
+      "Trans": {"SC":"True = 允许抓取蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"719593279"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "6935DAA142A8226A0E8053A1BBCEA8E2",
+      "Source": "What health % the victim in your beak needs to be in order to be swallowed as the finishing blow.",
+      "Trans": {"SC":"喙中受害者需要处于多少生命值百分比才能被作为终结技吞下。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1560301554"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "168C090448EA3AC6FB3BFF9002C0450C",
+      "Source": "What Dragweight is allowed to be swallowed",
+      "Trans": {"SC":"允许被吞下的拖拽重量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"528199934"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "0C63B8FF475DCF5E9429E6A5F2485501",
+      "Source": "The base quantity needed for making a supercephalosornis genome from a schematic",
+      "Trans": {"SC":"从图纸制作超冠鸟基因组所需的基础数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1743178499"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "265B8A294B7A07C284FDA288C5A45140",
+      "Source": "For every Gene Trait Tier, 1-3, you can increase DNA cost by this amount.",
+      "Trans": {"SC":"对于每个基因特质等级（1-3），你可以按此数量增加 DNA 成本。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2615458585"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "63EAB9084382D952F755429E5E716B2D",
+      "Source": "-1 means no level requirement. Any other number will mean a player has to be that level or higher to use.",
+      "Trans": {"SC":"-1 表示无等级要求。任何其他数字意味着玩家必须达到该等级或更高才能使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1631099042"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "0690834C486B19B71A3E24BB17C20976",
+      "Source": "Higher the number, the faster eggs will incubate inside the nest.",
+      "Trans": {"SC":"数字越高，蛋在巢中孵化的速度越快。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3497205588"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "63D143B041279695B06FC594A32DDC46",
+      "Source": "Format is MapName_WP then separate different names by comma",
+      "Trans": {"SC":"格式为 MapName_WP，然后用逗号分隔不同的名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2538665397"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "960879964C06FD59FB595492565900F5",
+      "Source": "Example1_WP, Example2_WP, Example3_WP",
+      "Trans": {"SC":"示例1_WP, 示例2_WP, 示例3_WP","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"369059521"}
+      //ini提示
+    },
+    {
+      "NamespaceHash": "4AB38442432C5E9033F0C6985D1E1D7A",
+      "Source": "Exit Microscope",
+      "Trans": {"SC":"退出显微镜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"55502380"}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "2A12C5CC48618379F08053AE97735B17",
+      "Source": "Click the dark spots on the sample to remove contamination and clean the DNA.",
+      "Trans": {"SC":"点击样本上的暗斑以去除污染并清洁DNA。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4105677327"}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "F1617DDE45CCE94B384D44B89C8281E4",
+      "Source": "No Contaminated DNA Samples found In Lab Inventory.",
+      "Trans": {"SC":"实验室库存中未发现受污染的DNA样本。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3906185947"}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "63C2B00E4E22A8F208AAA8AE97BD9A5B",
+      "Source": "Contaminated DNA\r\nSamples",
+      "Trans": {"SC":"受污染的DNA<#RN#>样本","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1925366485"}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "Content::3991417965",
+      "Source": "Must Contain Gas Or Be powered. Used to make a genetically engineered Supercephalosornis",
+      "Trans": {"SC":"必须含有气体或通电。用于制造基因工程超冠鸟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "FC5CB37A4D38851BDF2E2D877D0392AE",
+      "Source": "Visuals",
+      "Trans": {"SC":"ShiJue","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4037234813"}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "5A03E4D242A283B9F4EC34A296891320",
+      "Source": "Body Customizations",
+      "Trans": {"SC":"身体自定义","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4126197154"}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "078E00B04B134B4D8A65068BDD2B4BA6",
+      "Source": "Randomize",
+      "Trans": {"SC":"sui ji","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4065432072"}
+      //基因实验室
+    },
+    {
+      "NamespaceHash": "2C8BB903417C3061216EAB931650C859",
+      "Source": "Genes",
+      "Trans": {"SC":"ji yin","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3096695586"}
+    },
+    {
+      "NamespaceHash": "2C4C45734AF699E37655A5899875DF48",
+      "Source": "Genome Modifications Capacity:",
+      "Trans": {"SC":"基因组修改容量：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3643232397"}
+    },
+    {
+      "NamespaceHash": "442C7C2342DF1FF0AE269BA934D575DE",
+      "Source": "Exit Computer",
+      "Trans": {"SC":"tui chu","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2168438826"}
+    },
+    {
+      "NamespaceHash": "55AACD6D435677CB1CBBA6BDDCBB14F6",
+      "Source": "Create Schematic",
+      "Trans": {"SC":"chuang jian lan tu","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"489267336"}
+    },
+    {
+      "NamespaceHash": "A66CA18441F139D704C05DAC4BD727E1",
+      "Source": "Reset View",
+      "Trans": {"SC":"chong zhi shi jiao","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"700534047"}
+    },
+    {
+      "NamespaceHash": "355DE07042AD9C1419A038B75A519106",
+      "Source": "Toggle Pose",
+      "Trans": {"SC":"qie huan shi jiao","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4270369032"}
+    },
+    {
+      "NamespaceHash": "594262E748CAA6B3C0D22BB3BE8AFDE5",
+      "Source": "Hide Obstructions",
+      "Trans": {"SC":"yin cang zhang ai","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2750252339"}
+    },
+    {
+      "NamespaceHash": "A170894F43F66D03DBA7C588BC6A99CA",
+      "Source": "Show Crafting Requirements",
+      "Trans": {"SC":"xian shi zhi zuo xu qiu","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"253625831"}
+    },
+    {
+      "NamespaceHash": "A7DC955347672A89CE691581B5AB0CC6",
+      "Source": "Reset",
+      "Trans": {"SC":"chong zhi","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2092924083"}
+    },
+    {
+      "NamespaceHash": "9E9144E44C6D0D79932966A4F2F7ED68",
+      "Source": "Return",
+      "Trans": {"SC":"fan hui","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2784082946"}
+    },
+    {
+      "NamespaceHash": "A657A4744BEF4874386AC092B867B397",
+      "Source": "Patterns",
+      "Trans": {"SC":"图案","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1401503440"}
+    },
+    {
+      "NamespaceHash": "92B0D09A4A23A69A1E69F58F133C17A7",
+      "Source": "Applied Genes (5 Max)",
+      "Trans": {"SC":"已应用基因 (最多5个)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1137338344"}
+    },
+    {
+      "NamespaceHash": "8D91146D4DF09C316D1A6F900C3CECFD",
+      "Source": "Applied Genes (5 Max)",
+      "Trans": {"SC":"已应用基因 (最多5个)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1137338344"}
+    },
+    {
+      "NamespaceHash": "4AC000C447BE2201395447AC1F7AC53B",
+      "Source": "Search Traits",
+      "Trans": {"SC":"搜索特性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3633540761"}
+    },
+    {
+      "NamespaceHash": "65686FE249E1E3D6AB116583A1FA934F",
+      "Source": "Search Traits",
+      "Trans": {"SC":"搜索特性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3633540761"}
+    },
+    {
+      "NamespaceHash": "99DAD7E2463247FEC805ABACF0E9BEB8",
+      "Source": "DNA Cost Details:",
+      "Trans": {"SC":"DNA 消耗详情：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1650703465"}
+    },
+    {
+      "NamespaceHash": "CB25A81B4BF95638F43AB78D20E0F642",
+      "Source": "DNA Cost Details:",
+      "Trans": {"SC":"DNA 消耗详情：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1650703465"}
+    },
+    {
+      "NamespaceHash": "6893F61A4891ECD8433D64AA397448FA",
+      "Source": "Select Egg",
+      "Trans": {"SC":"选择蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2517443382"}
+    },
+    {
+      "NamespaceHash": "7F665C1C4471319E740D529E0BFBD9EE",
+      "Source": "Select Genome",
+      "Trans": {"SC":"选择基因组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"9500966"}
+    },
+    {
+      "NamespaceHash": "609EA1C149E9EC80B0565FB997CBFE1D",
+      "Source": "Proceed With Selection",
+      "Trans": {"SC":"ji xu xuan ze","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2818422566"}
+    },
+    {
+      "NamespaceHash": "505F49C34DBD249021D786B4AEAC7427",
+      "Source": "Name Your Schematic",
+      "Trans": {"SC":"chong ming ming lan tu","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1521810971"}
+    },
+    {
+      "NamespaceHash": "674B65394DABFC4923BC719EDEFFCA71",
+      "Source": "Type Name here",
+      "Trans": {"SC":"在此输入名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"455940496"}
+    },
+    {
+      "NamespaceHash": "C3257F0D4BF501E63465DAAE031CAC8F",
+      "Source": "Save & Create",
+      "Trans": {"SC":"bao cun & chuang jian","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1480791102"}
+    },
+    {
+      "NamespaceHash": "355F2C46442C959C18B9C5BA4BBE4FC9",
+      "Source": "Available Schematics",
+      "Trans": {"SC":"ke yong lan tu","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4098395884"}
+    },
+    {
+      "NamespaceHash": "A3E88EB44840B8184025BD8F12F13B01",
+      "Source": "Proceed with Selected Schematic",
+      "Trans": {"SC":"shi yong xuan ding lan tu ji xu","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"627212557"}
+    },
+    {
+      "NamespaceHash": "015F74AB46CB744FA90E579B2758D05F",
+      "Source": "(Body Modifications)",
+      "Trans": {"SC":"(身体改造)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2588595069"}
+    },
+    {
+      "NamespaceHash": "FC8AE4084FA1B8A07CF231956CD4504E",
+      "Source": "(Gene Modifications)",
+      "Trans": {"SC":"(基因改造)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2401848836"}
+    },
+    {
+      "NamespaceHash": "E02E567B40324C03696A6F888F7ACF21",
+      "Source": "Crafting Requirements:",
+      "Trans": {"SC":"制作需求：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"113463006"}
+    },
+    {
+      "NamespaceHash": "20C1A6F44DA25B5F98D72C9596C5A9BF",
+      "Source": "Custom Info:",
+      "Trans": {"SC":"自定义信息：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"504877585"}
+    },
+    {
+      "NamespaceHash": "6AB032E34DE9047A8F7014A72CF2BBD0",
+      "Source": "Selected Super Schematic",
+      "Trans": {"SC":"选定的超级蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1552212415"}
+    },
+    {
+      "NamespaceHash": "5BB95CA84BA410BB89CFEAA6822D5D3D",
+      "Source": "Custom Name",
+      "Trans": {"SC":"自定义名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1997370173"}
+    },
+    {
+      "NamespaceHash": "9934909B401BED7D9F004087C8264648",
+      "Source": "Moro's Other Mods",
+      "Trans": {"SC":"Moro的其他模组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3928318990"}
+    }
+  ]
+}
