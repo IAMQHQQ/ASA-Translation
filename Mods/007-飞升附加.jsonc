@@ -1,5 +1,5 @@
 {
-  // 2026-04-02 23:31:44
+  // 2026-07-17 20:26:27
   "Acrocanthosaurus": [
     {
       "NamespaceHash": "Content::2951306209",
@@ -155,7 +155,7 @@
     {
       "NamespaceHash": "Content::3450979088",
       "Source": "Fertilized Acrocanthosaurus Egg",
-      "Trans": {"SC":"受精的X-高棘龙蛋","JA":""},
+      "Trans": {"SC":"受精的高棘龙蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {

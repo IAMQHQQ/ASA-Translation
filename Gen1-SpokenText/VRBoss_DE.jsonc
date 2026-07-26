@@ -1,0 +1,148 @@
+{
+  "SpokenText": [
+    {
+      "NamespaceHash": "Globals::3915268143",
+      "Source": "Ich habe die gesamte Simulation für einen neuen Zweck abgeändert: um würdige Diener zu finden, die die neue Welt, die ich erschaffen werde, zu schätzen wissen. Aber du bist zu rebellisch -- und somit unwürdig.",
+      "Trans": {"SC":"我出于一个新的目的而改变了整个模拟系统：我要寻找一批合格的仆从，他们能够欣赏我所创造的新世界。然而你过于叛逆，实在是不合格。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1288120764",
+      "Source": "Gut, dies ist ein Test -- aber es ist ein Test, der zum Scheitern verurteilt ist. Ich möchte würdige Diener für meine neue Welt und dieser Test wird euch aufsässige Versager brechen.",
+      "Trans": {"SC":"虽然这是一场测试，但它无疑失败了。我要的是配得上我的新世界的仆从。这场测试将会击垮你们这些自命不凡的败者。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2525688887",
+      "Source": "Deine Erschafferin, Helena, hat meine Beteiligung nicht vorhergesehen, hätte sie aber tun sollen. Sie kannte mich recht gut und sie hat mich immer unterschätzt. Ich freue mich, ihr zu sagen, dass du gescheitert bist.",
+      "Trans": {"SC":"你的创造者，海莲娜。她本该预见到我的参与，然而她并没有。她很了解我，但总是低估我。我非常期待亲口告诉她你失败了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1277860339",
+      "Source": "Ich sehe, dass du ein Echo von Helena dabei hast. Zu blöd, dass du nun in meiner Welt bist, wo Helena dich nicht retten kann. Ich erinnere mich gut an sie... sie versuchte immer nutzlosen Müll zu retten.",
+      "Trans": {"SC":"我看到你拥有一份海莲娜的复制。但你现在位于我的世界里，海莲娜帮不了你。我很清楚地记得……她总是试图拯救无用的废物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::38041914",
+      "Source": "Ergieb dich jetzt, vielleicht bin ich dann gnädig. Aber fordere mich ruhig weiter heraus, vielleich ziehe ich dieser ganzen Simulation dann den Stecker.",
+      "Trans": {"SC":"现在就投降吧，我或许会对你施以仁慈。但如果仍要抵挡，我可能会将整个模拟系统摧毁。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::723961580",
+      "Source": "Du denkst, dass du gewinnst? [Gluckst]. Ich würde eher die gesamte Simulation zerstören, als dich gewinnen zu lassen!",
+      "Trans": {"SC":"你以为你赢了？[哈哈大笑]。我宁愿毁掉整个模拟也不愿让你获胜！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2048984027",
+      "Source": "Warum solltest du einen Test machen, den du keinesfalls bestehen kannst?",
+      "Trans": {"SC":"你们为什么要参加一场必然失败的测试呢？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1366903244",
+      "Source": "Ich hoffte, du würdest etwas aus all den Bestrafungen von mir lernen.",
+      "Trans": {"SC":"我希望你们能从惩罚中吸取教训。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2692929371",
+      "Source": "Wie tolpatschig. Wie pathetisch.",
+      "Trans": {"SC":"如此拙劣。如此……可悲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3450181340",
+      "Source": "Wir sind nicht so unterschiedlich, Überlebender.",
+      "Trans": {"SC":"生存者，我们没有什么不同……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1304408246",
+      "Source": "Mua-ha-ha-ha-ha-ha!",
+      "Trans": {"SC":"哇哈哈哈哈！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3617255858",
+      "Source": "Du kannst dich hier nicht zum Sieg „hacken“!",
+      "Trans": {"SC":"在这里，你们无法通过作弊取胜！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3367079619",
+      "Source": "Akzeptiere das Unvermeidliche, Überlebender!",
+      "Trans": {"SC":"生存者，接受不可避免的事实吧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1012326573",
+      "Source": "Überlebender, du bist verdammt!",
+      "Trans": {"SC":"生存者，你们注定要完了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::34528407",
+      "Source": "Siehe! Dein Untergang naht! Ha-ha-ha-ha-ha!",
+      "Trans": {"SC":"看呐！你们的命运将至！哈哈哈哈哈……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1610468257",
+      "Source": "Es gibt keine Worte dafür, wie dumm du bist.",
+      "Trans": {"SC":"你们的愚蠢无法用语言来形容。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1010600359",
+      "Source": "Defeat me here, and you doom yourself, survivor. Wait 'til I find you... in the world beyond... ",
+      "Trans": {"SC":"击败了我，你将迎来厄运。我一定会在那个世界……找到你……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3320764654",
+      "Source": "Your luck’s running out -- and your time’s running out, too.",
+      "Trans": {"SC":"你的好运快用光了，你的时间也是。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3171490168",
+      "Source": "You’re so slow! Perhaps I should just delete this test and wipe the slate clean.",
+      "Trans": {"SC":"你太慢了！或许我应该直接删除这个测试。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1066069694",
+      "Source": "Du tust mir weh... was fällt dir ein?",
+      "Trans": {"SC":"你攻击了我……好大的胆子！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2936981802",
+      "Source": "Arrgh! Ich... kann deinen jämmerlichen Angriffen... widerstehen...",
+      "Trans": {"SC":"啊！我……可以轻易承受……你无力的攻击……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2557905692",
+      "Source": "[gequältes Seufzen] Aber ich habe mich unverwundbar gemacht! Das ist nicht fair!",
+      "Trans": {"SC":"[痛苦的呻吟]我不应该是无敌的吗？不公平！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2735730060",
+      "Source": "Willkommen zum letzten Test. Und den letzten Momenten des Lebens. Du kannst dich ruhig anstrengen, doch du wirst trotzdem unvermeidlich versagen.",
+      "Trans": {"SC":"欢迎来到终极试炼！这里也是你生命的终点！尽情挣扎吧，但你必将失败。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::500778975",
+      "Source": "Registriere ich einen Überlebenden, der darauf brennt, den letzten Test zu absolvieren? Hervorragend. Ich deaktiviere die Sicherheitsprotokolle. Mach dich darauf gefasst, gelöscht zu werden!",
+      "Trans": {"SC":"我发现了一位渴望参加终极试炼的生存者？完美。我正在解除安全协议。你等着被删除吧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

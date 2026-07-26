@@ -1,0 +1,112 @@
+{
+  "SpokenText": [
+    {
+      "NamespaceHash": "Globals::2247189211",
+      "Source": "私はシステムに干渉し、このシミュレーション全体を書き換えたのだ。そう、私がこれから作る新世界に相応しい者を選定するためにな。だが、貴様は反抗的すぎる… 不合格だ",
+      "Trans": {"SC":"我出于一个新的目的而改变了整个模拟系统：我要寻找一批合格的仆从，他们能够欣赏我所创造的新世界。然而你过于叛逆，实在是不合格。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2916275279",
+      "Source": "これはテストなんだよ。貴様らが永遠に合格することのない、な。新世界に必要なのは私の手足となる従順な下僕だけだ。反抗する者は振り落とされる運命なのだ",
+      "Trans": {"SC":"虽然这是一场测试，但它无疑失败了。我要的是配得上我的新世界的仆从。这场测试将会击垮你们这些自命不凡的败者。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3838338876",
+      "Source": "貴様のオリジナルであるヘレナは、私がこのシミュレーションに干渉することを予期していなかったようだが、それはあまりに愚鈍すぎる。彼女は私のことをよく知っていて、そしていつも私を過小に評価していた。貴様が失敗したことを奴に伝えるのが、今から楽しみだよ",
+      "Trans": {"SC":"你的创造者，海莲娜。她本该预见到我的参与，然而她并没有。她很了解我，但总是低估我。我非常期待亲口告诉她你失败了。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3208231745",
+      "Source": "ヘレナの真似事は結構だが、残念ながら、今や貴様は私の世界の一部に過ぎない。オリジナルが貴様を助けに来ることなどない。ああ、彼女のことはよく覚えているよ… 役にも立たないクズのような連中をいつも助けようとしていた",
+      "Trans": {"SC":"我看到你拥有一份海莲娜的复制。但你现在位于我的世界里，海莲娜帮不了你。我很清楚地记得……她总是试图拯救无用的废物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1502609995",
+      "Source": "降伏しろ。さすれば、情けをかけてやってもいい。だが、それでもまだ私に反抗するというのなら、このテストをなかったことにするまでだ",
+      "Trans": {"SC":"现在就投降吧，我或许会对你施以仁慈。但如果仍要抵挡，我可能会将整个模拟系统摧毁。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2101582053",
+      "Source": "貴様らは、本当に自分が勝てるとでも思っているのか？ 貴様らを勝たせるぐらいなら、このシミュレーション自体を破壊した方が幾ばくかマシというものだ！",
+      "Trans": {"SC":"你以为你赢了？[哈哈大笑]。我宁愿毁掉整个模拟也不愿让你获胜！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::869636345",
+      "Source": "最初から合格などできないテストに、なぜ挑もうとする？",
+      "Trans": {"SC":"你们为什么要参加一场必然失败的测试呢？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::387827673",
+      "Source": "貴様らは、私の与えた罰から何も学んでいないようだな",
+      "Trans": {"SC":"我希望你们能从惩罚中吸取教训。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2460107985",
+      "Source": "愚かな奴らだ。憐れみすら感じる",
+      "Trans": {"SC":"如此拙劣。如此……可悲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2177608862",
+      "Source": "私と貴様は本質的には同じなのだよ、サバイバー",
+      "Trans": {"SC":"生存者，我们没有什么不同……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2830694238",
+      "Source": "ハッハハハハハハハ！",
+      "Trans": {"SC":"哇哈哈哈哈！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1853526805",
+      "Source": "いくらハッキングをしようと、ここには勝利という概念など存在しない！",
+      "Trans": {"SC":"在这里，你们无法通过作弊取胜！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3915844193",
+      "Source": "サバイバーよ、不可避の運命を受け入れるがいい！",
+      "Trans": {"SC":"生存者，接受不可避免的事实吧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3559608885",
+      "Source": "貴様らはここで終わりだ、サバイバー",
+      "Trans": {"SC":"生存者，你们注定要完了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::242193019",
+      "Source": "クク… 滅びの時はすぐそこまで来ているぞ！ ハハハハハ！",
+      "Trans": {"SC":"看呐！你们的命运将至！哈哈哈哈哈……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1586281811",
+      "Source": "貴様らの愚かさは、もはや言葉では言い表すことすらできんな",
+      "Trans": {"SC":"你们的愚蠢无法用语言来形容。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1196368034",
+      "Source": "私の滅びは、貴様の滅びと同義だ。必ず貴様を探し出し、殺してやる。それまで精々、この先に待ち受ける世界を楽しむがいい",
+      "Trans": {"SC":"击败了我，你将迎来厄运。我一定会在那个世界……找到你……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1125641204",
+      "Source": "最後のテストへようこそ。ここが君の人生の終着点だ。さあ、精々足掻くがいい。敗北は不可避だ",
+      "Trans": {"SC":"欢迎来到终极试炼！这里也是你生命的终点！尽情挣扎吧，但你必将失败。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}
