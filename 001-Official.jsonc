@@ -1,23 +1,22 @@
 {
-  //2026-07-08 22:56:23
   "Official": [
     {
       "NamespaceHash": "Content::1904571756",
       "Source": "Destroy every artillery tower with ship cannons or cannon structures!",
-      "Trans": { "SC": "使用舰炮或火炮摧毁所有炮塔!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"使用舰炮或火炮摧毁所有炮塔!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::155149050",
       "Source": "Towers Remaining:",
-      "Trans": { "SC": "剩余炮塔:", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"剩余炮塔:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "90A98D454C269F523DC19CA3442193CE",
       "Source": "Hold",
-      "Trans": { "SC": "按", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "3624928313" }
+      "Trans": {"SC":"按","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3624928313"}
     },
     {
       "NamespaceHash": "Content::2787376333",
@@ -82,8 +81,8 @@
     {
       "NamespaceHash": "Content::2040494594",
       "Source": " Addiction",
-      "Trans": { "SC": " 成瘾度", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":" 成瘾度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1770505951",
@@ -238,13 +237,13 @@
     {
       "NamespaceHash": "Content::535166723",
       "Source": "[Change to Poison Web Shot]",
-      "Trans": {"SC":"切换至毒网射击","JA":""},
+      "Trans": {"SC":"[切换至毒网射击]","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2559593082",
       "Source": "[Change to Web Shot]",
-      "Trans": {"SC":"切换至蛛网射击","JA":""},
+      "Trans": {"SC":"[切换至蛛网射击]","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -6664,7 +6663,7 @@
     {
       "NamespaceHash": "GraphLiteral::615833327",
       "Source": "Umbra & Lumina",
-      "Trans": {"SC":"幽影仔 & 皎光仔","JA":""},
+      "Trans": {"SC":"幽影仔与皎光仔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -74104,6 +74103,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
+  "LostColonyVoice": [],
   //失落之地任务 - 2026-07-09 00:51:53
   "DT_Milestones_LC": [
     {
@@ -76200,7 +76200,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Gamma Moeder, Master of the Ocean",
-      "Trans": {"SC":"击败首领: 海洋之主莫德尔 (简单)","JA":""},
+      "Trans": {"SC":"击败BOSS: 海洋之主莫德尔 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1866832116"}
     },
     {
@@ -76254,7 +76254,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaController_MilestoneDescription",
       "Source": "Defeat Boss: Gamma Corrupted Master Controller",
-      "Trans": {"SC":"击败首领: 腐化的主宰者 (简单)","JA":""},
+      "Trans": {"SC":"击败BOSS: 腐化的主宰者 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3239498533"}
     },
     {
@@ -76284,7 +76284,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestShellFragments_MilestoneDescription",
       "Source": "Harvest 10 Shell Fragments",
-      "Trans": {"SC":"采集 10 份贝壳碎片","JA":""},
+      "Trans": {"SC":"采集 10 份甲壳碎片","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1548839888"}
     },
     {
@@ -76306,34 +76306,34 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1726745278"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteSpaceMissionsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3944153332",
       "Source": "Complete 10 Space Biome Missions",
       "Trans": {"SC":"完成 10 个太空生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3944153332"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteJourContractB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::465306398",
       "Source": "Complete 3 Journeyman Contracts",
       "Trans": {"SC":"完成 3 个精良契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"465306398"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteMasterContractA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::849106320",
       "Source": "Complete 1 Mastercraft Contract",
       "Trans": {"SC":"完成 1 个史诗契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"849106320"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsE_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1101661303",
       "Source": "Spend 10,000 Hexagons at the Hexchange",
       "Trans": {"SC":"在六角币交易所花费 10,000 枚六角币","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1101661303"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurusHighEff_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1987602063",
       "Source": "Tame 1 X-Mosasaurus at 90% Taming Effectiveness",
       "Trans": {"SC":"以驯养有效 90%+ 驯服 1 只X-沧龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1987602063"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelon_MilestoneDescription",
@@ -76398,7 +76398,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaController_MilestoneDescription",
       "Source": "Defeat Boss: Beta Corrupted Master Controller",
-      "Trans": {"SC":"击败首领: 腐化的主宰者 (中等)","JA":""},
+      "Trans": {"SC":"击败BOSS: 腐化的主宰者 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3531842341"}
     },
     {
@@ -76470,7 +76470,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Beta Moeder, Master of the Ocean",
-      "Trans": {"SC":"击败首领: 海洋之主莫德尔 (中等)","JA":""},
+      "Trans": {"SC":"击败BOSS: 海洋之主莫德尔 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2094065908"}
     },
     {
@@ -76518,7 +76518,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaController_MilestoneDescription",
       "Source": "Defeat Boss: Alpha Corrupted Master Controller",
-      "Trans": {"SC":"击败首领: 腐化的主宰者 (困难)","JA":""},
+      "Trans": {"SC":"击败BOSS: 腐化的主宰者 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1359111898"}
     },
     {
@@ -76572,7 +76572,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Alpha Moeder, Master of the Ocean",
-      "Trans": {"SC":"击败首领: 海洋之主莫德尔 (困难)","JA":""},
+      "Trans": {"SC":"击败BOSS: 海洋之主莫德尔 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4283510027"}
     },
     {
@@ -76698,7 +76698,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaSpaceMissions_MilestoneDescription",
       "Source": "Complete 10 Alpha Space Biome Missions",
-      "Trans": {"SC":"完成 10 个困难火山生物群系任务","JA":""},
+      "Trans": {"SC":"完成 10 个困难太空生物群系任务","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2439718516"}
     },
     {
@@ -76876,7 +76876,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1411352423"}
     }
   ],
-  //龙之国度技能 & 任务 - 2026-07-08 22:55:51
+  //龙之国度技能 & 任务 - 2026-07-17 11:24:53
   "Dragontopia": [
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2824442020",
