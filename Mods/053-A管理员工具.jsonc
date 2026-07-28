@@ -3853,6 +3853,216 @@
       "Source": "Structures In Range",
       "Trans": {"SC":"范围内的建筑","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::480799632",
+      "Source": "Destroy Tribe",
+      "Trans": {"SC":"摧毁部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1406182659",
+      "Source": "Update Data Now",
+      "Trans": {"SC":"立即更新数据 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2185453305",
+      "Source": "Add A New Buff",
+      "Trans": {"SC":"新增一个增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::438339643",
+      "Source": "Confirm",
+      "Trans": {"SC":"确认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3882954527",
+      "Source": "Quality",
+      "Trans": {"SC":"品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::27200819",
+      "Source": "Blueprint",
+      "Trans": {"SC":"蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3540264686",
+      "Source": "Quality Tier",
+      "Trans": {"SC":"品质等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1992313399",
+      "Source": "LOAD NEW ITEMS",
+      "Trans": {"SC":"加载新物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3245581654",
+      "Source": "Qualitylndex",
+      "Trans": {"SC":"品质索引","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },//不生效，暂时保留
+    {
+      "NamespaceHash": "Content::1181567291",
+      "Source": "PlayerTarget",
+      "Trans": {"SC":"目标玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3835573998",
+      "Source": "Enable Debug Overlay",
+      "Trans": {"SC":"启用调试悬浮层","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3007997848",
+      "Source": "Visible",
+      "Trans": {"SC":"可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::474714926",
+      "Source": "LOAD NEW DINOS",
+      "Trans": {"SC":"加载新生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::559798476",
+      "Source": "Mailing",
+      "Trans": {"SC":"邮件系统","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1786048923",
+      "Source": "For Team",
+      "Trans": {"SC":"仅部落生效","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::162652632",
+      "Source": "Seconds Until Waking",
+      "Trans": {"SC":"苏醒倒计时（秒）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1897942525",
+      "Source": "Imprint Percentage",
+      "Trans": {"SC":"留痕百分比","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1646065497",
+      "Source": "Imprint Player",
+      "Trans": {"SC":"留痕玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2794755734",
+      "Source": "Selected Colors",
+      "Trans": {"SC":"选定颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::347814258",
+      "Source": "Seconds Until Visible",
+      "Trans": {"SC":"显现倒计时（秒）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1411806688",
+      "Source": "Random Saddle Quallity",
+      "Trans": {"SC":"随机鞍具品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1130125385",
+      "Source": "Select A Dino",
+      "Trans": {"SC":"选择恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },//不生效，暂时保留
+    {
+      "NamespaceHash": "Content::566898232",
+      "Source": "Saddle On Tame",
+      "Trans": {"SC":"驯服后自动装备鞍具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3023435550",
+      "Source": "Dino Name",
+      "Trans": {"SC":"恐龙名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1919791701",
+      "Source": "Dino Behavior",
+      "Trans": {"SC":"恐龙行为模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4229943505",
+      "Source": "Use Exact Stats",
+      "Trans": {"SC":"使用精确属性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3569318815",
+      "Source": "Exact Base Stats",
+      "Trans": {"SC":"精确基础属性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::546766809",
+      "Source": "Exact Mutation Stats",
+      "Trans": {"SC":"精确变异属性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::792629082",
+      "Source": "Use Colors",
+      "Trans": {"SC":"启用自定义颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4113917334",
+      "Source": "Experience To Add",
+      "Trans": {"SC":"待增加经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3513489830",
+      "Source": "Give Alpha XP",
+      "Trans": {"SC":"给予精英经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3347954571",
+      "Source": "Selection Radius",
+      "Trans": {"SC":"选择半径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::767288230",
+      "Source": "Save File Name:",
+      "Trans": {"SC":"保存文件名：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3420098244",
+      "Source": "Selected Buff",
+      "Trans": {"SC":"选定增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3073557999",
+      "Source": "Select A Buff",
+      "Trans": {"SC":"选择一个增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
 }
