@@ -523,6 +523,30 @@
       "Source": "Revenant Tyrannosaurus",
       "Trans": {"SC":"怨灵霸王龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1075788907",
+      "Source": "X-Giganotosaurus",
+      "Trans": {"SC":"X-南方巨兽龙","JA":"X-南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4083569191",
+      "Source": "X-Tyrannosaurus",
+      "Trans": {"SC":"X-EVO霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4250463305",
+      "Source": "Fertilized (EVO) X-Tyrannosaurus Egg",
+      "Trans": {"SC":"受精的X-EVO霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3968817330",
+      "Source": "Fertilized (EVO) X-Giganotosaurus Egg",
+      "Trans": {"SC":"受精的X-南方巨兽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     }
   ],
   "远古方舟恐龙变体": [

@@ -1,6 +1,6 @@
 {
   "Awesome Admin Tools": [
-    //2026-7-28 17:04
+    //2026-7-28 17:13
     {
       "NamespaceHash": "Content::2805398202",
       "Source": "Spawn Items",
@@ -4062,6 +4062,12 @@
       "NamespaceHash": "Content::3073557999",
       "Source": "Select A Buff",
       "Trans": {"SC":"选择一个增益效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::901839080",
+      "Source": "Fix Names & Icons",
+      "Trans": {"SC":"刷新名称与图标","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
