@@ -1,0 +1,2659 @@
+{
+  "Spawn Blocker": [//刷新屏蔽限制模组
+    {
+      "NamespaceHash": "6E209BE34A71C9F6AA5DD5926612BE5F",
+      "Source": "0 = No Limit",
+      "Trans": {"SC":"0 = 无限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"935205374"}
+    },
+    {
+      "NamespaceHash": "FE0F3E0D40C72E50073FB4A101F69C21",
+      "Source": "Choose Dinos To Block",
+      "Trans": {"SC":"选择要屏蔽的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"370935607"}
+    },
+    {
+      "NamespaceHash": "9550AB294AD80A2B9DE4E08EBE47BB79",
+      "Source": "Choose Dinos To Limit",
+      "Trans": {"SC":"选择要限制的恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3953880"}
+    },
+    {
+      "NamespaceHash": "76B8F0854BC107C12C30629855E0CA88",
+      "Source": "Save & Close",
+      "Trans": {"SC":"保存并关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2787354847"}
+    },
+    {
+      "NamespaceHash": "343F140544D78957D0594D808F0390E2",
+      "Source": "Spawn Blockers",
+      "Trans": {"SC":"刷新屏蔽列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4148676619"}
+    },
+    {
+      "NamespaceHash": "B7A9BC134FBBA3DCBB1239B2F44BB184",
+      "Source": "Spawn Limiters",
+      "Trans": {"SC":"刷新限制列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3164460956"}
+    },
+    {
+      "NamespaceHash": "BCED663A4DF56A0428B1E39F44BBC568",
+      "Source": "Save & Close",
+      "Trans": {"SC":"保存并关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2787354847"}
+    },
+    {
+      "NamespaceHash": "Content::1125810443",
+      "Source": "Spawn Blocker Settings",
+      "Trans": {"SC":"刷新屏蔽/限制设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1988190844",
+      "Source": "SPAWN BLOCKER SETTINGS",
+      "Trans": {"SC":"刷新屏蔽/限制设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ],
+   "World Builder": [
+    {
+      "NamespaceHash": "Content::1863579171",
+      "Source": "Admin Item",
+      "Trans": {"SC":"管理员物品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3733272056",
+      "Source": "Admin Item.",
+      "Trans": {"SC":"管理员物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::876687249",
+      "Source": "World Builder Admin Tools",
+      "Trans": {"SC":"世界建造者管理员工具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3261652536",
+      "Source": "<RichColor Color=\"0.5,0.2,1\">World Builder Mod</> \\n\\nConsume this item to equip Admin Tools.<#RN#>The tool contain different modes to edit your world.<#RN#>Require GCM and Admin to use.<#RN#><#RN#>Warning : Do not give this to players if you don't want them to be able to modify your world.",
+      "Trans": {"SC":"<RichColor Color=\"0.5,0.2,1\">世界建造者模组</> \\n\\n使用该物品即可装备管理员工具.<#RN#>该工具包含多种模式，可用来编辑游戏世界.<#RN#>需要开启管理员权限与 GCM 权限才能使用.<#RN#><#RN#>警告：若不希望普通玩家修改你的世界，请勿将此物品交给他们","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1458097245",
+      "Source": "World Builder Safe Zone",
+      "Trans": {"SC":"世界建造者安全区","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::598477445",
+      "Source": "World Builder",
+      "Trans": {"SC":"世界建造者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "E9C6A5694459FC9516E6AA968644ED52",
+      "Source": "Delete This Object",
+      "Trans": {"SC":"删除此物体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4158760506"}
+    },
+    {
+      "NamespaceHash": "65A925894B644C9851A6049505022A94",
+      "Source": "Export Object",
+      "Trans": {"SC":"导出物体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2199877459"}
+    },
+    {
+      "NamespaceHash": "9605FCC8479AFD072529FB88A2B047A3",
+      "Source": "Select this Object",
+      "Trans": {"SC":"选中此物体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3204805265"}
+    },
+    {
+      "NamespaceHash": "8503CDF04A8F57A22CADB68233245E59",
+      "Source": "Delete",
+      "Trans": {"SC":"删除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3806680004"}
+    },
+    {
+      "NamespaceHash": "5F88D4E44EA85EB8F7C831A36CB5EE0E",
+      "Source": "Export",
+      "Trans": {"SC":"导出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2964301601"}
+    },
+    {
+      "NamespaceHash": "E7B7B0A448415C3481F30FB63A74C6F8",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "9D6934BD42091D2DBBFEEE956D85C3D7",
+      "Source": "None",
+      "Trans": {"SC":"无","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1897401797"}
+    },
+    {
+      "NamespaceHash": "5ECF5F8D4C8D0D9E972D22974C630252",
+      "Source": "Default",
+      "Trans": {"SC":"默认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"940523119"}
+    },
+    {
+      "NamespaceHash": "638581FC4FF6AA07258B00972C9F0915",
+      "Source": "Delete this Mesh",
+      "Trans": {"SC":"删除此模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3060624602"}
+    },
+    {
+      "NamespaceHash": "DD0A4C92429CCE4D6A434DA64357CA4E",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "625D221D4F4A368566CD2AAE18BCA255",
+      "Source": "Remove",
+      "Trans": {"SC":"移除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"734593060"}
+    },
+    {
+      "NamespaceHash": "A8590011452143E7DCF428AD9F0A068E",
+      "Source": "View",
+      "Trans": {"SC":"查看","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2892729014"}
+    },
+    {
+      "NamespaceHash": "85F493C448AA6C39564CB29D861229BE",
+      "Source": "Mesh Name : MeshNameMeshNameMeshName_C",
+      "Trans": {"SC":"模型名称：MeshNameMeshNameMeshName_C","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4258670399"}
+    },
+    {
+      "NamespaceHash": "EF8E1E7B4C9AD2690B60AC9CE39AC9A7",
+      "Source": "Left",
+      "Trans": {"SC":"左","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"667937672"}
+    },
+    {
+      "NamespaceHash": "E8866B7049A5330A0768B391D3308408",
+      "Source": "Top",
+      "Trans": {"SC":"上","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"643610007"}
+    },
+    {
+      "NamespaceHash": "CE300B5445856D8A584B2F8B0D3A6BB0",
+      "Source": "Right",
+      "Trans": {"SC":"右","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1334209577"}
+    },
+    {
+      "NamespaceHash": "CED8F56246726C345FABC187F4DD9980",
+      "Source": "Bot",
+      "Trans": {"SC":"下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1243310812"}
+    },
+    {
+      "NamespaceHash": "636B5C6942DB0AB00FAB5D898139A536",
+      "Source": "Clic",
+      "Trans": {"SC":"点击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"543345577"}
+    },
+    {
+      "NamespaceHash": "80A40242414175D41BE57ABFAE67A76F",
+      "Source": "Add to favorite",
+      "Trans": {"SC":"添加到收藏夹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"901136888"}
+    },
+    {
+      "NamespaceHash": "DEFF37E5436623167B5DCF88B2E516EB",
+      "Source": "Warning",
+      "Trans": {"SC":"警告","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1641156336"}
+    },
+    {
+      "NamespaceHash": "65E3A5C647A8304DA28A31AEE70F441E",
+      "Source": "Error",
+      "Trans": {"SC":"错误","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1240316053"}
+    },
+    {
+      "NamespaceHash": "F4107A534B26836D0966C38B5B8F20D6",
+      "Source": "Critical",
+      "Trans": {"SC":"严重错误","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"986583476"}
+    },
+    {
+      "NamespaceHash": "0617738446AAF2C04B141D90BC9FC8F8",
+      "Source": "Info",
+      "Trans": {"SC":"信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2870755854"}
+    },
+    {
+      "NamespaceHash": "1E4E2AD5447A8EA8975C429A17F47D6C",
+      "Source": "Delete Log",
+      "Trans": {"SC":"删除日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"491334290"}
+    },
+    {
+      "NamespaceHash": "4DD7E8704C048A238B7561A403B19449",
+      "Source": "Add to favorite",
+      "Trans": {"SC":"添加到收藏夹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"901136888"}
+    },
+    {
+      "NamespaceHash": "07D0B86D4F7CF24F1B3AD183EE255B15",
+      "Source": "This Mesh Material",
+      "Trans": {"SC":"此模型材质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3398183467"}
+    },
+    {
+      "NamespaceHash": "723078BF454ABD04ED231FB08C51B35B",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "57B0D2904627DC6CD198F890DA06F7FD",
+      "Source": "Edit",
+      "Trans": {"SC":"编辑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3090267029"}
+    },
+    {
+      "NamespaceHash": "9F3AC01244D55F056E8B4B95DE59E933",
+      "Source": "Material Name : MeshNameMeshNameMeshName_C",
+      "Trans": {"SC":"材质名称：MeshNameMeshNameMeshName_C","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"909755201"}
+    },
+    {
+      "NamespaceHash": "D298D7F3482113A56F264991A103DC25",
+      "Source": "Pickup Mode",
+      "Trans": {"SC":"拾取模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2961267692"}
+    },
+    {
+      "NamespaceHash": "FADE8A694276FF025592AF83E780D6AC",
+      "Source": "Select Mode",
+      "Trans": {"SC":"选择模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2510627207"}
+    },
+    {
+      "NamespaceHash": "63577F504ABD292C56B6759AD6D9B763",
+      "Source": "Use this tools carefully to maintain good server and client performance.Below is an example of what to do and what to avoid.",
+      "Trans": {"SC":"请谨慎使用该工具，以保证服务端与客户端流畅运行，下文为正确操作与错误操作示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2473145454"}
+    },
+    {
+      "NamespaceHash": "8358F7FC4868A59D5844B29E029E4DA6",
+      "Source": "Grass Remove Mode lets you remove small “props” known as Ground Clutter.These can only be removed using the grass remover. (See image for example.)",
+      "Trans": {"SC":"草地清除模式可移除名为地面杂物的小型装饰物件，此类物件仅能通过草地清除器进行清除（详见示意图示例）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3020477439"}
+    },
+    {
+      "NamespaceHash": "095C667C45C661B13F785CA7AF9355BB",
+      "Source": "Use Example",
+      "Trans": {"SC":"使用示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3136263584"}
+    },
+    {
+      "NamespaceHash": "E782BE934D4741C806ABD288D7201281",
+      "Source": "Grass Mode Info",
+      "Trans": {"SC":"草地模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3389656896"}
+    },
+    {
+      "NamespaceHash": "E9642CC14974FC6100307EA906F5521A",
+      "Source": "Use these tools carefully to maintain good server and client performance.Below is an example of what to do and what to avoid.",
+      "Trans": {"SC":"谨慎使用各类工具以保障服务端与客户端运行性能，下文列举规范操作与禁用操作示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3872749750"}
+    },
+    {
+      "NamespaceHash": "118FBC6D43386D976A86EFB81BE01D51",
+      "Source": "Foliage Mode lets you remove harvestables bushes, rocks and plants.Note that Foliage Remover can be very heavy for server and client in large amount. ",
+      "Trans": {"SC":"植被清除模式可移除可采集灌木、岩石与各类植物，注意大量使用植被清除器会大幅增加服务端和客户端性能负载","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2009014352"}
+    },
+    {
+      "NamespaceHash": "7A9BF56C49ACE62801777DA2EEA892F2",
+      "Source": "Use Example",
+      "Trans": {"SC":"使用示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3136263584"}
+    },
+    {
+      "NamespaceHash": "CC1A218F410468D46F51E0AB5E210475",
+      "Source": "Foliage Mode Info",
+      "Trans": {"SC":"植被模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"8447491"}
+    },
+    {
+      "NamespaceHash": "8D9229E24BC27E339D3DE3A2A02A8512",
+      "Source": "Using Remove Objects greatly improves server performance by avoiding one-by-one removals.",
+      "Trans": {"SC":"使用批量物体移除功能，无需逐个删除，能大幅提升服务端性能.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3283074978"}
+    },
+    {
+      "NamespaceHash": "56D364AE4F713A13F6BD1EA35E95F0E1",
+      "Source": "World Builder BuffWorking with Sphere Removed Objects",
+      "Trans": {"SC":"世界建造工具增益效果 —— 球形清除物体相关操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"229947190"}
+    },
+    {
+      "NamespaceHash": "51EFCCEA47EE753308917A994F4C7B0A",
+      "Source": "In areas containing many meshes, i suggest using Sphere Removed Objects first, then remove any remaining ones individually.",
+      "Trans": {"SC":"在模型密集区域，建议先使用球形区域移除，再手动删除剩余物件.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2801030085"}
+    },
+    {
+      "NamespaceHash": "F2900F984A3ED7106D7855BFA6846A69",
+      "Source": "Objects Mode allows you to remove objects (Meshes) over a large area very useful for those that can’t be targeted with Remove Object Mode.",
+      "Trans": {"SC":"物体模式可大范围移除模型，针对普通移除模式无法选中的物件尤为实用.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2618127890"}
+    },
+    {
+      "NamespaceHash": "C8F057384BA5D828DCDC158DD337A54A",
+      "Source": "Additionnal Informations",
+      "Trans": {"SC":"补充说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4121649470"}
+    },
+    {
+      "NamespaceHash": "724DC3B849937C53E874928DB095E05F",
+      "Source": "Objects Mode Info",
+      "Trans": {"SC":"物体模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"77575689"}
+    },
+    {
+      "NamespaceHash": "4C5F77834B8065C795C99B9CFE46207C",
+      "Source": "FAR Remover also use World Builder Buff to work.",
+      "Trans": {"SC":"远景物体清除功能同样需要世界建造者增益效果支持.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"218334578"}
+    },
+    {
+      "NamespaceHash": "685915BB4B317E14DAC07AB327E9A622",
+      "Source": "World Builder BuffWorking with FAR Removed Objects",
+      "Trans": {"SC":"世界建造工具增益效果 —— 远景清除物体相关操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2104602922"}
+    },
+    {
+      "NamespaceHash": "B4F1C95944FFAF8387BB9EA6EB6B0515",
+      "Source": "On the left, you can see the castle visible from afar, and on the right, the castle is hidden by the FAR Remover.",
+      "Trans": {"SC":"左侧为远景可见的城堡，右侧为使用远景清除功能后被隐藏的城堡.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1224528985"}
+    },
+    {
+      "NamespaceHash": "567EADEB4565196F1F980A8BE2EA342C",
+      "Source": "To understand this mode, you first need to know that in ARK, the meshes visible from far away are not the same as those seen up close.These are two distinct types of meshes, and in live gameplay, the FAR Remover is needed to prevent distant meshes from being visible.",
+      "Trans": {"SC":"想要理解该功能模式，首先要清楚方舟游戏里远景显示模型和近距离显示模型是两套独立模型，二者并不相同，在正常游戏进程中必须使用远景清除器来屏蔽远处的远景模型显示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"567265692"}
+    },
+    {
+      "NamespaceHash": "E910C4354E6F451E769853B51A8BE0C8",
+      "Source": "Visibility Example",
+      "Trans": {"SC":"可视效果示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4208758984"}
+    },
+    {
+      "NamespaceHash": "2D09A0994B36C1D16E3710B8BEFAED1D",
+      "Source": "FAR Mode Info",
+      "Trans": {"SC":"远景模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1914903696"}
+    },
+    {
+      "NamespaceHash": "D35AF0A04EB798FFBF7E94ABDC4E0BA4",
+      "Source": "Buff Work with FAR",
+      "Trans": {"SC":"远景功能增益说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"442071213"}
+    },
+    {
+      "NamespaceHash": "482BF0CF4925C1B3AD8AFD8A1646A7E6",
+      "Source": "Youtube where you can find World Builder related videos",
+      "Trans": {"SC":"油管频道：可查看世界建造者相关教程视频","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1439377515"}
+    },
+    {
+      "NamespaceHash": "2DD46FB64D3B3A2C86BD1396A5D5138D",
+      "Source": "There’s a video you can see on our Youtube channel that explains Combine Mode and its features in detail if you’d like to learn more.",
+      "Trans": {"SC":"我们的油管频道有视频详细讲解组合模式及其各项功能，可供深入学习.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2612824830"}
+    },
+    {
+      "NamespaceHash": "D8B620F84AD7FA3E9DE5768C1FCB7CDD",
+      "Source": "Combine Mode might not seem important at first, but it’s actually a key feature.It allows you to combine multiple placed objects into a single one, saving it in your library where you can also edit it manually.This greatly improves server and client performance while saving you time when placing grouped objects.",
+      "Trans": {"SC":"合并模式初看并不起眼，实则是核心功能，它能够将多个摆放好的物件合并为单个物件并存入库中，还支持手动编辑，既能大幅提升服务端与客户端运行性能，摆放成套物件时也能节省大量操作时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3123786229"}
+    },
+    {
+      "NamespaceHash": "26A915C2454AF3736100E49432C8DEDE",
+      "Source": "Combine Mode Video Example",
+      "Trans": {"SC":"组合模式视频示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3248142828"}
+    },
+    {
+      "NamespaceHash": "0F73DB9A477CF9F1CDCBC4BFEE797101",
+      "Source": "Combine Mode Info",
+      "Trans": {"SC":"组合模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3644087345"}
+    },
+    {
+      "NamespaceHash": "CAD7FFF74E81CD4443D88CA89E2C73F0",
+      "Source": "We have 4 types of Logs.",
+      "Trans": {"SC":"日志共分为四类.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2609351542"}
+    },
+    {
+      "NamespaceHash": "EDA2729F412946CBB524559FA4CF7CD2",
+      "Source": "In World Builder, logs are useful for reviewing what you have done and what you are doing. They aren’t always essential, but if you encounter an issue, logs usually indicate what is happening.",
+      "Trans": {"SC":"世界建造工具的日志可用于回顾过往操作与当前操作记录，虽并非时刻必备，但当你遇到故障时，日志通常能定位问题成因","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4001081749"}
+    },
+    {
+      "NamespaceHash": "408CE23B48F2BF3A7882F0BA26856DD6",
+      "Source": "Logs Types",
+      "Trans": {"SC":"日志类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"934603997"}
+    },
+    {
+      "NamespaceHash": "0FF6690F48A5CC9E0FA0A9BD881B2A2D",
+      "Source": "Logs Mode Info",
+      "Trans": {"SC":"日志模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"52816685"}
+    },
+    {
+      "NamespaceHash": "61A0B19E4AF4B41F905625A6E901A99C",
+      "Source": "Client Logs Example",
+      "Trans": {"SC":"客户端日志示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"90804590"}
+    },
+    {
+      "NamespaceHash": "A93C543F418E1805BEBFD589F9383BA5",
+      "Source": "In Configuration Mode, you can import placed objects from the INX Cave Builder mod into World Builder.",
+      "Trans": {"SC":"配置模式支持将 INX 洞穴建造模组的摆放物件导入至世界建造者.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3393973790"}
+    },
+    {
+      "NamespaceHash": "60EEDBCC4BD280BEEDB4FBB8987FB3EE",
+      "Source": "Configuration Mode is where you can set up various World Builder settings.",
+      "Trans": {"SC":"配置模式用于调整世界建造者的各项参数.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2434998887"}
+    },
+    {
+      "NamespaceHash": "F104CB304D65FBAE879AAF9DD0C5B480",
+      "Source": "INX Cave Builder Import",
+      "Trans": {"SC":"导入 INX 洞穴建造模组物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3404784282"}
+    },
+    {
+      "NamespaceHash": "39D6E07143833F15F75F70819295FA2F",
+      "Source": "Config Mode Info",
+      "Trans": {"SC":"配置模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"719555067"}
+    },
+    {
+      "NamespaceHash": "053E8791474088CC71224EAB56A00115",
+      "Source": "World Builder uses different types of SaveGames:",
+      "Trans": {"SC":"世界建造者包含多种存档类型：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1279780819"}
+    },
+    {
+      "NamespaceHash": "D39E0BC448EBB4DB567E37919E66E881",
+      "Source": "With World Builder, everything you place or remove including your object library is saved in SaveGames.If you can access your game or server files, they’re stored under:\"ARK Survival Ascended\\ShooterGame\\Saved\\SaveGames\\WorldBuilder\"",
+      "Trans": {"SC":"通过世界建造工具放置、移除的所有内容以及你的物件库数据都会存放在存档文件夹中，若你能访问游戏或服务器文件，相关文件路径为：“ARK Survival Ascended\\ShooterGame\\Saved\\SaveGames\\WorldBuilder”","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1307139738"}
+    },
+    {
+      "NamespaceHash": "7128875F4A60A95FECDECEB1BDDC619E",
+      "Source": "SaveGames Types",
+      "Trans": {"SC":"存档类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2652929907"}
+    },
+    {
+      "NamespaceHash": "47F5D984467686DFD05F64BAB8693838",
+      "Source": "SaveGames Explained",
+      "Trans": {"SC":"存档详解","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2666751933"}
+    },
+    {
+      "NamespaceHash": "DC260978418D0546643452B07B7C6F3A",
+      "Source": "Youtube where you can find World Builder related videos",
+      "Trans": {"SC":"油管频道：可查看世界建造者相关教程视频","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1439377515"}
+    },
+    {
+      "NamespaceHash": "248DD4544E34EAD3D29A68897B88487E",
+      "Source": "World Builder includes an Auto-Fix feature for broken removed objects.If an engine or map update breaks object references, World Builder will automatically detect the issue and attempt to fix it by removing the same object at the same location.",
+      "Trans": {"SC":"世界建造工具内置失效移除物体自动修复功能，若引擎或地图更新导致物体引用失效，工具会自动检测该问题并尝试在原坐标位置移除对应物体以完成修复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3701462368"}
+    },
+    {
+      "NamespaceHash": "604675454AF36F191D40C49DC9DDE97E",
+      "Source": "This video explains how it actually works and shows the process in detail.",
+      "Trans": {"SC":"该视频详细演示并讲解自动修复功能的运行原理.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3896367415"}
+    },
+    {
+      "NamespaceHash": "375E32C84F3435E5BE53E49C5E5F0BD5",
+      "Source": "When a fix is applied, an information message is also shown.",
+      "Trans": {"SC":"执行修复后，界面会弹出对应的提示信息.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2620088792"}
+    },
+    {
+      "NamespaceHash": "6C1FACD646DF573192C24C93FAC2ECCE",
+      "Source": "World Builder includes an automatic SaveGame file merge feature, if you have access to your SaveGame files.",
+      "Trans": {"SC":"若你能管理存档文件，世界建造者还支持存档自动合并功能.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"608294657"}
+    },
+    {
+      "NamespaceHash": "DC7572DF4CDCDADC60DE09A508C3EBA2",
+      "Source": "This video shows how to fix these issues if they occur.",
+      "Trans": {"SC":"该视频讲解相关故障的解决办法.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1116668482"}
+    },
+    {
+      "NamespaceHash": "B11F1C744873FFE37992838B4DBC2E53",
+      "Source": "Auto Fix For Removed Objects",
+      "Trans": {"SC":"移除物体自动修复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3341271771"}
+    },
+    {
+      "NamespaceHash": "5F9B310C4874A8B0BD2E41909576AE21",
+      "Source": "Save Game Merging Saves",
+      "Trans": {"SC":"存档合并功能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3300547768"}
+    },
+    {
+      "NamespaceHash": "5347A402492F9A305F4ABDA57FC3B465",
+      "Source": "World Builder // Made by Lordan_LaFleur",
+      "Trans": {"SC":"世界建造者 // 作者：Lordan_LaFleur","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1685688609"}
+    },
+    {
+      "NamespaceHash": "33CA2172498954938A078282E71CB675",
+      "Source": "You’re seeing this interface because it’s your first time equipping the tool. It’s highly recommended that you read everything carefully before purchasing the mod or using the tool.",
+      "Trans": {"SC":"首次装备工具会弹出该界面，强烈建议你在使用模组前仔细阅读全部说明.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2258473613"}
+    },
+    {
+      "NamespaceHash": "AD366FE54E23B83E9E8EF8A497856CC0",
+      "Source": "Welcome to World Builder !",
+      "Trans": {"SC":"欢迎使用世界建造者！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1412522934"}
+    },
+    {
+      "NamespaceHash": "89F33EDF44FDBB654F5C2C964E25219C",
+      "Source": "World Builder allows you to edit the world of any ARK map. Even modded ones.",
+      "Trans": {"SC":"世界建造者可编辑方舟原版及各类模组地图.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1841603225"}
+    },
+    {
+      "NamespaceHash": "DFF746D949870911A8EBF180C29B5298",
+      "Source": "This book will explain you how World Builder works.But first, there is few informations you need to know about :",
+      "Trans": {"SC":"本手册将为你讲解世界建造工具的使用原理，但在此之前有几点信息需要你了解：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2528165516"}
+    },
+    {
+      "NamespaceHash": "04EFBFF34EF179ED2EF57C9907666655",
+      "Source": "What can i do with this mod ?",
+      "Trans": {"SC":"该模组可以实现哪些功能？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3066373919"}
+    },
+    {
+      "NamespaceHash": "28DBE1374094D8537BF5B7B066D248F1",
+      "Source": "Introduction",
+      "Trans": {"SC":"简介","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2401728177"}
+    },
+    {
+      "NamespaceHash": "C2CE21E04104457959AD278C1F3B7259",
+      "Source": "Example",
+      "Trans": {"SC":"示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1251952952"}
+    },
+    {
+      "NamespaceHash": "F4AD649144356DB368150AAE2DA9B163",
+      "Source": "World Builder contains several different modes. To open the mode list, hold the Use button (E on PC, Y on Xbox, Triangle on PS5).",
+      "Trans": {"SC":"世界建造者拥有多种功能模式，按住使用键可打开模式列表（电脑端 E 键、Xbox 手柄 Y 键、PS5 手柄三角键）.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1774307770"}
+    },
+    {
+      "NamespaceHash": "B534CFC147580512E5A5EA8FDC0285A3",
+      "Source": "Most of the actions you perform in World Builder are recorded in the logs. This helps users track what they’ve done, and it also helps me identify and fix issues when they occur.",
+      "Trans": {"SC":"工具的绝大多数操作都会被日志记录，方便用户追溯操作，也便于作者排查并修复故障.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1551876029"}
+    },
+    {
+      "NamespaceHash": "459352C84804E93DCC8EDF859A1EB7CD",
+      "Source": "Inside the Mode List, you’ll also find the “Logs” mode.This mode lets you view all logs from both your client and the server side. It can be very helpful for tracking any modifications.",
+      "Trans": {"SC":"模式列表内还设有日志模式，该模式可查看本地客户端与服务端全部运行日志，便于追踪各类场景修改操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"879218267"}
+    },
+    {
+      "NamespaceHash": "23DB592E47B2504748307FB1F647808C",
+      "Source": "By default, World Builder does not contain any objects. You’ll need to create your own object library by using the tool to make custom objects.",
+      "Trans": {"SC":"工具初始状态下无任何预设物件，你需要自行扫描制作，搭建个人素材库.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2124276871"}
+    },
+    {
+      "NamespaceHash": "659E6DFE4BE4BD552684A0BC6EBC8070",
+      "Source": "Logs",
+      "Trans": {"SC":"日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2625977294"}
+    },
+    {
+      "NamespaceHash": "1974E198404DB15AA3B2358F50D20696",
+      "Source": "Important to understand",
+      "Trans": {"SC":"重点须知","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3508108099"}
+    },
+    {
+      "NamespaceHash": "43A54C6E4F2DC9828790CFA4D56D07CA",
+      "Source": "Modes",
+      "Trans": {"SC":"功能模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4043448657"}
+    },
+    {
+      "NamespaceHash": "CB9457AF483A7873A14D78896D74D44E",
+      "Source": "Fire to scan a single target (Left Click on PC, RT on Xbox, R2 on PS5).Once scanned, it will be saved to your scan library. Note that you cannot scan objects already in your library.",
+      "Trans": {"SC":"点击鼠标左键扫描单个目标（电脑左键、Xbox 手柄 RT 键、PS5 手柄 R2 键），扫描完成后物件会存入扫描库，注意无法扫描库中已存在的物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2590561143"}
+    },
+    {
+      "NamespaceHash": "E85018214586395CD75BDF845C145854",
+      "Source": "When holding Reload (R on PC, X on Xbox, Square on PS5), you can switch to Sphere Scan.This is a better option for scanning objects that are difficult to capture with Target Scan such as lakes or large surfaces.",
+      "Trans": {"SC":"按住装填键（电脑 R 键、Xbox 手柄 X 键、PS5 手柄方块键）即可切换球形扫描模式，该模式更适合湖泊、大型平面等目标扫描难以捕捉的物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3667013302"}
+    },
+    {
+      "NamespaceHash": "80DA8DAD4CF05267CCA524A4851E43D5",
+      "Source": "Maintaining scope (Right Click on PC, LT on Xbox, L2 on PS5) allows you to keep scanning on a loop.",
+      "Trans": {"SC":"保持扫描锁定（电脑端右键、Xbox 手柄 LT 键、PS5 手柄 L2 键）可循环持续扫描物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3432109913"}
+    },
+    {
+      "NamespaceHash": "1BE437EE4A760529E441FDBE12954D43",
+      "Source": "Scan Mode is the first step in the World Builder Tools.You need to scan objects in this mode before you can select and place them.",
+      "Trans": {"SC":"扫描模式是世界建造工具的首要操作步骤，你必须在此模式下扫描物件后才能选中并摆放它们","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3511578310"}
+    },
+    {
+      "NamespaceHash": "E83F1B7346DF1920B2AD6BB10551E38F",
+      "Source": "Sphere Scan",
+      "Trans": {"SC":"球形扫描","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2654835056"}
+    },
+    {
+      "NamespaceHash": "97BC20BC48877B572050839DBB9909B4",
+      "Source": "Mode Info",
+      "Trans": {"SC":"模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2699230415"}
+    },
+    {
+      "NamespaceHash": "CEA9B11648317CA9B00ED0BA969832EE",
+      "Source": "How to Scan",
+      "Trans": {"SC":"扫描操作教程","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3877784562"}
+    },
+    {
+      "NamespaceHash": "73FC56224BB232BFC73935B75C2CD2DD",
+      "Source": "On the right, you’ll find all the currently scanned objects from your library.They are divided into three categories: Basic, Group, and Structure.Basic objects are simple, containing a single mesh.Group objects include multiple meshes.Structure objects come from any ARK structure (for example, when you scan a foundation).",
+      "Trans": {"SC":"右侧会展示物件库内当前全部已扫描物件，物件分为基础、群组、建筑三大类，基础物件结构简单仅含单一模型，群组物件由多个模型组合而成，建筑物件源自方舟原版各类建筑（例如扫描地基所得）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"179534077"}
+    },
+    {
+      "NamespaceHash": "26D0A26C401B0356EC9871BA2872B8E6",
+      "Source": "Once you have scanned a few objects, Select Mode is the key to save them into your library.",
+      "Trans": {"SC":"完成物件扫描后，需通过选择模式将其正式存入素材库.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2236885632"}
+    },
+    {
+      "NamespaceHash": "75351AA04330A800C8594BBAED112857",
+      "Source": "Select Mode Interface Informations",
+      "Trans": {"SC":"选择模式界面说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1802532684"}
+    },
+    {
+      "NamespaceHash": "B4ABEDAC4D9EA7CDB33B1F8FC920A863",
+      "Source": "Mode Info",
+      "Trans": {"SC":"模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2699230415"}
+    },
+    {
+      "NamespaceHash": "67D1FD664F4D81082F890DB152AE5737",
+      "Source": "Select Mode Interface Image",
+      "Trans": {"SC":"选择模式界面图示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2581050562"}
+    },
+    {
+      "NamespaceHash": "4BDAF087492E49FCA94BC7B2CCB7558B",
+      "Source": "On the right, you’ll find your library, which contains all your saved objects.Note that the last two category icons represent Copied Objects (from Placement Mode) and Combined Objects (from Combine Mode).",
+      "Trans": {"SC":"右侧为物件库，储存你全部已保存物件，请注意最后两个分类图标分别代表复制物件（取自放置模式）以及合并物件（取自合并模式）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1306846810"}
+    },
+    {
+      "NamespaceHash": "FAC32E124C7A7DE5F97C15AF7F8E57A9",
+      "Source": "Edit Mode allows you to edit your object in depth.",
+      "Trans": {"SC":"编辑模式支持对物件进行精细化修改.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1684000677"}
+    },
+    {
+      "NamespaceHash": "6A01DD674AC0A1226AC5D49E11287963",
+      "Source": "Edit Mode Interface Informations",
+      "Trans": {"SC":"编辑模式界面说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"291557070"}
+    },
+    {
+      "NamespaceHash": "12230A3949A5A4332B7DE0AFD26E65BD",
+      "Source": "Mode Info",
+      "Trans": {"SC":"模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2699230415"}
+    },
+    {
+      "NamespaceHash": "7829FD8E4CBF9B14792D1087392A7735",
+      "Source": "Edit Mode Interface Image",
+      "Trans": {"SC":"编辑模式界面图示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"598349978"}
+    },
+    {
+      "NamespaceHash": "42AF6CB440E54A49B2DEE597905EB4E3",
+      "Source": "Inside Edit Mode, you can export and import your saved objects to share them with friends or the community.",
+      "Trans": {"SC":"在编辑模式中，可导出、导入物件文件，与好友或社区玩家分享.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2359343590"}
+    },
+    {
+      "NamespaceHash": "03A91364499A97CCB7BE769A5A4D1C49",
+      "Source": "Import Export",
+      "Trans": {"SC":"导入与导出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1426413038"}
+    },
+    {
+      "NamespaceHash": "51B237424D408D7AF072A186DA7A0C89",
+      "Source": "Export Example",
+      "Trans": {"SC":"导出示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4084291147"}
+    },
+    {
+      "NamespaceHash": "EA82552B4A27A0C2B0CC83B8F00E9CB0",
+      "Source": "Reload (R on PC, X on Xbox, Square on PS5)",
+      "Trans": {"SC":"R键（电脑端 R 键、Xbox 手柄 X 键、PS5 手柄方形键）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4154462952"}
+    },
+    {
+      "NamespaceHash": "9A697D034C67E7EA73BF4C8349DA0B39",
+      "Source": "After creating saved objects in Select Mode, you can place them using Placement Mode.",
+      "Trans": {"SC":"在选择模式保存物件后，即可使用摆放模式进行放置.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3516281904"}
+    },
+    {
+      "NamespaceHash": "2757B4EC4ED5E3825752AB94E1FA4971",
+      "Source": "Important Keybinds",
+      "Trans": {"SC":"常用按键说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1943808666"}
+    },
+    {
+      "NamespaceHash": "A3A58BDE46122F9158A7D5A5ADE20AF6",
+      "Source": "Mode Info",
+      "Trans": {"SC":"模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2699230415"}
+    },
+    {
+      "NamespaceHash": "7E06386946C427F6214A2DB7BCD213E4",
+      "Source": "Red icon  World Removed ObjectsWhite icon  World Builder Placed ObjectsGreen icon  Grass RemoverYellow icon  Foliage RemoverOrange icon  Object RemoverBlue icon  FAR Remover",
+      "Trans": {"SC":"红色图标：世界已移除物体，白色图标：世界建造者放置物体，绿色图标：草地清除器，黄色图标：植被清除器，橙色图标：物体清除器蓝色图标：远景物体清除器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3804278351"}
+    },
+    {
+      "NamespaceHash": "9BF43BB44D71D62293B7038F1DF0FF23",
+      "Source": "In Icon View, each object has a small sphere at its origin, green for most objects and white for placed ones.Targeting this sphere lets you remove or undo the removed object.",
+      "Trans": {"SC":"图标视图下，每个物件原点都会显示小球：普通物件为绿色，工具摆放物件为白色.选中该小球，即可移除物件或撤销移除操作.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1545093485"}
+    },
+    {
+      "NamespaceHash": "6420AA7844EEB91BE3FE16898E4DBEEB",
+      "Source": "Remove Mode is one of the most complex modes.It offers multiple ways to remove objects but can impact performance if used carelessly.",
+      "Trans": {"SC":"移除模式是功能最复杂的模式之一.该模式提供多种物体移除方式，使用不当会影响运行性能.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1174931321"}
+    },
+    {
+      "NamespaceHash": "40C693A64A134516D498E8B10FFC7B9C",
+      "Source": "Icon view informations",
+      "Trans": {"SC":"图标视图说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3830392432"}
+    },
+    {
+      "NamespaceHash": "FD0D59B3431C1FDFC43224B70D06A56E",
+      "Source": "Remove Mode Info",
+      "Trans": {"SC":"移除模式说明","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2650231740"}
+    },
+    {
+      "NamespaceHash": "AC899B1D4306B624BFFFA1856951A62C",
+      "Source": "If you keep the World Builder SaveGame file, everything related to World Builder on your server will also be preserved.It will not disappear unless you also delete the World Builder SaveGame files.",
+      "Trans": {"SC":"只要保留世界建造者专属存档，服务端内所有相关修改内容都会被保存.除非手动删除专属存档，否则相关内容不会丢失.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"701598782"}
+    },
+    {
+      "NamespaceHash": "81FD72134238B2CD2EB9719F299E1943",
+      "Source": "It can help, but this really depends on how you use it.World Builder placed objects are much lighter than standard ARK structures.Using World Builder objects is generally better than using ARK structures.If you use the tool wisely, World Builder can reduce lag compared to placing regular structures.World Builder placed objects are not saved by the standard World Saves. They only load at server start or when placed directly using the tool.",
+      "Trans": {"SC":"工具对性能的优化效果因人而异，取决于使用方式.世界建造者摆放的物件，资源占用远低于方舟原版建筑.使用本工具制作的物件，整体体验优于原版建筑.合理使用工具，相比摆放原版建筑，能有效减少卡顿.工具摆放的物件不会存入游戏通用存档，仅在服务端启动或即时摆放时加载.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"869891366"}
+    },
+    {
+      "NamespaceHash": "0928E557438BD8E9999DE8B1B600614E",
+      "Source": "No there is not.",
+      "Trans": {"SC":"暂无测试版本.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2505180850"}
+    },
+    {
+      "NamespaceHash": "0207C94443F6136CC208149309DAE293",
+      "Source": "No. World Builder does not support landscape editing.",
+      "Trans": {"SC":"不支持地形编辑.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4249534599"}
+    },
+    {
+      "NamespaceHash": "FE8158D94625C274010BAAAF4962C501",
+      "Source": "Yes. Two World Builder users can build at the same time.",
+      "Trans": {"SC":"支持多名管理员同时使用工具建造.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"949630209"}
+    },
+    {
+      "NamespaceHash": "23455CAC4BE263E0A426C9B7AC1A5D61",
+      "Source": "The Free version lets you play on a server with objects placed by other players.",
+      "Trans": {"SC":"免费版仅可在服务器中查看、使用他人摆放的物件.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"725914318"}
+    },
+    {
+      "NamespaceHash": "CBCA164A4B877DAD3808D8914210D2DB",
+      "Source": "Only Admins users can use the tool.",
+      "Trans": {"SC":"仅管理员账号可使用本工具.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1827561682"}
+    },
+    {
+      "NamespaceHash": "BEEA3B29449A32A9A0F9E2A0BD9D108E",
+      "Source": "Yes totally. Even scan modded objects and place them like you want to. But require the mod to be installed.",
+      "Trans": {"SC":"完全支持，可扫描模组物件并自由摆放，但前提是已安装对应模组.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"787022289"}
+    },
+    {
+      "NamespaceHash": "9866256549AB463FFBFB218E9E477389",
+      "Source": "If i Wipe my server, everything dissapear ?",
+      "Trans": {"SC":"重置服务器后，所有内容会消失吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3566258933"}
+    },
+    {
+      "NamespaceHash": "28EB4DE34B8601E9F3A0F9B0157467E1",
+      "Source": "Can i remove the Landscape ?",
+      "Trans": {"SC":"可以移除地形吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1678916940"}
+    },
+    {
+      "NamespaceHash": "82837BA64CD7DCDDA4DADD9CA51F483E",
+      "Source": "Does World Builder cause Lags ?",
+      "Trans": {"SC":"世界建造者会造成卡顿吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1776728517"}
+    },
+    {
+      "NamespaceHash": "F0FEE14142F3774CEA371C9DCBA30998",
+      "Source": "Is there a test version ?",
+      "Trans": {"SC":"有测试版本吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2553787935"}
+    },
+    {
+      "NamespaceHash": "2EF0DA09459A26F8E5C1DBB5F645BD5B",
+      "Source": "Can i build something with my friend ?",
+      "Trans": {"SC":"可以和好友一同建造吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1133211683"}
+    },
+    {
+      "NamespaceHash": "A2C3763744901D06FB5D7388BCD59D41",
+      "Source": "What does the Free version and Premium do ?",
+      "Trans": {"SC":"免费版与付费版有什么区别？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3656172291"}
+    },
+    {
+      "NamespaceHash": "D319F01C473210CD3F67A996167CAB83",
+      "Source": "Can anyone on my server use the tool ?",
+      "Trans": {"SC":"服务器内所有玩家都能使用工具吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4274881176"}
+    },
+    {
+      "NamespaceHash": "4DF4FEE047B4C5FA28D878BE23A11E3C",
+      "Source": "Can i use it on modded maps ?",
+      "Trans": {"SC":"可以在模组地图上使用吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"252441869"}
+    },
+    {
+      "NamespaceHash": "2AC3752B4E08B1DE1B63938791D1FAB2",
+      "Source": "World Builder Examples By Jaldrin",
+      "Trans": {"SC":"玩家 Jaldrin 的世界建造者作品示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1934699390"}
+    },
+    {
+      "NamespaceHash": "EF56425749311AD7E6A5E49F9607D82D",
+      "Source": "World Builder Examples By Guishe-420",
+      "Trans": {"SC":"玩家 Guishe-420 的世界建造者作品示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1333495914"}
+    },
+    {
+      "NamespaceHash": "62EBA875419FB9C85C736FAD0FF78FF9",
+      "Source": "World Builder Examples By Guishe-420",
+      "Trans": {"SC":"玩家 Guishe-420 的世界建造者作品示例","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1333495914"}
+    },
+    {
+      "NamespaceHash": "9F8F1DB44E4AE6DC47E779A2196A59A3",
+      "Source": "Reset Default Name",
+      "Trans": {"SC":"恢复默认名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2252734695"}
+    },
+    {
+      "NamespaceHash": "A5297204487980DC0FC30597069AA487",
+      "Source": "Reset Height",
+      "Trans": {"SC":"重置高度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1896150778"}
+    },
+    {
+      "NamespaceHash": "B9A5EAE146ECEFFBCCB185AD3CA5CE5F",
+      "Source": "Reset Zoom",
+      "Trans": {"SC":"重置缩放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3485110276"}
+    },
+    {
+      "NamespaceHash": "448422F4485F3007A091AFB096A6C976",
+      "Source": "Preview Zoom and Height",
+      "Trans": {"SC":"预览缩放与高度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"341035981"}
+    },
+    {
+      "NamespaceHash": "8C60317747E55CAB7479FE82604A5B11",
+      "Source": "Current Size : Medium",
+      "Trans": {"SC":"当前尺寸：中等","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"431089152"}
+    },
+    {
+      "NamespaceHash": "BED3F05B4C6FA685BB3CF8A76584D9BA",
+      "Source": " to create a combined save from preview selection",
+      "Trans": {"SC":"根据预览选中内容创建合并存档","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"780660922"}
+    },
+    {
+      "NamespaceHash": "F3A9BC4D4D330D7FABD5E28B1536020B",
+      "Source": "FIRE",
+      "Trans": {"SC":"鼠标左键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2270627230"}
+    },
+    {
+      "NamespaceHash": "9386EDF541C6B2B15043E8A9AF54809C",
+      "Source": "Objects Limit 0/50",
+      "Trans": {"SC":"物件数量上限 0/50","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2244782622"}
+    },
+    {
+      "NamespaceHash": "8A19AC8042FABBE9CA70018019721EEF",
+      "Source": "SCROLL ",
+      "Trans": {"SC":"滚轮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3728857937"}
+    },
+    {
+      "NamespaceHash": "9AA8A57449E18ABEFFFA65B5BCEB7413",
+      "Source": "to adjust sphere size",
+      "Trans": {"SC":"调整球形范围大小","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1306056051"}
+    },
+    {
+      "NamespaceHash": "3EC8388640C0F07EE0FDEEBED4B845CF",
+      "Source": "Combine Mode",
+      "Trans": {"SC":"组合模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3280430934"}
+    },
+    {
+      "NamespaceHash": "FD37912D44BD7160349973AD0A91C944",
+      "Source": "Low Performance",
+      "Trans": {"SC":"低性能模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2403836905"}
+    },
+    {
+      "NamespaceHash": "9E09605E41910C8E9A962BBB8FC033A6",
+      "Source": "High Performance",
+      "Trans": {"SC":"高性能模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3506679212"}
+    },
+    {
+      "NamespaceHash": "6984CDEB49F38CD6DF0B1E91BFFC96D8",
+      "Source": "Save and Close",
+      "Trans": {"SC":"保存并关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3390783722"}
+    },
+    {
+      "NamespaceHash": "316199C94E89D1300AFD8DA587928AF3",
+      "Source": "Save and Close",
+      "Trans": {"SC":"保存并关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3390783722"}
+    },
+    {
+      "NamespaceHash": "1C3BBD2A4486E80C3B8E0EBA54472931",
+      "Source": "Configuration Menu",
+      "Trans": {"SC":"配置菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"943574189"}
+    },
+    {
+      "NamespaceHash": "A6F7B2014F2D2BA32B397DB1731B79BC",
+      "Source": "Logs Limit : ",
+      "Trans": {"SC":"日志上限：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2066909230"}
+    },
+    {
+      "NamespaceHash": "2BBE731C462C4CB2499A8FB79887B987",
+      "Source": "Amount : ",
+      "Trans": {"SC":"数量：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1815326294"}
+    },
+    {
+      "NamespaceHash": "65EFF581403494B2484FFD88508570A6",
+      "Source": "Default 2000",
+      "Trans": {"SC":"默认值 2000","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3655576859"}
+    },
+    {
+      "NamespaceHash": "0E8194674F0C642AA97467B1686F93A5",
+      "Source": "Clear Scan Save Game : ",
+      "Trans": {"SC":"清空扫描存档：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3168727572"}
+    },
+    {
+      "NamespaceHash": "84C66C214B4F5E476ADDF48A7ECC8FD6",
+      "Source": "Default Disabled",
+      "Trans": {"SC":"默认 关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"656869130"}
+    },
+    {
+      "NamespaceHash": "49ADF8594AFE659B811D32838D751465",
+      "Source": "Current : ",
+      "Trans": {"SC":"当前状态：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1214803382"}
+    },
+    {
+      "NamespaceHash": "5151AD97487E6281479D0BBD30BBE2E3",
+      "Source": "Performance :  : ",
+      "Trans": {"SC":"性能设置：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1240169268"}
+    },
+    {
+      "NamespaceHash": "F6192DC6417D1EA26D9323BF85CE6044",
+      "Source": "Scanned Objects Limit : ",
+      "Trans": {"SC":"已扫描物件上限：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1672095800"}
+    },
+    {
+      "NamespaceHash": "F712A5A74977C540F853DA8089DAEA0C",
+      "Source": "Default 500",
+      "Trans": {"SC":"默认值 500","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2675508045"}
+    },
+    {
+      "NamespaceHash": "9192200844D61B3E5EA770AFFF8E87E3",
+      "Source": "INX Cave Builder Placed Objects : ",
+      "Trans": {"SC":"INX 洞穴建造模组 已放置物件：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3070118375"}
+    },
+    {
+      "NamespaceHash": "D845015F48372E207BF558AC43E65F4C",
+      "Source": "World Builder Book : ",
+      "Trans": {"SC":"世界建造者手册：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2157029636"}
+    },
+    {
+      "NamespaceHash": "9C0287754B7B72E6A939D3A3F8D803EE",
+      "Source": "Copy to World Builder",
+      "Trans": {"SC":"导入至世界建造者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3939452757"}
+    },
+    {
+      "NamespaceHash": "BC5DCB3C4FEF2ED15A794AA04E9E2847",
+      "Source": "Clear My Logs",
+      "Trans": {"SC":"清空个人日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3831807448"}
+    },
+    {
+      "NamespaceHash": "C75176C5480F17EE544F42AB7E7EF1EC",
+      "Source": "Delete Basic",
+      "Trans": {"SC":"删除基础物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"54430354"}
+    },
+    {
+      "NamespaceHash": "5ABE7954454E5D6DF8B4F7B3C8A4E8DF",
+      "Source": "Delete Group",
+      "Trans": {"SC":"删除组合物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2280762505"}
+    },
+    {
+      "NamespaceHash": "0E2F97494C45C26084BF0B91FA72F7A7",
+      "Source": "Delete Structures",
+      "Trans": {"SC":"删除建筑物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1806024608"}
+    },
+    {
+      "NamespaceHash": "1F5792704555A63EE34ADA962B61709D",
+      "Source": "Show Objects",
+      "Trans": {"SC":"显示物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3665932488"}
+    },
+    {
+      "NamespaceHash": "E5155A7B4CD123B2D465AC8EEF32F163",
+      "Source": "Open Book",
+      "Trans": {"SC":"打开手册","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3445594281"}
+    },
+    {
+      "NamespaceHash": "A32ADF19425685CAD1EB9E80821DDE16",
+      "Source": "Limit the amount of saved logs.",
+      "Trans": {"SC":"限制日志保存数量.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"174422166"}
+    },
+    {
+      "NamespaceHash": "7B777DED4595259E131E0B99FDBB7700",
+      "Source": "Limit the amount of scanned objects.",
+      "Trans": {"SC":"限制可扫描物件数量.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3641887996"}
+    },
+    {
+      "NamespaceHash": "08AD3A4046303C69B111409FB613B362",
+      "Source": "Allows you to manually delete your savegames.",
+      "Trans": {"SC":"支持手动删除存档文件.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"958392416"}
+    },
+    {
+      "NamespaceHash": "0A80AE6E4B5219332434AB8D5DFDA4E0",
+      "Source": "Modify mod performance to prevent crashes. WARNING Highly recommanded to keep it by default on console",
+      "Trans": {"SC":"调整模组性能参数以防止崩溃.警告：主机端建议保持默认设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"852149619"}
+    },
+    {
+      "NamespaceHash": "6E548A0F430CC91FDCBFD597825FB202",
+      "Source": "Default Mode",
+      "Trans": {"SC":"默认模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3946823401"}
+    },
+    {
+      "NamespaceHash": "7E5DF0EE416FB32ECBC9FAA7D550DD97",
+      "Source": "Maintain Use To Select Mode",
+      "Trans": {"SC":"长按使用键 切换至选择模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3190059335"}
+    },
+    {
+      "NamespaceHash": "210A0B9F46D0523FC2400E9256362D2C",
+      "Source": "Mode Selection",
+      "Trans": {"SC":"模式选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1421171377"}
+    },
+    {
+      "NamespaceHash": "5E4461C74953FFFE2354ABAC450E4782",
+      "Source": "Apply this material to all selected object meshes",
+      "Trans": {"SC":"将当前材质应用到所有选中的模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"172881005"}
+    },
+    {
+      "NamespaceHash": "DAA7D3724504D91A5852F0AFFA5619B1",
+      "Source": "Import Object",
+      "Trans": {"SC":"导入物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2706567970"}
+    },
+    {
+      "NamespaceHash": "039D8932463CABB273F29981E5C68DCB",
+      "Source": "Reset material to default one",
+      "Trans": {"SC":"将材质恢复为默认值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3630565983"}
+    },
+    {
+      "NamespaceHash": "BE3C90E9485F422768B50DBCC96657CD",
+      "Source": "Save Mesh to Library",
+      "Trans": {"SC":"将模型保存至素材库","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4175644639"}
+    },
+    {
+      "NamespaceHash": "792495244DBA2E3235A5928578918EC1",
+      "Source": "Search Here",
+      "Trans": {"SC":"搜索栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"53719248"}
+    },
+    {
+      "NamespaceHash": "E88C6F0748AE71055A9AD4BBF61A9D3F",
+      "Source": "Save Mesh",
+      "Trans": {"SC":"保存模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1183006655"}
+    },
+    {
+      "NamespaceHash": "C2490C984F17776720017A99DF388923",
+      "Source": "Return",
+      "Trans": {"SC":"返回","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2784082946"}
+    },
+    {
+      "NamespaceHash": "864A62594457D04B041330ACF4992BB2",
+      "Source": "Reset",
+      "Trans": {"SC":"重置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2092924083"}
+    },
+    {
+      "NamespaceHash": "5D0AD4F2428929C5D7FFD4B952DDE9B9",
+      "Source": "Reset material to default one",
+      "Trans": {"SC":"将材质恢复为默认值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3630565983"}
+    },
+    {
+      "NamespaceHash": "88A085B340E04DE407229B9B02CE5407",
+      "Source": "Apply to ALL",
+      "Trans": {"SC":"全部应用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2593329268"}
+    },
+    {
+      "NamespaceHash": "01942BD04EC53ACD4006A4BCD4AE79BC",
+      "Source": "Apply this material to all selected object meshes",
+      "Trans": {"SC":"将当前材质应用到所有选中的模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"172881005"}
+    },
+    {
+      "NamespaceHash": "DFA308F54941E267B4A1BA8544AC8D8B",
+      "Source": "All Materials",
+      "Trans": {"SC":"全部材质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"781519845"}
+    },
+    {
+      "NamespaceHash": "8C4C7C8746D72A9BE68096A717CD398D",
+      "Source": "Player Can Build Upon :",
+      "Trans": {"SC":"玩家可在此处建造：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4218357712"}
+    },
+    {
+      "NamespaceHash": "D43271734350FC92E366C09109257D49",
+      "Source": "Disable Collision :",
+      "Trans": {"SC":"关闭碰撞：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1212444640"}
+    },
+    {
+      "NamespaceHash": "6A808E224CB85EAB66358DAC25BF744B",
+      "Source": "Page 1/1 (0 to 10)",
+      "Trans": {"SC":"第 1 页 / 共 1 页（0 - 10 项）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2461482959"}
+    },
+    {
+      "NamespaceHash": "D4C7CFF14F97E6A10C4D2CB6F568CDF4",
+      "Source": "HugeDrawDistance :",
+      "Trans": {"SC":"远景渲染距离：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2034354611"}
+    },
+    {
+      "NamespaceHash": "319629B74B6A964AD7FAC598908027C1",
+      "Source": "List of attached Mesh",
+      "Trans": {"SC":"附属模型列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"99390362"}
+    },
+    {
+      "NamespaceHash": "4F6D02A64C57F32CF0DF1388A393009E",
+      "Source": "Material Switch",
+      "Trans": {"SC":"材质切换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3620634860"}
+    },
+    {
+      "NamespaceHash": "EE400EF84B36E66D85FAE0A30012F946",
+      "Source": "Object Category Icon",
+      "Trans": {"SC":"物件分类图标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"328952523"}
+    },
+    {
+      "NamespaceHash": "9CAC5C274637BC4C67901E86BDA9427F",
+      "Source": "Object Configuration",
+      "Trans": {"SC":"物件配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"93948308"}
+    },
+    {
+      "NamespaceHash": "1E4FAC2C4817C58815696899EBD5F5DA",
+      "Source": "Selected Material",
+      "Trans": {"SC":"选中材质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2866861065"}
+    },
+    {
+      "NamespaceHash": "06A09CBC4A0DECD32F7E6287DF1B13B7",
+      "Source": "Show Collision Mesh :",
+      "Trans": {"SC":"显示碰撞模型：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1409402753"}
+    },
+    {
+      "NamespaceHash": "A96942F8403304C44F0E6C881C0AC667",
+      "Source": "Show Human Size :",
+      "Trans": {"SC":"显示人物比例参照：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1291274775"}
+    },
+    {
+      "NamespaceHash": "54618C1149326C875354BABA71B693A4",
+      "Source": "Show Origin :",
+      "Trans": {"SC":"显示物件原点：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3427870720"}
+    },
+    {
+      "NamespaceHash": "1292AFB34B267957506F0CA9A490CD95",
+      "Source": "This Mesh Materials",
+      "Trans": {"SC":"当前模型材质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4137731982"}
+    },
+    {
+      "NamespaceHash": "FBC4F13E4CD6FE5E691E1BB15BF4698B",
+      "Source": "My Objects Library",
+      "Trans": {"SC":"我的物件素材库","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3164860332"}
+    },
+    {
+      "NamespaceHash": "85CAF2A6454FAE694307BC95C8F823A6",
+      "Source": "Selected Object Preview",
+      "Trans": {"SC":"选中物件预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"693044309"}
+    },
+    {
+      "NamespaceHash": "17F69F914E858BCE749A7D8A7B9801B4",
+      "Source": "Preview Settings",
+      "Trans": {"SC":"预览设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1792904103"}
+    },
+    {
+      "NamespaceHash": "9AC7F8F74DAE091F1108E485CD24E00D",
+      "Source": "Import",
+      "Trans": {"SC":"导入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3236462330"}
+    },
+    {
+      "NamespaceHash": "BBE6268F42A826DC20F942A5D20D7DAB",
+      "Source": "Export",
+      "Trans": {"SC":"导出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2964301601"}
+    },
+    {
+      "NamespaceHash": "2077AB4C44D0B134FE31DFBAB7CC02CE",
+      "Source": "Harvest Mesh Size",
+      "Trans": {"SC":"可采集模型尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1694492794"}
+    },
+    {
+      "NamespaceHash": "18DD3E234CBC403F8A9971BB734494E9",
+      "Source": "Harvest Mesh Size",
+      "Trans": {"SC":"可采集模型尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1694492794"}
+    },
+    {
+      "NamespaceHash": "40752BF1461DD5B8C2CEC3A56E25264E",
+      "Source": "Selected Material Name",
+      "Trans": {"SC":"选中材质名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3575168533"}
+    },
+    {
+      "NamespaceHash": "2EC3EF784E926FF94A1260BDB73422D8",
+      "Source": "Selected Mesh Name",
+      "Trans": {"SC":"选中模型名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3296224199"}
+    },
+    {
+      "NamespaceHash": "5E004D2A47B476F728F0A1B484CBEA9C",
+      "Source": "FIRE ",
+      "Trans": {"SC":"鼠标左键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1543829838"}
+    },
+    {
+      "NamespaceHash": "FA17716A445841F8A54692A17C446E77",
+      "Source": "to place ressources area",
+      "Trans": {"SC":"放置资源区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3701474502"}
+    },
+    {
+      "NamespaceHash": "3F9ADCA64D4BA39E999EA6B4B47D1D5B",
+      "Source": "This Harvestable Type Has : - Healt of .- Harvest interval of .",
+      "Trans": {"SC":"该可采集物件属性：- 生命值：- 采集间隔.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1451847940"}
+    },
+    {
+      "NamespaceHash": "17C4DEE84D60CC382C1B778B9D0C1F5E",
+      "Source": "Instances : ",
+      "Trans": {"SC":"实例数量：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1695437987"}
+    },
+    {
+      "NamespaceHash": "006380A1430D9DB881C40DB31576594E",
+      "Source": "Range : 1",
+      "Trans": {"SC":"范围：1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"285397178"}
+    },
+    {
+      "NamespaceHash": "E3B1CE894030A3676E99ECB695C79656",
+      "Source": "Size : ",
+      "Trans": {"SC":"尺寸：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"141372396"}
+    },
+    {
+      "NamespaceHash": "AE96DB5249B1B3B8C44C068DC8102C40",
+      "Source": "Selection : ",
+      "Trans": {"SC":"选择项：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"800031951"}
+    },
+    {
+      "NamespaceHash": "FF2E56B546225DCD65644EA52EF61796",
+      "Source": "Hold",
+      "Trans": {"SC":"长按","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3624928313"}
+    },
+    {
+      "NamespaceHash": "DB98A3BF4B54C1209B1B2F84A6F2AB40",
+      "Source": "Clic",
+      "Trans": {"SC":"点击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"543345577"}
+    },
+    {
+      "NamespaceHash": "C685D3DA468AFDB741F161AF989E82E3",
+      "Source": " RELOAD ",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2020962707"}
+    },
+    {
+      "NamespaceHash": "7DDCC6644EB34D40DFCC2699DCD91CC5",
+      "Source": "to open selection",
+      "Trans": {"SC":"打开选择列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2282896794"}
+    },
+    {
+      "NamespaceHash": "ABB45CA5448D2E78DA937FB3067065CD",
+      "Source": "to switch harvestable mesh",
+      "Trans": {"SC":"切换可采集模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2556757590"}
+    },
+    {
+      "NamespaceHash": "3416891E48C0A8C29714768AEB1EEFB3",
+      "Source": "Scroll ",
+      "Trans": {"SC":"滚轮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3423844339"}
+    },
+    {
+      "NamespaceHash": "43D51A244857B7051138AE88562024CF",
+      "Source": "Harvestable Placement",
+      "Trans": {"SC":"可采集物件摆放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2589524389"}
+    },
+    {
+      "NamespaceHash": "BA887D914AF2EF222116B8AFB5F1BC14",
+      "Source": "Select Mesh",
+      "Trans": {"SC":"选择模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4219873545"}
+    },
+    {
+      "NamespaceHash": "ECFB6150445B3E601C9A04835B8FC090",
+      "Source": "SCOPE ",
+      "Trans": {"SC":"鼠标右键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1704567591"}
+    },
+    {
+      "NamespaceHash": "38159A504CE9824B458D88982AD8E841",
+      "Source": "to switch remove view (Double tap to lock)",
+      "Trans": {"SC":"切换移除视图（双击锁定）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2063220836"}
+    },
+    {
+      "NamespaceHash": "A6E19D9B463BB0564EB4DBB886D2D5B5",
+      "Source": "to adjust placement range",
+      "Trans": {"SC":"调整摆放范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3310650808"}
+    },
+    {
+      "NamespaceHash": "64434B9C4E54B69B643CC7A7802399FB",
+      "Source": "Last Logs",
+      "Trans": {"SC":"最新日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1229474408"}
+    },
+    {
+      "NamespaceHash": "B1AFFE934724A070E2A9A6AC30F3662D",
+      "Source": "Show my client logs.",
+      "Trans": {"SC":"查看我的客户端日志.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4175949198"}
+    },
+    {
+      "NamespaceHash": "F6C6ADA14E60258C83D90D901A8C3DF3",
+      "Source": "Server Only show last 500 logs.",
+      "Trans": {"SC":"服务端仅显示最近 500 条日志.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2118576430"}
+    },
+    {
+      "NamespaceHash": "BB88D54F4A60C94A479F9C974695E42A",
+      "Source": "Apply changes.",
+      "Trans": {"SC":"应用修改.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3769845969"}
+    },
+    {
+      "NamespaceHash": "460D8287467568593957A69F20962145",
+      "Source": "Save And Close Panel",
+      "Trans": {"SC":"保存并关闭面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3023624967"}
+    },
+    {
+      "NamespaceHash": "73A7568F4248229ECCC03CB6CC697EC8",
+      "Source": "My Own Client Logs",
+      "Trans": {"SC":"个人客户端日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3164532667"}
+    },
+    {
+      "NamespaceHash": "081119704A7767027E6588A7D35E7863",
+      "Source": "Server Or Game Host Logs",
+      "Trans": {"SC":"服务端 / 主机日志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3533199782"}
+    },
+    {
+      "NamespaceHash": "340FE1A24F3A349E6F12F8890DD876D1",
+      "Source": "Logs Panel",
+      "Trans": {"SC":"日志面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"20897662"}
+    },
+    {
+      "NamespaceHash": "5200AF824BCDE769BACB76B8678F5D39",
+      "Source": "Default Name",
+      "Trans": {"SC":"默认名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"881443374"}
+    },
+    {
+      "NamespaceHash": "0568F85547F4533CA39660822E21CAED",
+      "Source": "Reset Default Name",
+      "Trans": {"SC":"恢复默认名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2252734695"}
+    },
+    {
+      "NamespaceHash": "FF1BDE6E441FA39B525B7DAA289C87AD",
+      "Source": "Reset Origin",
+      "Trans": {"SC":"重置原点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2995813214"}
+    },
+    {
+      "NamespaceHash": "FCEC508C435077E20B36FD8852D1B4BF",
+      "Source": "Object Origin",
+      "Trans": {"SC":"物件原点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2583239948"}
+    },
+    {
+      "NamespaceHash": "21AFD38E405A6E3B9786D0A7837B23DC",
+      "Source": "Reset Location",
+      "Trans": {"SC":"重置位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2732524958"}
+    },
+    {
+      "NamespaceHash": "36F2CD0E497F2B87305B799E7F0CCCCC",
+      "Source": "Reset Y Rotation",
+      "Trans": {"SC":"重置 Y 轴旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"702921180"}
+    },
+    {
+      "NamespaceHash": "484F66FF4B5965EE9AEE9EBF9AD2F117",
+      "Source": "Reset X Rotation",
+      "Trans": {"SC":"重置 X 轴旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2258709403"}
+    },
+    {
+      "NamespaceHash": "40EF55514A5A3343A73FB9BAE2D8C125",
+      "Source": "Reset Z Rotation",
+      "Trans": {"SC":"重置 Z 轴旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"56166740"}
+    },
+    {
+      "NamespaceHash": "4FA6F7BD43FFFCA6E7ED3D93810C8B8E",
+      "Source": "Reset Size",
+      "Trans": {"SC":"重置尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"202583194"}
+    },
+    {
+      "NamespaceHash": "62974768450DE7D649E63889DFDF1431",
+      "Source": "Reset Add Size",
+      "Trans": {"SC":"重置附加尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2800834276"}
+    },
+    {
+      "NamespaceHash": "B9FB906140DBDE485A3313BC7B0EA529",
+      "Source": "Object X of X",
+      "Trans": {"SC":"物件 第 X 项 / 共 X 项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3822875593"}
+    },
+    {
+      "NamespaceHash": "4EDD479547F951D35C18D4A2A98BE487",
+      "Source": "FIRE ",
+      "Trans": {"SC":"鼠标左键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1543829838"}
+    },
+    {
+      "NamespaceHash": "4A5FB645451882A52C5948A7155F8EBC",
+      "Source": "FIRE ",
+      "Trans": {"SC":"鼠标左键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1543829838"}
+    },
+    {
+      "NamespaceHash": "6A7DC65942D901796C83A28878C0C6FC",
+      "Source": "to place object",
+      "Trans": {"SC":"摆放物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1566722125"}
+    },
+    {
+      "NamespaceHash": "D8EB9A6A48D922E15F49ACBFA79E27B2",
+      "Source": "to place object",
+      "Trans": {"SC":"摆放物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1566722125"}
+    },
+    {
+      "NamespaceHash": "2BC8D30546E0D2B9EBB3E6BE4F0CA362",
+      "Source": "Flip X :",
+      "Trans": {"SC":"X 轴翻转：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2060462648"}
+    },
+    {
+      "NamespaceHash": "33A103FF4364081AD7C5509E59FF47A3",
+      "Source": "Flip Y :",
+      "Trans": {"SC":"Y 轴翻转：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3782567511"}
+    },
+    {
+      "NamespaceHash": "8A07C1014784BE423158E0A53C158D7A",
+      "Source": "Flip Z :",
+      "Trans": {"SC":"Z 轴翻转：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2532029607"}
+    },
+    {
+      "NamespaceHash": "F27C22274B906635294D0698B0169AD5",
+      "Source": "Object Grid Snap :",
+      "Trans": {"SC":"物件网格吸附：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3511104750"}
+    },
+    {
+      "NamespaceHash": "FF26357445233CC19AD1BD9960B9B82C",
+      "Source": "World Grid Snap :",
+      "Trans": {"SC":"世界网格吸附：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3770427640"}
+    },
+    {
+      "NamespaceHash": "70F5777E47BBD5E93DF7B18E7B8407F6",
+      "Source": "Grid Spacing :",
+      "Trans": {"SC":"网格间距：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2893914193"}
+    },
+    {
+      "NamespaceHash": "03398B124C0EA604E916FFBCBA848A83",
+      "Source": "Hit Objects :",
+      "Trans": {"SC":"碰撞物件：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"143180396"}
+    },
+    {
+      "NamespaceHash": "169435DD440B53AE5B41EFB08FC12EB3",
+      "Source": "Hold",
+      "Trans": {"SC":"长按","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3624928313"}
+    },
+    {
+      "NamespaceHash": "B9787C1846F7440E3BEA52857A0AEFD9",
+      "Source": "Hold",
+      "Trans": {"SC":"长按","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3624928313"}
+    },
+    {
+      "NamespaceHash": "C9CEBA1F41E58EF7C8C7E690F78CE8F1",
+      "Source": " RELOAD ",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2020962707"}
+    },
+    {
+      "NamespaceHash": "752538D8423BF5F5737416B635441A2A",
+      "Source": "to open object and category selection",
+      "Trans": {"SC":"打开物件及分类选择列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2753647241"}
+    },
+    {
+      "NamespaceHash": "159DAA5B464D0C7171A495BD36D4F466",
+      "Source": " RELOAD ",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2020962707"}
+    },
+    {
+      "NamespaceHash": "74584D24440E939B5A72DEB9C622E7BE",
+      "Source": "to open inputs edition",
+      "Trans": {"SC":"打开参数编辑界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3628300268"}
+    },
+    {
+      "NamespaceHash": "931B6DF348FEF945691AEF92F3FF1491",
+      "Source": "Lock X :",
+      "Trans": {"SC":"锁定 X 轴：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2052969650"}
+    },
+    {
+      "NamespaceHash": "1B43F8DD4E172D588EDBED9595CA8705",
+      "Source": "Lock Y :",
+      "Trans": {"SC":"锁定 Y 轴：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3791165661"}
+    },
+    {
+      "NamespaceHash": "219F2C1442B8E70713815BBA4DC1520D",
+      "Source": "Lock Z :",
+      "Trans": {"SC":"锁定 Z 轴：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2523286061"}
+    },
+    {
+      "NamespaceHash": "6B0067C5481FE6F228414BAF61FA9BD6",
+      "Source": "Middle Mouse",
+      "Trans": {"SC":"鼠标中键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1084193972"}
+    },
+    {
+      "NamespaceHash": "E9562D1C42E10432D6A4E9BDBD8C996E",
+      "Source": " to copy targeting object",
+      "Trans": {"SC":"复制选中物体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"723888347"}
+    },
+    {
+      "NamespaceHash": "19A81F104007AED363F28199CC366756",
+      "Source": "Adjust Position",
+      "Trans": {"SC":"位置调整","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1978024682"}
+    },
+    {
+      "NamespaceHash": "E89CB43E4A030ADEAB41659902850554",
+      "Source": "Rotation X",
+      "Trans": {"SC":"X 轴旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"438315274"}
+    },
+    {
+      "NamespaceHash": "6C99ED694225A21A37FDBB89C247FBC1",
+      "Source": "Rotation Y",
+      "Trans": {"SC":"Y 轴旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2728152687"}
+    },
+    {
+      "NamespaceHash": "4B83EC49404DEA53AD7C8B8FE5B0D5EE",
+      "Source": "Rotation Z",
+      "Trans": {"SC":"Z 轴旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2955534721"}
+    },
+    {
+      "NamespaceHash": "C83EE53340756F02692184AC18FBB306",
+      "Source": "Modify Size",
+      "Trans": {"SC":"尺寸修改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1277511034"}
+    },
+    {
+      "NamespaceHash": "BB7D193D4662805E1379B48FB3063791",
+      "Source": "Next Object",
+      "Trans": {"SC":"下一个物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"506933489"}
+    },
+    {
+      "NamespaceHash": "8AAD31A6470434665182D090C8CE517C",
+      "Source": "Next Object More",
+      "Trans": {"SC":"批量切换物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3128622955"}
+    },
+    {
+      "NamespaceHash": "224A0A45494DDB45A9B80E8AAD1EAB17",
+      "Source": "Placing Mode",
+      "Trans": {"SC":"摆放模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1885864300"}
+    },
+    {
+      "NamespaceHash": "8CF0732D4EE404364D6F88907564DED0",
+      "Source": "Adjusting Mode",
+      "Trans": {"SC":"调整模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2636068003"}
+    },
+    {
+      "NamespaceHash": "B43407BC4DA8351C280EAA8120F962D9",
+      "Source": "Select From List",
+      "Trans": {"SC":"从列表选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1834669237"}
+    },
+    {
+      "NamespaceHash": "00BBA9604E5B45024D765BB1D0B1B8C0",
+      "Source": "Click",
+      "Trans": {"SC":"点击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"207595997"}
+    },
+    {
+      "NamespaceHash": "7A92ABFD4635971552B6379E3E968A32",
+      "Source": "Click",
+      "Trans": {"SC":"点击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"207595997"}
+    },
+    {
+      "NamespaceHash": "348F388E498CDF5EE3445E8B3460E67C",
+      "Source": " RELOAD ",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2020962707"}
+    },
+    {
+      "NamespaceHash": "F5D36DA2496A793EE7B7A2B8C1431140",
+      "Source": "to switch Items",
+      "Trans": {"SC":"切换物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1833622737"}
+    },
+    {
+      "NamespaceHash": "11D87E834208801F2AE9588D9ED0EDAA",
+      "Source": " RELOAD ",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2020962707"}
+    },
+    {
+      "NamespaceHash": "70DD89CB4A75FFE9CD4ED88579C8C963",
+      "Source": "to switch between adjusting options",
+      "Trans": {"SC":"切换调整项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4283808642"}
+    },
+    {
+      "NamespaceHash": "CE47324C400D0F1D8589C09E95192E53",
+      "Source": "SCOPE ",
+      "Trans": {"SC":"鼠标右键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1704567591"}
+    },
+    {
+      "NamespaceHash": "8CEC0DE64537B923B0FF19A0AB99842D",
+      "Source": "SCOPE ",
+      "Trans": {"SC":"鼠标右键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1704567591"}
+    },
+    {
+      "NamespaceHash": "EDCF79804595770866D42A90549F28CA",
+      "Source": "to switch placement Mode",
+      "Trans": {"SC":"切换摆放模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"936588755"}
+    },
+    {
+      "NamespaceHash": "F180D7414A17DBC83E85608A77F8E130",
+      "Source": "to return to Placing Mode",
+      "Trans": {"SC":"返回摆放模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4247320555"}
+    },
+    {
+      "NamespaceHash": "FB2054B24B2B37F18A47D2AA9D2F92EC",
+      "Source": "Scroll",
+      "Trans": {"SC":"滚轮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3597779739"}
+    },
+    {
+      "NamespaceHash": "5E7F234C4FFF2C71444E77AD1AC5F479",
+      "Source": "to adjust placement range ",
+      "Trans": {"SC":"调整摆放范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2341953875"}
+    },
+    {
+      "NamespaceHash": "44F2C4134AEA8A3D4F1B3191E9C207AE",
+      "Source": "SCROLL ",
+      "Trans": {"SC":"滚轮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3728857937"}
+    },
+    {
+      "NamespaceHash": "6F0B5C2346CD9086128D62A6AB39AC91",
+      "Source": "to adjust current setting",
+      "Trans": {"SC":"调整当前参数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4224428147"}
+    },
+    {
+      "NamespaceHash": "4F5601CD47C18B73526880B5D3054394",
+      "Source": "Selected Object",
+      "Trans": {"SC":"选中物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1068415571"}
+    },
+    {
+      "NamespaceHash": "BE5CA8C0474B3EB60BD9F0A20A1DB56D",
+      "Source": "Return",
+      "Trans": {"SC":"返回","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2784082946"}
+    },
+    {
+      "NamespaceHash": "2DDF51A3427E1A4429FD2F9719EC275A",
+      "Source": "Add",
+      "Trans": {"SC":"添加","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"821490661"}
+    },
+    {
+      "NamespaceHash": "204AD61747BEF8EE580F128E9FC25184",
+      "Source": "to remove targeting object",
+      "Trans": {"SC":"移除选中物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3237129715"}
+    },
+    {
+      "NamespaceHash": "749112664E98FCC669A8D79C413BC8B5",
+      "Source": "Fire ",
+      "Trans": {"SC":"鼠标左键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2860268445"}
+    },
+    {
+      "NamespaceHash": "8665127B4632BB29CD5A1094021477C9",
+      "Source": "Remove Mode",
+      "Trans": {"SC":"移除模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"325006994"}
+    },
+    {
+      "NamespaceHash": "F075265E4BC97D56A7EFC3BFB54BAC99",
+      "Source": "HOLD RELOAD ",
+      "Trans": {"SC":"长按R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3690511117"}
+    },
+    {
+      "NamespaceHash": "9FDDE6C44B8349F5E4EDCA8578C8D57C",
+      "Source": "to switch between remove options",
+      "Trans": {"SC":"切换移除选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2450573006"}
+    },
+    {
+      "NamespaceHash": "97E347174111B4A0D87485ADC03A4F35",
+      "Source": "Object ",
+      "Trans": {"SC":"物体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"158690764"}
+    },
+    {
+      "NamespaceHash": "7BB93EC44E56D6F24D3F5098B4F39630",
+      "Source": "Target : ",
+      "Trans": {"SC":"目标：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"930903661"}
+    },
+    {
+      "NamespaceHash": "8058B77D4A38D94F91842BBF99E10F62",
+      "Source": "to toggle objects locations view",
+      "Trans": {"SC":"切换物件位置视图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3108432255"}
+    },
+    {
+      "NamespaceHash": "27D156D84051C0625DE5B59DA2DB3811",
+      "Source": "SCOPE ",
+      "Trans": {"SC":"鼠标右键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1704567591"}
+    },
+    {
+      "NamespaceHash": "296A51EC46AB8CDDCAF4D6A8210ABFC0",
+      "Source": "SCROLL ",
+      "Trans": {"SC":"滚轮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3728857937"}
+    },
+    {
+      "NamespaceHash": "B34448584E2E4F2C2E0CF1A3D588B475",
+      "Source": "to adjust size",
+      "Trans": {"SC":"调整尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1284267512"}
+    },
+    {
+      "NamespaceHash": "E664F8DE4FECE867DBBFD78E83A49A80",
+      "Source": "Selected Object",
+      "Trans": {"SC":"选中物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1068415571"}
+    },
+    {
+      "NamespaceHash": "1F52297648C9C388400B24BFC70F2BFA",
+      "Source": "Current Size : ",
+      "Trans": {"SC":"当前尺寸：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1488533938"}
+    },
+    {
+      "NamespaceHash": "F7720A234A40E68BC2F4A08949740E13",
+      "Source": "Reset Default Name",
+      "Trans": {"SC":"恢复默认名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2252734695"}
+    },
+    {
+      "NamespaceHash": "5FB7F15940E6D2943A60B298CEBF1373",
+      "Source": "Reset Rotation",
+      "Trans": {"SC":"重置旋转角度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1538130006"}
+    },
+    {
+      "NamespaceHash": "DF8968294EA9CFF7321207983D2AA3D4",
+      "Source": "Rotation",
+      "Trans": {"SC":"旋转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4077897592"}
+    },
+    {
+      "NamespaceHash": "D4997D7A4E429B2DFEAF79958C58AC10",
+      "Source": "Reset Default Name",
+      "Trans": {"SC":"恢复默认名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2252734695"}
+    },
+    {
+      "NamespaceHash": "097D59B1405C0BBA70EAD582293B6619",
+      "Source": "Reset Size",
+      "Trans": {"SC":"重置尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"202583194"}
+    },
+    {
+      "NamespaceHash": "5D9729034673CD21AE7F79B567CCDD41",
+      "Source": "Reset Rotation",
+      "Trans": {"SC":"重置旋转角度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1538130006"}
+    },
+    {
+      "NamespaceHash": "FC2C884144EE7C4D5E0AC0A92150394D",
+      "Source": "Rotation & Size",
+      "Trans": {"SC":"旋转与尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1653852959"}
+    },
+    {
+      "NamespaceHash": "0A2B4B104458E4ED77F7A7AB4660EB7D",
+      "Source": "Page 1/1 (0 to 10)",
+      "Trans": {"SC":"第 1 页 / 共 1 页（0 - 10 项）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2461482959"}
+    },
+    {
+      "NamespaceHash": "6CADE3D14338B02EE42137A37B0A7ABB",
+      "Source": "FIRE",
+      "Trans": {"SC":"鼠标左键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2270627230"}
+    },
+    {
+      "NamespaceHash": "FC4EA115477FA94B6042FE90313CCAD8",
+      "Source": " to scan targeting objects",
+      "Trans": {"SC":"扫描选中物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3646679689"}
+    },
+    {
+      "NamespaceHash": "249BF7A3469A2AB4F1AE83A91270A7F0",
+      "Source": "Hold ",
+      "Trans": {"SC":"长按","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3382060898"}
+    },
+    {
+      "NamespaceHash": "8ECA4907452F76A621FCA5B460179016",
+      "Source": "RELOAD",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"131461892"}
+    },
+    {
+      "NamespaceHash": "C5D61AA0482DFDCB10641186C8A4701E",
+      "Source": " to switch in to sphere scan (Can be Heavy)",
+      "Trans": {"SC":"切换为球形扫描（资源占用较高）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"427401820"}
+    },
+    {
+      "NamespaceHash": "03EDCECC48EC787346AFEE90084AEEDE",
+      "Source": "Maintain ",
+      "Trans": {"SC":"持续按住","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"294786490"}
+    },
+    {
+      "NamespaceHash": "58B935AE475FBE44DB7C20B0725498B6",
+      "Source": "SCOPE",
+      "Trans": {"SC":"鼠标右键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3387943988"}
+    },
+    {
+      "NamespaceHash": "52EC14644268E2D8DBEE16BA87B9CA2A",
+      "Source": " to keep scanning targeting objects",
+      "Trans": {"SC":"持续扫描选中目标物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1338140900"}
+    },
+    {
+      "NamespaceHash": "DE1646DE47C5354E8C36568D114D0B41",
+      "Source": "Found Meshes",
+      "Trans": {"SC":"已识别模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3872274855"}
+    },
+    {
+      "NamespaceHash": "32609962429E54FBCB0560A6768A2766",
+      "Source": "Show scanned meshes that contain multiples component meshes. Such as Packed Level Actors.",
+      "Trans": {"SC":"显示由多个子模型组成的扫描物件（例如组合场景模型）.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"531174479"}
+    },
+    {
+      "NamespaceHash": "69528F1D4664682DDCFDAB9FF446A20D",
+      "Source": "Show basic scanned objects. Simple Static Meshes or Foliage Meshes.",
+      "Trans": {"SC":"显示基础扫描物件：简单静态模型、植被模型.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3111940969"}
+    },
+    {
+      "NamespaceHash": "5C86382545525073D58C568970661016",
+      "Source": "Show my scanned Structures.",
+      "Trans": {"SC":"显示我扫描的建筑物件.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1085006969"}
+    },
+    {
+      "NamespaceHash": "4280B8754C946B1DBE74F1B12217D18A",
+      "Source": "Save Mesh to Library",
+      "Trans": {"SC":"将模型保存至素材库","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4175644639"}
+    },
+    {
+      "NamespaceHash": "AC914BAF45B3937CD7FFAAB1D9BC9539",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "C462A53C4315CEDABD1E889678E7F958",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "623974374DF587B65097B296FA1548F7",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "198C688E4AC3B469505AAB86F72544A0",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "E8C523F94BBFA587DA47A58369E82B3F",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "94A7F42741CFADDCCA1E4BBDE3551CA3",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "797D19894DF2C62187A9DB80EB9C40DB",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "0BFE5ADD4AAF1D571BF931A3F40468C7",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "241AC39545540133C307ABB1922BC0F4",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "F1681AC34E4255BB00C161ACC1811FD6",
+      "Source": "Select this Mesh for Visual",
+      "Trans": {"SC":"选中此模型进行预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"76873071"}
+    },
+    {
+      "NamespaceHash": "43753C8945BFFA87EE50E5BF0E5689EE",
+      "Source": "Search Here",
+      "Trans": {"SC":"搜索栏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"53719248"}
+    },
+    {
+      "NamespaceHash": "7BD969F548D7C0C52A78C8848D57BA39",
+      "Source": "Group",
+      "Trans": {"SC":"组合物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1457964899"}
+    },
+    {
+      "NamespaceHash": "5B98465C475A7081689A2FA1D6205B0B",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "44CBB63A42C15A1F377CD3BF32FF341E",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "E89F88B1482E27D7F390ABA85D926A16",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "66D7E85C4B3BDFE1C8E099A513FC1A26",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "F183864349EFE3246DEEA1A6E353F532",
+      "Source": "Save Object",
+      "Trans": {"SC":"保存物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1560137447"}
+    },
+    {
+      "NamespaceHash": "E4B7A07641AFC165B1CDEAB33F39A1EA",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "2C6F18EA4ED0ADA50604D1BAC354BD31",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "183804F24ABA0E9B0FBAD4B8B0400776",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "8DF5FC3D439368D209402280B25B51B7",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "6DAADC37498D57B784FD04863B6C065E",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "8E0B5E2C4ECD2CB38502A3A513E14C17",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"843912006"}
+    },
+    {
+      "NamespaceHash": "B7010C89456DCDBCEFDA2F8F33B58D62",
+      "Source": "Page 1/1 (0 to 10)",
+      "Trans": {"SC":"第 1 页 / 共 1 页（0 - 10 项）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2461482959"}
+    },
+    {
+      "NamespaceHash": "C1A7CFA741CEBE9394236DA3149E7264",
+      "Source": "Custom Object Category",
+      "Trans": {"SC":"自定义物件分类","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2025674460"}
+    },
+    {
+      "NamespaceHash": "8F9C1E3C46C7B9BBA2EB5A8B7F666A5E",
+      "Source": "Selected Mesh Class Name",
+      "Trans": {"SC":"选中模型类名","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1164794790"}
+    },
+    {
+      "NamespaceHash": "3D5F4CA04300F9006DA328951E6BBAD8",
+      "Source": "Default Name :",
+      "Trans": {"SC":"默认名称：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3651272810"}
+    },
+    {
+      "NamespaceHash": "0858288E4ACE566BC9CCD89E7FBF3261",
+      "Source": "Show Collision Mesh :",
+      "Trans": {"SC":"显示碰撞模型：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1409402753"}
+    },
+    {
+      "NamespaceHash": "481C7F704E32D04ADA866A915DB58B13",
+      "Source": "Show Human Size :",
+      "Trans": {"SC":"显示人物比例参照：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1291274775"}
+    },
+    {
+      "NamespaceHash": "9CB7AC51423F895138B79C94A21A7043",
+      "Source": "Show Origin :",
+      "Trans": {"SC":"显示物件原点：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3427870720"}
+    },
+    {
+      "NamespaceHash": "A128CCAD46523E5AC98832AD678169C3",
+      "Source": "Found Meshes",
+      "Trans": {"SC":"已识别模型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3872274855"}
+    },
+    {
+      "NamespaceHash": "B6C868744EFD0219B6DFBC8C6D622E88",
+      "Source": "Make your own Object Preview",
+      "Trans": {"SC":"自定义物件预览","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"330376651"}
+    },
+    {
+      "NamespaceHash": "1CA9B8DC4A664C64330D2691A78A9BB3",
+      "Source": "Preview Settings",
+      "Trans": {"SC":"预览设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1792904103"}
+    },
+    {
+      "NamespaceHash": "0FAF30F8434245DCD2E57FBEACCAC95E",
+      "Source": "Selected Volume Name",
+      "Trans": {"SC":"选中区域名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"443220316"}
+    },
+    {
+      "NamespaceHash": "DCF3D9164BD7C8AC7564A1A9BD8B078C",
+      "Source": "FIRE ",
+      "Trans": {"SC":"鼠标左键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1543829838"}
+    },
+    {
+      "NamespaceHash": "956E16C044D99FE3A4D0B5A1FC85DD83",
+      "Source": "to place volume",
+      "Trans": {"SC":"放置功能区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1708576404"}
+    },
+    {
+      "NamespaceHash": "CF70422A4C58A07DD810399F5C25D9A4",
+      "Source": "Hold",
+      "Trans": {"SC":"长按","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3624928313"}
+    },
+    {
+      "NamespaceHash": "1D4DE2154248915F9D1DC7B3C51405E9",
+      "Source": " RELOAD ",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2020962707"}
+    },
+    {
+      "NamespaceHash": "1D7986AF400B305677F3DEB7C307AE2D",
+      "Source": "to open volumes type selection",
+      "Trans": {"SC":"打开功能区域类型选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3447949999"}
+    },
+    {
+      "NamespaceHash": "BB38038849B358488170D9AA86CDC1EA",
+      "Source": "Scroll ",
+      "Trans": {"SC":"滚轮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3423844339"}
+    },
+    {
+      "NamespaceHash": "8FB7E1B8488F223E759056B418E49E65",
+      "Source": "Volume Placement",
+      "Trans": {"SC":"功能区域摆放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3657365340"}
+    },
+    {
+      "NamespaceHash": "E49B4DBA481B660ADDE356829DD601CD",
+      "Source": "Select Volume Type",
+      "Trans": {"SC":"选择区域类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"522853935"}
+    },
+    {
+      "NamespaceHash": "90CEB11A439A9760C07E9C81B597B119",
+      "Source": "Click",
+      "Trans": {"SC":"点击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"207595997"}
+    },
+    {
+      "NamespaceHash": "BE7287FE4D9D47E51A8F738089F47EF0",
+      "Source": " RELOAD ",
+      "Trans": {"SC":"R键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2020962707"}
+    },
+    {
+      "NamespaceHash": "689302624E63C900A7E12CBD3DCEE665",
+      "Source": "to switch volume size",
+      "Trans": {"SC":"切换区域尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2369719092"}
+    },
+    {
+      "NamespaceHash": "44F71C4143A0389E4C9B4EA24B256282",
+      "Source": "SCOPE ",
+      "Trans": {"SC":"鼠标右键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1704567591"}
+    },
+    {
+      "NamespaceHash": "8B0B50814B6507771596DFB2E05A1730",
+      "Source": "to switch volume selection from type",
+      "Trans": {"SC":"切换区域筛选类型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2800933103"}
+    },
+    {
+      "NamespaceHash": "CC07773F466DDBEFFA851498A05FA47B",
+      "Source": "to adjust placement range",
+      "Trans": {"SC":"调整摆放范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3310650808"}
+    },
+    {
+      "NamespaceHash": "EF6483F34C65DA23230CDF8C77708049",
+      "Source": "Volume that increase structures damage taken inside by 100%. Volume that increase structures damage taken inside by 100%. Volume that increase structures damage taken inside by 100%.",
+      "Trans": {"SC":"区域内建筑受到的伤害提升 100%.区域内建筑受到的伤害提升 100%.区域内建筑受到的伤害提升 100%.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"473651485"}
+    },
+    {
+      "NamespaceHash": "E21965DE40AB27AFFDD9DBBB35E065CA",
+      "Source": "Range : 1",
+      "Trans": {"SC":"范围：1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"285397178"}
+    },
+    {
+      "NamespaceHash": "B870305747C83982CC3046AF8BBFDE56",
+      "Source": "Size : Small",
+      "Trans": {"SC":"尺寸：小型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3922388805"}
+    },
+    {
+      "NamespaceHash": "7A2E7DD74A64313CCC16DC998E6F3E14",
+      "Source": "Current Selection : Damage Volume",
+      "Trans": {"SC":"当前选择：伤害区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1317436556"}
+    },
+    {
+      "NamespaceHash": "DD6514EE4015A45439C7BB9969D0BB7A",
+      "Source": "Discord where you can ask questions about the mod",
+      "Trans": {"SC":"Discord社群：可咨询模组相关问题","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"770969185"}
+    },
+    {
+      "NamespaceHash": "603F19094FDDC46C0F953BA663CCFAB5",
+      "Source": "Youtube where you can find World Builder related videos",
+      "Trans": {"SC":"油管频道：可查看世界建造者相关教程视频","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1439377515"}
+    },
+    {
+      "NamespaceHash": "252E90244D3E5895A0693C914B2E384E",
+      "Source": "Youtube",
+      "Trans": {"SC":"油管","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"211147040"}
+    },
+    {
+      "NamespaceHash": "ECF8D3D043862D7998CECE80D02AD37A",
+      "Source": "Previous",
+      "Trans": {"SC":"上一页","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1791792662"}
+    },
+    {
+      "NamespaceHash": "F67F37264E2CB7054204D4AB1123FABA",
+      "Source": "Next",
+      "Trans": {"SC":"下一页","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3378441714"}
+    },
+    {
+      "NamespaceHash": "B4D3A7C64EBDB788139C93B018B16490",
+      "Source": "Discord",
+      "Trans": {"SC":"Discord社群","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"284144588"}
+    },
+    {
+      "NamespaceHash": "FBA28DFB406E541D6A9E20B4BDAE476D",
+      "Source": "Close Book",
+      "Trans": {"SC":"关闭手册","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2935758616"}
+    },
+    {
+      "NamespaceHash": "1B474AC9473C281F397DF39E658364C0",
+      "Source": "World Builder Book",
+      "Trans": {"SC":"世界建造者手册","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2891902193"}
+    },
+    {
+      "NamespaceHash": "1BE67BB34F09DED4C1CD66B67D8E30E6",
+      "Source": "Welcome to World Builder Tools",
+      "Trans": {"SC":"欢迎使用世界建造者工具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1234007420"}
+    },
+    {
+      "NamespaceHash": "Content::2506008878",
+      "Source": "Scan",
+      "Trans": {"SC":"扫描","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::843912006",
+      "Source": "Select",
+      "Trans": {"SC":"选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3090267029",
+      "Source": "Edit",
+      "Trans": {"SC":"编辑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::443603183",
+      "Source": "Placement",
+      "Trans": {"SC":"放置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2400749053",
+      "Source": "Combine",
+      "Trans": {"SC":"合并","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3330445187",
+      "Source": "Volumes",
+      "Trans": {"SC":"体积区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::246111624",
+      "Source": "Drops (Coming in V4 Major Content Update)",
+      "Trans": {"SC":"物品生成（将于 V4 大型版本更新上线）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4173464027",
+      "Source": "Harvestable Mode",
+      "Trans": {"SC":"可采集物模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2569161901",
+      "Source": "Dungeon (Coming in V5 Major Content Update)",
+      "Trans": {"SC":"地牢（将于 V5 大型版本更新上线）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2001695226",
+      "Source": "Apply Import",
+      "Trans": {"SC":"应用导入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3236462330",
+      "Source": "Import",
+      "Trans": {"SC":"导入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3525960056",
+      "Source": "Basic",
+      "Trans": {"SC":"基础","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1084193972",
+      "Source": "Middle Mouse",
+      "Trans": {"SC":"鼠标中键","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1286272536",
+      "Source": "StructureDamageVolumes",
+      "Trans": {"SC":"建筑伤害区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2395285978",
+      "Source": "GravityVolumes",
+      "Trans": {"SC":"重力区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2658722396",
+      "Source": "SafeZoneVolumes",
+      "Trans": {"SC":"安全区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::465423385",
+      "Source": "StructurePreventionZoneVolumes",
+      "Trans": {"SC":"禁止建造区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1531572910",
+      "Source": "PreventionVolumes",
+      "Trans": {"SC":"限制区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2115083118",
+      "Source": "WaterVolumes",
+      "Trans": {"SC":"水域区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2254822218",
+      "Source": "KillVolumes",
+      "Trans": {"SC":"致死区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3096219843",
+      "Source": "SeeAll",
+      "Trans": {"SC":"显示全部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1147544683",
+      "Source": "This option alows you to see all volumes around you.",
+      "Trans": {"SC":"该选项可显示你周边所有功能区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3108432255",
+      "Source": "to toggle objects locations view",
+      "Trans": {"SC":"切换物体位置显示模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1302513651",
+      "Source": "to lock position",
+      "Trans": {"SC":"锁定位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1796059668",
+      "Source": "Grass",
+      "Trans": {"SC":"草地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2928013754",
+      "Source": "Foliage",
+      "Trans": {"SC":"植被","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3503148416",
+      "Source": "Objects",
+      "Trans": {"SC":"物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1157104109",
+      "Source": "Object",
+      "Trans": {"SC":"单个物件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2964301601",
+      "Source": "Export",
+      "Trans": {"SC":"导出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2784082946",
+      "Source": "Return",
+      "Trans": {"SC":"返回","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+    //123
+  ]
+}
