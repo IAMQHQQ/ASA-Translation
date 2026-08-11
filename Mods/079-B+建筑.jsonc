@@ -1,5 +1,5 @@
 {
-  "BossMod": [//2026.3.10 修改建筑物品名称对标官方和CS+
+  "BossMod": [//2026.8.4 新增翻译
     {
       "NamespaceHash": "Content::1668916151",
       "Source": "B+Armour",
@@ -3275,30 +3275,6 @@
       "Source": "Dino Scan",
       "Trans": {"SC":"生物扫描","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "1ED387634F90CF859DD0E6A078AFC3BF_23",
-      "Source": "Targeting (Right Click) to change modes.",
-      "Trans": {"SC":"瞄准（右键点击）以切换模式。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2035723505"}
-    },
-    {
-      "NamespaceHash": "1ED387634F90CF859DD0E6A078AFC3BF_02",
-      "Source": "Hold Reload (PC: R) to open Mode Select UI",
-      "Trans": {"SC":"按住重新装填键（PC端：R）以打开模式选择界面","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2405460669"}
-    },
-    {
-      "NamespaceHash": "FEF679FE49833AE4B2BF2F8197109FFB_23",
-      "Source": "Targeting (Right Click) to save/clear settings.",
-      "Trans": {"SC":"瞄准（右键点击）以保存/清除设置。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3110168915"}
-    },
-    {
-      "NamespaceHash": "FEF679FE49833AE4B2BF2F8197109FFB_02",
-      "Source": "Hold Reload (PC: R) to open Mode Select UI",
-      "Trans": {"SC":"按住重新装填键（PC端：R）以打开模式选择界面","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2405460669"}
     },
     {
       "NamespaceHash": "F4FCED514A89CE13CDE538B1704CE0E0",
@@ -7523,6 +7499,450 @@
       "NamespaceHash": "Content::1602594389",
       "Source": "Blacklist",
       "Trans": {"SC":"黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3124567907",
+      "Source": "Increase Damage",
+      "Trans": {"SC":"增加伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3346818734",
+      "Source": "Decrease Damage",
+      "Trans": {"SC":"降低伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1885956585",
+      "Source": "10x Increase/Decrease",
+      "Trans": {"SC":"10 倍增加 / 降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1157736445",
+      "Source": "B+ Admin Argentavis",
+      "Trans": {"SC":"B+ 管理员阿根廷鹫","JA":"B+ 管理員阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1024011055",
+      "Source": "B+ Glass Triangle Roof",
+      "Trans": {"SC":"B+ 玻璃三角形屋顶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::34509031",
+      "Source": "B+ Wild Nearby Dino Finder",
+      "Trans": {"SC":"B+ 附近野生恐龙探测器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3523021502",
+      "Source": "B+ Tamed Dino Tracker and Teleporter",
+      "Trans": {"SC":"B+ 已驯服恐龙追踪与传送器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::779508556",
+      "Source": "B+ Vacuum Compartment Moonpool",
+      "Trans": {"SC":"B+ 月池舱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1107509028",
+      "Source": "B+ Vacuum Compartment",
+      "Trans": {"SC":"B+ 密封舱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3962044329",
+      "Source": "B+ Tranq Ammo",
+      "Trans": {"SC":"B+ 麻醉弹药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::506843939",
+      "Source": "B+ Thatch Double Door",
+      "Trans": {"SC":"B+ 茅草双开门","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1135379888",
+      "Source": "B+ Triceratops",
+      "Trans": {"SC":"B+ 三角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3093058973",
+      "Source": "B+ Colour Box",
+      "Trans": {"SC":"B+ 颜色面板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::240375193",
+      "Source": "B+ Scrap Metal Ingot",
+      "Trans": {"SC":"B+ 废金属锭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::126659324",
+      "Source": "B+ Test Wood",
+      "Trans": {"SC":"B+ 测试木材","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3111714965",
+      "Source": "B+ Magmasaur Saddle",
+      "Trans": {"SC":"B+ 熔岩龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4274005557",
+      "Source": "Equip a Magmasaur with this to ride it. Its resistant design protects the rider from extreme heat. Gives weight reduction.",
+      "Trans": {"SC":"装备到熔岩龙上以骑乘。耐热构造可保护骑手抵御极端高温，提供负重减免效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::314600510",
+      "Source": "Drink this tonic to get maximum crafting ability, stat points return once buff runs out. Can hold reload on pc or jump on console to disable before the timer finishes.",
+      "Trans": {"SC":"饮用该药剂可获得满级制作能力，增益效果结束后属性点返还。PC 端长按R键、主机端按下跳跃键可在倒计时结束前提前取消效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::256686347",
+      "Source": "B+ Local Dino Finder",
+      "Trans": {"SC":"B+ 本地恐龙探测器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4283099805",
+      "Source": "Local Dino Finder",
+      "Trans": {"SC":"本地恐龙探测器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {    
+      "NamespaceHash": "Content::1355798378",
+      "Source": "B+ Raw Prime Fish Meat",
+      "Trans": {"SC":"B + 优质生鱼肉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "FD3421214B2B259D1266F1AA4E05C5A1",
+      "Source": "REMOTEVIEW",
+      "Trans": {"SC":"远程视野","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1054107180"}
+    },
+    {
+      "NamespaceHash": "BBBF1F894D2E297AC7FCE6B07BC0C04E",
+      "Source": "Remote Viewer",
+      "Trans": {"SC":"远程观测器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2383501266"}
+    },
+    {
+      "NamespaceHash": "2F822BD545A1F00D17F66BA881CA2C92",
+      "Source": "Pos X Location",
+      "Trans": {"SC":"X 坐标位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"579605433"}
+    },
+    {
+      "NamespaceHash": "2FADD79C45498F7CCB87F89551FA6C0C",
+      "Source": "Pos Y Location",
+      "Trans": {"SC":"Y 坐标位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2378727934"}
+    },
+    {
+      "NamespaceHash": "3915F49D416E7B2BC374CAA5C59C51F2",
+      "Source": "Size Location",
+      "Trans": {"SC":"尺寸位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3050846354"}
+    },
+    {
+      "NamespaceHash": "A6CA0B2B4CDC1922272E6589DEEC6EF4",
+      "Source": "Outline Glow",
+      "Trans": {"SC":"轮廓亮度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2921935099"}
+    },
+    {
+      "NamespaceHash": "Content::2176523400",
+      "Source": "Bind",
+      "Trans": {"SC":"按键绑定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "FBEB378A49DD362C2CACB5852D8FC867",
+      "Source": "Chevron",
+      "Trans": {"SC":"三角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2012010572"}
+    },
+    {
+      "NamespaceHash": "Content::817456356",
+      "Source": "Distance",
+      "Trans": {"SC":"距离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3129073359",
+      "Source": "Traits:",
+      "Trans": {"SC":"特性：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "1E8B1DD448E7E9C9ACCDD49224B31E29",
+      "Source": "Unlock",
+      "Trans": {"SC":"解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1380939206"}
+    },
+    {
+      "NamespaceHash": "Content::2310662963",
+      "Source": "Size",
+      "Trans": {"SC":"尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "3464D894462BDD2FFEF98B825C74473A",
+      "Source": "Give XP",
+      "Trans": {"SC":"给予经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1059206393"}
+    },
+    {
+      "NamespaceHash": "Content::1335925247",
+      "Source": "Inventory Copy",
+      "Trans": {"SC":"物品栏复制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1343296170",
+      "Source": "Change Mode",
+      "Trans": {"SC":"切换模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "CE261CEA4BB4B094CC1A07B4E6DEA4E5",
+      "Source": "Change To Lock",
+      "Trans": {"SC":"切换至锁定模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3944845910"}
+    },
+    {
+      "NamespaceHash": "Content::2628834552",
+      "Source": "Area Mode",
+      "Trans": {"SC":"区域模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "536223F348B2442B226EAAAD0D9D6610",
+      "Source": "Increase Area Size",
+      "Trans": {"SC":"扩大区域范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3745513439"}
+    },
+    {
+      "NamespaceHash": "E9549BA84341BD952076B488EF44767A",
+      "Source": "Decrease Area Size",
+      "Trans": {"SC":"缩小区域范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3838771787"}
+    },
+    {
+      "NamespaceHash": "FDA84F774F8F2744085DF985538B1995",
+      "Source": "Change To Unlock",
+      "Trans": {"SC":"切换至解锁模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1799615645"}
+    },
+    {
+      "NamespaceHash": "0E23ED694722B14E46F288B45FB7D605",
+      "Source": "Lock",
+      "Trans": {"SC":"锁定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2372028996"}
+    },
+    {
+      "NamespaceHash": "8A8CCB0D4077B8237C6A35A735506482",
+      "Source": "Change To Claim",
+      "Trans": {"SC":"切换至认领模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3103244032"}
+    },
+    {
+      "NamespaceHash": "4052666B450A7134B1028C8D783E4E97",
+      "Source": "Unclaim",
+      "Trans": {"SC":"放生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3772372352"}
+    },
+    {
+      "NamespaceHash": "AFD4933F4691E2F21583BF9B4511BA07",
+      "Source": "Change To Unclaim",
+      "Trans": {"SC":"切换至放生模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4019383184"}
+    },
+    {
+      "NamespaceHash": "10A50D204B83441C92C8FB9E3FA161D0",
+      "Source": "Tier",
+      "Trans": {"SC":"等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"471162855"}
+    },
+    {
+      "NamespaceHash": "0AD9D2B8413216B0158ADE941FDEED04",
+      "Source": "Change To Set Size",
+      "Trans": {"SC":"切换至尺寸设置模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2831967308"}
+    },
+    {
+      "NamespaceHash": "D6B7C2914D37DC0DB9FC1999155182B1",
+      "Source": "Reset Size",
+      "Trans": {"SC":"重置尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"202583194"}
+    },
+    {
+      "NamespaceHash": "21E59E6E414C1835FDF488AFF123932D",
+      "Source": "Change To Reset Size",
+      "Trans": {"SC":"切换至重置尺寸模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3287585530"}
+    },
+    {
+      "NamespaceHash": "FEFC4B3541B0A22B43D735928F7429DA",
+      "Source": "Apply Size",
+      "Trans": {"SC":"应用尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1627564862"}
+    },
+    {
+      "NamespaceHash": "22DBAEC24A24DE38FA4B4F8A58D1288E",
+      "Source": "Give XP Self",
+      "Trans": {"SC":"给自己增加经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4202908894"}
+    },
+    {
+      "NamespaceHash": "2FDF852641F6DB975E62D8995BA381EA",
+      "Source": "Change To Set Adult",
+      "Trans": {"SC":"切换至成年设置模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2866726044"}
+    },
+    {
+      "NamespaceHash": "2692E71B422837A5AB7641AC44BE11EF",
+      "Source": "Change To Hatch",
+      "Trans": {"SC":"切换至孵化模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2976518199"}
+    },
+    {
+      "NamespaceHash": "1EA45BE24998C514D4DEF1B7179877BD",
+      "Source": "Set Adult",
+      "Trans": {"SC":"设置为成年","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3388360390"}
+    },
+    {
+      "NamespaceHash": "126E254745F8BE4267AF0BBDA421C50C",
+      "Source": "Change To Copy",
+      "Trans": {"SC":"切换至复制模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1844403376"}
+    },
+    {
+      "NamespaceHash": "6D74015E4C840C0320AB0A80C982F13E",
+      "Source": "Paste Inventory Items",
+      "Trans": {"SC":"粘贴物品栏物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1794639608"}
+    },
+    {
+      "NamespaceHash": "2681413944594282497157998EC98D73",
+      "Source": "Change To Paste",
+      "Trans": {"SC":"切换至粘贴模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1023108288"}
+    },
+    {
+      "NamespaceHash": "EA304FF4419CA65A802D39AED87B845D",
+      "Source": "Copy Inventory Items",
+      "Trans": {"SC":"复制物品栏物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1122286853"}
+    },
+    {
+      "NamespaceHash": "Content::1380939206",
+      "Source": "Unlock",
+      "Trans": {"SC":"解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1059206393",
+      "Source": "Give XP",
+      "Trans": {"SC":"给予经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "B1713D344C427F89FC9B36A703333702",
+      "Source": "Give Trait",
+      "Trans": {"SC":"给予特性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1539651923"}
+    },
+    {
+      "NamespaceHash": "F57E0BD94D72257C04B2F9A16539E7D3",
+      "Source": "Open Menu",
+      "Trans": {"SC":"打开菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3589158848"}
+    },
+    {
+      "NamespaceHash": "1F8A897C4015C05DE5808694CD9848CC",
+      "Source": "Increase Size",
+      "Trans": {"SC":"增大尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1532048486"}
+    },
+    {
+      "NamespaceHash": "D28D15C04D76C30099B5B69868E48DC1",
+      "Source": "Decrease Size",
+      "Trans": {"SC":"减小尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3329656625"}
+    },
+    {
+      "NamespaceHash": "A533230B4B4A5EDB084A5F8E0E31C5D5",
+      "Source": "Increase Size",
+      "Trans": {"SC":"增大尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1532048486"}
+    },
+    {
+      "NamespaceHash": "A4B427A14F9E8DF77C2C80A58BEA8DBF",
+      "Source": "Decrease Size",
+      "Trans": {"SC":"减小尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3329656625"}
+    },
+    {
+      "NamespaceHash": "Content::309673023",
+      "Source": "GiveXP",
+      "Trans": {"SC":"给予经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2035723505",
+      "Source": "Targeting (Right Click) to change modes.",
+      "Trans": {"SC":"瞄准（右键点击）以切换模式。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3110168915",
+      "Source": "Targeting (Right Click) to save/clear settings.",
+      "Trans": {"SC":"瞄准（右键点击）以保存/清除设置。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2006729753",
+      "Source": "Tool Selection",
+      "Trans": {"SC":"工具选择","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1903752383",
+      "Source": "Button Bindings",
+      "Trans": {"SC":"按键绑定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "95545A484D589B5A6780EBB6557723E4",
+      "Source": "Hold for Radial Wheel",
+      "Trans": {"SC":"长按呼出环形轮盘菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"399959293"}
+    },
+    {
+      "NamespaceHash": "57D159D445D2683ABB54B384533F9F5E",
+      "Source": "Enable Back Tap Previous Item",
+      "Trans": {"SC":"启用回退点击：选中上一项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4008886485"}
+    },
+    {
+      "NamespaceHash": "Content::715372301",
+      "Source": "Follow",
+      "Trans": {"SC":"跟随","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
