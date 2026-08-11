@@ -7629,9 +7629,9 @@
     },
     {
       "NamespaceHash": "FD3421214B2B259D1266F1AA4E05C5A1",
-      "Source": "REMOTEVIEW",
+      "Source": "REMOTE<#N#>VIEW",
       "Trans": {"SC":"远程视野","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1054107180"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3770104751"}
     },
     {
       "NamespaceHash": "BBBF1F894D2E297AC7FCE6B07BC0C04E",
@@ -7666,7 +7666,7 @@
     {
       "NamespaceHash": "Content::2176523400",
       "Source": "Bind",
-      "Trans": {"SC":"按键绑定","JA":""},
+      "Trans": {"SC":"绑定","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7943,6 +7943,54 @@
       "NamespaceHash": "Content::715372301",
       "Source": "Follow",
       "Trans": {"SC":"跟随","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "0D5F9EB247A433A1FC09E3894EECE792",
+      "Source": "Local Dino Scan",
+      "Trans": {"SC":"本地恐龙扫描","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3938349844"}
+    },
+    {
+      "NamespaceHash": "7DE88F4D49D82BA0AF3290AADF071B0F",
+      "Source": "Clear Tracked Dino",
+      "Trans": {"SC":"清除追踪恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1088677644"}
+    },
+    {
+      "NamespaceHash": "0728D2F745E6C6C209E1E1BAE5D01ED7",
+      "Source": "Increase Brightness",
+      "Trans": {"SC":"提高亮度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1569045066"}
+    },
+    {
+      "NamespaceHash": "68B125084452F973FD672FB3233C9882",
+      "Source": "Decrease Brightness",
+      "Trans": {"SC":"降低亮度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1997284515"}
+    },
+    {
+      "NamespaceHash": "Content::2587054919",
+      "Source": "Wild Nearby Dino Finder",
+      "Trans": {"SC":"附近野生恐龙探测器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2757403952",
+      "Source": "Tamed Dino Tracker/Teleporter",
+      "Trans": {"SC":"已驯服恐龙追踪器 / 传送器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2324535864",
+      "Source": "Gates",
+      "Trans": {"SC":"大门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::399688485",
+      "Source": "Platforms",
+      "Trans": {"SC":"平台","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

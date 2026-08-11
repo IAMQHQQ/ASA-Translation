@@ -1,5 +1,5 @@
 {
-  "海神龙": [//2025.11.29
+  "海神龙": [//2026.8.8
     {
       "NamespaceHash": "Content::2813193982",
       "Source": "Glaucus",
@@ -77,6 +77,48 @@
       "Source": "Electric Bubble",
       "Trans": {"SC":"电气泡","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2069228104",
+      "Source": "Alpha Phantom Glaucus",
+      "Trans": {"SC":"精英幻影海神龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2651957369",
+      "Source": "Phantom Glaucus",
+      "Trans": {"SC":"幻影海神龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2892748791",
+      "Source": "Fertilized Phantom Glaucus Egg",
+      "Trans": {"SC":"受精的幻影海神龙卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2886502565",
+      "Source": "Glaucus Ghost Costume",
+      "Trans": {"SC":"海神龙幽灵套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2786181132",
+      "Source": "Use this spectrally spooky costume to get your Glaucus into the spirit of the season!",
+      "Trans": {"SC":"穿上这套阴森诡谲的装扮，让你的海神龙感受节日氛围！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2857969158",
+      "Source": "Chibi-Ghost Glaucus",
+      "Trans": {"SC":"Chibi-幽灵海神龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::87217111",
+      "Source": "Chibi-Phantom Glaucus",
+      "Trans": {"SC":"Chibi-幻影海神龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     }
   ]
 }

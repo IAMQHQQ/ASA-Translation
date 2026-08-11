@@ -1,5 +1,5 @@
 {
-  "龙之国度": [//2025.11.29
+  "龙之国度": [//2026.8.8
     {
       "NamespaceHash": "Content::516268822",
       "Source": "Alpha Zaldrir Dragon",
@@ -142,6 +142,60 @@
       "NamespaceHash": "Content::2663215110",
       "Source": "The Zaldrir Dragon does not want to be approached! Maybe try again later...",
       "Trans": {"SC":"卓耿不想被接近！或许稍后再试……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3522366590",
+      "Source": "Agility Zaldrir Buff",
+      "Trans": {"SC":"卓耿 敏捷增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1510795587",
+      "Source": "Turning Rate increase! Stamina drains 5% faster.",
+      "Trans": {"SC":"转向速率提升！耐力消耗加快 5%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1314478657",
+      "Source": "Combat Zaldrir Buff",
+      "Trans": {"SC":"卓耿 战斗增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2443860043",
+      "Source": "5% Damage increase! You also take 5% more damage than other Zaldrir!",
+      "Trans": {"SC":"伤害提升 5%！同时相比其它卓耿，你受到的伤害也会增加 5%！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2440449791",
+      "Source": "Hatchling Buff",
+      "Trans": {"SC":"幼体增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1453444110",
+      "Source": "The Hatchling chooses you!",
+      "Trans": {"SC":"幼体选择了你！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::719075786",
+      "Source": "Seared!",
+      "Trans": {"SC":"灼烧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3216367930",
+      "Source": "The dragon's bite sears your flesh! You're 15% more vulnerable to fire attacks now.",
+      "Trans": {"SC":"巨龙的撕咬灼烧你的躯体！你现在受到火焰攻击的伤害提高 15%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2512593602",
+      "Source": "Zaldir Dragon consumes food and water at half the normal speed. It also recovers 2 health per second.",
+      "Trans": {"SC":"卓耿食物与水分消耗速度为正常值的一半，同时每秒恢复 2 点生命值。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

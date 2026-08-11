@@ -1,5 +1,5 @@
 {
-  "巨蟒": [//2025.11.29
+  "巨蟒": [//2026.8.8
     {
       "NamespaceHash": "Content::3168575624",
       "Source": "Gigantophis Skin",
@@ -781,6 +781,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
     },
     {
+      "NamespaceHash": "634C89E14576E50DD0EE1EB6D53425E8",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
       "NamespaceHash": "489770FA4C7820384C04F0A336D99EC2",
       "Source": "Coiled Stance",
       "Trans": {"SC":"盘绕形态","JA":""},
@@ -794,6 +800,12 @@
     },
     {
       "NamespaceHash": "77AC48CB44AEC39AB77BA48491B70DD1",
+      "Source": "Grab",
+      "Trans": {"SC":"抓起","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+    },
+    {
+      "NamespaceHash": "579790A747162A880130A2A818EFE1FD",
       "Source": "Grab",
       "Trans": {"SC":"抓起","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
@@ -922,6 +934,12 @@
       "NamespaceHash": "Content::2740473527",
       "Source": "You have been grabbed by a Gigantophis! Either use a flute to charm it or punch it to break free!",
       "Trans": {"SC":"你被巨蟒缠住了！要么用长笛迷惑它，要么攻击它以挣脱！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::728618117",
+      "Source": "Shed Skin",
+      "Trans": {"SC":"蜕皮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
