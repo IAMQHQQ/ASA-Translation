@@ -388,7 +388,7 @@
     {
       "NamespaceHash": "Content::2206530554",
       "Source": "A Brute Sarco is on the prowl, take it down!",
-      "Trans": {"SC":"一头凶恶帝鳄正在四处游荡, 解决它!","JA":""},
+      "Trans": {"SC":"一头凶暴帝鳄正在四处游荡, 解决它!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -778,7 +778,7 @@
     {
       "NamespaceHash": "Content::1778403504",
       "Source": "A high level Brute Allosaurus Pack is on the prowl, take it down!",
-      "Trans": {"SC":"一群高等等级的凶恶异特龙正在四处游荡, 解决它们!","JA":""},
+      "Trans": {"SC":"一群高等等级的凶暴异特龙正在四处游荡, 解决它们!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -988,7 +988,7 @@
     {
       "NamespaceHash": "Content::1928142402",
       "Source": "A low level Brute Allosaurus Pack is on the prowl, take it down!",
-      "Trans": {"SC":"一群低等等级的凶恶异特龙正在四处游荡, 解决它们!","JA":""},
+      "Trans": {"SC":"一群低等等级的凶暴异特龙正在四处游荡, 解决它们!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1126,7 +1126,7 @@
     {
       "NamespaceHash": "Content::1287095420",
       "Source": "A mid level Brute Allosaurus Pack is on the prowl, take it down!",
-      "Trans": {"SC":"一群中等等级的凶恶异特龙正在四处游荡, 解决它们!","JA":""},
+      "Trans": {"SC":"一群中等等级的凶暴异特龙正在四处游荡, 解决它们!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -6310,7 +6310,7 @@
     {
       "NamespaceHash": "Content::63736466",
       "Source": "Brute Araneo ",
-      "Trans": {"SC":"凶恶蜘蛛","JA":""},
+      "Trans": {"SC":"凶暴蜘蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -6322,127 +6322,127 @@
     {
       "NamespaceHash": "Content::2177414621",
       "Source": "Brute Basilosaurus",
-      "Trans": {"SC":"凶恶龙王鲸","JA":""},
+      "Trans": {"SC":"凶暴龙王鲸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2992955464",
       "Source": "Brute Bloodstalker",
-      "Trans": {"SC":"凶恶血蛛","JA":""},
+      "Trans": {"SC":"凶暴血蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::33417838",
       "Source": "Brute Ferox",
-      "Trans": {"SC":"凶恶猿狐","JA":""},
+      "Trans": {"SC":"凶暴猿狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1833150912",
       "Source": "Brute Fire Wyvern",
-      "Trans": {"SC":"凶恶火焰飞龙","JA":""},
+      "Trans": {"SC":"凶暴火焰飞龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::897012754",
       "Source": "Brute Leedsichthys",
-      "Trans": {"SC":"凶恶利兹鱼","JA":""},
+      "Trans": {"SC":"凶暴利兹鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1171742652",
       "Source": "Brute Magmasaur",
-      "Trans": {"SC":"凶恶熔岩龙","JA":""},
+      "Trans": {"SC":"凶暴熔岩龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3288646760",
       "Source": "Brute Malfunctioned Tek Giganotosaurus",
-      "Trans": {"SC":"发生故障的凶恶泰克南方巨兽龙","JA":""},
+      "Trans": {"SC":"发生故障的凶暴泰克南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3310828708",
       "Source": "Brute Malfunctioned Tek Rex",
-      "Trans": {"SC":"发生故障的凶恶泰克霸王龙","JA":""},
+      "Trans": {"SC":"发生故障的凶暴泰克霸王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1081703628",
       "Source": "Brute Mammoth",
-      "Trans": {"SC":"凶恶猛犸象","JA":""},
+      "Trans": {"SC":"凶暴猛犸象","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2127878906",
       "Source": "Brute Megaloceros",
-      "Trans": {"SC":"凶恶大角鹿","JA":""},
+      "Trans": {"SC":"凶暴大角鹿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2583753634",
       "Source": "Brute Plesiosaur",
-      "Trans": {"SC":"凶恶蛇颈龙","JA":""},
+      "Trans": {"SC":"凶暴蛇颈龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1116201593",
       "Source": "Brute Reaper King",
-      "Trans": {"SC":"凶恶死神国王","JA":""},
+      "Trans": {"SC":"凶暴死神国王","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2229381050",
       "Source": "Brute Sarco",
-      "Trans": {"SC":"凶恶帝鳄","JA":""},
+      "Trans": {"SC":"凶暴帝鳄","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2256665479",
       "Source": "Brute Seeker ",
-      "Trans": {"SC":"凶恶追寻者","JA":""},
+      "Trans": {"SC":"凶暴追寻者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2271079704",
       "Source": "Brute Tusoteuthis",
-      "Trans": {"SC":"凶恶托斯特巨鱿","JA":""},
+      "Trans": {"SC":"凶暴托斯特巨鱿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3877206751",
       "Source": "Brute X-Allosaurus",
-      "Trans": {"SC":"凶恶X-异特龙","JA":""},
+      "Trans": {"SC":"凶暴X-异特龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1630750610",
       "Source": "Brute X-Megalodon",
-      "Trans": {"SC":"凶恶X-巨齿鲨","JA":""},
+      "Trans": {"SC":"凶暴X-巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1740664207",
       "Source": "Brute X-Mosasaurus",
-      "Trans": {"SC":"凶恶X-沧龙","JA":""},
+      "Trans": {"SC":"凶暴X-沧龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::565918147",
       "Source": "Brute X-Raptor",
-      "Trans": {"SC":"凶恶X-迅猛龙","JA":""},
+      "Trans": {"SC":"凶暴X-迅猛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::744465577",
       "Source": "Brute X-Rex",
-      "Trans": {"SC":"凶恶X-霸王龙","JA":""},
+      "Trans": {"SC":"凶暴X-霸王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::752063398",
       "Source": "Brute X-Rock Elemental",
-      "Trans": {"SC":"凶恶X-岩石巨人","JA":""},
+      "Trans": {"SC":"凶暴X-岩石巨人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -20044,7 +20044,7 @@
     {
       "NamespaceHash": "Content::2486278910",
       "Source": "Injured Brute Reaper King",
-      "Trans": {"SC":"受伤的凶恶死神国王","JA":""},
+      "Trans": {"SC":"受伤的凶暴死神国王","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -41206,7 +41206,7 @@
     {
       "NamespaceHash": "Content::560573686",
       "Source": "Track down a vicious Mosasaurus amongst the dangers of the deep and remind it that man is the most dangerous game.",
-      "Trans": {"SC":"在危机四伏的深海中追踪一条凶恶的沧龙, 去提醒它人类才是最危险的生物。","JA":""},
+      "Trans": {"SC":"在危机四伏的深海中追踪一条凶暴的沧龙, 去提醒它人类才是最危险的生物。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68448,7 +68448,7 @@
     {
       "NamespaceHash": "Content::3111758435",
       "Source": "Brute X-Yutyrannus",
-      "Trans": {"SC":"凶恶X-羽王龙","JA":""},
+      "Trans": {"SC":"凶暴X-羽王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68473,13 +68473,13 @@
     {
       "NamespaceHash": "Content::2842317784",
       "Source": "A Brute Spino is on the prowl, take it down!",
-      "Trans": {"SC":"一头凶恶棘龙正在四处游荡, 解决它!","JA":""},
+      "Trans": {"SC":"一头凶暴棘龙正在四处游荡, 解决它!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1387102229",
       "Source": "Brute X-Spino",
-      "Trans": {"SC":"凶恶X-棘龙","JA":""},
+      "Trans": {"SC":"凶暴X-棘龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68701,7 +68701,7 @@
     {
       "NamespaceHash": "Content::461291798",
       "Source": "Brute Astrocetus",
-      "Trans": {"SC":"凶恶星辰鲸","JA":""},
+      "Trans": {"SC":"凶暴星辰鲸","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
