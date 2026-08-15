@@ -1,5 +1,5 @@
 {
-  "BossMod": [//2026.8.4 新增翻译
+  "BossMod": [//2026.8.15 新增翻译
     {
       "NamespaceHash": "Content::1668916151",
       "Source": "B+Armour",
@@ -7991,6 +7991,66 @@
       "NamespaceHash": "Content::399688485",
       "Source": "Platforms",
       "Trans": {"SC":"平台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1610437005",
+      "Source": "B+ Tek Glass Ceiling",
+      "Trans": {"SC":"B+泰克玻璃天花板","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::805728561",
+      "Source": "B+ Tek Glass Roof",
+      "Trans": {"SC":"B+泰克玻璃屋顶","JA":"B+泰克玻璃屋頂"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1113364670",
+      "Source": "B+ Tek Glass Wall",
+      "Trans": {"SC":"B+泰克玻璃墙","JA":"B+泰克玻璃牆"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2724768272",
+      "Source": "B+ Tek Crop Plot",
+      "Trans": {"SC":"B+泰克耕地","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3008494732",
+      "Source": "B+ Bookshelf",
+      "Trans": {"SC":"B + 书架","JA":"B + 書架"},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1269668684",
+      "Source": "- 16 available models.<#RN#>- Can change glass transparency.<#RN#>- Gives greenhouse effect.",
+      "Trans": {"SC":"- 共 16 种可用模型。<#RN#>- 可修改玻璃透明度。<#RN#>- 提供温室增益效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4153936327",
+      "Source": "B+ Triangle Glass Tek",
+      "Trans": {"SC":"B+泰克三角型玻璃","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2980532019",
+      "Source": "TERMINAL WHITELIST",
+      "Trans": {"SC":"终端白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "107A22874455776BA566A98D1C0F47E5",
+      "Source": "Excess Items Destroy",
+      "Trans": {"SC":"销毁多余物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2774262261"}
+    },
+    {
+      "NamespaceHash": "Content::3302924665",
+      "Source": "DONE",
+      "Trans": {"SC":"完成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

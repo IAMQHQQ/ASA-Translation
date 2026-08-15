@@ -1515,7 +1515,7 @@
     {
       "NamespaceHash": "GraphLiteral::2356097509",
       "Source": "Maybe Janie found some kind of happiness without me. ",
-      "Trans": {"SC":"也许小简没了我, 反倒找到了某种幸福。","JA":""},
+      "Trans": {"SC":"也许简妮没了我, 反倒找到了某种幸福。 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3537,25 +3537,25 @@
     {
       "NamespaceHash": "Content::1001215131",
       "Source": "Brute Malfunctioned Tek Quetzal",
-      "Trans": {"SC":"凶暴故障泰克风神翼龙","JA":""},
+      "Trans": {"SC":"凶恶故障泰克风神翼龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1988392414",
       "Source": "Brute Reaper Prince",
-      "Trans": {"SC":"凶暴死神王子","JA":""},
+      "Trans": {"SC":"凶恶死神王子","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1872617466",
       "Source": "Brute Reaper Queen",
-      "Trans": {"SC":"凶暴死神王后","JA":""},
+      "Trans": {"SC":"凶恶死神王后","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1175131550",
       "Source": "Brute Yeti",
-      "Trans": {"SC":"凶暴雪人","JA":""},
+      "Trans": {"SC":"凶恶雪人","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -4695,31 +4695,31 @@
     {
       "NamespaceHash": "Content::511122158",
       "Source": "Rampaging Brute Malfunctioning Tek Quetzal",
-      "Trans": {"SC":"狂暴凶暴故障泰克风神翼龙","JA":""},
+      "Trans": {"SC":"狂暴凶恶故障泰克风神翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3691326017",
       "Source": "Rampaging Brute Megalodon",
-      "Trans": {"SC":"凶暴精英巨齿鲨","JA":""},
+      "Trans": {"SC":"凶恶精英巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2343246067",
       "Source": "Rampaging Brute Yeti (Alpha)",
-      "Trans": {"SC":"狂暴凶暴雪人 (困难)","JA":""},
+      "Trans": {"SC":"狂暴凶恶雪人 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3404635230",
       "Source": "Rampaging Brute Yeti (Beta)",
-      "Trans": {"SC":"狂暴凶暴雪人 (中等)","JA":""},
+      "Trans": {"SC":"狂暴凶恶雪人 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4194912217",
       "Source": "Rampaging Brute Yeti (Gamma)",
-      "Trans": {"SC":"狂暴凶暴雪人 (简单)","JA":""},
+      "Trans": {"SC":"狂暴凶恶雪人 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -6795,13 +6795,13 @@
     {
       "NamespaceHash": "Content::3308455399",
       "Source": "A Brute Malfunctioning Tek Quetzal is on the prowl, take it down!",
-      "Trans": {"SC":"一只凶暴故障泰克风神翼龙正在游荡, 击倒它!","JA":""},
+      "Trans": {"SC":"一只凶恶故障泰克风神翼龙正在游荡, 击倒它!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1864119749",
       "Source": "A Brute Megalodon is on the prowl, take it down!",
-      "Trans": {"SC":"一只凶暴巨齿鲨正在游荡, 击倒它!","JA":""},
+      "Trans": {"SC":"一只凶恶巨齿鲨正在游荡, 击倒它!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -14546,7 +14546,7 @@
     {
       "NamespaceHash": "GraphLiteral::966538685",
       "Source": "The Rubicon has been crossed, and so we are lost... We are the Lost... there is no other way forward.",
-      "Trans": {"SC":"卢比孔河既已跨过, 我们退路已失...我们即是失落者...前方再无它路。","JA":""},
+      "Trans": {"SC":"卢比孔河既已跨过, 我们退路已失...我们即是失落者...前方再无他路。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //🌚这里使用“退路已失”来体现典故的含义, 也想要"失"与后面的失落者相连;
       //其实用"我们已然迷失"也不错, 能与后面的Lost相连, 但是我感觉少了典故里的我们没有退路的意思.
@@ -14781,13 +14781,13 @@
     {
       "NamespaceHash": "Content::2638949476", //新版本
       "Source": "\r\nARK: Survival Ascended\r\n\r\nFeaturing the performances of:\r\n\r\nMadeleine Madden as Helena Walker / HLN-A\r\nDavid Tennant as Sir Edmund Rockwell\r\nMichelle Yeoh as Mei Yin Li\r\nKarl Urban as Bob\r\nAuli'i Cravalho as Meeka\r\nKeith David as The Lost King\r\nKatee Sackhoff as Diana Altaras\r\nAlan Tudyk as SIR-5rM8\r\nand Vin Diesel as Santiago da Costa\r\n\r\nCreated by Studio Wildcard, Co-Developed by Grove Street Games and Instinct Games\r\n\r\nMusic by Gareth Coker\r\n\r\n- Studio Wildcard -\r\n\r\nJeremy Stieglitz (@jeremystieglitz)\r\nLead Designer, Lead Programmer, Development Director, Co-Creative Director, Co-Founder\r\n\r\nJesse Rapczak (@arkjesse)\r\nExecutive Art & Technical Art Director, Co-Creative Director, Studio Manager, Co-Founder\r\n\r\nLawrence Boye\r\nCo-Creative Director, Technical Art Director\r\n\r\nAlex Williams\r\nChief Technical Officer & Technical Director\r\n\r\nJatheish Karunakaran\r\nExecutive Producer\r\n\r\nColin Tennery\r\nDirector of Production\r\n\r\nDave Loyd\r\nLead Technical Producer\r\n\r\nJason Kaehler\r\nArt Director\r\n\r\nDamien Bull\r\nEnvironment Director\r\n\r\nDavid Miller\r\nTechnical Level Director\r\n\r\nLucy Carter\r\nLead Gameplay Designer\r\n\r\nCraig Brown\r\nLead Technical Designer\r\n\r\nWaylon Winn\r\nLead 3D Artist, Technical Artist\r\n\r\nGabriel Robbins\r\nLead Level Designer\r\n\r\nRichard Kidd\r\nExecutive Producer and Creative Director of Cinematics\r\n\r\nChris Gardner\r\nDirector of Cinematics\r\n\r\nJoshua Hines\r\nUser Generated Content Director\r\n\r\nRaymond Mitchell\r\nLead Live Ops\r\n\r\nCraig Hoffman\r\nVFX Director\r\n\r\nCatherine Rokitka\r\nLead Character/Creature Artist\r\n\r\nMichael Buettner\r\nLead Technical Animator\r\n\r\nAmy Drobeck-Jones\r\nAnimation Director\r\n\r\nBrandon Carpenter\r\nLead Character Animator\r\n\r\nStephen Baker\r\nAudio Director\r\n\r\nDuncan Reed\r\nLead 3D Artist - Gameplay Assets\r\n\r\nChandler Whalen\r\nLead Foliage Artist\r\n\r\nTai Gordon\r\nLead Character Armor Artist\r\n\r\nJonathan Richardson\r\nLead Lighting Artist\r\n\r\nJesus Conde\r\nLead Concept Artist\r\n\r\nMark Mihelich\r\nSenior Engine Programmer\r\n\r\nScott Marison\r\nSenior Engine Programmer\r\n\r\nChristian Dennerlein\r\nSenior Gameplay Programmer\r\n\r\nAlex “Cody” Fernandez\r\nSenior Gameplay Programmer, Senior Game Designer\r\n\r\nBaktash Abdollah-Shamshir-Saz\r\nSenior Graphics Programmer\r\n\r\nJacob Washenfelder\r\nSenior Engine Programmer\r\n\r\nJorge Montolio \r\nSenior Gameplay Programmer\r\n\r\nMike Towne\r\nSenior Gameplay Programmer\r\n\r\nRobert Burgess\r\nGameplay Programmer\r\n\r\nMarcel Mueller\r\nGameplay Programmer\r\n\r\nDavid Perfect\r\nGameplay Programmer\r\n\r\nRobert Stewart\r\nSenior Gameplay Programmer\r\n\r\nAndrés Mouro\r\nJunior Gameplay Programmer\r\n\r\nZane Ard\r\nSenior Game Designer, Technical Designer\r\n\r\nRobert Howard\r\nBalance & Technical Designer, QA Producer\r\n\r\nSean van Zyl\r\nCreature Designer\r\n\r\nJeffrey Seggelke\r\nCo-Lead QA Analyst\r\n\r\nDesmond Bailey\r\nCo-Lead QA Analyst\r\n\r\nPeter Fries\r\nLead Narrative Writer\r\n\r\nEthan McCaughey\r\nSenior Technical Artist\r\n\r\nDollie\r\nLead Community Manager\r\n\r\nCedric Burkes\r\nLead Data and Solutions Architecture\r\n\r\nNavin Supphapholsiri\r\nSenior Producer\r\n\r\nMichael Flickinger\r\nTechnical Producer\r\n\r\nBen Burkart \r\nSenior Level Designer\r\n\r\nMorgan Roberts\r\nSenior Level Designer\r\n\r\nJoslynn Gabel\r\nLevel Designer\r\n\r\nJackson Lawrence\r\nLevel Designer\r\n\r\nSasha Leonidovich\r\nLevel Designer\r\n\r\nSky Kensok\r\nSenior Environment Artist\r\n\r\nPatrick Moore\r\nSenior Environment Artist\r\n\r\nNoah Presnell\r\nSenior Environment Artist\r\n\r\nTrevor Taylor\r\nSenior Environment Artist\r\n\r\nSonia Piasecki\r\nEnvironment Artist\r\n\r\nSeven Tirse\r\nEnvironment Artist\r\n\r\nAylwin Fernando\r\nLighting Artist, Technical Artist\r\n\r\nBarry Sundt\r\nSenior Creature Artist\r\n\r\nAndy Chin\r\nCreature Artist\r\n\r\nEric Huang\r\nCharacter Artist\r\n\r\nIan McOran-Campbell\r\nSenior Character Artist\r\n\r\nCharles Kim\r\nSenior 3D Artist\r\n\r\nLiam Stones\r\n3D Artist\r\n\r\nShaafi Ahmad\r\nProp Artist\r\n\r\nJohn Fiorentino\r\nJunior Prop Artist\r\n\r\nPatrick Nuckels\r\nSenior Prop Artist\r\n\r\nBrian Barnett\r\n3D Prop Artist\r\n\r\nScott Dossett\r\nSenior Animator\r\n\r\nLance Terpstra\r\nAnimator\r\n\r\nTheresa Chang\r\nJr Gameplay Animator\r\n\r\nSam Bueno\r\nCharacter Rigger\r\n\r\nJeffrey Ryan\r\nTechnical Animator \r\n\r\nJessica Tung\r\nCharacter Rigger\r\n\r\nIsabelle Richter\r\nTechnical Artist\r\n\r\nJonathan Crockett\r\nTechnical Artist\r\n\r\nLucien Wang\r\nTechnical Artist\r\n\r\nOwen Murphy\r\nTechnical Artist\r\n\r\nOmar Saretzky\r\nSenior Marketing Artist, Junior Technical Artist\r\n\r\nMatthew Dirks\r\nTechnical Artist\r\n\r\nMatt Rapelje\r\nSenior Technical Artist\r\n\r\nJeff Hatchel\r\nSenior VFX Artist\r\n\r\nJon Wood\r\nSenior VFX Artist\r\n\r\nJimmy Wu\r\nVFX Artist\r\n\r\nMatthew Benson\r\nVFX Artist\r\n\r\nAlejandro Alvarez\r\nIllustrator, Concept Artist\r\n\r\nClayton D’mello\r\nSenior Concept Artist\r\n\r\nCaleb Havertape\r\nConcept Artist\r\n\r\nMatt Webster\r\nTrailer Director\r\n\r\nAndrey Kazmin \r\nSenior UX Designer\r\n\r\nAileen Paron\r\nSound Designer\r\n\r\nLuke DeLaura\r\nQA Analyst, Junior Level Designer\r\n\r\nMike Jones\r\nQA Analyst\r\n\r\nJake Moriarty\r\nQA Analyst, Technical Designer\r\n\r\nYue Shen\r\nQA Analyst\r\n\r\nAdam Elsayed\r\nQA Analyst\r\n\r\nMikayla Hochberg\r\nQA Analyst\r\n\r\nMateusz Zachradnik\r\nQA Analyst\r\n\r\nHeather Henson\r\nQA Analyst\r\n\r\nYehya El Desouky\r\nQA Analyst\r\n\r\nAdam Graham\r\nServer Administrator, Live Operations \r\n\r\nMarco McCreadie\r\nServer Technician\r\n\r\nEli Yabut\r\nJunior Server Technician\r\n\r\nSvala Dumouchel\r\nCommunity Manager\r\n\r\nJames C\r\nLead Enforcement Analyst, Level QA Analyst\r\n\r\nAdrian K\r\nEnforcement Analyst, Level QA Analyst\r\n\r\nLeo C\r\nEnforcement Analyst, Level QA Analyst\r\n\r\nBrett W\r\nEnforcement Analyst, Level QA Analyst\r\n\r\nRudi S\r\nEnforcement Analyst\r\n\r\nMatthias Wittmann\r\nCinematic Digital Human Lead\r\n\r\nJim Gentile\r\nCinematic Motion Capture Supervisor\r\n\r\nKarim Aboushousha\r\nCinematic Lighting Artist\r\n\r\nMarc Diana\r\nVP Business Development and General Manager\r\n\r\nLuke Brehm\r\nIT Manager\r\n\r\nSherman Buster\r\nIT Generalist\r\n\r\nLindsay Sweeten\r\nDirector of HR and Operations\r\n\r\nNicki Chen\r\nAccounting Manager\r\n\r\nReverb Communications\r\nPR\r\n\r\nARK's music is created and composed by Gareth Coker.\r\nAssistant to Composer: Bharat Raman, Jonas Dobbelaere\r\n\r\n------------------\r\n\r\n- Additional Content for ARK: Survival Ascended - \r\n\r\nAstraeos Map Creator & Level Designer\r\nNils Menne\r\n\r\nLost Colony Cinematics\r\nIvailo Ivanov\r\nHo Kyung Ahn\r\nRick Fronek\r\nJad Deeb\r\nJuan Pablo Entrialgo\r\n\r\nPrevis Cinematics Actor\r\nRyleigh Gardner\r\n\r\nAdditional Event Cosmetics \r\nFrancisco “Sandi” Montaño\r\nAaron Longstaff\r\nCrazyRespawn\r\n\r\nAdditional 2D Game Art\r\nLee Anthony Moten\r\nFaye Casselby\r\nSavannah Rose Lamping\r\nRebecca \"DarkEdgeTV\" Frewin\r\nCassidy Taylor Chyba \"Unalio\"\r\nBrianna Frisbie\r\nEric Anderson\r\n\r\nUpFromTheDepths Film Crew\r\nPatrick \"Hazearil\" Vlaar\r\narman greefs \"armangamer\"\r\nShawna B. \"Myrmecoleon\"\r\nSantie Meyer \"Serekai\"\r\nAlexander Timothy Harkins \"Dragonheart\"\r\nSpartan073003\r\nNathalie Mykløy \"The Dragon Queen 1998\"\r\nSavannah Rose Lamping \"Slugwyrm\"\r\nAidan \"Triggerpug\" Forrest\r\nJaime \"Sparky16\" Price\r\nStephen \"Crayotic\" Heard\r\nNicholas Baldwin-Sloan\r\nOrca \"AvianApexY\"\r\nRebecca \"DarkEdgeTV\" Frewin\r\nMartina ''Roro'' Henriksson\r\nNils Menne \"Nekatus\"\r\nKross \"Krex\" Peairs\r\nDastan \"Sir Duckington\" Gallagher\r\nZander “Tweee” Smith\r\nCrypticSpyre\r\nNikita Guyomard \"Umbra Daiwrfol\"\r\nEthan Herbert \"Binguslord\"\r\n\r\nSound Design and Audio:\r\nClean Cuts Interactive\r\nInjected Senses Audio\r\nDynamedion\r\n\r\nVoice Direction by Wes Gleason\r\nVoice Production Management by James Baldanzi \r\nVoice Recording by Bang Zoom Studios\r\n\r\n\r\n------------------\r\n\r\n- Grove Street Games -\r\n\r\nThomas Williamson\r\nCEO\r\n\r\nMichael Owen\r\nCTO\r\n\r\nMorgan Hughes\r\nCOO\r\n\r\nTom DiCesare\r\nSenior Gameplay Programmer\r\n\r\nVince Mohan\r\nQA Lead\r\n\r\nCarl Hof-Mahoney\r\nGameplay Programmer\r\n\r\nKyle Criste\r\nTechnical Artist\r\n\r\nKristin\tHorn\t\r\nEnvironment Artist\r\n\r\nJordan Kleeman\r\nProducer\r\n\r\nTrent Fraley\r\nQA Analyst\r\n\r\nAaron Ruel\r\nSystem Engineer\r\n\r\nDavid Gregoire\r\nCommunity Manager\r\n\r\nDaniel Gregoire\r\nQA Analyst\r\n\r\nSheamus Cooper\r\nGameplay Programmer\r\n\r\nJustin Huffaker\r\nQA Analyst\r\n\r\nYolanda Patino\r\nTechnical Artist\r\n\r\nEmma Bailly\r\nTechnical Artist\r\n\r\nJohn David Peterson\r\nBuild Engineer\r\n\r\nEmily Hobbs\r\nStudio Manager\r\n\r\nNatalia Wollschlaeger\r\nCommunity Manager\r\n\r\nBrie Cournoyer\r\n3D Artist\r\n\r\nJuan Campos\r\nQA Analyst\r\n\r\nLeonardo Mezavilla\r\nGameplay Programmer\r\n\r\nSpecial Thanks to:\r\nBeck Michaels\t\r\nKahliek Clemmons\r\nHolly Owen\r\nKim Lopez\r\nJack Steinhilber\r\nAleah Brown\r\n\r\nEpic Online Services Integration by Redpoint Games\r\n\r\n------------------\r\n\r\n- Instinct Games -\r\n\r\nMostafa Hafez\r\nCEO/Technical Director\r\n\r\nMohamed Seif\r\nDevelopment Director/Lead Programmer\r\n\r\nMohammad Yusuf Al-Afandy\r\nPrincipal Programmer\r\n\r\nOssama Moussa\r\nPrincipal Programmer\r\n\r\nAhmed El Meshry\r\nPrincipal Programmer\r\n\r\nYoussef El Hefnawy\r\nJunior Programmer\r\n\r\nMohamed El Shaarawy\r\nJunior Programmer\r\n\r\nAmir Tayie\r\nJunior Programmer\r\n\r\nIslam Moamen\r\nJunior Programmer\r\n\r\nYoussef Ahmed\r\nTesting Lead\r\n\r\nMai Seif\r\nBusiness Manager\r\n\r\n\r\n------------------\r\n\r\n- Additional Content & Development by Efecto Studios for ARK: Survival Evolved -\r\n\r\nEivar Rojas\r\nSergio Buenaventura\r\nJuan Camilo Ovalle\r\nEsteban Plazas\r\nYei Bodmer\r\nFelipe Ladino\r\nÉrik Páez\r\nAlejandro Henao\r\nIsrael Arciniegas\r\nJuan José Jimenez\r\nMauricio Pachon\r\nSebastián Kowoll\r\nMiguel Posada\r\nJuan Camilo Acosta\r\nJulian Castillo\r\nJose Cifuentes\r\nDiego Mariño\r\nDahvid Cuevas\r\nJonathan Garcia\r\nAndrés Martínez\r\nAndrés Montealegre\r\nAndrés Botero\r\nMauricio Fernández\r\nÉrika Rincón\r\nFelix Joleanes\r\nJavier López\r\nEsteban Ariza\r\nAndrés Romero\r\nAndrés Naranjo\r\nRachid Elajiek\r\nJuan Camilo Ovalle\r\nSergio Velandia\r\nWilliam Ocampo\r\nJohana Garzon\r\n\r\n------------------\r\n\r\nStudio Wildcard Would Like To Recognize And Give Special Thanks To:\r\n\r\nJavier Alvarez\r\nGameplay Engineer (ASA)\r\n\r\nLee Amarakoon\r\nSenior VFX Artist  (ASE)\r\n\r\nJack Bogaard\r\nSenior Gameplay Programmer (ASE)\r\n\r\nJohn Bulahan\r\nProducer (ASE)\r\n\r\nKatie Chopin\r\nEnvironment Artist (ASE)\r\n\r\nStephen Coan\r\nTechnical Artist  (ASE)\r\n\r\nJudd Cohen \r\nGameplay Programmer  (ASE)\r\n\r\nChris Coleman\r\nSenior Character Artist  (ASE)\r\n\r\nDebby “DebbySaurus” de Jong\r\nQA Analyst (ASE, ASA)\r\n\r\nVic DeLeon\r\nArt Director (ASA)\r\n\r\nHenry Dai\r\nGameplay Programmer  (ASE)\r\n\r\nMichael Fewkes\r\nTechnical Sound Designer/Audio Programmer (ASA)\r\n\r\nAlex Fundora\r\nSenior Technical Animator (ASA)\r\n\r\nJim Geldmacher\r\nSenior Gameplay Programmer (ASA)\r\n\r\nJengy Gomez\r\nTechnical Artist  (ASE)\r\n\r\nChad Greene\r\nSenior Lighting Artist (ASE)\r\n\r\nNeil Griffiths\r\nLive Operations Engineer  (ASE)\r\n\r\nTodd Harry\r\nSenior Animator (ASE, ASA)\r\n\r\nKayd Hendricks\r\nSenior Designer, QA Analyst  (ASE)\r\n\r\nErik Hofmann\r\nJunior Technical Level Designer (ASA)\r\n\r\nGabriel Holmes\r\nAI Gameplay Programmer  (ASE)\r\n\r\nDerek Holson\r\nLevel Designer  (ASE)\r\n\r\nSteve Holt\r\nSenior Environment Artist (ASE)\r\n\r\nTravis Howe\r\nAnimator  (ASE)\r\n\r\nThomas Huynh\r\nSenior Animator  (ASE)\r\n\r\nJeff H\r\nEnforcement Analyst (ASA)\r\n\r\nAlaa Ibrahim\r\nSenior Pipeline TD (ASA)\r\n\r\nDerick Janssen\r\nSenior Gameplay Programmer (ASA)\r\n\r\nMatt Janz\r\nLevel Designer  (ASE)\r\n\r\nJorge Jimenez\r\nBuild Engineer (ASE)\r\n\r\nMatt Kenley\r\nAnimator (ASE)\r\n\r\nDwayne Knight\r\nSenior Engine Programmer (ASE)\r\n\r\nKenny Lammers\r\nSenior Technical Artist  (ASE)\r\n\r\nAlex Laurant\r\nArt Director (ARK 2)\r\n\r\nOlivier \"Bil\" Leeman\r\nSenior VFX Artist  (ASE)\r\n\r\nPeter Lim\r\nTechnical Designer  (ASE)\r\n\r\nRyan Lynch\r\nEnforcement Analyst  (ASE)\r\n\r\nKatelyn Malmsten\r\nJunior Technical Artist  (ASE)\r\n\r\nMic Marvin\r\nTechnical Artist, Rigging & Skinning (ASA) \r\n\r\nJoshua Mosman\r\nCommunity Support  (ASE)\r\n\r\nDavid Noonan\r\nWriter  (ASE)\r\n\r\nJimmiek Rankin\r\nCharacter Artist/Outsource Artist (ASA)\r\n\r\nJesse Raymond\r\nUI/UX Designer (ASE)\r\n\r\nColton Revia\r\nTechnical Designer (ASE)\r\n\r\nJeremy Riccione\r\nAnimator  (ASE)\r\n\r\nJorge Antonio Robles\r\nSenior Gameplay Programmer, UI/UX Programmer (ASE)\r\n\r\nOriginal ARK: Survival Evolved ‘The Island' Creature Designs by Ashton Andersen & Virtual Basement LLC\r\n\r\nHenrique Lopes \r\nArtist (ASE)\r\n\r\nPhu Giang \r\nArtist (ASE)\r\n\r\nMike Rodriguez\r\nSenior Environment Artist  (ASE)\r\n\r\nCorey Ross\r\nCharacter Technical Artist (ASE)\r\n\r\nNick Rudolph\r\nVFX Artist  (ASE)\r\n\r\nBristol Lakshas Sanatu\r\nTechnical Artist (ASE)\r\n\r\nPatrick Schuler\r\nSenior Technical Artist (ASA)\r\n\r\nRandal Shaffer\r\n3D Artist  (ASE)\r\n\r\nAlex Shilts\r\nSenior Gameplay Programmer (ASE)\r\n\r\nDavid Sleeper\r\nSenior Engine Programmer\r\n\r\nMarc Soskin\r\nWriter  (ASE)\r\n\r\nJennifer Stuber\r\nCommunity Manager, QA Analyst  (ASE)\r\n\r\nWilliam Tate\r\n3D Artist  (ASE)\r\n\r\nSean Teo\r\nCharacter Technical Artist (ASA)\r\n\r\nRewant Verma\r\nAssociate Producer (ASA)\r\n\r\nTodd Widdup\r\nSenior Technical Artist  (ASE)\r\n\r\nChris Willoughby\r\nSenior Game Programmer/Designer (ASE)\r\n\r\nMartin Wong\r\nGameplay Programmer  (ASE)\r\n\r\nJason Zielinkski\r\nArt Outsourcing Manager, Rigging & Skinning (ASA)\r\n\r\nJason Zhao\r\nTechnical Artist, VFX Artist  (ASE)\r\n\r\neco\r\nQA Analyst\r\n\r\nHenry Herd\r\nBusiness Development Manager\r\n\r\nBev Noblitt\r\nStudio Recruiter\r\n\r\nDoug Kennedy\r\nBusiness Development Leader\r\n\r\nJack Tretton\r\nStrategy Officer\r\n\r\nForest Rapczak\r\nOffice Manager, Event and Community Relations\r\n\r\nSusan Stieglitz\r\nBusiness Manager, Co-Founder\r\n\r\n------------------\r\n\r\nTHANK YOU ALL FOR PLAYING ARK, SURVIVORS!\r\n\r\nwww.survivetheark.com\r\n\r\n------------------\r\n\r\nSee you on Arat!\r\n\r\n\r\n",
-      "Trans": {"SC":"- 汉化补丁成员 -\r\n凄海千秋 , 土豆泡 , 六合 , 继发性失眠睡鲨 , Nomi , Z.Nzy , Louis , 断桥烟雨 , 以及各位生存者\r\n\r\n\r\n方舟: 生存飞升\r\n\r\n由以下配音员倾情献声:\r\n\r\nMadeleine Madden 饰 海莲娜·沃克 / HLN-A\r\nDavid Tennant 饰 艾德蒙·罗克韦尔爵士\r\nMichelle Yeoh 饰 李美盈\r\nKarl Urban 饰 鲍勃\r\nAuli'i Cravalho 饰 米卡\r\nKeith David 饰 失落之王\r\nKatee Sackhoff 饰 戴安娜·阿尔塔拉斯\r\nAlan Tudyk 饰 SIR-5rM8\r\n以及 范·迪塞尔(Vin Diesel) 饰 圣地亚哥·达科斯塔\r\n\r\n由 Studio Wildcard 创作, 由 Grove Street Games 与 Instinct Games 联合开发\r\n\r\n音乐由 Gareth Coker 创作\r\n\r\n- Studio Wildcard -\r\n\r\nJeremy Stieglitz (@jeremystieglitz)\r\n首席设计师, 首席程序员, 开发总监, 联合创意总监, 联合创始人\r\n\r\nJesse Rapczak (@arkjesse)\r\n执行美术 & 技术美术总监, 联合创意总监, 工作室经理, 联合创始人\r\n\r\nLawrence Boye\r\n联合创意总监, 技术美术总监\r\n\r\nAlex Williams\r\n首席技术官 & 技术总监\r\n\r\nJatheish Karunakaran\r\n执行制片人\r\n\r\nColin Tennery\r\n制作总监\r\n\r\nDave Loyd\r\n首席技术制作人\r\n\r\nJason Kaehler\r\n美术总监\r\n\r\nDamien Bull\r\n环境总监\r\n\r\nDavid Miller\r\n技术关卡总监\r\n\r\nLucy Carter\r\n首席玩法设计师\r\n\r\nCraig Brown\r\n首席技术设计师\r\n\r\nWaylon Winn\r\n首席 3D 美术, 技术美术\r\n\r\nGabriel Robbins\r\n首席关卡设计师\r\n\r\nRichard Kidd\r\n电影过场 执行制片人兼创意总监\r\n\r\nChris Gardner\r\n电影过场总监\r\n\r\nJoshua Hines\r\n用户生成内容总监\r\n\r\nRaymond Mitchell\r\n首席 Live Ops\r\n\r\nCraig Hoffman\r\nVFX 总监\r\n\r\nCatherine Rokitka\r\n首席角色/生物美术\r\n\r\nMichael Buettner\r\n首席技术动画师\r\n\r\nAmy Drobeck-Jones\r\n动画总监\r\n\r\nBrandon Carpenter\r\n首席角色动画师\r\n\r\nStephen Baker\r\n音频总监\r\n\r\nDuncan Reed\r\n首席 3D 美术 - 游戏资产\r\n\r\nChandler Whalen\r\n首席植被美术\r\n\r\nTai Gordon\r\n首席角色护甲美术\r\n\r\nJonathan Richardson\r\n首席灯光美术\r\n\r\nJesus Conde\r\n首席概念美术\r\n\r\nMark Mihelich\r\n高级引擎程序员\r\n\r\nScott Marison\r\n高级引擎程序员\r\n\r\nChristian Dennerlein\r\n高级玩法程序员\r\n\r\nAlex “Cody” Fernandez\r\n高级玩法程序员, 高级游戏设计师\r\n\r\nBaktash Abdollah-Shamshir-Saz\r\n高级图形程序员\r\n\r\nJacob Washenfelder\r\n高级引擎程序员\r\n\r\nJorge Montolio \r\n高级玩法程序员\r\n\r\nMike Towne\r\n高级玩法程序员\r\n\r\nRobert Burgess\r\n玩法程序员\r\n\r\nMarcel Mueller\r\n玩法程序员\r\n\r\nDavid Perfect\r\n玩法程序员\r\n\r\nRobert Stewart\r\n高级玩法程序员\r\n\r\nAndrés Mouro\r\n初级玩法程序员\r\n\r\nZane Ard\r\n高级游戏设计师, 技术设计师\r\n\r\nRobert Howard\r\n平衡性 & 技术设计师, QA 制片人\r\n\r\nSean van Zyl\r\n生物设计师\r\n\r\nJeffrey Seggelke\r\nQA 分析师 联合负责人\r\n\r\nDesmond Bailey\r\nQA 分析师 联合负责人\r\n\r\nPeter Fries\r\n首席叙事编剧\r\n\r\nEthan McCaughey\r\n高级技术美术\r\n\r\nDollie\r\n首席社区经理\r\n\r\nCedric Burkes\r\n首席数据与解决方案架构\r\n\r\nNavin Supphapholsiri\r\n高级制片人\r\n\r\nMichael Flickinger\r\n技术制作人\r\n\r\nBen Burkart \r\n高级关卡设计师\r\n\r\nMorgan Roberts\r\n高级关卡设计师\r\n\r\nJoslynn Gabel\r\n关卡设计师\r\n\r\nJackson Lawrence\r\n关卡设计师\r\n\r\nSasha Leonidovich\r\n关卡设计师\r\n\r\nSky Kensok\r\n高级环境美术\r\n\r\nPatrick Moore\r\n高级环境美术\r\n\r\nNoah Presnell\r\n高级环境美术\r\n\r\nTrevor Taylor\r\n高级环境美术\r\n\r\nSonia Piasecki\r\n环境美术\r\n\r\nSeven Tirse\r\n环境美术\r\n\r\nAylwin Fernando\r\n灯光美术, 技术美术\r\n\r\nBarry Sundt\r\n高级生物美术\r\n\r\nAndy Chin\r\n生物美术\r\n\r\nEric Huang\r\n角色美术\r\n\r\nIan McOran-Campbell\r\n高级角色美术\r\n\r\nCharles Kim\r\n高级 3D 美术\r\n\r\nLiam Stones\r\n3D 美术\r\n\r\nShaafi Ahmad\r\n道具美术\r\n\r\nJohn Fiorentino\r\n初级道具美术\r\n\r\nPatrick Nuckels\r\n高级道具美术\r\n\r\nBrian Barnett\r\n3D 道具美术\r\n\r\nScott Dossett\r\n高级动画师\r\n\r\nLance Terpstra\r\n动画师\r\n\r\nTheresa Chang\r\n初级玩法动画师\r\n\r\nSam Bueno\r\n角色绑定师\r\n\r\nJeffrey Ryan\r\n技术动画师 \r\n\r\nJessica Tung\r\n角色绑定师\r\n\r\nIsabelle Richter\r\n技术美术\r\n\r\nJonathan Crockett\r\n技术美术\r\n\r\nLucien Wang\r\n技术美术\r\n\r\nOwen Murphy\r\n技术美术\r\n\r\nOmar Saretzky\r\n高级市场美术, 初级技术美术\r\n\r\nMatthew Dirks\r\n技术美术\r\n\r\nMatt Rapelje\r\n高级技术美术\r\n\r\nJeff Hatchel\r\n高级 VFX 美术\r\n\r\nJon Wood\r\n高级 VFX 美术\r\n\r\nJimmy Wu\r\nVFX 美术\r\n\r\nMatthew Benson\r\nVFX 美术\r\n\r\nAlejandro Alvarez\r\n插画师, 概念美术\r\n\r\nClayton D’mello\r\n高级概念美术\r\n\r\nCaleb Havertape\r\n概念美术\r\n\r\nMatt Webster\r\n预告片总监\r\n\r\nAndrey Kazmin \r\n高级 UX 设计师\r\n\r\nAileen Paron\r\n音效设计师\r\n\r\nLuke DeLaura\r\nQA 分析师, 初级关卡设计师\r\n\r\nMike Jones\r\nQA 分析师\r\n\r\nJake Moriarty\r\nQA 分析师, 技术设计师\r\n\r\nYue Shen\r\nQA 分析师\r\n\r\nAdam Elsayed\r\nQA 分析师\r\n\r\nMikayla Hochberg\r\nQA 分析师\r\n\r\nMateusz Zachradnik\r\nQA 分析师\r\n\r\nHeather Henson\r\nQA 分析师\r\n\r\nYehya El Desouky\r\nQA 分析师\r\n\r\nAdam Graham\r\n服务器管理员, 在线运营 \r\n\r\nMarco McCreadie\r\n服务器技术员\r\n\r\nEli Yabut\r\n初级服务器技术员\r\n\r\nSvala Dumouchel\r\n社区经理\r\n\r\nJames C\r\n首席执法分析师, 关卡 QA 分析师\r\n\r\nAdrian K\r\n执法分析师, 关卡 QA 分析师\r\n\r\nLeo C\r\n执法分析师, 关卡 QA 分析师\r\n\r\nBrett W\r\n执法分析师, 关卡 QA 分析师\r\n\r\nRudi S\r\n执法分析师\r\n\r\nMatthias Wittmann\r\n电影过场 数字人负责人\r\n\r\nJim Gentile\r\n电影过场 动作捕捉主管\r\n\r\nKarim Aboushousha\r\n电影过场 灯光美术\r\n\r\nMarc Diana\r\n商务拓展副总裁兼总经理\r\n\r\nLuke Brehm\r\nIT 经理\r\n\r\nSherman Buster\r\nIT 综合专员\r\n\r\nLindsay Sweeten\r\nHR 与运营总监\r\n\r\nNicki Chen\r\n会计经理\r\n\r\nReverb Communications\r\nPR\r\n\r\nARK 的音乐由 Gareth Coker 创作并作曲.\r\n作曲家助理: Bharat Raman, Jonas Dobbelaere\r\n\r\n------------------\r\n\r\n- ARK: Survival Ascended 的额外内容 - \r\n\r\nAstraeos 地图创作者 & 关卡设计师\r\nNils Menne\r\n\r\nLost Colony 电影过场\r\nIvailo Ivanov\r\nHo Kyung Ahn\r\nRick Fronek\r\nJad Deeb\r\nJuan Pablo Entrialgo\r\n\r\n预演(Previs)电影过场演员\r\nRyleigh Gardner\r\n\r\n额外活动外观 \r\nFrancisco “Sandi” Montaño\r\nAaron Longstaff\r\nCrazyRespawn\r\n\r\n额外 2D 游戏美术\r\nLee Anthony Moten\r\nFaye Casselby\r\nSavannah Rose Lamping\r\nRebecca \"DarkEdgeTV\" Frewin\r\nCassidy Taylor Chyba \"Unalio\"\r\nBrianna Frisbie\r\nEric Anderson\r\n\r\nUpFromTheDepths 影片团队\r\nPatrick \"Hazearil\" Vlaar\r\narman greefs \"armangamer\"\r\nShawna B. \"Myrmecoleon\"\r\nSantie Meyer \"Serekai\"\r\nAlexander Timothy Harkins \"Dragonheart\"\r\nSpartan073003\r\nNathalie Mykløy \"The Dragon Queen 1998\"\r\nSavannah Rose Lamping \"Slugwyrm\"\r\nAidan \"Triggerpug\" Forrest\r\nJaime \"Sparky16\" Price\r\nStephen \"Crayotic\" Heard\r\nNicholas Baldwin-Sloan\r\nOrca \"AvianApexY\"\r\nRebecca \"DarkEdgeTV\" Frewin\r\nMartina ''Roro'' Henriksson\r\nNils Menne \"Nekatus\"\r\nKross \"Krex\" Peairs\r\nDastan \"Sir Duckington\" Gallagher\r\nZander “Tweee” Smith\r\nCrypticSpyre\r\nNikita Guyomard \"Umbra Daiwrfol\"\r\nEthan Herbert \"Binguslord\"\r\n\r\n声音设计与音频:\r\nClean Cuts Interactive\r\nInjected Senses Audio\r\nDynamedion\r\n\r\n配音导演: Wes Gleason\r\n配音制作管理: James Baldanzi \r\n配音录制: Bang Zoom Studios\r\n\r\n\r\n------------------\r\n\r\n- Grove Street Games -\r\n\r\nThomas Williamson\r\nCEO\r\n\r\nMichael Owen\r\nCTO\r\n\r\nMorgan Hughes\r\nCOO\r\n\r\nTom DiCesare\r\n高级玩法程序员\r\n\r\nVince Mohan\r\nQA 主管\r\n\r\nCarl Hof-Mahoney\r\n玩法程序员\r\n\r\nKyle Criste\r\n技术美术\r\n\r\nKristin\tHorn\t\r\n环境美术\r\n\r\nJordan Kleeman\r\n制片人\r\n\r\nTrent Fraley\r\nQA 分析师\r\n\r\nAaron Ruel\r\n系统工程师\r\n\r\nDavid Gregoire\r\n社区经理\r\n\r\nDaniel Gregoire\r\nQA 分析师\r\n\r\nSheamus Cooper\r\n玩法程序员\r\n\r\nJustin Huffaker\r\nQA 分析师\r\n\r\nYolanda Patino\r\n技术美术\r\n\r\nEmma Bailly\r\n技术美术\r\n\r\nJohn David Peterson\r\n构建工程师\r\n\r\nEmily Hobbs\r\n工作室经理\r\n\r\nNatalia Wollschlaeger\r\n社区经理\r\n\r\nBrie Cournoyer\r\n3D 美术\r\n\r\nJuan Campos\r\nQA 分析师\r\n\r\nLeonardo Mezavilla\r\n玩法程序员\r\n\r\n特别致谢:\r\nBeck Michaels\t\r\nKahliek Clemmons\r\nHolly Owen\r\nKim Lopez\r\nJack Steinhilber\r\nAleah Brown\r\n\r\nEpic Online Services 集成由 Redpoint Games 完成\r\n\r\n------------------\r\n\r\n- Instinct Games -\r\n\r\nMostafa Hafez\r\nCEO/技术总监\r\n\r\nMohamed Seif\r\n开发总监/首席程序员\r\n\r\nMohammad Yusuf Al-Afandy\r\n首席程序员\r\n\r\nOssama Moussa\r\n首席程序员\r\n\r\nAhmed El Meshry\r\n首席程序员\r\n\r\nYoussef El Hefnawy\r\n初级程序员\r\n\r\nMohamed El Shaarawy\r\n初级程序员\r\n\r\nAmir Tayie\r\n初级程序员\r\n\r\nIslam Moamen\r\n初级程序员\r\n\r\nYoussef Ahmed\r\n测试负责人\r\n\r\nMai Seif\r\n商务经理\r\n\r\n\r\n------------------\r\n\r\n- 为 ARK: Survival Evolved 提供的额外内容与开发: Efecto Studios -\r\n\r\nEivar Rojas\r\nSergio Buenaventura\r\nJuan Camilo Ovalle\r\nEsteban Plazas\r\nYei Bodmer\r\nFelipe Ladino\r\nÉrik Páez\r\nAlejandro Henao\r\nIsrael Arciniegas\r\nJuan José Jimenez\r\nMauricio Pachon\r\nSebastián Kowoll\r\nMiguel Posada\r\nJuan Camilo Acosta\r\nJulian Castillo\r\nJose Cifuentes\r\nDiego Mariño\r\nDahvid Cuevas\r\nJonathan Garcia\r\nAndrés Martínez\r\nAndrés Montealegre\r\nAndrés Botero\r\nMauricio Fernández\r\nÉrika Rincón\r\nFelix Joleanes\r\nJavier López\r\nEsteban Ariza\r\nAndrés Romero\r\nAndrés Naranjo\r\nRachid Elajiek\r\nJuan Camilo Ovalle\r\nSergio Velandia\r\nWilliam Ocampo\r\nJohana Garzon\r\n\r\n------------------\r\n\r\nStudio Wildcard 特别鸣谢并致以衷心感谢:\r\n\r\nJavier Alvarez\r\n玩法工程师 (ASA)\r\n\r\nLee Amarakoon\r\n高级 VFX 美术  (ASE)\r\n\r\nJack Bogaard\r\n高级玩法程序员 (ASE)\r\n\r\nJohn Bulahan\r\n制片人 (ASE)\r\n\r\nKatie Chopin\r\n环境美术 (ASE)\r\n\r\nStephen Coan\r\n技术美术  (ASE)\r\n\r\nJudd Cohen \r\n玩法程序员  (ASE)\r\n\r\nChris Coleman\r\n高级角色美术  (ASE)\r\n\r\nDebby “DebbySaurus” de Jong\r\nQA 分析师 (ASE, ASA)\r\n\r\nVic DeLeon\r\n美术总监 (ASA)\r\n\r\nHenry Dai\r\n玩法程序员  (ASE)\r\n\r\nMichael Fewkes\r\n技术音频设计师/音频程序员 (ASA)\r\n\r\nAlex Fundora\r\n高级技术动画师 (ASA)\r\n\r\nJim Geldmacher\r\n高级玩法程序员 (ASA)\r\n\r\nJengy Gomez\r\n技术美术  (ASE)\r\n\r\nChad Greene\r\n高级灯光美术 (ASE)\r\n\r\nNeil Griffiths\r\n在线运营工程师  (ASE)\r\n\r\nTodd Harry\r\n高级动画师 (ASE, ASA)\r\n\r\nKayd Hendricks\r\n高级设计师, QA 分析师  (ASE)\r\n\r\nErik Hofmann\r\n初级技术关卡设计师 (ASA)\r\n\r\nGabriel Holmes\r\nAI 玩法程序员  (ASE)\r\n\r\nDerek Holson\r\n关卡设计师  (ASE)\r\n\r\nSteve Holt\r\n高级环境美术 (ASE)\r\n\r\nTravis Howe\r\n动画师  (ASE)\r\n\r\nThomas Huynh\r\n高级动画师  (ASE)\r\n\r\nJeff H\r\n执法分析师 (ASA)\r\n\r\nAlaa Ibrahim\r\n高级 Pipeline TD (ASA)\r\n\r\nDerick Janssen\r\n高级玩法程序员 (ASA)\r\n\r\nMatt Janz\r\n关卡设计师  (ASE)\r\n\r\nJorge Jimenez\r\n构建工程师 (ASE)\r\n\r\nMatt Kenley\r\n动画师 (ASE)\r\n\r\nDwayne Knight\r\n高级引擎程序员 (ASE)\r\n\r\nKenny Lammers\r\n高级技术美术  (ASE)\r\n\r\nAlex Laurant\r\n美术总监 (ARK 2)\r\n\r\nOlivier \"Bil\" Leeman\r\n高级 VFX 美术  (ASE)\r\n\r\nPeter Lim\r\n技术设计师  (ASE)\r\n\r\nRyan Lynch\r\n执法分析师  (ASE)\r\n\r\nKatelyn Malmsten\r\n初级技术美术  (ASE)\r\n\r\nMic Marvin\r\n技术美术, 绑定 & 蒙皮 (ASA) \r\n\r\nJoshua Mosman\r\n社区支持  (ASE)\r\n\r\nDavid Noonan\r\n编剧  (ASE)\r\n\r\nJimmiek Rankin\r\n角色美术/外包美术 (ASA)\r\n\r\nJesse Raymond\r\nUI/UX 设计师 (ASE)\r\n\r\nColton Revia\r\n技术设计师 (ASE)\r\n\r\nJeremy Riccione\r\n动画师  (ASE)\r\n\r\nJorge Antonio Robles\r\n高级玩法程序员, UI/UX 程序员 (ASE)\r\n\r\n原版 ARK: Survival Evolved ‘The Island' 生物设计: Ashton Andersen & Virtual Basement LLC\r\n\r\nHenrique Lopes \r\n美术 (ASE)\r\n\r\nPhu Giang \r\n美术 (ASE)\r\n\r\nMike Rodriguez\r\n高级环境美术  (ASE)\r\n\r\nCorey Ross\r\n角色技术美术 (ASE)\r\n\r\nNick Rudolph\r\nVFX 美术  (ASE)\r\n\r\nBristol Lakshas Sanatu\r\n技术美术 (ASE)\r\n\r\nPatrick Schuler\r\n高级技术美术 (ASA)\r\n\r\nRandal Shaffer\r\n3D 美术  (ASE)\r\n\r\nAlex Shilts\r\n高级玩法程序员 (ASE)\r\n\r\nDavid Sleeper\r\n高级引擎程序员\r\n\r\nMarc Soskin\r\n编剧  (ASE)\r\n\r\nJennifer Stuber\r\n社区经理, QA 分析师  (ASE)\r\n\r\nWilliam Tate\r\n3D 美术  (ASE)\r\n\r\nSean Teo\r\n角色技术美术 (ASA)\r\n\r\nRewant Verma\r\n副制片人 (ASA)\r\n\r\nTodd Widdup\r\n高级技术美术  (ASE)\r\n\r\nChris Willoughby\r\n高级游戏程序员/设计师 (ASE)\r\n\r\nMartin Wong\r\n玩法程序员  (ASE)\r\n\r\nJason Zielinkski\r\n美术外包经理, 绑定 & 蒙皮 (ASA)\r\n\r\nJason Zhao\r\n技术美术, VFX 美术  (ASE)\r\n\r\neco\r\nQA 分析师\r\n\r\nHenry Herd\r\n商务拓展经理\r\n\r\nBev Noblitt\r\n工作室招聘专员\r\n\r\nDoug Kennedy\r\n商务拓展负责人\r\n\r\nJack Tretton\r\n战略官\r\n\r\nForest Rapczak\r\n办公室经理, 活动与社区关系\r\n\r\nSusan Stieglitz\r\n商务经理, 联合创始人\r\n\r\n------------------\r\n\r\n感谢大家游玩方舟, 生存者!\r\n\r\nwww.survivetheark.com\r\n\r\n------------------\r\n\r\n我们阿拉特上再见!\r\n\r\n\r\n","JA":""},
+      "Trans": {"SC":"- 汉化补丁成员 -\r\n凄海千秋 , 土豆泡 , 六合 , 继发性失眠睡鲨 , Nomi , Z.Nzy , Louis , 断桥烟雨 , 以及各位生存者\r\n\r\n\r\n方舟: 生存飞升\r\n\r\n由以下配音员倾情献声:\r\n\r\nMadeleine Madden 饰 海莲娜·沃克 / HLN-A\r\nDavid Tennant 饰 艾德蒙·罗克韦尔爵士\r\nMichelle Yeoh 饰 李美盈\r\nKarl Urban 饰 鲍勃\r\nAuli'i Cravalho 饰 咪卡\r\nKeith David 饰 失落之王\r\nKatee Sackhoff 饰 戴安娜·阿尔塔拉斯\r\nAlan Tudyk 饰 SIR-5rM8\r\n以及 范·迪塞尔(Vin Diesel) 饰 圣地亚哥·达科斯塔\r\n\r\n由 Studio Wildcard 创作, 由 Grove Street Games 与 Instinct Games 联合开发\r\n\r\n音乐由 Gareth Coker 创作\r\n\r\n- Studio Wildcard -\r\n\r\nJeremy Stieglitz (@jeremystieglitz)\r\n首席设计师, 首席程序员, 开发总监, 联合创意总监, 联合创始人\r\n\r\nJesse Rapczak (@arkjesse)\r\n执行美术 & 技术美术总监, 联合创意总监, 工作室经理, 联合创始人\r\n\r\nLawrence Boye\r\n联合创意总监, 技术美术总监\r\n\r\nAlex Williams\r\n首席技术官 & 技术总监\r\n\r\nJatheish Karunakaran\r\n执行制片人\r\n\r\nColin Tennery\r\n制作总监\r\n\r\nDave Loyd\r\n首席技术制作人\r\n\r\nJason Kaehler\r\n美术总监\r\n\r\nDamien Bull\r\n环境总监\r\n\r\nDavid Miller\r\n技术关卡总监\r\n\r\nLucy Carter\r\n首席玩法设计师\r\n\r\nCraig Brown\r\n首席技术设计师\r\n\r\nWaylon Winn\r\n首席 3D 美术, 技术美术\r\n\r\nGabriel Robbins\r\n首席关卡设计师\r\n\r\nRichard Kidd\r\n电影过场 执行制片人兼创意总监\r\n\r\nChris Gardner\r\n电影过场总监\r\n\r\nJoshua Hines\r\n用户生成内容总监\r\n\r\nRaymond Mitchell\r\n首席 Live Ops\r\n\r\nCraig Hoffman\r\nVFX 总监\r\n\r\nCatherine Rokitka\r\n首席角色/生物美术\r\n\r\nMichael Buettner\r\n首席技术动画师\r\n\r\nAmy Drobeck-Jones\r\n动画总监\r\n\r\nBrandon Carpenter\r\n首席角色动画师\r\n\r\nStephen Baker\r\n音频总监\r\n\r\nDuncan Reed\r\n首席 3D 美术 - 游戏资产\r\n\r\nChandler Whalen\r\n首席植被美术\r\n\r\nTai Gordon\r\n首席角色护甲美术\r\n\r\nJonathan Richardson\r\n首席灯光美术\r\n\r\nJesus Conde\r\n首席概念美术\r\n\r\nMark Mihelich\r\n高级引擎程序员\r\n\r\nScott Marison\r\n高级引擎程序员\r\n\r\nChristian Dennerlein\r\n高级玩法程序员\r\n\r\nAlex “Cody” Fernandez\r\n高级玩法程序员, 高级游戏设计师\r\n\r\nBaktash Abdollah-Shamshir-Saz\r\n高级图形程序员\r\n\r\nJacob Washenfelder\r\n高级引擎程序员\r\n\r\nJorge Montolio \r\n高级玩法程序员\r\n\r\nMike Towne\r\n高级玩法程序员\r\n\r\nRobert Burgess\r\n玩法程序员\r\n\r\nMarcel Mueller\r\n玩法程序员\r\n\r\nDavid Perfect\r\n玩法程序员\r\n\r\nRobert Stewart\r\n高级玩法程序员\r\n\r\nAndrés Mouro\r\n初级玩法程序员\r\n\r\nZane Ard\r\n高级游戏设计师, 技术设计师\r\n\r\nRobert Howard\r\n平衡性 & 技术设计师, QA 制片人\r\n\r\nSean van Zyl\r\n生物设计师\r\n\r\nJeffrey Seggelke\r\nQA 分析师 联合负责人\r\n\r\nDesmond Bailey\r\nQA 分析师 联合负责人\r\n\r\nPeter Fries\r\n首席叙事编剧\r\n\r\nEthan McCaughey\r\n高级技术美术\r\n\r\nDollie\r\n首席社区经理\r\n\r\nCedric Burkes\r\n首席数据与解决方案架构\r\n\r\nNavin Supphapholsiri\r\n高级制片人\r\n\r\nMichael Flickinger\r\n技术制作人\r\n\r\nBen Burkart \r\n高级关卡设计师\r\n\r\nMorgan Roberts\r\n高级关卡设计师\r\n\r\nJoslynn Gabel\r\n关卡设计师\r\n\r\nJackson Lawrence\r\n关卡设计师\r\n\r\nSasha Leonidovich\r\n关卡设计师\r\n\r\nSky Kensok\r\n高级环境美术\r\n\r\nPatrick Moore\r\n高级环境美术\r\n\r\nNoah Presnell\r\n高级环境美术\r\n\r\nTrevor Taylor\r\n高级环境美术\r\n\r\nSonia Piasecki\r\n环境美术\r\n\r\nSeven Tirse\r\n环境美术\r\n\r\nAylwin Fernando\r\n灯光美术, 技术美术\r\n\r\nBarry Sundt\r\n高级生物美术\r\n\r\nAndy Chin\r\n生物美术\r\n\r\nEric Huang\r\n角色美术\r\n\r\nIan McOran-Campbell\r\n高级角色美术\r\n\r\nCharles Kim\r\n高级 3D 美术\r\n\r\nLiam Stones\r\n3D 美术\r\n\r\nShaafi Ahmad\r\n道具美术\r\n\r\nJohn Fiorentino\r\n初级道具美术\r\n\r\nPatrick Nuckels\r\n高级道具美术\r\n\r\nBrian Barnett\r\n3D 道具美术\r\n\r\nScott Dossett\r\n高级动画师\r\n\r\nLance Terpstra\r\n动画师\r\n\r\nTheresa Chang\r\n初级玩法动画师\r\n\r\nSam Bueno\r\n角色绑定师\r\n\r\nJeffrey Ryan\r\n技术动画师 \r\n\r\nJessica Tung\r\n角色绑定师\r\n\r\nIsabelle Richter\r\n技术美术\r\n\r\nJonathan Crockett\r\n技术美术\r\n\r\nLucien Wang\r\n技术美术\r\n\r\nOwen Murphy\r\n技术美术\r\n\r\nOmar Saretzky\r\n高级市场美术, 初级技术美术\r\n\r\nMatthew Dirks\r\n技术美术\r\n\r\nMatt Rapelje\r\n高级技术美术\r\n\r\nJeff Hatchel\r\n高级 VFX 美术\r\n\r\nJon Wood\r\n高级 VFX 美术\r\n\r\nJimmy Wu\r\nVFX 美术\r\n\r\nMatthew Benson\r\nVFX 美术\r\n\r\nAlejandro Alvarez\r\n插画师, 概念美术\r\n\r\nClayton D’mello\r\n高级概念美术\r\n\r\nCaleb Havertape\r\n概念美术\r\n\r\nMatt Webster\r\n预告片总监\r\n\r\nAndrey Kazmin \r\n高级 UX 设计师\r\n\r\nAileen Paron\r\n音效设计师\r\n\r\nLuke DeLaura\r\nQA 分析师, 初级关卡设计师\r\n\r\nMike Jones\r\nQA 分析师\r\n\r\nJake Moriarty\r\nQA 分析师, 技术设计师\r\n\r\nYue Shen\r\nQA 分析师\r\n\r\nAdam Elsayed\r\nQA 分析师\r\n\r\nMikayla Hochberg\r\nQA 分析师\r\n\r\nMateusz Zachradnik\r\nQA 分析师\r\n\r\nHeather Henson\r\nQA 分析师\r\n\r\nYehya El Desouky\r\nQA 分析师\r\n\r\nAdam Graham\r\n服务器管理员, 在线运营 \r\n\r\nMarco McCreadie\r\n服务器技术员\r\n\r\nEli Yabut\r\n初级服务器技术员\r\n\r\nSvala Dumouchel\r\n社区经理\r\n\r\nJames C\r\n首席执法分析师, 关卡 QA 分析师\r\n\r\nAdrian K\r\n执法分析师, 关卡 QA 分析师\r\n\r\nLeo C\r\n执法分析师, 关卡 QA 分析师\r\n\r\nBrett W\r\n执法分析师, 关卡 QA 分析师\r\n\r\nRudi S\r\n执法分析师\r\n\r\nMatthias Wittmann\r\n电影过场 数字人负责人\r\n\r\nJim Gentile\r\n电影过场 动作捕捉主管\r\n\r\nKarim Aboushousha\r\n电影过场 灯光美术\r\n\r\nMarc Diana\r\n商务拓展副总裁兼总经理\r\n\r\nLuke Brehm\r\nIT 经理\r\n\r\nSherman Buster\r\nIT 综合专员\r\n\r\nLindsay Sweeten\r\nHR 与运营总监\r\n\r\nNicki Chen\r\n会计经理\r\n\r\nReverb Communications\r\nPR\r\n\r\nARK 的音乐由 Gareth Coker 创作并作曲.\r\n作曲家助理: Bharat Raman, Jonas Dobbelaere\r\n\r\n------------------\r\n\r\n- ARK: Survival Ascended 的额外内容 - \r\n\r\nAstraeos 地图创作者 & 关卡设计师\r\nNils Menne\r\n\r\nLost Colony 电影过场\r\nIvailo Ivanov\r\nHo Kyung Ahn\r\nRick Fronek\r\nJad Deeb\r\nJuan Pablo Entrialgo\r\n\r\n预演(Previs)电影过场演员\r\nRyleigh Gardner\r\n\r\n额外活动外观 \r\nFrancisco “Sandi” Montaño\r\nAaron Longstaff\r\nCrazyRespawn\r\n\r\n额外 2D 游戏美术\r\nLee Anthony Moten\r\nFaye Casselby\r\nSavannah Rose Lamping\r\nRebecca \"DarkEdgeTV\" Frewin\r\nCassidy Taylor Chyba \"Unalio\"\r\nBrianna Frisbie\r\nEric Anderson\r\n\r\nUpFromTheDepths 影片团队\r\nPatrick \"Hazearil\" Vlaar\r\narman greefs \"armangamer\"\r\nShawna B. \"Myrmecoleon\"\r\nSantie Meyer \"Serekai\"\r\nAlexander Timothy Harkins \"Dragonheart\"\r\nSpartan073003\r\nNathalie Mykløy \"The Dragon Queen 1998\"\r\nSavannah Rose Lamping \"Slugwyrm\"\r\nAidan \"Triggerpug\" Forrest\r\nJaime \"Sparky16\" Price\r\nStephen \"Crayotic\" Heard\r\nNicholas Baldwin-Sloan\r\nOrca \"AvianApexY\"\r\nRebecca \"DarkEdgeTV\" Frewin\r\nMartina ''Roro'' Henriksson\r\nNils Menne \"Nekatus\"\r\nKross \"Krex\" Peairs\r\nDastan \"Sir Duckington\" Gallagher\r\nZander “Tweee” Smith\r\nCrypticSpyre\r\nNikita Guyomard \"Umbra Daiwrfol\"\r\nEthan Herbert \"Binguslord\"\r\n\r\n声音设计与音频:\r\nClean Cuts Interactive\r\nInjected Senses Audio\r\nDynamedion\r\n\r\n配音导演: Wes Gleason\r\n配音制作管理: James Baldanzi \r\n配音录制: Bang Zoom Studios\r\n\r\n\r\n------------------\r\n\r\n- Grove Street Games -\r\n\r\nThomas Williamson\r\nCEO\r\n\r\nMichael Owen\r\nCTO\r\n\r\nMorgan Hughes\r\nCOO\r\n\r\nTom DiCesare\r\n高级玩法程序员\r\n\r\nVince Mohan\r\nQA 主管\r\n\r\nCarl Hof-Mahoney\r\n玩法程序员\r\n\r\nKyle Criste\r\n技术美术\r\n\r\nKristin\tHorn\t\r\n环境美术\r\n\r\nJordan Kleeman\r\n制片人\r\n\r\nTrent Fraley\r\nQA 分析师\r\n\r\nAaron Ruel\r\n系统工程师\r\n\r\nDavid Gregoire\r\n社区经理\r\n\r\nDaniel Gregoire\r\nQA 分析师\r\n\r\nSheamus Cooper\r\n玩法程序员\r\n\r\nJustin Huffaker\r\nQA 分析师\r\n\r\nYolanda Patino\r\n技术美术\r\n\r\nEmma Bailly\r\n技术美术\r\n\r\nJohn David Peterson\r\n构建工程师\r\n\r\nEmily Hobbs\r\n工作室经理\r\n\r\nNatalia Wollschlaeger\r\n社区经理\r\n\r\nBrie Cournoyer\r\n3D 美术\r\n\r\nJuan Campos\r\nQA 分析师\r\n\r\nLeonardo Mezavilla\r\n玩法程序员\r\n\r\n特别致谢:\r\nBeck Michaels\t\r\nKahliek Clemmons\r\nHolly Owen\r\nKim Lopez\r\nJack Steinhilber\r\nAleah Brown\r\n\r\nEpic Online Services 集成由 Redpoint Games 完成\r\n\r\n------------------\r\n\r\n- Instinct Games -\r\n\r\nMostafa Hafez\r\nCEO/技术总监\r\n\r\nMohamed Seif\r\n开发总监/首席程序员\r\n\r\nMohammad Yusuf Al-Afandy\r\n首席程序员\r\n\r\nOssama Moussa\r\n首席程序员\r\n\r\nAhmed El Meshry\r\n首席程序员\r\n\r\nYoussef El Hefnawy\r\n初级程序员\r\n\r\nMohamed El Shaarawy\r\n初级程序员\r\n\r\nAmir Tayie\r\n初级程序员\r\n\r\nIslam Moamen\r\n初级程序员\r\n\r\nYoussef Ahmed\r\n测试负责人\r\n\r\nMai Seif\r\n商务经理\r\n\r\n\r\n------------------\r\n\r\n- 为 ARK: Survival Evolved 提供的额外内容与开发: Efecto Studios -\r\n\r\nEivar Rojas\r\nSergio Buenaventura\r\nJuan Camilo Ovalle\r\nEsteban Plazas\r\nYei Bodmer\r\nFelipe Ladino\r\nÉrik Páez\r\nAlejandro Henao\r\nIsrael Arciniegas\r\nJuan José Jimenez\r\nMauricio Pachon\r\nSebastián Kowoll\r\nMiguel Posada\r\nJuan Camilo Acosta\r\nJulian Castillo\r\nJose Cifuentes\r\nDiego Mariño\r\nDahvid Cuevas\r\nJonathan Garcia\r\nAndrés Martínez\r\nAndrés Montealegre\r\nAndrés Botero\r\nMauricio Fernández\r\nÉrika Rincón\r\nFelix Joleanes\r\nJavier López\r\nEsteban Ariza\r\nAndrés Romero\r\nAndrés Naranjo\r\nRachid Elajiek\r\nJuan Camilo Ovalle\r\nSergio Velandia\r\nWilliam Ocampo\r\nJohana Garzon\r\n\r\n------------------\r\n\r\nStudio Wildcard 特别鸣谢并致以衷心感谢:\r\n\r\nJavier Alvarez\r\n玩法工程师 (ASA)\r\n\r\nLee Amarakoon\r\n高级 VFX 美术  (ASE)\r\n\r\nJack Bogaard\r\n高级玩法程序员 (ASE)\r\n\r\nJohn Bulahan\r\n制片人 (ASE)\r\n\r\nKatie Chopin\r\n环境美术 (ASE)\r\n\r\nStephen Coan\r\n技术美术  (ASE)\r\n\r\nJudd Cohen \r\n玩法程序员  (ASE)\r\n\r\nChris Coleman\r\n高级角色美术  (ASE)\r\n\r\nDebby “DebbySaurus” de Jong\r\nQA 分析师 (ASE, ASA)\r\n\r\nVic DeLeon\r\n美术总监 (ASA)\r\n\r\nHenry Dai\r\n玩法程序员  (ASE)\r\n\r\nMichael Fewkes\r\n技术音频设计师/音频程序员 (ASA)\r\n\r\nAlex Fundora\r\n高级技术动画师 (ASA)\r\n\r\nJim Geldmacher\r\n高级玩法程序员 (ASA)\r\n\r\nJengy Gomez\r\n技术美术  (ASE)\r\n\r\nChad Greene\r\n高级灯光美术 (ASE)\r\n\r\nNeil Griffiths\r\n在线运营工程师  (ASE)\r\n\r\nTodd Harry\r\n高级动画师 (ASE, ASA)\r\n\r\nKayd Hendricks\r\n高级设计师, QA 分析师  (ASE)\r\n\r\nErik Hofmann\r\n初级技术关卡设计师 (ASA)\r\n\r\nGabriel Holmes\r\nAI 玩法程序员  (ASE)\r\n\r\nDerek Holson\r\n关卡设计师  (ASE)\r\n\r\nSteve Holt\r\n高级环境美术 (ASE)\r\n\r\nTravis Howe\r\n动画师  (ASE)\r\n\r\nThomas Huynh\r\n高级动画师  (ASE)\r\n\r\nJeff H\r\n执法分析师 (ASA)\r\n\r\nAlaa Ibrahim\r\n高级 Pipeline TD (ASA)\r\n\r\nDerick Janssen\r\n高级玩法程序员 (ASA)\r\n\r\nMatt Janz\r\n关卡设计师  (ASE)\r\n\r\nJorge Jimenez\r\n构建工程师 (ASE)\r\n\r\nMatt Kenley\r\n动画师 (ASE)\r\n\r\nDwayne Knight\r\n高级引擎程序员 (ASE)\r\n\r\nKenny Lammers\r\n高级技术美术  (ASE)\r\n\r\nAlex Laurant\r\n美术总监 (ARK 2)\r\n\r\nOlivier \"Bil\" Leeman\r\n高级 VFX 美术  (ASE)\r\n\r\nPeter Lim\r\n技术设计师  (ASE)\r\n\r\nRyan Lynch\r\n执法分析师  (ASE)\r\n\r\nKatelyn Malmsten\r\n初级技术美术  (ASE)\r\n\r\nMic Marvin\r\n技术美术, 绑定 & 蒙皮 (ASA) \r\n\r\nJoshua Mosman\r\n社区支持  (ASE)\r\n\r\nDavid Noonan\r\n编剧  (ASE)\r\n\r\nJimmiek Rankin\r\n角色美术/外包美术 (ASA)\r\n\r\nJesse Raymond\r\nUI/UX 设计师 (ASE)\r\n\r\nColton Revia\r\n技术设计师 (ASE)\r\n\r\nJeremy Riccione\r\n动画师  (ASE)\r\n\r\nJorge Antonio Robles\r\n高级玩法程序员, UI/UX 程序员 (ASE)\r\n\r\n原版 ARK: Survival Evolved ‘The Island' 生物设计: Ashton Andersen & Virtual Basement LLC\r\n\r\nHenrique Lopes \r\n美术 (ASE)\r\n\r\nPhu Giang \r\n美术 (ASE)\r\n\r\nMike Rodriguez\r\n高级环境美术  (ASE)\r\n\r\nCorey Ross\r\n角色技术美术 (ASE)\r\n\r\nNick Rudolph\r\nVFX 美术  (ASE)\r\n\r\nBristol Lakshas Sanatu\r\n技术美术 (ASE)\r\n\r\nPatrick Schuler\r\n高级技术美术 (ASA)\r\n\r\nRandal Shaffer\r\n3D 美术  (ASE)\r\n\r\nAlex Shilts\r\n高级玩法程序员 (ASE)\r\n\r\nDavid Sleeper\r\n高级引擎程序员\r\n\r\nMarc Soskin\r\n编剧  (ASE)\r\n\r\nJennifer Stuber\r\n社区经理, QA 分析师  (ASE)\r\n\r\nWilliam Tate\r\n3D 美术  (ASE)\r\n\r\nSean Teo\r\n角色技术美术 (ASA)\r\n\r\nRewant Verma\r\n副制片人 (ASA)\r\n\r\nTodd Widdup\r\n高级技术美术  (ASE)\r\n\r\nChris Willoughby\r\n高级游戏程序员/设计师 (ASE)\r\n\r\nMartin Wong\r\n玩法程序员  (ASE)\r\n\r\nJason Zielinkski\r\n美术外包经理, 绑定 & 蒙皮 (ASA)\r\n\r\nJason Zhao\r\n技术美术, VFX 美术  (ASE)\r\n\r\neco\r\nQA 分析师\r\n\r\nHenry Herd\r\n商务拓展经理\r\n\r\nBev Noblitt\r\n工作室招聘专员\r\n\r\nDoug Kennedy\r\n商务拓展负责人\r\n\r\nJack Tretton\r\n战略官\r\n\r\nForest Rapczak\r\n办公室经理, 活动与社区关系\r\n\r\nSusan Stieglitz\r\n商务经理, 联合创始人\r\n\r\n------------------\r\n\r\n感谢大家游玩方舟, 生存者!\r\n\r\nwww.survivetheark.com\r\n\r\n------------------\r\n\r\n我们阿拉特上再见!\r\n\r\n\r\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4204735535", //旧版本
       "Source": "\r\nARK: Survival Ascended\r\n\r\n\r\nFeaturing the voice talents of:\r\n\r\n\r\nMadeleine Madden as Helena Walker / HLN-A\r\nDavid Tennant as Sir Edmund Rockwell\r\nKarl Urban as Bob\r\nAuli'i Cravalho as Meeka\r\nAlan Tudyk as SIR-5rM8\r\nand Vin Diesel as Santiago da Costa\r\n\r\n\r\nCreated by Studio Wildcard, Co-Developed by Grove Street Games and Instinct Games\r\n\r\n\r\n- Studio Wildcard -\r\n\r\n\r\nJeremy Stieglitz (@jeremystieglitz)\r\nLead Designer, Lead Programmer, Development Director, Co-Creative Director, Co-Founder\r\n\r\n\r\nJesse Rapczak (@arkjesse)\r\nExecutive Art & Technical Art Director, Co-Creative Director, Studio Manager, Co-Founder\r\n\r\n\r\nLawrence Boye\r\nCo-Creative Director, Technical Art Director\r\n\r\n\r\nAlex Williams\r\nChief Technical Officer\r\n\r\n\r\nJatheish Karunakaran\r\nExecutive Producer\r\n\r\n\r\nColin Tennery\r\nDirector of Production\r\n\r\n\r\nDave Loyd\r\nLead Technical Producer\r\n\r\n\r\nVic DeLeon\r\nArt Director\r\n\r\n\r\nJoshua Hines\r\nUser Generated Content Director\r\n\r\n\r\nRaymond Mitchell\r\nLead Live Ops\r\n\r\n\r\nDamien Bull\r\nEnvironment Director, Lead Level Designer\r\n\r\n\r\nWaylon Winn\r\nLead 3D Artist, Technical Artist\r\n\r\n\r\nCraig Hoffman\r\nVFX Director\r\n\r\n\r\nCatherine Rokitka\r\nLead Character/Creature Artist\r\n\r\n\r\nAmy Drobeck-Jones\r\nAnimation Director\r\n\r\n\r\nMichael Buettner\r\nLead Technical Animator\r\n\r\n\r\nStephen Baker\r\nAudio Director\r\n\r\n\r\nDuncan Reed\r\nLead 3D Artist - Gameplay Assets\r\n\r\n\r\nChandler Whalen\r\nLead Foliage Artist\r\n\r\n\r\nTai Gordon\r\nLead Character Armor Artist\r\n\r\n\r\nJonathan Richardson\r\nLead Lighting Artist\r\n\r\n\r\nJesus Conde\r\nLead Concept Artist\r\n\r\n\r\nMark Mihelich\r\nSenior Engine Programmer\r\n\r\n\r\nScott Marison\r\nSenior Engine Programmer\r\n\r\n\r\nChristian Dennerlein\r\nSenior Gameplay Programmer\r\n\r\n\r\nJorge Montolio \r\nSenior Gameplay Programmer\r\n\r\n\r\nAlex “Cody” Fernandez\r\nGameplay Programmer, Game Designer, Director of Club ARK\r\n\r\n\r\nMike Towne\r\nSenior Gameplay Programmer\r\n\r\n\r\nRobert Burgess\r\nGameplay Programmer\r\n\r\n\r\nMarcel Mueller\r\nGameplay Programmer\r\n\r\n\r\nDavid Perfect\r\nGameplay Programmer\r\n\r\n\r\nRobert Stewart\r\nSenior Gameplay Programmer\r\n\r\n\r\nBaktash Abdollah-Shamshir-Saz\r\nSenior Graphics Programmer\r\n\r\n\r\nDavid Sleeper\r\nSenior Engine Programmer\r\n\r\n\r\nCraig Brown\r\nLead Technical Designer\r\n\r\n\r\nZane Ard\r\nSenior Game Designer, Technical Designer\r\n\r\n\r\nRobert Howard\r\nBalance & Technical Designer, QA Producer\r\n\r\n\r\nLucy Carter\r\nCo-Lead QA Analyst, Associate Game Designer\r\n\r\n\r\nJeffrey Seggelke\r\nCo-Lead QA Analyst\r\n\r\n\r\nPeter Fries\r\nLead Narrative Writer\r\n\r\n\r\nRichard Kidd\r\nDirector of Cinematics and Virtual Production\r\n\r\n\r\nChris Gardner\r\nCinematics Lead\r\n\r\n\r\nEthan McCaughey\r\nSenior Technical Artist\r\n\r\n\r\nDollie\r\nLead Community Manager\r\n\r\n\r\nCedric Burkes\r\nLead Data and Solutions Architect\r\n\r\n\r\nNavin Supphapholsiri\r\nSenior Producer\r\n\r\n\r\nMichael Flickinger\r\nAssociate Technical Producer\r\n\r\n\r\nBen Burkart \r\nSenior Level Designer\r\n\r\n\r\nGabriel Robbins\r\nSenior Level Designer\r\n\r\n\r\nMorgan Roberts\r\nSenior Level Designer\r\n\r\n\r\nJoslynn Gabel\r\nLevel Designer\r\n\r\n\r\nJackson Lawrence\r\nLevel Designer\r\n\r\n\r\nSasha Leonidovich\r\nLevel Designer\r\n\r\n\r\nSky Kensok\r\nSenior Environment Artist\r\n\r\n\r\nPatrick Moore\r\nSenior Environment Artist\r\n\r\n\r\nNoah Presnell\r\nSenior Environment Artist\r\n\r\n\r\nTrevor Taylor\r\nSenior Environment Artist\r\n\r\n\r\nSonia Piasecki\r\nEnvironment Artist\r\n\r\n\r\nSeven Tirse\r\nEnvironment Artist\r\n\r\n\r\nAylwin Fernando\r\nLighting Artist, Technical Artist\r\n\r\n\r\nBarry Sundt\r\nSenior Creature Artist\r\n\r\n\r\nAndy Chin\r\nCreature Artist\r\n\r\n\r\nEric Huang\r\nCharacter Artist\r\n\r\n\r\nIan McOran-Campbell\r\nSenior Character Artist\r\n\r\n\r\nCharles Kim\r\nSenior 3D Artist\r\n\r\n\r\nShaafi Ahmad\r\nProp Artist\r\n\r\n\r\nLiam Stones\r\n3D Artist\r\n\r\n\r\nJohn Fiorentino\r\nJunior Prop Artist\r\n\r\n\r\nBrandon Carpenter\r\nSenior Animator\r\n\r\n\r\nScott Dossett\r\nSenior Animator\r\n\r\n\r\nLance Terpstra\r\nJunior Animator\r\n\r\n\r\nSam Bueno\r\nCharacter Rigger\r\n\r\n\r\nJeffrey Ryan\r\nTechnical Animator \r\n\r\n\r\nJessica Tung\r\nCharacter Rigger\r\n\r\n\r\nIsabelle Richter\r\nTechnical Artist\r\n\r\n\r\nJonathan Crockett\r\nTechnical Artist\r\n\r\n\r\nLucien Wang\r\nTechnical Artist\r\n\r\n\r\nOwen Murphy\r\nTechnical Artist\r\n\r\n\r\nOmar Saretzky\r\nSenior Marketing Artist, Junior Technical Artist\r\n\r\n\r\nMatthew Dirks\r\nTechnical Artist\r\n\r\n\r\nJeff Hatchel\r\nSenior VFX Artist\r\n\r\n\r\nJon Wood\r\nSenior VFX Artist\r\n\r\n\r\nJimmy Wu\r\nVFX Artist\r\n\r\n\r\nMatthew Benson\r\nVFX Artist\r\n\r\n\r\nAndrey Kazmin \r\nSenior UX Designer\r\n\r\n\r\nAlejandro Alvarez\r\nIllustrator, Concept Artist\r\n\r\n\r\nClayton D’mello\r\nConcept Artist\r\n\r\n\r\nCaleb Havertape\r\nConcept Artist\r\n\r\n\r\nAileen Paron\r\nSound Designer\r\n\r\n\r\nDesmond Bailey\r\nSenior QA Analyst\r\n\r\n\r\nDebby “DebbySaurus” de Jong\r\nQA Analyst\r\n\r\n\r\nLuke DeLaura\r\nQA Analyst\r\n\r\n\r\nMike Jones\r\nQA Analyst\r\n\r\n\r\nJake Moriarty\r\nQA Analyst, Technical Designer\r\n\r\n\r\nYue Shen\r\nQA Analyst\r\n\r\n\r\nAdam Elsayed\r\nQA Analyst\r\n\r\n\r\nMikayla Hochberg\r\nQA Analyst\r\n\r\n\r\nMateusz Zachradnik\r\nQA Analyst\r\n\r\n\r\nAdam Graham\r\nServer Administrator, Live Operations \r\n\r\n\r\nMarco McCreadie\r\nServer Technician\r\n\r\n\r\nMatt Webster\r\nVideo Production Assistant\r\n\r\n\r\nJames C\r\nLead Enforcement Analyst, Level QA Analyst\r\n\r\n\r\nLeo C\r\nEnforcement Analyst, Level QA Analyst\r\n\r\n\r\nJeff H\r\nEnforcement Analyst, Level QA Analyst\r\n\r\n\r\nAdrian K\r\nEnforcement Analyst, Level QA Analyst\r\n\r\n\r\nBrett W\r\nEnforcement Analyst, Level QA Analyst\r\n\r\n\r\nSvala Dumouchel\r\nCommunity Manager\r\n\r\n\r\nAlaa Ibrahim\r\nSenior Pipeline TD\r\n\r\n\r\nMarc Diana\r\nVP Partnerships and Marketing\r\n\r\n\r\nLuke Brehm\r\nIT Manager\r\n\r\n\r\nSherman Buster\r\nIT Generalist\r\n\r\n\r\nLindsay Sweeten\r\nOffice Manager, HR\r\n\r\n\r\nNicki Chen\r\nAccounting Manager\r\n\r\n\r\nDoug Kennedy\r\nCEO, Co-Founder\r\n\r\n\r\nReverb Communications\r\nPR\r\n\r\n\r\nARK's music is created and composed by Gareth Coker.\r\n\r\n\r\n------------------\r\n\r\n\r\n- Grove Street Games -\r\n\r\n\r\nThomas Williamson\r\nCEO\r\n\r\n\r\nMichael Owen\r\nCTO\r\n\r\n\r\nMorgan Hughes\r\nCOO\r\n\r\n\r\nTom DiCesare\r\nSenior Gameplay Programmer\r\n\r\n\r\nVince Mohan\r\nQA Lead\r\n\r\n\r\nCarl Hof-Mahoney\r\nGameplay Programmer\r\n\r\n\r\nKyle Criste\r\nTechnical Artist\r\n\r\n\r\nKristin\tHorn\t\r\nEnvironment Artist\r\n\r\n\r\nJordan Kleeman\r\nProducer\r\n\r\n\r\nTrent Fraley\r\nQA Analyst\r\n\r\n\r\nAaron Ruel\r\nSystem Engineer\r\n\r\n\r\nDavid Gregoire\r\nCommunity Manager\r\n\r\n\r\nDaniel Gregoire\r\nQA Analyst\r\n\r\n\r\nSheamus Cooper\r\nGameplay Programmer\r\n\r\n\r\nJustin Huffaker\r\nQA Analyst\r\n\r\n\r\nYolanda Patino\r\nTechnical Artist\r\n\r\n\r\nEmma Bailly\r\nTechnical Artist\r\n\r\n\r\nJohn David Peterson\r\nBuild Engineer\r\n\r\n\r\nEmily Hobbs\r\nStudio Manager\r\n\r\n\r\nNatalia Wollschlaeger\r\nCommunity Manager\r\n\r\n\r\nBrie Cournoyer\r\n3D Artist\r\n\r\n\r\nJuan Campos\r\nQA Analyst\r\n\r\n\r\nLeonardo Mezavilla\r\nGameplay Programmer\r\n\r\n\r\nSpecial Thanks to:\r\nBeck Michaels\t\r\nKahliek Clemmons\r\nHolly Owen\r\nKim Lopez\r\nJack Steinhilber\r\nAleah Brown\r\n\r\n\r\nEpic Online Services Integration by Redpoint Games\r\n\r\n\r\n------------------\r\n\r\n\r\n- Instinct Games -\r\n\r\n\r\nMostafa Hafez\r\nCEO/Technical Director\r\n\r\n\r\nMohamed Seif\r\nDevelopment Director/Lead Programmer\r\n\r\n\r\nMohammad Yusuf Al-Afandy\r\nPrincipal Programmer\r\n\r\n\r\nOssama Moussa\r\nPrincipal Programmer\r\n\r\n\r\nAhmed El Meshry\r\nPrincipal Programmer\r\n\r\n\r\nYoussef El Hefnawy\r\nJunior Programmer\r\n\r\n\r\nMohamed El Shaarawy\r\nJunior Programmer\r\n\r\n\r\nAmir Tayie\r\nJunior Programmer\r\n\r\n\r\nIslam Moamen\r\nJunior Programmer\r\n\r\n\r\nYoussef Ahmed\r\nTesting Lead\r\n\r\n\r\nMai Seif\r\nBusiness Manager\r\n\r\n\r\n------------------\r\n\r\n\r\n\r\n\r\nStudio Wildcard Would Like To Recognize And Give Special Thanks To \r\n\r\n\r\nJavier Alvarez\r\nGameplay Engineer (ASA)\r\n\r\n\r\nLee Amarakoon\r\nSenior VFX Artist  (ASE)\r\n\r\n\r\nJack Bogaard\r\nSenior Gameplay Programmer (ASE)\r\n\r\n\r\nJohn Bulahan\r\nProducer (ASE)\r\n\r\n\r\nKatie Chopin\r\nEnvironment Artist (ASE)\r\n\r\n\r\nStephen Coan\r\nTechnical Artist  (ASE)\r\n\r\n\r\nJudd Cohen \r\nGameplay Programmer  (ASE)\r\n\r\n\r\nChris Coleman\r\nSenior Character Artist  (ASE)\r\n\r\n\r\nHenry Dai\r\nGameplay Programmer  (ASE)\r\n\r\n\r\nMichael Fewkes\r\nTechnical Sound Designer/Audio Programmer (ASA)\r\n\r\n\r\nAlex Fundora\r\nSenior Technical Animator (ASA)\r\n\r\n\r\nJim Geldmacher\r\nSenior Gameplay Programmer (ASA)\r\n\r\n\r\nJengy Gomez\r\nTechnical Artist  (ASE)\r\n\r\n\r\nChad Greene\r\nSenior Lighting Artist (ASE)\r\n\r\n\r\nNeil Griffiths\r\nLive Operations Engineer  (ASE)\r\n\r\n\r\nTodd Harry\r\nSenior Animator (ASE, ASA)\r\n\r\n\r\nKayd Hendricks\r\nSenior Designer, QA Analyst  (ASE)\r\n\r\n\r\nErik Hofmann\r\nJunior Technical Level Designer (ASA)\r\n\r\n\r\nGabriel Holmes\r\nAI Gameplay Programmer  (ASE)\r\n\r\n\r\nDerek Holson\r\nLevel Designer  (ASE)\r\n\r\n\r\nSteve Holt\r\nSenior Environment Artist (ASE)\r\n\r\n\r\nTravis Howe\r\nAnimator  (ASE)\r\n\r\n\r\nThomas Huynh\r\nSenior Animator  (ASE)\r\n\r\n\r\nDerick Janssen\r\nSenior Gameplay Programmer (ASA)\r\n\r\n\r\nMatt Janz\r\nLevel Designer  (ASE)\r\n\r\n\r\nJorge Jimenez\r\nBuild Engineer (ASE)\r\n\r\n\r\nMatt Kenley\r\nAnimator (ASE)\r\n\r\n\r\nDwayne Knight\r\nSenior Engine Programmer (ASE)\r\n\r\n\r\nKenny Lammers\r\nSenior Technical Artist  (ASE)\r\n\r\n\r\nAlex Laurant\r\nArt Director (ARK 2)\r\n\r\n\r\nOlivier \"Bil\" Leeman\r\nSenior VFX Artist  (ASE)\r\n\r\n\r\nPeter Lim\r\nTechnical Designer  (ASE)\r\n\r\n\r\nRyan Lynch\r\nEnforcement Analyst  (ASE)\r\n\r\n\r\nKatelyn Malmsten\r\nJunior Technical Artist  (ASE)\r\n\r\n\r\nMic Marvin\r\nTechnical Artist, Rigging & Skinning (ASA) \r\n\r\n\r\nDavid Miller (ASE, ASA)\r\nTechnical Level Director\r\n\r\n\r\nJoshua Mosman\r\nCommunity Support  (ASE)\r\n\r\n\r\nDavid Noonan\r\nWriter  (ASE)\r\n\r\n\r\nJimmiek Rankin\r\nCharacter Artist/Outsource Artist (ASA)\r\n\r\n\r\nJesse Raymond\r\nUI/UX Designer (ASE)\r\n\r\n\r\nColton Revia\r\nTechnical Designer (ASE)\r\n\r\n\r\nJeremy Riccione\r\nAnimator  (ASE)\r\n\r\n\r\nJorge Antonio Robles\r\nSenior Gameplay Programmer, UI/UX Programmer (ASE)\r\n\r\n\r\nMike Rodriguez\r\nSenior Environment Artist  (ASE)\r\n\r\n\r\nCorey Ross\r\nCharacter Technical Artist (ASE)\r\n\r\n\r\nNick Rudolph\r\nVFX Artist  (ASE)\r\n\r\n\r\nBristol Lakshas Sanatu\r\nTechnical Artist (ASE)\r\n\r\n\r\nRandal Shaffer\r\n3D Artist  (ASE)\r\n\r\n\r\nAlex Shilts\r\nSenior Gameplay Programmer (ASE)\r\n\r\n\r\nPatrick Schuler\r\nSenior Technical Artist (ASA)\r\n\r\n\r\nMarc Soskin\r\nWriter  (ASE)\r\n\r\n\r\nJennifer Stuber\r\nCommunity Manager, QA Analyst  (ASE)\r\n\r\n\r\nWilliam Tate\r\n3D Artist  (ASE)\r\n\r\n\r\nSean Teo\r\nCharacter Technical Artist (ASA)\r\n\r\n\r\nRewant Verma\r\nAssociate Producer (ASA)\r\n\r\n\r\nTodd Widdup\r\nSenior Technical Artist  (ASE)\r\n\r\n\r\nChris Willoughby\r\nSenior Game Programmer/Designer (ASE)\r\n\r\n\r\nMartin Wong\r\nGameplay Programmer  (ASE)\r\n\r\n\r\nEli Yabut\r\nCommunity Analyst (ASE, ASA)\r\n\r\n\r\nJason Zielinkski\r\nArt Outsourcing Manager, Rigging & Skinning (ASA)\r\n\r\n\r\nJason Zhao\r\nTechnical Artist, VFX Artist  (ASE)\r\n\r\n\r\neco\r\nQA Analyst\r\n\r\n\r\nHenry Herd\r\nBusiness Development Manager\r\n\r\n\r\nBev Noblitt\r\nStudio Recruiter\r\n\r\n\r\nJack Tretton\r\nStrategy Officer\r\n\r\n\r\nForest Rapczak\r\nOffice Manager, Event and Community Relations\r\n\r\n\r\nSusan Stieglitz\r\nBusiness Manager, Co-Founder\r\n\r\n\r\n------------------\r\n\r\n\r\n- Additional Sound Design & Audio Content for ARK: Survival Evolved -\r\n\r\nBad Words Labs\r\nDynamedion\r\nVoice Direction support by Wes Gleason, James Baldanzi, and Bang Zoom Studios\r\n\r\n\r\n------------------\r\n\r\n\r\n- Additional Art Content for ARK: Survival Evolved -\r\n\r\n‘The Island' Creature Designs by Ashton Andersen & Virtual Basement LLC\r\nHenrique Lopes\r\nPhu Giang\r\n\r\n\r\n------------------\r\n\r\n\r\n- Additional Content & Development by Efecto Studios for ARK: Survival Evolved -\r\n\r\nEivar Rojas\r\nSergio Buenaventura\r\nJuan Camilo Ovalle\r\nEsteban Plazas\r\nYei Bodmer\r\nFelipe Ladino\r\nÉrik Páez\r\nAlejandro Henao\r\nIsrael Arciniegas\r\nJuan José Jimenez\r\nMauricio Pachon\r\nSebastián Kowoll\r\nMiguel Posada\r\nJuan Camilo Acosta\r\nJulian Castillo\r\nJose Cifuentes\r\nDiego Mariño\r\nDahvid Cuevas\r\nJonathan Garcia\r\nAndrés Martínez\r\nAndrés Montealegre\r\nAndrés Botero\r\nMauricio Fernández\r\nÉrika Rincón\r\nFelix Joleanes\r\nJavier López\r\nEsteban Ariza\r\nAndrés Romero\r\nAndrés Naranjo\r\nRachid Elajiek\r\nJuan Camilo Ovalle\r\nSergio Velandia\r\nWilliam Ocampo\r\nJohana Garzon\r\n\r\n\r\n------------------\r\n\r\nTHANK YOU ALL FOR PLAYING ARK, SURVIVORS!\r\n\r\nwww.survivetheark.com\r\n\r\n\r\n------------------\r\n\r\n\r\nSpecimen: Walker, Helena\r\nInitial Termination Date: December 31, 2018\r\nPurpose of Query?\r\n…\r\nTotal System Control. How did she achieve it?\r\n\r\n",
-      "Trans": {"SC":"- 汉化补丁成员 -\r\n凄海千秋 , 土豆泡 , 六合 , 继发性失眠睡鲨 , Nomi , Z.Nzy , Louis , 断桥烟雨 , 以及各位生存者\r\n\r\n\r\n方舟: 生存飞升\r\n\r\n由以下配音员倾情献声:\r\n\r\nMadeleine Madden 饰 海莲娜·沃克 / HLN-A\r\nDavid Tennant 饰 艾德蒙·罗克韦尔爵士\r\nMichelle Yeoh 饰 李美盈\r\nKarl Urban 饰 鲍勃\r\nAuli'i Cravalho 饰 米卡\r\nKatee Sackhoff 饰 戴安娜·阿尔塔拉斯\r\nAlan Tudyk 饰 SIR-5rM8\r\n以及 范·迪塞尔(Vin Diesel) 饰 圣地亚哥·达科斯塔\r\n\r\n\r\n由 Studio Wildcard 创作, 由 Grove Street Games 与 Instinct Games 联合开发\r\n\r\n\r\n- Studio Wildcard -\r\n\r\n\r\nJeremy Stieglitz (@jeremystieglitz)\r\n首席设计师, 首席程序员, 开发总监, 联合创意总监, 联合创始人\r\n\r\n\r\nJesse Rapczak (@arkjesse)\r\n执行美术 & 技术美术总监, 联合创意总监, 工作室经理, 联合创始人\r\n\r\n\r\nLawrence Boye\r\n联合创意总监, 技术美术总监\r\n\r\n\r\nAlex Williams\r\n首席技术官\r\n\r\n\r\nJatheish Karunakaran\r\n执行制片人\r\n\r\n\r\nColin Tennery\r\n制作总监\r\n\r\n\r\nDave Loyd\r\n首席技术制作人\r\n\r\n\r\nVic DeLeon\r\n美术总监\r\n\r\n\r\nJoshua Hines\r\n用户生成内容总监\r\n\r\n\r\nRaymond Mitchell\r\n首席 Live Ops\r\n\r\n\r\nDamien Bull\r\n环境总监, 首席关卡设计师\r\n\r\n\r\nWaylon Winn\r\n首席 3D 美术, 技术美术\r\n\r\n\r\nCraig Hoffman\r\nVFX 总监\r\n\r\n\r\nCatherine Rokitka\r\n首席角色/生物美术\r\n\r\n\r\nAmy Drobeck-Jones\r\n动画总监\r\n\r\n\r\nMichael Buettner\r\n首席技术动画师\r\n\r\n\r\nStephen Baker\r\n音频总监\r\n\r\n\r\nDuncan Reed\r\n首席 3D 美术 - 游戏资产\r\n\r\n\r\nChandler Whalen\r\n首席植被美术\r\n\r\n\r\nTai Gordon\r\n首席角色护甲美术\r\n\r\n\r\nJonathan Richardson\r\n首席灯光美术\r\n\r\n\r\nJesus Conde\r\n首席概念美术\r\n\r\n\r\nMark Mihelich\r\n高级引擎程序员\r\n\r\n\r\nScott Marison\r\n高级引擎程序员\r\n\r\n\r\nChristian Dennerlein\r\n高级玩法程序员\r\n\r\n\r\nJorge Montolio \r\n高级玩法程序员\r\n\r\n\r\nAlex “Cody” Fernandez\r\n玩法程序员, 游戏设计师, Club ARK 总监\r\n\r\n\r\nMike Towne\r\n高级玩法程序员\r\n\r\n\r\nRobert Burgess\r\n玩法程序员\r\n\r\n\r\nMarcel Mueller\r\n玩法程序员\r\n\r\n\r\nDavid Perfect\r\n玩法程序员\r\n\r\n\r\nRobert Stewart\r\n高级玩法程序员\r\n\r\n\r\nBaktash Abdollah-Shamshir-Saz\r\n高级图形程序员\r\n\r\n\r\nDavid Sleeper\r\n高级引擎程序员\r\n\r\n\r\nCraig Brown\r\n首席技术设计师\r\n\r\n\r\nZane Ard\r\n高级游戏设计师, 技术设计师\r\n\r\n\r\nRobert Howard\r\n平衡性 & 技术设计师, QA 制片人\r\n\r\n\r\nLucy Carter\r\nQA 分析师 联合负责人, 副游戏设计师\r\n\r\n\r\nJeffrey Seggelke\r\nQA 分析师 联合负责人\r\n\r\n\r\nPeter Fries\r\n首席叙事编剧\r\n\r\n\r\nRichard Kidd\r\n电影过场与虚拟制作总监\r\n\r\n\r\nChris Gardner\r\n电影过场负责人\r\n\r\n\r\nEthan McCaughey\r\n高级技术美术\r\n\r\n\r\nDollie\r\n首席社区经理\r\n\r\n\r\nCedric Burkes\r\n首席数据与解决方案架构师\r\n\r\n\r\nNavin Supphapholsiri\r\n高级制片人\r\n\r\n\r\nMichael Flickinger\r\n副技术制作人\r\n\r\n\r\nBen Burkart \r\n高级关卡设计师\r\n\r\n\r\nGabriel Robbins\r\n高级关卡设计师\r\n\r\n\r\nMorgan Roberts\r\n高级关卡设计师\r\n\r\n\r\nJoslynn Gabel\r\n关卡设计师\r\n\r\n\r\nJackson Lawrence\r\n关卡设计师\r\n\r\n\r\nSasha Leonidovich\r\n关卡设计师\r\n\r\n\r\nSky Kensok\r\n高级环境美术\r\n\r\n\r\nPatrick Moore\r\n高级环境美术\r\n\r\n\r\nNoah Presnell\r\n高级环境美术\r\n\r\n\r\nTrevor Taylor\r\n高级环境美术\r\n\r\n\r\nSonia Piasecki\r\n环境美术\r\n\r\n\r\nSeven Tirse\r\n环境美术\r\n\r\n\r\nAylwin Fernando\r\n灯光美术, 技术美术\r\n\r\n\r\nBarry Sundt\r\n高级生物美术\r\n\r\n\r\nAndy Chin\r\n生物美术\r\n\r\n\r\nEric Huang\r\n角色美术\r\n\r\n\r\nIan McOran-Campbell\r\n高级角色美术\r\n\r\n\r\nCharles Kim\r\n高级 3D 美术\r\n\r\n\r\nShaafi Ahmad\r\n道具美术\r\n\r\n\r\nLiam Stones\r\n3D 美术\r\n\r\n\r\nJohn Fiorentino\r\n初级道具美术\r\n\r\n\r\nBrandon Carpenter\r\n高级动画师\r\n\r\n\r\nScott Dossett\r\n高级动画师\r\n\r\n\r\nLance Terpstra\r\n初级动画师\r\n\r\n\r\nSam Bueno\r\n角色绑定师\r\n\r\n\r\nJeffrey Ryan\r\n技术动画师 \r\n\r\n\r\nJessica Tung\r\n角色绑定师\r\n\r\n\r\nIsabelle Richter\r\n技术美术\r\n\r\n\r\nJonathan Crockett\r\n技术美术\r\n\r\n\r\nLucien Wang\r\n技术美术\r\n\r\n\r\nOwen Murphy\r\n技术美术\r\n\r\n\r\nOmar Saretzky\r\n高级市场美术, 初级技术美术\r\n\r\n\r\nMatthew Dirks\r\n技术美术\r\n\r\n\r\nJeff Hatchel\r\n高级 VFX 美术\r\n\r\n\r\nJon Wood\r\n高级 VFX 美术\r\n\r\n\r\nJimmy Wu\r\nVFX 美术\r\n\r\n\r\nMatthew Benson\r\nVFX 美术\r\n\r\n\r\nAndrey Kazmin \r\n高级 UX 设计师\r\n\r\n\r\nAlejandro Alvarez\r\n插画师, 概念美术\r\n\r\n\r\nClayton D’mello\r\n概念美术\r\n\r\n\r\nCaleb Havertape\r\n概念美术\r\n\r\n\r\nAileen Paron\r\n音效设计师\r\n\r\n\r\nDesmond Bailey\r\n高级 QA 分析师\r\n\r\n\r\nDebby “DebbySaurus” de Jong\r\nQA 分析师\r\n\r\n\r\nLuke DeLaura\r\nQA 分析师\r\n\r\n\r\nMike Jones\r\nQA 分析师\r\n\r\n\r\nJake Moriarty\r\nQA 分析师, 技术设计师\r\n\r\n\r\nYue Shen\r\nQA 分析师\r\n\r\n\r\nAdam Elsayed\r\nQA 分析师\r\n\r\n\r\nMikayla Hochberg\r\nQA 分析师\r\n\r\n\r\nMateusz Zachradnik\r\nQA 分析师\r\n\r\n\r\nAdam Graham\r\n服务器管理员, 在线运营 \r\n\r\n\r\nMarco McCreadie\r\n服务器技术员\r\n\r\n\r\nMatt Webster\r\n视频制作助理\r\n\r\n\r\nJames C\r\n首席执法分析师, 关卡 QA 分析师\r\n\r\n\r\nLeo C\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nJeff H\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nAdrian K\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nBrett W\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nSvala Dumouchel\r\n社区经理\r\n\r\n\r\nAlaa Ibrahim\r\n高级 Pipeline TD\r\n\r\n\r\nMarc Diana\r\n合作伙伴关系与市场营销副总裁\r\n\r\n\r\nLuke Brehm\r\nIT 经理\r\n\r\n\r\nSherman Buster\r\nIT 综合专员\r\n\r\n\r\nLindsay Sweeten\r\n办公室经理, HR\r\n\r\n\r\nNicki Chen\r\n会计经理\r\n\r\n\r\nDoug Kennedy\r\nCEO, 联合创始人\r\n\r\n\r\nReverb Communications\r\nPR\r\n\r\n\r\nARK 的音乐由 Gareth Coker 创作并作曲.\r\n\r\n\r\n------------------\r\n\r\n\r\n- Grove Street Games -\r\n\r\n\r\nThomas Williamson\r\nCEO\r\n\r\n\r\nMichael Owen\r\nCTO\r\n\r\n\r\nMorgan Hughes\r\nCOO\r\n\r\n\r\nTom DiCesare\r\n高级玩法程序员\r\n\r\n\r\nVince Mohan\r\nQA 主管\r\n\r\n\r\nCarl Hof-Mahoney\r\n玩法程序员\r\n\r\n\r\nKyle Criste\r\n技术美术\r\n\r\n\r\nKristin\tHorn\t\r\n环境美术\r\n\r\n\r\nJordan Kleeman\r\n制片人\r\n\r\n\r\nTrent Fraley\r\nQA 分析师\r\n\r\n\r\nAaron Ruel\r\n系统工程师\r\n\r\n\r\nDavid Gregoire\r\n社区经理\r\n\r\n\r\nDaniel Gregoire\r\nQA 分析师\r\n\r\n\r\nSheamus Cooper\r\n玩法程序员\r\n\r\n\r\nJustin Huffaker\r\nQA 分析师\r\n\r\n\r\nYolanda Patino\r\n技术美术\r\n\r\n\r\nEmma Bailly\r\n技术美术\r\n\r\n\r\nJohn David Peterson\r\n构建工程师\r\n\r\n\r\nEmily Hobbs\r\n工作室经理\r\n\r\n\r\nNatalia Wollschlaeger\r\n社区经理\r\n\r\n\r\nBrie Cournoyer\r\n3D 美术\r\n\r\n\r\nJuan Campos\r\nQA 分析师\r\n\r\n\r\nLeonardo Mezavilla\r\n玩法程序员\r\n\r\n\r\n特别致谢:\r\nBeck Michaels\t\r\nKahliek Clemmons\r\nHolly Owen\r\nKim Lopez\r\nJack Steinhilber\r\nAleah Brown\r\n\r\n\r\nEpic Online Services 集成由 Redpoint Games 完成\r\n\r\n\r\n------------------\r\n\r\n\r\n- Instinct Games -\r\n\r\n\r\nMostafa Hafez\r\nCEO/技术总监\r\n\r\n\r\nMohamed Seif\r\n开发总监/首席程序员\r\n\r\n\r\nMohammad Yusuf Al-Afandy\r\n首席程序员\r\n\r\n\r\nOssama Moussa\r\n首席程序员\r\n\r\n\r\nAhmed El Meshry\r\n首席程序员\r\n\r\n\r\nYoussef El Hefnawy\r\n初级程序员\r\n\r\n\r\nMohamed El Shaarawy\r\n初级程序员\r\n\r\n\r\nAmir Tayie\r\n初级程序员\r\n\r\n\r\nIslam Moamen\r\n初级程序员\r\n\r\n\r\nYoussef Ahmed\r\n测试负责人\r\n\r\n\r\nMai Seif\r\n商务经理\r\n\r\n\r\n------------------\r\n\r\n\r\n\r\n\r\nStudio Wildcard 特别鸣谢并致以衷心感谢 \r\n\r\n\r\nJavier Alvarez\r\n玩法工程师 (ASA)\r\n\r\n\r\nLee Amarakoon\r\n高级 VFX 美术  (ASE)\r\n\r\n\r\nJack Bogaard\r\n高级玩法程序员 (ASE)\r\n\r\n\r\nJohn Bulahan\r\n制片人 (ASE)\r\n\r\n\r\nKatie Chopin\r\n环境美术 (ASE)\r\n\r\n\r\nStephen Coan\r\n技术美术  (ASE)\r\n\r\n\r\nJudd Cohen \r\n玩法程序员  (ASE)\r\n\r\n\r\nChris Coleman\r\n高级角色美术  (ASE)\r\n\r\n\r\nHenry Dai\r\n玩法程序员  (ASE)\r\n\r\n\r\nMichael Fewkes\r\n技术音频设计师/音频程序员 (ASA)\r\n\r\n\r\nAlex Fundora\r\n高级技术动画师 (ASA)\r\n\r\n\r\nJim Geldmacher\r\n高级玩法程序员 (ASA)\r\n\r\n\r\nJengy Gomez\r\n技术美术  (ASE)\r\n\r\n\r\nChad Greene\r\n高级灯光美术 (ASE)\r\n\r\n\r\nNeil Griffiths\r\n在线运营工程师  (ASE)\r\n\r\n\r\nTodd Harry\r\n高级动画师 (ASE, ASA)\r\n\r\n\r\nKayd Hendricks\r\n高级设计师, QA 分析师  (ASE)\r\n\r\n\r\nErik Hofmann\r\n初级技术关卡设计师 (ASA)\r\n\r\n\r\nGabriel Holmes\r\nAI 玩法程序员  (ASE)\r\n\r\n\r\nDerek Holson\r\n关卡设计师  (ASE)\r\n\r\n\r\nSteve Holt\r\n高级环境美术 (ASE)\r\n\r\n\r\nTravis Howe\r\n动画师  (ASE)\r\n\r\n\r\nThomas Huynh\r\n高级动画师  (ASE)\r\n\r\n\r\nDerick Janssen\r\n高级玩法程序员 (ASA)\r\n\r\n\r\nMatt Janz\r\n关卡设计师  (ASE)\r\n\r\n\r\nJorge Jimenez\r\n构建工程师 (ASE)\r\n\r\n\r\nMatt Kenley\r\n动画师 (ASE)\r\n\r\n\r\nDwayne Knight\r\n高级引擎程序员 (ASE)\r\n\r\n\r\nKenny Lammers\r\n高级技术美术  (ASE)\r\n\r\n\r\nAlex Laurant\r\n美术总监 (ARK 2)\r\n\r\n\r\nOlivier \"Bil\" Leeman\r\n高级 VFX 美术  (ASE)\r\n\r\n\r\nPeter Lim\r\n技术设计师  (ASE)\r\n\r\n\r\nRyan Lynch\r\n执法分析师  (ASE)\r\n\r\n\r\nKatelyn Malmsten\r\n初级技术美术  (ASE)\r\n\r\n\r\nMic Marvin\r\n技术美术, 绑定 & 蒙皮 (ASA) \r\n\r\n\r\nDavid Miller (ASE, ASA)\r\n技术关卡总监\r\n\r\n\r\nJoshua Mosman\r\n社区支持  (ASE)\r\n\r\n\r\nDavid Noonan\r\n编剧  (ASE)\r\n\r\n\r\nJimmiek Rankin\r\n角色美术/外包美术 (ASA)\r\n\r\n\r\nJesse Raymond\r\nUI/UX 设计师 (ASE)\r\n\r\n\r\nColton Revia\r\n技术设计师 (ASE)\r\n\r\n\r\nJeremy Riccione\r\n动画师  (ASE)\r\n\r\n\r\nJorge Antonio Robles\r\n高级玩法程序员, UI/UX 程序员 (ASE)\r\n\r\n\r\nMike Rodriguez\r\n高级环境美术  (ASE)\r\n\r\n\r\nCorey Ross\r\n角色技术美术 (ASE)\r\n\r\n\r\nNick Rudolph\r\nVFX 美术  (ASE)\r\n\r\n\r\nBristol Lakshas Sanatu\r\n技术美术 (ASE)\r\n\r\n\r\nRandal Shaffer\r\n3D 美术  (ASE)\r\n\r\n\r\nAlex Shilts\r\n高级玩法程序员 (ASE)\r\n\r\n\r\nPatrick Schuler\r\n高级技术美术 (ASA)\r\n\r\n\r\nMarc Soskin\r\n编剧  (ASE)\r\n\r\n\r\nJennifer Stuber\r\n社区经理, QA 分析师  (ASE)\r\n\r\n\r\nWilliam Tate\r\n3D 美术  (ASE)\r\n\r\n\r\nSean Teo\r\n角色技术美术 (ASA)\r\n\r\n\r\nRewant Verma\r\n副制片人 (ASA)\r\n\r\n\r\nTodd Widdup\r\n高级技术美术  (ASE)\r\n\r\n\r\nChris Willoughby\r\n高级游戏程序员/设计师 (ASE)\r\n\r\n\r\nMartin Wong\r\n玩法程序员  (ASE)\r\n\r\n\r\nEli Yabut\r\n社区分析师 (ASE, ASA)\r\n\r\n\r\nJason Zielinkski\r\n美术外包经理, 绑定 & 蒙皮 (ASA)\r\n\r\n\r\nJason Zhao\r\n技术美术, VFX 美术  (ASE)\r\n\r\n\r\neco\r\nQA 分析师\r\n\r\n\r\nHenry Herd\r\n商务拓展经理\r\n\r\n\r\nBev Noblitt\r\n工作室招聘专员\r\n\r\n\r\nJack Tretton\r\n战略官\r\n\r\n\r\nForest Rapczak\r\n办公室经理, 活动与社区关系\r\n\r\n\r\nSusan Stieglitz\r\n商务经理, 联合创始人\r\n\r\n\r\n------------------\r\n\r\n\r\n- 为 ARK: Survival Evolved 提供的额外声音设计 & 音频内容 -\r\n\r\nBad Words Labs\r\nDynamedion\r\n配音导演支持: Wes Gleason, James Baldanzi, 以及 Bang Zoom Studios\r\n\r\n\r\n------------------\r\n\r\n\r\n- 为 ARK: Survival Evolved 提供的额外美术内容 -\r\n\r\n‘The Island' 生物设计: Ashton Andersen & Virtual Basement LLC\r\nHenrique Lopes\r\nPhu Giang\r\n\r\n\r\n------------------\r\n\r\n\r\n- 为 ARK: Survival Evolved 提供的额外内容与开发: Efecto Studios -\r\n\r\nEivar Rojas\r\nSergio Buenaventura\r\nJuan Camilo Ovalle\r\nEsteban Plazas\r\nYei Bodmer\r\nFelipe Ladino\r\nÉrik Páez\r\nAlejandro Henao\r\nIsrael Arciniegas\r\nJuan José Jimenez\r\nMauricio Pachon\r\nSebastián Kowoll\r\nMiguel Posada\r\nJuan Camilo Acosta\r\nJulian Castillo\r\nJose Cifuentes\r\nDiego Mariño\r\nDahvid Cuevas\r\nJonathan Garcia\r\nAndrés Martínez\r\nAndrés Montealegre\r\nAndrés Botero\r\nMauricio Fernández\r\nÉrika Rincón\r\nFelix Joleanes\r\nJavier López\r\nEsteban Ariza\r\nAndrés Romero\r\nAndrés Naranjo\r\nRachid Elajiek\r\nJuan Camilo Ovalle\r\nSergio Velandia\r\nWilliam Ocampo\r\nJohana Garzon\r\n\r\n\r\n------------------\r\n\r\nTHANK YOU ALL FOR PLAYING ARK, SURVIVORS!\r\n\r\nwww.survivetheark.com\r\n\r\n\r\n------------------\r\n\r\n\r\nSpecimen: Walker, Helena\r\n初次终止日期: 十二月 31, 2018\r\n查询目的?\r\n…\r\n系统完全控制. 她是如何做到的?\r\n\r\n","JA":""},
+      "Trans": {"SC":"- 汉化补丁成员 -\r\n凄海千秋 , 土豆泡 , 六合 , 继发性失眠睡鲨 , Nomi , Z.Nzy , Louis , 断桥烟雨 , 以及各位生存者\r\n\r\n\r\n方舟: 生存飞升\r\n\r\n由以下配音员倾情献声:\r\n\r\nMadeleine Madden 饰 海莲娜·沃克 / HLN-A\r\nDavid Tennant 饰 艾德蒙·罗克韦尔爵士\r\nMichelle Yeoh 饰 李美盈\r\nKarl Urban 饰 鲍勃\r\nAuli'i Cravalho 饰 咪卡\r\nKatee Sackhoff 饰 戴安娜·阿尔塔拉斯\r\nAlan Tudyk 饰 SIR-5rM8\r\n以及 范·迪塞尔(Vin Diesel) 饰 圣地亚哥·达科斯塔\r\n\r\n\r\n由 Studio Wildcard 创作, 由 Grove Street Games 与 Instinct Games 联合开发\r\n\r\n\r\n- Studio Wildcard -\r\n\r\n\r\nJeremy Stieglitz (@jeremystieglitz)\r\n首席设计师, 首席程序员, 开发总监, 联合创意总监, 联合创始人\r\n\r\n\r\nJesse Rapczak (@arkjesse)\r\n执行美术 & 技术美术总监, 联合创意总监, 工作室经理, 联合创始人\r\n\r\n\r\nLawrence Boye\r\n联合创意总监, 技术美术总监\r\n\r\n\r\nAlex Williams\r\n首席技术官\r\n\r\n\r\nJatheish Karunakaran\r\n执行制片人\r\n\r\n\r\nColin Tennery\r\n制作总监\r\n\r\n\r\nDave Loyd\r\n首席技术制作人\r\n\r\n\r\nVic DeLeon\r\n美术总监\r\n\r\n\r\nJoshua Hines\r\n用户生成内容总监\r\n\r\n\r\nRaymond Mitchell\r\n首席 Live Ops\r\n\r\n\r\nDamien Bull\r\n环境总监, 首席关卡设计师\r\n\r\n\r\nWaylon Winn\r\n首席 3D 美术, 技术美术\r\n\r\n\r\nCraig Hoffman\r\nVFX 总监\r\n\r\n\r\nCatherine Rokitka\r\n首席角色/生物美术\r\n\r\n\r\nAmy Drobeck-Jones\r\n动画总监\r\n\r\n\r\nMichael Buettner\r\n首席技术动画师\r\n\r\n\r\nStephen Baker\r\n音频总监\r\n\r\n\r\nDuncan Reed\r\n首席 3D 美术 - 游戏资产\r\n\r\n\r\nChandler Whalen\r\n首席植被美术\r\n\r\n\r\nTai Gordon\r\n首席角色护甲美术\r\n\r\n\r\nJonathan Richardson\r\n首席灯光美术\r\n\r\n\r\nJesus Conde\r\n首席概念美术\r\n\r\n\r\nMark Mihelich\r\n高级引擎程序员\r\n\r\n\r\nScott Marison\r\n高级引擎程序员\r\n\r\n\r\nChristian Dennerlein\r\n高级玩法程序员\r\n\r\n\r\nJorge Montolio \r\n高级玩法程序员\r\n\r\n\r\nAlex “Cody” Fernandez\r\n玩法程序员, 游戏设计师, Club ARK 总监\r\n\r\n\r\nMike Towne\r\n高级玩法程序员\r\n\r\n\r\nRobert Burgess\r\n玩法程序员\r\n\r\n\r\nMarcel Mueller\r\n玩法程序员\r\n\r\n\r\nDavid Perfect\r\n玩法程序员\r\n\r\n\r\nRobert Stewart\r\n高级玩法程序员\r\n\r\n\r\nBaktash Abdollah-Shamshir-Saz\r\n高级图形程序员\r\n\r\n\r\nDavid Sleeper\r\n高级引擎程序员\r\n\r\n\r\nCraig Brown\r\n首席技术设计师\r\n\r\n\r\nZane Ard\r\n高级游戏设计师, 技术设计师\r\n\r\n\r\nRobert Howard\r\n平衡性 & 技术设计师, QA 制片人\r\n\r\n\r\nLucy Carter\r\nQA 分析师 联合负责人, 副游戏设计师\r\n\r\n\r\nJeffrey Seggelke\r\nQA 分析师 联合负责人\r\n\r\n\r\nPeter Fries\r\n首席叙事编剧\r\n\r\n\r\nRichard Kidd\r\n电影过场与虚拟制作总监\r\n\r\n\r\nChris Gardner\r\n电影过场负责人\r\n\r\n\r\nEthan McCaughey\r\n高级技术美术\r\n\r\n\r\nDollie\r\n首席社区经理\r\n\r\n\r\nCedric Burkes\r\n首席数据与解决方案架构师\r\n\r\n\r\nNavin Supphapholsiri\r\n高级制片人\r\n\r\n\r\nMichael Flickinger\r\n副技术制作人\r\n\r\n\r\nBen Burkart \r\n高级关卡设计师\r\n\r\n\r\nGabriel Robbins\r\n高级关卡设计师\r\n\r\n\r\nMorgan Roberts\r\n高级关卡设计师\r\n\r\n\r\nJoslynn Gabel\r\n关卡设计师\r\n\r\n\r\nJackson Lawrence\r\n关卡设计师\r\n\r\n\r\nSasha Leonidovich\r\n关卡设计师\r\n\r\n\r\nSky Kensok\r\n高级环境美术\r\n\r\n\r\nPatrick Moore\r\n高级环境美术\r\n\r\n\r\nNoah Presnell\r\n高级环境美术\r\n\r\n\r\nTrevor Taylor\r\n高级环境美术\r\n\r\n\r\nSonia Piasecki\r\n环境美术\r\n\r\n\r\nSeven Tirse\r\n环境美术\r\n\r\n\r\nAylwin Fernando\r\n灯光美术, 技术美术\r\n\r\n\r\nBarry Sundt\r\n高级生物美术\r\n\r\n\r\nAndy Chin\r\n生物美术\r\n\r\n\r\nEric Huang\r\n角色美术\r\n\r\n\r\nIan McOran-Campbell\r\n高级角色美术\r\n\r\n\r\nCharles Kim\r\n高级 3D 美术\r\n\r\n\r\nShaafi Ahmad\r\n道具美术\r\n\r\n\r\nLiam Stones\r\n3D 美术\r\n\r\n\r\nJohn Fiorentino\r\n初级道具美术\r\n\r\n\r\nBrandon Carpenter\r\n高级动画师\r\n\r\n\r\nScott Dossett\r\n高级动画师\r\n\r\n\r\nLance Terpstra\r\n初级动画师\r\n\r\n\r\nSam Bueno\r\n角色绑定师\r\n\r\n\r\nJeffrey Ryan\r\n技术动画师 \r\n\r\n\r\nJessica Tung\r\n角色绑定师\r\n\r\n\r\nIsabelle Richter\r\n技术美术\r\n\r\n\r\nJonathan Crockett\r\n技术美术\r\n\r\n\r\nLucien Wang\r\n技术美术\r\n\r\n\r\nOwen Murphy\r\n技术美术\r\n\r\n\r\nOmar Saretzky\r\n高级市场美术, 初级技术美术\r\n\r\n\r\nMatthew Dirks\r\n技术美术\r\n\r\n\r\nJeff Hatchel\r\n高级 VFX 美术\r\n\r\n\r\nJon Wood\r\n高级 VFX 美术\r\n\r\n\r\nJimmy Wu\r\nVFX 美术\r\n\r\n\r\nMatthew Benson\r\nVFX 美术\r\n\r\n\r\nAndrey Kazmin \r\n高级 UX 设计师\r\n\r\n\r\nAlejandro Alvarez\r\n插画师, 概念美术\r\n\r\n\r\nClayton D’mello\r\n概念美术\r\n\r\n\r\nCaleb Havertape\r\n概念美术\r\n\r\n\r\nAileen Paron\r\n音效设计师\r\n\r\n\r\nDesmond Bailey\r\n高级 QA 分析师\r\n\r\n\r\nDebby “DebbySaurus” de Jong\r\nQA 分析师\r\n\r\n\r\nLuke DeLaura\r\nQA 分析师\r\n\r\n\r\nMike Jones\r\nQA 分析师\r\n\r\n\r\nJake Moriarty\r\nQA 分析师, 技术设计师\r\n\r\n\r\nYue Shen\r\nQA 分析师\r\n\r\n\r\nAdam Elsayed\r\nQA 分析师\r\n\r\n\r\nMikayla Hochberg\r\nQA 分析师\r\n\r\n\r\nMateusz Zachradnik\r\nQA 分析师\r\n\r\n\r\nAdam Graham\r\n服务器管理员, 在线运营 \r\n\r\n\r\nMarco McCreadie\r\n服务器技术员\r\n\r\n\r\nMatt Webster\r\n视频制作助理\r\n\r\n\r\nJames C\r\n首席执法分析师, 关卡 QA 分析师\r\n\r\n\r\nLeo C\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nJeff H\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nAdrian K\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nBrett W\r\n执法分析师, 关卡 QA 分析师\r\n\r\n\r\nSvala Dumouchel\r\n社区经理\r\n\r\n\r\nAlaa Ibrahim\r\n高级 Pipeline TD\r\n\r\n\r\nMarc Diana\r\n合作伙伴关系与市场营销副总裁\r\n\r\n\r\nLuke Brehm\r\nIT 经理\r\n\r\n\r\nSherman Buster\r\nIT 综合专员\r\n\r\n\r\nLindsay Sweeten\r\n办公室经理, HR\r\n\r\n\r\nNicki Chen\r\n会计经理\r\n\r\n\r\nDoug Kennedy\r\nCEO, 联合创始人\r\n\r\n\r\nReverb Communications\r\nPR\r\n\r\n\r\nARK 的音乐由 Gareth Coker 创作并作曲.\r\n\r\n\r\n------------------\r\n\r\n\r\n- Grove Street Games -\r\n\r\n\r\nThomas Williamson\r\nCEO\r\n\r\n\r\nMichael Owen\r\nCTO\r\n\r\n\r\nMorgan Hughes\r\nCOO\r\n\r\n\r\nTom DiCesare\r\n高级玩法程序员\r\n\r\n\r\nVince Mohan\r\nQA 主管\r\n\r\n\r\nCarl Hof-Mahoney\r\n玩法程序员\r\n\r\n\r\nKyle Criste\r\n技术美术\r\n\r\n\r\nKristin\tHorn\t\r\n环境美术\r\n\r\n\r\nJordan Kleeman\r\n制片人\r\n\r\n\r\nTrent Fraley\r\nQA 分析师\r\n\r\n\r\nAaron Ruel\r\n系统工程师\r\n\r\n\r\nDavid Gregoire\r\n社区经理\r\n\r\n\r\nDaniel Gregoire\r\nQA 分析师\r\n\r\n\r\nSheamus Cooper\r\n玩法程序员\r\n\r\n\r\nJustin Huffaker\r\nQA 分析师\r\n\r\n\r\nYolanda Patino\r\n技术美术\r\n\r\n\r\nEmma Bailly\r\n技术美术\r\n\r\n\r\nJohn David Peterson\r\n构建工程师\r\n\r\n\r\nEmily Hobbs\r\n工作室经理\r\n\r\n\r\nNatalia Wollschlaeger\r\n社区经理\r\n\r\n\r\nBrie Cournoyer\r\n3D 美术\r\n\r\n\r\nJuan Campos\r\nQA 分析师\r\n\r\n\r\nLeonardo Mezavilla\r\n玩法程序员\r\n\r\n\r\n特别致谢:\r\nBeck Michaels\t\r\nKahliek Clemmons\r\nHolly Owen\r\nKim Lopez\r\nJack Steinhilber\r\nAleah Brown\r\n\r\n\r\nEpic Online Services 集成由 Redpoint Games 完成\r\n\r\n\r\n------------------\r\n\r\n\r\n- Instinct Games -\r\n\r\n\r\nMostafa Hafez\r\nCEO/技术总监\r\n\r\n\r\nMohamed Seif\r\n开发总监/首席程序员\r\n\r\n\r\nMohammad Yusuf Al-Afandy\r\n首席程序员\r\n\r\n\r\nOssama Moussa\r\n首席程序员\r\n\r\n\r\nAhmed El Meshry\r\n首席程序员\r\n\r\n\r\nYoussef El Hefnawy\r\n初级程序员\r\n\r\n\r\nMohamed El Shaarawy\r\n初级程序员\r\n\r\n\r\nAmir Tayie\r\n初级程序员\r\n\r\n\r\nIslam Moamen\r\n初级程序员\r\n\r\n\r\nYoussef Ahmed\r\n测试负责人\r\n\r\n\r\nMai Seif\r\n商务经理\r\n\r\n\r\n------------------\r\n\r\n\r\n\r\n\r\nStudio Wildcard 特别鸣谢并致以衷心感谢 \r\n\r\n\r\nJavier Alvarez\r\n玩法工程师 (ASA)\r\n\r\n\r\nLee Amarakoon\r\n高级 VFX 美术  (ASE)\r\n\r\n\r\nJack Bogaard\r\n高级玩法程序员 (ASE)\r\n\r\n\r\nJohn Bulahan\r\n制片人 (ASE)\r\n\r\n\r\nKatie Chopin\r\n环境美术 (ASE)\r\n\r\n\r\nStephen Coan\r\n技术美术  (ASE)\r\n\r\n\r\nJudd Cohen \r\n玩法程序员  (ASE)\r\n\r\n\r\nChris Coleman\r\n高级角色美术  (ASE)\r\n\r\n\r\nHenry Dai\r\n玩法程序员  (ASE)\r\n\r\n\r\nMichael Fewkes\r\n技术音频设计师/音频程序员 (ASA)\r\n\r\n\r\nAlex Fundora\r\n高级技术动画师 (ASA)\r\n\r\n\r\nJim Geldmacher\r\n高级玩法程序员 (ASA)\r\n\r\n\r\nJengy Gomez\r\n技术美术  (ASE)\r\n\r\n\r\nChad Greene\r\n高级灯光美术 (ASE)\r\n\r\n\r\nNeil Griffiths\r\n在线运营工程师  (ASE)\r\n\r\n\r\nTodd Harry\r\n高级动画师 (ASE, ASA)\r\n\r\n\r\nKayd Hendricks\r\n高级设计师, QA 分析师  (ASE)\r\n\r\n\r\nErik Hofmann\r\n初级技术关卡设计师 (ASA)\r\n\r\n\r\nGabriel Holmes\r\nAI 玩法程序员  (ASE)\r\n\r\n\r\nDerek Holson\r\n关卡设计师  (ASE)\r\n\r\n\r\nSteve Holt\r\n高级环境美术 (ASE)\r\n\r\n\r\nTravis Howe\r\n动画师  (ASE)\r\n\r\n\r\nThomas Huynh\r\n高级动画师  (ASE)\r\n\r\n\r\nDerick Janssen\r\n高级玩法程序员 (ASA)\r\n\r\n\r\nMatt Janz\r\n关卡设计师  (ASE)\r\n\r\n\r\nJorge Jimenez\r\n构建工程师 (ASE)\r\n\r\n\r\nMatt Kenley\r\n动画师 (ASE)\r\n\r\n\r\nDwayne Knight\r\n高级引擎程序员 (ASE)\r\n\r\n\r\nKenny Lammers\r\n高级技术美术  (ASE)\r\n\r\n\r\nAlex Laurant\r\n美术总监 (ARK 2)\r\n\r\n\r\nOlivier \"Bil\" Leeman\r\n高级 VFX 美术  (ASE)\r\n\r\n\r\nPeter Lim\r\n技术设计师  (ASE)\r\n\r\n\r\nRyan Lynch\r\n执法分析师  (ASE)\r\n\r\n\r\nKatelyn Malmsten\r\n初级技术美术  (ASE)\r\n\r\n\r\nMic Marvin\r\n技术美术, 绑定 & 蒙皮 (ASA) \r\n\r\n\r\nDavid Miller (ASE, ASA)\r\n技术关卡总监\r\n\r\n\r\nJoshua Mosman\r\n社区支持  (ASE)\r\n\r\n\r\nDavid Noonan\r\n编剧  (ASE)\r\n\r\n\r\nJimmiek Rankin\r\n角色美术/外包美术 (ASA)\r\n\r\n\r\nJesse Raymond\r\nUI/UX 设计师 (ASE)\r\n\r\n\r\nColton Revia\r\n技术设计师 (ASE)\r\n\r\n\r\nJeremy Riccione\r\n动画师  (ASE)\r\n\r\n\r\nJorge Antonio Robles\r\n高级玩法程序员, UI/UX 程序员 (ASE)\r\n\r\n\r\nMike Rodriguez\r\n高级环境美术  (ASE)\r\n\r\n\r\nCorey Ross\r\n角色技术美术 (ASE)\r\n\r\n\r\nNick Rudolph\r\nVFX 美术  (ASE)\r\n\r\n\r\nBristol Lakshas Sanatu\r\n技术美术 (ASE)\r\n\r\n\r\nRandal Shaffer\r\n3D 美术  (ASE)\r\n\r\n\r\nAlex Shilts\r\n高级玩法程序员 (ASE)\r\n\r\n\r\nPatrick Schuler\r\n高级技术美术 (ASA)\r\n\r\n\r\nMarc Soskin\r\n编剧  (ASE)\r\n\r\n\r\nJennifer Stuber\r\n社区经理, QA 分析师  (ASE)\r\n\r\n\r\nWilliam Tate\r\n3D 美术  (ASE)\r\n\r\n\r\nSean Teo\r\n角色技术美术 (ASA)\r\n\r\n\r\nRewant Verma\r\n副制片人 (ASA)\r\n\r\n\r\nTodd Widdup\r\n高级技术美术  (ASE)\r\n\r\n\r\nChris Willoughby\r\n高级游戏程序员/设计师 (ASE)\r\n\r\n\r\nMartin Wong\r\n玩法程序员  (ASE)\r\n\r\n\r\nEli Yabut\r\n社区分析师 (ASE, ASA)\r\n\r\n\r\nJason Zielinkski\r\n美术外包经理, 绑定 & 蒙皮 (ASA)\r\n\r\n\r\nJason Zhao\r\n技术美术, VFX 美术  (ASE)\r\n\r\n\r\neco\r\nQA 分析师\r\n\r\n\r\nHenry Herd\r\n商务拓展经理\r\n\r\n\r\nBev Noblitt\r\n工作室招聘专员\r\n\r\n\r\nJack Tretton\r\n战略官\r\n\r\n\r\nForest Rapczak\r\n办公室经理, 活动与社区关系\r\n\r\n\r\nSusan Stieglitz\r\n商务经理, 联合创始人\r\n\r\n\r\n------------------\r\n\r\n\r\n- 为 ARK: Survival Evolved 提供的额外声音设计 & 音频内容 -\r\n\r\nBad Words Labs\r\nDynamedion\r\n配音导演支持: Wes Gleason, James Baldanzi, 以及 Bang Zoom Studios\r\n\r\n\r\n------------------\r\n\r\n\r\n- 为 ARK: Survival Evolved 提供的额外美术内容 -\r\n\r\n‘The Island' 生物设计: Ashton Andersen & Virtual Basement LLC\r\nHenrique Lopes\r\nPhu Giang\r\n\r\n\r\n------------------\r\n\r\n\r\n- 为 ARK: Survival Evolved 提供的额外内容与开发: Efecto Studios -\r\n\r\nEivar Rojas\r\nSergio Buenaventura\r\nJuan Camilo Ovalle\r\nEsteban Plazas\r\nYei Bodmer\r\nFelipe Ladino\r\nÉrik Páez\r\nAlejandro Henao\r\nIsrael Arciniegas\r\nJuan José Jimenez\r\nMauricio Pachon\r\nSebastián Kowoll\r\nMiguel Posada\r\nJuan Camilo Acosta\r\nJulian Castillo\r\nJose Cifuentes\r\nDiego Mariño\r\nDahvid Cuevas\r\nJonathan Garcia\r\nAndrés Martínez\r\nAndrés Montealegre\r\nAndrés Botero\r\nMauricio Fernández\r\nÉrika Rincón\r\nFelix Joleanes\r\nJavier López\r\nEsteban Ariza\r\nAndrés Romero\r\nAndrés Naranjo\r\nRachid Elajiek\r\nJuan Camilo Ovalle\r\nSergio Velandia\r\nWilliam Ocampo\r\nJohana Garzon\r\n\r\n\r\n------------------\r\n\r\nTHANK YOU ALL FOR PLAYING ARK, SURVIVORS!\r\n\r\nwww.survivetheark.com\r\n\r\n\r\n------------------\r\n\r\n\r\nSpecimen: Walker, Helena\r\n初次终止日期: 十二月 31, 2018\r\n查询目的?\r\n…\r\n系统完全控制. 她是如何做到的?\r\n\r\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23227,7 +23227,7 @@
     {
       "NamespaceHash": "GraphLiteral::1428408713",
       "Source": "I'm sorry, Meeka...",
-      "Trans": {"SC":"抱歉, 米卡...","JA":""},
+      "Trans": {"SC":"抱歉, 咪卡...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23245,7 +23245,7 @@
     {
       "NamespaceHash": "GraphLiteral::2839535600",
       "Source": "I'm sorry, Meeka. I'm not.",
-      "Trans": {"SC":"很遗憾, 米卡。我不是。","JA":""},
+      "Trans": {"SC":"很遗憾, 咪卡。我不是。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23299,7 +23299,7 @@
     {
       "NamespaceHash": "GraphLiteral::858903325",
       "Source": "And it took... everything. But I know you have that same strength within you, Meeka.",
-      "Trans": {"SC":"而这牺牲的是...一切。但我知道你内心也拥有同样的力量, 米卡。","JA":""},
+      "Trans": {"SC":"而这牺牲的是...一切。但我知道你内心也拥有同样的力量, 咪卡。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23655,7 +23655,7 @@
     {
       "NamespaceHash": "GraphLiteral::22664315",
       "Source": "A desperate voice calls out to you from across the galaxy... long ago you helped her restored life to the extinct Earth, and now she needs your skills once more. She seeks the engram Codex, hidden in a lost kingdom at the end of the world: Arat Prime. Discover the dark secrets of this forlorn place as you master arcane skills, tame strange cryptofauna, cloaking yourself in powerful accursed gear. Survive its challenges & assemble an army of Thralls, as you seek to dethrone the Lost King and change the fate of the future!",
-      "Trans": {"SC":"一声绝望的呼喊自银河彼端向你传来...很久以前, 你曾帮助她让死寂的地球重获生机, 如今她再度需要你发挥专长。她追寻着印痕元码, 它被藏匿在世界尽头的失落之国 —— 阿拉特·源域。探索这片荒凉之地潜藏的黑暗秘密, 掌握玄奇的技艺, 驯服奇幻的异兽, 用强大的咒缚装备武装自己。在重重挑战中生存, 集结血仆大军, 废黜失落之王, 改写未来的命运!","JA":""},
+      "Trans": {"SC":"一声绝望的呼喊自银河彼端向你传来...很久以前, 你曾帮助她让死寂的地球重获生机, 如今她再度需要你发挥专长。她追寻着印痕元码, 它被藏匿在世界尽头的失落之国 —— 阿拉特·源域。探索这片荒芜之地的黑暗隐秘, 掌握玄奇的技艺, 驯服奇幻的异兽, 用强大的咒缚装备武装自己。在重重挑战中生存, 集结血仆大军, 废黜失落之王, 改写未来的命运!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //失落之地地图介绍
     },
@@ -32657,13 +32657,13 @@
     {
       "NamespaceHash": "Content::2050147210",
       "Source": "Jane 'ARK: The Animated Series' Costume Skin",
-      "Trans": {"SC":"简 方舟: 动画套装","JA":""},
+      "Trans": {"SC":"简妮 方舟: 动画套装","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2524899105",
       "Source": "This will override your shirt, pants, glove, and boot skins, acting as a full-body costume to make you look like Jane in 'ARK: The Animated Series'! Should always be set on Torso Armor.",
-      "Trans": {"SC":"使用这个皮肤来覆盖其它外观, 充当全身套装, 可装扮成 '方舟：动画' 里的简一样! 该皮肤装备在躯干或胸甲上。","JA":""},
+      "Trans": {"SC":"使用这个皮肤来覆盖其它外观, 充当全身套装, 可装扮成 '方舟：动画' 里的简妮一样! 该皮肤装备在躯干或胸甲上。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -35435,14 +35435,14 @@
     {
       "NamespaceHash": "CC3B3CD0481A22A449E22D9F47B28C3F",
       "Source": "Dear Jane,\r\nYou’re probably not gonna be seeing me around the Fourth of July picnic after all. Sure wish I’d gotten around to writing before now, cause I doubt there’s mail service home from wherever it is I’ve found myself. Some tropical island in god-knows-where.\r\nThat’s not me trying to keep secrets. I figure you must’ve heard by now that I never made it ashore in Normandy anyway. Nope, no Ratzis here. But just about everyone and everything else is trying its damnedest to kill me.\r\nGet this: there are living, breathing DINOSAURS on this island. I can guess what you must be thinking right about now: Bobby’s gone clear off his rocker. But I’m writing you hand-on-heart, swear-on-my-dear-Momma’s-grave -- somehow those things are still walking around here, just as alive as I am.\r\nMakes about as much sense as me finding this hand-made camera and typewriter just lying around on the beach. But maybe these picture postcards will prove I ain’t making any of this up. They do say seeing’s believing, right?\r\nAnyway, I'm still trying to work it all out myself. But I promise you, I'm gonna find a way home. Picnic or not, we'll make some fireworks together when I do.\r\nI'll write you again soon Janie, but just now I think I hear a dinner-saur clucking in the bushes.\r\n\r\nI’m so hungry -- BOB\r\n \nP.S. Tell Bill he still owes me that $20 from the big New Year’s poker game, and we ain’t waiting until 1945 to collect.",
-      "Trans": {"SC":"亲爱的简,\r\n\r\n独立日那天的野餐会上你大概是见不着我了。我后悔之前没抽时间写信给你, 因为我现在身处一个鬼知道在哪儿的热带海岛上, 真怀疑这里能不能寄信回家。\r\n\r\n我没有瞒着你的意思, 我猜你现在肯定已经听说了, 我根本没有在诺曼底登陆。嗯..是的, 这里连纳粹的鬼影都没有。但是这里的每个人和事都他娘的想弄死我。\r\n\r\n听我说: 这岛上竟然还有喘着气的, 活生生的恐龙。我猜你现在肯定在想: 鲍勃这家伙一定是疯了。但是我说的这些都是实话, 我向你拍胸脯保证, 甚至对着我的老娘在天之灵发誓, 那些玩意儿真的就在这里走来走去的。\r\n\r\n这事儿就跟我在海滩上找到的手工相机跟打字机一样荒唐。但也许这信里的照片可以证明我没有说谎。毕竟人们常说眼见为实, 对吧?\r\n\r\n总而言之, 我还在努力搞清楚这一切。但我向你保证, 我会回来的。不管还赶不赶得上独立日的野餐会, 等我回去了, 我们要一起放个烟花庆祝一下。\r\n\r\n小简, 很快我就会再给你写信的, 但现在我得走了, 我听见灌木丛里我可爱的小晚餐在咕咕叫了。\r\n\r\n我好饿啊 -- 鲍勃\r\n\r\nP.S. 告诉比尔, 新年扑克牌大赛那次他还欠我20块钱呢, 我们可不想等到1945年再去要。","JA":""},
+      "Trans": {"SC":"亲爱的简,\r\n\r\n独立日那天的野餐会上你大概是见不着我了。我后悔之前没抽时间写信给你, 因为我现在身处一个鬼知道在哪儿的热带海岛上, 真怀疑这里能不能寄信回家。\r\n\r\n我没有瞒着你的意思, 我猜你现在肯定已经听说了, 我根本没有在诺曼底登陆。嗯..是的, 这里连纳粹的鬼影都没有。但是这里的每个人和事都他娘的想弄死我。\r\n\r\n听我说: 这岛上竟然还有喘着气的, 活生生的恐龙。我猜你现在肯定在想: 鲍勃这家伙一定是疯了。但是我说的这些都是实话, 我向你拍胸脯保证, 甚至对着我的老娘在天之灵发誓, 那些玩意儿真的就在这里走来走去的。\r\n\r\n这事儿就跟我在海滩上找到的手工相机跟打字机一样荒唐。但也许这信里的照片可以证明我没有说谎。毕竟人们常说眼见为实, 对吧?\r\n\r\n总而言之, 我还在努力搞清楚这一切。但我向你保证, 我会回来的。不管还赶不赶得上独立日的野餐会, 等我回去了, 我们要一起放个烟花庆祝一下。\r\n\r\n简, 很快我就会再给你写信的, 但现在我得走了, 我听见灌木丛里我可爱的小晚餐在咕咕叫了。\r\n\r\n我好饿啊 -- 鲍勃\r\n\r\nP.S. 告诉比尔, 新年扑克牌大赛那次他还欠我20块钱呢, 我们可不想等到1945年再去要。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1688778425"}
       //Dear Jane 1笔记翻译
     },
     {
       "NamespaceHash": "GraphLiteral::1688778425",
       "Source": "Dear Jane,\r\nYou’re probably not gonna be seeing me around the Fourth of July picnic after all. Sure wish I’d gotten around to writing before now, cause I doubt there’s mail service home from wherever it is I’ve found myself. Some tropical island in god-knows-where.\r\nThat’s not me trying to keep secrets. I figure you must’ve heard by now that I never made it ashore in Normandy anyway. Nope, no Ratzis here. But just about everyone and everything else is trying its damnedest to kill me.\r\nGet this: there are living, breathing DINOSAURS on this island. I can guess what you must be thinking right about now: Bobby’s gone clear off his rocker. But I’m writing you hand-on-heart, swear-on-my-dear-Momma’s-grave -- somehow those things are still walking around here, just as alive as I am.\r\nMakes about as much sense as me finding this hand-made camera and typewriter just lying around on the beach. But maybe these picture postcards will prove I ain’t making any of this up. They do say seeing’s believing, right?\r\nAnyway, I'm still trying to work it all out myself. But I promise you, I'm gonna find a way home. Picnic or not, we'll make some fireworks together when I do.\r\nI'll write you again soon Janie, but just now I think I hear a dinner-saur clucking in the bushes.\r\n\r\nI’m so hungry -- BOB\r\n\t\nP.S. Tell Bill he still owes me that $20 from the big New Year’s poker game, and we ain’t waiting until 1945 to collect.",
-      "Trans": {"SC":"亲爱的简,\r\n\r\n独立日那天的野餐会上你大概是见不着我了。我后悔之前没抽时间写信给你, 因为我现在身处一个鬼知道在哪儿的热带海岛上, 真怀疑这里能不能寄信回家。\r\n\r\n我没有瞒着你的意思, 我猜你现在肯定已经听说了, 我根本没有在诺曼底登陆。嗯..是的, 这里连纳粹的鬼影都没有。但是这里的每个人和事都他娘的想弄死我。\r\n\r\n听我说: 这岛上竟然还有喘着气的, 活生生的恐龙。我猜你现在肯定在想: 鲍勃这家伙一定是疯了。但是我说的这些都是实话, 我向你拍胸脯保证, 甚至对着我的老娘在天之灵发誓, 那些玩意儿真的就在这里走来走去的。\r\n\r\n这事儿就跟我在海滩上找到的手工相机跟打字机一样荒唐。但也许这信里的照片可以证明我没有说谎。毕竟人们常说眼见为实, 对吧?\r\n\r\n总而言之, 我还在努力搞清楚这一切。但我向你保证, 我会回来的。不管还赶不赶得上独立日的野餐会, 等我回去了, 我们要一起放个烟花庆祝一下。\r\n\r\n小简, 很快我就会再给你写信的, 但现在我得走了, 我听见灌木丛里我可爱的小晚餐在咕咕叫了。\r\n\r\n我好饿啊 -- 鲍勃\r\n\r\nP.S. 告诉比尔, 新年扑克牌大赛那次他还欠我20块钱呢, 我们可不想等到1945年再去要。","JA":""},
+      "Trans": {"SC":"亲爱的简,\r\n\r\n独立日那天的野餐会上你大概是见不着我了。我后悔之前没抽时间写信给你, 因为我现在身处一个鬼知道在哪儿的热带海岛上, 真怀疑这里能不能寄信回家。\r\n\r\n我没有瞒着你的意思, 我猜你现在肯定已经听说了, 我根本没有在诺曼底登陆。嗯..是的, 这里连纳粹的鬼影都没有。但是这里的每个人和事都他娘的想弄死我。\r\n\r\n听我说: 这岛上竟然还有喘着气的, 活生生的恐龙。我猜你现在肯定在想: 鲍勃这家伙一定是疯了。但是我说的这些都是实话, 我向你拍胸脯保证, 甚至对着我的老娘在天之灵发誓, 那些玩意儿真的就在这里走来走去的。\r\n\r\n这事儿就跟我在海滩上找到的手工相机跟打字机一样荒唐。但也许这信里的照片可以证明我没有说谎。毕竟人们常说眼见为实, 对吧?\r\n\r\n总而言之, 我还在努力搞清楚这一切。但我向你保证, 我会回来的。不管还赶不赶得上独立日的野餐会, 等我回去了, 我们要一起放个烟花庆祝一下。\r\n\r\n简, 很快我就会再给你写信的, 但现在我得走了, 我听见灌木丛里我可爱的小晚餐在咕咕叫了。\r\n\r\n我好饿啊 -- 鲍勃\r\n\r\nP.S. 告诉比尔, 新年扑克牌大赛那次他还欠我20块钱呢, 我们可不想等到1945年再去要。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dear Jane 1笔记翻译
     },
@@ -35463,70 +35463,70 @@
     {
       "NamespaceHash": "E559468A4C41C74943084797FEA8A658",
       "Source": "Hey, Janie. Not sure why I’m just getting around to writing home now -- ain’t like I can mail you anything from underground. Maybe you heard -- I never made it to France. Though I guess you wouldn’t know that’s where I was supposed to be headed, before I woke up inside this monster spider nest.\r\nI tell you my skin was crawling, even before I found this home-made camera and typewriter hanging around in a cobweb. Don’t want to think about what happened to the owner, but at least it saves you having to make out my chicken-scratch handwriting.\r\nSeemed like I wandered around in the dark forever, before I managed to throw together a torch and shed some light on my situation. Right away, I wished I hadn’t -- just about everything creeping around down here is too damn big.\r\nIf bugs as long as my arm ain’t weird enough for you, I saw an honest-to-God sabertooth tiger prowling around! I don’t need to tell you I kept my distance from that mean old cat. Not sure how it didn’t smell me -- I must reek to high heaven by now.\r\nGot to sign off now. Something just blew out the cave wall so daylight's shining through! Looks like there’s a tropical jungle out there. I can even hear birds calling. Can’t wait to roast up a few of those, though I’m not looking forward to having to squeeze past an eight-legged carcass the size of a bus.\r\n\r\nBe glad you’re not here too -- BOB",
-      "Trans": {"SC":"嘿, 小简。不晓得为什么拖到现在才往家里写信 -- 毕竟也不是我想就能从地下给你寄东西的。或许你听说了 -- 我没去成法国。尽管我猜你应该不知道, 但至少在这个巨大蜘蛛巢穴里醒来之前, 我本应该是去那里的。\r\n\r\n我跟你说, 在我发现那个自制相机和打字机悬挂在蜘蛛网中之前, 我的鸡皮疙瘩就已经起来了, 我都不敢想象这些东西的主人遭遇了什么, 但至少这样你就不需要费力去辨认我那潦草的字迹了。\r\n\r\n感觉我在黑暗中漫无目的地徘徊了一万年, 直到我终于拼凑出一支火把, 给我目前的处境带来了一丝光明。可下一秒, 我就后悔了 -- 因为在这里爬动着的几乎所有东西都大得吓人。\r\n\r\n如果说像我手臂一样长的虫子你都觉得不足为奇的话, 那么我还看到了一只货真价实的刃齿虎在周边徘徊! 不用说, 我肯定跟那只凶悍的大猫保持足够多的距离。不确定它为什么没嗅到我。-- 想必我已经臭气熏天了。\r\n\r\n就先到这吧, 刚才有东西炸穿了洞穴的岩壁, 阳光正从洞口透进来! 看起来外面是一片热带丛林。我甚至能听到鸟儿的叫声。真想去烤几只来尝尝。虽然不太情愿, 但我还是不得不从这个长着八条腿且有公交车大小的尸骸边挤过。\r\n\r\n我很庆幸你没跟我一样在这里 -- 鲍勃","JA":""},
+      "Trans": {"SC":"嘿, 简妮。不晓得为什么拖到现在才往家里写信 -- 毕竟也不是我想就能从地下给你寄东西的。或许你听说了 -- 我没去成法国。尽管我猜你应该不知道, 但至少在这个巨大蜘蛛巢穴里醒来之前, 我本应该是去那里的。\r\n\r\n我跟你说, 在我发现那个自制相机和打字机悬挂在蜘蛛网中之前, 我的鸡皮疙瘩就已经起来了, 我都不敢想象这些东西的主人遭遇了什么, 但至少这样你就不需要费力去辨认我那潦草的字迹了。\r\n\r\n感觉我在黑暗中漫无目的地徘徊了一万年, 直到我终于拼凑出一支火把, 给我目前的处境带来了一丝光明。可下一秒, 我就后悔了 -- 因为在这里爬动着的几乎所有东西都大得吓人。\r\n\r\n如果说像我手臂一样长的虫子你都觉得不足为奇的话, 那么我还看到了一只货真价实的刃齿虎在周边徘徊! 不用说, 我肯定跟那只凶悍的大猫保持足够多的距离。不确定它为什么没嗅到我。-- 想必我已经臭气熏天了。\r\n\r\n就先到这吧, 刚才有东西炸穿了洞穴的岩壁, 阳光正从洞口透进来! 看起来外面是一片热带丛林。我甚至能听到鸟儿的叫声。真想去烤几只来尝尝。虽然不太情愿, 但我还是不得不从这个长着八条腿且有公交车大小的尸骸边挤过。\r\n\r\n我很庆幸你没跟我一样在这里 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3458487862"}
       //Dear Jane 3笔记翻译
     },
     {
       "NamespaceHash": "GraphLiteral::3458487862",
       "Source": "Hey, Janie. Not sure why I’m just getting around to writing home now -- ain’t like I can mail you anything from underground. Maybe you heard -- I never made it to France. Though I guess you wouldn’t know that’s where I was supposed to be headed, before I woke up inside this monster spider nest.\r\nI tell you my skin was crawling, even before I found this home-made camera and typewriter hanging around in a cobweb. Don’t want to think about what happened to the owner, but at least it saves you having to make out my chicken-scratch handwriting.\r\nSeemed like I wandered around in the dark forever, before I managed to throw together a torch and shed some light on my situation. Right away, I wished I hadn’t -- just about everything creeping around down here is too damn big.\r\nIf bugs as long as my arm ain’t weird enough for you, I saw an honest-to-God sabertooth tiger prowling around! I don’t need to tell you I kept my distance from that mean old cat. Not sure how it didn’t smell me -- I must reek to high heaven by now.\r\nGot to sign off now. Something just blew out the cave wall so daylight's shining through! Looks like there’s a tropical jungle out there. I can even hear birds calling. Can’t wait to roast up a few of those, though I’m not looking forward to having to squeeze past an eight-legged carcass the size of a bus.\r\n\r\nBe glad you’re not here too -- BOB",
-      "Trans": {"SC":"嘿, 小简。不晓得为什么拖到现在才往家里写信 -- 毕竟也不是我想就能从地下给你寄东西的。或许你听说了 -- 我没去成法国。尽管我猜你应该不知道, 但至少在这个巨大蜘蛛巢穴里醒来之前, 我本应该是去那里的。\r\n\r\n我跟你说, 在我发现那个自制相机和打字机悬挂在蜘蛛网中之前, 我的鸡皮疙瘩就已经起来了, 我都不敢想象这些东西的主人遭遇了什么, 但至少这样你就不需要费力去辨认我那潦草的字迹了。\r\n\r\n感觉我在黑暗中漫无目的地徘徊了一万年, 直到我终于拼凑出一支火把, 给我目前的处境带来了一丝光明。可下一秒, 我就后悔了 -- 因为在这里爬动着的几乎所有东西都大得吓人。\r\n\r\n如果说像我手臂一样长的虫子你都觉得不足为奇的话, 那么我还看到了一只货真价实的刃齿虎在周边徘徊! 不用说, 我肯定跟那只凶悍的大猫保持足够多的距离。不确定它为什么没嗅到我。-- 想必我已经臭气熏天了。\r\n\r\n就先到这吧, 刚才有东西炸穿了洞穴的岩壁, 阳光正从洞口透进来! 看起来外面是一片热带丛林。我甚至能听到鸟儿的叫声。真想去烤几只来尝尝。虽然不太情愿, 但我还是不得不从这个长着八条腿且有公交车大小的尸骸边挤过。\r\n\r\n我很庆幸你没跟我一样在这里 -- 鲍勃","JA":""},
+      "Trans": {"SC":"嘿, 简妮。不晓得为什么拖到现在才往家里写信 -- 毕竟也不是我想就能从地下给你寄东西的。或许你听说了 -- 我没去成法国。尽管我猜你应该不知道, 但至少在这个巨大蜘蛛巢穴里醒来之前, 我本应该是去那里的。\r\n\r\n我跟你说, 在我发现那个自制相机和打字机悬挂在蜘蛛网中之前, 我的鸡皮疙瘩就已经起来了, 我都不敢想象这些东西的主人遭遇了什么, 但至少这样你就不需要费力去辨认我那潦草的字迹了。\r\n\r\n感觉我在黑暗中漫无目的地徘徊了一万年, 直到我终于拼凑出一支火把, 给我目前的处境带来了一丝光明。可下一秒, 我就后悔了 -- 因为在这里爬动着的几乎所有东西都大得吓人。\r\n\r\n如果说像我手臂一样长的虫子你都觉得不足为奇的话, 那么我还看到了一只货真价实的刃齿虎在周边徘徊! 不用说, 我肯定跟那只凶悍的大猫保持足够多的距离。不确定它为什么没嗅到我。-- 想必我已经臭气熏天了。\r\n\r\n就先到这吧, 刚才有东西炸穿了洞穴的岩壁, 阳光正从洞口透进来! 看起来外面是一片热带丛林。我甚至能听到鸟儿的叫声。真想去烤几只来尝尝。虽然不太情愿, 但我还是不得不从这个长着八条腿且有公交车大小的尸骸边挤过。\r\n\r\n我很庆幸你没跟我一样在这里 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dear Jane 3笔记翻译
     },
     {
       "NamespaceHash": "F12CA6B04EE3E39017D7969A9FB37734",
       "Source": "Janie, you wouldn’t believe what I’ve been through since I crawled out of that nice, safe cave. Feel pretty dumb for giving up a perfectly good hidey-hole over a few bugs. I traded cool peace and quiet for a steaming forest full of freaks.\r\nI’m talking actual, real life dinosaurs, stomping and flapping around as if they didn’t all die out a zillion years ago. Did the Nazis fire some kind of time ray at us? Cause if I’m lost in the past, I got no idea how to find my way home to you.\r\nClimbing up that mountain didn’t help me figure anything out either. Dinos from here to the sea, with no sign of civilization other than some shiny floaty towers that don’t look all that prehistorical. I don’t wanna think about those things too hard.\r\nLeast I had this camera along so I could show you what I’ve been running from. Sure I’m hungry, but I wasn’t about to go anywhere near those giant nests, eggs or no. Still, something riled up those big bat-birds enough to chase me back down the mountain and into the woods.\r\nBarely survived getting dive-bombed long enough to get bushwhacked by some goons in armor, riding on rats big as horses. They say they’re taking me to some kind of prison camp upriver. Can’t say I like the sound of that.\r\n\r\nIf it ain’t one thing, it’s another -- BOB",
-      "Trans": {"SC":"小简, 你一定会对我爬出这舒适且安全的洞穴之后又经历了些什么感到难以置信。就因为几只虫子而放弃一个完美的藏身之处, 我简直蠢爆了。我拿荫凉和安宁换来了个满是怪物的闷热丛林。\r\n\r\n我是指实实在在的, 活生生的恐龙, 它们踩踏着, 扑腾着, 就好像几亿年前它们根本就没有灭绝一样。难道纳粹朝我们发射了某种时光射线? 如果我真的被困在了过去, 我就不知道该怎么回去, 回到你身边了。\r\n\r\n爬上那座山也没有帮我厘清任何头绪。从这里到海边全是恐龙, 除了一些看起来不太像是史前时期的闪光漂浮塔外, 没有一点文明的迹象。我真不想太深入地思考这些事情。\r\n\r\n还好我带了这台相机, 所以我才能向你展示我在逃离什么。我着实饿了, 但我也绝不靠近那些巨大的巢穴, 不管有没有蛋在里面。尽管如此, 还是有什么东西激怒了那些蝙蝠一样的鸟, 以至于它们追着我下山跑进了树林里。\r\n\r\n我勉强躲过它们的俯冲式攻击, 但是没过多久就被一些武装暴徒袭击了, 他们骑着马一样大的老鼠。他们说要把我带去河流上游的集中营里去。这听起来实在不太妙。\r\n\r\n真是一波未平, 一波又起 -- 鲍勃","JA":""},
+      "Trans": {"SC":"简妮, 你一定会对我爬出这舒适且安全的洞穴之后又经历了些什么感到难以置信。就因为几只虫子而放弃一个完美的藏身之处, 我简直蠢爆了。我拿荫凉和安宁换来了个满是怪物的闷热丛林。\r\n\r\n我是指实实在在的, 活生生的恐龙, 它们踩踏着, 扑腾着, 就好像几亿年前它们根本就没有灭绝一样。难道纳粹朝我们发射了某种时光射线? 如果我真的被困在了过去, 我就不知道该怎么回去, 回到你身边了。\r\n\r\n爬上那座山也没有帮我厘清任何头绪。从这里到海边全是恐龙, 除了一些看起来不太像是史前时期的闪光漂浮塔外, 没有一点文明的迹象。我真不想太深入地思考这些事情。\r\n\r\n还好我带了这台相机, 所以我才能向你展示我在逃离什么。我着实饿了, 但我也绝不靠近那些巨大的巢穴, 不管有没有蛋在里面。尽管如此, 还是有什么东西激怒了那些蝙蝠一样的鸟, 以至于它们追着我下山跑进了树林里。\r\n\r\n我勉强躲过它们的俯冲式攻击, 但是没过多久就被一些武装暴徒袭击了, 他们骑着马一样大的老鼠。他们说要把我带去河流上游的集中营里去。这听起来实在不太妙。\r\n\r\n真是一波未平, 一波又起 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2044729805"}
       //Dear Jane 4笔记翻译
     },
     {
       "NamespaceHash": "GraphLiteral::2044729805",
       "Source": "Janie, you wouldn’t believe what I’ve been through since I crawled out of that nice, safe cave. Feel pretty dumb for giving up a perfectly good hidey-hole over a few bugs. I traded cool peace and quiet for a steaming forest full of freaks.\r\nI’m talking actual, real life dinosaurs, stomping and flapping around as if they didn’t all die out a zillion years ago. Did the Nazis fire some kind of time ray at us? Cause if I’m lost in the past, I got no idea how to find my way home to you.\r\nClimbing up that mountain didn’t help me figure anything out either. Dinos from here to the sea, with no sign of civilization other than some shiny floaty towers that don’t look all that prehistorical. I don’t wanna think about those things too hard.\r\nLeast I had this camera along so I could show you what I’ve been running from. Sure I’m hungry, but I wasn’t about to go anywhere near those giant nests, eggs or no. Still, something riled up those big bat-birds enough to chase me back down the mountain and into the woods.\r\nBarely survived getting dive-bombed long enough to get bushwhacked by some goons in armor, riding on rats big as horses. They say they’re taking me to some kind of prison camp upriver. Can’t say I like the sound of that.\r\n\r\nIf it ain’t one thing, it’s another -- BOB",
-      "Trans": {"SC":"小简, 你一定会对我爬出这舒适且安全的洞穴之后又经历了些什么感到难以置信。就因为几只虫子而放弃一个完美的藏身之处, 我简直蠢爆了。我拿荫凉和安宁换来了个满是怪物的闷热丛林。\r\n\r\n我是指实实在在的, 活生生的恐龙, 它们踩踏着, 扑腾着, 就好像几亿年前它们根本就没有灭绝一样。难道纳粹朝我们发射了某种时光射线? 如果我真的被困在了过去, 我就不知道该怎么回去, 回到你身边了。\r\n\r\n爬上那座山也没有帮我厘清任何头绪。从这里到海边全是恐龙, 除了一些看起来不太像是史前时期的闪光漂浮塔外, 没有一点文明的迹象。我真不想太深入地思考这些事情。\r\n\r\n还好我带了这台相机, 所以我才能向你展示我在逃离什么。我着实饿了, 但我也绝不靠近那些巨大的巢穴, 不管有没有蛋在里面。尽管如此, 还是有什么东西激怒了那些蝙蝠一样的鸟, 以至于它们追着我下山跑进了树林里。\r\n\r\n我勉强躲过它们的俯冲式攻击, 但是没过多久就被一些武装暴徒袭击了, 他们骑着马一样大的老鼠。他们说要把我带去河流上游的集中营里去。这听起来实在不太妙。\r\n\r\n真是一波未平, 一波又起 -- 鲍勃","JA":""},
+      "Trans": {"SC":"简妮, 你一定会对我爬出这舒适且安全的洞穴之后又经历了些什么感到难以置信。就因为几只虫子而放弃一个完美的藏身之处, 我简直蠢爆了。我拿荫凉和安宁换来了个满是怪物的闷热丛林。\r\n\r\n我是指实实在在的, 活生生的恐龙, 它们踩踏着, 扑腾着, 就好像几亿年前它们根本就没有灭绝一样。难道纳粹朝我们发射了某种时光射线? 如果我真的被困在了过去, 我就不知道该怎么回去, 回到你身边了。\r\n\r\n爬上那座山也没有帮我厘清任何头绪。从这里到海边全是恐龙, 除了一些看起来不太像是史前时期的闪光漂浮塔外, 没有一点文明的迹象。我真不想太深入地思考这些事情。\r\n\r\n还好我带了这台相机, 所以我才能向你展示我在逃离什么。我着实饿了, 但我也绝不靠近那些巨大的巢穴, 不管有没有蛋在里面。尽管如此, 还是有什么东西激怒了那些蝙蝠一样的鸟, 以至于它们追着我下山跑进了树林里。\r\n\r\n我勉强躲过它们的俯冲式攻击, 但是没过多久就被一些武装暴徒袭击了, 他们骑着马一样大的老鼠。他们说要把我带去河流上游的集中营里去。这听起来实在不太妙。\r\n\r\n真是一波未平, 一波又起 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dear Jane 4笔记翻译
     },
     {
       "NamespaceHash": "95AA36C14F11BF5F3F7F609E1664EA45",
       "Source": "Janie, I’m free! Didn’t think I’d ever be able to write you again, after those rat-riders put me to work in their mine. They confiscated my gear at the gate and tried to get me to wear a secondhand prison outfit. Those rags stunk like someone had just died in em, so I said thanks but no thanks. I’d rather work in my altogether.\r\nI was sorry real quick I turned down any way to cover up, after I got put to work under that hot sun. By the end of the first day I had blisters on my blisters. And after sundown it was like out of the frying pan and into the freezer.\r\nAll the damn mist coming off the river clung to everything. And they locked us up deep in the dark and cold. And it wasn’t like we got blankets or turndown service there. No lullabies or pillows with mints on em.\r\nBelieve it or not, this little girl was the one who started our jailbreak. She caught an armload of monster centipedes that we had crawling all over to help her break us out. Turns out their spit can melt right through iron chains!\r\nWas planning to do more to help before I got knocked on my ass in a stampede of those big cart-pulling armadillo things. By the time I finally came to again, it was all over and the place was deserted. Can’t blame everyone for wanting to get out while the getting’s good.\r\n\r\nBack into the woods, I guess -- BOB",
-      "Trans": {"SC":"小简, 我自由了! 在被那些骑老鼠的家伙扔到矿场给他们干活之后, 真没想到还能再次给你写信。他们在大门前没收了我的装备, 并且试图让我穿上二手的囚服。\r\n那些破布闻起来就像有人刚死在里面一样, 所以我谢绝了。我宁可光着身子干活。\r\n\r\n开始在如此炽热的阳光下劳作后, 我很快就对之前立马拒绝了任何遮蔽物而感到后悔了。第一天快结束的时候, 我被晒得体无完肤。日落之后, 这滋味, 简直可以用水深火热来形容。\r\n\r\n那该死的雾气从河边升起, 笼罩了这里的一切。他们把我们锁在又黑又冷的深处。这里也不像是能得到毛毯或床铺的地方。没有摇篮曲, 更没有放了薄荷糖的枕头。\r\n\r\n不管你信不信, 这个小女孩是我们越狱的开路先锋。她抓了一把在周围爬行的怪物蜈蚣来帮助我们逃脱。原来它们的唾液可以直接融断铁链!\r\n\r\n在我被那拖车一样大的犰狳撞倒在地之前, 我本计划做更多的事情来帮助大家, 但是当我再次醒来时, 一切都结束了, 那地方已经空无一人。人人都想着趁乱逃离, 这也怪不得别人。\r\n\r\n我猜, 又得回到丛林了 -- 鲍勃","JA":""},
+      "Trans": {"SC":"简妮, 我自由了! 在被那些骑老鼠的家伙扔到矿坑给他们干活之后, 真没想到还能再次给你写信。他们在大门前没收了我的装备, 并且试图让我穿上二手的囚服。\r\n那些破布闻起来就像有人刚死在里面一样, 所以我谢绝了。我宁可光着身子干活。\r\n\r\n开始在如此炽热的阳光下劳作后, 我很快就对之前立马拒绝了任何遮蔽物而感到后悔了。第一天快结束的时候, 我被晒得体无完肤。日落之后, 这滋味, 简直可以用水深火热来形容。\r\n\r\n那该死的雾气从河边升起, 笼罩了这里的一切。他们把我们锁在又黑又冷的深处。这里也不像是能得到毛毯或床铺的地方。没有摇篮曲, 更没有放了薄荷糖的枕头。\r\n\r\n不管你信不信, 这个小女孩是我们越狱的开路先锋。她抓了一把在周围爬行的怪物蜈蚣来帮助我们逃脱。原来它们的唾液可以直接融化铁链!\r\n\r\n在我被那拖车一样大的犰狳撞倒在地之前, 我本计划做更多的事情来帮助大家, 但是当我再次醒来时, 一切都结束了, 那地方已经空无一人。人人都想着趁乱逃离, 这也怪不得别人。\r\n\r\n我猜, 又得回到丛林了 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1142152334"}
       //Dear Jane 5笔记翻译
     },
     {
       "NamespaceHash": "GraphLiteral::1142152334",
       "Source": "Janie, I’m free! Didn’t think I’d ever be able to write you again, after those rat-riders put me to work in their mine. They confiscated my gear at the gate and tried to get me to wear a secondhand prison outfit. Those rags stunk like someone had just died in em, so I said thanks but no thanks. I’d rather work in my altogether.\r\nI was sorry real quick I turned down any way to cover up, after I got put to work under that hot sun. By the end of the first day I had blisters on my blisters. And after sundown it was like out of the frying pan and into the freezer.\r\nAll the damn mist coming off the river clung to everything. And they locked us up deep in the dark and cold. And it wasn’t like we got blankets or turndown service there. No lullabies or pillows with mints on em.\r\nBelieve it or not, this little girl was the one who started our jailbreak. She caught an armload of monster centipedes that we had crawling all over to help her break us out. Turns out their spit can melt right through iron chains!\r\nWas planning to do more to help before I got knocked on my ass in a stampede of those big cart-pulling armadillo things. By the time I finally came to again, it was all over and the place was deserted. Can’t blame everyone for wanting to get out while the getting’s good.\r\n\r\nBack into the woods, I guess -- BOB",
-      "Trans": {"SC":"小简, 我自由了! 在被那些骑老鼠的家伙扔到矿场给他们干活之后, 真没想到还能再次给你写信。他们在大门前没收了我的装备, 并且试图让我穿上二手的囚服。\r\n那些破布闻起来就像有人刚死在里面一样, 所以我谢绝了。我宁可光着身子干活。\r\n\r\n开始在如此炽热的阳光下劳作后, 我很快就对之前立马拒绝了任何遮蔽物而感到后悔了。第一天快结束的时候, 我被晒得体无完肤。日落之后, 这滋味, 简直可以用水深火热来形容。\r\n\r\n那该死的雾气从河边升起, 笼罩了这里的一切。他们把我们锁在又黑又冷的深处。这里也不像是能得到毛毯或床铺的地方。没有摇篮曲, 更没有放了薄荷糖的枕头。\r\n\r\n不管你信不信, 这个小女孩是我们越狱的开路先锋。她抓了一把在周围爬行的怪物蜈蚣来帮助我们逃脱。原来它们的唾液可以直接融断铁链!\r\n\r\n在我被那拖车一样大的犰狳撞倒在地之前, 我本计划做更多的事情来帮助大家, 但是当我再次醒来时, 一切都结束了, 那地方已经空无一人。人人都想着趁乱逃离, 这也怪不得别人。\r\n\r\n我猜, 又得回到丛林了 -- 鲍勃","JA":""},
+      "Trans": {"SC":"简妮, 我自由了! 在被那些骑老鼠的家伙扔到矿坑给他们干活之后, 真没想到还能再次给你写信。他们在大门前没收了我的装备, 并且试图让我穿上二手的囚服。\r\n那些破布闻起来就像有人刚死在里面一样, 所以我谢绝了。我宁可光着身子干活。\r\n\r\n开始在如此炽热的阳光下劳作后, 我很快就对之前立马拒绝了任何遮蔽物而感到后悔了。第一天快结束的时候, 我被晒得体无完肤。日落之后, 这滋味, 简直可以用水深火热来形容。\r\n\r\n那该死的雾气从河边升起, 笼罩了这里的一切。他们把我们锁在又黑又冷的深处。这里也不像是能得到毛毯或床铺的地方。没有摇篮曲, 更没有放了薄荷糖的枕头。\r\n\r\n不管你信不信, 这个小女孩是我们越狱的开路先锋。她抓了一把在周围爬行的怪物蜈蚣来帮助我们逃脱。原来它们的唾液可以直接融化铁链!\r\n\r\n在我被那拖车一样大的犰狳撞倒在地之前, 我本计划做更多的事情来帮助大家, 但是当我再次醒来时, 一切都结束了, 那地方已经空无一人。人人都想着趁乱逃离, 这也怪不得别人。\r\n\r\n我猜, 又得回到丛林了 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dear Jane 5笔记翻译
     },
     {
       "NamespaceHash": "225EA6EE43A502C73B8FC4B0DA708215",
       "Source": "I swear I can’t seem to catch a break, Janie.\r\nAlmost threw in with some folks building Swiss Family Robinson-style houses up in the trees. Getting above it all sure seemed like a great idea to me. But then I couldn’t help noticing this outfit was gearing up for a fight.\r\nIt was like boot camp all over again, except I don’t remember any Chinese lady sergeants there drilling recruits with pig-stickers. Besides, I wasn’t keen about enlisting in a brand-new war so soon after I’d gone AWOL from another.\r\nSo I struck out on my own, but not too far. Thought there might be something to that safety in numbers idea, in case those guys from the mine came back to make an example of us escapees. I spent a few days building a nice tree fort all my own, off to one side of Toothpick Terraces.\r\nNo sooner did I have my place all set up just the way I liked, when the bad guys showed up. I knew we were in for it when I saw they had artillery mounted on dinosaurs. And sure enough, they started raining hell on us! All that work for nothing...\r\nIn the middle of the mess I managed to spot the kid from the mine again, the one who broke us out. You’d think I would have learned by now to stick with her, but no. I heard her yelling to run into the swamps, and decided I might do better going the opposite way.\r\n\r\nAlready thinking I might’ve screwed up again -- BOB",
-      "Trans": {"SC":"命运真是爱跟我开玩笑啊, 小简。\r\n\r\n我差点就加入一个原生态的树屋部落了, 我看他们氛围融洽, 团结一心。对我而言, 跟着他们归隐山林倒像是个不错的主意。但是后来, 我留意到他们的服饰好像是随时为战争而做准备的。\r\n\r\n这感觉就好像是再次回到训练营一样, 只不过当时没有中国女军士用野猪矛在操练新兵。此外, 我刚从一场战争中脱身, 就更没兴趣卷入另一场了。\r\n\r\n所以我选择了单独行动, 其实也没走太远。因为我想到跟着大部队待在一起还是会更安全一些, 毕竟矿场那伙人可不会轻易地就放过我们这些逃犯。于是我花了几天时间, 在那层层叠叠的树屋平台一侧建造了一个独属于我的树屋, 它可太棒了。\r\n\r\n就在我按自己的喜好把这地方布置完的时候, 那些恶棍就出现了。当我看到他们在恐龙背上安装了火炮的时候, 我就知道我们要有大麻烦了。果不其然, 炮弹如雨点般向我们袭来! 我之前所做的一切都付之东流了...\r\n\r\n混乱中我再次发现了在矿场中解救我们的那个孩子。你可能以为我会跟着她, 但并没有。我听见她大声呼喊 -- 往沼泽里跑。这次我觉得反其道而行之可能会更好。\r\n\r\n我想我可能又要搞砸了 -- 鲍勃","JA":""},
+      "Trans": {"SC":"命运真是爱跟我开玩笑啊, 简妮。\r\n\r\n我差点就加入一个原生态的树屋部落了, 我看他们氛围融洽, 团结一心。对我而言, 跟着他们归隐山林倒像是个不错的主意。但是后来, 我留意到他们的服饰好像是随时为战争而做准备的。\r\n\r\n这感觉就好像是再次回到训练营一样, 只不过我当时没见过中国女军士用野猪矛在操练新兵。此外, 我刚从一场战争中脱身, 就更没兴趣卷入另一场了。\r\n\r\n所以我选择了单独行动, 其实也没走太远。因为我想到跟着大部队待在一起还是会更安全一些, 毕竟矿坑那伙人可不会轻易地就放过我们这些逃犯。于是我花了几天时间, 在那层层叠叠的树屋平台一侧建造了一个独属于我的树屋, 它可太棒了。\r\n\r\n就在我按自己的喜好把这地方布置完的时候, 那些恶棍就出现了。当我看到他们在恐龙背上安装了火炮的时候, 我就知道我们要有大麻烦了。果不其然, 炮弹如雨点般向我们袭来! 我之前所做的一切都付之东流了...\r\n\r\n混乱中我再次发现了在矿坑中解救我们的那个孩子。你可能以为我会跟着她, 但并没有。我听见她大声呼喊 -- 往沼泽里跑。这次我觉得反其道而行之可能会更好。\r\n\r\n我想我可能又要搞砸了 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2341089138"}
       //Dear Jane 6笔记翻译
     },
     {
       "NamespaceHash": "GraphLiteral::2341089138",
       "Source": "I swear I can’t seem to catch a break, Janie.\r\nAlmost threw in with some folks building Swiss Family Robinson-style houses up in the trees. Getting above it all sure seemed like a great idea to me. But then I couldn’t help noticing this outfit was gearing up for a fight.\r\nIt was like boot camp all over again, except I don’t remember any Chinese lady sergeants there drilling recruits with pig-stickers. Besides, I wasn’t keen about enlisting in a brand-new war so soon after I’d gone AWOL from another.\r\nSo I struck out on my own, but not too far. Thought there might be something to that safety in numbers idea, in case those guys from the mine came back to make an example of us escapees. I spent a few days building a nice tree fort all my own, off to one side of Toothpick Terraces.\r\nNo sooner did I have my place all set up just the way I liked, when the bad guys showed up. I knew we were in for it when I saw they had artillery mounted on dinosaurs. And sure enough, they started raining hell on us! All that work for nothing...\r\nIn the middle of the mess I managed to spot the kid from the mine again, the one who broke us out. You’d think I would have learned by now to stick with her, but no. I heard her yelling to run into the swamps, and decided I might do better going the opposite way.\r\n\r\nAlready thinking I might’ve screwed up again -- BOB",
-      "Trans": {"SC":"命运真是爱跟我开玩笑啊, 小简。\r\n\r\n我差点就加入一个原生态的树屋部落了, 我看他们氛围融洽, 团结一心。对我而言, 跟着他们归隐山林倒像是个不错的主意。但是后来, 我留意到他们的服饰好像是随时为战争而做准备的。\r\n\r\n这感觉就好像是再次回到训练营一样, 只不过当时没有中国女军士用野猪矛在操练新兵。此外, 我刚从一场战争中脱身, 就更没兴趣卷入另一场了。\r\n\r\n所以我选择了单独行动, 其实也没走太远。因为我想到跟着大部队待在一起还是会更安全一些, 毕竟矿场那伙人可不会轻易地就放过我们这些逃犯。于是我花了几天时间, 在那层层叠叠的树屋平台一侧建造了一个独属于我的树屋, 它可太棒了。\r\n\r\n就在我按自己的喜好把这地方布置完的时候, 那些恶棍就出现了。当我看到他们在恐龙背上安装了火炮的时候, 我就知道我们要有大麻烦了。果不其然, 炮弹如雨点般向我们袭来! 我之前所做的一切都付之东流了...\r\n\r\n混乱中我再次发现了在矿场中解救我们的那个孩子。你可能以为我会跟着她, 但并没有。我听见她大声呼喊 -- 往沼泽里跑。这次我觉得反其道而行之可能会更好。\r\n\r\n我想我可能又要搞砸了 -- 鲍勃","JA":""},
+      "Trans": {"SC":"命运真是爱跟我开玩笑啊, 简妮。\r\n\r\n我差点就加入一个原生态的树屋部落了, 我看他们氛围融洽, 团结一心。对我而言, 跟着他们归隐山林倒像是个不错的主意。但是后来, 我留意到他们的服饰好像是随时为战争而做准备的。\r\n\r\n这感觉就好像是再次回到训练营一样, 只不过我当时没见过中国女军士用野猪矛在操练新兵。此外, 我刚从一场战争中脱身, 就更没兴趣卷入另一场了。\r\n\r\n所以我选择了单独行动, 其实也没走太远。因为我想到跟着大部队待在一起还是会更安全一些, 毕竟矿坑那伙人可不会轻易地就放过我们这些逃犯。于是我花了几天时间, 在那层层叠叠的树屋平台一侧建造了一个独属于我的树屋, 它可太棒了。\r\n\r\n就在我按自己的喜好把这地方布置完的时候, 那些恶棍就出现了。当我看到他们在恐龙背上安装了火炮的时候, 我就知道我们要有大麻烦了。果不其然, 炮弹如雨点般向我们袭来! 我之前所做的一切都付之东流了...\r\n\r\n混乱中我再次发现了在矿坑中解救我们的那个孩子。你可能以为我会跟着她, 但并没有。我听见她大声呼喊 -- 往沼泽里跑。这次我觉得反其道而行之可能会更好。\r\n\r\n我想我可能又要搞砸了 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dear Jane 6笔记翻译
     },
     {
       "NamespaceHash": "5799E52C48C8E4AC7BE7C4A95BD16912",
       "Source": "Dear Janie, I definitely made a big mistake running away from everyone else from Treehouse Company. And that’s not just cause I ended up running straight back to where the bad guys came from. I’m also realizing how much harder it is to get by out here on my own.\r\nI’ve been stuck behind enemy lines, trying to survive off whatever scraps I can scrounge outside that stone fortress of theirs. After a day or so of watching some of the local thieving rat-lizards sneak in and out of the fort like it was nothing, I thought I’d rob them instead. Better to let the critters take all the risk, I figured.\r\nI was all set to spear one when a bomb went off inside the fortress! The blast wave knocked me right off my feet, and that whiskery little bastard ran off with his haul of carrots before I even could think of going after him.\r\nDidn’t have much time for bellyaching before I heard a roar like none other, that sent a shiver right down my spine.b Couldn’t tell what the hell was going down in there, but I know a fight to the death when I hear one.\r\nI was all set to play soldier one last time and charge into battle, but something exploded inside the fort and collapsed my only way in. I just hope that any good guys in that scrap were OK.\r\nFor now, I think I’m gonna take a long breather, and stop getting involved in one snafu after another. ‘Sides, I think I see that thieving rat-lizard again, and it looks like it’s carrying an... axe?\r\nSomething mighty familiar about that axe...\r\n\r\nYours forever -- BOB",
-      "Trans": {"SC":"亲爱的小简, 远离树屋部落的人逃难真的是大错特错。我不但直愣愣地跑向了那伙恶棍前进的方向, 而且我后知后觉地发现独自一人想要活着离开这儿有多难。\r\n\r\n我被困在敌人战线的后方, 试图在他们的要塞外围翻找一些残汤剩饭来充饥。经过一天左右的观察, 我发现一些当地爱偷东西的鼠蜥如入无人之境般在要塞中进进出出, 我想着, 去抢它们带出来的东西好像也不错, 最好是让那些小家伙替我承担所有风险。\r\n\r\n就当我准备用长矛刺向其中一只时, 要塞里边突然发生了爆炸! 冲击波直接把我震倒在地, 我还没来得及想到要追上去, 那长满须子的小混蛋就带着它偷来的胡萝卜逃之夭夭了。\r\n\r\n还没来得及抱怨, 我就先听到一声前所未闻的咆哮, 那声音让我脊背发凉。我不清楚里面发生了什么事, 但那声咆哮让我明白, 这肯定是一场恶战。\r\n\r\n我本想最后一次作为一个士兵冲入战场, 但是要塞里的某些东西发生了爆炸, 堵住了我唯一可以进去的路。我现在只能盼着这场混战中的好人都没什么大碍。\r\n\r\n现在, 我要打算好好休息一下, 不想再卷入一个又一个的麻烦。呃..我想我又看到了那个偷东西的鼠蜥了, 它看起来好像带了一把...斧头?\r\n\r\n那把斧头看起来有点眼熟...\r\n\r\n永远爱你 -- 鲍勃","JA":""},
+      "Trans": {"SC":"亲爱的简妮, 远离树屋部落的人逃难真的是大错特错。我不但直愣愣地跑向了那伙恶棍前进的方向, 而且我后知后觉地发现独自一人想要活着离开这儿有多难。\r\n\r\n我被困在敌人战线的后方, 试图在他们的要塞外围翻找一些残汤剩饭来充饥。经过一天左右的观察, 我发现一些当地爱偷东西的鼠蜥如入无人之境般在要塞中进进出出, 我想着, 去抢它们带出来的东西好像也不错, 最好是让那些小家伙替我承担所有风险。\r\n\r\n就当我准备用长矛刺向其中一只时, 要塞里边突然发生了爆炸! 冲击波直接把我震倒在地, 我还没来得及想到要追上去, 那长满须子的小混蛋就带着它偷来的胡萝卜逃之夭夭了。\r\n\r\n还没来得及抱怨, 我就先听到一声前所未闻的咆哮, 那声音让我脊背发凉。我不清楚里面发生了什么事, 但那声咆哮让我明白, 这肯定是一场恶战。\r\n\r\n我本想最后一次作为一个士兵冲入战场, 但是要塞里的某些东西发生了爆炸, 堵住了我唯一可以进去的路。我现在只能盼着这场混战中的好人都没什么大碍。\r\n\r\n现在, 我要打算好好休息一下, 不想再卷入一个又一个的麻烦。呃..我想我又看到了那个偷东西的鼠蜥了, 它看起来好像带了一把...斧头?\r\n\r\n那把斧头看起来有点眼熟...\r\n\r\n永远爱你 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"892247345"}
       //Dear Jane 7笔记翻译
     },
     {
       "NamespaceHash": "GraphLiteral::892247345",
       "Source": "Dear Janie, I definitely made a big mistake running away from everyone else from Treehouse Company. And that’s not just cause I ended up running straight back to where the bad guys came from. I’m also realizing how much harder it is to get by out here on my own.\r\nI’ve been stuck behind enemy lines, trying to survive off whatever scraps I can scrounge outside that stone fortress of theirs. After a day or so of watching some of the local thieving rat-lizards sneak in and out of the fort like it was nothing, I thought I’d rob them instead. Better to let the critters take all the risk, I figured.\r\nI was all set to spear one when a bomb went off inside the fortress! The blast wave knocked me right off my feet, and that whiskery little bastard ran off with his haul of carrots before I even could think of going after him.\r\nDidn’t have much time for bellyaching before I heard a roar like none other, that sent a shiver right down my spine.b Couldn’t tell what the hell was going down in there, but I know a fight to the death when I hear one.\r\nI was all set to play soldier one last time and charge into battle, but something exploded inside the fort and collapsed my only way in. I just hope that any good guys in that scrap were OK.\r\nFor now, I think I’m gonna take a long breather, and stop getting involved in one snafu after another. ‘Sides, I think I see that thieving rat-lizard again, and it looks like it’s carrying an... axe?\r\nSomething mighty familiar about that axe...\r\n\r\nYours forever -- BOB",
-      "Trans": {"SC":"亲爱的小简, 远离树屋部落的人逃难真的是大错特错。我不但直愣愣地跑向了那伙恶棍前进的方向, 而且我后知后觉地发现独自一人想要活着离开这儿有多难。\r\n\r\n我被困在敌人战线的后方, 试图在他们的要塞外围翻找一些残汤剩饭来充饥。经过一天左右的观察, 我发现一些当地爱偷东西的鼠蜥如入无人之境般在要塞中进进出出, 我想着, 去抢它们带出来的东西好像也不错, 最好是让那些小家伙替我承担所有风险。\r\n\r\n就当我准备用长矛刺向其中一只时, 要塞里边突然发生了爆炸! 冲击波直接把我震倒在地, 我还没来得及想到要追上去, 那长满须子的小混蛋就带着它偷来的胡萝卜逃之夭夭了。\r\n\r\n还没来得及抱怨, 我就先听到一声前所未闻的咆哮, 那声音让我脊背发凉。我不清楚里面发生了什么事, 但那声咆哮让我明白, 这肯定是一场恶战。\r\n\r\n我本想最后一次作为一个士兵冲入战场, 但是要塞里的某些东西发生了爆炸, 堵住了我唯一可以进去的路。我现在只能盼着这场混战中的好人都没什么大碍。\r\n\r\n现在, 我要打算好好休息一下, 不想再卷入一个又一个的麻烦。呃..我想我又看到了那个偷东西的鼠蜥了, 它看起来好像带了一把...斧头?\r\n\r\n那把斧头看起来有点眼熟...\r\n\r\n永远爱你 -- 鲍勃","JA":""},
+      "Trans": {"SC":"亲爱的简妮, 远离树屋部落的人逃难真的是大错特错。我不但直愣愣地跑向了那伙恶棍前进的方向, 而且我后知后觉地发现独自一人想要活着离开这儿有多难。\r\n\r\n我被困在敌人战线的后方, 试图在他们的要塞外围翻找一些残汤剩饭来充饥。经过一天左右的观察, 我发现一些当地爱偷东西的鼠蜥如入无人之境般在要塞中进进出出, 我想着, 去抢它们带出来的东西好像也不错, 最好是让那些小家伙替我承担所有风险。\r\n\r\n就当我准备用长矛刺向其中一只时, 要塞里边突然发生了爆炸! 冲击波直接把我震倒在地, 我还没来得及想到要追上去, 那长满须子的小混蛋就带着它偷来的胡萝卜逃之夭夭了。\r\n\r\n还没来得及抱怨, 我就先听到一声前所未闻的咆哮, 那声音让我脊背发凉。我不清楚里面发生了什么事, 但那声咆哮让我明白, 这肯定是一场恶战。\r\n\r\n我本想最后一次作为一个士兵冲入战场, 但是要塞里的某些东西发生了爆炸, 堵住了我唯一可以进去的路。我现在只能盼着这场混战中的好人都没什么大碍。\r\n\r\n现在, 我要打算好好休息一下, 不想再卷入一个又一个的麻烦。呃..我想我又看到了那个偷东西的鼠蜥了, 它看起来好像带了一把...斧头?\r\n\r\n那把斧头看起来有点眼熟...\r\n\r\n永远爱你 -- 鲍勃","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dear Jane 7笔记翻译
     },
@@ -35561,14 +35561,14 @@
     {
       "NamespaceHash": "Content::4033455826",
       "Source": "As a man or woman stranded naked, freezing & starving on a mysterious island, you must hunt, harvest, craft items, grow crops, and build shelters to survive. Use skill and cunning to kill, tame, breed, and ride dinosaurs & primeval creatures. Master your environment and explore the hidden depths to uncover ARK's secrets!",
-      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并掌握这片土地的生存之道, 深入探索这座岛屿, 揭开方舟的秘密!","JA":""},
+      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造建栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并主宰这里的环境, 最终揭开方舟的谜底!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //新地图说明
     },
     {
       "NamespaceHash": "GraphLiteral::1873623764",
       "Source": "THE ISLAND:\r\nAs a man or woman stranded naked, freezing & starving on a mysterious island, you must hunt, harvest, craft items, grow crops, and build shelters to survive. Use skill and cunning to kill, tame, breed, and ride dinosaurs & primeval creatures. Master your environment and explore the hidden depths to uncover ARK's secrets!",
-      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并掌握这片土地的生存之道, 深入探索这座岛屿, 揭开方舟的秘密!","JA":""},
+      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造建栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并主宰这里的环境, 最终揭开方舟的谜底!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //新地图说明
     },
@@ -35645,14 +35645,14 @@
     {
       "NamespaceHash": "Content::1246458858",
       "Source": "Finish your journey through the worlds of ARK in Extinction, where the story began and ends: on Earth itself! An Element-infested, ravaged planet filled with fantastical creatures both organic & technological, Earth holds both the secrets of the past and the keys to its salvation. As a veteran Survivor who has conquered all previous obstacles, your ultimate challenge awaits: can you defeat the gigantic roaming Titans which dominate the planet, and complete the ARK cycle to save Earth's future?",
-      "Trans": {"SC":"你将回到地球, 在这\"灭绝\"的世界中迎来旅程的终点, 因为这里正是一切方舟故事的起源与终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你是否有能力击败肆虐地球的巨型泰坦, 完成方舟计划的最后一环, 最终拯救地球的未来?","JA":""},
+      "Trans": {"SC":"你们将回到地球, 在这\"破灭\"的世界中见证非凡, 因为这里是一切方舟故事的起源和终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你们是否有能力击败肆虐地球的巨型泰坦, 完成方舟循环, 最终拯救地球的未来?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //新地图说明
     },
     {
       "NamespaceHash": "GraphLiteral::1338204075",
       "Source": "EXTINCTION\r\nFinish your journey through the worlds of ARK in Extinction, where the story began and ends: on Earth itself! An Element-infested, ravaged planet filled with fantastical creatures both organic & technological, Earth holds both the secrets of the past and the keys to its salvation. As a veteran Survivor who has conquered all previous obstacles, your ultimate challenge awaits: can you defeat the gigantic roaming Titans which dominate the planet, and complete the ARK cycle to save Earth's future?",
-      "Trans": {"SC":"你将回到地球, 在这\"灭绝\"的世界中迎来旅程的终点, 因为这里正是一切方舟故事的起源与终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你是否有能力击败肆虐地球的巨型泰坦, 完成方舟计划的最后一环, 最终拯救地球的未来?","JA":""},
+      "Trans": {"SC":"你们将回到地球, 在这\"破灭\"的世界中见证非凡, 因为这里是一切方舟故事的起源和终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你们是否有能力击败肆虐地球的巨型泰坦, 完成方舟循环, 最终拯救地球的未来?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //新地图说明
     },
@@ -35778,51 +35778,51 @@
     {
       "NamespaceHash": "Content::3043541945",
       "Source": "Dear Jane #1",
-      "Trans": {"SC":"亲爱的简#1","JA":""},
+      "Trans": {"SC":"亲爱的简妮#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
+      //简妮-图鉴标题
     },
     {
       "NamespaceHash": "Content::2816306263",
       "Source": "Dear Jane #2",
-      "Trans": {"SC":"亲爱的简#2","JA":""},
+      "Trans": {"SC":"亲爱的简妮#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
+      //简妮-图鉴标题
     },
     {
       "NamespaceHash": "Content::526453554",
       "Source": "Dear Jane #3",
-      "Trans": {"SC":"亲爱的简#3","JA":""},
+      "Trans": {"SC":"亲爱的简妮#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
+      //简妮-图鉴标题
     },
     {
       "NamespaceHash": "Content::2192978827",
       "Source": "Dear Jane #4",
-      "Trans": {"SC":"亲爱的简#4","JA":""},
+      "Trans": {"SC":"亲爱的简妮#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
+      //简妮-图鉴标题
     },
     {
       "NamespaceHash": "Content::973755630",
       "Source": "Dear Jane #5",
-      "Trans": {"SC":"亲爱的简#5","JA":""},
+      "Trans": {"SC":"亲爱的简妮#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
+      //简妮-图鉴标题
     },
     {
       "NamespaceHash": "Content::683670272",
       "Source": "Dear Jane #6",
-      "Trans": {"SC":"亲爱的简#6","JA":""},
+      "Trans": {"SC":"亲爱的简妮#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
+      //简妮-图鉴标题
     },
     {
       "NamespaceHash": "Content::2416155749",
       "Source": "Dear Jane #7",
-      "Trans": {"SC":"亲爱的简#7","JA":""},
+      "Trans": {"SC":"亲爱的简妮#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
+      //简妮-图鉴标题
     },
     {
       "NamespaceHash": "GraphLiteral::3071802939",
@@ -39476,7 +39476,7 @@
     },
     {
       "NamespaceHash": "Content::561968176",
-      "Source": "Fabricator",
+      "Source": "EDIT MARKET INFO",
       "Trans": {"SC":"机床","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
@@ -39915,7 +39915,7 @@
     {
       "NamespaceHash": "Content::2503882664",
       "Source": "Fertilized Megachelon Egg",
-      "Trans": {"SC":"受精的岛巨龟蛋","JA":""},
+      "Trans": {"SC":"受精的岛龟蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -41628,13 +41628,13 @@
     {
       "NamespaceHash": "Content::540210067",
       "Source": "Megachelon Egg",
-      "Trans": {"SC":"岛巨龟蛋","JA":""},
+      "Trans": {"SC":"岛龟蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2918482733",
       "Source": "Megachelon Platform Saddle",
-      "Trans": {"SC":"岛巨龟平台鞍","JA":""},
+      "Trans": {"SC":"岛龟平台鞍","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -45669,7 +45669,7 @@
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::679354262", //Prior to 321.14 this item has been known as Chibi-Ovus.
+      "NamespaceHash": "Content::679354262",
       "Source": "Chibi-Ovus",
       //这里大概率是通配符打错字了 但是没办法只能跟进.
       "Trans": {"SC":"袖珍-绵羊","JA":""},
@@ -53843,7 +53843,7 @@
     {
       "NamespaceHash": "GraphLiteral::722293213",
       "Source": "Get ready for Wild West trains, steampunk airships, post-apocalyptic battle-cars and more in Bob's Tall Tales! Discover new story adventure content, new creatures, structures, items, and cosmetics across the ARKs – all brought to life by big-hero Bob (Karl Urban) and Meeka (Auli'i Cravalho)!",
-      "Trans": {"SC":"准备好迎接“鲍勃的传奇故事”中的西部荒野火车、蒸汽朋克飞艇、末日战车等多种元素! 探险全新的故事冒险内容、新的生物、建筑、物品以及各种装饰品 – 所有的这些都是由大英雄鲍勃 (卡尔·厄本) 以及 米卡 (奥丽伊·卡瓦洛) 给我们带来生动的呈现!","JA":""},
+      "Trans": {"SC":"准备好迎接“鲍勃的传奇故事”中的西部荒野火车、蒸汽朋克飞艇、末日战车等多种元素! 探险全新的故事冒险内容、新的生物、建筑、物品以及各种装饰品 – 所有的这些都是由大英雄鲍勃 (卡尔·厄本) 以及 咪卡 (奥丽伊·卡瓦洛) 给我们带来生动的呈现!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -57509,7 +57509,7 @@
     {
       "NamespaceHash": "GraphLiteral::2739841243",
       "Source": "Meeka:  (groan)",
-      "Trans": {"SC":"米卡:  (不耐烦)","JA":""},
+      "Trans": {"SC":"咪卡:  (不耐烦)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
@@ -57523,14 +57523,14 @@
     {
       "NamespaceHash": "GraphLiteral::914863193",
       "Source": "Meeka:  Don’t be mean to Honker! And no, I don’t want to talk about HIM.",
-      "Trans": {"SC":"米卡:  别对 \"小喇叭\" 那么刻薄! 还有, 我不想谈起「他」。","JA":""},
+      "Trans": {"SC":"咪卡:  别对 \"小喇叭\" 那么刻薄! 还有, 我不想谈起「他」。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
     {
       "NamespaceHash": "GraphLiteral::3563011291",
       "Source": "Bob:  He’s your dad, Meeka.",
-      "Trans": {"SC":"鲍勃:  他是你爸爸, 米卡。","JA":""},
+      "Trans": {"SC":"鲍勃:  他是你爸爸, 咪卡。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
@@ -57551,14 +57551,14 @@
     {
       "NamespaceHash": "GraphLiteral::3411324966",
       "Source": "Meeka:  Well, why don’t YOU go tell him to not be such a... stinky dino-poo?",
-      "Trans": {"SC":"米卡:  哦, 那「你」为什么不去告诉他, 不要像个‘臭烘烘的恐龙便便’一样讨厌呢?","JA":""},
+      "Trans": {"SC":"咪卡:  哦, 那「你」为什么不去告诉他, 不要像个‘臭烘烘的恐龙便便’一样讨厌呢?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
     {
       "NamespaceHash": "GraphLiteral::37181434",
       "Source": "Bob:  That’s just not how it works, Meeka. Look, maybe ol’ Uncle Bob here can shed some light on the situation.",
-      "Trans": {"SC":"鲍勃:  事情不是你想的那样的, 米卡。你看, 也许你的鲍勃叔叔可以给你解释一下情况。","JA":""},
+      "Trans": {"SC":"鲍勃:  事情不是你想的那样的, 咪卡。你看, 也许你的鲍勃叔叔可以给你解释一下情况。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
@@ -57572,7 +57572,7 @@
     {
       "NamespaceHash": "GraphLiteral::2646778611",
       "Source": "Meeka:  Wait -- you knew my dad before all this? So were you also on the, uh -- what’d he call them… the ‘ARKs’?",
-      "Trans": {"SC":"米卡:  等等 -- 你在这之前就已经认识我爸爸了? 所以你也曾在那个, 呃 -- 怎么说的来着...‘方舟’上面?","JA":""},
+      "Trans": {"SC":"咪卡:  等等 -- 你在这之前就已经认识我爸爸了? 所以你也曾在那个, 呃 -- 怎么说的来着...‘方舟’上面?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
@@ -57593,7 +57593,7 @@
     {
       "NamespaceHash": "GraphLiteral::562750087",
       "Source": "Meeka:  You were there? YOU were one of the heroes?",
-      "Trans": {"SC":"米卡:  你当时也在场? 「你」也是那些英雄之一?","JA":""},
+      "Trans": {"SC":"咪卡:  你当时也在场? 「你」也是那些英雄之一?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
@@ -57607,7 +57607,7 @@
     {
       "NamespaceHash": "GraphLiteral::1199923794",
       "Source": "Meeka:  Oookay.",
-      "Trans": {"SC":"米卡:  呵呵呵好的吧。","JA":""},
+      "Trans": {"SC":"咪卡:  呵呵呵好的吧。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
     },
@@ -57621,7 +57621,7 @@
     {
       "NamespaceHash": "GraphLiteral::11449582",
       "Source": "Meeka:  No! I want you to tell me... ‘Unka Bob’.",
-      "Trans": {"SC":"米卡:  不嘛! 我就要你讲给我听...‘鲍勃蜀黍’。","JA":""},
+      "Trans": {"SC":"咪卡:  不嘛! 我就要你讲给我听...‘鲍勃蜀黍’。","JA":""},
       //Unka小孩子的一种发音, 放到中文语境用了蜀黍代替了叔叔.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕1
@@ -57650,7 +57650,7 @@
     {
       "NamespaceHash": "GraphLiteral::252873138",
       "Source": "Meeka:  So after that Island, where’d you go next? Oh, I bet it was somewhere exciting!",
-      "Trans": {"SC":"米卡:  所以在离开那个岛之后, 你又去了哪儿? 呼~ 我敢打赌它一定是个令人兴奋的地方!","JA":""},
+      "Trans": {"SC":"咪卡:  所以在离开那个岛之后, 你又去了哪儿? 呼~ 我敢打赌它一定是个令人兴奋的地方!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕2
     },
@@ -57664,14 +57664,14 @@
     {
       "NamespaceHash": "GraphLiteral::3943857503",
       "Source": "Meeka:  I don’t want to think about him at all!",
-      "Trans": {"SC":"米卡:  我一点也不想提起他!","JA":""},
+      "Trans": {"SC":"咪卡:  我一点也不想提起他!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕2
     },
     {
       "NamespaceHash": "GraphLiteral::2888374817",
       "Source": "Meeka:  I want to hear more stories... 'Unka Bob'! ",
-      "Trans": {"SC":"米卡:  我想要听更多的故事...‘鲍勃蜀黍’! ","JA":""},
+      "Trans": {"SC":"咪卡:  我想要听更多的故事...‘鲍勃蜀黍’! ","JA":""},
       //Unka小孩子的一种发音, 放到中文语境用了蜀黍代替了叔叔.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕2
@@ -57686,7 +57686,7 @@
     {
       "NamespaceHash": "GraphLiteral::888728956",
       "Source": "Meeka:  Yeah! That sounds wild.",
-      "Trans": {"SC":"米卡:  耶! 这听起来真刺激。","JA":""},
+      "Trans": {"SC":"咪卡:  耶! 这听起来真刺激。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕2
     },
@@ -57707,7 +57707,7 @@
     {
       "NamespaceHash": "GraphLiteral::298412341",
       "Source": "Meeka:  Whoa! Now we're talkin'!",
-      "Trans": {"SC":"米卡:  哇哦! 这才对嘛!","JA":""},
+      "Trans": {"SC":"咪卡:  哇哦! 这才对嘛!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-序幕2
     },
@@ -57749,7 +57749,7 @@
     {
       "NamespaceHash": "GraphLiteral::4170375692",
       "Source": "Meeka:  Umm, wasn’t it too hot to be running around?",
-      "Trans": {"SC":"米卡:  嗯.. 可东奔西跑不是太热了吗?","JA":""},
+      "Trans": {"SC":"咪卡:  嗯.. 可东奔西跑不是太热了吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-1
     },
@@ -57763,7 +57763,7 @@
     {
       "NamespaceHash": "GraphLiteral::2898755318",
       "Source": "Meeka:  Sorry. Keep going!",
-      "Trans": {"SC":"米卡:  抱歉啦。你继续!","JA":""},
+      "Trans": {"SC":"咪卡:  抱歉啦。你继续!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-1
     },
@@ -57805,7 +57805,7 @@
     {
       "NamespaceHash": "GraphLiteral::4089755169",
       "Source": "Meeka:  Ew, gross! (giggle)",
-      "Trans": {"SC":"米卡:  哕, 好恶心! (嘿嘿笑)","JA":""},
+      "Trans": {"SC":"咪卡:  哕, 好恶心! (嘿嘿笑)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-2
     },
@@ -57861,7 +57861,7 @@
     {
       "NamespaceHash": "GraphLiteral::215241014",
       "Source": "Meeka:  Awww…",
-      "Trans": {"SC":"米卡:  Awww...","JA":""},
+      "Trans": {"SC":"咪卡:  Awww...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-3
     },
@@ -57875,7 +57875,7 @@
     {
       "NamespaceHash": "GraphLiteral::1698343725",
       "Source": "Meeka:  Ugh, nasty!",
-      "Trans": {"SC":"米卡:  呃啊, 恶心!","JA":""},
+      "Trans": {"SC":"咪卡:  呃啊, 恶心!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-3
     },
@@ -57910,7 +57910,7 @@
     {
       "NamespaceHash": "GraphLiteral::2357058086",
       "Source": "Meeka:  (sigh) Poor Humpty.",
-      "Trans": {"SC":"米卡:  (叹气) 可怜的 “胖皮皮”。","JA":""},
+      "Trans": {"SC":"咪卡:  (叹气) 可怜的 “胖皮皮”。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-4
     },
@@ -57931,7 +57931,7 @@
     {
       "NamespaceHash": "GraphLiteral::19157303",
       "Source": "Meeka:  (gasp) Oh no!",
-      "Trans": {"SC":"米卡:  (惊讶) Oh 不!","JA":""},
+      "Trans": {"SC":"咪卡:  (惊讶) Oh 不!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-4
     },
@@ -57945,14 +57945,14 @@
     {
       "NamespaceHash": "GraphLiteral::1343801664",
       "Source": "Meeka:  Betcha barely got out of that one without becomin’ her breakfast.",
-      "Trans": {"SC":"米卡:  我敢打赌逃离成为她早餐的命运一定很艰难。","JA":""},
+      "Trans": {"SC":"咪卡:  我敢打赌逃离成为她早餐的命运一定很艰难。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-4
     },
     {
       "NamespaceHash": "GraphLiteral::317536790",
       "Source": "Meeka:  No scrambled Bob on the menu that day!",
-      "Trans": {"SC":"米卡:  好在那天的菜单上没有鲍勃这道菜!","JA":""},
+      "Trans": {"SC":"咪卡:  好在那天的菜单上没有鲍勃这道菜!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-4
     },
@@ -57973,7 +57973,7 @@
     {
       "NamespaceHash": "GraphLiteral::1566906008",
       "Source": "Meeka:  Bet she was glad to see you!",
-      "Trans": {"SC":"米卡:  她看到你一定很高兴!","JA":""},
+      "Trans": {"SC":"咪卡:  她看到你一定很高兴!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-5
     },
@@ -58008,7 +58008,7 @@
     {
       "NamespaceHash": "GraphLiteral::1347324524",
       "Source": "Meeka:  What’s a ‘sheriff’?",
-      "Trans": {"SC":"米卡:  什么是 ‘治安官’?","JA":""},
+      "Trans": {"SC":"咪卡:  什么是 ‘治安官’?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-6
     },
@@ -58050,7 +58050,7 @@
     {
       "NamespaceHash": "GraphLiteral::3422949753",
       "Source": "Meeka:  To do what...?",
-      "Trans": {"SC":"米卡:  是要做什么呀...?","JA":""},
+      "Trans": {"SC":"咪卡:  是要做什么呀...?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-7
     },
@@ -58120,7 +58120,7 @@
     {
       "NamespaceHash": "GraphLiteral::1554472921",
       "Source": "Meeka:  Oh no, why?",
-      "Trans": {"SC":"米卡:  Oh 不, 为什么?","JA":""},
+      "Trans": {"SC":"咪卡:  Oh 不, 为什么?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-9
     },
@@ -58211,7 +58211,7 @@
     {
       "NamespaceHash": "GraphLiteral::2026917310",
       "Source": "Meeka:  How were you supposed to save a whole world, all by yourself?",
-      "Trans": {"SC":"米卡:  那你是怎么拯救全世界的呢? 只靠你一个人?","JA":""},
+      "Trans": {"SC":"咪卡:  那你是怎么拯救全世界的呢? 只靠你一个人?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声1
     },
@@ -58239,7 +58239,7 @@
     {
       "NamespaceHash": "GraphLiteral::2108400207",
       "Source": "Meeka:  I already did them, I swear!",
-      "Trans": {"SC":"米卡:  我早就做完了, 我发誓!","JA":""},
+      "Trans": {"SC":"咪卡:  我早就做完了, 我发誓!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声1
     },
@@ -58267,7 +58267,7 @@
     {
       "NamespaceHash": "GraphLiteral::350326794",
       "Source": "Meeka:  Wicked...",
-      "Trans": {"SC":"米卡:  酷毙了~","JA":""},
+      "Trans": {"SC":"咪卡:  酷毙了~","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声2
     },
@@ -58288,7 +58288,7 @@
     {
       "NamespaceHash": "GraphLiteral::2527688201",
       "Source": "Meeka:  Didn't you say you “tamed them wastes all by your lonesome?”",
-      "Trans": {"SC":"米卡:  你不是说 “不费吹灰之力就独自驯服它们” 吗?","JA":""},
+      "Trans": {"SC":"咪卡:  你不是说 “不费吹灰之力就独自驯服它们” 吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声2
     },
@@ -58302,7 +58302,7 @@
     {
       "NamespaceHash": "GraphLiteral::243973060",
       "Source": "Meeka:  Oh yeah. You still haven't told me where you met, you know... him.",
-      "Trans": {"SC":"米卡:  哦, 对了。你还没告诉我你们是在哪里遇见的呢, 你知道...我说的是他。","JA":""},
+      "Trans": {"SC":"咪卡:  哦, 对了。你还没告诉我你们是在哪里遇见的呢, 你知道...我说的是他。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声2
     },
@@ -58316,7 +58316,7 @@
     {
       "NamespaceHash": "GraphLiteral::3095414657",
       "Source": "Meeka:  No way! Unlike you, he’s got NO sense of humor.",
-      "Trans": {"SC":"米卡:  才不要呢! 哪像你呀, 他一点幽默感都没有。","JA":""},
+      "Trans": {"SC":"咪卡:  才不要呢! 哪像你呀, 他一点幽默感都没有。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声2
     },
@@ -58331,7 +58331,7 @@
     {
       "NamespaceHash": "GraphLiteral::3926582213",
       "Source": "Meeka:  But I like scary stories!",
-      "Trans": {"SC":"米卡:  但是我喜欢听恐怖故事!","JA":""},
+      "Trans": {"SC":"咪卡:  但是我喜欢听恐怖故事!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声2
     },
@@ -58352,7 +58352,7 @@
     {
       "NamespaceHash": "GraphLiteral::742006523",
       "Source": "Meeka:  Awesome!",
-      "Trans": {"SC":"米卡:  好棒!","JA":""},
+      "Trans": {"SC":"咪卡:  好棒!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-废土-尾声2
     },
@@ -63099,12 +63099,12 @@
       "Trans": {"SC":" 特性","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "GraphLiteral::2853328471",
-    //  "Source": "Target Must Be Baby", //msg
-    //  "Trans": {"SC":"目标必须是未成年的生物","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "GraphLiteral::2853328471",
+      "Source": "Target Must Be Baby", //msg
+      "Trans": {"SC":"目标必须是未成年的生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "GraphLiteral::2631635582",
       "Source": "Gene Traits:",
@@ -65125,7 +65125,7 @@
     {
       "NamespaceHash": "GraphLiteral::3158017137",
       "Source": "Meeka:  I’m just visiting with Honker here.",
-      "Trans": {"SC":"米卡:  我只是在这和 \"小喇叭\" 聊天而已。","JA":""},
+      "Trans": {"SC":"咪卡:  我只是在这和 \"小喇叭\" 聊天而已。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
@@ -65139,14 +65139,14 @@
     {
       "NamespaceHash": "GraphLiteral::2545250910",
       "Source": "Meeka:  But you did say you had a really scary story next...",
-      "Trans": {"SC":"米卡:  但你真的说过接下来要讲一个恐怖故事的...","JA":""},
+      "Trans": {"SC":"咪卡:  但你真的说过接下来要讲一个恐怖故事的...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
     {
       "NamespaceHash": "GraphLiteral::820138528",
       "Source": "Meeka:  About the place where you met -- you know -- him.",
-      "Trans": {"SC":"米卡:  关于你在那个地方遇见的 -- 你懂的 -- 就他。","JA":""},
+      "Trans": {"SC":"咪卡:  关于你在那个地方遇见的 -- 你懂的 -- 就他。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
@@ -65160,7 +65160,7 @@
     {
       "NamespaceHash": "GraphLiteral::3576858988",
       "Source": "Meeka:  Pfft! Like he’d even notice how *I* feel.",
-      "Trans": {"SC":"米卡:  Puu! 就好像他会注意「我」的感受似的。","JA":""},
+      "Trans": {"SC":"咪卡:  Puu! 就好像他会注意「我」的感受似的。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
@@ -65174,7 +65174,7 @@
     {
       "NamespaceHash": "GraphLiteral::1147271187",
       "Source": "Meeka:  Quit! Stalling!",
-      "Trans": {"SC":"米卡:  别! 磨叽了!","JA":""},
+      "Trans": {"SC":"咪卡:  别! 磨叽了!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
@@ -65202,7 +65202,7 @@
     {
       "NamespaceHash": "GraphLiteral::1666927057",
       "Source": "Meeka:  As long as it’s the Scary Version!",
-      "Trans": {"SC":"米卡:  只要是恐怖的版本就行!","JA":""},
+      "Trans": {"SC":"咪卡:  只要是恐怖的版本就行!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
@@ -65223,7 +65223,7 @@
     {
       "NamespaceHash": "GraphLiteral::1888132402",
       "Source": "Meeka:  What’d he do, that was so bad?",
-      "Trans": {"SC":"米卡:  他做了什么, 那么糟糕?","JA":""},
+      "Trans": {"SC":"咪卡:  他做了什么, 那么糟糕?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
@@ -65251,7 +65251,7 @@
     {
       "NamespaceHash": "GraphLiteral::1340119567",
       "Source": "Meeka:  Well, I’m listening to you. And I want to know ALL about it.",
-      "Trans": {"SC":"米卡:  好吧, 我在听你讲。我想知道关于这件事的一切。","JA":""},
+      "Trans": {"SC":"咪卡:  好吧, 我在听你讲。我想知道关于这件事的一切。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-序幕
     },
@@ -65265,7 +65265,7 @@
     {
       "NamespaceHash": "GraphLiteral::3904020236",
       "Source": "Meeka:  Whoa. Were you guys scared?",
-      "Trans": {"SC":"米卡:  Whoa. Were you guys scared?","JA":""},
+      "Trans": {"SC":"咪卡:  Whoa. Were you guys scared?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-1
     },
@@ -65307,7 +65307,7 @@
     {
       "NamespaceHash": "GraphLiteral::767779658",
       "Source": "Meeka:  No fair -- you just got there!",
-      "Trans": {"SC":"米卡:  No fair -- you just got there!","JA":""},
+      "Trans": {"SC":"咪卡:  No fair -- you just got there!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-1
     },
@@ -65321,7 +65321,7 @@
     {
       "NamespaceHash": "GraphLiteral::2280746161",
       "Source": "Meeka:  Huh, lucky you!",
-      "Trans": {"SC":"米卡:  Huh, lucky you!","JA":""},
+      "Trans": {"SC":"咪卡:  Huh, lucky you!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-2
     },
@@ -65335,7 +65335,7 @@
     {
       "NamespaceHash": "GraphLiteral::3921204012",
       "Source": "Meeka:  Ugh, gross... mushrooms!",
-      "Trans": {"SC":"米卡:  Ugh, gross... mushrooms!","JA":""},
+      "Trans": {"SC":"咪卡:  Ugh, gross... mushrooms!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-2
     },
@@ -65384,7 +65384,7 @@
     {
       "NamespaceHash": "GraphLiteral::3572262910",
       "Source": "Meeka:  Well, then I guess I would’ve starved. No mushrooms for me!",
-      "Trans": {"SC":"米卡:  Well, then I guess I would’ve starved. No mushrooms for me!","JA":""},
+      "Trans": {"SC":"咪卡:  Well, then I guess I would’ve starved. No mushrooms for me!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-3
     },
@@ -65412,7 +65412,7 @@
     {
       "NamespaceHash": "GraphLiteral::723845040",
       "Source": "Meeka:  (sigh) Poor Bulby...",
-      "Trans": {"SC":"米卡:  (唉) 可怜的小灯泡...","JA":""},
+      "Trans": {"SC":"咪卡:  (唉) 可怜的小灯泡...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-3
     },
@@ -65426,7 +65426,7 @@
     {
       "NamespaceHash": "GraphLiteral::4077299366",
       "Source": "Meeka:  Ooo, who was she?",
-      "Trans": {"SC":"米卡:  Ooo, who was she?","JA":""},
+      "Trans": {"SC":"咪卡:  Ooo, who was she?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-4
     },
@@ -65447,7 +65447,7 @@
     {
       "NamespaceHash": "GraphLiteral::947472658",
       "Source": "Meeka:  But where’d she get the armor?",
-      "Trans": {"SC":"米卡:  But where’d she get the armor?","JA":""},
+      "Trans": {"SC":"咪卡:  But where’d she get the armor?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-4
     },
@@ -65461,7 +65461,7 @@
     {
       "NamespaceHash": "GraphLiteral::2311717999",
       "Source": "Meeka:  Whoa...",
-      "Trans": {"SC":"米卡:  Whoa...","JA":""},
+      "Trans": {"SC":"咪卡:  Whoa...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-4
     },
@@ -65475,7 +65475,7 @@
     {
       "NamespaceHash": "GraphLiteral::1138611625",
       "Source": "Meeka:  MY future?",
-      "Trans": {"SC":"米卡:  MY future?","JA":""},
+      "Trans": {"SC":"咪卡:  MY future?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-5
     },
@@ -65496,7 +65496,7 @@
     {
       "NamespaceHash": "GraphLiteral::2456791114",
       "Source": "Meeka:  (sigh) My dad...",
-      "Trans": {"SC":"米卡:  (sigh) My dad...","JA":""},
+      "Trans": {"SC":"咪卡:  (sigh) My dad...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-5
     },
@@ -65524,7 +65524,7 @@
     {
       "NamespaceHash": "GraphLiteral::2508317176",
       "Source": "Meeka:  I would be, too!",
-      "Trans": {"SC":"米卡:  I would be, too!","JA":""},
+      "Trans": {"SC":"咪卡:  I would be, too!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-5
     },
@@ -65552,7 +65552,7 @@
     {
       "NamespaceHash": "GraphLiteral::3305773734",
       "Source": "Meeka:  I guess DAD didn’t have any RULES against using Tek back THEN...",
-      "Trans": {"SC":"米卡:  I guess DAD didn’t have any RULES against using Tek back THEN...","JA":""},
+      "Trans": {"SC":"咪卡:  I guess DAD didn’t have any RULES against using Tek back THEN...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-6
     },
@@ -65587,7 +65587,7 @@
     {
       "NamespaceHash": "GraphLiteral::369317853",
       "Source": "Meeka:  I wanna hear more about the GIRLS in Dad’s camp, back on that ARK.",
-      "Trans": {"SC":"米卡:  I wanna hear more about the GIRLS in Dad’s camp, back on that ARK.","JA":""},
+      "Trans": {"SC":"咪卡:  I wanna hear more about the GIRLS in Dad’s camp, back on that ARK.","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-7
     },
@@ -65608,7 +65608,7 @@
     {
       "NamespaceHash": "GraphLiteral::3353306683",
       "Source": "Meeka:  Really? Huh...",
-      "Trans": {"SC":"米卡:  Really? Huh...","JA":""},
+      "Trans": {"SC":"咪卡:  Really? Huh...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-7
     },
@@ -65657,7 +65657,7 @@
     {
       "NamespaceHash": "GraphLiteral::3937086911",
       "Source": "Meeka:  ‘Good instincts’...",
-      "Trans": {"SC":"米卡:  ‘Good instincts’...","JA":""},
+      "Trans": {"SC":"咪卡:  ‘Good instincts’...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-7
     },
@@ -65727,7 +65727,7 @@
     {
       "NamespaceHash": "GraphLiteral::3583747363",
       "Source": "Meeka:  Oh no... was Diana okay?",
-      "Trans": {"SC":"米卡:  Oh不...戴安娜还好吗?","JA":""},
+      "Trans": {"SC":"咪卡:  Oh不...戴安娜还好吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-8
     },
@@ -65741,7 +65741,7 @@
     {
       "NamespaceHash": "GraphLiteral::1493017570",
       "Source": "Meeka:  What!? What happened?",
-      "Trans": {"SC":"米卡:  什么!? 发生了什么事情?","JA":""},
+      "Trans": {"SC":"咪卡:  什么!? 发生了什么事情?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-9
     },
@@ -65762,7 +65762,7 @@
     {
       "NamespaceHash": "GraphLiteral::896832660",
       "Source": "Meeka:  Rockwell... killed her? ",
-      "Trans": {"SC":"米卡:  罗克韦尔...把她杀了? ","JA":""},
+      "Trans": {"SC":"咪卡:  罗克韦尔...把她杀了? ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-9
     },
@@ -65797,7 +65797,7 @@
     {
       "NamespaceHash": "GraphLiteral::3139634654",
       "Source": "Meeka:  But you found him. Right?",
-      "Trans": {"SC":"米卡:  But you found him. Right?","JA":""},
+      "Trans": {"SC":"咪卡:  But you found him. Right?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-10
     },
@@ -65860,21 +65860,21 @@
     {
       "NamespaceHash": "GraphLiteral::139991968",
       "Source": "Meeka:  ‘Brought back...’",
-      "Trans": {"SC":"米卡:  ‘Brought back...’","JA":""},
+      "Trans": {"SC":"咪卡:  ‘Brought back...’","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-10
     },
     {
       "NamespaceHash": "GraphLiteral::480074606",
       "Source": "Meeka:  So, we’re all just...",
-      "Trans": {"SC":"米卡:  So, we’re all just...","JA":""},
+      "Trans": {"SC":"咪卡:  So, we’re all just...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
     {
       "NamespaceHash": "GraphLiteral::1279649105",
       "Source": "Meeka:  CLOWNS?",
-      "Trans": {"SC":"米卡:  CLOWNS?","JA":""},
+      "Trans": {"SC":"咪卡:  CLOWNS?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
@@ -65895,7 +65895,7 @@
     {
       "NamespaceHash": "GraphLiteral::1193355372",
       "Source": "Meeka:  Copies... of our souls?",
-      "Trans": {"SC":"米卡:  Copies... of our souls?","JA":""},
+      "Trans": {"SC":"咪卡:  Copies... of our souls?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
@@ -65916,28 +65916,28 @@
     {
       "NamespaceHash": "GraphLiteral::3403600445",
       "Source": "Meeka:  No, that part was true -- I can tell.",
-      "Trans": {"SC":"米卡:  No, that part was true -- I can tell.","JA":""},
+      "Trans": {"SC":"咪卡:  No, that part was true -- I can tell.","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
     {
       "NamespaceHash": "GraphLiteral::2856162412",
       "Source": "Meeka:  If we ARE clones... If we all died...",
-      "Trans": {"SC":"米卡:  If we ARE clones... If we all died...","JA":""},
+      "Trans": {"SC":"咪卡:  If we ARE clones... If we all died...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
     {
       "NamespaceHash": "GraphLiteral::4002223389",
       "Source": "Meeka:  And ‘Tek’ brought us back...",
-      "Trans": {"SC":"米卡:  And ‘Tek’ brought us back...","JA":""},
+      "Trans": {"SC":"咪卡:  And ‘Tek’ brought us back...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
     {
       "NamespaceHash": "GraphLiteral::1359046383",
       "Source": "Meeka:  Then we could use it to bring back other lost people, right?",
-      "Trans": {"SC":"米卡:  Then we could use it to bring back other lost people, right?","JA":""},
+      "Trans": {"SC":"咪卡:  Then we could use it to bring back other lost people, right?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
@@ -65951,7 +65951,7 @@
     {
       "NamespaceHash": "GraphLiteral::4245982452",
       "Source": "Meeka:  You said Rockwell was from the wrong time to even know how to use Tek! But my dad--",
-      "Trans": {"SC":"米卡:  You said Rockwell was from the wrong time to even know how to use Tek! But my dad--","JA":""},
+      "Trans": {"SC":"咪卡:  You said Rockwell was from the wrong time to even know how to use Tek! But my dad--","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
@@ -65965,7 +65965,7 @@
     {
       "NamespaceHash": "GraphLiteral::3008962932",
       "Source": "Meeka:  Ahem. Language?",
-      "Trans": {"SC":"米卡:  Ahem. Language?","JA":""},
+      "Trans": {"SC":"咪卡:  Ahem. Language?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
@@ -65986,7 +65986,7 @@
     {
       "NamespaceHash": "GraphLiteral::1558722453",
       "Source": "Meeka:  Okayyy.",
-      "Trans": {"SC":"米卡:  Okayyy.","JA":""},
+      "Trans": {"SC":"咪卡:  Okayyy.","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃图鉴-蒸汽朋克-尾声
     },
@@ -72973,7 +72973,7 @@
     {
       "NamespaceHash": "Content::765329612",
       "Source": "Megachelon",
-      "Trans": {"SC":"岛巨龟","JA":"島巨龟"}, //原: 岛龟
+      "Trans": {"SC":"岛龟","JA":"島龟"}, //岛巨龟-未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //Mega-, 意为巨大的;-chelon, 意为龟
     },
@@ -76140,13 +76140,13 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMiningDrill_MilestoneDescription",
       "Source": "Craft 1 Mining Drill",
-      "Trans": {"SC":"制作 1 个矿枪","JA":""},
+      "Trans": {"SC":"制作 1 个采矿钻","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"483702605"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillA_MilestoneDescription",
       "Source": "Harvest 150,000 Resources with Mining Drill",
-      "Trans": {"SC":"使用矿枪采集 150,000 份资源","JA":""},
+      "Trans": {"SC":"使用采矿钻采集 150,000 份资源","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
     },
     {
@@ -76290,7 +76290,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillB_MilestoneDescription",
       "Source": "Harvest 150,000 Resources with Mining Drill",
-      "Trans": {"SC":"使用矿枪采集 150,000 份资源","JA":""},
+      "Trans": {"SC":"使用采矿钻采集 150,000 份资源","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
     },
     {
@@ -76336,256 +76336,256 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::824652351",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelon_MilestoneDescription",
       "Source": "Tame 1 Megachelon",
-      "Trans": {"SC":"驯服 1 只岛巨龟","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"驯服 1 只巨龟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"824652351"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::731898538",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusA_MilestoneDescription",
       "Source": "Tame 3 Palaeoctopus",
       "Trans": {"SC":"驯服 3 只古蛸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"731898538"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3116076307",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsC_MilestoneDescription",
       "Source": "Raid 10 Pirate Camps or Ocean Outposts",
       "Trans": {"SC":"袭击 10 个海盗营地或海洋前哨","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3116076307"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::464204869",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsC_MilestoneDescription",
       "Source": "Complete 5 Treasure Map Bottles",
       "Trans": {"SC":"完成 5 个藏宝图瓶","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"464204869"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2647942983",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatFleetCaptainB_MilestoneDescription",
       "Source": "Defeat 5 Fleet Captain Ships",
       "Trans": {"SC":"击败 5 艘舰队长船只","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2647942983"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1004146375",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupC_MilestoneDescription",
       "Source": "Tame 5 Tidepups",
       "Trans": {"SC":"驯服 5 只潮佑螈","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1004146375"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1646132582",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.EvolveTidepupMetamorph_MilestoneDescription",
       "Source": "Evolve 1 Tidepup via Metamorphosis",
       "Trans": {"SC":"通过蜕变进化 1 只潮佑螈","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1646132582"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2606523342",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HealAlliesTidepup_MilestoneDescription",
       "Source": "Restore 50,000 health to allies while mounted on a Tidepup",
       "Trans": {"SC":"骑乘潮佑螈为盟友恢复 50,000 点生命值","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2606523342"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2452316498",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGauntletMissions_MilestoneDescription",
       "Source": "Complete 3 Gauntlet Missions",
       "Trans": {"SC":"完成 3 个挑战任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2452316498"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1632704459",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteVolcanicMissionsB_MilestoneDescription",
       "Source": "Complete 10 Volcanic Biome Missions",
       "Trans": {"SC":"完成 10 个火山生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1632704459"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3531842341",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaController_MilestoneDescription",
       "Source": "Defeat Boss: Beta Corrupted Master Controller",
       "Trans": {"SC":"击败BOSS: 腐化的主宰者 (中等)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3531842341"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1475923933",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestElementShards_MilestoneDescription",
       "Source": "Harvest 5,000 Element Shards",
       "Trans": {"SC":"采集 5,000 份元素碎片","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1475923933"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3494785429",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameFeroxHighLvl_MilestoneDescription",
       "Source": "Tame 1 Ferox at level 135+",
       "Trans": {"SC":"驯服 1 只 135 级以上的猿狐","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3494785429"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3149808607",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameFeroxHighEff_MilestoneDescription",
       "Source": "Tame 1 Ferox at 90% Taming Effectiveness",
       "Trans": {"SC":"以驯养有效 90%+ 驯服 1 只猿狐","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3149808607"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3002520868",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusA_MilestoneDescription",
       "Source": "Tame 1 Astrocetus",
       "Trans": {"SC":"驯服 1 只星辰鲸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3002520868"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1121307388",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ObtainAmbergris_MilestoneDescription",
       "Source": "Obtain 50 Ambergris",
       "Trans": {"SC":"获得 50 份龙涎香","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1121307388"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::964650413",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelAstrocetus_MilestoneDescription",
       "Source": "Travel 100,000 Meters Distance with Astrocetus",
       "Trans": {"SC":"骑乘星辰鲸移动 100,000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"964650413"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3581859765",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageHandCannonA_MilestoneDescription",
       "Source": "Deal 150,000 Damage with Hand Cannon",
       "Trans": {"SC":"使用手炮造成 150,000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3581859765"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::4109630502",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.FireTekGrenades_MilestoneDescription",
       "Source": "Fire 100 Grenades with Tek Grenade Launcher",
       "Trans": {"SC":"使用泰克榴弹发射器发射 100 枚榴弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4109630502"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3539613316",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageShoulderCannonA_MilestoneDescription",
       "Source": "Deal 100,000 Damage with Tek Shoulder Cannon",
       "Trans": {"SC":"使用泰克肩炮造成 100,000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3539613316"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2917230",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMegalodon_MilestoneDescription",
       "Source": "Tame 5 X-Megalodon",
       "Trans": {"SC":"驯服 5 只X-巨齿鲨","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2917230"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1417261488",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsC_MilestoneDescription",
       "Source": "Complete 10 Ocean Biome Missions",
       "Trans": {"SC":"完成 10 个海洋生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1417261488"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2094065908",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatBetaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Beta Moeder, Master of the Ocean",
       "Trans": {"SC":"击败BOSS: 海洋之主莫德尔 (中等)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2094065908"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3369861657",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBetaMissionsB_MilestoneDescription",
       "Source": "Complete 10 Beta Missions",
       "Trans": {"SC":"完成 10 个中等任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3369861657"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1536623345",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsB_MilestoneDescription",
       "Source": "Complete 10 Bog Biome Missions",
       "Trans": {"SC":"完成 10 个沼泽生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1536623345"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3038174785",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteArcticMissionsA_MilestoneDescription",
       "Source": "Complete 10 Arctic Biome Missions",
       "Trans": {"SC":"完成 10 个极地生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3038174785"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2753241219",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.StealMagmasaurEgg_MilestoneDescription",
       "Source": "Steal 1 Magmasaur Egg",
       "Trans": {"SC":"偷取 1 个熔岩龙蛋","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2753241219"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::808050534",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestObsidian_MilestoneDescription",
       "Source": "Harvest 50,000 Obsidian",
       "Trans": {"SC":"采集 50,000 份黑曜石","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"808050534"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3888027845",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRexHighLvl_MilestoneDescription",
       "Source": "Tame 3 X-Rex at level 135+",
       "Trans": {"SC":"驯服 3 只 135 级以上的X-霸王龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3888027845"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3679227071",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaMissions_MilestoneDescription",
       "Source": "Complete 5 Alpha Missions",
       "Trans": {"SC":"完成 5 个困难任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3679227071"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1359111898",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaController_MilestoneDescription",
       "Source": "Defeat Boss: Alpha Corrupted Master Controller",
       "Trans": {"SC":"击败BOSS: 腐化的主宰者 (困难)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1359111898"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2808869744",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CreateBloodPacksB_MilestoneDescription",
       "Source": "Create 100 Blood Packs",
       "Trans": {"SC":"制作 100 血袋","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2808869744"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1295407153",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameBloodstalkerB_MilestoneDescription",
       "Source": "Tame 5 Bloodstalkers",
       "Trans": {"SC":"驯服 5 只血蛛","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1295407153"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3643415521",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsC_MilestoneDescription",
       "Source": "Complete 25 Bog Biome Missions",
       "Trans": {"SC":"完成 25个 沼泽生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3643415521"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::2872568049",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineB_MilestoneDescription",
       "Source": "Construct 5 Brigantines",
       "Trans": {"SC":"建造 5 艘双桅帆船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2872568049"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::4072143982",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsE_MilestoneDescription",
       "Source": "Destroy 50 Pirate Ships",
-      "Trans": {"SC":"摧毁 50 艘海盗船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"摧毁 50 个海盗船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4072143982"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3256099548",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsD_MilestoneDescription",
       "Source": "Raid 25 Pirate Camps or Ocean Outposts",
       "Trans": {"SC":"袭击 25 个海盗营地或海洋前哨","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3256099548"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::482670797",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMegalodonHighLvl_MilestoneDescription",
       "Source": "Tame 5 X-Megalodon at level 135+",
       "Trans": {"SC":"驯服 5 只 135 级以上的X-巨齿鲨","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"482670797"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::1675212389",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurusHighLvl_MilestoneDescription",
       "Source": "Tame 5 X-Mosasaurus at level 135+",
       "Trans": {"SC":"驯服 5 只 135 级以上的X-沧龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1675212389"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::4283510027",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatAlphaMoeder_MilestoneDescription",
       "Source": "Defeat Boss: Alpha Moeder, Master of the Ocean",
       "Trans": {"SC":"击败BOSS: 海洋之主莫德尔 (困难)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4283510027"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3136163685",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteMasterContractB_MilestoneDescription",
       "Source": "Complete 3 Mastercraft Contracts",
       "Trans": {"SC":"完成 3 个史诗契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3136163685"}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::3509526931",
+      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAscContract_MilestoneDescription",
       "Source": "Complete 1 Ascendant Contract",
       "Trans": {"SC":"完成 1 个传说契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3509526931"}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsF_MilestoneDescription",
@@ -76656,7 +76656,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelonHighLvl_MilestoneDescription",
       "Source": "Tame 1 Megachelon at level 135+",
-      "Trans": {"SC":"驯服 1 只 135 级以上的岛巨龟","JA":""},
+      "Trans": {"SC":"驯服 1 只 135 级以上的巨龟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3580047671"}
     },
     {
@@ -77018,10 +77018,10 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2573350975",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoFury_SkillName",
       "Source": "Draco Fury",
       "Trans": {"SC":"龙之怒火","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2573350975"}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3976189948", //OLD
@@ -77037,10 +77037,10 @@
       //UmbraLumina_DracoFury_SkillDescription
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2895913915",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_BiteClawCharge_SkillName",
       "Source": "Claw Charge",
       "Trans": {"SC":"爪击追击","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2895913915"}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::478087093", //OLD
@@ -77056,10 +77056,10 @@
       //UmbraLumina_BiteClawCharge_SkillDescription
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::4219970709",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DashClawRange_SkillName",
       "Source": "Dash Claw Range",
       "Trans": {"SC":"冲刺爪击距离","JA":""}, //标记-不确定是范围还是距离
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4219970709"}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2126930516", //OLD
@@ -77082,10 +77082,10 @@
       //DashClawRange
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1307643264",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DashClaw_SkillName",
       "Source": "Dash Claw",
       "Trans": {"SC":"冲刺爪击","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1307643264"}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3807910062", //OLD
@@ -77271,10 +77271,10 @@
       //UmbraLumina_PlasmaBurstLockOn_SkillDescription
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1713910218",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::Umbra_PlasmaTeleport_SkillName",
       "Source": "Plasma Teleport",
       "Trans": {"SC":"等离子传送","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1713910218"}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3508975373", //OLD
@@ -77342,52 +77342,52 @@
       //UmbraLumina_SynergyBenefit_SkillDescription
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::897310880",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBackflip_SkillName",
       "Source": "Draco Backflip",
       "Trans": {"SC":"龙之后空翻","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"897310880"}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::4002814632",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBackflip_SkillDescription",
       "Source": "Unlocks the Draco Backflip maneuver.",
       "Trans": {"SC":"解锁龙之后空翻机动。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4002814632"}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2621583454",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoQuickTurn_SkillName",
       "Source": "Draco Quick Turn",
       "Trans": {"SC":"龙之急转","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2621583454"}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3254046981",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoQuickTurn_SkillDescription",
       "Source": "Unlocks the Draco Quick Turn maneuver.",
       "Trans": {"SC":"解锁龙之急转机动。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3254046981"}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3335051537",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBarrelRoll_SkillName",
       "Source": "Draco Barrel Roll",
       "Trans": {"SC":"龙之横滚","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3335051537"}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1053229296",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoBarrelRoll_SkillDescription",
       "Source": "Unlocks the Draco Barrel Roll maneuver.",
       "Trans": {"SC":"解锁龙之横滚机动。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1053229296"}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3318233239",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDive_SkillName",
       "Source": "Dive",
       "Trans": {"SC":"俯冲","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3318233239"}
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::391919169",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoDive_SkillDescription",
       "Source": "Unlocks the Draco Dive ability.",
       "Trans": {"SC":"解锁龙之俯冲能力。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"391919169"}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::4236762739", //OLD
@@ -77423,10 +77423,10 @@
       //DiveBoostMaxCharge
     },
     {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::907545013",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::UmbraLumina_DracoSprintFlightMode_SkillName",
       "Source": "Sprint Flight Mode",
       "Trans": {"SC":"疾飞模式","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"907545013"}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::603016726", //OLD
@@ -77866,82 +77866,82 @@
     //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     //},
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::98239256",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.DoKillsRidingUmbra_MilestoneDescription",
       "Source": "Kills 25 Creatures while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 25 只生物","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"98239256"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::3968953181",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestRawMeatRiding_MilestoneDescription",
       "Source": "Harvest 100 raw meats (any type) riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔采集 100 块任意类型生肉","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3968953181"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::2259464484",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestRawMeatRidingA_MilestoneDescription",
       "Source": "Harvest 250 raw meats (any type) riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔采集 250 块任意类型生肉","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2259464484"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::1603185768",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestRawMeatRidingB_MilestoneDescription",
       "Source": "Harvest 500 raw meats (any type) riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔采集 500 块任意类型生肉","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1603185768"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::1901469262",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.HarvestPrimeMeatRiding_MilestoneDescription",
       "Source": "Harvest 50 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
       "Trans": {"SC":"骑乘幽影仔采集 50 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1901469262"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::604483835",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.ReceiveDamageRidingA_MilestoneDescription",
       "Source": "Receive 5000 damage while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔承受 5000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"604483835"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::62bdd16e",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.DoDamageSecondaryA_MilestoneDescription",
       "Source": "Deal 25000 damage with Umbra's projectile attacks",
       "Trans": {"SC":"使用幽影仔的投射攻击造成 25000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"62bdd16e"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::500418139",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.FlyMWithoutLanding_MilestoneDescription",
       "Source": "Fly 1000 meters without landing while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 1000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500418139"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::4222366285",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.FlyMWithoutLandingA_MilestoneDescription",
       "Source": "Fly 3000 meters without landing while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 3000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4222366285"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::173877302",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.FlyMWithoutLandingB_MilestoneDescription",
       "Source": "Fly 5000 meters without landing while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔不落地飞行 5000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"173877302"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::711968096",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.KillAlphasRidingUmbra_MilestoneDescription",
       "Source": "Kill 3 Alphas while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 3 只精英生物","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"711968096"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::853564615",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.KillAlphasRidingUmbraA_MilestoneDescription",
       "Source": "Kill 10 Alphas while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔击杀 10 只精英生物","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"853564615"}
     },
     {
-      "NamespaceHash": "DT_Milestones_Dragontopia::3195321864",
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.KillCreaturesWithout_MilestoneDescription",
       "Source": "Kill 10 creatures without receiving damage while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔在不受到伤害的情况下击杀 10 只生物","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3195321864"}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::4052328853",
@@ -77983,6 +77983,18 @@
       "NamespaceHash": "DT_Milestones_Dragontopia::3096584580",
       "Source": "Deal 10000 damage while riding Umbra/Lumina",
       "Trans": {"SC":"骑乘幽影仔/皎光仔造成 10000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::DoDamageSecondaryA_MilestoneDescription",
+      "Source": "Deal 25000 damage with Umbra's projectile attacks",
+      "Trans": {"SC":"使用幽影仔的投射攻击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::Task.DT.DoDamagePrimaryAttackA_MilestoneDescription",
+      "Source": "Deal 25000 damage with Umbra's bite or claw attacks",
+      "Trans": {"SC":"使用幽影仔的撕咬或爪击造成 25000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78945,7 +78957,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::1560141542",
       "Source": "Kill 1 Cryolophosaurus",
-      "Trans": {"SC":"击杀1只冰嵴龙","JA":""},
+      "Trans": {"SC":"击杀1只冰脊龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -80175,7 +80187,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::326809647",
       "Source": "Kill 5 Cryolophosaurus",
-      "Trans": {"SC":"击杀5只冰嵴龙","JA":""},
+      "Trans": {"SC":"击杀5只冰脊龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -81117,7 +81129,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::707850027",
       "Source": "Kill 25 Cryolophosaurus",
-      "Trans": {"SC":"击杀25只冰嵴龙","JA":""},
+      "Trans": {"SC":"击杀25只冰脊龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82995,7 +83007,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::4233668526",
       "Source": "Kill 50 Cryolophosaurus",
-      "Trans": {"SC":"击杀50只冰嵴龙","JA":""},
+      "Trans": {"SC":"击杀50只冰脊龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83805,7 +83817,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::2103043407",
       "Source": "Kill 100 Cryolophosaurus",
-      "Trans": {"SC":"击杀100只冰嵴龙","JA":""},
+      "Trans": {"SC":"击杀100只冰脊龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
