@@ -233,6 +233,54 @@
       "Source": "OSD Spawner",
       "Trans": {"SC":"空投生成器","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3681688404",
+      "Source": "B+ Boss Tribute",
+      "Trans": {"SC":"B+BOSS贡品台","JA":"B+BOSS貢品台"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1798662336",
+      "Source": "B+ Gas Vein",
+      "Trans": {"SC":"B+气矿","JA":"B+气礦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::435208328",
+      "Source": "B+ Oil Vein",
+      "Trans": {"SC":"B+油矿","JA":"B+油礦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3692017815",
+      "Source": "B+ Large Beaver Dam Spawner",
+      "Trans": {"SC":"B+大型河狸坝生成器","JA":"B+大型河狸壩生成器"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2826483847",
+      "Source": "B+ Water Vein",
+      "Trans": {"SC":"B+泉眼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3944177367",
+      "Source": "B+ Oil Vein Spawner",
+      "Trans": {"SC":"B+油矿生成器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1168637251",
+      "Source": "Placeable Oil Vein",
+      "Trans": {"SC":"可放置油矿","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::309663725",
+      "Source": "Placeable Boss Tribute",
+      "Trans": {"SC":"可放置BOSS贡品台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
 }

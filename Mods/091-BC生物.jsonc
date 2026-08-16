@@ -1,0 +1,736 @@
+{
+  "Birdwatcher's Collection": [     //2026.8.15
+    {
+      "NamespaceHash": "Content::166919771",
+      "Source": "Giant Spino",
+      "Trans": {"SC":"巨型棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2502274340",
+      "Source": "Aberrant Giant Spino",
+      "Trans": {"SC":"畸变巨型棘龙","JA":"畸變巨型棘龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1684309832",
+      "Source": "Shonisaurus",
+      "Trans": {"SC":"秀尼鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::848195043",
+      "Source": "Alpha Giant Spino",
+      "Trans": {"SC":"精英巨型棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1595413744",
+      "Source": "Alpha Shonisaurus",
+      "Trans": {"SC":"精英秀尼鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1980636742",
+      "Source": "X-Shonisaurus",
+      "Trans": {"SC":"X-秀尼鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2862218474",
+      "Source": "Saurophaganax",
+      "Trans": {"SC":"食蜥王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3686472052",
+      "Source": "Alpha Saurophaganax",
+      "Trans": {"SC":"精英食蜥王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3639821707",
+      "Source": "R-Saurophaganax",
+      "Trans": {"SC":"R-食蜥王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3242326355",
+      "Source": "Scorched Saurophaganax",
+      "Trans": {"SC":"焦土食蜥王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1922895638",
+      "Source": "Alpha Austroraptor",
+      "Trans": {"SC":"精英南方盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2410796722",
+      "Source": "Torvosaurus",
+      "Trans": {"SC":"蛮龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3033351434",
+      "Source": "Alpha Torvosaurus",
+      "Trans": {"SC":"精英蛮龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3705914525",
+      "Source": "Maip",
+      "Trans": {"SC":"迈普龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2557140673",
+      "Source": "Aberrant Maip",
+      "Trans": {"SC":"畸变迈普龙","JA":"畸變迈普龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::911784066",
+      "Source": "Alpha Maip",
+      "Trans": {"SC":"精英迈普龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2463863840",
+      "Source": "Woolly Maip",
+      "Trans": {"SC":"披毛迈普龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2976160954",
+      "Source": "Fertilized Giant Spino Egg",
+      "Trans": {"SC":"受精的巨型棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1790355648",
+      "Source": "Fertilized Aberrant Giant Spino Egg",
+      "Trans": {"SC":"受精的畸变巨型棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1220246259",
+      "Source": "Fertilized Maip Egg",
+      "Trans": {"SC":"受精的迈普龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2728246533",
+      "Source": "Fertilized Aberrant Maip Egg",
+      "Trans": {"SC":"受精的畸变迈普龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2172552989",
+      "Source": "Fertilized Woolly Maip Egg",
+      "Trans": {"SC":"受精的披毛迈普龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3177333714",
+      "Source": "Fertilized Saurophaganax Egg",
+      "Trans": {"SC":"受精的食蜥王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2874114365",
+      "Source": "Fertilized R-Saurophaganax Egg",
+      "Trans": {"SC":"受精的R‑食蜥王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1912060320",
+      "Source": "Fertilized Scorched Saurophaganax Egg",
+      "Trans": {"SC":"受精的焦土食蜥王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1941448942",
+      "Source": "Fertilized Torvosaurus Egg",
+      "Trans": {"SC":"受精的蛮龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3615867223",
+      "Source": "Alpha Giant Spino Costume",
+      "Trans": {"SC":"精英巨型棘龙外观皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4124101328",
+      "Source": "Use this costume to make your giant spino looks like an alpha variant.",
+      "Trans": {"SC":"使用该皮肤可以让你的巨型棘龙拥有精英变体外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1256504904",
+      "Source": "Chibi-Giant Spino",
+      "Trans": {"SC":"Chibi‑巨型棘龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4009735436",
+      "Source": "Chibi-Maip",
+      "Trans": {"SC":"Chibi‑迈普龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3598351428",
+      "Source": "Chibi-Saurophaganax",
+      "Trans": {"SC":"Chibi‑食蜥王龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3433535137",
+      "Source": "Chibi-Torvosaurus",
+      "Trans": {"SC":"Chibi‑蛮龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::354589928",
+      "Source": "Alpha Giant Spino Trophy",
+      "Trans": {"SC":"精英巨型棘龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::275774389",
+      "Source": "Alpha Giant Spino Summoner",
+      "Trans": {"SC":"精英巨型棘龙召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::664283683",
+      "Source": "Summon an Alpha Giant Spino and battle against it.",
+      "Trans": {"SC":"召唤一只精英巨型棘龙并与之战斗。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1686083511",
+      "Source": "BC Austroraptor Saddle",
+      "Trans": {"SC":"BC-南方盗龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2620224304",
+      "Source": "Giant Spino has natural armor.",
+      "Trans": {"SC":"巨型棘龙拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::969552561",
+      "Source": "Austroraptor Egg",
+      "Trans": {"SC":"南方盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3967043181",
+      "Source": "BC Giant Spino Saddle",
+      "Trans": {"SC":"BC-巨型棘龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::95120602",
+      "Source": "Equip a Giant Spino with this to ride it.",
+      "Trans": {"SC":"装备到巨型棘龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4280250135",
+      "Source": "BC Maip Saddle",
+      "Trans": {"SC":"BC-迈普龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::577720585",
+      "Source": "Equip a Maip with this to ride it.",
+      "Trans": {"SC":"装备到迈普龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1357973649",
+      "Source": "BC Saurophaganax Saddle",
+      "Trans": {"SC":"BC-食蜥王龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3270023100",
+      "Source": "Equip a Saurophaganax with this to ride it.",
+      "Trans": {"SC":"装备到食蜥王龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227242199",
+      "Source": "Shonisaurus Saddle",
+      "Trans": {"SC":"秀尼鱼龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1900901697",
+      "Source": "Equip a Shonisaurus with this to ride it.",
+      "Trans": {"SC":"装备到秀尼鱼龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4212731232",
+      "Source": "BC Shonisaurus Platform Saddle",
+      "Trans": {"SC":"BC-秀尼鱼龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::795005559",
+      "Source": "Equip a Shonisaurus with this to ride it. You can build structures on the large platform to make a mobile base.",
+      "Trans": {"SC":"装备到秀尼鱼龙上以骑乘。可在大型平台上建造建筑，打造移动基地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4014435862",
+      "Source": "BC Torvosaurus Saddle",
+      "Trans": {"SC":"BC-蛮龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4148777717",
+      "Source": "Equip a Torvosaurus with this to ride it.",
+      "Trans": {"SC":"装备到蛮龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::920877793",
+      "Source": "BC Large Kibble",
+      "Trans": {"SC":"BC大型饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::109899552",
+      "Source": "It can be used to tame creatures just like official Kibble, and it can be used to tame the creatures in the BC Mod, including: Shinosaurus.",
+      "Trans": {"SC":"和官方饲料一样可用于驯服生物，可驯服 BC 模组生物，包括：秀尼鱼龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1663110214",
+      "Source": "BC Medium Kibble",
+      "Trans": {"SC":"BC中型饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::842190415",
+      "Source": "It can be used to tame creatures just like official Kibble, and it can be used to tame the creatures in the BC Mod, including: Torvosaurus, Saurophaganax.",
+      "Trans": {"SC":"和官方饲料一样可用于驯服生物，可驯服 BC 模组生物，包括：蛮龙、食蜥王龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::665923991",
+      "Source": "BC Small Kibble",
+      "Trans": {"SC":"BC小型饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3976747071",
+      "Source": "It can be used to tame creatures just like official Kibble, and it can be used to tame the creatures in the BC Mod, including: Austroraptor",
+      "Trans": {"SC":"和官方饲料一样可用于驯服生物，可驯服 BC 模组生物，包括：南方盗龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2715377327",
+      "Source": "BC Apex Kibble",
+      "Trans": {"SC":"BC顶级饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::388891352",
+      "Source": "It can be used to tame creatures just like official Kibble, and it can be used to tame the creatures in the BC Mod, including: Giant Spino.",
+      "Trans": {"SC":"和官方饲料一样可用于驯服生物，可驯服 BC 模组生物，包括：巨型棘龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::848581906",
+      "Source": "Fatigued",
+      "Trans": {"SC":"疲惫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::638783120",
+      "Source": "-19% Damage, + 19% Received Damage",
+      "Trans": {"SC":"伤害‑19%，受到伤害 + 19%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2744779855",
+      "Source": "Blood Sucking",
+      "Trans": {"SC":"吸血","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3003320874",
+      "Source": "Charge Light",
+      "Trans": {"SC":"充能之光","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::353819932",
+      "Source": "Reaper and Namless feel weak towards charge light.",
+      "Trans": {"SC":"死神与无名对充能之光处于弱势。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1152262732",
+      "Source": "Austroraptor Hydration",
+      "Trans": {"SC":"南方盗龙水润状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1026568874",
+      "Source": "Increased your creature's damage, speed and natural health recovery. Immune to the flame buff. ",
+      "Trans": {"SC":"提升生物伤害、移速与自然生命恢复，免疫火焰增益效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3125092697",
+      "Source": "Spino Fearless Roar!",
+      "Trans": {"SC":"棘龙无畏咆哮！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2881825503",
+      "Source": "Damage +10%, and release your creatures from fear state during this time.",
+      "Trans": {"SC":"伤害 + 10%，在此期间解除生物恐惧状态。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::124277159",
+      "Source": "Immune to red debuffs, provide a 40% damage resistance. Stamina consumption rate doubles, while recovery rate drops to 50%.",
+      "Trans": {"SC":"免疫红色负面效果，获得 40% 伤害抗性。耐力消耗翻倍，恢复速率降至 50%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::866630529",
+      "Source": "Wound Tearing !",
+      "Trans": {"SC":"伤口撕裂！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1177721497",
+      "Source": "Your armor has become more fragile. 2% of your Health will be drained! Torvosaurus will recover health when attacking you.",
+      "Trans": {"SC":"你的护甲变得脆弱，持续流失 2% 生命值！蛮龙攻击你时会恢复生命。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3070556427",
+      "Source": "Thorny Mode",
+      "Trans": {"SC":"荆棘模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4110095013",
+      "Source": "Increase output damage by 25%. Reflect 25% of the received melee damage back to the damage causer. Can not recover health during this mode.",
+      "Trans": {"SC":"输出伤害提升 25%，将受到的 25% 近战伤害反弹给攻击者，该模式下无法恢复生命。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2335800089",
+      "Source": "Regenerative Mode",
+      "Trans": {"SC":"再生模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::649607876",
+      "Source": "Movement speed increased by 25%, and health recovery rate doubled. Killing fish will recover your health. You will take twice the damage in this mode.",
+      "Trans": {"SC":"移动速度提升 25%，生命恢复速率翻倍。击杀鱼类恢复生命值，此模式承受伤害翻倍。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2793861976",
+      "Source": "Bloodbath",
+      "Trans": {"SC":"浴血","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2631923186",
+      "Source": "Blood Burning!!!",
+      "Trans": {"SC":"血气燃烧！！！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1272671288",
+      "Source": "+ 35% Damage, +20% Damage resistance, +50% Speed. Attacks become more ferocious, but lose 0.5% of maximum health per second.",
+      "Trans": {"SC":"伤害 + 35%，伤害抗性 + 20%，移速 + 50%。攻击变得更加凶猛，但每秒损失 0.5% 最大生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2023420524",
+      "Source": "Prowling...",
+      "Trans": {"SC":"潜行中…","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::752543946",
+      "Source": "You won't be attacked by those distant creatures. ",
+      "Trans": {"SC":"你不会被远处的生物主动攻击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1575274403",
+      "Source": "Hydro Affinity",
+      "Trans": {"SC":"水之亲和","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4235519653",
+      "Source": "Under the rule of Giant Spino, Damage + 15%, Resistance + 15%.",
+      "Trans": {"SC":"受巨型棘龙加持，伤害 + 15%，抗性 + 15%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2773137150",
+      "Source": "Gradually restore 5% of maximum health, or 13% if in the Blood Burning state.",
+      "Trans": {"SC":"缓慢恢复 5% 最大生命值；处于血气燃烧状态时恢复 13% 最大生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::345807397",
+      "Source": "(Hidden) Prevent Targeting",
+      "Trans": {"SC":"(隐藏) 阻止锁定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3818445146",
+      "Source": "Shoni should not be targeted by wild creatures from a long distance.",
+      "Trans": {"SC":"秀尼鱼龙不会被野生生物远距离锁定。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::308273403",
+      "Source": "Saurophaganax Roar",
+      "Trans": {"SC":"食蜥王龙咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3856847155",
+      "Source": "Your creatures have been inspired by Saurophaganax. Damage + 17%.",
+      "Trans": {"SC":"你的生物受到食蜥王龙鼓舞，伤害 + 17%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::936199968",
+      "Source": "Chilly",
+      "Trans": {"SC":"寒意","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4158955625",
+      "Source": "+20% speed, running no longer consumes stamina. ",
+      "Trans": {"SC":"移速 + 20%，奔跑不再消耗耐力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::128978707",
+      "Source": "Your creatures were intimidated by Saurophaganax. Damage -19%.",
+      "Trans": {"SC":"你的生物被食蜥王龙震慑，伤害‑19%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1381870487",
+      "Source": "Crippled.",
+      "Trans": {"SC":"肢体残废。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1106783224",
+      "Source": "Can't move! +50% Received Damage.",
+      "Trans": {"SC":"无法移动！受到伤害 + 50%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::190158950",
+      "Source": "Night Feeder",
+      "Trans": {"SC":"暗夜掠食","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::586466889",
+      "Source": "+20% damage, 5% lifesteal multiplier, capable of fearing creatures with drag weight ≤450.",
+      "Trans": {"SC":"伤害 + 20%，5% 吸血倍率，可对拖拽重量≤450 的生物施加恐惧。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::99680784",
+      "Source": "Energized!",
+      "Trans": {"SC":"活力迸发！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3876493107",
+      "Source": "Your Shonisaurus is full of energy!",
+      "Trans": {"SC":"你的秀尼鱼龙精力充沛！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3669363849",
+      "Source": "Torvo Roar Boost!",
+      "Trans": {"SC":"蛮龙咆哮增幅！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2470467452",
+      "Source": "+25% damage and speed, making it difficult for your creatures to be repelled.",
+      "Trans": {"SC":"伤害与移速 + 25%，你的生物难以被击退。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2952061043",
+      "Source": "Visceral injury!",
+      "Trans": {"SC":"内脏损伤！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3496020460",
+      "Source": "You shouldn't move too quickly, otherwise it will be even more painful.",
+      "Trans": {"SC":"不宜高速移动，否则会承受更高伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1321788158",
+      "Source": "Unyielding Spirit",
+      "Trans": {"SC":"不屈意志","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3150364594",
+      "Source": "Torvosaurus is fighting fiercely!",
+      "Trans": {"SC":"蛮龙奋力作战！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1317736796",
+      "Source": "Unyielding Cooldown",
+      "Trans": {"SC":"不屈冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1966715581",
+      "Source": "Bite / Tail Slap",
+      "Trans": {"SC":"撕咬/尾部拍击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3934858055",
+      "Source": "Claw / Giga Bite",
+      "Trans": {"SC":"利爪/巨力撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::67290213",
+      "Source": "Stomp",
+      "Trans": {"SC":"重踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3098498616",
+      "Source": "Toggle Next / Prev Scale",
+      "Trans": {"SC":"切换下/上一个鳞片形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1955897256",
+      "Source": "Toggle Claw / Giga Bite",
+      "Trans": {"SC":"切换利爪/巨力撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::112219838",
+      "Source": "Toggle Turn In Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1134446426",
+      "Source": "Bite / Execute",
+      "Trans": {"SC":"撕咬/处决","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3264709788",
+      "Source": "Axe Bite",
+      "Trans": {"SC":"斧式撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::620842208",
+      "Source": "Headbutt / Frenzy Stomp",
+      "Trans": {"SC":"头槌/狂暴重踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::97328281",
+      "Source": "Claw Strike",
+      "Trans": {"SC":"利爪挥击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3426760172",
+      "Source": "Bloodburning (End)",
+      "Trans": {"SC":"血气燃烧（结束）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3564918286",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::140763907",
+      "Source": "Blood Rend",
+      "Trans": {"SC":"血裂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::88218214",
+      "Source": "Ambush State",
+      "Trans": {"SC":"伏击状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1191259034",
+      "Source": "Bloodbath Roar",
+      "Trans": {"SC":"浴血咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1635334699",
+      "Source": "Switch Mode",
+      "Trans": {"SC":"切换模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3395327307",
+      "Source": "Sideswipe (Defense)",
+      "Trans": {"SC":"侧扫（防御）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3698677004",
+      "Source": "It reigns supreme over swamps and shallows — an amphibious apex predator that rivals the top giants. Its streamlined body strikes swiftly on land and lurks silently in water.",
+      "Trans": {"SC":"它统治沼泽与浅滩，是可与顶级巨兽抗衡的两栖顶级掠食者。流线型躯体在陆地迅猛出击，于水中悄然潜伏。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2239977729",
+      "Source": "Tailwhip",
+      "Trans": {"SC":"甩尾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2917556048",
+      "Source": "Crush",
+      "Trans": {"SC":"碾压","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

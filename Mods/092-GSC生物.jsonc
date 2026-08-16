@@ -1,0 +1,838 @@
+{
+  "GuiShan Collection": [     //2026.8.15
+    {
+      "NamespaceHash": "Content::2545223253",
+      "Source": "Arganodus",
+      "Trans": {"SC":"阿加纳齿鱼","JA":"阿加納齿鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3700226083",
+      "Source": "Prenocephale",
+      "Trans": {"SC":"倾头龙","JA":"傾頭龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2579167242",
+      "Source": "Mawsonia",
+      "Trans": {"SC":"莫森氏鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1187376824",
+      "Source": "X-Mawsonia",
+      "Trans": {"SC":"X-莫森氏鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4000015998",
+      "Source": "Arambourgiania",
+      "Trans": {"SC":"阿氏翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2254938298",
+      "Source": "R-Arambourgiania",
+      "Trans": {"SC":"R-阿氏翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1594215859",
+      "Source": "Probactrosaurus",
+      "Trans": {"SC":"原巴克龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::77592237",
+      "Source": "GSC Smithy",
+      "Trans": {"SC":"GSC 铁匠台","JA":"GSC 鐵匠台"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::493123082",
+      "Source": "Chinlea",
+      "Trans": {"SC":"钦利鱼","JA":"欽利鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3121410779",
+      "Source": "Oxalaia",
+      "Trans": {"SC":"奥沙拉龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2740591655",
+      "Source": "Ichthyostega",
+      "Trans": {"SC":"鱼石螈","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4159296085",
+      "Source": "Alpha Ichthyostega Laugher",
+      "Trans": {"SC":"精英鱼石螈嘲谑者","JA":"精英鱼石螈嘲謔者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1990845087",
+      "Source": "Anchor Stone",
+      "Trans": {"SC":"锚定石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1343804502",
+      "Source": "An item used to prevent your dinosaur from moving around.",
+      "Trans": {"SC":"用于阻止你的恐龙四处乱跑的物品。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3538336316",
+      "Source": "GSC Arambourgiania Saddle",
+      "Trans": {"SC":"GSC 阿氏翼龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2445307296",
+      "Source": "Equip a Arambourgiania with this to ride it.",
+      "Trans": {"SC":"装备到阿氏翼龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::384518967",
+      "Source": "GSC Archelon Saddle",
+      "Trans": {"SC":"GSC 古巨龟鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3216276606",
+      "Source": "Equip an Archelon with this to ride it.",
+      "Trans": {"SC":"装备到古巨龟上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2960859430",
+      "Source": "GSC Arganodus Saddle",
+      "Trans": {"SC":"GSC 阿加纳齿鱼鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2221764903",
+      "Source": "Equip a Arganodus with this to ride it.",
+      "Trans": {"SC":"装备到阿加纳齿鱼上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::518436986",
+      "Source": "GSC Chinlea Saddle",
+      "Trans": {"SC":"GSC 钦利鱼鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3469400938",
+      "Source": "Equip a Chinlea with this to ride it.",
+      "Trans": {"SC":"装备到钦利鱼上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3262517655",
+      "Source": "GSC Deinocheirus Saddle",
+      "Trans": {"SC":"GSC 恐手龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1778051583",
+      "Source": "GSC Ichthyostega Saddle",
+      "Trans": {"SC":"GSC 鱼石螈鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3055731359",
+      "Source": "Equip a Ichthyostega with this to ride it.",
+      "Trans": {"SC":"装备到鱼石螈上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3577439700",
+      "Source": "GSC Inostrancevia Saddle",
+      "Trans": {"SC":"GSC 狼蜥兽鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1024122376",
+      "Source": "Equip a Inostrancevia with this to ride it.",
+      "Trans": {"SC":"装备到狼蜥兽上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3451970300",
+      "Source": "GSC Mawsonia Saddle",
+      "Trans": {"SC":"GSC 莫森氏鱼鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1528423824",
+      "Source": "Equip a Mawsonia with this to ride it.",
+      "Trans": {"SC":"装备到莫森氏鱼上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2173181872",
+      "Source": "GSC Oxalaia Saddle",
+      "Trans": {"SC":"GSC 奥沙拉龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::375606202",
+      "Source": "Equip a Oxalaia with this to ride it.",
+      "Trans": {"SC":"装备到奥沙拉龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1020030883",
+      "Source": "GSC Prenocephale Saddle",
+      "Trans": {"SC":"GSC 倾头龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2479701508",
+      "Source": "Equip a Prenocephale with this to ride it.",
+      "Trans": {"SC":"装备到倾头龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1561655657",
+      "Source": "GSC Probactrosaurus Saddle",
+      "Trans": {"SC":"GSC 原巴克龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::961656507",
+      "Source": "Equip a Probactrosaurus with this to ride it.",
+      "Trans": {"SC":"装备到原巴克龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1368305500",
+      "Source": "GSC Tarbosaurus Saddle",
+      "Trans": {"SC":"GSC 特暴龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2496509277",
+      "Source": "Equip a Tarbosaurus with this to ride it.",
+      "Trans": {"SC":"装备到GSC特暴龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1350421203",
+      "Source": "GSC Tarchia Saddle",
+      "Trans": {"SC":"GSC 多智龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2697056650",
+      "Source": "Deinocheirus Challenge Entry",
+      "Trans": {"SC":"恐手龙挑战入场物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::79808897",
+      "Source": "After use, you can use land creatures to fight against it. When it is seriously injured and tired, it will give up fighting and accept your taming.",
+      "Trans": {"SC":"使用后，你可以使用陆地生物与其战斗。当它重伤疲惫后，将会放弃抵抗并接受你的驯服。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::304836531",
+      "Source": "Fertilized Arambourgiania Egg",
+      "Trans": {"SC":"受精的阿氏翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3672281933",
+      "Source": "Fertilized R-Arambourgiania Egg",
+      "Trans": {"SC":"受精的 R‑阿氏翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3271327661",
+      "Source": "Fertilized X-Inostrancevia Egg",
+      "Trans": {"SC":"受精的 X‑狼蜥兽蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1734108018",
+      "Source": "Fertilized Oxalaia Egg",
+      "Trans": {"SC":"受精的奥沙拉龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1139988785",
+      "Source": "Fertilized Prenocephale Egg",
+      "Trans": {"SC":"受精的倾头龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3834467315",
+      "Source": "Fertilized Probactrosaurus Egg",
+      "Trans": {"SC":"受精的原巴克龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4042340800",
+      "Source": "Mixed Berry Juice",
+      "Trans": {"SC":"混合浆果汁","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1305825186",
+      "Source": "This glass of mixed juice is the favorite of herbivores and can help you to regenerate health.",
+      "Trans": {"SC":"这杯混合果汁是食草生物的最爱，能够帮助恢复生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1949327216",
+      "Source": "Fertilized Arganodus Egg",
+      "Trans": {"SC":"受精的阿加纳齿鱼卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3493364725",
+      "Source": "Fertilized Ichthyostega Egg",
+      "Trans": {"SC":"受精的鱼石螈卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3833594056",
+      "Source": "Yummy Food Mix",
+      "Trans": {"SC":"美味混合食物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2200698429",
+      "Source": "A kind of mixed food that makes you feel full.",
+      "Trans": {"SC":"一种可以带来饱腹感的混合食物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2707604193",
+      "Source": "Nai Long Costume",
+      "Trans": {"SC":"奶龙外观皮肤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3822942248",
+      "Source": "Use this costume to make your Ichthyostega look like a character from a Chinese animation.",
+      "Trans": {"SC":"使用该皮肤可以让你的鱼石螈变为一部国产动画角色的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1738479180",
+      "Source": "Composite Element",
+      "Trans": {"SC":"复合元素","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1548944234",
+      "Source": "A strange, highly advanced material humming with energy. Although it will not dissolve during the transfer of the ark, its existence time is shorter.",
+      "Trans": {"SC":"一种奇异的高阶材料，蕴含嗡鸣能量。方舟传送时不会消散，但存在时间较短。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3947175332",
+      "Source": "A smithy which is more expensive and has a larger storage capacity. You can craft mod items from Guishan’s collection here!",
+      "Trans": {"SC":"造价更高、存储空间更大的铁匠台。可在此制作龟山合集模组的物品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1990724070",
+      "Source": "Absolute Defense",
+      "Trans": {"SC":"绝对防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::654024504",
+      "Source": "It defense has reached the peak.",
+      "Trans": {"SC":"防御能力已经达到顶峰。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1517213676",
+      "Source": "Airflow Charge",
+      "Trans": {"SC":"气流充能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2505675408",
+      "Source": "Archelon Resistance",
+      "Trans": {"SC":"古巨龟抗性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4237225911",
+      "Source": "(Hidden) Arganodus Oxygen Rate",
+      "Trans": {"SC":"(隐藏) 阿加纳齿鱼氧气速率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2217538756",
+      "Source": "Blunt Trauma",
+      "Trans": {"SC":"钝击创伤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::385830747",
+      "Source": "You will suffer higher damage.",
+      "Trans": {"SC":"你将承受更高的伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::83326901",
+      "Source": "Boiling Blood!!!",
+      "Trans": {"SC":"热血沸腾！！！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3753726284",
+      "Source": "+50% damage, + 25% resistance, recover 50 health per scecond and is immune to debuffs.",
+      "Trans": {"SC":"伤害 + 50%，抗性 + 25%，每秒恢复 50 生命值，免疫负面效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::502804205",
+      "Source": "Depressed",
+      "Trans": {"SC":"意志消沉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::670377795",
+      "Source": "The guy failed in the duel and felt extremely depressed.",
+      "Trans": {"SC":"该生物决斗失败，陷入极度消沉。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3328209889",
+      "Source": "Found tamed carnivore,so became stronger.",
+      "Trans": {"SC":"发现已驯服的食肉生物，因此获得强化。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3708717746",
+      "Source": "Attract it to attack you(No Flyer).It will be excited.Over time, it will be tired.If now its health below 15%, you can tame it.",
+      "Trans": {"SC":"吸引它攻击你（飞行生物无效），它将会进入亢奋。随时间推移它会疲惫，当其生命值低于 15% 时即可驯服。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3868697247",
+      "Source": "Refreshing Oxygen",
+      "Trans": {"SC":"清新氧气","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::266270868",
+      "Source": "Your health is regenerating",
+      "Trans": {"SC":"你的生命值正在恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1366937191",
+      "Source": "Clear Vision",
+      "Trans": {"SC":"清晰视野","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3434889822",
+      "Source": "You can see more clearly and swim faster.",
+      "Trans": {"SC":"视野变得更加清晰，游泳速度提升。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2590808170",
+      "Source": "Cozy",
+      "Trans": {"SC":"舒适状态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2084981953",
+      "Source": "Increased your speed and health recovery rate, reduced stamina consumption rate.",
+      "Trans": {"SC":"提升移速与生命恢复速率，降低耐力消耗速率。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::284155229",
+      "Source": "Excited!!!",
+      "Trans": {"SC":"亢奋！！！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::417034233",
+      "Source": "Guardian!",
+      "Trans": {"SC":"守护姿态！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::709106079",
+      "Source": "Your Deinocheirus has inspired a sense of guardianship.",
+      "Trans": {"SC":"你的恐手龙唤起了守护意志。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1228412629",
+      "Source": "Delicious Fish.",
+      "Trans": {"SC":"鲜美鱼类。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2639689726",
+      "Source": "(Hidden) Force Carry Water Dino",
+      "Trans": {"SC":"(隐藏) 强制携带水生恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::783217744",
+      "Source": "Giants Court",
+      "Trans": {"SC":"巨鱼领域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1922836191",
+      "Source": "Under the protection of giant fishes, you will not be actively attacked by some creatures. The more fish, the better the effect.",
+      "Trans": {"SC":"在巨型鱼类的庇护下，不会被部分生物主动攻击。在场鱼类越多，效果越强。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3018008207",
+      "Source": "Breaking Arambourgiania",
+      "Trans": {"SC":"破阵阿氏翼龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2692359922",
+      "Source": "(Hidden) Harvesting Recovery",
+      "Trans": {"SC":"(隐藏) 采集恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::988002832",
+      "Source": "Use a buff to recover health and food.",
+      "Trans": {"SC":"通过增益效果恢复生命值与食物值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::649625620",
+      "Source": "Recover 20 health and 10 water per second.",
+      "Trans": {"SC":"每秒恢复 20 生命值与 10 水分值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::670234133",
+      "Source": "Extremely Cold",
+      "Trans": {"SC":"极寒适应","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3721873404",
+      "Source": "Osalaia has adapted to the extremely cold conditions, its defense and debuff resistance have been enhanced!",
+      "Trans": {"SC":"奥沙拉龙适应极寒环境，防御与负面抗性得到提升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2098557385",
+      "Source": "Extremely Hot",
+      "Trans": {"SC":"酷热适应","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1390703385",
+      "Source": "Oxalaia has adapted to the extremely hot conditions, its strength and recovery ability have been enhanced!",
+      "Trans": {"SC":"奥沙拉龙适应酷热环境，力量与恢复能力得到提升！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2973977371",
+      "Source": "Permian Sword",
+      "Trans": {"SC":"二叠之剑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2203160365",
+      "Source": "Your Inostrancevia is now becoming more excited. +30% damage and +15% speed.",
+      "Trans": {"SC":"你的狼蜥兽进入亢奋状态。伤害 + 30%，移速 + 15%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1430607509",
+      "Source": "Prevent Stunned Again!",
+      "Trans": {"SC":"免疫再次眩晕！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3980460722",
+      "Source": "Probactrosaurus is in excited. It can even make the wild creatures feel hungry.",
+      "Trans": {"SC":"原巴克龙处于亢奋状态，甚至可以使野生生物产生饥饿感。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3176137009",
+      "Source": "Supressed",
+      "Trans": {"SC":"意志压制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3422377280",
+      "Source": "Probactrosaurus is in supressed. It will make it difficult for wild creature to conscious.",
+      "Trans": {"SC":"原巴克龙开启压制，使野生生物难以保持清醒。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::631431731",
+      "Source": "Calming Fragrance",
+      "Trans": {"SC":"宁神香气","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::493511275",
+      "Source": "Sleeping.",
+      "Trans": {"SC":"沉睡。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1698054689",
+      "Source": "Gradually recover health until reaching the max.",
+      "Trans": {"SC":"持续恢复生命值直至回满。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1770318126",
+      "Source": "Sleeping...",
+      "Trans": {"SC":"沉睡…","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1336485148",
+      "Source": "Speed Up",
+      "Trans": {"SC":"加速","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::42782933",
+      "Source": "+ 20% Speed.",
+      "Trans": {"SC":"移速 + 20%。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2369197661",
+      "Source": "Anchored!",
+      "Trans": {"SC":"锚定！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1750405716",
+      "Source": "Prevent your dinosaur from moving around.",
+      "Trans": {"SC":"阻止你的恐龙四处移动。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3204520974",
+      "Source": "Strange Smell",
+      "Trans": {"SC":"奇异气味","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2380192309",
+      "Source": "Make creatures more hungry",
+      "Trans": {"SC":"使生物饥饿程度上升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::836989131",
+      "Source": "Tempting Fish",
+      "Trans": {"SC":"诱食鱼味","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::109202426",
+      "Source": "Make carnivores more hungry",
+      "Trans": {"SC":"使食肉生物饥饿程度上升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4182244384",
+      "Source": "Unmatched Valor!",
+      "Trans": {"SC":"无双勇武！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3613539845",
+      "Source": "Wind Master",
+      "Trans": {"SC":"风之主宰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::821125311",
+      "Source": "Significant increase in acceleration speed.",
+      "Trans": {"SC":"大幅提升加速能力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::352586805",
+      "Source": "Grab / Steal Egg",
+      "Trans": {"SC":"抓取 / 偷取蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1422061312",
+      "Source": "Toggle Airflow Charge",
+      "Trans": {"SC":"切换气流充能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3576765682",
+      "Source": "Rest",
+      "Trans": {"SC":"休憩","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4143430904",
+      "Source": "Toggle Fall-Death Grab",
+      "Trans": {"SC":"切换坠亡抓取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::626047961",
+      "Source": "Headbutt",
+      "Trans": {"SC":"头槌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4192599568",
+      "Source": "Finslap",
+      "Trans": {"SC":"鱼鳍拍击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1919272525",
+      "Source": "Gorge",
+      "Trans": {"SC":"暴食","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2118146400",
+      "Source": "Showy Roar",
+      "Trans": {"SC":"炫威咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2886103300",
+      "Source": "Toggle Saddle Ability",
+      "Trans": {"SC":"切换鞍具技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2431703728",
+      "Source": "Crunch ",
+      "Trans": {"SC":"啃咬碾压","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::627458136",
+      "Source": "Double Bite",
+      "Trans": {"SC":"双重撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::243696258",
+      "Source": "Toggle resources conversion",
+      "Trans": {"SC":"切换资源转化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3747181080",
+      "Source": "Toggle Predator Vision",
+      "Trans": {"SC":"切换掠食者视野","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1621293798",
+      "Source": "Heavy Strike (Guradian)",
+      "Trans": {"SC":"重击（守护形态）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2369677956",
+      "Source": "Claw Thump",
+      "Trans": {"SC":"利爪重砸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3150157488",
+      "Source": "Jumping Stomp",
+      "Trans": {"SC":"跳跃重踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1777458141",
+      "Source": "Eating Fish",
+      "Trans": {"SC":"进食鱼类","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3781501649",
+      "Source": "Guardian Mode",
+      "Trans": {"SC":"守护模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3747199237",
+      "Source": "Belly Flop",
+      "Trans": {"SC":"俯拍冲击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1411631852",
+      "Source": "Double Bite / Thrash",
+      "Trans": {"SC":"双重撕咬 / 狂暴抽打","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1797229774",
+      "Source": "Temp Roar",
+      "Trans": {"SC":"临时咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1325608414",
+      "Source": "Strike",
+      "Trans": {"SC":"挥击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::720599890",
+      "Source": "Smash",
+      "Trans": {"SC":"猛砸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::86792084",
+      "Source": "Hit / Tailwhip",
+      "Trans": {"SC":"打击 / 甩尾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::35405617",
+      "Source": "Tailwhip / Smash",
+      "Trans": {"SC":"甩尾 / 猛砸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1673083760",
+      "Source": "Headbutt /  Eating fiber",
+      "Trans": {"SC":"头槌 / 进食纤维","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::17019911",
+      "Source": "Toggle Defense Mode",
+      "Trans": {"SC":"切换防御模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

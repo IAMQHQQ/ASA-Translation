@@ -1,0 +1,1852 @@
+{
+  "Stronger Dinos ASA": [       //2026.8.15 
+    {
+      "NamespaceHash": "Content::530317074",
+      "Source": "SD-Pachy",
+      "Trans": {"SC":"SD-肿头龙","JA":"SD-腫頭龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2466694565",
+      "Source": "Deeply Corrupted Paraceratherium",
+      "Trans": {"SC":"深度腐化巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2050314363",
+      "Source": "SD-Paraceratherium",
+      "Trans": {"SC":"SD-巨犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3125416856",
+      "Source": "Aberrant SD-Paraceratherium",
+      "Trans": {"SC":"SD-畸变巨犀","JA":"SD-畸變巨犀"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2918957550",
+      "Source": "SD-Coelacanth",
+      "Trans": {"SC":"SD-腔棘鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2949595742",
+      "Source": "SD-Parasaur",
+      "Trans": {"SC":"SD-副栉龙","JA":"SD-副櫛龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1420893382",
+      "Source": "Compy Follower",
+      "Trans": {"SC":"美颌龙随从","JA":"美頜龙随从"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1520747570",
+      "Source": "SD-Pegomastax",
+      "Trans": {"SC":"SD-双坚颌龙","JA":"SD-双堅頜龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::907613910",
+      "Source": "SD-Compy",
+      "Trans": {"SC":"SD-美颌龙","JA":"SD-美頜龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::651275537",
+      "Source": "SD-Pelagornis",
+      "Trans": {"SC":"SD-伪齿鸟","JA":"SD-偽齿鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1475561615",
+      "Source": "Alpha SD-Pelagornis",
+      "Trans": {"SC":"精英SD-伪齿鸟","JA":"精英SD-偽齿鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3114220428",
+      "Source": "SD-Acrocanthosaurus",
+      "Trans": {"SC":"SD-高棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2591404363",
+      "Source": "SD-Moeder",
+      "Trans": {"SC":"SD-莫德尔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3867130235",
+      "Source": "SD-Phiomia",
+      "Trans": {"SC":"SD-法尤姆象","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::777570500",
+      "Source": "SD-Piranha",
+      "Trans": {"SC":"SD-食人鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::656913259",
+      "Source": "Aberrant SD-Piranha",
+      "Trans": {"SC":"SD-畸变食人鱼","JA":"SD-畸變食人鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1865486754",
+      "Source": "Alpha SD-Acrocanthosaurus",
+      "Trans": {"SC":"精英SD-高棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1567088522",
+      "Source": "Moeder, Tyrant of the Hadopelagic Trench",
+      "Trans": {"SC":"莫德尔，深渊海沟暴君","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::461207085",
+      "Source": "Atmophheric Plesiosaur",
+      "Trans": {"SC":"大气蛇颈龙","JA":"大气蛇頸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3987965860",
+      "Source": "SD-Pteranodon",
+      "Trans": {"SC":"SD-无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2626773562",
+      "Source": "Alpha SD-Pteranodon",
+      "Trans": {"SC":"精英SD-无齿翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4199538983",
+      "Source": "SD-Karkinos",
+      "Trans": {"SC":"SD-巨蟹","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3392460068",
+      "Source": "SD-Ovis",
+      "Trans": {"SC":"SD-绵羊","JA":"SD-綿羊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::933861164",
+      "Source": "SD-Diplocaulus",
+      "Trans": {"SC":"SD-盗首螈","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::272438026",
+      "Source": "(Unfinished) Dodo Reaper",
+      "Trans": {"SC":"（未完成）渡渡死神","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::437177534",
+      "Source": "SD Mod Creative Table",
+      "Trans": {"SC":"SD模组创造工作台","JA":"SD模組創造工作台"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1088121308",
+      "Source": "SD-Allosaurus",
+      "Trans": {"SC":"SD-异特龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2018302957",
+      "Source": "SD-Daeodon",
+      "Trans": {"SC":"SD-凶齿豨","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::838437954",
+      "Source": "Alpha SD-Allosaurus",
+      "Trans": {"SC":"精英SD-异特龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::321295721",
+      "Source": "Alpha Dodo Reaper",
+      "Trans": {"SC":"精英渡渡死神","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1977899796",
+      "Source": "SD-Diplodocus",
+      "Trans": {"SC":"SD-梁龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2118088120",
+      "Source": "SD-Velonasaur",
+      "Trans": {"SC":"SD-刺面龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3338603706",
+      "Source": "SD-Deinosuchus",
+      "Trans": {"SC":"SD-恐鳄","JA":"SD-恐鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1543119182",
+      "Source": "SD-Dire Bear",
+      "Trans": {"SC":"SD-恐熊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::12463457",
+      "Source": "SD-Electrophorus",
+      "Trans": {"SC":"SD-电鳗","JA":"SD-電鰻"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3136708425",
+      "Source": "SD-Thorny Dragon",
+      "Trans": {"SC":"SD-棘蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3305768405",
+      "Source": "Alpha SD-Thorny Dragon",
+      "Trans": {"SC":"精英SD-棘蜥","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2451405339",
+      "Source": "SD-Polar Bear",
+      "Trans": {"SC":"SD-北极熊","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::30490749",
+      "Source": "SD-Direwolf",
+      "Trans": {"SC":"SD-恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::169721004",
+      "Source": "SD-Enforcer",
+      "Trans": {"SC":"SD-执行者","JA":"SD-執行者"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1786300058",
+      "Source": "SD-Deinotherium",
+      "Trans": {"SC":"SD-恐象","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1323523252",
+      "Source": "Deeply Corrupted Spino",
+      "Trans": {"SC":"深度腐化棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::984470469",
+      "Source": "Alpha SD-Direwolf",
+      "Trans": {"SC":"精英SD-恐狼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2403108011",
+      "Source": "Alpha SD-Deinotherium",
+      "Trans": {"SC":"精英SD-恐象","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3937741950",
+      "Source": "SD-Anglerfish",
+      "Trans": {"SC":"SD-鮟鱇鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1507210804",
+      "Source": "SD-Equus",
+      "Trans": {"SC":"SD-庞马","JA":"SD-龐马"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2610416096",
+      "Source": "Alpha SD-Anglerfish",
+      "Trans": {"SC":"精英SD-鮟鱇鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2706895986",
+      "Source": "SD-Spino",
+      "Trans": {"SC":"SD-棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1171334238",
+      "Source": "Aberrant SD-Equus",
+      "Trans": {"SC":"SD-畸变庞马","JA":"SD-畸變龐马"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3176195608",
+      "Source": "Aberrant SD-Spino",
+      "Trans": {"SC":"SD-畸变棘龙","JA":"SD-畸變棘龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4139935494",
+      "Source": "SD-Desmodus",
+      "Trans": {"SC":"SD-吸血蝙蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::996069698",
+      "Source": "SD-Ankylosaurus",
+      "Trans": {"SC":"SD-甲龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3126083491",
+      "Source": "Aberrant SD-Ankylosaurus",
+      "Trans": {"SC":"SD-畸变甲龙","JA":"SD-畸變甲龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2907009829",
+      "Source": "(Unfinished) Feathered Giganotosaurus",
+      "Trans": {"SC":"（未完成）羽生南方巨兽龙","JA":"（未完成）羽生南方巨獸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4174570635",
+      "Source": "SD-Doedicurus",
+      "Trans": {"SC":"SD-星尾兽","JA":"SD-星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2036913994",
+      "Source": "Alpha SD-Spino",
+      "Trans": {"SC":"精英SD-棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2219995675",
+      "Source": "Aberrant SD-Doedicurus",
+      "Trans": {"SC":"SD-畸变星尾兽","JA":"SD-畸變星尾獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1602639856",
+      "Source": "Aberrant Alpha SD-Spino",
+      "Trans": {"SC":"精英SD-畸变棘龙","JA":"精英SD-畸變棘龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2918096041",
+      "Source": "SD-Dimetrodon",
+      "Trans": {"SC":"SD-异齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2157091668",
+      "Source": "SD-Archelon",
+      "Trans": {"SC":"SD-古巨龟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::897337913",
+      "Source": "SD-Ichthyosaurus",
+      "Trans": {"SC":"SD-鱼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4084534199",
+      "Source": "Scarred Rex",
+      "Trans": {"SC":"伤痕霸王龙","JA":"傷痕霸王龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3401432561",
+      "Source": "Improved Tek Rex",
+      "Trans": {"SC":"改良泰克霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1377705851",
+      "Source": "SD-Gallimimus",
+      "Trans": {"SC":"SD-似鸡龙","JA":"SD-似雞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2397985438",
+      "Source": "SD-Woolly Rhino",
+      "Trans": {"SC":"SD-披毛犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3077189570",
+      "Source": "SD-Dragon",
+      "Trans": {"SC":"SD-喷火龙","JA":"SD-噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1806309551",
+      "Source": "Alpha SD-Woolly Rhino",
+      "Trans": {"SC":"精英SD-披毛犀","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2822294952",
+      "Source": "SD-Argentavis",
+      "Trans": {"SC":"SD-阿根廷鹫","JA":"SD-阿根廷鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2546746522",
+      "Source": "SD-Kentrosaurus",
+      "Trans": {"SC":"SD-钉状龙","JA":"SD-釘状龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::108631393",
+      "Source": "SD-Megapithecus",
+      "Trans": {"SC":"SD-银背金刚","JA":"SD-銀背金剛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3844019818",
+      "Source": "Alpha SD-Mantis",
+      "Trans": {"SC":"精英SD-螳螂","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4057119260",
+      "Source": "Featherlight(S)",
+      "Trans": {"SC":"光羽鸟（S）","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3694119052",
+      "Source": "SD-Grand Tortugar",
+      "Trans": {"SC":"SD-巨甲陆龟","JA":"SD-巨甲陸龟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::172570360",
+      "Source": "SD-Rhyniognatha",
+      "Trans": {"SC":"SD-莱尼颚虫","JA":"SD-莱尼顎虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1285220290",
+      "Source": "Deeply Corrupted Arthropluera",
+      "Trans": {"SC":"深度腐化节胸虫","JA":"深度腐化節胸虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1515944927",
+      "Source": "Atmophheric Megalodon",
+      "Trans": {"SC":"大气巨齿鲨","JA":"大气巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::841089002",
+      "Source": "Alpha SD-Grand Tortugar",
+      "Trans": {"SC":"精英SD-巨甲陆龟","JA":"精英SD-巨甲陸龟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1994279310",
+      "Source": "SD-Shinehorn",
+      "Trans": {"SC":"SD-闪角鹿","JA":"SD-閃角鹿"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::123653790",
+      "Source": "SD-Arthropluera",
+      "Trans": {"SC":"SD-节胸虫","JA":"SD-節胸虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::903102158",
+      "Source": "SD-Megalodon",
+      "Trans": {"SC":"SD-巨齿鲨","JA":"SD-巨齿鯊"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4010636489",
+      "Source": "Alpha SD-Rhyniognatha",
+      "Trans": {"SC":"精英SD-莱尼颚虫","JA":"精英SD-莱尼顎虫"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::984006154",
+      "Source": "SD-Tapejara",
+      "Trans": {"SC":"SD-古神翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3870961095",
+      "Source": "SD-Megatherium",
+      "Trans": {"SC":"SD-大地懒","JA":"SD-大地懶"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2046734066",
+      "Source": "SD-Griffin",
+      "Trans": {"SC":"SD-狮鹫","JA":"SD-獅鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3578323926",
+      "Source": "SD-Procoptodon",
+      "Trans": {"SC":"SD-短面袋鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3913357045",
+      "Source": "SD-Terror Bird",
+      "Trans": {"SC":"SD-骇鸟","JA":"SD-駭鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::911613143",
+      "Source": "Atmophheric Dunkleosteus",
+      "Trans": {"SC":"大气邓氏鱼","JA":"大气鄧氏鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2605159843",
+      "Source": "Alpha SD-Terror Bird",
+      "Trans": {"SC":"精英SD-骇鸟","JA":"精英SD-駭鸟"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2451575824",
+      "Source": "SD-Dunkleosteus",
+      "Trans": {"SC":"SD-邓氏鱼","JA":"SD-鄧氏鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2636793051",
+      "Source": "Alpha SD-Griffin",
+      "Trans": {"SC":"精英SD-狮鹫","JA":"精英SD-獅鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2153948416",
+      "Source": "Glowtail(S)",
+      "Trans": {"SC":"耀尾蜥（S）","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::232076150",
+      "Source": "SD-Rock Drake",
+      "Trans": {"SC":"SD-岩龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2269662109",
+      "Source": "SD-Hesperornis",
+      "Trans": {"SC":"SD-黄昏鸟","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2553474914",
+      "Source": "Corrupted SD-Rock Elemental",
+      "Trans": {"SC":"腐化SD-岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4241349433",
+      "Source": "SD-Baryonyx",
+      "Trans": {"SC":"SD-重爪龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3882079462",
+      "Source": "SD-Bulbdog",
+      "Trans": {"SC":"SD-灯泡犬","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::935026002",
+      "Source": "SD-Moschops",
+      "Trans": {"SC":"SD-麝足兽","JA":"SD-麝足獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3887805994",
+      "Source": "SD-Iguanodon",
+      "Trans": {"SC":"SD-禽龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2875985453",
+      "Source": "Aberrant SD-Moschops",
+      "Trans": {"SC":"SD-畸变麝足兽","JA":"SD-畸變麝足獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1164768409",
+      "Source": "Rock Drake Guardian",
+      "Trans": {"SC":"岩龙守卫","JA":"岩龙守衛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3350284417",
+      "Source": "Alpha SD-Baryonyx",
+      "Trans": {"SC":"精英SD-重爪龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::499607142",
+      "Source": "SD-Rock Elemental",
+      "Trans": {"SC":"SD-岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1972085375",
+      "Source": "Eutrophic Leech",
+      "Trans": {"SC":"富营养水蛭","JA":"富營养水蛭"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::716999292",
+      "Source": "SD-Lymantria",
+      "Trans": {"SC":"SD-沙蛾","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1806649084",
+      "Source": "SD-Roll Rat",
+      "Trans": {"SC":"SD-翻滚鼠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4090056960",
+      "Source": "Alpha SD-Rock Elemental",
+      "Trans": {"SC":"精英SD-岩石巨人","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::53548107",
+      "Source": "SD-Brontosaurus",
+      "Trans": {"SC":"SD-雷龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2608829330",
+      "Source": "SD-Mesopithecus",
+      "Trans": {"SC":"SD-中猴","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::319991039",
+      "Source": "SD-Basilisk",
+      "Trans": {"SC":"SD-帝蟒","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1785768295",
+      "Source": "SD-Liopleurodon",
+      "Trans": {"SC":"SD-滑齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::439953641",
+      "Source": "SD-Carcharodontosaurus",
+      "Trans": {"SC":"SD-鲨齿龙","JA":"SD-鯊齿龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3212372335",
+      "Source": "Corrupted SD-Brontosaurus",
+      "Trans": {"SC":"腐化SD-雷龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::70663059",
+      "Source": "Deeply Corrupted Carnotaurus",
+      "Trans": {"SC":"深度腐化肉食牛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2402610006",
+      "Source": "Alpha SD-Liopleurodon",
+      "Trans": {"SC":"精英SD-滑齿龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1320249348",
+      "Source": "SD-Basilosaurus",
+      "Trans": {"SC":"SD-龙王鲸","JA":"SD-龙王鯨"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::990394669",
+      "Source": "SD-Lystrosaurus",
+      "Trans": {"SC":"SD-水龙兽","JA":"SD-水龙獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3374572229",
+      "Source": "SD-Sabertooth",
+      "Trans": {"SC":"SD-刃齿虎","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2884971061",
+      "Source": "Alpha SD-Basilosaurus",
+      "Trans": {"SC":"精英SD-龙王鲸","JA":"精英SD-龙王鯨"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3967953042",
+      "Source": "SD-Onyc",
+      "Trans": {"SC":"SD-爪蝠","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::137076089",
+      "Source": "SD-Sabertooth Salmon",
+      "Trans": {"SC":"SD-剑齿鲑鱼","JA":"SD-劍齿鮭鱼"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4194901124",
+      "Source": "SD-Ceratosaurus",
+      "Trans": {"SC":"SD-角鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2435396481",
+      "Source": "SD-Thylacoleo",
+      "Trans": {"SC":"SD-袋狮","JA":"SD-袋獅"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::261556062",
+      "Source": "SD-Sarco",
+      "Trans": {"SC":"SD-猪鳄","JA":"SD-猪鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3718997312",
+      "Source": "SD-Castoroides",
+      "Trans": {"SC":"SD-巨河狸","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3216610774",
+      "Source": "Corrupted SD-Titanosaur",
+      "Trans": {"SC":"腐化SD-泰坦龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::525164213",
+      "Source": "Alpha SD-Ceratosaurus",
+      "Trans": {"SC":"精英SD-角鼻龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3618120806",
+      "Source": "Alpha SD-Sarco",
+      "Trans": {"SC":"精英SD-猪鳄","JA":"精英SD-猪鱷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1763313760",
+      "Source": "SD-Manta",
+      "Trans": {"SC":"SD-蝠鲼","JA":"SD-蝠鱝"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::456921880",
+      "Source": "Lightning Wyvern Guardian",
+      "Trans": {"SC":"闪电飞龙守卫","JA":"閃電飞龙守衛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::979193415",
+      "Source": "SD-Mantis",
+      "Trans": {"SC":"SD-螳螂","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2710400841",
+      "Source": "SD-Chalicotherium",
+      "Trans": {"SC":"SD-爪兽","JA":"SD-爪獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::171324492",
+      "Source": "SD-Gigantopithecus",
+      "Trans": {"SC":"SD-巨猿","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::284538153",
+      "Source": "SD-Poison Wyvern",
+      "Trans": {"SC":"SD-剧毒飞龙","JA":"SD-劇毒飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1553025458",
+      "Source": "SD-Titanosaur",
+      "Trans": {"SC":"SD-泰坦龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2337238829",
+      "Source": "Volcano Dragon",
+      "Trans": {"SC":"火山喷火龙","JA":"火山噴火龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2375235127",
+      "Source": "SD-Bison",
+      "Trans": {"SC":"SD-野牛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1334007855",
+      "Source": "Alpha SD-Chalicotherium",
+      "Trans": {"SC":"精英SD-爪兽","JA":"精英SD-爪獸"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::98552189",
+      "Source": "SD-Beelzebufo",
+      "Trans": {"SC":"SD-魔鬼蛙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1460965197",
+      "Source": "Poison Wyvern Guardian",
+      "Trans": {"SC":"剧毒飞龙守卫","JA":"劇毒飞龙守衛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2266041321",
+      "Source": "SD-Tusoteuthis",
+      "Trans": {"SC":"SD-托斯特巨鱿","JA":"SD-托斯特巨魷"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2505567194",
+      "Source": "SD-Vulture",
+      "Trans": {"SC":"SD-秃鹫","JA":"SD-禿鷲"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3908123162",
+      "Source": "Corrupted Reaper Queen",
+      "Trans": {"SC":"腐化死神女王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3351904922",
+      "Source": "SD-Titanoboa",
+      "Trans": {"SC":"SD-泰坦蚺","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1729552170",
+      "Source": "SD-Magmasaur",
+      "Trans": {"SC":"SD-熔岩龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1829719857",
+      "Source": "SD-Fire Wyvern",
+      "Trans": {"SC":"SD-火焰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1502680918",
+      "Source": "Fire Wyvern Guardian",
+      "Trans": {"SC":"火焰飞龙守卫","JA":"火焰飞龙守衛"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4081959727",
+      "Source": "SD-Lightning Wyvern",
+      "Trans": {"SC":"SD-闪电飞龙","JA":"SD-閃電飞龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4125735395",
+      "Source": "SD-Oasisaur",
+      "Trans": {"SC":"SD-绿洲龙","JA":"SD-綠洲龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::725111101",
+      "Source": "SD-Otter",
+      "Trans": {"SC":"SD-水獭","JA":"SD-水獺"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2896465136",
+      "Source": "SD-Snow Owl",
+      "Trans": {"SC":"SD-雪鸮","JA":"SD-雪鴞"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3503559111",
+      "Source": "A dart that was used to provide a little treatment to a creature at a long distanc.It was designed by Horobi.",
+      "Trans": {"SC":"一种可以远距离为生物提供少量治疗的飞镖。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::21421494",
+      "Source": "Crystal Wyvern Helmet",
+      "Trans": {"SC":"水晶飞龙头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::836327373",
+      "Source": "Equip a Wyvern with this to increase its armor.",
+      "Trans": {"SC":"给飞龙装备此物可以提升护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1514816077",
+      "Source": "SD Direwolf Saddle",
+      "Trans": {"SC":"SD‑恐狼鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4147807678",
+      "Source": "Equip a Direwolf with this to ride it.",
+      "Trans": {"SC":"装备到恐狼上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2621538180",
+      "Source": "DodoReaper Implant Armor",
+      "Trans": {"SC":"渡渡死神植入护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3126675447",
+      "Source": "Equip a DodoReaper with this to increase its armor.",
+      "Trans": {"SC":"给渡渡死神装备此物提升护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::529932449",
+      "Source": "Moeder has natural armor.",
+      "Trans": {"SC":"莫德尔拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4126369714",
+      "Source": "Eel has natural armor.",
+      "Trans": {"SC":"电鳗拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2209696021",
+      "Source": "Titanosaurus has natural armor.",
+      "Trans": {"SC":"泰坦龙拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::934684572",
+      "Source": "SD-Liopleurodon Saddle",
+      "Trans": {"SC":"SD‑滑齿龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1363546193",
+      "Source": "Equip a Liopleurodon with this to ride it.",
+      "Trans": {"SC":"装备到滑齿龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1876571521",
+      "Source": "SD Universal Armor",
+      "Trans": {"SC":"SD-通用护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2113341113",
+      "Source": "Provide armor to specific SD creatures.",
+      "Trans": {"SC":"为指定 SD 模组生物提供护甲加成。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3337290807",
+      "Source": "SD Boss Universal Armor",
+      "Trans": {"SC":"SD-BOSS通用护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1617038491",
+      "Source": "Provide armor to specific Boss creatures.",
+      "Trans": {"SC":"为指定 BOSS 生物提供护甲加成。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2171046681",
+      "Source": "Now, Scarred Rex and Improved Tek Rex will accept your challenge, which is also your opportunity to tame it.",
+      "Trans": {"SC":"使用后，伤痕霸王龙与改良泰克霸王龙将会接受你的挑战，这也是驯服它们的机会。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1135848224",
+      "Source": "Rhyniognatha(S) Pheromone",
+      "Trans": {"SC":"莱尼颚虫(S)信息素","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1063873228",
+      "Source": "Beer Jar (For Creature)",
+      "Trans": {"SC":"生物专用啤酒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2926438989",
+      "Source": "It can be used by Chailocotherium and Deinotherium to make them become drunkards.",
+      "Trans": {"SC":"可对爪兽、恐象使用，使其进入醉酒状态。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4293791895",
+      "Source": "Berry Salad",
+      "Trans": {"SC":"浆果沙拉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3052980016",
+      "Source": "Mixing various berries and it can significantly increase the taming speed of herbivorous creatures.",
+      "Trans": {"SC":"多种浆果混合制成，可以大幅提升草食生物的驯服速度。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3066891617",
+      "Source": "Fertilized Titanboa Egg",
+      "Trans": {"SC":"受精的泰坦蚺蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2465911679",
+      "Source": "Fertilized DodoReaper Egg",
+      "Trans": {"SC":"受精的渡渡死神蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2681738930",
+      "Source": "Fertilized Dodo Wyvern Egg",
+      "Trans": {"SC":"受精的渡渡飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2128771112",
+      "Source": "Fertilized Feathered Giganotosaurus Egg",
+      "Trans": {"SC":"受精的羽生南方巨兽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3470377226",
+      "Source": "Fertilized Scarred Rex Egg",
+      "Trans": {"SC":"受精的伤痕霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1196652029",
+      "Source": "Fertilized Improved Tek Rex Egg",
+      "Trans": {"SC":"受精的改良泰克霸王龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4028373703",
+      "Source": "Fertilized Rhyniognatha Egg",
+      "Trans": {"SC":"受精的莱尼颚虫卵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2838094498",
+      "Source": "Fertilized Titanosaurus Egg",
+      "Trans": {"SC":"受精的泰坦龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1121753796",
+      "Source": "Fertilized Volcano Dragon Egg",
+      "Trans": {"SC":"受精的火山喷火龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2431944529",
+      "Source": "Empty Experience Bottle",
+      "Trans": {"SC":"空经验瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::780390281",
+      "Source": "Use it to help you gain extra XP in the process of gaining XP.",
+      "Trans": {"SC":"获取经验时使用，可获得额外经验值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3252220380",
+      "Source": "Experience Bottle",
+      "Trans": {"SC":"经验瓶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3566107546",
+      "Source": "Use it to earn XP",
+      "Trans": {"SC":"使用获得经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3355416935",
+      "Source": "Bison Cheese",
+      "Trans": {"SC":"野牛奶酪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2536782575",
+      "Source": "Nearly all creatures are keen on this cheese, consuming it will restore health and increase your health recovery multiplier by 20%.",
+      "Trans": {"SC":"几乎所有生物都喜爱该奶酪，食用后恢复生命值并提升 20% 生命恢复倍率。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2959624861",
+      "Source": "Delicious Fish Meat",
+      "Trans": {"SC":"美味鱼肉","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::515164599",
+      "Source": "Feed your Spinosaurus or Baryonyx to get a Fisherman Buff!",
+      "Trans": {"SC":"喂食棘龙或重爪龙可获得捕鱼者增益！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1881150608",
+      "Source": "SD Boss Kibble",
+      "Trans": {"SC":"SD-BOSS饲料","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::498332015",
+      "Source": "It can be used to tame creatures just like official Kibble, and it can be used to tame the Tamable Bosses in the SD Mod.",
+      "Trans": {"SC":"和官方饲料功能一致，可用于驯服 SD 模组内可驯服的 BOSS。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::883973657",
+      "Source": "Alpha Dodo Reaper Costume",
+      "Trans": {"SC":"精英渡渡死神外观套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2014597465",
+      "Source": "Use this costume to make Dodo Reaper look like the Alpha variant!",
+      "Trans": {"SC":"使用该套装将渡渡死神外观变为精英形态！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4089818432",
+      "Source": "Generic Ghost Costume",
+      "Trans": {"SC":"通用幽灵外观套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1057627978",
+      "Source": "Use this spectrally spooky costume to get your creatures into the spirit of the season!",
+      "Trans": {"SC":"使用这套灵异诡异外观，让你的生物充满节日氛围！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3656596015",
+      "Source": "Generic Unreal Costume",
+      "Trans": {"SC":"通用虚幻外观套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3812794313",
+      "Source": "Use this costume to make your creatures look unreal.",
+      "Trans": {"SC":"使用该套装赋予生物虚幻风格外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3779583994",
+      "Source": "Generic VR Costume",
+      "Trans": {"SC":"通用 VR 外观套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4239971525",
+      "Source": "Use this costume to make your creatures look like their vr variants of Genesis 2.",
+      "Trans": {"SC":"使用该套装，使生物变为创世 2 的 VR 变体外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1116501890",
+      "Source": "Hadopelagic Moeder Costume",
+      "Trans": {"SC":"深渊海沟莫德尔外观套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2432920791",
+      "Source": "Use this costume to make your Moeder look like a Boss!",
+      "Trans": {"SC":"使用该套装将你的莫德尔变为 BOSS 外观！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3113916952",
+      "Source": "SD Boss Heart",
+      "Trans": {"SC":"SD-BOSS之心","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::883789260",
+      "Source": "A table with a variety of uses.",
+      "Trans": {"SC":"功能多样的工作台。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3918570320",
+      "Source": "Hadopelagic Moeder Trophy",
+      "Trans": {"SC":"深渊海沟莫德尔战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4092292482",
+      "Source": "Blood Stone",
+      "Trans": {"SC":"血石","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::594046734",
+      "Source": "A strange stone that can heal SD-Rock Elemental.",
+      "Trans": {"SC":"可以治疗 SD‑岩石巨人的奇特石头。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3499302683",
+      "Source": "Base Boss Summoner",
+      "Trans": {"SC":"基础 BOSS 召唤器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2399963723",
+      "Source": "(test) Summon True Bosses",
+      "Trans": {"SC":"（测试）召唤本体 BOSS","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::858627553",
+      "Source": "Fire Wyvern Guardian Summoner",
+      "Trans": {"SC":"火焰飞龙守卫召唤器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::457311171",
+      "Source": "Summon a powerful Fire Wyvern and start a boss battle.",
+      "Trans": {"SC":"召唤强大的火焰飞龙，开启 BOSS 战。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2036223183",
+      "Source": "Lightning Wyvern Guardian Summoner",
+      "Trans": {"SC":"闪电飞龙守卫召唤器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2842051405",
+      "Source": "Summon a powerful Lightning Wyvern and start a boss battle.",
+      "Trans": {"SC":"召唤强大的闪电飞龙，开启 BOSS 战。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3411199484",
+      "Source": "Poison Wyvern Guardian Summoner",
+      "Trans": {"SC":"剧毒飞龙守卫召唤器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1493676034",
+      "Source": "Summon a powerful Poison Wyvern and start a boss battle.",
+      "Trans": {"SC":"召唤强大的剧毒飞龙，开启 BOSS 战。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2149897281",
+      "Source": "Rock Drake Guardian Summoner",
+      "Trans": {"SC":"岩龙守卫召唤器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1219670613",
+      "Source": "Summon a powerful Rock Drake and start a boss battle.",
+      "Trans": {"SC":"召唤强大的岩龙，开启 BOSS 战。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3634120088",
+      "Source": "SD-Sanguine Elixir",
+      "Trans": {"SC":"SD-血色秘药","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4074745822",
+      "Source": "Tastes salty and metallic, yet still strangely alluring to hungry creatures. It can additionally increase the taming effectiveness of creatures.",
+      "Trans": {"SC":"带着咸腥金属味，却对饥饿生物有奇异吸引力。可以提升生物驯服有效性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3422949751",
+      "Source": "Unassembled SD-Enforcer",
+      "Trans": {"SC":"未组装 SD‑执行者","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3236091607",
+      "Source": "Use this item to assemble a new SD-Enforcer!",
+      "Trans": {"SC":"使用该物品组装一台全新 SD‑执行者！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3574850434",
+      "Source": "SD-Electric Prod",
+      "Trans": {"SC":"SD-电击棒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1205843436",
+      "Source": "Piranha Bleeding.",
+      "Trans": {"SC":"食人鱼流血效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::32598997",
+      "Source": "You're bleeding! You'll take continuous damage and be slowed.",
+      "Trans": {"SC":"你正在流血！持续受到伤害并被减速。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3913258289",
+      "Source": "BloodSucking",
+      "Trans": {"SC":"吸血","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::198564820",
+      "Source": "Boa Venom",
+      "Trans": {"SC":"巨蟒毒素","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3280191793",
+      "Source": "True Boss!",
+      "Trans": {"SC":"本体 BOSS！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1824068789",
+      "Source": "Can be knocked.",
+      "Trans": {"SC":"可被击晕。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2322322254",
+      "Source": "SD-Rex will accept your challenge, which is also your opportunity to tame it.",
+      "Trans": {"SC":"SD-霸王龙将会接受你的挑战，这也是驯服它的机会。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2254652929",
+      "Source": "Comfortable.....",
+      "Trans": {"SC":"状态舒适.....","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1700762549",
+      "Source": "Your cubs are growing faster. Reduce food consumption rate by 50%, and increase health healing multiple from 1 to 1.5.",
+      "Trans": {"SC":"你的幼崽成长速度加快。食物消耗降低 50%，生命恢复倍率由 1 提升至 1.5。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969516326",
+      "Source": "Delicious Goat!",
+      "Trans": {"SC":"美味山羊！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::746628563",
+      "Source": "The unconscious carnivorous creature wants to eat you.",
+      "Trans": {"SC":"昏迷的肉食生物想要啃食你。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2985217154",
+      "Source": "Delicious Sheep!",
+      "Trans": {"SC":"美味绵羊！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3286667849",
+      "Source": "Absorb Killing XP",
+      "Trans": {"SC":"击杀吸收经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2831378110",
+      "Source": "Fisherman",
+      "Trans": {"SC":"捕鱼者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3921061706",
+      "Source": "+25% Damage, +25% Swimming Speed, +25 Health per second.",
+      "Trans": {"SC":"+25% 伤害，+25% 游泳速度，每秒恢复 25 生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1714227716",
+      "Source": "Healing Dart!",
+      "Trans": {"SC":"疗愈镖！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1548662605",
+      "Source": "It is undergoing treatment.",
+      "Trans": {"SC":"该生物正在接受治疗。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3500809191",
+      "Source": "Ice Armor!",
+      "Trans": {"SC":"寒冰护甲！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3667953898",
+      "Source": "Under the protection of ice armor.",
+      "Trans": {"SC":"处于寒冰护甲的保护之下。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1911553759",
+      "Source": "Daunting Creature",
+      "Trans": {"SC":"威慑气场","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2622290437",
+      "Source": "Flashbang-Lizard",
+      "Trans": {"SC":"闪光致盲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::47202580",
+      "Source": "You have been blinded.",
+      "Trans": {"SC":"你已被致盲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1403388256",
+      "Source": "Soft Light",
+      "Trans": {"SC":"柔和微光","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2842483517",
+      "Source": "Eutrophic Leeched",
+      "Trans": {"SC":"富营养水蛭寄生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1222743176",
+      "Source": "Liopleurodon Regeneration",
+      "Trans": {"SC":"滑齿龙再生","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::710460266",
+      "Source": "Restore HP.",
+      "Trans": {"SC":"恢复生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2543522789",
+      "Source": "Basilosaurus Follower",
+      "Trans": {"SC":"龙王鲸随从光环","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1028340925",
+      "Source": "Under the leadershiof of basilosaurus, Damage + 20%, damage resistance + 10%. Attacking a corpse benefits the surrounding Mantas.",
+      "Trans": {"SC":"在龙王鲸的统领下，伤害 + 20%，伤害抗性 + 10%。攻击尸体可以增益周围的蝠鲼。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3503219189",
+      "Source": "Lifespan",
+      "Trans": {"SC":"寿命","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2338864457",
+      "Source": "Swimming Helper",
+      "Trans": {"SC":"游泳助力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1693554333",
+      "Source": "Your health and stamina are slowly recovering,and your swimming speed is faster.",
+      "Trans": {"SC":"你的生命值与耐力缓慢恢复，游泳速度得到提升。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3797443159",
+      "Source": "It's happy now!",
+      "Trans": {"SC":"它现在十分亢奋！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3202735711",
+      "Source": "+25% Damage and  Damage resistance.",
+      "Trans": {"SC":"+25% 伤害与伤害抗性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1013998017",
+      "Source": "Phiomia Poop Cooldown",
+      "Trans": {"SC":"法尤姆象排便冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3741350145",
+      "Source": "Manta Vemon!",
+      "Trans": {"SC":"蝠鲼毒素！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1093936829",
+      "Source": "Your health is declining!",
+      "Trans": {"SC":"你的生命值正在流失！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2394176781",
+      "Source": "Prevent Melee Buff",
+      "Trans": {"SC":"禁用近战增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3047738194",
+      "Source": "Prevent the Flash Buff.",
+      "Trans": {"SC":"禁止闪光类增益效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::63639298",
+      "Source": "Prevent Flight!",
+      "Trans": {"SC":"禁止飞行！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2734131268",
+      "Source": "Prevent Rabies!",
+      "Trans": {"SC":"抵御狂躁症！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3774413091",
+      "Source": "You won't be threatened by Mega Rabies!",
+      "Trans": {"SC":"你不会受到巨型狂躁症的威胁！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3779356276",
+      "Source": "Extreme Rabies",
+      "Trans": {"SC":"极致狂躁症","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::356274430",
+      "Source": "Resistant Skin!",
+      "Trans": {"SC":"抗性外皮！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1254788786",
+      "Source": "Titanosaur can adapt to various debuffs for a period of time.",
+      "Trans": {"SC":"泰坦龙可以短时间免疫多种负面状态。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::575661307",
+      "Source": "+100% damage, +25% damage resistance and speed. Recover 10% of max health during this time.",
+      "Trans": {"SC":"+100% 伤害，+25% 伤害抗性与移速。该期间恢复 10% 最大生命值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2631066625",
+      "Source": "SD-Rhynio Incubation",
+      "Trans": {"SC":"SD-莱尼颚虫孵化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1797038478",
+      "Source": "SD Pheromonally Attractive",
+      "Trans": {"SC":"SD 信息素标记","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3706476646",
+      "Source": "Marked as a host for SD-Rhyniognatha larvae...",
+      "Trans": {"SC":"被标记为 SD-莱尼颚虫幼虫的寄生宿主……","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::654229540",
+      "Source": "Drive-By!",
+      "Trans": {"SC":"疾驰猛攻！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1519031518",
+      "Source": "+ 100% damage and 50% damage resistance.",
+      "Trans": {"SC":"+100% 伤害以及 50% 伤害抗性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1044827080",
+      "Source": "Hungry!",
+      "Trans": {"SC":"饥饿！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2237823548",
+      "Source": "Well-Trained",
+      "Trans": {"SC":"训练有素","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3428700432",
+      "Source": "Immune to some fear and slowing debuffs.",
+      "Trans": {"SC":"免疫部分恐惧与减速负面效果。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3881514215",
+      "Source": "BioLum Gem Ability!",
+      "Trans": {"SC":"生物荧光宝石能力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3093622076",
+      "Source": "Increased movement and turning speed. The poison ball now fires three consecutive shots.",
+      "Trans": {"SC":"提升移动与转向速度。毒球现在可以三连发射。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1528233230",
+      "Source": "Element Gem Ability!",
+      "Trans": {"SC":"元素宝石能力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::713458227",
+      "Source": "Melee attack will cause additional health loss and radiation buff will greatly reduce healing received.",
+      "Trans": {"SC":"近战攻击造成额外生命流失，辐射效果会大幅降低受到的治疗量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4180864524",
+      "Source": "Fertile Gem Ability!",
+      "Trans": {"SC":"丰饶宝石能力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3797194606",
+      "Source": "Recover 25 health per second. Melee attack generates increased more torpidity.",
+      "Trans": {"SC":"每秒恢复 25 生命值。近战攻击造成更多眩晕值。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2424166998",
+      "Source": "Radiation!",
+      "Trans": {"SC":"辐射！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2230290180",
+      "Source": "Prohibit the recovery of health and weaken damage.",
+      "Trans": {"SC":"禁止生命恢复并且削弱输出伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1080717494",
+      "Source": "Bigfoot Assistant",
+      "Trans": {"SC":"巨猿辅助","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1737505211",
+      "Source": "With the help of Gigantopithecus, your crafting skill have been improved.",
+      "Trans": {"SC":"在巨猿的协助下，你的制作效率得到提升。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2101065337",
+      "Source": "This buff increase your health recovery multiplier by 20%.",
+      "Trans": {"SC":"该增益提升 20% 生命恢复倍率。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "7F410178456FCE013B40308BE421859E",
+      "Source": "Fire",
+      "Trans": {"SC":"火焰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3324121870"}
+    },
+    {
+      "NamespaceHash": "4B5E42EB41B99D008B80F49C92E8B85B",
+      "Source": "Lightning",
+      "Trans": {"SC":"闪电","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1475429939"}
+    },
+    {
+      "NamespaceHash": "B95AAE214A3BB518C68A93A9291447A9",
+      "Source": "Poison",
+      "Trans": {"SC":"剧毒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3425775086"}
+    },
+    {
+      "NamespaceHash": "7579D267449C3F941BA81199838E9A6F",
+      "Source": "Fire Wyvern Guardian",
+      "Trans": {"SC":"火焰飞龙守卫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1502680918"}
+    },
+    {
+      "NamespaceHash": "2F5009D34A7F8BC0892A7BB76E75C9B8",
+      "Source": "Lightning Wyvern Guardian",
+      "Trans": {"SC":"闪电飞龙守卫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"456921880"}
+    },
+    {
+      "NamespaceHash": "26AE07A8455032DC713A0CB61F0EA5D7",
+      "Source": "Poison Wyvern Guardian",
+      "Trans": {"SC":"剧毒飞龙守卫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1460965197"}
+    },
+    {
+      "NamespaceHash": "E149F2744B62D01CE40C6DAAB3A753AE",
+      "Source": "Rock Drake Guardian",
+      "Trans": {"SC":"岩龙守卫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1164768409"}
+    },
+    {
+      "NamespaceHash": "A5CCC8B144AA074DA889E69CF12FADCE",
+      "Source": "Fire Breath",
+      "Trans": {"SC":"火焰吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1760797237"}
+    },
+    {
+      "NamespaceHash": "DDB2BAFA477A5A740CD4F0AB5386DCDB",
+      "Source": "FireBall",
+      "Trans": {"SC":"火焰球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3836973421"}
+    },
+    {
+      "NamespaceHash": "43A59C5D455E74C676EB70B970FF0B5B",
+      "Source": "Melee",
+      "Trans": {"SC":"近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1993336256"}
+    },
+    {
+      "NamespaceHash": "6DFD10B24B2AE7CA2F31C49B5DAB698F",
+      "Source": "Throw Rock",
+      "Trans": {"SC":"投掷石块","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3784615860"}
+    },
+    {
+      "NamespaceHash": "D19B02E943560F2C322A14A06793604A",
+      "Source": "Combo Attack",
+      "Trans": {"SC":"连续攻击击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3438262217"}
+    },
+    {
+      "NamespaceHash": "6F871B8442C57EB49FDC06839885C208",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "302FD68442DE1F753029BC8D4DC73DE6",
+      "Source": "Lightning Ball",
+      "Trans": {"SC":"闪电球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2653409282"}
+    },
+    {
+      "NamespaceHash": "6E5D937D4F442F8133D74BAE051B90DB",
+      "Source": "Tail Swipe",
+      "Trans": {"SC":"尾部横扫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2847699287"}
+    },
+    {
+      "NamespaceHash": "2B55720C4970FBE475DF81BFBB19F570",
+      "Source": "Electric Shock",
+      "Trans": {"SC":"电击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1864796756"}
+    },
+    {
+      "NamespaceHash": "80FCA72844AA045C4893ABB75A025AF2",
+      "Source": "Melee Front",
+      "Trans": {"SC":"前方近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3033042883"}
+    },
+    {
+      "NamespaceHash": "568AF03D40E7F70E999A848BBE152CCE",
+      "Source": "Melee Back",
+      "Trans": {"SC":"后方近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"222595900"}
+    },
+    {
+      "NamespaceHash": "751331BF41C6892539FE61829E4C905F",
+      "Source": "Tailwhip",
+      "Trans": {"SC":"甩尾攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2239977729"}
+    },
+    {
+      "NamespaceHash": "751FDD964DF8D461C1B4AEB373006BB3",
+      "Source": "Headbutt",
+      "Trans": {"SC":"头槌撞击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"626047961"}
+    },
+    {
+      "NamespaceHash": "545DD6D84737752215B91CB14FD95F7C",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "97B3D95D4B21EBEF40D455A59B19E89A",
+      "Source": "Fire Breath",
+      "Trans": {"SC":"火焰吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1760797237"}
+    },
+    {
+      "NamespaceHash": "C50DF6F94DCE3F7E6F13F28DD90C5826",
+      "Source": "Claw",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"754716884"}
+    }
+  ]
+}

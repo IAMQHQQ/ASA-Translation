@@ -1,6 +1,6 @@
 {
   "Awesome Admin Tools": [
-    //2026-7-28 17:13
+    //2026-8-15
     {
       "NamespaceHash": "Content::2805398202",
       "Source": "Spawn Items",
@@ -4068,6 +4068,24 @@
       "NamespaceHash": "Content::901839080",
       "Source": "Fix Names & Icons",
       "Trans": {"SC":"刷新名称与图标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4279386117",
+      "Source": "Remove Dino Species",
+      "Trans": {"SC":"移除恐龙物种","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::631483347",
+      "Source": "Add Dino Species",
+      "Trans": {"SC":"添加恐龙物种","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2345359466",
+      "Source": "Scan Dino Species",
+      "Trans": {"SC":"扫描恐龙物种","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
