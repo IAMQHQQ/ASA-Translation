@@ -1,0 +1,18 @@
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# 编辑器临时/备份文件
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
