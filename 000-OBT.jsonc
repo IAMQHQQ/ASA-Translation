@@ -33022,7 +33022,7 @@
     {
       "NamespaceHash": "Content::862626535",
       "Source": "Snow",
-      "Trans": {"SC":"雪山","JA":""},
+      "Trans": {"SC":"雪","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63094,7 +63094,7 @@
     {
       "NamespaceHash": "GraphLiteral::862626535",
       "Source": "Snow",
-      "Trans": {"SC":"雪山","JA":""},
+      "Trans": {"SC":"雪","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
