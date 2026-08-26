@@ -2644,7 +2644,7 @@
     {
       "NamespaceHash": "Content::1090596795",
       "Source": "Activate For Time",
-      "Trans": {"SC":"Activate For Time","JA":""},
+      "Trans": {"SC":"激活并持续工作一段时间","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3868,7 +3868,7 @@
     {
       "NamespaceHash": "Content::1545796276",
       "Source": "Armor Reduction {1}%",
-      "Trans": {"SC":"Armor Reduction {1}%","JA":""},
+      "Trans": {"SC":"护甲减少 {1}%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4246,7 +4246,7 @@
     {
       "NamespaceHash": "Content::3409601819",
       "Source": "Attempting {0}",
-      "Trans": {"SC":"Attempting {0}","JA":""},
+      "Trans": {"SC":"尝试 {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4258,13 +4258,13 @@
     {
       "NamespaceHash": "Content::279744003",
       "Source": "Auto-repair activating in {sec} seconds",
-      "Trans": {"SC":"Auto-repair activating in {sec} seconds","JA":""},
+      "Trans": {"SC":"自动修复于 {sec} 秒后启动","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1975912480",
       "Source": "Autoactivate at Full Charge ({0})",
-      "Trans": {"SC":"Autoactivate at Full Charge ({0})","JA":""},
+      "Trans": {"SC":"满电时自动开启 ({0})","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9076,7 +9076,7 @@
     {
       "NamespaceHash": "Content::1457760474",
       "Source": "Creatures Only",
-      "Trans": {"SC":"Creatures Only","JA":""},
+      "Trans": {"SC":"仅生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9298,7 +9298,7 @@
     {
       "NamespaceHash": "Content::3547772279",
       "Source": "Crystals {0} {1} {2}",
-      "Trans": {"SC":"Crystals {0} {1} {2}","JA":""},
+      "Trans": {"SC":"水晶 {0} {1} {2}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9694,7 +9694,7 @@
     {
       "NamespaceHash": "Content::3205242819",
       "Source": "DMG: {0}%",
-      "Trans": {"SC":"DMG: {0}%","JA":""},
+      "Trans": {"SC":"伤害: {0}%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9760,7 +9760,7 @@
     {
       "NamespaceHash": "Content::3892266760",
       "Source": "DPS Evaluation = {1} Sec.",
-      "Trans": {"SC":"DPS Evaluation = {1} Sec.","JA":""},
+      "Trans": {"SC":"DPS计算单位时间 = {1} 秒","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -12430,7 +12430,7 @@
     {
       "NamespaceHash": "Content::2781011804",
       "Source": "Enabled",
-      "Trans": {"SC":"Enabled","JA":""},
+      "Trans": {"SC":"已开启","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -12508,7 +12508,7 @@
     {
       "NamespaceHash": "Content::3366902907",
       "Source": "Enemy Survivors {0}",
-      "Trans": {"SC":"Enemy Survivors {0}","JA":""},
+      "Trans": {"SC":"敌方生存者 {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -15154,13 +15154,13 @@
     {
       "NamespaceHash": "Content::1264433135",
       "Source": "Found {0}!",
-      "Trans": {"SC":"Found {0}!","JA":""},
+      "Trans": {"SC":"发现 {0}!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1625423726",
       "Source": "Found {MekCount} nearby Meks. {Error}",
-      "Trans": {"SC":"Found {MekCount} nearby Meks. {Error}","JA":""},
+      "Trans": {"SC":"周围存在 {MekCount} 台机甲。{Error}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -15640,7 +15640,7 @@
     {
       "NamespaceHash": "Content::1998889522",
       "Source": "Gain {0} Second",
-      "Trans": {"SC":"Gain {0} Second","JA":""},
+      "Trans": {"SC":"获得 {0} 秒","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -16660,13 +16660,13 @@
     {
       "NamespaceHash": "Content::2284030118",
       "Source": "Grind Selected Item ({TheCount}x)",
-      "Trans": {"SC":"Grind Selected Item ({TheCount}x)","JA":""},
+      "Trans": {"SC":"分解选中物品 ({TheCount}x)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2823373887",
       "Source": "Grind Selected Stack ({Count}x)",
-      "Trans": {"SC":"Grind Selected Stack ({Count}x)","JA":""},
+      "Trans": {"SC":"分解选中堆叠 ({Count}x)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -20092,7 +20092,7 @@
     {
       "NamespaceHash": "Content::1237775729",
       "Source": "Insuficient stamina to continue attack.",
-      "Trans": {"SC":"Insuficient stamina to continue attack.","JA":""},
+      "Trans": {"SC":"耐力不足, 无法继续攻击!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -26746,7 +26746,7 @@
     {
       "NamespaceHash": "Content::4221337678",
       "Source": "Pet to Toggle Light ({0})",
-      "Trans": {"SC":"Pet to Toggle Light ({0})","JA":""},
+      "Trans": {"SC":"抚摸以开关照明 ({0})","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27880,7 +27880,7 @@
     {
       "NamespaceHash": "Content::1540603345",
       "Source": "Put {1} {0} in last slot to feed",
-      "Trans": {"SC":"Put {1} {0} in last slot to feed","JA":""},
+      "Trans": {"SC":"把 {1} {0} 放在最右侧物品栏里来喂食","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -28090,13 +28090,13 @@
     {
       "NamespaceHash": "Content::555127185",
       "Source": "REMAINING POWER ({0}%)",
-      "Trans": {"SC":"REMAINING POWER ({0}%)","JA":""},
+      "Trans": {"SC":"剩余能量 ({0}%)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4280327929",
       "Source": "REMAINING POWER CRITICAL{0}",
-      "Trans": {"SC":"REMAINING POWER CRITICAL{0}","JA":""},
+      "Trans": {"SC":"剩余能量即将耗尽{0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -28666,7 +28666,7 @@
     {
       "NamespaceHash": "Content::3340084599",
       "Source": "Random Mutations: {0} {2} / {1}",
-      "Trans": {"SC":"Random Mutations: {0} {2} / {1}","JA":""},
+      "Trans": {"SC":"随机突变: {0} {2} / {1}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -28978,13 +28978,13 @@
     {
       "NamespaceHash": "Content::170312506",
       "Source": "Regenerating resources ({time})",
-      "Trans": {"SC":"Regenerating resources ({time})","JA":""},
+      "Trans": {"SC":"资源再生中 ({time})","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3117713269",
       "Source": "Region {region} : <RichColor Color=\"{color}\">{colorName}</>",
-      "Trans": {"SC":"Region {region} : <RichColor Color=\"{color}\">{colorName}</>","JA":""},
+      "Trans": {"SC":"区域 {region} : <RichColor Color=\"{color}\">{colorName}</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -29164,7 +29164,7 @@
     {
       "NamespaceHash": "Content::3156954854",
       "Source": "Remaining Time: {Test}",
-      "Trans": {"SC":"Remaining Time: {Test}","JA":""},
+      "Trans": {"SC":"剩余时间: {Test}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -29584,7 +29584,7 @@
     {
       "NamespaceHash": "Content::2080209551",
       "Source": "Resolution:",
-      "Trans": {"SC":"Resolution:","JA":""},
+      "Trans": {"SC":"分辨率:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -29722,7 +29722,7 @@
     {
       "NamespaceHash": "Content::3254581458",
       "Source": "Return Time Remaining: {Time}",
-      "Trans": {"SC":"Return Time Remaining: {Time}","JA":""},
+      "Trans": {"SC":"剩余返回时间: {Time}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30442,7 +30442,7 @@
     {
       "NamespaceHash": "Content::4075590479",
       "Source": "Round Complete +{1}",
-      "Trans": {"SC":"Round Complete +{1}","JA":""},
+      "Trans": {"SC":"完成一个周目 +{1}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30892,7 +30892,7 @@
     {
       "NamespaceHash": "Content::2051191248",
       "Source": "SNAPPED!",
-      "Trans": {"SC":"SNAPPED!","JA":""},
+      "Trans": {"SC":"脱钩了!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31198,7 +31198,7 @@
     {
       "NamespaceHash": "Content::2580137268",
       "Source": "STUN ({0}%)",
-      "Trans": {"SC":"STUN ({0}%)","JA":""},
+      "Trans": {"SC":"眩晕 ({0}%)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31630,7 +31630,7 @@
     {
       "NamespaceHash": "Content::4169493996",
       "Source": "Scare the Alpha by killing {0} Betas.",
-      "Trans": {"SC":"Scare the Alpha by killing {0} Betas.","JA":""},
+      "Trans": {"SC":"通过杀死 {0} 个仆从来恐吓恐狒首领。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31738,7 +31738,7 @@
     {
       "NamespaceHash": "Content::1147282974",
       "Source": "Scout out of energy, {0} required.",
-      "Trans": {"SC":"Scout out of energy, {0} required.","JA":""},
+      "Trans": {"SC":"侦察机能量耗尽, 需要{0}。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31750,7 +31750,7 @@
     {
       "NamespaceHash": "Content::2920860983",
       "Source": "Scrape Meat {0}",
-      "Trans": {"SC":"Scrape Meat {0}","JA":""},
+      "Trans": {"SC":"刮肉{0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31870,7 +31870,7 @@
     {
       "NamespaceHash": "Content::3469538997",
       "Source": "Searching...",
-      "Trans": {"SC":"Searching...","JA":""},
+      "Trans": {"SC":"正在搜索...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32092,13 +32092,13 @@
     {
       "NamespaceHash": "Content::1506037724",
       "Source": "Server {0} Stats {1}",
-      "Trans": {"SC":"Server {0} Stats {1}","JA":""},
+      "Trans": {"SC":"服务器 {0} 状态 {1}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3882500373",
       "Source": "Server {2} Level {0} XP {1}",
-      "Trans": {"SC":"Server {2} Level {0} XP {1}","JA":""},
+      "Trans": {"SC":"服务器 {2} 等级 {0} 经验值 {1}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32488,25 +32488,25 @@
     {
       "NamespaceHash": "Content::4200967495",
       "Source": "Shoulder Cannon  Cancel Lock: {name}",
-      "Trans": {"SC":"Shoulder Cannon  Cancel Lock: {name}","JA":""},
+      "Trans": {"SC":"肩炮无法锁定: {name}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3040037758",
       "Source": "Shoulder Cannon Lock On: {name}",
-      "Trans": {"SC":"Shoulder Cannon Lock On: {name}","JA":""},
+      "Trans": {"SC":"肩炮无法锁定: {name}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::167682461",
       "Source": "Shoulder Cannon: Fire Mode {0}",
-      "Trans": {"SC":"Shoulder Cannon: Fire Mode {0}","JA":""},
+      "Trans": {"SC":"肩炮开火模式: {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2183275690",
       "Source": "Shoulder Cannon: Range {0}",
-      "Trans": {"SC":"Shoulder Cannon: Range {0}","JA":""},
+      "Trans": {"SC":"肩炮范围: {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32902,13 +32902,13 @@
     {
       "NamespaceHash": "Content::2616084327",
       "Source": "Slot {num} ({current})",
-      "Trans": {"SC":"Slot {num} ({current})","JA":""},
+      "Trans": {"SC":"栏位 {num} ({current})","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1855163234",
       "Source": "Slot {slot}",
-      "Trans": {"SC":"Slot {slot}","JA":""},
+      "Trans": {"SC":"栏位 {slot}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32968,7 +32968,7 @@
     {
       "NamespaceHash": "Content::2192433918",
       "Source": "Small Monkey",
-      "Trans": {"SC":"Small Monkey","JA":""},
+      "Trans": {"SC":"小猴子","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -34444,7 +34444,7 @@
     {
       "NamespaceHash": "Content::1217568707",
       "Source": "Stop",
-      "Trans": {"SC":"Stop","JA":""},
+      "Trans": {"SC":"停止","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36478,7 +36478,7 @@
     {
       "NamespaceHash": "Content::370375240",
       "Source": "Taking damage when below {1}% health will decrease taming effectiveness!",
-      "Trans": {"SC":"Taking damage when below {1}% health will decrease taming effectiveness!","JA":""},
+      "Trans": {"SC":"当生命值低于 {1}% 时受到伤害会降低驯养有效性!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36508,13 +36508,13 @@
     {
       "NamespaceHash": "Content::2765156463",
       "Source": "Tame Kaiju!",
-      "Trans": {"SC":"Tame Kaiju!","JA":""},
+      "Trans": {"SC":"驯服泰坦!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::894921875",
       "Source": "Tame!",
-      "Trans": {"SC":"Tame!","JA":""},
+      "Trans": {"SC":"驯服!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36538,7 +36538,7 @@
     {
       "NamespaceHash": "Content::1243562587",
       "Source": "Tamed Time Remaining: {0}",
-      "Trans": {"SC":"Tamed Time Remaining: {0}","JA":""},
+      "Trans": {"SC":"剩余驯养时间: {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36562,7 +36562,7 @@
     {
       "NamespaceHash": "Content::1737217575",
       "Source": "Taming... {0}",
-      "Trans": {"SC":"Taming... {0}","JA":""},
+      "Trans": {"SC":"驯养中... {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36904,7 +36904,7 @@
     {
       "NamespaceHash": "Content::1975151732",
       "Source": "TekStrider Shield took damage: {0} Current health: {1}",
-      "Trans": {"SC":"TekStrider Shield took damage: {0} Current health: {1}","JA":""},
+      "Trans": {"SC":"泰克跨步者护盾受到伤害: {0} 当前生命值: {1}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -37180,7 +37180,7 @@
     {
       "NamespaceHash": "Content::4293876954",
       "Source": "The Arena will be available in {0}!",
-      "Trans": {"SC":"The Arena will be available in {0}!","JA":""},
+      "Trans": {"SC":"竞技场将于{0}后可用!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -38878,7 +38878,7 @@
     {
       "NamespaceHash": "Content::2409149774",
       "Source": "There must be at least {0} adults for a Dinopithecus pack. There are only {1}.",
-      "Trans": {"SC":"There must be at least {0} adults for a Dinopithecus pack. There are only {1}.","JA":""},
+      "Trans": {"SC":"恐狒族群里至少必须有 {0} 只成年恐狒。目前这里只有 {1} 只。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -51760,7 +51760,7 @@
     {
       "NamespaceHash": "Globals::2857297041",
       "Source": "Jump",
-      "Trans": {"SC":"Jump","JA":""},
+      "Trans": {"SC":"跳","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55636,7 +55636,7 @@
     {
       "NamespaceHash": "GraphLiteral::1929540269",
       "Source": "ADVANCED",
-      "Trans": {"SC":"ADVANCED","JA":""},
+      "Trans": {"SC":"高级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55684,13 +55684,13 @@
     {
       "NamespaceHash": "GraphLiteral::4113113470",
       "Source": "ALLOW BANISHMENTS",
-      "Trans": {"SC":"ALLOW BANISHMENTS","JA":""},
+      "Trans": {"SC":"允许踢人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3319238306",
       "Source": "ALLOW DEMOTIONS",
-      "Trans": {"SC":"ALLOW DEMOTIONS","JA":""},
+      "Trans": {"SC":"允许降级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55702,13 +55702,13 @@
     {
       "NamespaceHash": "GraphLiteral::1497009147",
       "Source": "ALLOW INVITES",
-      "Trans": {"SC":"ALLOW INVITES","JA":""},
+      "Trans": {"SC":"允许招募","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::4280176090",
       "Source": "ALLOW PROMOTIONS",
-      "Trans": {"SC":"ALLOW PROMOTIONS","JA":""},
+      "Trans": {"SC":"允许升级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55726,7 +55726,7 @@
     {
       "NamespaceHash": "GraphLiteral::1667171647",
       "Source": "APPLY",
-      "Trans": {"SC":"APPLY","JA":""},
+      "Trans": {"SC":"应用","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55792,13 +55792,13 @@
     {
       "NamespaceHash": "GraphLiteral::370082995",
       "Source": "AVAILABLE MODS",
-      "Trans": {"SC":"AVAILABLE MODS","JA":""},
+      "Trans": {"SC":"可用模组","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::746984854",
       "Source": "Aberration",
-      "Trans": {"SC":"Aberration","JA":""},
+      "Trans": {"SC":"畸变","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -56638,7 +56638,7 @@
     {
       "NamespaceHash": "GraphLiteral::918797645",
       "Source": "CAMERA",
-      "Trans": {"SC":"CAMERA","JA":""},
+      "Trans": {"SC":"镜头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -57016,13 +57016,13 @@
     {
       "NamespaceHash": "GraphLiteral::731562334",
       "Source": "Cleared!",
-      "Trans": {"SC":"Cleared!","JA":""},
+      "Trans": {"SC":"已清除!","JA":"已清除!"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::488681676",
       "Source": "Client Network Bandwidth:",
-      "Trans": {"SC":"Client Network Bandwidth:","JA":""},
+      "Trans": {"SC":"客户端网络带宽:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -57436,7 +57436,7 @@
     {
       "NamespaceHash": "GraphLiteral::4244957784",
       "Source": "DROP",
-      "Trans": {"SC":"DROP","JA":""},
+      "Trans": {"SC":"放下","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -58528,7 +58528,7 @@
     {
       "NamespaceHash": "GraphLiteral::3826318964",
       "Source": "FREEPAINT",
-      "Trans": {"SC":"FREEPAINT","JA":""},
+      "Trans": {"SC":"自由绘画","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -59326,7 +59326,7 @@
     {
       "NamespaceHash": "GraphLiteral::92186970",
       "Source": "Hidden",
-      "Trans": {"SC":"Hidden","JA":""},
+      "Trans": {"SC":"隐匿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60070,7 +60070,7 @@
     {
       "NamespaceHash": "GraphLiteral::3679534532",
       "Source": "Kill",
-      "Trans": {"SC":"Kill","JA":""},
+      "Trans": {"SC":"击杀","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60088,7 +60088,7 @@
     {
       "NamespaceHash": "GraphLiteral::3493908835",
       "Source": "LAN",
-      "Trans": {"SC":"LAN","JA":""},
+      "Trans": {"SC":"局域网","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60142,7 +60142,7 @@
     {
       "NamespaceHash": "GraphLiteral::4254337070",
       "Source": "LEAVE GAME",
-      "Trans": {"SC":"LEAVE GAME","JA":""},
+      "Trans": {"SC":"离开游戏","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60166,7 +60166,7 @@
     {
       "NamespaceHash": "GraphLiteral::935839039",
       "Source": "LEGS",
-      "Trans": {"SC":"LEGS","JA":""},
+      "Trans": {"SC":"腿部","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60340,7 +60340,7 @@
     {
       "NamespaceHash": "GraphLiteral::570387594",
       "Source": "Legendary",
-      "Trans": {"SC":"Legendary","JA":""},
+      "Trans": {"SC":"传说","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60568,19 +60568,19 @@
     {
       "NamespaceHash": "GraphLiteral::911322460",
       "Source": "MAX BANISHMENT GROUP RANK",
-      "Trans": {"SC":"MAX BANISHMENT GROUP RANK","JA":""},
+      "Trans": {"SC":"群组最高踢出等级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::964270514",
       "Source": "MAX DEMOTION GROUP RANK",
-      "Trans": {"SC":"MAX DEMOTION GROUP RANK","JA":""},
+      "Trans": {"SC":"群组最高降级等级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::4082952938",
       "Source": "MAX PROMOTION GROUP RANK",
-      "Trans": {"SC":"MAX PROMOTION GROUP RANK","JA":""},
+      "Trans": {"SC":"群组最高升级等级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60886,7 +60886,7 @@
     {
       "NamespaceHash": "GraphLiteral::4153316265",
       "Source": "Move",
-      "Trans": {"SC":"Move","JA":""},
+      "Trans": {"SC":"移动","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60958,7 +60958,7 @@
     {
       "NamespaceHash": "GraphLiteral::1996681549",
       "Source": "NEUTERED",
-      "Trans": {"SC":"NEUTERED","JA":""},
+      "Trans": {"SC":"绝育","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61024,7 +61024,7 @@
     {
       "NamespaceHash": "GraphLiteral::380033336",
       "Source": "Name",
-      "Trans": {"SC":"Name","JA":""},
+      "Trans": {"SC":"名称","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61564,19 +61564,19 @@
     {
       "NamespaceHash": "GraphLiteral::1041958955",
       "Source": "PREVENT DEMOLISHING STRUCTURES",
-      "Trans": {"SC":"PREVENT DEMOLISHING STRUCTURES","JA":""},
+      "Trans": {"SC":"不允许拆除建筑","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3655479643",
       "Source": "PREVENT DINO UNCLAIMING",
-      "Trans": {"SC":"PREVENT DINO UNCLAIMING","JA":""},
+      "Trans": {"SC":"不允许放生恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1215203552",
       "Source": "PREVENT STRUCTURE BUILDING IN RANGE",
-      "Trans": {"SC":"PREVENT STRUCTURE BUILDING IN RANGE","JA":""},
+      "Trans": {"SC":"不允许在附近放置建筑物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61606,7 +61606,7 @@
     {
       "NamespaceHash": "GraphLiteral::4277165577",
       "Source": "PUSH TO TALK:",
-      "Trans": {"SC":"PUSH TO TALK:","JA":""},
+      "Trans": {"SC":"按键说话:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -62332,7 +62332,7 @@
     {
       "NamespaceHash": "GraphLiteral::1323325883",
       "Source": "Ride",
-      "Trans": {"SC":"Ride","JA":""},
+      "Trans": {"SC":"骑乘","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -62416,7 +62416,7 @@
     {
       "NamespaceHash": "GraphLiteral::2574229010",
       "Source": "SAVE",
-      "Trans": {"SC":"SAVE","JA":""},
+      "Trans": {"SC":"保存","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -62860,7 +62860,7 @@
     {
       "NamespaceHash": "GraphLiteral::695937249",
       "Source": "Sharpened Plate",
-      "Trans": {"SC":"Sharpened Plate","JA":""},
+      "Trans": {"SC":"锐化型攻击模式","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63094,7 +63094,7 @@
     {
       "NamespaceHash": "GraphLiteral::862626535",
       "Source": "Snow",
-      "Trans": {"SC":"Snow","JA":""},
+      "Trans": {"SC":"雪山","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63244,7 +63244,7 @@
     {
       "NamespaceHash": "GraphLiteral::1217568707",
       "Source": "Stop",
-      "Trans": {"SC":"Stop","JA":""},
+      "Trans": {"SC":"停止","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63280,7 +63280,7 @@
     {
       "NamespaceHash": "GraphLiteral::709788261",
       "Source": "Stunned",
-      "Trans": {"SC":"Stunned","JA":""},
+      "Trans": {"SC":"击晕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63460,7 +63460,7 @@
     {
       "NamespaceHash": "GraphLiteral::2146483777",
       "Source": "TORPIDITY",
-      "Trans": {"SC":"TORPIDITY","JA":""},
+      "Trans": {"SC":"眩晕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63472,7 +63472,7 @@
     {
       "NamespaceHash": "GraphLiteral::4228682490",
       "Source": "TORSO",
-      "Trans": {"SC":"TORSO","JA":""},
+      "Trans": {"SC":"躯干","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -64978,7 +64978,7 @@
     {
       "NamespaceHash": "GraphLiteral::2825828185",
       "Source": "USE",
-      "Trans": {"SC":"USE","JA":""},
+      "Trans": {"SC":"使用","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -65116,7 +65116,7 @@
     {
       "NamespaceHash": "GraphLiteral::2196331038",
       "Source": "Unsort",
-      "Trans": {"SC":"Unsort","JA":""},
+      "Trans": {"SC":"未整理","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -65272,7 +65272,7 @@
     {
       "NamespaceHash": "GraphLiteral::3792161534",
       "Source": "WEAPON",
-      "Trans": {"SC":"WEAPON","JA":""},
+      "Trans": {"SC":"武器","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -65338,7 +65338,7 @@
     {
       "NamespaceHash": "GraphLiteral::3539424888",
       "Source": "Water",
-      "Trans": {"SC":"Water","JA":""},
+      "Trans": {"SC":"水","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -65818,7 +65818,7 @@
     {
       "NamespaceHash": "GraphLiteral::1408111756",
       "Source": "back",
-      "Trans": {"SC":"back","JA":""},
+      "Trans": {"SC":"返回","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -66064,7 +66064,7 @@
     {
       "NamespaceHash": "GraphLiteral::1488706643",
       "Source": "{ItemDescription}{LineBreak}Gasoline: {Current}/{Max}",
-      "Trans": {"SC":"{ItemDescription}{LineBreak}汽油: {当前}/{Max}","JA":""},
+      "Trans": {"SC":"{ItemDescription}{LineBreak}汽油: {Current}/{Max}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
