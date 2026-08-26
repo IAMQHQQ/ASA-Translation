@@ -1,6 +1,24 @@
 {
   "Official": [
     {
+      "NamespaceHash": "GraphLiteral::3194139438",
+      "Source": "[Change to ",
+      "Trans": {"SC":"[切换至 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2895447179",
+      "Source": "Web Shot",
+      "Trans": {"SC":"蛛网射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::1954611095",
+      "Source": "Poison Web Shot",
+      "Trans": {"SC":"毒网射击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::1904571756",
       "Source": "Destroy every artillery tower with ship cannons or cannon structures!",
       "Trans": {"SC":"使用舰炮或火炮摧毁所有炮塔!","JA":""},
@@ -123,13 +141,13 @@
     {
       "NamespaceHash": "Content::923662304",
       "Source": "You can use this to skin the appearance of pants into a bikini bottom.\r\n\r\nDecorated with fishy friends!",
-      "Trans": {"SC":"你可以使用这个皮肤来使裤子变成比基尼的外观。\r\n\r\n来一些小鱼儿作为装饰!！","JA":""},
+      "Trans": {"SC":"你可以使用这个皮肤来使裤子变成比基尼的外观。\r\n\r\n来一些小鱼儿作为装饰!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1917631033",
       "Source": "You can use this to skin the appearance of a shirt.\r\n\r\nDecorated with fishy friends!",
-      "Trans": {"SC":"你可以使用这个皮肤来改变衬衫的外观。\r\n\r\n来一些小鱼儿作为装饰!！","JA":""},
+      "Trans": {"SC":"你可以使用这个皮肤来改变衬衫的外观。\r\n\r\n来一些小鱼儿作为装饰!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -232,18 +250,6 @@
       "NamespaceHash": "GraphLiteral::2393943083",
       "Source": "Element Required",
       "Trans": {"SC":"所需能量元素","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::535166723",
-      "Source": "[Change to Poison Web Shot]",
-      "Trans": {"SC":"[切换至毒网射击]","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2559593082",
-      "Source": "[Change to Web Shot]",
-      "Trans": {"SC":"[切换至蛛网射击]","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2272,12 +2278,6 @@
       "NamespaceHash": "GraphLiteral::3106521135",
       "Source": " Use in the ocean biome to reveal coordinates.",
       "Trans": {"SC":" 在海洋生物群系中使用以显示坐标。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::1322542156",
-      "Source": "Advanced Lateen",
-      "Trans": {"SC":"高级拉丁帆","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -53710,7 +53710,7 @@
     {
       "NamespaceHash": "GraphLiteral::1699927705",
       "Source": "Change to ",
-      "Trans": {"SC":"更改为 ","JA":""},
+      "Trans": {"SC":"切换至 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -75274,1036 +75274,928 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3746643064"}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::GunCrews_SkillName",
+      "NamespaceHash": "DT_ShipSkills::3611494440",
       "Source": "Gun Crews",
       "Trans": {"SC":"炮手队","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3611494440"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::GunCrews_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::2639922500",
       "Source": "This Ship's cannon cooldowns are reduced by {CooldownReduction}.",
       "Trans": {"SC":"该船只的火炮冷却时间降低{CooldownReduction}。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2639922500"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::GunCrews_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::1587058204",
       "Source": "Cannon cooldown reduction",
       "Trans": {"SC":"火炮冷却降低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1587058204"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::SiegeVessel_SkillName",
+      "NamespaceHash": "DT_ShipSkills::3704729978",
       "Source": "Siege Vessel",
       "Trans": {"SC":"攻城舰","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3704729978"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::SiegeVessel_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::1281733593",
       "Source": "This Ship's cannons deal {!StructureDamageBonus} bonus damage to Structures and NPCs.",
       "Trans": {"SC":"该船只的火炮对建筑与NPC造成{!StructureDamageBonus}额外伤害。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1281733593"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::SiegeVessel_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::99149239",
       "Source": "Bonus damage to Structures",
       "Trans": {"SC":"对建筑额外伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"99149239"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::AttackDinghies_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1828994177",
       "Source": "Attack Dinghies",
       "Trans": {"SC":"攻击小艇","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1828994177"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::AttackDinghies_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::3083825324",
       "Source": "Active Ability: Deploys two cannon-armed Attack Dinghies that engage your target for [Duration] seconds. Allies can pilot them.",
       "Trans": {"SC":"主动技能: 部署两艘配备火炮的攻击小艇, 使其攻击你的目标, 持续[Duration]秒。盟友可驾驶这些小艇。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3083825324"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::AttackDinghies_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
-      "Source": "Duration (seconds)",
-      "Trans": {"SC":"持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"928029181"}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::ExposeWeakness_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1308892138",
       "Source": "Expose Weakness",
       "Trans": {"SC":"暴露弱点","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1308892138"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::ExposeWeakness_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::2608300272",
       "Source": "Direct cannon hits mark the target, causing it to take {DamagePerStack} more damage from all cannons. Stacks up to [MaxStacks] times for [Duration] seconds.",
       "Trans": {"SC":"火炮直接命中会标记目标, 使其受到来自所有火炮的伤害提高{DamagePerStack}。最多叠加[MaxStacks]层, 持续[Duration]秒。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2608300272"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::ExposeWeakness_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::341279330",
       "Source": "Damage per stack",
       "Trans": {"SC":"每层伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"341279330"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::ExposeWeakness_AdditionalModifierData_ValueIndex1_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::3373010827",
       "Source": "Stack duration (seconds)",
       "Trans": {"SC":"层数持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3373010827"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::ExposeWeakness_AdditionalModifierData_ValueIndex2_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::670182756",
       "Source": "Maximum stacks",
       "Trans": {"SC":"最大叠加层数","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"670182756"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LongRangeSalvage_SkillName",
+      "NamespaceHash": "DT_ShipSkills::2674709682",
       "Source": "Long-Range Salvage",
       "Trans": {"SC":"远程打捞","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2674709682"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LongRangeSalvage_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::1636795506",
       "Source": "Hitting enemy Ships with this Ship's cannons heals this Ship for {Lifesteal} of the damage dealt.",
       "Trans": {"SC":"使用该船只的火炮命中敌方船只时, 该船会将造成伤害的{Lifesteal}转化为治疗。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1636795506"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LongRangeSalvage_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::3717035954",
       "Source": "Lifesteal from cannon damage",
       "Trans": {"SC":"火炮伤害吸血","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3717035954"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Hinder_SkillName",
+      "NamespaceHash": "DT_ShipSkills::3942841169",
       "Source": "Hinder",
       "Trans": {"SC":"阻滞","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3942841169"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Hinder_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::2013064271",
       "Source": "Direct hits from this Ship's cannons cause the target to be slowed by {SlowAmount} for [Duration] seconds.",
       "Trans": {"SC":"该船火炮直接命中目标时, 会使目标减速{SlowAmount}, 持续[Duration]秒。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2013064271"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Hinder_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::1971011349",
       "Source": "Slow amount",
       "Trans": {"SC":"减速幅度","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1971011349"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Hinder_AdditionalModifierData_ValueIndex1_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::394244460",
       "Source": "Slow duration (seconds)",
       "Trans": {"SC":"减速持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"394244460"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LaunchPads_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1109525588",
       "Source": "Launch Planks",
       "Trans": {"SC":"发射跳板","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1109525588"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LaunchPads_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::26516733",
       "Source": "Adds Launch Pads to this Ship. Allies leaping from them gain massive jump distance, air control, and {DamageResistance} damage reduction for [Duration] seconds.",
       "Trans": {"SC":"为该船只添加发射跳板。盟友从跳板跃出时, 获得巨大的跳跃距离、空中控制力, 并获得{DamageResistance}伤害减免, 持续[Duration]秒。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"26516733"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LaunchPads_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::1888361815",
       "Source": "Damage reduction duration (seconds)",
       "Trans": {"SC":"减伤持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1888361815"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::BoardingParty_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1170781988",
       "Source": "Boarding Party",
       "Trans": {"SC":"登船队","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1170781988"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::BoardingParty_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::3380696172",
       "Source": "Active Ability: For [Duration] seconds, allied Survivors on this Ship deal {!DamageBonus} more damage, and kills restore +[StaminaPerKill] Stamina.",
       "Trans": {"SC":"主动技能: 在[Duration]秒内, 该船上的友方生存者造成{!DamageBonus}更多伤害,击杀会恢复+[StaminaPerKill]耐力。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3380696172"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::BoardingParty_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
-      "Source": "Duration (seconds)",
-      "Trans": {"SC":"持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"928029181"}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::BoardingParty_AdditionalModifierData_ValueIndex1_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::934087111",
       "Source": "Outgoing damage bonus",
       "Trans": {"SC":"输出伤害加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"934087111"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::BoardingParty_AdditionalModifierData_ValueIndex2_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::806431195",
       "Source": "Stamina restored per kill",
       "Trans": {"SC":"每次击杀恢复耐力","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"806431195"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::MerchantVessel_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1926906132",
       "Source": "Mercantilism",
       "Trans": {"SC":"重商主义","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1926906132"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::MerchantVessel_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::3519329616",
       "Source": "Allies on this Ship gain a [Duration] second buff that grants them {!Weight} Weight.",
       "Trans": {"SC":"该船上的盟友获得持续[Duration]秒的增益, 增加{!Weight}负重。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3519329616"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::MerchantVessel_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::4199548255",
       "Source": "Weight Bonus",
       "Trans": {"SC":"负重加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4199548255"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::PicklingBins_SkillName",
+      "NamespaceHash": "DT_ShipSkills::2047236202",
       "Source": "Pickling Bins",
       "Trans": {"SC":"腌制箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2047236202"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::PicklingBins_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::3762022249",
       "Source": "Spoil timers in inventories on this Ship are increased by {!SpoilTimeBonus}.",
       "Trans": {"SC":"该船只库存中的腐坏计时延长{!SpoilTimeBonus}。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3762022249"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::PicklingBins_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::2687826390",
       "Source": "Spoil time increase",
       "Trans": {"SC":"腐坏时间延长","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2687826390"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Smokescreen_SkillName",
+      "NamespaceHash": "DT_ShipSkills::32923951",
       "Source": "Smokescreen",
       "Trans": {"SC":"烟幕","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"32923951"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Smokescreen_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::4252261870",
       "Source": "Active Ability: For [Duration] seconds, this Ship takes {DamageReduction} less damage and drops aggro from Wilds and NPC Ships, but cannot fire its cannons. Reactivate to end early.",
       "Trans": {"SC":"主动技能: 在[Duration]秒内, 该船只受到的伤害降低{DamageReduction}, 并摆脱野生生物与NPC船只的仇恨, 但无法开火。再次激活可提前结束。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4252261870"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Smokescreen_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
-      "Source": "Duration (seconds)",
-      "Trans": {"SC":"持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"928029181"}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::Smokescreen_AdditionalModifierData_ValueIndex1_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::3423319233",
       "Source": "Damage reduction",
       "Trans": {"SC":"伤害减免","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3423319233"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::HarvestLines_SkillName",
+      "NamespaceHash": "DT_ShipSkills::860731536",
       "Source": "Harvest Lines",
       "Trans": {"SC":"采集索","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"860731536"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::HarvestLines_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::4020832722",
       "Source": "Active Ability: For [Duration] seconds, this Ship's cannons fire short-range Harvest Lines that gather Resources from nodes directly into this Ships Cargo. Make sure to collect the items before the Cargo expires!",
       "Trans": {"SC":"主动技能: 在[Duration]秒内, 该船只的火炮会发射短程采集索, 将资源节点中的资源直接采入该船货舱。务必在货舱消失前取走物品！","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4020832722"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::HarvestLines_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
-      "Source": "Duration (seconds)",
-      "Trans": {"SC":"持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"928029181"}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::Hydrodynamic_SkillName",
+      "NamespaceHash": "DT_ShipSkills::4187886015",
       "Source": "Hydrodynamic",
       "Trans": {"SC":"流体动力","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4187886015"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Hydrodynamic_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::743328005",
       "Source": "This Ship gains {!MovementSpeedBonus} movement speed.",
       "Trans": {"SC":"该船只获得{!MovementSpeedBonus}移动速度。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"743328005"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Hydrodynamic_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::3014804649",
       "Source": "Movement speed bonus",
       "Trans": {"SC":"移动速度加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3014804649"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::ReinforcedHull_SkillName",
+      "NamespaceHash": "DT_ShipSkills::2197814979",
       "Source": "Reinforced Hull",
       "Trans": {"SC":"强化船体","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2197814979"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::ReinforcedHull_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::3354676502",
       "Source": "This Ship takes {DamageReduction} less damage from all sources.",
       "Trans": {"SC":"该船只受到的所有来源伤害降低{DamageReduction}。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3354676502"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::ReinforcedHull_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
-      "Source": "Damage reduction",
-      "Trans": {"SC":"伤害减免","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3423319233"}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::Galley_SkillName",
+      "NamespaceHash": "DT_ShipSkills::3277976246",
       "Source": "Galley",
       "Trans": {"SC":"厨房","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3277976246"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Galley_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::2000703529",
       "Source": "Allied Players on this Ship gain {!RegenBonus} Health and Stamina regen, and lose Water and Food {ConsumptionReduction} slower than normal.",
       "Trans": {"SC":"该船上的友方玩家获得{!RegenBonus}生命值与耐力恢复, 并且水分与食物消耗速度比正常降低{ConsumptionReduction}。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2000703529"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Galley_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::3121378339",
       "Source": "Health and Stamina regen bonus",
       "Trans": {"SC":"生命与耐力恢复加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3121378339"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Galley_AdditionalModifierData_ValueIndex1_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::1532275085",
       "Source": "Water and Food consumption reduction",
       "Trans": {"SC":"水分与食物消耗降低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1532275085"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::WetDock_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1397773316",
       "Source": "Wet Dock",
       "Trans": {"SC":"入水船坞","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1397773316"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_ShipSkills::2258703257", //old
       "Source": "While anchored and the ship hasnt received damage for [Cooldown] seconds, this ship slowly regenerates {HealthRegen} Health per second.",
       "Trans": {"SC":"船只抛锚且在[Cooldown]秒内未受到伤害时, 会缓慢每秒恢复{HealthRegen}生命值。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2258703257"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::WetDock_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::329186077",
       "Source": "While anchored and the ship hasnt received damage for [Cooldown] seconds, this ship slowly repairs itself over time.",
       "Trans": {"SC":"船只抛锚且在[Cooldown]秒内未受到伤害时, 该船会随时间缓慢自我修复。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"329186077"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::AdvancedLanteen_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1322542156",
       "Source": "Advanced Lateen",
       "Trans": {"SC":"高级拉丁帆","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1322542156"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::AdvancedLanteen_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::981239328",
       "Source": "Allied Ships within range gain a [MovementSpeedBonus]m/s movespeed bonus. In addition, this Ship reduces movement speed penalties while sailing into wind by {WindPenaltyReduction} on maps with directional wind.",
       "Trans": {"SC":"范围内的友方船只获得[MovementSpeedBonus]m/s移动速度加成。此外, 在有风向的地图上, 该船只逆风航行时受到的移动速度惩罚降低{WindPenaltyReduction}。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"981239328"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::AdvancedLanteen_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::4006294568",
       "Source": "Into-wind penalty reduction",
       "Trans": {"SC":"逆风惩罚降低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4006294568"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LifeRafts_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1399751864",
       "Source": "Life Rafts",
       "Trans": {"SC":"救生筏","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1399751864"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LifeRafts_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::688157641",
       "Source": "If this Ship is destroyed, each allied Player aboard escapes on a temporary Life Raft carrying a random Container from the Ship. Life Rafts last up to [Duration] seconds.",
       "Trans": {"SC":"若该船只被摧毁, 船上每名友方玩家都会乘临时救生筏逃生, 救生筏会携带船上的一个随机容器。救生筏最多持续[Duration]秒。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"688157641"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::LifeRafts_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::1498785657",
       "Source": "Life Raft duration (seconds)",
       "Trans": {"SC":"救生筏持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1498785657"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Indomitable_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1085968230",
       "Source": "Linebreaker",
       "Trans": {"SC":"破阵船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1085968230"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::Indomitable_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::1645704041",
       "Source": "This ship receives {DamageReduction} less damage for every Ship and Large Creature nearby. This ships wake causes enemy ships to lose {ManeuverabilityBonus} maneuverability, and {SlowMultiplier} movement speed for [Duration] seconds.",
       "Trans": {"SC":"附近每有一艘船只或大型生物, 该船只受到的伤害降低{DamageReduction}。该船只的尾流会使敌方船只在[Duration]秒内失去{ManeuverabilityBonus}机动性, 并降低{SlowMultiplier}移动速度。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1645704041"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::RammingVessel_SkillName",
+      "NamespaceHash": "DT_ShipSkills::2328979495",
       "Source": "Ramming Vessel",
       "Trans": {"SC":"冲撞舰","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2328979495"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::RammingVessel_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::148921120",
       "Source": "This Ship takes {FrontImpactReduction} reduced impact damage from the front, and deals {!RamDamageBonus} damage when running its prow into a target.",
       "Trans": {"SC":"该船只正面受到的冲击伤害降低{FrontImpactReduction}, 并在船首撞击目标时造成{!RamDamageBonus}伤害。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"148921120"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::RammingVessel_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::165797673",
       "Source": "Frontal impact damage reduction",
       "Trans": {"SC":"正面撞击伤害降低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"165797673"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::RammingVessel_AdditionalModifierData_ValueIndex1_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::3383458932",
       "Source": "Ramming damage bonus",
       "Trans": {"SC":"冲撞伤害加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3383458932"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::SmoothRudder_SkillName",
+      "NamespaceHash": "DT_ShipSkills::1764701794",
       "Source": "Smooth Rudder",
       "Trans": {"SC":"顺滑舵","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1764701794"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::SmoothRudder_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::1883163451",
       "Source": "This Ship accelerates, decelerates, and turns {!ManeuverabilityBonus} faster.",
       "Trans": {"SC":"该船只加速、减速与转向速度提高{!ManeuverabilityBonus}。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1883163451"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::SmoothRudder_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
+      "NamespaceHash": "DT_ShipSkills::3437352350",
       "Source": "Maneuverability bonus",
       "Trans": {"SC":"机动性加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3437352350"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::GhostOars_SkillName",
+      "NamespaceHash": "DT_ShipSkills::2140328234",
       "Source": "Ghostly Wind",
       "Trans": {"SC":"幽魂之风","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2140328234"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::GhostOars_SkillDescription",
+      "NamespaceHash": "DT_ShipSkills::735323424",
       "Source": "Active Ability: For [Duration] seconds, this Ship gains {!MovementSpeedBonus} movement speed and deals {!RamDamageBonus} more ramming damage.",
       "Trans": {"SC":"主动技能: 在[Duration]秒内, 该船只获得{!MovementSpeedBonus}移动速度, 并造成{!RamDamageBonus}更多冲撞伤害。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"735323424"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_ShipSkills::GhostOars_AdditionalModifierData_ValueIndex0_ModifierDisplayName",
-      "Source": "Duration (seconds)",
-      "Trans": {"SC":"持续时间 (秒)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"928029181"}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::GhostOars_AdditionalModifierData_ValueIndex1_ModifierDisplayName",
-      "Source": "Movement speed bonus",
-      "Trans": {"SC":"移动速度加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3014804649"}
-    },
-    {
-      "NamespaceHash": "DT_ShipSkills::GhostOars_AdditionalModifierData_ValueIndex2_ModifierDisplayName",
-      "Source": "Ramming damage bonus",
-      "Trans": {"SC":"冲撞伤害加成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3383458932"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXParasaur_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3160609173",
       "Source": "Tame 1 X-Parasaur",
       "Trans": {"SC":"驯服 1 只X-副栉龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3160609173"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishNets_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3038997429",
       "Source": "Craft 5 Fish Nets",
       "Trans": {"SC":"制作 5 个渔网","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3038997429"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchFishNetsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2567120961",
       "Source": "Catch 25 Fish with Fish Nets",
       "Trans": {"SC":"使用渔网捕获 25 条鱼","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2567120961"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXOtterA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3667721025",
       "Source": "Tame 1 X-Otter",
       "Trans": {"SC":"驯服 1 只X-水獭","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3667721025"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftBountyBoard_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2320772496",
       "Source": "Craft 1 Bounty Board",
       "Trans": {"SC":"制作 1 个悬赏板","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2320772496"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRamsContractA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3133197250",
       "Source": "Complete 1 Ramshackle Contract",
       "Trans": {"SC":"完成 1 个普通契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3133197250"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3068759579",
       "Source": "Spend 100 Hexagons at the Hexchange",
       "Trans": {"SC":"在六角币商店消费 100 枚六角币","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3068759579"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftWoodPlatform_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::611208889",
       "Source": "Craft 1 Wood Ocean Platform",
       "Trans": {"SC":"制作 1 个木制海洋平台","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"611208889"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCargoLedgerA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3186834496",
       "Source": "Craft 1 Cargo Ledger",
       "Trans": {"SC":"制作 1 个货物账台","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3186834496"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMarketA_MilestoneDescription",
-      "Source": "Craft 1 Market",
-      "Trans": {"SC":"制作 1 个市场","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3789284287"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXIchthy_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::251954610",
       "Source": "Tame 1 X-Ichthyosaurus",
       "Trans": {"SC":"驯服 1 只X-鱼龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"251954610"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelXIchthy_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::895559949",
       "Source": "Travel 100,000 Meters Distance on an X-Ichthyosaurus",
       "Trans": {"SC":"骑乘X-鱼龙移动 100,000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"895559949"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1415326515",
       "Source": "Collect 1 Ramshackle Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 1 个普通废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1415326515"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRaptor_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3951222929",
       "Source": "Tame 1 X-Raptor",
       "Trans": {"SC":"驯服 1 只X-迅猛龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3951222929"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXSabertooth_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3041687113",
       "Source": "Tame 1 X-Sabertooth",
       "Trans": {"SC":"驯服 1 只X-刃齿虎","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3041687113"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXAllosaurus_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1018494288",
       "Source": "Tame 1 X-Allosaurus",
       "Trans": {"SC":"驯服 1 只X-异特龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1018494288"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXAnkylosaurus_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3788350393",
       "Source": "Tame 1 X-Ankylosaurus",
       "Trans": {"SC":"驯服 1 只X-甲龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3788350393"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::798092502",
       "Source": "Complete 1 Gamma Mission",
       "Trans": {"SC":"完成 1 个简单任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"798092502"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRaceMission_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2598127120",
       "Source": "Complete 1 Race Mission",
       "Trans": {"SC":"完成 1 个竞速任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2598127120"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteEscortMission_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3661288538",
       "Source": "Complete 1 Escort Mission",
       "Trans": {"SC":"完成 1 个护送任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3661288538"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishTankA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2124961631",
       "Source": "Craft 1 Aquarium",
       "Trans": {"SC":"制作 1 个水族箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2124961631"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishBasketsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::138010236",
       "Source": "Craft 10 Fish Baskets",
       "Trans": {"SC":"制作 10 个鱼篮","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"138010236"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchSalmon_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3263484338",
       "Source": "Catch 10 X-Sabertooth Salmon with Fish Baskets",
       "Trans": {"SC":"使用鱼篮捕获 10 只X-剑齿鲑","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3263484338"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftShipyardA_MilestoneDescription",
-      "Source": "Craft 1 Shipyard",
-      "Trans": {"SC":"制作 1 个船坞","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"648718057"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructSloopA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3546547529",
       "Source": "Construct a Sloop",
       "Trans": {"SC":"建造 1 艘单桅帆船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3546547529"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelSloop_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1817891892",
       "Source": "Travel 10,000 Meters Distance with Sloop",
       "Trans": {"SC":"使用单桅帆船移动 10,000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1817891892"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXTrike_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::290075646",
       "Source": "Tame 1 X-Trike",
       "Trans": {"SC":"驯服 1 只X-三角龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"290075646"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestWoodA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1947720776",
       "Source": "Harvest 1,000 Wood/Fungal Wood",
       "Trans": {"SC":"采集 1,000 份木头/真菌木","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1947720776"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCargoLedgerB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::708637367",
       "Source": "Craft 3 Cargo Ledgers",
       "Trans": {"SC":"制作 3 个货物账台","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"708637367"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestWoodB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::4034132589",
       "Source": "Harvest 5,000 Wood/Fungal Wood",
       "Trans": {"SC":"采集 5,000 份木头/真菌木","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4034132589"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftStorageBoxes_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::29915149",
       "Source": "Craft 25 Large Storage Boxes",
       "Trans": {"SC":"制作 25 个大型储物箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"29915149"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::726345108",
       "Source": "Tame 1 Tidepup",
       "Trans": {"SC":"驯服 1 只潮佑螈","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"726345108"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameParrotB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3517542355",
       "Source": "Tame 3 Parrots",
       "Trans": {"SC":"驯服 3 只鹦鹉","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3517542355"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXOtterB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::4244483860",
       "Source": "Tame 3 X-Otters",
       "Trans": {"SC":"驯服 3 只X-水獭","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4244483860"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructSloopB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::4138463399",
       "Source": "Construct 3 Sloops",
       "Trans": {"SC":"建造 3 艘单桅帆船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4138463399"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsB_MilestoneDescription",
-      "Source": "Destroy 3 Pirate Ships",
-      "Trans": {"SC":"摧毁 3 个海盗船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3756222956"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatFleetCaptainA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3741177841",
       "Source": "Defeat 1 Fleet Captain Ship",
       "Trans": {"SC":"击败 1 艘舰队长船只","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3741177841"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameParrotA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3254144942",
       "Source": "Tame 1 Parrot",
       "Trans": {"SC":"驯服 1 只鹦鹉","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3254144942"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoC_MilestoneDescription",
-      "Source": "Collect 5 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 5 个普通废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1877919793"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::4254712966",
       "Source": "Complete 3 Gamma Missions",
       "Trans": {"SC":"完成 3 个简单任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4254712966"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBetaMissionsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1762316004",
       "Source": "Complete 1 Beta Mission",
       "Trans": {"SC":"完成 1 个中等任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1762316004"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::732816263",
       "Source": "Spend 2,500 Hexagons at the Hexchange",
       "Trans": {"SC":"在六角币交易所花费 2,500 枚六角币","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"732816263"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteRamsContractB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1454674604",
       "Source": "Complete 3 Ramshackle Contracts",
       "Trans": {"SC":"完成 3 个普通契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1454674604"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteApprContractA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::728645662",
       "Source": "Complete 1 Apprentice Contract",
       "Trans": {"SC":"完成 1 个优秀契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"728645662"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsC_MilestoneDescription",
-      "Source": "Spend 2,500 Hexagons at the Hexchange",
-      "Trans": {"SC":"在六角币交易所花费 2,500 枚六角币","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"732816263"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishTankB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::660663729",
       "Source": "Craft 3 Aquariums",
       "Trans": {"SC":"制作 3 个水族箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"660663729"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftFishBasketsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3892123431",
       "Source": "Craft 25 Fish Baskets",
       "Trans": {"SC":"制作 25 个鱼篮","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3892123431"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CatchFishNetsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::206894077",
       "Source": "Catch 50 Fish with Fish Nets",
       "Trans": {"SC":"使用渔网捕获 50 条鱼","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"206894077"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2149887342",
       "Source": "Raid 1 Pirate Camp or Ocean Outpost",
       "Trans": {"SC":"袭击 1 个海盗营地或海洋前哨","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2149887342"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2058816076",
       "Source": "Complete 1 Treasure Map Bottle",
       "Trans": {"SC":"完成 1 个藏宝图瓶","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2058816076"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3756222956",
       "Source": "Destroy 3 Pirate Ships",
       "Trans": {"SC":"摧毁 3 个海盗船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3756222956"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMetalPlatform_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3189604871",
       "Source": "Craft 1 Metal Ocean Platform",
       "Trans": {"SC":"制作 1 个金属海洋平台","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3189604871"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftShipyardB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::648718057",
       "Source": "Craft 1 Shipyard",
       "Trans": {"SC":"制作1个船坞","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"648718057"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMarketB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3789284287",
       "Source": "Craft 1 Market",
       "Trans": {"SC":"制作 1 个市场","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3789284287"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftTekSensor_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::149777426",
       "Source": "Craft 1 Tek Sensor",
       "Trans": {"SC":"制作 1 个泰克传感器","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"149777426"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftTekJumpPad_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2464477888",
       "Source": "Craft 1 Tek Jump Pad",
       "Trans": {"SC":"制作 1 个泰克跳板","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2464477888"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelTekJumpPad_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2426567741",
       "Source": "Travel 10,000 Meters Distance with Tek Jump Pad",
       "Trans": {"SC":"使用泰克弹射板移动 10,000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2426567741"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1877919793",
       "Source": "Collect 5 Ramshackle Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 5 个普通废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1877919793"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1658586834",
       "Source": "Collect 3 Apprentice Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 3 个优秀废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1658586834"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3951526098",
       "Source": "Collect 1 Journeyman Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 1 个精良废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3951526098"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoC_MilestoneDescription",
-      "Source": "Collect 5 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 5 个精良废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3493159888"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteTreasureMapsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::809861714",
       "Source": "Complete 3 Treasure Map Bottles",
       "Trans": {"SC":"完成 3 个藏宝图瓶","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"809861714"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsC_MilestoneDescription",
-      "Source": "Destroy 10 Pirate Ships",
-      "Trans": {"SC":"摧毁 10 个海盗船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1864092368"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteApprContractB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1624920665",
       "Source": "Complete 3 Apprentice Contracts",
       "Trans": {"SC":"完成 3 个优秀契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1624920665"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteJourContractA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1023250490",
       "Source": "Complete 1 Journeyman Contract",
       "Trans": {"SC":"完成 1 个精良契约","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1023250490"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsD_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3140877669",
       "Source": "Spend 5,000 Hexagons at the Hexchange",
       "Trans": {"SC":"在六角币交易所花费 5,000 枚六角币","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3140877669"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3636175266",
       "Source": "Complete 5 Ocean Biome Missions",
       "Trans": {"SC":"完成 5 个海洋生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3636175266"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteVolcanicMissionsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3551497636",
       "Source": "Complete 5 Volcanic Biome Missions",
       "Trans": {"SC":"完成 5 个火山生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3551497636"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteSpaceMissionsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1742016742",
       "Source": "Complete 5 Space Biome Missions",
       "Trans": {"SC":"完成 5 个太空生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1742016742"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftMiningDrill_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::483702605",
       "Source": "Craft 1 Mining Drill",
       "Trans": {"SC":"制作 1 个矿枪","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"483702605"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillA_MilestoneDescription",
-      "Source": "Harvest 150,000 Resources with Mining Drill",
-      "Trans": {"SC":"使用矿枪采集 150,000 份资源","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXRex_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1842080243",
       "Source": "Tame 1 X-Rex",
       "Trans": {"SC":"驯服 1 只X-霸王龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1842080243"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXYutyrannusB_MilestoneDescription",
-      "Source": "Tame 1 X-Yutyrannus",
-      "Trans": {"SC":"驯服 1 只X-羽王龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1658072556"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXSpino_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1358126606",
       "Source": "Tame 1 X-Spino",
       "Trans": {"SC":"驯服 1 只X-棘龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1358126606"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameTidepupB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1856204759",
       "Source": "Tame 3 Tidepups",
       "Trans": {"SC":"驯服 3 只潮佑螈","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1856204759"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.EvolveTidepupNeotenic_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2709255680",
       "Source": "Evolve 1 Tidepup via Neotenic Stabilization",
       "Trans": {"SC":"通过幼态稳定进化 1 只潮佑螈","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2709255680"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DispelDebuffsTidepup_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::4075223804",
       "Source": "Have 10 debuffs dispelled by Tidepup on your shoulder",
       "Trans": {"SC":"让肩上的潮佑螈驱散 10 个减益效果","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4075223804"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXMosasaurus_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3161319936",
       "Source": "Tame 1 X-Mosasaurus",
       "Trans": {"SC":"驯服 1 只X-沧龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3161319936"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::366175266",
       "Source": "Complete 5 Ocean Biome Missions",
       "Trans": {"SC":"完成 5 个海洋生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3636175266"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaMoeder_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1866832116",
       "Source": "Defeat Boss: Gamma Moeder, Master of the Ocean",
       "Trans": {"SC":"击败BOSS: 海洋之主莫德尔 (简单)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1866832116"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineA_MilestoneDescription",
-      "Source": "Construct 1 Brigantine",
-      "Trans": {"SC":"建造 1 艘双桅帆船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1256332626"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DestroyPirateShipsD_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1864092368",
       "Source": "Destroy 10 Pirate Ships",
       "Trans": {"SC":"摧毁 10 个海盗船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1864092368"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.RaidPirateCampsB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1343011468",
       "Source": "Raid 5 Pirate Camps or Ocean Outposts",
       "Trans": {"SC":"袭击 5 个海盗营地或海洋前哨","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1343011468"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoD_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2309292462",
       "Source": "Collect 25 Ramshackle Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 25 个普通废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2309292462"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2286156963",
       "Source": "Collect 15 Apprentice Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 15 个优秀废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2286156963"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3493159888",
       "Source": "Collect 5 Journeyman Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 5 个精良废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3493159888"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXYutyrannusA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1658072556",
       "Source": "Tame 1 X-Yutyrannus",
       "Trans": {"SC":"驯服 1 只X-羽王龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1658072556"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteGammaMissionsC_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1721629206",
       "Source": "Complete 10 Gamma Missions",
       "Trans": {"SC":"完成 10 个简单任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1721629206"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DefeatGammaController_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3239498533",
       "Source": "Defeat Boss: Gamma Corrupted Master Controller",
       "Trans": {"SC":"击败BOSS: 腐化的主宰者 (简单)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3239498533"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CreateBloodPacksA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2662587059",
       "Source": "Create 10 Blood Packs",
       "Trans": {"SC":"制作 10 个血袋","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2662587059"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameBloodstalkerA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1774806983",
       "Source": "Tame 1 Bloodstalker",
       "Trans": {"SC":"驯服 1 只血蛛","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1774806983"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteBogMissionsA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1648397108",
       "Source": "Complete 5 Bog Biome Missions",
       "Trans": {"SC":"完成 5 个沼泽生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1648397108"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXDunkleosteus_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2376612736",
       "Source": "Tame 3 X-Dunkleosteus",
       "Trans": {"SC":"驯服 3 只X-邓氏鱼","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2376612736"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestShellFragments_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1548839888",
       "Source": "Harvest 10 Shell Fragments",
       "Trans": {"SC":"采集 10 份甲壳碎片","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1548839888"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestMiningDrillB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3256012987",
       "Source": "Harvest 150,000 Resources with Mining Drill",
       "Trans": {"SC":"使用矿枪采集 150,000 份资源","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3256012987"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftHoverSkiff_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3330712628",
       "Source": "Craft 1 Tek Hover Skiff",
       "Trans": {"SC":"制作 1 个泰克悬浮艇","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3330712628"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelHoverSkiff_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1726745278",
       "Source": "Travel 100,000 Meters Distance with Tek Hover Skiff",
       "Trans": {"SC":"使用泰克悬浮艇移动 100,000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1726745278"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::3944153332",
@@ -76588,136 +76480,130 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.SpendHexagonsF_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2387988667",
       "Source": "Spend 50,000 Hexagons at the Hexchange",
       "Trans": {"SC":"在六角币交易所花费 50,000 枚六角币","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2387988667"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.ConstructBrigantineC_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1256332626",
       "Source": "Construct 1 Brigantine",
       "Trans": {"SC":"建造 1 艘双桅帆船","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1256332626"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TravelBrigantine_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::610355502",
       "Source": "Travel 250,000 Meters Distance with Brigantine",
       "Trans": {"SC":"使用双桅帆船移动 250,000 米","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"610355502"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageBrigantineB_MilestoneDescription",
-      "Source": "Deal 500,000 Damage with Brigantine",
-      "Trans": {"SC":"使用双桅帆船造成 500,000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"762923087"}
-    },
-    {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CraftCruiseMissiles_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::251245819",
       "Source": "Craft 10 Cruise Missiles",
       "Trans": {"SC":"制作 10 个巡航导弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"251245819"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3381988508",
       "Source": "Tame 3 Astrocetus",
       "Trans": {"SC":"驯服 3 只星辰鲸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3381988508"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameAstrocetusHighEff_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2767431223",
       "Source": "Tame 1 Astrocetus at 90% Taming Effectiveness",
       "Trans": {"SC":"以驯养有效 90%+ 驯服 1 只星辰鲸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2767431223"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageBrigantineA_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::762923087",
       "Source": "Deal 500,000 Damage with Brigantine",
       "Trans": {"SC":"使用双桅帆船造成 500,000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"762923087"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageShoulderCannonB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1211297278",
       "Source": "Deal 250,000 Damage with Tek Shoulder Cannon",
       "Trans": {"SC":"使用泰克肩炮造成 250,000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1211297278"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.DealDamageHandCannonB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1722967206",
       "Source": "Deal 500,000 Damage with Hand Cannon",
       "Trans": {"SC":"使用手炮造成 500,000 点伤害","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1722967206"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusHighLvl_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2719424802",
       "Source": "Tame 1 Palaeoctopus at level 135+",
       "Trans": {"SC":"驯服 1 只 135 级以上的古蛸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2719424802"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameMegachelonHighLvl_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3580047671",
       "Source": "Tame 1 Megachelon at level 135+",
       "Trans": {"SC":"驯服 1 只 135 级以上的岛巨龟","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3580047671"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteOceanMissionsD_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3086400223",
       "Source": "Complete 25 Ocean Biome Missions",
       "Trans": {"SC":"完成 25 个海洋生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3086400223"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectRamsCargoE_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3938514540",
       "Source": "Collect 100 Ramshackle Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 100 个普通废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3938514540"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectApprCargoC_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3711745657",
       "Source": "Collect 75 Apprentice Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 75 个优秀废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3711745657"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CollectJourCargoD_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::914270799",
       "Source": "Collect 25 Journeyman Abandoned Cargo with a ship",
       "Trans": {"SC":"使用船只收集 25 个精良废弃货箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"914270799"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaArcticMissions_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1473641712",
       "Source": "Complete 10 Alpha Arctic Biome Missions",
       "Trans": {"SC":"完成 10 个困难北极生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1473641712"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaVolcanicMissions_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::3863417314",
       "Source": "Complete 10 Alpha Volcanic Biome Missions",
       "Trans": {"SC":"完成 10 个困难火山生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3863417314"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.CompleteAlphaSpaceMissions_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2439718516",
       "Source": "Complete 10 Alpha Space Biome Missions",
       "Trans": {"SC":"完成 10 个困难太空生物群系任务","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2439718516"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.HarvestBioToxin_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::2666939981",
       "Source": "Harvest 1,000 Bio Toxin",
       "Trans": {"SC":"采集 1,000 份生物毒素","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"2666939981"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TamePalaeoctopusB_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1726057048",
       "Source": "Tame 5 Palaeoctopus",
       "Trans": {"SC":"驯服 5 只古蛸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1726057048"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "DT_Milestones_ToF::Task.ToF.TameXBasilosaurusHighLvl_MilestoneDescription",
+      "NamespaceHash": "DT_Milestones_ToF::1056673754",
       "Source": "Tame 3 X-Basilosaurus at level 135+",
       "Trans": {"SC":"驯服 3 只等级 135+ 的X-龙王鲸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1056673754"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::1716367401",
@@ -76878,6 +76764,186 @@
   ],
   //龙之国度技能 & 任务 - 2026-07-17 11:24:53
   "Dragontopia": [
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1529521308",
+      "Source": "Claim 3 baby Umbra",
+      "Trans": {"SC":"认领 3 只幽影仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::362243435",
+      "Source": "Tame 1 Lumina",
+      "Trans": {"SC":"驯服 1 只皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::760375422",
+      "Source": "Tame 3 Lumina",
+      "Trans": {"SC":"驯服 3 只皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1679654721",
+      "Source": "Tame 5 Lumina",
+      "Trans": {"SC":"驯服 5 只皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3204808380",
+      "Source": "Kill 5 wild Lumina",
+      "Trans": {"SC":"击杀 5 只野生皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1100254371",
+      "Source": "Kill 15 wild Lumina",
+      "Trans": {"SC":"击杀 15 只野生皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1865458037",
+      "Source": "Kill 30 wild Lumina",
+      "Trans": {"SC":"击杀 30 只野生皎光仔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2135962145",
+      "Source": "Harvest 50 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Lumina",
+      "Trans": {"SC":"骑乘皎光仔采集 50 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1335403377",
+      "Source": "Harvest 250 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Lumina",
+      "Trans": {"SC":"骑乘皎光仔采集 250 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1920056228",
+      "Source": "Harvest 500 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Lumina",
+      "Trans": {"SC":"骑乘皎光仔采集 500 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::2959884227",
+      "Source": "Claim 1 baby Lumina",
+      "Trans": {"SC":"认领 1 只皎光仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1677051865",
+      "Source": "Claim 3 baby Lumina",
+      "Trans": {"SC":"认领 3 只皎光仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3425618358",
+      "Source": "Claim 5 baby Lumina",
+      "Trans": {"SC":"认领 5 只皎光仔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::255564506",
+      "Source": "Deal 5000 damage with Lumina's bite or claw attacks",
+      "Trans": {"SC":"使用皎光仔的撕咬或爪击造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1192940185",
+      "Source": "Deal 25000 damage with Lumina's bite or claw attacks",
+      "Trans": {"SC":"使用皎光仔的撕咬或爪击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3827140011",
+      "Source": "Deal 50000 damage with Lumina's bite or claw attacks",
+      "Trans": {"SC":"使用皎光仔的撕咬或爪击造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::375492496",
+      "Source": "Deal 5000 damage with Lumina's projectile attacks",
+      "Trans": {"SC":"使用皎光仔的投射攻击造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::1428592402",
+      "Source": "Deal 25000 damage with Lumina's projectile attacks",
+      "Trans": {"SC":"使用皎光仔的投射攻击造成 25000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia::3366415588",
+      "Source": "Deal 50000 damage with Lumina's projectile attacks",
+      "Trans": {"SC":"使用皎光仔的投射攻击造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "43247B714B917D8F3678369E1E710504",
+      "Source": "Draco Energy",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"395715481"}
+    },
+    {
+      "NamespaceHash": "E881F90B4441DD67E77F8ABA9F760E2C",
+      "Source": "Deal Damage without receiving it",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3796602516"}
+    },
+    {
+      "NamespaceHash": "4945064F4A3C3061120B5E8E37FA76FB",
+      "Source": "Travel in a Short Time",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"41993657"}
+    },
+    {
+      "NamespaceHash": "7B82E69F4D253CB9C49D1C834AAA639D",
+      "Source": "Find & Destroy Light Beacons",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"88084234"}
+    },
+    {
+      "NamespaceHash": "F46BA9BB487C51E897475896C3668DE1",
+      "Source": "Dive for a period of time.",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2699932821"}
+    },
+    {
+      "NamespaceHash": "24F0DF124032DFF4FD0CA6ABF1AF8F09",
+      "Source": "MIMIC",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1858493721"}
+    },
+    {
+      "NamespaceHash": "3E0475FC47BF70083DC6A0B492073B2A",
+      "Source": "TRAVEL",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1869553603"}
+    },
+    {
+      "NamespaceHash": "1AF27D514797EE277F9EF3A80927F5DE",
+      "Source": "FEED",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1285494600"}
+    },
+    {
+      "NamespaceHash": "7C73922A4DBE46A44F2956A8D46DE954",
+      "Source": "Tame Info",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"36883894"}
+    },
+    {
+      "NamespaceHash": "67A96A5F454D6FB745E3EEA21AE7D5B2",
+      "Source": "Out of Ammo",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2127946915"}
+    },
+    {
+      "NamespaceHash": "8959D5B24E078E63445F0692A1AC278E",
+      "Source": "Press",
+      "Trans": {"SC":"按下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1770620125"}
+    },
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2824442020",
       "Source": "Eclipsar Burst Heal",
@@ -78240,7 +78306,7 @@
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::1507014778",
       "Source": "Harvest 250 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
-      "Trans": {"SC":"骑乘幽影仔采集250块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Trans": {"SC":"骑乘幽影仔采集 250 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78270,13 +78336,13 @@
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::226466361",
       "Source": "Harvest 500 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
-      "Trans": {"SC":"骑乘幽影仔采集500块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Trans": {"SC":"骑乘幽影仔采集 500 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::859533292",
       "Source": "Harvest 500 raw meat riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集500份生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 500 份生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
