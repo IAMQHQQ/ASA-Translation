@@ -1,0 +1,598 @@
+{
+  "Vanilla with Sprinkles": [
+    {
+      "NamespaceHash": "Content::199443206",
+      "Source": "Structure Variant Gun",
+      "Trans": {"SC":"建筑变体枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::778282959",
+      "Source": "Manage <RichColor Color=\"0.6, 0.6, 1, 1\">structure skin</> variants with one of these.<#RN#><#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Variant Swap:</> Cycles between skin variants<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Orientation Swap:</> Rotates the skin in all enabled axis.<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Flip:</> Flips the skin in all enabled axis.<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Copy/Paste:</> Copy and paste skins between structures.<#RN#><#RN#>Enable <RichColor Color=\"0.6, 0.6, 1, 1\">Multi Target</> to propogate changes to connected structures.",
+      "Trans": {"SC":"长按R 使用其中之一管理<RichColor Color=\"0.6, 0.6, 1, 1\">建筑皮肤</>变体。<#RN#><#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">变体切换：</>在皮肤变体间循环切换<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">方向切换：</>在所有启用的轴向上旋转皮肤。<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">翻转：</>在所有启用的轴向上翻转皮肤。<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">复制/粘贴：</>在建筑间复制和粘贴皮肤。<#RN#><#RN#>启用<RichColor Color=\"0.6, 0.6, 1, 1\">多目标</>以将更改传播到连接的建筑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3198953313",
+      "Source": "Crafting Skill Tonic",
+      "Trans": {"SC":"制作药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3947855488",
+      "Source": "Consume this to temporarily become a master of crafting.<#RN#><#RN#>Level-up points will be temporarily redistributed entirely into crafting upon consumption.<#RN#><#RN#>Weight max will remain unaffected.",
+      "Trans": {"SC":"饮用此物可暂时成为制作大师。<#RN#><#RN#>饮用后，升级点数将暂时全部分配至制作技能。<#RN#><#RN#>最大负重将不受影响。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2771323585",
+      "Source": "Dino Management Gun",
+      "Trans": {"SC":"恐龙管理枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1835426135",
+      "Source": "Manage dinos with one of these!<#RN#><#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Kill:</> Attempt to kill aimed dino(s).<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Spay:</> Attempt to spay/neuter aimed dino(s).<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Mating:</> Toggle mating on aimed dino(s).<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Claim:</> Attempt to claim aimed dino(s).<#RN#><#RN#>Enable <RichColor Color=\"0.6, 0.6, 1, 1\">Multi Target</> to propogate changes to nearby dinos.<#RN#>Enable <RichColor Color=\"0.6, 0.6, 1, 1\">Species Filter</> while in <RichColor Color=\"0.6, 0.6, 1, 1\">Multi Target</> to propogate changes to nearby dinos of only the same type.",
+      "Trans": {"SC":"长按R 使用其中之一来管理恐龙！<#RN#><#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">击杀：</>尝试击杀瞄准的恐龙。<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">绝育：</>尝试对瞄准的恐龙进行绝育。<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">交配：</>切换瞄准的恐龙的交配状态。<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">认领：</>尝试认领瞄准的恐龙。<#RN#><#RN#>启用<RichColor Color=\"0.6, 0.6, 1, 1\">多目标</>以将更改传播到附近的恐龙。<#RN#>在<RichColor Color=\"0.6, 0.6, 1, 1\">多目标</>模式下启用<RichColor Color=\"0.6, 0.6, 1, 1\">物种过滤器</>，仅将更改传播到同种类的附近恐龙。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1621146405",
+      "Source": "Structure Pickup Gun",
+      "Trans": {"SC":"建筑拾取枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1338889761",
+      "Source": "Pick up structures with one of these.<#RN#><#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Pickup:</> Attempt to pick up aimed structure(s). If repairs are required, this will attempt to perform repairs before picking up. Repairs must succeed (if needed) for pickup.<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Repair:</> Attempt to repair aimed structure(s).<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">Demolish:</> Demolish aimed structure(s).<#RN#><#RN#>Will attempt to pull resources from nearby containers/dinos for repairs.<#RN#><#RN#>Platform structures can be guarded against modification. Defaults to enabled.<#RN#><#RN#>Enable <RichColor Color=\"0.6, 0.6, 1, 1\">Multi Target</> to propogate changes to connected structures.",
+      "Trans": {"SC":"长按R 使用其中之一来拾取建筑。<#RN#><#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">拾取：</>尝试拾取瞄准的建筑。如果需要维修，则会在拾取前尝试进行维修。维修必须成功（如果需要）才能拾取。<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">维修：</>尝试维修瞄准的建筑。<#RN#><RichColor Color=\"0.6, 0.6, 1, 1\">拆除：</>拆除瞄准的建筑。<#RN#><#RN#>将尝试从附近的容器/恐龙中提取资源以进行维修。<#RN#><#RN#>平台建筑可被保护以防止修改。默认启用。<#RN#><#RN#>启用<RichColor Color=\"0.6, 0.6, 1, 1\">多目标</>以将更改传播到连接的建筑。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::99324505",
+      "Source": "Repair Anvil",
+      "Trans": {"SC":"修理铁砧","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3764258936",
+      "Source": "Repair your gear here.",
+      "Trans": {"SC":"在这里修理你的装备。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3742837026",
+      "Source": "Sprinkles",
+      "Trans": {"SC":"便利增强","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1841075460",
+      "Source": "Vanilla with Sprinkles helper buff",
+      "Trans": {"SC":"原版便利增强辅助增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "51C50E644C0308809855D0AFE25DB3F6",
+      "Source": "Local Push",
+      "Trans": {"SC":"本地推送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"769253289"}
+    },
+    {
+      "NamespaceHash": "61CAB1F84A01A15753AEB8BB03D4CEFE",
+      "Source": "Sources",
+      "Trans": {"SC":"来源","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3444763472"}
+    },
+    {
+      "NamespaceHash": "715FC92043C69BE9FDD1B0B0F16BDB93",
+      "Source": "Destinations",
+      "Trans": {"SC":"目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2348252962"}
+    },
+    {
+      "NamespaceHash": "4FC4176B4493073B0D73928828FD92FA",
+      "Source": "Slot 2",
+      "Trans": {"SC":"栏位2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1843996988"}
+    },
+    {
+      "NamespaceHash": "E121A9064E6CF34BB663609C063F0353",
+      "Source": "Slot 3",
+      "Trans": {"SC":"栏位3","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3579137625"}
+    },
+    {
+      "NamespaceHash": "BC0A65684CF137ACEB7DCD85A755E52D",
+      "Source": "Slot 4",
+      "Trans": {"SC":"栏位4","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1216509664"}
+    },
+    {
+      "NamespaceHash": "F53D14BE495D2DA0A150118CD90DDA49",
+      "Source": "Slot 5",
+      "Trans": {"SC":"栏位5","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4030599557"}
+    },
+    {
+      "NamespaceHash": "ACABAEC1409BAFDEAD4AC39966F355A9",
+      "Source": "Moving Items:",
+      "Trans": {"SC":"移动物品：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"692300353"}
+    },
+    {
+      "NamespaceHash": "831DBE8D40C056E09D02D6BACD94B994",
+      "Source": "From Sources:",
+      "Trans": {"SC":"从来源：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"391715167"}
+    },
+    {
+      "NamespaceHash": "97D3C302425C8C1C7D18EAB13FC06697",
+      "Source": "Into Destinations:",
+      "Trans": {"SC":"到目标：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1377452311"}
+    },
+    {
+      "NamespaceHash": "7A065EAA40D53298381E0AB9681103BD",
+      "Source": "DONE",
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3302924665"}
+    },
+    {
+      "NamespaceHash": "642F652F41B5BE64115A38B474116CCF",
+      "Source": "DONE",
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3302924665"}
+    },
+    {
+      "NamespaceHash": "16DFFA46426B88C02580C4AAF1D2084F",
+      "Source": "NEXT",
+      "Trans": {"SC":"下一步","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2284583778"}
+    },
+    {
+      "NamespaceHash": "74243D9D4FE7E61D5D12FA8A0C85AE18",
+      "Source": "Load Slot",
+      "Trans": {"SC":"加载栏位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3576534412"}
+    },
+    {
+      "NamespaceHash": "61E1567E43D327DA749C5B952373D456",
+      "Source": "Save Slot",
+      "Trans": {"SC":"保存栏位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743702872"}
+    },
+    {
+      "NamespaceHash": "62464D6F45B676BB8DDBAFA5E0BDF290",
+      "Source": "Local Pull",
+      "Trans": {"SC":"本地拉取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"119565177"}
+    },
+    {
+      "NamespaceHash": "3E46F65A41B976BC3DC8498FA7FB79AE",
+      "Source": "Item categories are controlled by the items themselves and are not adjusted.",
+      "Trans": {"SC":"物品类别由物品本身控制，不进行调整。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1626417637"}
+    },
+    {
+      "NamespaceHash": "C79BF89A4F80AE4E3A33CCB0E4596EB5",
+      "Source": "By Item",
+      "Trans": {"SC":"按物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2246015837"}
+    },
+    {
+      "NamespaceHash": "ACC8FE034C266C8EB8B4A292747377B9",
+      "Source": "By Container",
+      "Trans": {"SC":"按容器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2680967436"}
+    },
+    {
+      "NamespaceHash": "0D1484A54A5EC3F7DD8AE2AD90706DF7",
+      "Source": "Container Name",
+      "Trans": {"SC":"容器名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2328759163"}
+    },
+    {
+      "NamespaceHash": "F34013044CA82F23E91DBF9780C86918",
+      "Source": "Amount",
+      "Trans": {"SC":"数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3071490585"}
+    },
+    {
+      "NamespaceHash": "1A415D0E437AC470095A44BB1B305FB2",
+      "Source": "PULL",
+      "Trans": {"SC":"拉取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"801807882"}
+    },
+    {
+      "NamespaceHash": "155AC1DF4DF0C5CD729EE38EA5EEE8B1",
+      "Source": "VwS Mod Settings",
+      "Trans": {"SC":"VwS模组设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3819925362"}
+    },
+    {
+      "NamespaceHash": "1AAA449748A2C1A7DF376489132D2528",
+      "Source": "Stacking",
+      "Trans": {"SC":"堆叠","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2450659508"}
+    },
+    {
+      "NamespaceHash": "D2D4099D44E5F0A165519F8D9FC7E040",
+      "Source": "VwS *never* remaps items. Changes are applied prior to world load to vanilla config options to maintain maximum compatability.",
+      "Trans": {"SC":"VwS *从不会*重新映射物品。更改会在世界加载前应用于原版配置选项，以保持最大兼容性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4283563820"}
+    },
+    {
+      "NamespaceHash": "6C4E3369470769C5EB9C09B07C42C3A5",
+      "Source": "Weight Reduction Preset",
+      "Trans": {"SC":"减重预设","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3278512369"}
+    },
+    {
+      "NamespaceHash": "826E0C0E4F768A297EEAB5B69DA362D9",
+      "Source": "All items will weigh this much less in player and dino inventories.",
+      "Trans": {"SC":"所有物品在玩家和恐龙背包中的重量将减少这么多。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"529755436"}
+    },
+    {
+      "NamespaceHash": "ACA53EAF4962384F7ABC459801E05728",
+      "Source": "Stack Size Preset",
+      "Trans": {"SC":"堆叠大小预设","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2702576894"}
+    },
+    {
+      "NamespaceHash": "D75BE1FE4ED5A3E43DF383AF35A906E0",
+      "Source": "All items that stack will be increased by this multiplier.",
+      "Trans": {"SC":"所有可堆叠的物品将按此乘数增加。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1666976828"}
+    },
+    {
+      "NamespaceHash": "5C9F0A5A47F174B45B83C4B990989FCF",
+      "Source": "Stat Display",
+      "Trans": {"SC":"属性显示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1426005177"}
+    },
+    {
+      "NamespaceHash": "8DE93099455997BECEECF0A9607545EA",
+      "Source": "Show player stat points",
+      "Trans": {"SC":"显示玩家属性点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"387813246"}
+    },
+    {
+      "NamespaceHash": "118B5F074588F19E8C436BA770559415",
+      "Source": "Show dino stat points/colours",
+      "Trans": {"SC":"显示恐龙属性点/颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"55710223"}
+    },
+    {
+      "NamespaceHash": "B2B4FD5B4B35307219E864833AF0AF89",
+      "Source": "Engrams",
+      "Trans": {"SC":"蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1195510122"}
+    },
+    {
+      "NamespaceHash": "7B9541C54AE5CB3D2CC8F19A33D1609C",
+      "Source": "Engram auto-unlock",
+      "Trans": {"SC":"蓝图自动解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3135114415"}
+    },
+    {
+      "NamespaceHash": "892EF7684CED74F6919D5A8EC0BFA140",
+      "Source": "Tekgram auto-unlock",
+      "Trans": {"SC":"泰克蓝图自动解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4036875187"}
+    },
+    {
+      "NamespaceHash": "471465A7473683F2389F0C8850877885",
+      "Source": "Tekgram auto-unlock level",
+      "Trans": {"SC":"泰克蓝图自动解锁等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"600579905"}
+    },
+    {
+      "NamespaceHash": "52C1483B43B3FC1BD78E9EB220BB02D4",
+      "Source": "ALL Tekgrams will be auto-unlocked at this level if enabled.",
+      "Trans": {"SC":"如果启用，所有泰克蓝图将在该等级自动解锁。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2458267530"}
+    },
+    {
+      "NamespaceHash": "44ECAA3745482B61460E89B645DC6F72",
+      "Source": "Engram Point Buffer",
+      "Trans": {"SC":"蓝图点数缓冲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"818933411"}
+    },
+    {
+      "NamespaceHash": "A8708B374724A7EE433A2EBBE5902808",
+      "Source": "Number of engram points to leave players with after running auto-unlock.",
+      "Trans": {"SC":"运行自动解锁后留给玩家的蓝图点数。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1955852428"}
+    },
+    {
+      "NamespaceHash": "14189DD440E59E12B0410F81568257F4",
+      "Source": "Pickup gun",
+      "Trans": {"SC":"拾取枪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2448703727"}
+    },
+    {
+      "NamespaceHash": "59E353264F131C8F6D7179BB45E73041",
+      "Source": "Disabling this will not disable the engram, only functionality.",
+      "Trans": {"SC":"禁用此选项不会禁用蓝图，只会禁用功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1138971875"}
+    },
+    {
+      "NamespaceHash": "F37C453849098126323892A2BDBEAE2A",
+      "Source": "Disabling this will not disable the engram, only functionality.",
+      "Trans": {"SC":"禁用此选项不会禁用蓝图，只会禁用功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1138971875"}
+    },
+    {
+      "NamespaceHash": "2F4257C04FE053033978DEA48209422D",
+      "Source": "Disabling this will not disable the engram, only functionality.",
+      "Trans": {"SC":"禁用此选项不会禁用蓝图，只会禁用功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1138971875"}
+    },
+    {
+      "NamespaceHash": "E4CB0B3047B1FA0143648E892E517F4E",
+      "Source": "Linked structure warning threshold",
+      "Trans": {"SC":"链接结构警告阈值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3953607229"}
+    },
+    {
+      "NamespaceHash": "3C1DF4CD4F89882EE29E71A57811FA69",
+      "Source": "Maximum number of connected structures that can be picked up without a warning dialog showing.",
+      "Trans": {"SC":"可以拾取而不显示警告对话框的最大连接结构数量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1270895149"}
+    },
+    {
+      "NamespaceHash": "A4FB3D46436E27B42EE844BC4F29110E",
+      "Source": "Variant gun",
+      "Trans": {"SC":"变体枪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2967546634"}
+    },
+    {
+      "NamespaceHash": "EB2BEACF4143223A461E7AB2B8398E82",
+      "Source": "Dino management gun",
+      "Trans": {"SC":"恐龙管理枪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3109988187"}
+    },
+    {
+      "NamespaceHash": "18324CB542BDA489FB6F15850D0B66C5",
+      "Source": "Dino gun kill gives exp",
+      "Trans": {"SC":"恐龙枪击杀给予经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3205443810"}
+    },
+    {
+      "NamespaceHash": "685C36C54A73BD906A566E80536ACD88",
+      "Source": "Disablin this will prevent the dino gun from granting xp for killing tames.",
+      "Trans": {"SC":"禁用此选项将阻止恐龙枪因击杀驯服生物而给予经验。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2562758540"}
+    },
+    {
+      "NamespaceHash": "9939EF3541E78FBA14F02583FABD0861",
+      "Source": "Dino gun kill shares exp",
+      "Trans": {"SC":"恐龙枪击杀共享经验","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1696128229"}
+    },
+    {
+      "NamespaceHash": "06F32FBC43C954FC463FD8B6695A7A92",
+      "Source": "Disabling this will prevent the dino gun from granting tribe-shared xp for killing tames. Only applicable if the above option is enabled.",
+      "Trans": {"SC":"禁用此选项将阻止恐龙枪因击杀驯服生物而给予部落共享经验。仅当上述选项启用时适用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4062508155"}
+    },
+    {
+      "NamespaceHash": "EA6BC88344BE0DFA6F42109F313990A3",
+      "Source": "Dino gun kill xp multiplier",
+      "Trans": {"SC":"恐龙枪击杀经验乘数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"497398780"}
+    },
+    {
+      "NamespaceHash": "4ABB08FD4DD00E94BE3B88903C9659FF",
+      "Source": "Modifier for how much xp is granted relative to what Ark would give for killing a tame with the Dino management gun.",
+      "Trans": {"SC":"相对于用恐龙管理枪击杀驯服生物时方舟原本给予的经验，授予多少经验的修改量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"373786222"}
+    },
+    {
+      "NamespaceHash": "532EFD0B4BE2FBA9AA32C3AFA3B6F7A6",
+      "Source": "Pulling",
+      "Trans": {"SC":"拉取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"220781024"}
+    },
+    {
+      "NamespaceHash": "208CB2B64F9A32FA6D6E9F9707CB0EE9",
+      "Source": "Pull system UI",
+      "Trans": {"SC":"拉取系统界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"128081821"}
+    },
+    {
+      "NamespaceHash": "10FEDAFF42B55B86DCDEC0BBCE32F34E",
+      "Source": "ONLY the pull ui at the top of inventories will be disabled by this. Other features which rely on pulling will retain functionality. This is intentional.",
+      "Trans": {"SC":"仅背包顶部的拉取界面会被禁用。依赖拉取的其他功能将保留功能。这是有意为之。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3619370486"}
+    },
+    {
+      "NamespaceHash": "1CAE7CEB455D08C8DF6700BE6855156C",
+      "Source": "Pull range",
+      "Trans": {"SC":"拉取范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3904371273"}
+    },
+    {
+      "NamespaceHash": "59700ECB4A21E9C825864CB4E56FDDC5",
+      "Source": "Radius in foundations that the pull system can search within.",
+      "Trans": {"SC":"拉取系统可以搜索的以地基为单位的半径。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"87792768"}
+    },
+    {
+      "NamespaceHash": "DAA25D43498E3F8DBD85DFA675ABBB88",
+      "Source": "Weight maximum",
+      "Trans": {"SC":"最大重量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"84595252"}
+    },
+    {
+      "NamespaceHash": "FB2623EB4CF9F581154317984FD41B5F",
+      "Source": "Weight maximum",
+      "Trans": {"SC":"最大重量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"84595252"}
+    },
+    {
+      "NamespaceHash": "4C6918874CE0FD2B5FEA52B74FA18277",
+      "Source": "Repair anvil",
+      "Trans": {"SC":"修理铁砧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"521650770"}
+    },
+    {
+      "NamespaceHash": "76BC12D045BF0A4D2C3C41BC6A9C6DE4",
+      "Source": "Emote auto-unlock",
+      "Trans": {"SC":"表情自动解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2476035248"}
+    },
+    {
+      "NamespaceHash": "D3673DC647986402F71F1589F7B33C25",
+      "Source": "Emote unlock level",
+      "Trans": {"SC":"表情解锁等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2191386895"}
+    },
+    {
+      "NamespaceHash": "C12049724DBD2EA7779DA0BDFC2200E2",
+      "Source": "ALL available emotes will be unlocked when a player reaches this level if enabled. DLC ownership will not be bypassed.",
+      "Trans": {"SC":"如果启用，当玩家达到此等级时，所有可用表情都会解锁。DLC所有权不会被绕过。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3499371216"}
+    },
+    {
+      "NamespaceHash": "682FA9DB4C52A85ED1B22F9FEB631A53",
+      "Source": "Transferrable Element",
+      "Trans": {"SC":"可转移能量元素","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"591614202"}
+    },
+    {
+      "NamespaceHash": "ED446FB34581CADB2062B5997BC981F9",
+      "Source": "Includes shards.",
+      "Trans": {"SC":"包括碎片。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2919366154"}
+    },
+    {
+      "NamespaceHash": "3CF3973C435316CEFA873687BDAA843A",
+      "Source": "Transferrable apex items/trophies",
+      "Trans": {"SC":"可转移的顶级物品/战利品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2208020131"}
+    },
+    {
+      "NamespaceHash": "17EACA04443F72AF5BC0D4B0C291FC69",
+      "Source": "Includes all alpha drops and boss trophies. Items are never remapped. Compatability is only guaranteed with vanilla stacks.",
+      "Trans": {"SC":"包括所有精英掉落物和首领战利品。物品从不重新映射。仅保证与原版堆叠的兼容性。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1959590129"}
+    },
+    {
+      "NamespaceHash": "C41FE9AF43D0AB728BEBF4937EFA18C5",
+      "Source": "Level Distribution",
+      "Trans": {"SC":"等级分布","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2302065710"}
+    },
+    {
+      "NamespaceHash": "B476B9A24433DAAEE6087CAE7198572B",
+      "Source": "Override level distribution",
+      "Trans": {"SC":"覆盖等级分布","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3543253004"}
+    },
+    {
+      "NamespaceHash": "F666F9574637D7CB52D5E4A37760696D",
+      "Source": "Modifier",
+      "Trans": {"SC":"修改量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3186608589"}
+    },
+    {
+      "NamespaceHash": "1B78E1994B2872AF575721B0D171C699",
+      "Source": "Affects how much wild dino levels should skew towards max. Increase towards 1 to skew more towards max. (The Island uses 0.5)",
+      "Trans": {"SC":"影响野生恐龙等级向最大值的倾斜程度。向1增加以更偏向最大值。（孤岛使用0.5）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"764585392"}
+    },
+    {
+      "NamespaceHash": "AB46653646FCC85273543B963575EAD0",
+      "Source": "Crafting Skill Tonic",
+      "Trans": {"SC":"制作药水","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3198953313"}
+    },
+    {
+      "NamespaceHash": "5827EC4B4F7931AC7D50128A5EB61205",
+      "Source": "Duration",
+      "Trans": {"SC":"持续时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"46084092"}
+    },
+    {
+      "NamespaceHash": "479123004160868E6CECE9BF5F89A2CB",
+      "Source": "Length of time in seconds the Crafting Skill Tonic's effects will last.",
+      "Trans": {"SC":"制作技能补剂效果持续的秒数。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4214634617"}
+    },
+    {
+      "NamespaceHash": "9E4A8F7A43065442E2A7F9A77BB45707",
+      "Source": "Length of time in seconds to delay repeat use of the Crafting Skill Tonic.",
+      "Trans": {"SC":"延迟重复使用制作技能补剂的秒数。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1795287811"}
+    },
+    {
+      "NamespaceHash": "2BA3343945775F5EBD8B5D89EB4DB189",
+      "Source": "Hotbar Swap",
+      "Trans": {"SC":"快捷栏交换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"683806928"}
+    },
+    {
+      "NamespaceHash": "4F5C6BD747C8A7F3FF59F9957C596880",
+      "Source": "Enable Hotbar Swapping",
+      "Trans": {"SC":"启用快捷栏交换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1337846959"}
+    },
+    {
+      "NamespaceHash": "D92BE5AC4A05F7E6C9962E9E08012640",
+      "Source": "CLIENT SETTINGS",
+      "Trans": {"SC":"客户端设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4124190439"}
+    },
+    {
+      "NamespaceHash": "D7A4FBDD4446E78788E514B0E61461A9",
+      "Source": "Dino stat point ordering",
+      "Trans": {"SC":"恐龙属性点排序","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"262313515"}
+    },
+    {
+      "NamespaceHash": "E97D98CB4819178446C7B6A9511FE56B",
+      "Source": "VwS",
+      "Trans": {"SC":"VwS","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3619553606"}
+    },
+    {
+      "NamespaceHash": "5DF51F1648E368A55E40DEA6D078E000",
+      "Source": "Dino Depot",
+      "Trans": {"SC":"恐龙仓库","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"725222510"}
+    },
+    {
+      "NamespaceHash": "25C88510491CE902CECD80A204C38F37",
+      "Source": "VwS default ordering is [Tamed|Leveled|Mutated]. Dino Depot uses [Tamed|Mutated|Leveled].",
+      "Trans": {"SC":"VwS默认排序为[已驯服|已升级|已突变]。恐龙仓库使用[已驯服|已突变|已升级]。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1846203759"}
+    },
+    {
+      "NamespaceHash": "2A2F7EFF45E59B1888007E92C03490A6",
+      "Source": "Pull system UI Position",
+      "Trans": {"SC":"拉取系统界面位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1079143823"}
+    },
+    {
+      "NamespaceHash": "Content::643610007",
+      "Source": "Top",
+      "Trans": {"SC":"顶部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3810632826",
+      "Source": "Bottom",
+      "Trans": {"SC":"底部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2136770258",
+      "Source": "Slot 1",
+      "Trans": {"SC":"栏位1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

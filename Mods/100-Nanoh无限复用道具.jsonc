@@ -1,0 +1,370 @@
+{
+  "Nanoh's Reusables": [
+    {
+      "NamespaceHash": "Content::1617889094",
+      "Source": "Reusable Hazard Suit Pants",
+      "Trans": {"SC":"可复用防护裤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::735164534",
+      "Source": "Reusable Pants made from a unique combination of materials that protect the wearer from environmental contaminants.",
+      "Trans": {"SC":"可重复使用的裤子，由独特的材料组合制成，保护穿戴者免受环境污染物的侵害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4059062314",
+      "Source": "Reusable Spear",
+      "Trans": {"SC":"可复用长矛","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::848655406",
+      "Source": "A reusable spear that can be infinitely thrown.",
+      "Trans": {"SC":"一把可重复使用的长矛，可以无限投掷。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2342380005",
+      "Source": "reusable Grappling Hook",
+      "Trans": {"SC":"可复用爪钩","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4249038894",
+      "Source": "Reusable Tek Spyglass",
+      "Trans": {"SC":"可重复使用的泰克望远镜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4135341761",
+      "Source": "(Binoculars I Was Bothered About)",
+      "Trans": {"SC":"（我曾烦恼的双筒望远镜）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3563256255",
+      "Source": "Reusable Tent",
+      "Trans": {"SC":"可复用帐篷","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4122263068",
+      "Source": "A portable Tent where you can take cover in hostile environments.<#RN#><#RN#>Doesn't Lose durability when picked up.",
+      "Trans": {"SC":"一顶便携帐篷，可在恶劣环境中躲避。<#RN#><#RN#>拾取时不损失耐久度。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1662097402",
+      "Source": "Stone Multitool",
+      "Trans": {"SC":"石制多功能工具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1016386697",
+      "Source": "Has a stone pickaxe, hatchet, and stone sickle. Press \"Reload\" on PC and \"Left Face Button\" (X for xbox, Square for playstation) to swap weapons.",
+      "Trans": {"SC":"拥有一把石头镐、斧头和石头镰刀。在PC上按“重新装填”，在主机上按“左功能键”（Xbox为X，PlayStation为方块）来切换武器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1033739491",
+      "Source": "Reusable Hazard Suit Shirt",
+      "Trans": {"SC":"可复用防护衣","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2545298901",
+      "Source": "A Reusable shirt made from a unique combination of materials that protect the wearer from environmental contaminants.",
+      "Trans": {"SC":"一件可重复使用的上衣，由独特的材料组合制成，保护穿戴者免受环境污染物的侵害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::445449493",
+      "Source": "Metal Multitool",
+      "Trans": {"SC":"金属多功能工具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1569100316",
+      "Source": "Has a metal pickaxe, hatchet, and metal sickle. Press \"Reload\" on PC and \"Left Face Button\" (X for xbox, Square for playstation) to swap weapons.",
+      "Trans": {"SC":"拥有一把金属镐、斧头和金属镰刀。在PC上按“重新装填”，在主机上按“左功能键”（Xbox为X，PlayStation为方块）来切换武器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1009710634",
+      "Source": "Reusable Climbing Pick",
+      "Trans": {"SC":"可复用登山镐","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3839370912",
+      "Source": "Climb up and hang from nearly any surface with these! They never break!",
+      "Trans": {"SC":"用它们几乎可以攀爬并悬挂在任何表面上！它们永不损坏！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1767911637",
+      "Source": "Enhanced Reusable Bola",
+      "Trans": {"SC":"增强的可复用流星锤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3348616011",
+      "Source": "This bola is infinitely usable and enhanced! Passively drains food and can trap larger creatures.",
+      "Trans": {"SC":"这个流星锤可以无限使用并且经过强化！被动消耗食物，并能困住更大的生物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2666912310",
+      "Source": "Reusable Electric Prod",
+      "Trans": {"SC":"可复用电击棒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::646815921",
+      "Source": "Powerful stunning weapon that needs a short delay per swing. Does not break. ",
+      "Trans": {"SC":"强大的眩晕武器，每次挥击需要短暂冷却。不会损坏。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2151441874",
+      "Source": "Reusable Night Vision Goggles",
+      "Trans": {"SC":"可复用夜视镜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3982770729",
+      "Source": "Effortlessly see in the dark, though beware blindingly bright light sources! These Goggles wont break with use!",
+      "Trans": {"SC":"毫不费力地在黑暗中视物，但要小心令人目眩的强光源！这些夜视镜用不坏！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2919360116",
+      "Source": "Reusable Bola",
+      "Trans": {"SC":"可复用流星锤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4293400855",
+      "Source": "This bola is infinitely usable.",
+      "Trans": {"SC":"这个流星锤可以无限使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1813424270",
+      "Source": "Reusable Flare Gun",
+      "Trans": {"SC":"可复用信号枪","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3596827031",
+      "Source": "A reusable flare launcher. Fires a bright ball of Sparkpowder to temporarily light an area.",
+      "Trans": {"SC":"一把可重复使用的信号弹发射器。发射一枚明亮的引火粉球，暂时照亮一片区域。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::500241326",
+      "Source": "Reusable Glowstick",
+      "Trans": {"SC":"可复用荧光棒","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2863948101",
+      "Source": "Glow Sticks generate light in a radius around them. Throw it and it will stick immediately to the location they first impact. This is infinitely throwable.",
+      "Trans": {"SC":"荧光棒在其周围半径内产生光亮。投掷出去，它会立即粘在首次撞击的位置。它可以无限投掷。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2350225121",
+      "Source": "Reusable Glider Suit",
+      "Trans": {"SC":"可复用滑翔翼","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2569312308",
+      "Source": "When attached to a Chest Armor, the Glider Suit enables sailing through the air by double-tapping jump, while gaining speed by running and diving! This glider does not tick durability!",
+      "Trans": {"SC":"当穿戴在胸甲上时，滑翔翼可通过双击跳跃在空中滑翔，通过奔跑和俯冲获得速度！这个滑翔翼不消耗耐久度！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1131547713",
+      "Source": "Reusable Grapple",
+      "Trans": {"SC":"可复用抓钩","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::851921254",
+      "Source": "This grapple is infinitely usable.",
+      "Trans": {"SC":"这个抓钩可以无限使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3977812764",
+      "Source": "Reusable Boomerang",
+      "Trans": {"SC":"可复用回旋镖","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2656271119",
+      "Source": "Your trusty infinite ranged weapon.",
+      "Trans": {"SC":"你信赖的无限远程武器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::911990248",
+      "Source": "Reusable Scuba Tank",
+      "Trans": {"SC":"可复用潜水服","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2384457120",
+      "Source": "An infinitely usable tank that's filled with Oxygen. Used to breathe underwater.",
+      "Trans": {"SC":"一个无限使用的充满氧气的罐子。用于在水下呼吸。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2105027560",
+      "Source": "Reusable Torch",
+      "Trans": {"SC":"可复用火把","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3615184152",
+      "Source": "Provides light, and some warmth. Doubles as a melee weapon in a pinch, and can be applied to various saddles & your belt for a hands free light source. This torch will never break.",
+      "Trans": {"SC":"提供光亮和一些温暖。紧急时可兼作近战武器，并可安装在各种鞍具和腰带上，作为免提光源。这个火把永不损坏。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1513022761",
+      "Source": "Reusable Lasso",
+      "Trans": {"SC":"可复用套索","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4014404718",
+      "Source": "An easily-crafted ranged tool that can ensnare and pull a target. ",
+      "Trans": {"SC":"一种易于制作的远程工具，可以套住并拉拽目标。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2736089670",
+      "Source": "Reusable Scissors",
+      "Trans": {"SC":"可复用剪刀","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2423856371",
+      "Source": "Used for cutting hair & other materials! Unbreakable",
+      "Trans": {"SC":"用于剪头发和其他材料！坚不可摧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::600886652",
+      "Source": "Reusable Parachute",
+      "Trans": {"SC":"可复用降落伞","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2275181894",
+      "Source": "Use this while falling to slow your fall. Jump while parachuting to deactivate it. This item is infinitely usable.",
+      "Trans": {"SC":"在坠落时使用以减缓下落速度。在降落伞状态下跳跃可解除。此物品可无限使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3869430509",
+      "Source": "Reusable Whip",
+      "Trans": {"SC":"可复用鞭子","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2634235460",
+      "Source": "Keeps your foes at bay, keeps your herd moving. This whip will never break.",
+      "Trans": {"SC":"让敌人无法靠近，驱赶你的畜群。这条鞭子永不损坏。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2748002930",
+      "Source": "Reusable Gas Mask",
+      "Trans": {"SC":"可复用防毒面具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3861592988",
+      "Source": "Protects the wearer against various airborn poisons. This gas mask will never break.",
+      "Trans": {"SC":"保护穿戴者免受各种空气传播毒物的侵害。这个防毒面具永不损坏。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4047527979",
+      "Source": "Reusable Hazard Suit Boots",
+      "Trans": {"SC":"可复用防护靴","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2201562900",
+      "Source": "Reusable Boots made from a unique combination of materials that protect the wearer from environmental contaminants.",
+      "Trans": {"SC":"可重复使用的靴子，由独特的材料组合制成，保护穿戴者免受环境污染物的侵害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1817030722",
+      "Source": "Reusable Rare Flower",
+      "Trans": {"SC":"可复用稀有花朵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2936248459",
+      "Source": "Consume this flower to grant an infinite rage effect, making all nearby dinos ANGRY! Consuming again disables.",
+      "Trans": {"SC":"食用此花可赋予无限愤怒效果，使附近所有恐龙愤怒！再次食用可解除。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1284288127",
+      "Source": "Reusable Hazard Suit Gloves",
+      "Trans": {"SC":"可复用防护手套","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2746768305",
+      "Source": "Reusable Gloves made from a unique combination of materials that protect the wearer from environmental contaminants.",
+      "Trans": {"SC":"可重复使用的手套，由独特的材料组合制成，保护穿戴者免受环境污染物的侵害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::143774855",
+      "Source": "Reusable Mindwipe Tonic",
+      "Trans": {"SC":"可复用遗忘汤","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1558810280",
+      "Source": "Drink this tonic to forget everything you have learned (resets your Engram Points). Usable once every 30 minutes.",
+      "Trans": {"SC":"饮用此汤剂可忘记所学的一切（重置你的印痕点数）。每30分钟可使用一次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2468031404",
+      "Source": "Reusable Hazard Suit Hat",
+      "Trans": {"SC":"可复用防护头盔","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2148605315",
+      "Source": "A Reusable helmet made from a unique combination of materials that protect the wearer from environmental contaminants.",
+      "Trans": {"SC":"一顶可重复使用的头盔，由独特的材料组合制成，保护穿戴者免受环境污染物的侵害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::638773646",
+      "Source": "Reusable Mindwipe",
+      "Trans": {"SC":"可复用遗忘药水","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2897107400",
+      "Source": "Use this item to respec without having to relearn all your engrams. You will have to allocate ALL points before clicking accept. You can also click cancel at any time to cancel the respec. ",
+      "Trans": {"SC":"使用此物品可重新分配属性，无需重新学习所有印痕。你需要分配所有点数后才能点击接受。你也可以随时点击取消来取消重新分配。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

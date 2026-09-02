@@ -1,0 +1,60 @@
+{
+  "Cybers Propagator Plus": [
+    {
+      "NamespaceHash": "Content::1823904555",
+      "Source": "CPP Dino Egg",
+      "Trans": {"SC":"CPP 恐龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::707442045",
+      "Source": "CPP Propagator",
+      "Trans": {"SC":"CPP 繁育器","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "9F5801474611206853EA53AD21497B57",
+      "Source": "Total Cost : ",
+      "Trans": {"SC":"总成本 :","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2574715904"}
+    }
+  ],
+  "Cybers Pull It": [
+    {
+      "NamespaceHash": "Content::3165777906",
+      "Source": "CPIP Tek Dedicated Storage",
+      "Trans": {"SC":"CPIP 泰克专用储物箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2706913643",
+      "Source": "CPIP Omni Tool",
+      "Trans": {"SC":"CPIP 全能工具","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "71C0CD6B43E002BA634B4AA464AB927C",
+      "Source": "CPIP Omni-Tool Info",
+      "Trans": {"SC":"CPIP 全息工具信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"826120505"}
+    },
+    {
+      "NamespaceHash": "F44EA0DD45B4EBD74576E6B6181F7DDD",
+      "Source": "Hold Reload Key/Button to open the mode select UI.<#RN#><#RN#>Basic Transfer<#RN#>- Press Secondary Attack to set a structure as a source inventory.<#RN#>- Press Primary Attack to transfer everything from the source to the target.<#RN#><#RN#>Advanced Transfer<#RN#>- Primary Attack to open Transfer UI.<#RN#>- Secondary Attack to send presets to target Transfer Control Unit.<#RN#><#RN#>Inventory Assistant<#RN#>- Primary Attack to open Inventory Assistant UI.<#RN#>- Secondary Attack to toggle activation.<#RN#>",
+      "Trans": {"SC":"按住装弹键/按钮打开模式选择界面。<#RN#><#RN#>基础转移<#RN#>- 按下次要攻击将一个结构设为来源库存。<#RN#>- 按下主要攻击将来源库存中的所有物品转移到目标。<#RN#><#RN#>高级转移<#RN#>- 主要攻击打开转移界面。<#RN#>- 次要攻击将预设发送到目标转移控制单元。<#RN#><#RN#>库存助手<#RN#>- 主要攻击打开库存助手界面。<#RN#>- 次要攻击切换激活状态。<#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3789698681"}
+    },
+    {
+      "NamespaceHash": "Content::3811587840",
+      "Source": "inv.",
+      "Trans": {"SC":"背包助手","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2048147502",
+      "Source": "adv.",
+      "Trans": {"SC":"高级转移","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}
