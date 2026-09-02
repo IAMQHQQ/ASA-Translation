@@ -1,5 +1,5 @@
 {
-  //2025.11.29
+  //2026.8.8
   // 模组包含
   // Paleo ARK - Evolution | Apex Predators (Crossplay)——远古方舟-进化|顶级掠食者(EVO霸王龙.南巨)
   // Paleo ARK - Evolution | Dangerous Depths (Crossplay!)——远古方舟-进化|深渊之险(EVO沧龙)
@@ -547,6 +547,18 @@
       "Source": "Fertilized (EVO) X-Giganotosaurus Egg",
       "Trans": {"SC":"受精的X-南方巨兽龙蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1154345200",
+      "Source": "Roar | Release grabbed target",
+      "Trans": {"SC":"咆哮｜释放被抓取的目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1941688548",
+      "Source": "Crouch",
+      "Trans": {"SC":"蹲下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
   "远古方舟恐龙变体": [
@@ -1051,6 +1063,30 @@
       "Source": "Paleo Mosasaurus",
       "Trans": {"SC":"远古沧龙","JA":"遠古滄龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3748445249",
+      "Source": "Surface Swimming",
+      "Trans": {"SC":"水面游泳","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::114449018",
+      "Source": "Free Swimming",
+      "Trans": {"SC":"自由游泳","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1190062275",
+      "Source": "(EVO) Mosasaurus Tek Saddle",
+      "Trans": {"SC":"EVO沧龙泰克鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1534658550",
+      "Source": "Equip an (EVO) Mosasaurus with this to ride it, enabling the rider to fire plasma projectiles.<#RN#>Using requires learning this Tekgram.",
+      "Trans": {"SC":"装备到EVO沧龙上以骑乘，可以发射等离子炮。 <#RN#>需要先学会该泰克印痕技能才可使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
   "EVO镰刀龙.甲龙.雷龙": [
@@ -1739,6 +1775,18 @@
       "Source": "Simbakubwa",
       "Trans": {"SC":"辛巴库巴","JA":"辛巴庫巴"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1163378571",
+      "Source": "Overheat",
+      "Trans": {"SC":"过热","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::471162855",
+      "Source": "Tier",
+      "Trans": {"SC":"阶级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
 }

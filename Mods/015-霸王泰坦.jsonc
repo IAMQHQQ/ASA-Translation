@@ -1,5 +1,5 @@
 {
-  "霸王泰坦": [//2025.11.29
+  "霸王泰坦": [//2026.8.8
     {
       "NamespaceHash": "Content::3627634222",
       "Source": "Fabricate Teraxititan Eggs",
@@ -523,7 +523,7 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3711880743",
+      "NamespaceHash": "Content::3711880743",//可能改用新名字失效了，暂时保留
       "Source": "Titan Killer Teraxititan",
       "Trans": {"SC":"泰坦杀手霸王泰坦","JA":"泰坦殺手霸王泰坦"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
@@ -601,12 +601,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3238697491",
-      "Source": "AK-47",
-      "Trans": {"SC":"AK-47","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::584312135",
       "Source": "Titan Killer Teraxititan Egg",
       "Trans": {"SC":"泰坦杀手霸王泰坦蛋","JA":""},
@@ -653,6 +647,54 @@
       "Source": "Teraxititan Tail Armor",
       "Trans": {"SC":"霸王泰坦尾部护甲","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2096069067",
+      "Source": "TitanKiller Teraxititan",
+      "Trans": {"SC":"泰坦杀手霸王泰坦","JA":"泰坦殺手霸王泰坦"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::754716884",
+      "Source": "Claw",
+      "Trans": {"SC":"爪击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::622995625",
+      "Source": "Team Roar",
+      "Trans": {"SC":"团队咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::230082155",
+      "Source": "Heal Roar",
+      "Trans": {"SC":"治愈咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::884289171",
+      "Source": "Radiation Roar",
+      "Trans": {"SC":"辐射咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1006799724",
+      "Source": "Toggle Turn in Place",
+      "Trans": {"SC":"切换原地转向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "B0A02B2D48872151B0832F9098B9D7BD",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "7AD750B045E0CBA58B9243BA606FF7DB",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
     }
   ]
 }
