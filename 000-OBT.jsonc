@@ -1420,7 +1420,7 @@
     {
       "NamespaceHash": "Content::194106767",
       "Source": "A skull retrieved from a slain Alpha X-Triceratops. This trophy proves your worth as a hunter.",
-      "Trans": {"SC":"从一头被击杀的精英X-三角龙身上获取的头骨。这个战利品证明了你作为一名猎人的价值。","JA":""},
+      "Trans": {"SC":"从一头被击杀的精英X-三角龙身上获取的头骨。这个战利品证明了你作为一名猎手的实力。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1852,7 +1852,7 @@
     {
       "NamespaceHash": "Content::1601675808",
       "Source": "A tooth from a rare slain Golden Striped Megalodon. This trophy proves your worth as a hunter.",
-      "Trans": {"SC":"一颗来自于稀有的金色条纹巨齿鲨的牙齿。这个战利品证明了你作为一名猎人的价值。","JA":""},
+      "Trans": {"SC":"一颗来自于稀有的金色条纹巨齿鲨的牙齿。这个战利品证明了你作为一名猎手的实力。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2507,13 +2507,13 @@
       "NamespaceHash": "Content::1388124164",
       "Source": "Aberrant Helmet",
       "Trans": {"SC":"魔窟头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1555080175",
       "Source": "Aberrant Sword",
       "Trans": {"SC":"魔窟之剑","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4140976744",
@@ -2765,13 +2765,13 @@
       "NamespaceHash": "Content::2169510652",
       "Source": "Admin Blink Rifle",
       "Trans": {"SC":"管理员工具枪","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1914848869",
       "Source": "Admin Gun",
       "Trans": {"SC":"管理员工具枪","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2358733006",
@@ -3191,13 +3191,13 @@
       "NamespaceHash": "Content::3327877510",
       "Source": "Alpha Raptor Swim Bottom",
       "Trans": {"SC":"精英迅猛龙花纹泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::589050335",
       "Source": "Alpha Raptor Swim Top",
       "Trans": {"SC":"精英迅猛龙花纹泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2285093816",
@@ -3755,13 +3755,13 @@
       "NamespaceHash": "Content::388757581",
       "Source": "Araneo Swim Bottom",
       "Trans": {"SC":"蜘蛛泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::822576258",
       "Source": "Araneo Swim Top",
       "Trans": {"SC":"蜘蛛泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3034135047",
@@ -5003,13 +5003,13 @@
       "NamespaceHash": "Content::971301422",
       "Source": "BearHug Swim Bottom",
       "Trans": {"SC":"熊抱泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1841974834",
       "Source": "BearHug Swim Top",
       "Trans": {"SC":"熊抱泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1494247713",
@@ -5249,7 +5249,7 @@
       "NamespaceHash": "Content::1738206533",
       "Source": "Berrybush Seeds",
       "Trans": {"SC":"浆果植物种子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1578405080",
@@ -5291,7 +5291,7 @@
       "NamespaceHash": "Content::3732076075",
       "Source": "Bingleberry Soup",
       "Trans": {"SC":"宾果汤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3869606138",
@@ -5579,13 +5579,13 @@
       "NamespaceHash": "Content::2525087778",
       "Source": "Birthday Suit Pants",
       "Trans": {"SC":"生日礼服裤子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3413332871",
       "Source": "Birthday Suit Shirt",
       "Trans": {"SC":"生日礼服上衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3186340334",
@@ -5801,7 +5801,7 @@
       "NamespaceHash": "Content::1188660509",
       "Source": "Blue-Ball Winter Beanie",
       "Trans": {"SC":"冬日蓝球棉帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::854348488",
@@ -5999,7 +5999,7 @@
       "NamespaceHash": "Content::3514559576",
       "Source": "Bonnet Hat",
       "Trans": {"SC":"儿童软帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2676744730",
@@ -6149,7 +6149,7 @@
       "NamespaceHash": "Content::1808401697",
       "Source": "Bow & Eros",
       "Trans": {"SC":"丘比特弓箭","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::758009357",
@@ -6491,13 +6491,13 @@
       "NamespaceHash": "Content::2220402274",
       "Source": "Bulbdog Mask",
       "Trans": {"SC":"灯泡犬面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::414825360",
       "Source": "Bulbdog-Print Shirt",
       "Trans": {"SC":"灯泡犬花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2241495242",
@@ -6533,7 +6533,7 @@
       "NamespaceHash": "Content::1205473918",
       "Source": "Bunny Ears",
       "Trans": {"SC":"兔耳朵","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3788972059",
@@ -6551,7 +6551,7 @@
       "NamespaceHash": "Content::641652677",
       "Source": "Bunny Tail",
       "Trans": {"SC":"兔尾巴","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4279977667",
@@ -7367,7 +7367,7 @@
       "NamespaceHash": "Content::1259038512",
       "Source": "Candy Cane Club",
       "Trans": {"SC":"拐杖糖俱乐部","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::615578059",
@@ -7439,7 +7439,7 @@
       "NamespaceHash": "Content::2280202797",
       "Source": "Captains Hat",
       "Trans": {"SC":"船长帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1812325226",
@@ -7865,25 +7865,25 @@
       "NamespaceHash": "Content::1160602217",
       "Source": "Chieftan Hat ",
       "Trans": {"SC":"首领帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2990237489",
       "Source": "Chili Helmet",
       "Trans": {"SC":"辣椒头套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1874467894",
       "Source": "Chitin/Keratin",
       "Trans": {"SC":"甲壳素/角质","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4273419299",
       "Source": "Chocolate Rabbit Club",
       "Trans": {"SC":"巧克力兔子球棒","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2445222360",
@@ -7901,7 +7901,7 @@
       "NamespaceHash": "Content::677120864",
       "Source": "Christmas Bola",
       "Trans": {"SC":"圣诞流星锤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2219678064",
@@ -8021,7 +8021,7 @@
       "NamespaceHash": "Content::1861742266",
       "Source": "Clown Mask",
       "Trans": {"SC":"小丑面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2973476778",
@@ -8591,7 +8591,7 @@
       "NamespaceHash": "Content::1405310564",
       "Source": "Cool Noglin-Print Shirt",
       "Trans": {"SC":"炫酷诺格林花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2642665675",
@@ -8663,19 +8663,19 @@
       "NamespaceHash": "Content::2663611407",
       "Source": "Corrupted Avatar Boots",
       "Trans": {"SC":"腐化化身靴子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3141761859",
       "Source": "Corrupted Avatar Gloves",
       "Trans": {"SC":"腐化化身手套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1769953479",
       "Source": "Corrupted Avatar Helmet",
       "Trans": {"SC":"腐化化身头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1750025728",
@@ -8687,25 +8687,25 @@
       "NamespaceHash": "Content::267131746",
       "Source": "Corrupted Avatar Pants",
       "Trans": {"SC":"腐化化身裤子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1377730759",
       "Source": "Corrupted Avatar Shirt",
       "Trans": {"SC":"腐化化身上衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::79994350",
       "Source": "Corrupted Boots",
       "Trans": {"SC":"腐化靴子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1413962445",
       "Source": "Corrupted Chestpiece",
       "Trans": {"SC":"腐化胸甲","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3635458227",
@@ -8729,13 +8729,13 @@
       "NamespaceHash": "Content::574294804",
       "Source": "Corrupted Gloves",
       "Trans": {"SC":"腐化手套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4027000976",
       "Source": "Corrupted Helmet",
       "Trans": {"SC":"腐化头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3821723323",
@@ -8759,7 +8759,7 @@
       "NamespaceHash": "Content::2515270275",
       "Source": "Corrupted Pants",
       "Trans": {"SC":"腐化裤子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2210875789",
@@ -8861,13 +8861,13 @@
       "NamespaceHash": "Content::2530542699",
       "Source": "Crab Fest Swim Bottom",
       "Trans": {"SC":"螃蟹节泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2997039148",
       "Source": "Crab Fest Swim Top",
       "Trans": {"SC":"螃蟹节泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4151898863",
@@ -8927,7 +8927,7 @@
       "NamespaceHash": "Content::1984490821",
       "Source": "Crafted Element Dust",
       "Trans": {"SC":"磨制的元素粉尘","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2010118164",
@@ -9281,7 +9281,7 @@
       "NamespaceHash": "Content::1845855769",
       "Source": "Crystal Wyvern Queen Flag",
       "Trans": {"SC":"水晶飞龙女皇旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2307557262",
@@ -9305,13 +9305,13 @@
       "NamespaceHash": "Content::2270541803",
       "Source": "Cupid Couture Bottom",
       "Trans": {"SC":"丘比特裤子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3629409261",
       "Source": "Cupid Couture Top",
       "Trans": {"SC":"丘比特上衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1740679330",
@@ -9383,7 +9383,7 @@
       "NamespaceHash": "Content::3275392805",
       "Source": "Cute Dino Helmet",
       "Trans": {"SC":"可爱恐龙帽子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4268741428",
@@ -10775,19 +10775,19 @@
       "NamespaceHash": "Content::2021301336",
       "Source": "Dino Bunny Ears",
       "Trans": {"SC":"恐龙兔耳朵","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2713995952",
       "Source": "Dino Easter Chick Hat",
       "Trans": {"SC":"恐龙复活节小鸡帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::628803384",
       "Source": "Dino Easter Egg Hat",
       "Trans": {"SC":"恐龙复活节彩蛋帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4179581854",
@@ -10798,14 +10798,14 @@
     {
       "NamespaceHash": "Content::361563577",
       "Source": "Dino Flyer",
-      "Trans": {"SC":"恐龙飞行单位","JA":""},
+      "Trans": {"SC":"","JA":""}, //恐龙飞行单位
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1203181700",
       "Source": "Dino Glasses",
       "Trans": {"SC":"恐龙眼镜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4277010907",
@@ -10823,36 +10823,36 @@
       "NamespaceHash": "Content::590319322",
       "Source": "Dino Marshmallow Hat",
       "Trans": {"SC":"恐龙棉花糖帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1982279834",
       "Source": "Dino Ornament Swim Bottom",
       "Trans": {"SC":"恐龙花纹的泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2598640428",
       "Source": "Dino Ornament Swim Top",
       "Trans": {"SC":"恐龙花纹的泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1673995299",
       "Source": "Dino Party Hat",
       "Trans": {"SC":"恐龙派对帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1780346630",
       "Source": "Dino Santa Hat",
       "Trans": {"SC":"恐龙圣诞帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1617241868",
       "Source": "Dino Spawner",
-      "Trans": {"SC":"恐龙刷新点","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10865,13 +10865,13 @@
       "NamespaceHash": "Content::1085005727",
       "Source": "Dino Uncle Sam Hat",
       "Trans": {"SC":"恐龙山姆大叔帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::302900601",
       "Source": "Dino Witch Hat",
       "Trans": {"SC":"恐龙巫师帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1796131050",
@@ -10919,7 +10919,7 @@
       "NamespaceHash": "Content::3242637703",
       "Source": "Dinopithecus King Flag",
       "Trans": {"SC":"恐狒国王旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2517664883",
@@ -11117,13 +11117,13 @@
       "NamespaceHash": "Content::2987961770",
       "Source": "Dodo Pie Swim Bottom",
       "Trans": {"SC":"渡渡鸟花纹的泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4150480937",
       "Source": "Dodo Pie Swim Top",
       "Trans": {"SC":"渡渡鸟花纹的泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2708402548",
@@ -11135,13 +11135,13 @@
       "NamespaceHash": "Content::1130466093",
       "Source": "DodoRex Mask",
       "Trans": {"SC":"渡渡霸王龙面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1679619224",
       "Source": "DodoWyvern Mask",
       "Trans": {"SC":"渡渡飞龙面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1127540969",
@@ -11177,19 +11177,19 @@
       "NamespaceHash": "Content::9993983",
       "Source": "Dodorex Swim Bottom",
       "Trans": {"SC":"渡渡霸王龙泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3153640778",
       "Source": "Dodorex Swim Top",
       "Trans": {"SC":"渡渡霸王龙泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1952809273",
       "Source": "Dodorex-Print Shirt",
       "Trans": {"SC":"渡渡霸王龙花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4118555451",
@@ -11333,7 +11333,7 @@
       "NamespaceHash": "Content::3615189096",
       "Source": "Dragon Flag",
       "Trans": {"SC":"喷火龙旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2488333236",
@@ -11489,7 +11489,7 @@
       "NamespaceHash": "Content::3789633879",
       "Source": "E4 Remote Eggsplosives",
       "Trans": {"SC":"E4远程蛋壳炸弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1649554489",
@@ -11855,13 +11855,13 @@
       "NamespaceHash": "Content::1585680048",
       "Source": "Easter Chick Hat",
       "Trans": {"SC":"复活节小鸡帽子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2889781839",
       "Source": "Easter Egg Hat",
       "Trans": {"SC":"复活节彩蛋帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1603979720",
@@ -11998,7 +11998,7 @@
     {
       "NamespaceHash": "Content::1252896799",
       "Source": "Eat it to gain tremendous nourishment",
-      "Trans": {"SC":"吃了它以获得无比丰富的营养","JA":""},
+      "Trans": {"SC":"食用后可获得大量营养。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -12095,13 +12095,13 @@
       "NamespaceHash": "Content::219694416",
       "Source": "Eel Swim Bottom",
       "Trans": {"SC":"电鳗泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1102097663",
       "Source": "Eel Swim Top",
       "Trans": {"SC":"电鳗泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2315967939",
@@ -12293,7 +12293,7 @@
       "NamespaceHash": "Content::3025319951",
       "Source": "Elevator Platform",
       "Trans": {"SC":"电梯平台","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4006308133",
@@ -14303,7 +14303,7 @@
       "NamespaceHash": "Content::246853087",
       "Source": "Felt Reindeer Antlers",
       "Trans": {"SC":"毛绒驯鹿角","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::196411425",
@@ -14369,13 +14369,13 @@
       "NamespaceHash": "Content::2268564715",
       "Source": "Fenrisúlfr Boss Flag",
       "Trans": {"SC":"芬里尔狼王旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::286150721",
       "Source": "Fenrisúlfr Flag",
       "Trans": {"SC":"芬里尔巨狼旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3592412767",
@@ -14591,7 +14591,7 @@
       "NamespaceHash": "Content::1319401405",
       "Source": "Fireworks Rocket Launcher",
       "Trans": {"SC":"烟花火箭发射器","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3296639345",
@@ -14615,13 +14615,13 @@
       "NamespaceHash": "Content::635569000",
       "Source": "Fish Bite Swim Bottom",
       "Trans": {"SC":"凶猛鱼泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3636009885",
       "Source": "Fish Bite Swim Top",
       "Trans": {"SC":"凶猛鱼泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4235862483",
@@ -14741,13 +14741,13 @@
       "NamespaceHash": "Content::1092673988",
       "Source": "Floaty Swim Bottom",
       "Trans": {"SC":"救生圈泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::508246216",
       "Source": "Floaty Swim Top",
       "Trans": {"SC":"救生圈泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1064954129",
@@ -14777,19 +14777,19 @@
       "NamespaceHash": "Content::4127920835",
       "Source": "Floppy Straw Summer Hat",
       "Trans": {"SC":"松软夏日草帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2282952312",
       "Source": "Floral Swim Bottom",
       "Trans": {"SC":"花朵泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4091497345",
       "Source": "Floral Swim Top",
       "Trans": {"SC":"花朵泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1437023124",
@@ -14813,7 +14813,7 @@
       "NamespaceHash": "Content::2669567058",
       "Source": "Flying Disc",
       "Trans": {"SC":"飞盘","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3223370428",
@@ -15701,7 +15701,7 @@
       "NamespaceHash": "Content::2156597241",
       "Source": "Gasbags-Print Shirt",
       "Trans": {"SC":"气囊虫花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2001950429",
@@ -16109,7 +16109,7 @@
       "NamespaceHash": "Content::636576581",
       "Source": "Generic Artifact",
       "Trans": {"SC":"通用上古神器","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::415166977",
@@ -16295,13 +16295,13 @@
       "NamespaceHash": "Content::61165384",
       "Source": "Giga Poop Swim Bottom",
       "Trans": {"SC":"南巨便便花纹泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1465744132",
       "Source": "Giga Poop Swim Top",
       "Trans": {"SC":"南巨便便花纹泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1721163298",
@@ -16529,7 +16529,7 @@
       "NamespaceHash": "Content::1882729447",
       "Source": "Gorilla Flag",
       "Trans": {"SC":"银背金刚旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2356760681",
@@ -16577,7 +16577,7 @@
       "NamespaceHash": "Content::155711748",
       "Source": "Gray-Ball Winter Beanie",
       "Trans": {"SC":"灰色冬季毛线帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4119779519",
@@ -16625,7 +16625,7 @@
       "NamespaceHash": "Content::46383538",
       "Source": "Green-Ball Winter Beanie",
       "Trans": {"SC":"冬日绿球棉帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4073656906",
@@ -16649,7 +16649,7 @@
       "NamespaceHash": "Content::4147792886",
       "Source": "Grilling Spatula",
       "Trans": {"SC":"烧烤铲","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1398359974",
@@ -17015,7 +17015,7 @@
       "NamespaceHash": "Content::361374162",
       "Source": "HLN-A Winter Beanie",
       "Trans": {"SC":"冬季HLN-A毛线帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1910737175",
@@ -17171,7 +17171,7 @@
       "NamespaceHash": "Content::3132425298",
       "Source": "Halo Headband",
       "Trans": {"SC":"光环头带","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3266880384",
@@ -17471,7 +17471,7 @@
       "NamespaceHash": "Content::4250155927",
       "Source": "Hawaiian Shirt",
       "Trans": {"SC":"夏威夷衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3747616923",
@@ -17597,7 +17597,7 @@
       "NamespaceHash": "Content::130078186",
       "Source": "Heart-shaped Shield",
       "Trans": {"SC":"心型盾","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::12252376",
@@ -18029,7 +18029,7 @@
       "NamespaceHash": "Content::2537514776",
       "Source": "Hockey Mask",
       "Trans": {"SC":"曲棍球面罩","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1473425730",
@@ -18107,31 +18107,31 @@
       "NamespaceHash": "Content::852424045",
       "Source": "HomoDeus Boots",
       "Trans": {"SC":"神人靴子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2923885898",
       "Source": "HomoDeus Gloves",
       "Trans": {"SC":"神人手套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2088425166",
       "Source": "HomoDeus Helmet",
       "Trans": {"SC":"神人头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2749469184",
       "Source": "HomoDeus Pants",
       "Trans": {"SC":"神人裤子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4262660517",
       "Source": "HomoDeus Shirt",
       "Trans": {"SC":"神人上衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2551853492",
@@ -18215,7 +18215,7 @@
       "NamespaceHash": "Content::2093081329",
       "Source": "Hoversail-Print Shirt",
       "Trans": {"SC":"气垫帆花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4139048179",
@@ -18295,12 +18295,12 @@
       "Trans": {"SC":"赫尔特平原","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::1938607829",
-      "Source": "Human",
-      "Trans": {"SC":"人类","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::1938607829",
+    //  "Source": "Human",
+    //  "Trans": {"SC":"人类","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::80784070",
       "Source": "Hungering Heights",
@@ -18377,7 +18377,7 @@
       "NamespaceHash": "Content::3745082790",
       "Source": "Hunter Hat",
       "Trans": {"SC":"猎人帽子","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::532032754",
@@ -18460,7 +18460,7 @@
     {
       "NamespaceHash": "Content::780424806",
       "Source": "I admit, there are times when it is useful to live among simpletons. For example, I was able to trade several gallons of my Lazarus Chowder to a group of hunters in exchange for an entire contingent of tamed gigantopithecus, and they never questioned whether it had been tested on humans yet. \r\n\r\nWell, I suppose if they return with another batch of apes, then I'll know that Lazarus Chowder doesn't cause asphyxiation, won't I? It's not exactly a conclusive, scientific trial, but I suppose it will serve.\r\n\r\nUnfortunately, all these primitive primates have given Rockwell Manor quite the pungent odor. Isabelle said she is working on some sort of air freshener, but I hope she makes haste.",
-      "Trans": {"SC":"I admit, there are times when it is useful to live among simpletons. For example, I was able to trade several gallons of my Lazarus Chowder to a group of hunters in exchange for an entire contingent of tamed gigantopithecus, and they never questioned whether it had been tested on humans yet. \r\n\r\nWell, I suppose if they return with another batch of apes, then I'll know that Lazarus Chowder doesn't cause asphyxiation, won't I? It's not exactly a conclusive, scientific trial, but I suppose it will serve.\r\n\r\nUnfortunately, all these primitive primates have given Rockwell Manor quite the pungent odor. Isabelle said she is working on some sort of air freshener, but I hope she makes haste.","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -19607,7 +19607,7 @@
       "NamespaceHash": "Content::1029681337",
       "Source": "Ice Pop-Print Shirt",
       "Trans": {"SC":"冰棍花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::765621856",
@@ -19667,13 +19667,13 @@
       "NamespaceHash": "Content::3453458747",
       "Source": "Ichthy Island Swim Bottom",
       "Trans": {"SC":"渔岛泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1689857253",
       "Source": "Ichthy Isles Swim Top",
       "Trans": {"SC":"渔岛泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1361924002",
@@ -20687,19 +20687,19 @@
       "NamespaceHash": "Content::1755164234",
       "Source": "Jack-O-Lantern Swim Bottom",
       "Trans": {"SC":"南瓜灯泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::275439709",
       "Source": "Jack-O-Lantern Swim Top",
       "Trans": {"SC":"南瓜灯泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::476074380",
       "Source": "Jack-O-Lantern-Print Shirt",
       "Trans": {"SC":"南瓜灯花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2311615456",
@@ -20741,25 +20741,25 @@
       "NamespaceHash": "Content::1694738874",
       "Source": "Jellyfish Swim Bottom",
       "Trans": {"SC":"水母泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::400746074",
       "Source": "Jellyfish Swim Top",
       "Trans": {"SC":"水母泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2940910031",
       "Source": "Jerboa Wreath Swim Bottom",
       "Trans": {"SC":"跳鼠泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::192220427",
       "Source": "Jerboa Wreath Swim Top",
       "Trans": {"SC":"跳鼠泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::120308551",
@@ -21215,7 +21215,7 @@
       "NamespaceHash": "Content::2757663460",
       "Source": "King Titan Flag",
       "Trans": {"SC":"君王泰坦旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::518994905",
@@ -22049,7 +22049,7 @@
       "NamespaceHash": "Content::2633829208",
       "Source": "Love Shackles",
       "Trans": {"SC":"爱的枷锁","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2979993132",
@@ -22643,49 +22643,49 @@
       "NamespaceHash": "Content::3623596059",
       "Source": "Manticore Boots",
       "Trans": {"SC":"狮身蝎尾兽靴","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3972684616",
       "Source": "Manticore Chestpiece",
       "Trans": {"SC":"狮身蝎尾兽胸甲","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::937470984",
       "Source": "Manticore Flag",
       "Trans": {"SC":"狮身蝎尾兽旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3626757203",
       "Source": "Manticore Gauntlets",
       "Trans": {"SC":"狮身蝎尾兽手套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::909030116",
       "Source": "Manticore Helmet",
       "Trans": {"SC":"狮身蝎尾兽头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2293292060",
       "Source": "Manticore Leggings",
       "Trans": {"SC":"狮身蝎尾兽护腿","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1174714814",
       "Source": "Manticore Shield",
       "Trans": {"SC":"狮身蝎尾兽盾牌","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::568129378",
       "Source": "Manticore Trophy",
       "Trans": {"SC":"狮身蝎尾兽战利品","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1039358575",
@@ -22745,7 +22745,7 @@
       "NamespaceHash": "Content::3217115937",
       "Source": "Marshmallow Hat",
       "Trans": {"SC":"棉花糖帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1715427263",
@@ -22757,7 +22757,7 @@
       "NamespaceHash": "Content::173489568",
       "Source": "Master Controller Helmet",
       "Trans": {"SC":"主宰者头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::956054611",
@@ -22859,13 +22859,13 @@
       "NamespaceHash": "Content::2260353440",
       "Source": "Meat Swim Bottom",
       "Trans": {"SC":"肉肉泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3325978897",
       "Source": "Meat Swim Top",
       "Trans": {"SC":"肉肉泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2233380970",
@@ -22877,7 +22877,7 @@
       "NamespaceHash": "Content::1917903360",
       "Source": "Mecha King Titan Flag",
       "Trans": {"SC":"机械君王泰坦旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3469406434",
@@ -23405,7 +23405,7 @@
       "NamespaceHash": "Content::3185138148",
       "Source": "Moeder Flag",
       "Trans": {"SC":"莫德尔旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2110190531",
@@ -24089,19 +24089,19 @@
       "NamespaceHash": "Content::11970513",
       "Source": "Murder Turkey Swim Bottom",
       "Trans": {"SC":"火鸡恶霸泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::849019418",
       "Source": "Murder Turkey Swim Top",
       "Trans": {"SC":"火鸡恶霸泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::128170852",
       "Source": "Murder-Turkey-Print Shirt",
       "Trans": {"SC":"火鸡恶霸花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::855238998",
@@ -24628,7 +24628,7 @@
     {
       "NamespaceHash": "Content::2416457241",
       "Source": "Natural Armor",
-      "Trans": {"SC":"自然护甲","JA":""},
+      "Trans": {"SC":"天然护甲","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -24671,7 +24671,7 @@
       "NamespaceHash": "Content::1656536603",
       "Source": "Nerdry Glasses",
       "Trans": {"SC":"傻瓜眼镜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2329115477",
@@ -24839,19 +24839,19 @@
       "NamespaceHash": "Content::3818817200",
       "Source": "Noglin Regift Winter Beanie",
       "Trans": {"SC":"冬季诺格林礼物毛线帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3801528338",
       "Source": "Noglin Swim Bottom",
       "Trans": {"SC":"诺格林泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::346215578",
       "Source": "Noglin Swim Top",
       "Trans": {"SC":"诺格林泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3252461312",
@@ -25403,7 +25403,7 @@
       "NamespaceHash": "Content::3757200339",
       "Source": "Nutcracker Slingshot",
       "Trans": {"SC":"胡桃夹子弹弓","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1457091781",
@@ -25601,13 +25601,13 @@
       "NamespaceHash": "Content::2793630377",
       "Source": "Odd Couple Swim Bottom",
       "Trans": {"SC":"奇怪的情侣泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1590575204",
       "Source": "Odd Couple Swim Top",
       "Trans": {"SC":"奇怪的情侣泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3701870938",
@@ -25913,13 +25913,13 @@
       "NamespaceHash": "Content::627599960",
       "Source": "Onyc Swim Bottom",
       "Trans": {"SC":"蝙蝠泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::779189717",
       "Source": "Onyc Swim Top",
       "Trans": {"SC":"蝙蝠泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2597584277",
@@ -25985,7 +25985,7 @@
       "NamespaceHash": "Content::3202505692",
       "Source": "Otter Mask",
       "Trans": {"SC":"水獭面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3616636375",
@@ -26488,7 +26488,7 @@
     {
       "NamespaceHash": "Content::4269190410",
       "Source": "Pack Dino",
-      "Trans": {"SC":"恐龙群","JA":""},
+      "Trans": {"SC":"","JA":""}, //恐龙群
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -26506,8 +26506,8 @@
     {
       "NamespaceHash": "Content::4223610757",
       "Source": "Pair-o-Saurs Chibi",
-      "Trans": {"SC":"迷你副栉龙双胞胎","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"袖珍-嘎查","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4106117692",
@@ -26585,7 +26585,7 @@
       "NamespaceHash": "Content::3255871859",
       "Source": "Parasaur Stylish Saddle",
       "Trans": {"SC":"副栉龙时装鞍","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1744905213",
@@ -26603,7 +26603,7 @@
       "NamespaceHash": "Content::1706854225",
       "Source": "Party Hat",
       "Trans": {"SC":"派对帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3934672951",
@@ -26837,7 +26837,7 @@
       "NamespaceHash": "Content::1493915566",
       "Source": "Pilgrim Hat",
       "Trans": {"SC":"移民帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1132651957",
@@ -27215,7 +27215,7 @@
       "NamespaceHash": "Content::399585406",
       "Source": "Poglin Mask",
       "Trans": {"SC":"帕格林面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3441601202",
@@ -27761,7 +27761,7 @@
       "NamespaceHash": "Content::1360516512",
       "Source": "Purple-Ball Winter Beanie",
       "Trans": {"SC":"冬日紫球棉帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::233489091",
@@ -28703,7 +28703,7 @@
       "NamespaceHash": "Content::1228521806",
       "Source": "Raptor Sleighing Winter Beanie",
       "Trans": {"SC":"冬季雪橇迅猛龙毛线帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4063762409",
@@ -28793,13 +28793,13 @@
       "NamespaceHash": "Content::3649548367",
       "Source": "Reaper Helmet",
       "Trans": {"SC":"死神头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2804615677",
       "Source": "Reaper King Pheromone Gland",
       "Trans": {"SC":"死神国王信息素腺体","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1450100961",
@@ -28817,19 +28817,19 @@
       "NamespaceHash": "Content::888203348",
       "Source": "Reaper Swim Bottom",
       "Trans": {"SC":"死神泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3676117455",
       "Source": "Reaper Swim Top",
       "Trans": {"SC":"死神泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1074599826",
       "Source": "Reaper-Print Shirt",
       "Trans": {"SC":"死神花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3468981624",
@@ -28925,7 +28925,7 @@
       "NamespaceHash": "Content::1118677460",
       "Source": "Red-Ball Winter Beanie",
       "Trans": {"SC":"红色冬季毛线帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2363665869",
@@ -29717,7 +29717,7 @@
       "NamespaceHash": "Content::896002905",
       "Source": "Retro Sunglasses",
       "Trans": {"SC":"复古太阳镜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3254581458",
@@ -29789,7 +29789,7 @@
       "NamespaceHash": "Content::1775574198",
       "Source": "Rex Bone Helmet",
       "Trans": {"SC":"霸王龙骨制头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1825766570",
@@ -29801,7 +29801,7 @@
       "NamespaceHash": "Content::1775655620",
       "Source": "Rex Stomped Glasses Saddle Skin",
       "Trans": {"SC":"霸王龙眼镜鞍皮肤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1309762015",
@@ -30017,7 +30017,7 @@
       "NamespaceHash": "Content::3656380403",
       "Source": "Rockwell Final Form Flag",
       "Trans": {"SC":"罗克韦尔最终形态旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2425117681",
@@ -30029,7 +30029,7 @@
       "NamespaceHash": "Content::2148911637",
       "Source": "Rockwell Flag",
       "Trans": {"SC":"罗克韦尔旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2076948003",
@@ -30041,7 +30041,7 @@
       "NamespaceHash": "Content::3469210326",
       "Source": "Rockwell Gen2 Boss Flag",
       "Trans": {"SC":"罗克韦尔创世纪2Boss形态旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::969055697",
@@ -31367,7 +31367,7 @@
       "NamespaceHash": "Content::3253661982",
       "Source": "Safari Hat",
       "Trans": {"SC":"探险帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2138884762",
@@ -31517,7 +31517,7 @@
       "NamespaceHash": "Content::1818643572",
       "Source": "Santa Hat",
       "Trans": {"SC":"圣诞帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3171481725",
@@ -31529,13 +31529,13 @@
       "NamespaceHash": "Content::935552672",
       "Source": "Santiago's Axe",
       "Trans": {"SC":"圣地亚哥的斧头","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::655934306",
       "Source": "Santiago's Spear",
       "Trans": {"SC":"圣地亚哥的长矛","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::800559607",
@@ -31589,13 +31589,13 @@
       "NamespaceHash": "Content::1344511434",
       "Source": "Sauropod Heart Swim Bottom",
       "Trans": {"SC":"蜥脚类爱心泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::498949455",
       "Source": "Sauropod Heart Swim Top",
       "Trans": {"SC":"蜥脚类爱心泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4196727857",
@@ -31637,19 +31637,19 @@
       "NamespaceHash": "Content::2265700961",
       "Source": "Scary Dino Pumpkin Helmet",
       "Trans": {"SC":"恐怖南瓜头套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3410746485",
       "Source": "Scary Pumpkin Helmet",
       "Trans": {"SC":"恐龙的恐怖南瓜头套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::945155915",
       "Source": "Scary Skull Helmet",
       "Trans": {"SC":"恐怖骷髅头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1772920432",
@@ -31691,19 +31691,19 @@
       "NamespaceHash": "Content::121697197",
       "Source": "Scorched Spike",
       "Trans": {"SC":"焦土长矛","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3469534045",
       "Source": "Scorched Sword",
       "Trans": {"SC":"焦土大剑","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3536619008",
       "Source": "Scorched Torch",
       "Trans": {"SC":"焦土火把","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3716187812",
@@ -31793,7 +31793,7 @@
       "NamespaceHash": "Content::2036402534",
       "Source": "Sea Life-Print Shirt",
       "Trans": {"SC":"海洋生活花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::239707690",
@@ -32231,7 +32231,7 @@
       "NamespaceHash": "Content::3048180096",
       "Source": "Shadowmane Fishing-Print Shirt",
       "Trans": {"SC":"影鬃捕鱼花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3524281169",
@@ -32254,7 +32254,7 @@
     {
       "NamespaceHash": "Content::3208747113",
       "Source": "Shadowmane has natural armor.",
-      "Trans": {"SC":"影鬃拥有天生的自然护甲。","JA":""},
+      "Trans": {"SC":"影鬃拥有天生的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32705,7 +32705,7 @@
       "NamespaceHash": "Content::1895336868",
       "Source": "Skelly-Print Shirt",
       "Trans": {"SC":"骷髅花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::789193729",
@@ -33143,7 +33143,7 @@
       "NamespaceHash": "Content::1324681948",
       "Source": "Snowman",
       "Trans": {"SC":"雪人","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2532818908",
@@ -33167,7 +33167,7 @@
       "NamespaceHash": "Content::3023468936",
       "Source": "Snowy Winter Beanie",
       "Trans": {"SC":"冬季雪花毛线帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1890278487",
@@ -33845,7 +33845,7 @@
       "NamespaceHash": "Content::944773621",
       "Source": "Spider Flag",
       "Trans": {"SC":"育母蜘蛛旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3389175496",
@@ -35135,7 +35135,13 @@
       "NamespaceHash": "Content::743783792",
       "Source": "Summer Swimsuit",
       "Trans": {"SC":"夏日泳装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3709355382",
+      "Source": "You can use this to skin the appearance of pants into a bikini bottom. Something funnyabout something relevant !",
+      "Trans": { "SC": "你可以使用这个皮肤将裤子的外观更改为比基尼下装。\n穿上后，好像随时准备去沙滩派对!", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     {
       "NamespaceHash": "Content::575961963",
@@ -35339,7 +35345,7 @@
       "NamespaceHash": "Content::3814780529",
       "Source": "Sunglasses",
       "Trans": {"SC":"太阳镜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1024725552",
@@ -35612,12 +35618,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::238072813",
-      "Source": "Sweet Spear Carrot",
-      "Trans": {"SC":"香甜胡萝卜长矛","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::3552627083",
       "Source": "Sweetwater Lake",
       "Trans": {"SC":"甜水湖","JA":""},
@@ -35693,13 +35693,13 @@
       "NamespaceHash": "Content::1602714797",
       "Source": "T-Rex Swim Bottom",
       "Trans": {"SC":"霸王龙泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1551203397",
       "Source": "T-Rex Swim Top",
       "Trans": {"SC":"霸王龙泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2758168849",
@@ -36749,7 +36749,7 @@
       "NamespaceHash": "Content::2605489047",
       "Source": "Teddy Bear Grenades",
       "Trans": {"SC":"泰迪熊手榴弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::360409225",
@@ -37013,7 +37013,7 @@
       "NamespaceHash": "Content::3403527581",
       "Source": "Tentacle-Print Shirt",
       "Trans": {"SC":"触手花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2974422241",
@@ -40102,13 +40102,13 @@
     {
       "NamespaceHash": "Content::2750751846",
       "Source": "This trophy proves your worth as a deep sea hunter.",
-      "Trans": {"SC":"这个战利品证明了你作为一名深海猎人的价值。","JA":""},
+      "Trans": {"SC":"这个战利品证明了你作为一名深海猎手的实力。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3772786403",
       "Source": "This trophy proves your worth as a hunter.",
-      "Trans": {"SC":"这个战利品证明了你作为一名猎人的价值。","JA":""},
+      "Trans": {"SC":"这个战利品证明了你作为一名猎手的实力。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -40205,7 +40205,7 @@
       "NamespaceHash": "Content::3266424979",
       "Source": "Thorny Dragon Vagabond Saddle",
       "Trans": {"SC":"棘蜥流浪者鞍","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2606807520",
@@ -41057,13 +41057,13 @@
       "NamespaceHash": "Content::3709234350",
       "Source": "Top Hat",
       "Trans": {"SC":"礼帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3808278314",
       "Source": "Torch Sparkler",
       "Trans": {"SC":"满天星火把","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1910712631",
@@ -41537,7 +41537,7 @@
       "NamespaceHash": "Content::1941087742",
       "Source": "Trike Bone Helmet",
       "Trans": {"SC":"三角龙骨制头盔","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1697682727",
@@ -41699,25 +41699,25 @@
       "NamespaceHash": "Content::778092028",
       "Source": "Turkey Hat",
       "Trans": {"SC":"火鸡帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3951063048",
       "Source": "Turkey Leg",
       "Trans": {"SC":"火鸡腿","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1792791043",
       "Source": "Turkey Swim Bottom",
       "Trans": {"SC":"火鸡泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3614929261",
       "Source": "Turkey Swim Top",
       "Trans": {"SC":"火鸡泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3258140657",
@@ -42131,79 +42131,79 @@
       "NamespaceHash": "Content::1089722879",
       "Source": "Ugly Bronto Sweater",
       "Trans": {"SC":"难看的雷龙毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1096531846",
       "Source": "Ugly Bulbdog Sweater",
       "Trans": {"SC":"难看的灯泡犬毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3070673881",
       "Source": "Ugly Caroling Sweater",
       "Trans": {"SC":"难看的圣诞颂歌毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3389855885",
       "Source": "Ugly Chibi Sweater",
       "Trans": {"SC":"难看的恐龙宝宝毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2956609589",
       "Source": "Ugly Cornucopia Sweater",
       "Trans": {"SC":"难看的感恩节聚宝盆毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::569784136",
       "Source": "Ugly Dodo's Revenge Sweater",
       "Trans": {"SC":"难看的渡渡鸟复仇毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3172192599",
       "Source": "Ugly Foliage Friends Sweater",
       "Trans": {"SC":"难看的枫叶朋友毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::64752178",
       "Source": "Ugly Noglin Regift Sweater",
       "Trans": {"SC":"难看的诺格林礼物毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1405278659",
       "Source": "Ugly Raptor Claws Sweater",
       "Trans": {"SC":"难看的利爪迅猛龙毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1476450911",
       "Source": "Ugly Rockwell Sweater",
       "Trans": {"SC":"难看的罗克韦尔毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1905275538",
       "Source": "Ugly T-Rex Sweater",
       "Trans": {"SC":"难看的霸王龙毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2613491488",
       "Source": "Ugly Trike Sweater",
       "Trans": {"SC":"难看的三角龙毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1528410022",
       "Source": "Ugly Turkey Target Sweater",
       "Trans": {"SC":"难看的瞄准火鸡毛衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1657249736",
@@ -42257,7 +42257,7 @@
       "NamespaceHash": "Content::3403725516",
       "Source": "Uncle Sam Hat",
       "Trans": {"SC":"山姆大叔帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::637411554",
@@ -43295,7 +43295,7 @@
       "NamespaceHash": "Content::3337212450",
       "Source": "VR Boss Flag",
       "Trans": {"SC":"主宰者旗帜","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1146366402",
@@ -43595,19 +43595,19 @@
       "NamespaceHash": "Content::1738094807",
       "Source": "Vampire Dodo Swim Bottom",
       "Trans": {"SC":"吸血鬼渡渡鸟泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3538776090",
       "Source": "Vampire Dodo Swim Top",
       "Trans": {"SC":"吸血鬼渡渡鸟泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::987066960",
       "Source": "Vampire Eyes",
       "Trans": {"SC":"吸血鬼之瞳","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1847505606",
@@ -44771,7 +44771,7 @@
       "NamespaceHash": "Content::1928283991",
       "Source": "Werewolf Mask",
       "Trans": {"SC":"狼人面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2942878180",
@@ -45377,7 +45377,7 @@
       "NamespaceHash": "Content::343295499",
       "Source": "Witch Hat",
       "Trans": {"SC":"巫师帽","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1201655814",
@@ -45557,7 +45557,7 @@
       "NamespaceHash": "Content::321682729",
       "Source": "Wyvern Gloves",
       "Trans": {"SC":"飞龙手套","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::821201618",
@@ -45683,13 +45683,13 @@
       "NamespaceHash": "Content::3875690391",
       "Source": "Yeti Swim Bottom",
       "Trans": {"SC":"雪人泳裤","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::751781473",
       "Source": "Yeti Swim Top",
       "Trans": {"SC":"雪人泳衣","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1004689549",
@@ -47927,7 +47927,7 @@
       "NamespaceHash": "Content::3353758887",
       "Source": "ZombDodo-Print Shirt",
       "Trans": {"SC":"僵尸渡渡鸟花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2514861773",
@@ -47939,7 +47939,7 @@
       "NamespaceHash": "Content::47221376",
       "Source": "Zombie Wyvern-Print Shirt",
       "Trans": {"SC":"僵尸飞龙花纹衬衫","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1242585005",
@@ -59557,12 +59557,12 @@
       "Trans": {"SC":"未找到Hud自定义数据!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "GraphLiteral::1938607829",
-      "Source": "Human",
-      "Trans": {"SC":"人类","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "GraphLiteral::1938607829",
+    //  "Source": "Human",
+    //  "Trans": {"SC":"人类","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "GraphLiteral::738414918",
       "Source": "Hunt",
@@ -60928,7 +60928,7 @@
     {
       "NamespaceHash": "GraphLiteral::2202433768",
       "Source": "Must be near an Alpha King Titan to transform",
-      "Trans": {"SC":"必须在精英君王泰坦旁边变形","JA":""},
+      "Trans": {"SC":"必须在困难君王泰坦旁边变形","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63688,7 +63688,7 @@
     {
       "NamespaceHash": "GraphLiteral::659792458",
       "Source": "Teleport to: ",
-      "Trans": {"SC":"传送至: ","JA":""},
+      "Trans": {"SC":"传送: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -66311,67 +66311,67 @@
       "NamespaceHash": "Content::387063829",
       "Source": "Corrupt Mantis",
       "Trans": {"SC":"腐化螳螂","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3546752139",
       "Source": "Corrupted Deathworm",
       "Trans": {"SC":"腐化死亡蠕虫","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::994328077",
       "Source": "Corrupted Dimorphodon",
       "Trans": {"SC":"腐化双型齿翼龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3318816004",
       "Source": "Corrupted Paraceratherium",
       "Trans": {"SC":"腐化巨犀","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::83119233",
       "Source": "Corrupted Pteranodon",
       "Trans": {"SC":"腐化无齿翼龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2930259306",
       "Source": "Corrupted Raptor",
       "Trans": {"SC":"腐化迅猛龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::775135547",
       "Source": "Corrupted Reaper King",
       "Trans": {"SC":"腐化死神国王","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1323823340",
       "Source": "Corrupted Rex",
       "Trans": {"SC":"腐化霸王龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3834837075",
       "Source": "Corrupted Rock Drake",
       "Trans": {"SC":"腐化岩龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::249948190",
       "Source": "Corrupted Triceratops",
       "Trans": {"SC":"腐化三角龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::46905135",
       "Source": "Corrupted Wyvern",
       "Trans": {"SC":"腐化飞龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3646474744",
@@ -67127,12 +67127,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3594947916",
-      "Source": "Spine",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::3632493064",
       "Source": "Multiple Values",
       "Trans": {"SC":"","JA":""},
@@ -67703,7 +67697,7 @@
       "NamespaceHash": "Content::668235379",
       "Source": "Easter Egghead",
       "Trans": {"SC":"复活节彩蛋头饰","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1909288480",
@@ -68057,13 +68051,13 @@
       "NamespaceHash": "Content::3480201776",
       "Source": "Corrupted Dilophosaur",
       "Trans": {"SC":"腐化双嵴龙","JA":"腐化双脊龙"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::393801212",
       "Source": "Dilo Mask",
       "Trans": {"SC":"双嵴龙面具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::365598476",
@@ -68099,7 +68093,7 @@
       "NamespaceHash": "Content::3879180289",
       "Source": "Carno Bone Costume",
       "Trans": {"SC":"肉食牛龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::632459693",
@@ -68153,7 +68147,7 @@
       "NamespaceHash": "Content::2515914392",
       "Source": "Corrupted Carnotaurus",
       "Trans": {"SC":"腐化肉食牛龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2810187832",
@@ -68201,7 +68195,7 @@
       "NamespaceHash": "Content::1330378407",
       "Source": "Corrupted Arthropluera",
       "Trans": {"SC":"腐化节胸虫","JA":"腐化節胸虫"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::900242660",
@@ -68255,7 +68249,7 @@
       "NamespaceHash": "Content::2602257546",
       "Source": "Corrupted Chalicotherium",
       "Trans": {"SC":"腐化爪兽","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::911365967",
@@ -68486,7 +68480,7 @@
       "NamespaceHash": "Content::4045485069",
       "Source": "Corrupted Spino",
       "Trans": {"SC":"腐化棘龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::601202855",
@@ -68582,7 +68576,7 @@
       "NamespaceHash": "Content::980119496",
       "Source": "Basilisk Ghost Costume",
       "Trans": {"SC":"幽灵帝蟒套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::656536325",
@@ -69027,7 +69021,7 @@
     {
       "NamespaceHash": "Content::1028622398",
       "Source": "{0} Minute{1}",
-      "Trans": {"SC":"{0} 分钟","JA":""},
+      "Trans": {"SC":"{0} 分钟{1}","JA":""},
       //{1}因为是连着的所以推测不会是其它要么是S要么是空, 所以我认为去掉没有什么不妥的.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -69262,19 +69256,19 @@
       "NamespaceHash": "Content::4114278059",
       "Source": "Brachiosaurus Costume",
       "Trans": {"SC":"腕龙套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::288123621",
       "Source": "Bronto Bone Costume",
       "Trans": {"SC":"雷龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1375191322",
       "Source": "Bulbdog Ghost Costume",
       "Trans": {"SC":"幽灵灯泡犬套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1141740891",
@@ -69286,31 +69280,31 @@
       "NamespaceHash": "Content::3209803870",
       "Source": "Dino Ghost Costume",
       "Trans": {"SC":"幽灵恐龙套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1606329096",
       "Source": "Dinopithecus Costume",
       "Trans": {"SC":"恐狒套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3789535411",
       "Source": "Direwolf Ghost Costume",
       "Trans": {"SC":"幽灵恐狼套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::977990570",
       "Source": "Giga Bionic Costume",
       "Trans": {"SC":"南巨仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2900472878",
       "Source": "Giganotosaurus Bone Costume",
       "Trans": {"SC":"南方巨兽龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3158990201",
@@ -69322,79 +69316,79 @@
       "NamespaceHash": "Content::3642748170",
       "Source": "Jerboa Bone Costume",
       "Trans": {"SC":"跳鼠骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::419036939",
       "Source": "Mantis Ghost Costume",
       "Trans": {"SC":"幽灵螳螂套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3541538541",
       "Source": "Mosasaurus Bionic Costume",
       "Trans": {"SC":"沧龙仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2202123406",
       "Source": "Mutated Survivor Costume",
       "Trans": {"SC":"变异的生存者套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::763104299",
       "Source": "Parasaur Bionic Costume",
       "Trans": {"SC":"副栉龙仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::471188376",
       "Source": "Quetzal Bionic Costume",
       "Trans": {"SC":"风神翼龙仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::784970518",
       "Source": "Quetzalcoatlus Bone Costume",
       "Trans": {"SC":"风神翼龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3782183889",
       "Source": "Raptor Bionic Costume",
       "Trans": {"SC":"迅猛龙仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3360891311",
       "Source": "Raptor Bone Costume",
       "Trans": {"SC":"迅猛龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::450996756",
       "Source": "Reaper Ghost Costume",
       "Trans": {"SC":"幽灵死神套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1523042885",
       "Source": "Rex Bionic Costume",
       "Trans": {"SC":"霸王龙仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::68569119",
       "Source": "Rex Bone Costume",
       "Trans": {"SC":"霸王龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1842602007",
       "Source": "Rex Ghost Costume",
       "Trans": {"SC":"幽灵霸王龙套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4221952908",
@@ -69406,19 +69400,19 @@
       "NamespaceHash": "Content::2235382672",
       "Source": "Snow Owl Ghost Costume",
       "Trans": {"SC":"幽灵雪鸮套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1728460935",
       "Source": "Stego Bone Costume",
       "Trans": {"SC":"剑龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2686938303",
       "Source": "Stegosaurus Bionic Costume",
       "Trans": {"SC":"剑龙仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4032550055",
@@ -69430,13 +69424,13 @@
       "NamespaceHash": "Content::2973253180",
       "Source": "Stygimoloch Costume",
       "Trans": {"SC":"冥河龙套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3021444953",
       "Source": "Styracosaurus Costume",
       "Trans": {"SC":"戟龙套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1262377210",
@@ -69478,13 +69472,13 @@
       "NamespaceHash": "Content::3428108965",
       "Source": "Triceratops Bionic Costume",
       "Trans": {"SC":"三角龙仿生套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1206384968",
       "Source": "Trike Bone Costume",
       "Trans": {"SC":"三角龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::264548841",
@@ -69496,7 +69490,7 @@
       "NamespaceHash": "Content::579971556",
       "Source": "Wyvern Bone Costume",
       "Trans": {"SC":"双足飞龙骨架套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2669346098",
@@ -69612,7 +69606,7 @@
       "NamespaceHash": "Content::1822563086",
       "Source": "Megaloceros Reindeer Costume",
       "Trans": {"SC":"大角鹿的驯鹿套装","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::801294931",
@@ -69684,7 +69678,7 @@
       "NamespaceHash": "Content::2748233994",
       "Source": "Pitchfork",
       "Trans": {"SC":"干草叉","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2070978592",
@@ -70101,7 +70095,7 @@
       "NamespaceHash": "Content::453930882",
       "Source": "Corrupted Giganotosaurus",
       "Trans": {"SC":"腐化南方巨兽龙","JA":"腐化南方巨獸龙"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1492077454",
@@ -70197,7 +70191,7 @@
       "NamespaceHash": "Content::1340135329",
       "Source": "Corrupted Stegosaurus",
       "Trans": {"SC":"腐化剑龙","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3258139444",
