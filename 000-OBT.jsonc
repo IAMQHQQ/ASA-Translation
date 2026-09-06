@@ -12430,7 +12430,7 @@
     {
       "NamespaceHash": "Content::2781011804",
       "Source": "Enabled",
-      "Trans": {"SC":"已开启","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31750,7 +31750,7 @@
     {
       "NamespaceHash": "Content::2920860983",
       "Source": "Scrape Meat {0}",
-      "Trans": {"SC":"刮肉{0}","JA":""},
+      "Trans": {"SC":"刮肉 {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32968,7 +32968,7 @@
     {
       "NamespaceHash": "Content::2192433918",
       "Source": "Small Monkey",
-      "Trans": {"SC":"小猴子","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -33022,7 +33022,7 @@
     {
       "NamespaceHash": "Content::862626535",
       "Source": "Snow",
-      "Trans": {"SC":"雪","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -34444,7 +34444,7 @@
     {
       "NamespaceHash": "Content::1217568707",
       "Source": "Stop",
-      "Trans": {"SC":"停止","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -37180,7 +37180,7 @@
     {
       "NamespaceHash": "Content::4293876954",
       "Source": "The Arena will be available in {0}!",
-      "Trans": {"SC":"竞技场将于{0}后可用!","JA":""},
+      "Trans": {"SC":"竞技场将于 {0} 后可用!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -51760,7 +51760,7 @@
     {
       "NamespaceHash": "Globals::2857297041",
       "Source": "Jump",
-      "Trans": {"SC":"跳","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55798,7 +55798,7 @@
     {
       "NamespaceHash": "GraphLiteral::746984854",
       "Source": "Aberration",
-      "Trans": {"SC":"畸变","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -59326,7 +59326,7 @@
     {
       "NamespaceHash": "GraphLiteral::92186970",
       "Source": "Hidden",
-      "Trans": {"SC":"隐匿","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60070,7 +60070,7 @@
     {
       "NamespaceHash": "GraphLiteral::3679534532",
       "Source": "Kill",
-      "Trans": {"SC":"击杀","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60088,7 +60088,7 @@
     {
       "NamespaceHash": "GraphLiteral::3493908835",
       "Source": "LAN",
-      "Trans": {"SC":"局域网","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60166,7 +60166,7 @@
     {
       "NamespaceHash": "GraphLiteral::935839039",
       "Source": "LEGS",
-      "Trans": {"SC":"腿部","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60340,7 +60340,7 @@
     {
       "NamespaceHash": "GraphLiteral::570387594",
       "Source": "Legendary",
-      "Trans": {"SC":"传说","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60886,7 +60886,7 @@
     {
       "NamespaceHash": "GraphLiteral::4153316265",
       "Source": "Move",
-      "Trans": {"SC":"移动","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61024,7 +61024,7 @@
     {
       "NamespaceHash": "GraphLiteral::380033336",
       "Source": "Name",
-      "Trans": {"SC":"名称","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -62332,7 +62332,7 @@
     {
       "NamespaceHash": "GraphLiteral::1323325883",
       "Source": "Ride",
-      "Trans": {"SC":"骑乘","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -62416,7 +62416,7 @@
     {
       "NamespaceHash": "GraphLiteral::2574229010",
       "Source": "SAVE",
-      "Trans": {"SC":"保存","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -62848,19 +62848,19 @@
     {
       "NamespaceHash": "GraphLiteral::228480007",
       "Source": "Shake",
-      "Trans": {"SC":"摇晃","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::904571027",
       "Source": "Sharpened",
-      "Trans": {"SC":"攻击模式","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::695937249",
       "Source": "Sharpened Plate",
-      "Trans": {"SC":"锐化型攻击模式","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63094,7 +63094,7 @@
     {
       "NamespaceHash": "GraphLiteral::862626535",
       "Source": "Snow",
-      "Trans": {"SC":"雪","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63244,7 +63244,7 @@
     {
       "NamespaceHash": "GraphLiteral::1217568707",
       "Source": "Stop",
-      "Trans": {"SC":"停止","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63280,7 +63280,7 @@
     {
       "NamespaceHash": "GraphLiteral::709788261",
       "Source": "Stunned",
-      "Trans": {"SC":"击晕","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -65116,7 +65116,7 @@
     {
       "NamespaceHash": "GraphLiteral::2196331038",
       "Source": "Unsort",
-      "Trans": {"SC":"未整理","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -65338,7 +65338,7 @@
     {
       "NamespaceHash": "GraphLiteral::3539424888",
       "Source": "Water",
-      "Trans": {"SC":"水","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -65818,7 +65818,7 @@
     {
       "NamespaceHash": "GraphLiteral::1408111756",
       "Source": "back",
-      "Trans": {"SC":"返回","JA":""},
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
