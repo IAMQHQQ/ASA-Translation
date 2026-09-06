@@ -1,5 +1,5 @@
 {
-  //2026.8.8
+  //2026-09-05 09:42:04
   // 模组包含
   // Paleo ARK - Evolution | Apex Predators (Crossplay)——远古方舟-进化|顶级掠食者(EVO霸王龙.南巨)
   // Paleo ARK - Evolution | Dangerous Depths (Crossplay!)——远古方舟-进化|深渊之险(EVO沧龙)
@@ -553,13 +553,13 @@
       "Source": "Roar | Release grabbed target",
       "Trans": {"SC":"咆哮｜释放被抓取的目标","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1941688548",
-      "Source": "Crouch",
-      "Trans": {"SC":"蹲下","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
+    //{
+    //  "NamespaceHash": "Content::1941688548",
+    //  "Source": "Crouch",  //这个是一个变量, 命名空间不要放到图形或内容, 可用32KEY翻译。
+    //  "Trans": {"SC":"蹲下","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //}
   ],
   "远古方舟恐龙变体": [
     {
