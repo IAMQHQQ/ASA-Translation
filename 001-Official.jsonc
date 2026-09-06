@@ -1,6 +1,16 @@
 {
   "Official": [
     {
+      "NamespaceHash": "GraphLiteral::1548549318",
+      "Source": "Embark on an epic odyssey with Astraeos, a colossal 260km² world steeped in Greek mythology! Majestic mountain ridges & marble cliffs meet pristine white beaches, and ancient ruins rise over sacred temples. Face powerful new enemies and gigantic new mythical bosses, and tame unique creatures found only on Astraeos: the nimble Maeguana, the Grand Tortugar, and the fiery Boratos! Sail the new physical seas upon Triremes, confront enemy fleets and the gargantuan Kraken itself! Will you bow to fate, or rise in defiance of Olympus?",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //GraphLiteral::4070555597
+      //Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!
+      //一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!
+      //带有传奇色彩的探索之旅
+    },
+    {
       "NamespaceHash": "Content::1785049897",
       "Source": "Helper Wisp",
       "Trans": {"SC":"飞行灵体","JA":""}, //技能灵工影匠
@@ -187,9 +197,9 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::61718218",
-      "Source": "Abyssanthos Terminal",
-      "Trans": {"SC":"深渊之花终端","JA":""},
+      "NamespaceHash": "Content::3588636228",
+      "Source": "Abyssanthos Terminal ", //🌚为什么要在屁股加空格, 非要我查找内存.
+      "Trans": {"SC":"深渊之花终端 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -543,7 +553,13 @@
     {
       "NamespaceHash": "Content::2890741387",
       "Source": "Kraken Terminal",
-      "Trans": {"SC":"北海巨妖终端","JA":""},
+      "Trans": {"SC":"北海巨妖终端","JA":""}, //上界
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2774991937",
+      "Source": "Thassalanthos Terminal",
+      "Trans": {"SC":"北海巨妖终端","JA":""}, //下界
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -569,16 +585,6 @@
       "Source": "Teleport In: {0} Up to 10 Survivors and 20 {1} allowed.",
       "Trans": {"SC":"开始传送: {0} 允许最多 20 只驯服生物.","JA":""}, //标记-抛弃变量1
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1548549318",
-      "Source": "Embark on an epic odyssey with Astraeos, a colossal 260km² world steeped in Greek mythology! Majestic mountain ridges & marble cliffs meet pristine white beaches, and ancient ruins rise over sacred temples. Face powerful new enemies and gigantic new mythical bosses, and tame unique creatures found only on Astraeos: the nimble Maeguana, the Grand Tortugar, and the fiery Boratos! Sail the new physical seas upon Triremes, confront enemy fleets and the gargantuan Kraken itself! Will you bow to fate, or rise in defiance of Olympus?",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //GraphLiteral::4070555597
-      //Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!
-      //一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!
-      //带有传奇色彩的探索之旅
     },
     {
       "NamespaceHash": "Content::2439151234",
@@ -649,19 +655,19 @@
     {
       "NamespaceHash": "GraphLiteral::926777132",
       "Source": "Balloon Artisan",
-      "Trans": { "SC": "气球艺人", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"气球艺人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4135302546",
       "Source": "*aggressive balloon noises*",
-      "Trans": { "SC": "*气球吱吱作响猛地一炸*", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"*气球吱吱作响猛地一炸*","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2952145378",
       "Source": "Consume this to permanently unlock the \"Balloon Artisan\" emote. ",
-      "Trans": {"SC":"消耗此物品可永久解锁 \"气球艺术师\" 表情动作。","JA":""},
+      "Trans": {"SC":"消耗此物品可永久解锁 \"气球艺人\" 表情动作。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1387,7 +1393,7 @@
     {
       "NamespaceHash": "Globals::2890436803",
       "Source": "To Use, you must own ARK: ",
-      "Trans": {"SC":"若要使用, 你必须拥有方舟: ","JA":""},
+      "Trans": {"SC":"使用需拥有方舟: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7769,7 +7775,7 @@
     {
       "NamespaceHash": "Content::1313943293",
       "Source": "Don't be scared. You just need to survive against increasingly difficult waves of spooky enemies... and kill a DodoRex, of course.",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"别慌。你只需要撑住阴森敌人一波强过一波的进攻...当然, 还得干掉一只渡渡霸王龙。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -73617,37 +73623,37 @@
       "NamespaceHash": "Content::3984889759",
       "Source": "Skull (Right Facing Mouth Closed)",
       "Trans": {"SC":"头骨 (朝右 嘴巴闭合)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3623122378",
       "Source": "Skull (No Jaw)",
       "Trans": {"SC":"头骨 (无下颌)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::300071457",
       "Source": "Skull (Left Facing No Jaw)",
       "Trans": {"SC":"头骨 (朝左 无下颌)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2314359121",
       "Source": "Skull (Right Facing No Jaw)",
       "Trans": {"SC":"头骨 (朝右 无下颌)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2707121643",
       "Source": "Skull (No Jaw or Teeth)",
       "Trans": {"SC":"头骨 (无下颌或牙齿)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::648187198",
       "Source": "Skull (Left Facing No Jaw or Teeth)",
       "Trans": {"SC":"头骨 (朝左 无下颌或牙齿)","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     //{
     //  "NamespaceHash": "Content::3911261293",
@@ -76518,7 +76524,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::1926906132",
       "Source": "Mercantilism",
-      "Trans": {"SC":"重商主义","JA":""},
+      "Trans": {"SC":"商贸之道","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
