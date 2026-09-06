@@ -4573,12 +4573,12 @@
       "Trans": {"SC":"重爪龙群","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::3635751401",
-      "Source": "Base",
-      "Trans": {"SC":"基础","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::3635751401",
+    //  "Source": "Base",
+    //  "Trans": {"SC":"基础","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1612201609",
       "Source": "Base Ammo",

@@ -759,7 +759,7 @@
     {
       "NamespaceHash": "Content::3618120806",
       "Source": "Alpha SD-Sarco",
-      "Trans": {"SC":"精英SD-猪鳄","JA":"精英SD-猪鱷"},
+      "Trans": {"SC":"精英SD-帝鳄","JA":"精英SD-帝鱷"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {

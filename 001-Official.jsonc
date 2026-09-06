@@ -1,6 +1,48 @@
 {
   "Official": [
     {
+      "NamespaceHash": "GraphLiteral::2669750643",
+      "Source": "Neotenic Stabilization",
+      "Trans": {"SC":"幼态强化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1138373097",
+      "Source": "Metamorphosis",
+      "Trans": {"SC":"蜕变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4019507909",
+      "Source": "CHANGE CHARACTER",
+      "Trans": {"SC":"更变外貌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2394242174",
+      "Source": "HIDE EQUIPMENT",
+      "Trans": {"SC":"隐藏装备","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2851256190",
+      "Source": "ACCESSORY",
+      "Trans": {"SC":"装饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2813606629",
+      "Source": "Control %s Cannons",
+      "Trans": {"SC":"操控 %s 火炮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::421477039",
+      "Source": "Supply Equipped Weapon",
+      "Trans": {"SC":"为已装备武器补充弹药","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::1548549318",
       "Source": "Embark on an epic odyssey with Astraeos, a colossal 260km² world steeped in Greek mythology! Majestic mountain ridges & marble cliffs meet pristine white beaches, and ancient ruins rise over sacred temples. Face powerful new enemies and gigantic new mythical bosses, and tame unique creatures found only on Astraeos: the nimble Maeguana, the Grand Tortugar, and the fiery Boratos! Sail the new physical seas upon Triremes, confront enemy fleets and the gargantuan Kraken itself! Will you bow to fate, or rise in defiance of Olympus?",
       "Trans": {"SC":"","JA":""},
@@ -8,7 +50,7 @@
       //GraphLiteral::4070555597
       //Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!
       //一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!
-      //带有传奇色彩的探索之旅
+      //后续再翻译吧, 最近比较忙0.0
     },
     {
       "NamespaceHash": "Content::1785049897",
@@ -76224,7 +76266,7 @@
     {
       "NamespaceHash": "GraphLiteral::3563483768",
       "Source": "Active Ability: Spend a Charge to deploy a small mine behind the ship that explodes when touched, dealing heavy damage. Reactivating the skill after deploying a mine will cause the mine to slowly move forward. Can hold up to [Charges] Charges, recharging after [ChargeCooldown] seconds.",
-      "Trans": {"SC":"主动技能: 消耗1次充能, 在船后部署一枚小型水雷, 触碰时爆炸并造成大量伤害。部署水雷后再次激活技能, 会使水雷缓慢向前移动。最多可储存[Charges]次充能, 每[ChargeCooldown]秒恢复一次。","JA":""},
+      "Trans": {"SC":"主动技能: 消耗1次充能, 在船后部署一枚小型水雷, 触碰时爆炸并造成大量伤害。部署海雷后再次激活技能, 会使水雷缓慢向前移动。最多可储存[Charges]次充能, 每[ChargeCooldown]秒恢复一次。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76296,7 +76338,7 @@
     {
       "NamespaceHash": "GraphLiteral::1023050536",
       "Source": "Chum the Water",
-      "Trans": {"SC":"投饵诱鱼","JA":""},
+      "Trans": {"SC":"投饵引诱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76344,7 +76386,7 @@
     {
       "NamespaceHash": "GraphLiteral::1631887173",
       "Source": "Active Ability: Spend a Charge to summon a Ghost-Angler. These Ghost-Anglers can be ordered like a tame, or ridden by a survivor, providing infinite oxygen underwater. Can hold up to [Charges] Charges, recharging after [ChargeCooldown] seconds.",
-      "Trans": {"SC":"主动技能: 消耗1次充能, 召唤一只幽灵安康鱼。这些幽灵安康鱼可像驯养生物一样下令, 也可由生存者骑乘, 并在水下提供无限氧气。最多可储存[Charges]次充能, 每[ChargeCooldown]秒恢复一次。","JA":""},
+      "Trans": {"SC":"主动技能: 消耗1次充能, 召唤一只幽灵鮟鱇鱼。这些幽灵安康鱼可像驯养生物一样下令, 也可由生存者骑乘, 并在水下提供无限氧气。最多可储存[Charges]次充能, 每[ChargeCooldown]秒恢复一次。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76362,7 +76404,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::3611494440",
       "Source": "Gun Crews",
-      "Trans": {"SC":"炮手队","JA":""},
+      "Trans": {"SC":"炮组协作","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76440,7 +76482,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::2674709682",
       "Source": "Long-Range Salvage",
-      "Trans": {"SC":"远程打捞","JA":""},
+      "Trans": {"SC":"以炮养舰","JA":""}, //标记-意译
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76464,7 +76506,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::2013064271",
       "Source": "Direct hits from this Ship's cannons cause the target to be slowed by {SlowAmount} for [Duration] seconds.",
-      "Trans": {"SC":"该船火炮直接命中目标时, 会使目标减速{SlowAmount}, 持续[Duration]秒。","JA":""},
+      "Trans": {"SC":"该船火炮直接命中目标时, 会使其减速{SlowAmount}, 持续[Duration]秒。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76482,13 +76524,13 @@
     {
       "NamespaceHash": "DT_ShipSkills::1109525588",
       "Source": "Launch Planks",
-      "Trans": {"SC":"发射跳板","JA":""},
+      "Trans": {"SC":"弹射跳板","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_ShipSkills::26516733",
       "Source": "Adds Launch Pads to this Ship. Allies leaping from them gain massive jump distance, air control, and {DamageResistance} damage reduction for [Duration] seconds.",
-      "Trans": {"SC":"为该船只添加发射跳板。盟友从跳板跃出时, 获得巨大的跳跃距离、空中控制力, 并获得{DamageResistance}伤害减免, 持续[Duration]秒。","JA":""},
+      "Trans": {"SC":"为该船只添加弹射跳板。友方从跳板跃出时, 获得巨大的跳跃距离、空中控制力, 并获得{DamageResistance}伤害减免, 持续[Duration]秒。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76506,7 +76548,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::3380696172",
       "Source": "Active Ability: For [Duration] seconds, allied Survivors on this Ship deal {!DamageBonus} more damage, and kills restore +[StaminaPerKill] Stamina.",
-      "Trans": {"SC":"主动技能: 在[Duration]秒内, 该船上的友方生存者造成{!DamageBonus}更多伤害,击杀会恢复+[StaminaPerKill]耐力。","JA":""},
+      "Trans": {"SC":"主动技能: 在[Duration]秒内, 该船上的友方生存者造成{!DamageBonus}更多伤害, 击杀会恢复+[StaminaPerKill]耐力。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76620,7 +76662,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::3277976246",
       "Source": "Galley",
-      "Trans": {"SC":"厨房","JA":""},
+      "Trans": {"SC":"船膳","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76644,7 +76686,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::1397773316",
       "Source": "Wet Dock",
-      "Trans": {"SC":"入水船坞","JA":""},
+      "Trans": {"SC":"锚泊修复","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76662,7 +76704,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::1322542156",
       "Source": "Advanced Lateen",
-      "Trans": {"SC":"高级拉丁帆","JA":""},
+      "Trans": {"SC":"改良拉丁帆","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76698,7 +76740,7 @@
     {
       "NamespaceHash": "DT_ShipSkills::1085968230",
       "Source": "Linebreaker",
-      "Trans": {"SC":"破阵船","JA":""},
+      "Trans": {"SC":"破阵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -77160,7 +77202,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::2709255680",
       "Source": "Evolve 1 Tidepup via Neotenic Stabilization",
-      "Trans": {"SC":"通过幼态稳定进化 1 只潮佑螈","JA":""},
+      "Trans": {"SC":"通过幼态强化进化 1 只潮佑螈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
