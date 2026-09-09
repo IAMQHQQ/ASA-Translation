@@ -19503,7 +19503,7 @@
     {
       "NamespaceHash": "Content::4175810564",
       "Source": "When melee attacking an enemy, you have a {Chance} chance to trigger {Resistance} damage reduction and {AttackSpeed} attack speed for [Duration] seconds.",
-      "Trans": {"SC":"当近战攻击敌人时, 你有{Chance}的概率触发{Resistance}伤害减免和{AttackSpeed}攻击速度, 持续[Duration]秒。","JA":""},
+      "Trans": {"SC":"当近战攻击敌方时, 你有{Chance}的概率触发{Resistance}伤害减免和{AttackSpeed}攻击速度, 持续[Duration]秒。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22237,6 +22237,12 @@
       "Source": "Ice Bridge",
       "Trans": {"SC":"冰桥","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::221948515",
+      "Source": "Ice Bridge",
+      "Trans": { "SC": "冰桥", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     {
       "NamespaceHash": "Content::2346737208",
@@ -78791,7 +78797,7 @@
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::6154878", //NEW
       "Source": "Reduces the cooldown of the Dragon Horn 'Get Me' command by {!!GetMeCooldownMultiplier}.",
-      "Trans": {"SC":"龙之号角 “来接我” 指令的冷却时间缩短 {GetMeCooldownMultiplier}。","JA":""},
+      "Trans": {"SC":"龙之号角 “来接我” 指令的冷却时间缩短 {!!GetMeCooldownMultiplier}。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //UmbraLumina_DracoDragonHornGetMeCooldown_SkillDescription
     },
@@ -82965,7 +82971,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::896656881",
       "Source": "Kill 5 Chalk Golem",
-      "Trans": {"SC":"击杀5只白垩魔像","JA":""},
+      "Trans": {"SC":"击杀5只白垩岩石巨人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83469,7 +83475,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::3982435223",
       "Source": "Kill 25 Chalk Golem",
-      "Trans": {"SC":"击杀25只白垩魔像","JA":""},
+      "Trans": {"SC":"击杀25只白垩岩石巨人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85875,7 +85881,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::2822394570",
       "Source": "Kill 50 Chalk Golem",
-      "Trans": {"SC":"击杀50只白垩魔像","JA":""},
+      "Trans": {"SC":"击杀50只白垩岩石巨人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85935,7 +85941,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::636446795",
       "Source": "Kill 50 Desmodus",
-      "Trans": {"SC":"击杀50只巨翼魔蝠","JA":""},
+      "Trans": {"SC":"击杀50只吸血蝠","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
