@@ -1,6 +1,828 @@
 {
   "Official": [
     {
+      "NamespaceHash": "1B3EDE5840017EE76F73729A9108255E", //OptionsMenu_PC_DLSS避免被二次翻译
+      "Source": "Native",
+      "Trans": {"SC":"Native","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1965400833"}
+    },
+    {
+      "NamespaceHash": "3C9236BF4A4EBD30AC48F4B68DC3729B", //OptionsMenu_PC_DLSS避免被二次翻译
+      "Source": "Auto",
+      "Trans": {"SC":"Auto","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2602279653"}
+    },
+    {
+      "NamespaceHash": "059289A44EDC0D14F178209C1EC5E7B8", //OptionsMenu_PC_DLSS避免被二次翻译
+      "Source": "Quality",
+      "Trans": {"SC":"Quality","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3882954527"}
+    },
+    {
+      "NamespaceHash": "69297D95446C331819EE05B649896C7F", //OptionsMenu_PC_DLSS避免被二次翻译
+      "Source": "Balanced",
+      "Trans": {"SC":"Balanced","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1308466379"}
+    },
+    {
+      "NamespaceHash": "32B7571D484DF4F11E48E2BA3837AC86", //OptionsMenu_PC_DLSS避免被二次翻译
+      "Source": "Performance",
+      "Trans": {"SC":"Performance","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1668432036"}
+    },
+    {
+      "NamespaceHash": "E5B7584A44AB03E372FBD48963A34BCF", //OptionsMenu_PC_DLSS避免被二次翻译
+      "Source": "Ultra Performance",
+      "Trans": {"SC":"Ultra Performance","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3136003113"}
+    },
+    {
+      "NamespaceHash": "28BE6A5242140756E6165EA2719E8804", //OptionsMenu_PC_DLSS避免被二次翻译
+      "Source": "DLAA",
+      "Trans": {"SC":"DLAA","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3842176626"}
+    },
+    {
+      "NamespaceHash": "Content::257124096",
+      "Source": "You cannot be ingested by Gargantar again",
+      "Trans": {"SC":"你暂时无法再次被伽甘塔尔吞食","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::137916632",
+      "Source": "Receive damage over time, with amount increasing per stack",
+      "Trans": {"SC":"持续受到伤害, 每层叠加都会提高伤害量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::496766118",
+      "Source": "60% damage incoming reduction",
+      "Trans": {"SC":"受到的伤害降低60%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1570142138",
+      "Source": "Put Taming Food in Last Item Slot To Feed!",
+      "Trans": {"SC":"将驯服食物放到最右侧的物品栏来喂食!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2246064815",
+      "Source": "Power Attack (Hold to repeat)",
+      "Trans": {"SC":"强力攻击 (按住连续攻击)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2644100287",
+      "Source": "Preparing...",
+      "Trans": {"SC":"准备中...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1821513324",
+      "Source": "Prepare to be spat out!",
+      "Trans": {"SC":"做好被吐出来的准备!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::229679044",
+      "Source": "Out of Time!",
+      "Trans": {"SC":"时间到!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1499026707",
+      "Source": "No Harvest",
+      "Trans": {"SC":"不可采集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1143077120",
+      "Source": "No Harvesting",
+      "Trans": {"SC":"禁止采集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4291556707",
+      "Source": "Move Closer To Head To Mount",
+      "Trans": {"SC":"靠近头部才能骑乘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2987448606",
+      "Source": "Mount {0}",
+      "Trans": {"SC":"骑乘 {0}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2197970373",
+      "Source": "Lead Cerberax Towards Prey!",
+      "Trans": {"SC":"引导三相狱犬靠近猎物!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2639489084",
+      "Source": "Kill the Target!",
+      "Trans": {"SC":"击杀目标!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::205929747",
+      "Source": "Harvest Only: ",
+      "Trans": {"SC":"仅采集: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3096529390",
+      "Source": "Gargantar",
+      "Trans": {"SC":"伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3932142894",
+      "Source": "Feed Cerberax as it Attacks!",
+      "Trans": {"SC":"趁三相狱犬攻击时喂食!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2237861791",
+      "Source": "Feed Gargantar",
+      "Trans": {"SC":"喂食伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3115654252",
+      "Source": "% | Effectiveness: ",
+      "Trans": {"SC":"% | 驯养有效性: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::887519024",
+      "Source": " Level ",
+      "Trans": {"SC":" 等级 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3713149528",
+      "Source": " Available!",
+      "Trans": {"SC":" 可用!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::417727159",
+      "Source": " Available)",
+      "Trans": {"SC":" 可用)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1099891526",
+      "Source": "Gargantar Saddle",
+      "Trans": {"SC":"伽甘塔尔鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3595022346",
+      "Source": "Equip a Gargantar with this to ride it.",
+      "Trans": {"SC":"装备到伽甘塔尔上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::504498961",
+      "Source": "Gargantar Dossier",
+      "Trans": {"SC":"伽甘塔尔图鉴","JA":"伽甘塔尔圖鑒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1572539705",
+      "Source": "Fertilized Gargantar Egg",
+      "Trans": {"SC":"受精的伽甘塔尔蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1823383452",
+      "Source": "Gargantar Skills",
+      "Trans": {"SC":"伽甘塔尔技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::526094416",
+      "Source": "Umbra & Lumina Skills",
+      "Trans": {"SC":"幽影仔 & 皎光仔技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::262169985",
+      "Source": "Threat Display",
+      "Trans": {"SC":"威胁展示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4187150030",
+      "Source": "View Harvesting Levels",
+      "Trans": {"SC":"查看采集等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2501659579",
+      "Source": "You must own {0} to mount this creature",
+      "Trans": {"SC":"你必须拥有 {0} 才能骑乘此生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4260182215",
+      "Source": "Chibi-Megaraptor",
+      "Trans": {"SC":"袖珍巨盗龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3471968616",
+      "Source": "You must own {0} to use this {ItemToReference}", //标记-修补
+      "Trans": {"SC":"你必须拥有 {0} 才能使用 {ItemToReference}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::362820317",
+      "Source": "You must own {0} to use this ItemToReference",
+      "Trans": {"SC":"你必须拥有 {0} 才能使用 ItemToReference","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1154576369",
+      "Source": "Back",
+      "Trans": {"SC":"背部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1088341150",
+      "Source": "{0}\n\n<RichColor Color=\"0, 1, 1, 1\"> Accessory Slot: {1}</>",
+      "Trans": {"SC":"{0}\n\n<RichColor Color=\"0, 1, 1, 1\"> 饰品部位: {1}</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3591842272", //old镰刀龙
+      "Source": "Back      ",
+      "Trans": {"SC":"返回 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::578500379", //old镰刀龙
+      "Source": "+Additional ",
+      "Trans": {"SC":"+额外的 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2450397291", //old镰刀龙
+      "Source": "View Harvesting Levels ",
+      "Trans": {"SC":"查看采集点数 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2851256190",
+      "Source": "ACCESSORY",
+      "Trans": {"SC":"配饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2342327023",
+      "Source": "advance Bounty {BountyDesc} - id  {key}",
+      "Trans": {"SC":"推进悬赏 {BountyDesc} - ID  {key}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2899111849",
+      "Source": "advance time {BountyDesc} - id  {key}",
+      "Trans": {"SC":"推进时间 {BountyDesc} - ID  {key}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::832266505",
+      "Source": "Volcano",
+      "Trans": {"SC":"火山","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1979764052",
+      "Source": "Volcano ",
+      "Trans": {"SC":"火山 ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2753950723",
+      "Source": "Teleport In: {0} Up to 20 {1} allowed.",
+      "Trans": {"SC":"开始传送: {0} 最多允许20只 {1}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4056660549",
+      "Source": "Tides of Fortune or Astraeos",
+      "Trans": {"SC":"命运之潮或星耀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1925025487",
+      "Source": "Too far from the water surface.",
+      "Trans": {"SC":"距离水面太远.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::912228248",
+      "Source": "Too many tricks in sequence",
+      "Trans": {"SC":"连续特技过多","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3250674725",
+      "Source": "Tail Smash",
+      "Trans": {"SC":"尾部猛击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1054985729",
+      "Source": "Tail Uppercut",
+      "Trans": {"SC":"甩尾上挑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1129004516",
+      "Source": "TIME",
+      "Trans": {"SC":"时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1743882917",
+      "Source": "Strength > ",
+      "Trans": {"SC":"强度 > ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1597048775",
+      "Source": "Ships",
+      "Trans": {"SC":"船只","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::715152919",
+      "Source": "See you on Atlantis, Survivor.",
+      "Trans": {"SC":"亚特兰蒂斯见, 生存者。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2782923418",
+      "Source": "Sand Cloud",
+      "Trans": {"SC":"沙尘云","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2524239104",
+      "Source": "Saddle Merchant",
+      "Trans": {"SC":"鞍具商人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::264046793",
+      "Source": "Riding Time Remaining: ",
+      "Trans": {"SC":"剩余骑乘时间: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::460250661",
+      "Source": "Rider Cant Attack",
+      "Trans": {"SC":"骑手无法攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::47974525",
+      "Source": "Resource Vendor",
+      "Trans": {"SC":"资源商人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2328791016",
+      "Source": "Replace Bounty {BountyDesc} - id  {key}",
+      "Trans": {"SC":"替换悬赏 {BountyDesc} - ID  {key}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::479741861",
+      "Source": "Reached Max Queued Tricks",
+      "Trans": {"SC":"特技队列已满","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1043928803",
+      "Source": "Not Sand Swimming",
+      "Trans": {"SC":"未在沙中潜行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1095037262",
+      "Source": "Not In Air",
+      "Trans": {"SC":"不在空中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2619211694",
+      "Source": "Lumina gains confidence with each unanswered strike. She breathes hot orbs that she can leap to in an instant, just as she will leap to her counterpart's side. Umbra's presence stokes her fiery heart, making her faster and tougher.\r\n\r\nIt is possible to grapple with Lumina and learn to steer her flight. Dance with the dragon, and follow her lead. A worthy rider earns control of her bright fury and swiftness. Offer food when she grows hungry, and you will win her sacred bond.\r\n\r\nLumina is a creature of daytime, drawn out by the Sun's light.\r\nShe shall not harm the friendly, but foes will face her swift might.",
+      "Trans": {"SC":"皎光仔每一次攻击得手而未遭还击, 都会变得更加自信。她吐出的炽热光球, 转瞬间便可成为跃迁落点; 她也能在同一瞬间跃至幽影仔身边。幽影仔的存在会点燃她炽烈的心, 使她更快, 也更强韧。\r\n\r\n用抓钩钩住皎光仔, 在空中配合她的动作, 便能逐渐学会引导她飞行。与龙共舞，顺势而行。唯有真正配得上的骑手, 才能驾驭她耀眼的怒火与惊人的迅捷。她饥饿时献上食物, 便能赢得这份神圣的羁绊。\r\n\r\n皎光仔属于白昼, 只有阳光会将她引出。\r\n她绝不会伤害友方; 但敌人必将见识她疾如流光的力量。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1088646973",
+      "Source": "KABOOM! (Hog's Wrath Active)",
+      "Trans": {"SC":"轰爆! (焰鬃之怒激活时)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::614336597",
+      "Source": "Increases Cosmic Power",
+      "Trans": {"SC":"提升宇宙之力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::367841375",
+      "Source": "Hog's Wrath",
+      "Trans": {"SC":"焰鬃之怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1947765863",
+      "Source": "Hog's Breath (Requires Hog's Wrath)",
+      "Trans": {"SC":"焰鬃吐息 (需要焰鬃之怒)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2060118737",
+      "Source": "Fiery Slam (Requires Hog's Wrath)",
+      "Trans": {"SC":"烈焰重踏 (需要焰鬃之怒)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::418776240",
+      "Source": "Farmhouse",
+      "Trans": {"SC":"农舍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3001047128",
+      "Source": "Defeat Shallocis the Void Above (Alpha) for Increased Max Levels",
+      "Trans": {"SC":"击败 上界北海巨妖 (困难) 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1025009570",
+      "Source": "Defeat Shallocis the Void Above (Beta) for Increased Max Levels",
+      "Trans": {"SC":"击败 上界北海巨妖 (中等) 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1590962596",
+      "Source": "Defeat Shallocis the Void Above (Gamma) for Increased Max Levels",
+      "Trans": {"SC":"击败 上界北海巨妖 (简单) 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::276170533",
+      "Source": "Defeat Shallocis the Void Above for Increased Max Levels",
+      "Trans": {"SC":"击败 上界北海巨妖 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3466234207",
+      "Source": "Defeat Abyssalus the Void Beneath (Alpha) for Increased Max Levels",
+      "Trans": {"SC":"击败 下界北海巨妖 (困难) 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3043761121",
+      "Source": "Defeat Abyssalus the Void Beneath (Beta) for Increased Max Levels",
+      "Trans": {"SC":"击败 下界北海巨妖 (中等) 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::581892259",
+      "Source": "Defeat Abyssalus the Void Beneath (Gamma) for Increased Max Levels",
+      "Trans": {"SC":"击败 下界北海巨妖 (简单) 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3158851899",
+      "Source": "Defeat Abyssalus the Void Beneath for Increased Max Levels",
+      "Trans": {"SC":"击败 下界北海巨妖 以提高等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2082000693",
+      "Source": "Cryo Merchant",
+      "Trans": {"SC":"低温舱商人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1147971635",
+      "Source": "Creature Parts Vendor",
+      "Trans": {"SC":"生物材料商人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::240781564",
+      "Source": "Complete Bounty {BountyDesc} - id  {key}",
+      "Trans": {"SC":"完成悬赏{BountyDesc} - ID  {key}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2062318147",
+      "Source": "Cooldown Reduction",
+      "Trans": {"SC":"冷却缩减","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3159826618",
+      "Source": "Collect",
+      "Trans": {"SC":"收集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3180066867",
+      "Source": "Cargo Expires: {3}",
+      "Trans": {"SC":"货物过期: {3}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1270889936",
+      "Source": "Cant do tricks",
+      "Trans": {"SC":"无法表演特技","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3693346536",
+      "Source": "Both Alpha Krakens Defeated +{0} Max Levels",
+      "Trans": {"SC":"两只困难北海巨妖均已击败 +{0} 等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::453161274",
+      "Source": "Both Beta Krakens Defeated +{0} Max Levels",
+      "Trans": {"SC":"两只中等北海巨妖均已击败 +{0} 等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::486823074",
+      "Source": "Both Gamma Krakens Defeated +{0} Max Levels",
+      "Trans": {"SC":"两只简单北海巨妖均已击败 +{0} 等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3302539125",
+      "Source": "Both Krakens Defeated +{0} Max Levels",
+      "Trans": {"SC":"两只北海巨妖均已击败 +{0} 等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4029590505",
+      "Source": "Bounty Cancelled By {Name} - {Bounty Desc}",
+      "Trans": {"SC":"悬赏已由{Name}取消 - {Bounty Desc}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3769461038",
+      "Source": "Bounty Desc",
+      "Trans": {"SC":"悬赏描述","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2269529243",
+      "Source": "BountyCompleted",
+      "Trans": {"SC":"悬赏已完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::513293675",
+      "Source": "BountyExpired",
+      "Trans": {"SC":"悬赏已过期","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1206066995",
+      "Source": "Butcher",
+      "Trans": {"SC":"屠夫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2075283101",
+      "Source": "Bobs Tall Tales or Astraeos",
+      "Trans": {"SC":"鲍勃的传奇故事/星耀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1036030572",
+      "Source": "Barkeeper",
+      "Trans": {"SC":"酒保","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1208709036",
+      "Source": "Armor Merchant",
+      "Trans": {"SC":"护甲商人","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3933600500",
+      "Source": "0% NW",
+      "Trans": {"SC":"0% 西北","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1863176983",
+      "Source": ", WIND:",
+      "Trans": {"SC":", 风力:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::957669366",
+      "Source": "Added trick to queue: ",
+      "Trans": {"SC":"特技已加入队列: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4010389814",
+      "Source": "You can use this to skin the appearance of a Bench with a bouncy look. Get ready for summer fun!",
+      "Trans": {"SC":"可将长椅外观替换为充气弹跳造型。准备好尽享夏日乐趣吧!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::367565641",
+      "Source": "You can use this to skin the appearance of a Chair with a bouncy look. Get ready for summer fun!",
+      "Trans": {"SC":"可将椅子外观替换为充气弹跳造型。准备好尽享夏日乐趣吧!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::197197588",
+      "Source": "You're trapped in a dust cloud and suffocating!",
+      "Trans": {"SC":"你被困在沙尘云中, 快要窒息了!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1676891627",
+      "Source": "This will override all other skins, acting as a full-body costume. Should always be set on Torso Armor.\r\n\r\n",
+      "Trans": {"SC":"使用这个皮肤来覆盖其它外观, 充当全身套装。该皮肤装备在躯干或胸甲上。\r\n\r\n","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2242101354",
+      "Source": "Jump and match the trick sequence to gain taming progress. Keep moving and doing tricks or you'll be thrown off!",
+      "Trans": {"SC":"跳跃并按顺序完成特技即可提高驯服进度。保持移动、不断表演特技, 否则会被甩下去!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2726058401",
+      "Source": "Increases damage by 10% & ignites targets at the cost of food",
+      "Trans": {"SC":"消耗食物, 使伤害提高10%, 并点燃目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1616739656",
+      "Source": "Infiltrate the island, steal explosives from corpses, and set them to destroy the Outpost.",
+      "Trans": {"SC":"潜入岛屿, 从尸体上搜出炸药, 并将其安放在前哨站内, 炸毁目标。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969105882",
+      "Source": "Hog's Wrath Disabled! ",
+      "Trans": {"SC":"焰鬃之怒已熄灭! ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::17597504",
+      "Source": "Hog's Wrath Extinguished",
+      "Trans": {"SC":"焰鬃之怒熄灭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3923602104",
+      "Source": "Cryopods",
+      "Trans": {"SC":"低温舱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3239181284",
+      "Source": "Destroy the remaining Ships with ship cannons or cannon structures!",
+      "Trans": {"SC":"使用舰炮或炮台建筑摧毁剩余船只!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::781516565",
+      "Source": "Corrosive Cannonball",
+      "Trans": {"SC":"腐蚀炮弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2337307542",
+      "Source": "Brimstone Bay",
+      "Trans": {"SC":"硫磺湾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2563359438",
+      "Source": "-20% Speed Reduction +20% Damage Incoming",
+      "Trans": {"SC":"移动速度降低20%, 受到的伤害提高20%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::392778773",
+      "Source": "Dust Cloud",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3236526095",
+      "Source": "Uppercut (while underground)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3393646006",
+      "Source": "Tail Smash (in air)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3112767552",
+      "Source": "Bury/Unbury",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3802961328",
+      "Source": "Frontflip (in air)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1389160083",
+      "Source": "Backflip (in air)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::418515909",
+      "Source": "Right Roll (in air)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1820016549",
+      "Source": "Left Roll (in air)",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3749445839", //buffname
+      "Source": "Windshield",
+      "Trans": {"SC":"挡风防护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::908082769",
+      "Source": "Protected from Sandstorms.",
+      "Trans": {"SC":"可抵御沙尘暴。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3199597047",
+      "Source": "You are within item tracking range of a Cargo Ledger",
+      "Trans": {"SC":"你已在货物账台的物品管理范围内。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3900303880",
+      "Source": "FORMED", //蝾螈
+      "Trans": {"SC":"已成型","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //{
+    //  "NamespaceHash": "GraphLiteral::4046092849", //不能翻译
+    //  "Source": "Use",
+    //  "Trans": {"SC":"Use","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    {
+      "NamespaceHash": "GraphLiteral::1926392779",
+      "Source": "SUPPRESSED",
+      "Trans": {"SC":"禁止","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::182397373",
+      "Source": "ALLOWED",
+      "Trans": {"SC":"允许","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::3284651470",
+      "Source": "Major Antidote",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::2669750643",
       "Source": "Neotenic Stabilization",
       "Trans": {"SC":"幼态强化","JA":""},
@@ -236,6 +1058,12 @@
       "NamespaceHash": "Content::1774324619",
       "Source": "Pirate Fleet Admiral Trireme",
       "Trans": {"SC":"海盗提督三列桨战船","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::61718218",
+      "Source": "Abyssanthos Terminal",
+      "Trans": {"SC":"深渊之花终端","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -527,12 +1355,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1036030572",
-      "Source": "Barkeeper",
-      "Trans": {"SC":"酒保","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::2009762724",
       "Source": "Menagerist",
       "Trans": {"SC":"袖宠商人","JA":""},
@@ -542,12 +1364,6 @@
       "NamespaceHash": "Content::3572138083",
       "Source": "Hunter",
       "Trans": {"SC":"猎人","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1206066995",
-      "Source": "Butcher",
-      "Trans": {"SC":"屠夫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -563,13 +1379,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1208709036",
-      "Source": "Armor Merchant",
-      "Trans": {"SC":"弹药商人","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3717115257",
+      "NamespaceHash": "GraphLiteral::3717115257",
       "Source": "Weapon Merchant",
       "Trans": {"SC":"武器商人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -695,7 +1505,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::926777132",
+      "NamespaceHash": "Content::926777132",
       "Source": "Balloon Artisan",
       "Trans": {"SC":"气球艺人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -965,7 +1775,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Globals::1027454345",
+      "NamespaceHash": "GraphLiteral::1027454345",
       "Source": "Use these skills while riding a Dragon.",
       "Trans": {"SC":"骑乘龙族时可使用这些技能","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -4201,7 +5011,7 @@
     {
       "NamespaceHash": "GraphLiteral::2222914419",
       "Source": "Fantastic Tames Season 1 brings three mystical new companions to your tribe: Burrowbuck, Cerberax, and Enigmasaur. Tunnel through the earth, tear through the front lines using multi-headed attacks, or mimic stolen creature-forms!",
-      "Trans": {"SC":"«奇幻驯兽»第一季为你的部落带来三位神秘伙伴: 穴角兔、刻耳柏拉克斯与谜龙。遁地穿行, 以多头攻势撕开前线, 或化身盗取而来的生物形态!","JA":""},
+      "Trans": {"SC":"«奇幻驯兽»第一季为你的部落带来三位神秘伙伴: 穴角兔、三相狱犬与谜龙。遁地穿行, 以多头攻势撕开前线, 或化身盗取而来的生物形态!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4253,7 +5063,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::34252695",
+      "NamespaceHash": "Content::34252695",
       "Source": "Astral Boaratos",
       "Trans": {"SC":"星界焰鬃獠猪","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
@@ -6133,7 +6943,7 @@
     {
       "NamespaceHash": "GraphLiteral::2115180030",
       "Source": "You must own {0} to evolve this creature",
-      "Trans": {"SC":"你必须拥有{0}才能进化此生物","JA":""},
+      "Trans": {"SC":"你必须拥有 {0} 才能进化此生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8357,6 +9167,12 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::1186908183",
+      "Source": "Cerberax Dossier",
+      "Trans": {"SC":"三相狱犬图鉴","JA":"三相狱犬圖鑒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::382284212",
       "Source": "Cerberax Saddle",
       "Trans": {"SC":"三相狱犬鞍","JA":""},
@@ -8373,6 +9189,12 @@
       "Source": "Enigmasaur", //Enigma; saur
       "Trans": {"SC":"幻隐龙","JA":"幻隱龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1736217661",
+      "Source": "Enigmasaur Dossier",
+      "Trans": {"SC":"幻隐龙图鉴","JA":"幻隐龙圖鑒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3496235874",
@@ -10304,7 +11126,7 @@
     {
       "NamespaceHash": "Content::1952907113",
       "Source": "Skeleton Snarer",
-      "Trans": {"SC":"骷髅擒拿手","JA":"骷髏擒拿手"},
+      "Trans": {"SC":"骷髅擒拿兵","JA":"骷髏擒拿兵"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10476,6 +11298,18 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::3757129702",
+      "Source": "Generate Abyssalus the Void Beneath Portal",
+      "Trans": {"SC":"召唤 下界北海巨妖 传送门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::49713983",
+      "Source": "Generate Shallocis the Void Above Portal",
+      "Trans": {"SC":"召唤 上界北海巨妖 传送门","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::3549042292",
       "Source": "Use this to generate a portal to Hydraskos the Unbroken (Beta).\r\nDoes unlock Beta Dragon engrams.",
       "Trans": {"SC":"使用并召唤海德拉科斯传送门 (中等)。\r\n解锁的印痕与中等喷火龙相同。","JA":""},
@@ -10580,79 +11414,79 @@
     {
       "NamespaceHash": "Content::2388577301",
       "Source": "Astraeos Divine Armor Boots",
-      "Trans": {"SC":"星耀圣铠・战靴","JA":""},
+      "Trans": {"SC":"星耀圣铠·战靴","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1831637430",
       "Source": "You can use this to skin the appearance of boots to the Astraeos Divine Armor boots. ",
-      "Trans": {"SC":"你可以用这个将靴子的外观换成星耀圣铠・战靴的摸样。","JA":""},
+      "Trans": {"SC":"你可以用这个将靴子的外观换成星耀圣铠·战靴的摸样。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3262139434",
       "Source": "You can use this to skin the appearance of boots to the Astraeos Divine Armor boots. ",
-      "Trans": {"SC":"你可以用这个将靴子的外观换成星耀圣铠・战靴的摸样。","JA":""},
+      "Trans": {"SC":"你可以用这个将靴子的外观换成星耀圣铠·战靴的摸样。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4289441150",
       "Source": "Astraeos Divine Armor Gauntlets",
-      "Trans": {"SC":"星耀圣铠・护手","JA":""},
+      "Trans": {"SC":"星耀圣铠·护手","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1723217110",
       "Source": "You can use this to skin the appearance of gloves to the Astraeos Divine Armor gloves.",
-      "Trans": {"SC":"你可以用这个将手套的外观换成星耀圣铠・护手的摸样。","JA":""},
+      "Trans": {"SC":"你可以用这个将手套的外观换成星耀圣铠·护手的摸样。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::178333932",
       "Source": "Astraeos Divine Armor Hood",
-      "Trans": {"SC":"星耀圣铠・兜帽","JA":""},
+      "Trans": {"SC":"星耀圣铠·兜帽","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2076503027",
       "Source": "You can use this to skin the appearance of a helmet or hat to the Astraeos Divine Armor hood.",
-      "Trans": {"SC":"你可以用这个将头盔或帽子的外观换成星耀圣铠・兜帽的摸样。","JA":""},
+      "Trans": {"SC":"你可以用这个将头盔或帽子的外观换成星耀圣铠·兜帽的摸样。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::682099509",
       "Source": "Astraeos Divine Armor Crown",
-      "Trans": {"SC":"星耀圣铠・圣冠","JA":""},
+      "Trans": {"SC":"星耀圣铠·圣冠","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3054763544",
       "Source": "You can use this to skin the appearance of a helmet or hat to the Astraeos Divine Armor crown.",
-      "Trans": {"SC":"你可以用这个将头盔或帽子的外观换成星耀圣铠・圣冠的摸样。","JA":""},
+      "Trans": {"SC":"你可以用这个将头盔或帽子的外观换成星耀圣铠·圣冠的摸样。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::70908302",
       "Source": "Astraeos Divine Armor Leggings",
-      "Trans": {"SC":"星耀圣铠・护腿","JA":""},
+      "Trans": {"SC":"星耀圣铠·护腿","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1621122179",
       "Source": "You can use this to skin the appearance of leggings or pants to the Astraeos Divine Armor pants.",
-      "Trans": {"SC":"你可以用这个将护腿或裤子的外观换成星耀圣铠・护腿的摸样。","JA":""},
+      "Trans": {"SC":"你可以用这个将护腿或裤子的外观换成星耀圣铠·护腿的摸样。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2535090847",
       "Source": "Astraeos Divine Armor Chestpiece With Cape",
-      "Trans": {"SC":"星耀圣铠・披风胸甲","JA":""},
+      "Trans": {"SC":"星耀圣铠·披风胸甲","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2368100615",
       "Source": "You can use this to skin the appearance of a shirt or chestpiece to the Astraeos Divine Armor chestplate with a cape.",
-      "Trans": {"SC":"你可以用这个将衬衫或胸甲的外观换成星耀圣铠・披风胸甲的摸样。","JA":""},
+      "Trans": {"SC":"你可以用这个将衬衫或胸甲的外观换成星耀圣铠·披风胸甲的摸样。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22241,8 +23075,8 @@
     {
       "NamespaceHash": "GraphLiteral::221948515",
       "Source": "Ice Bridge",
-      "Trans": { "SC": "冰桥", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"冰桥","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2346737208",
@@ -22517,7 +23351,7 @@
     {
       "NamespaceHash": "Content::1614502637",
       "Source": "Unstable Element that, over time, will stabilize and become Element.",
-      "Trans": {"SC":"不稳定能量元素会随着时间推移逐渐稳定, 最终转变为能量元素","JA":""},
+      "Trans": {"SC":"不稳定能量元素会随着时间推移逐渐稳定, 最终转变为能量元素。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22583,7 +23417,7 @@
     {
       "NamespaceHash": "Content::2444530219",
       "Source": "Element infused with Blood. Over time it will stabilize and become Red Element.",
-      "Trans": {"SC":"浸染了血液的元素。随着时间推移逐渐稳定, 最终转变为腥红能量元素","JA":""},
+      "Trans": {"SC":"浸染了血液的元素。随着时间推移逐渐稳定, 最终转变为腥红能量元素。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23729,7 +24563,7 @@
     {
       "NamespaceHash": "Content::2792022579",
       "Source": "Thrall Snarer",
-      "Trans": {"SC":"血仆擒拿手","JA":""},
+      "Trans": {"SC":"血仆擒拿兵","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -24487,7 +25321,7 @@
     {
       "NamespaceHash": "GraphLiteral::773338356",
       "Source": "Main Menu Intro",
-      "Trans": {"SC":"主菜单的开场","JA":""},
+      "Trans": {"SC":"主菜单开场动画","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -25578,21 +26412,21 @@
     {
       "NamespaceHash": "GraphLiteral::2196891201",
       "Source": "Reduce Resolution In Inventory",
-      "Trans": {"SC":"降低打开背包的渲染","JA":""},
+      "Trans": {"SC":"打开背包时降低分辨率","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
     {
       "NamespaceHash": "GraphLiteral::167908045",
       "Source": "Virtual Keyboard in Big Picture Gamepad Mode",
-      "Trans": {"SC":"手柄大屏幕时的虚拟键盘","JA":""},
+      "Trans": {"SC":"大屏幕手柄模式虚拟键盘","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
     {
       "NamespaceHash": "GraphLiteral::2047344183",
       "Source": "THROW SHOULDER MOUNT OVERRIDE:",
-      "Trans": {"SC":"覆盖默认投掷肩宠的按键:","JA":""}, //意思变动
+      "Trans": {"SC":"覆盖默认肩宠投掷的按键:","JA":""}, //意思变动
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -27133,7 +27967,7 @@
     {
       "NamespaceHash": "GraphLiteral::239333081",
       "Source": "Harvest 1,000 Obsidian",
-      "Trans": {"SC":"采集 1,000 个黑曜石","JA":""},
+      "Trans": {"SC":"采集 1,000 黑曜石","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27248,13 +28082,13 @@
     {
       "NamespaceHash": "GraphLiteral::1278347741",
       "Source": "Harvest 1,000 Wood or Fungal Wood",
-      "Trans": {"SC":"采集 1,000 根木头或真菌木头","JA":""},
+      "Trans": {"SC":"采集 1,000 木头或真菌木头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2373333826",
       "Source": "Harvest 500,000 Wood or Fungal Wood",
-      "Trans": {"SC":"采集 500,000 根木头或真菌木头","JA":""},
+      "Trans": {"SC":"采集 500,000 木头或真菌木头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31004,7 +31838,7 @@
     {
       "NamespaceHash": "Globals::UnblockingModsSuccess",
       "Source": "Unblocking Mods Successful",
-      "Trans": {"SC":"模组疏通成功","JA":""},
+      "Trans": {"SC":"已成功解除模组屏蔽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1059469176"}
     },
     {
@@ -32278,9 +33112,8 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Globals::1411673309",
+      "NamespaceHash": "Globals::1411673309", //join server
       "Source": " Please Wait... ",
-      //join server
       "Trans": {"SC":" 请稍后... ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -32309,35 +33142,33 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::2890289939",
+      "NamespaceHash": "Content::2890289939", //恐象
       "Source": "You are currently stunned, and cannot act.",
-      //恐象
       "Trans": {"SC":"你目前处于眩晕状态, 无法行动。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Globals::FullServerMsg",
+      "NamespaceHash": "Globals::FullServerMsg", //join
       "Source": "This Server is full. Please try again later.",
-      //join
       "Trans": {"SC":"此服务器已满员。请稍后再试。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1904505823"}
     },
     {
       "NamespaceHash": "Globals::UnblockingModsWarningMsg",
       "Source": "Fetching mod data to unblock",
-      "Trans": {"SC":"正在读取模组数据...","JA":""},
+      "Trans": {"SC":"正在获取待解除屏蔽的模组数据...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1797187159"}
     },
     {
       "NamespaceHash": "Globals::UnblockingModsWarningTitle",
       "Source": "UNBLOCKING MODS",
-      "Trans": {"SC":"疏通模组","JA":""},
+      "Trans": {"SC":"解除模组屏蔽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4213179419"}
     },
     {
       "NamespaceHash": "Globals::UnblockModsErrorTitle",
       "Source": "ERROR UNBLOCKING MODS",
-      "Trans": {"SC":"模组疏通错误","JA":""},
+      "Trans": {"SC":"解除模组屏蔽时出错","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2639348143"}
     },
     {
@@ -33618,7 +34449,7 @@
       "Source": "Quality",
       "Trans": {"SC":"图像质量","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3882954527"}
-      //视频设置
+      //视频设置-未知?
     },
     {
       "NamespaceHash": "305AE2BB49EF49BF443F0C985C8A22A6",
@@ -34130,6 +34961,12 @@
       "Source": "Use this to generate a portal to Thodes the Widowmaker (Hard).",
       //过期
       "Trans": {"SC":"使用并召唤独眼巨人传送门 (困难)。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1062917437",
+      "Source": "Thodes Trophy",
+      "Trans": {"SC":"独眼巨人战利品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -34831,6 +35668,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Content::3444450445",
+      "Source": "Natrix Trophy",
+      "Trans": {"SC":"蛇发女妖战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::2853424235",
       "Source": "Gamma Natrix Trophy",
       "Trans": {"SC":"简单蛇发女妖战利品","JA":""},
@@ -35377,6 +36220,12 @@
       "NamespaceHash": "Globals::3885227461",
       "Source": "You found all the Bob's Tall Tales Explorer Notes on Extinction! +5 Max Levels",
       "Trans": {"SC":"你找到了灭绝所有的\"鲍勃的传奇故事\"笔记! +5 等级上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2711966127",
+      "Source": " Planned Structures",
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -48240,7 +49089,7 @@
     {
       "NamespaceHash": "GraphLiteral::2348296194",
       "Source": "Camera FOV",
-      "Trans": {"SC":"镜头视角","JA":""},
+      "Trans": {"SC":"镜头视野","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -48359,7 +49208,7 @@
     {
       "NamespaceHash": "GraphLiteral::4135987057",
       "Source": "Color Item Names",
-      "Trans": {"SC":"物品名称颜色设置","JA":""},
+      "Trans": {"SC":"物品名称分色显示","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -48380,14 +49229,14 @@
     {
       "NamespaceHash": "GraphLiteral::1063278545",
       "Source": "Allow Hit Markers",
-      "Trans": {"SC":"显示命中提示标识","JA":""},
+      "Trans": {"SC":"启用命中反馈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
     {
       "NamespaceHash": "GraphLiteral::695855064",
       "Source": "Auto Chatbox",
-      "Trans": {"SC":"自动聊天窗口","JA":""},
+      "Trans": {"SC":"自动显示聊天框","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -48408,7 +49257,7 @@
     {
       "NamespaceHash": "GraphLiteral::1600411459",
       "Source": "No Tooltip Delay",
-      "Trans": {"SC":"取消提示信息延迟","JA":""},
+      "Trans": {"SC":"取消提示信息延迟","JA":""}, //如: 物品信息 工具的气泡框
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -48436,14 +49285,14 @@
     {
       "NamespaceHash": "GraphLiteral::1847011141",
       "Source": "Disable Menu Transitions",
-      "Trans": {"SC":"禁用菜单淡入效果","JA":""},
+      "Trans": {"SC":"禁用菜单过渡动画","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
     {
       "NamespaceHash": "GraphLiteral::67896087",
       "Source": "Toggle Extended HUD Info",
-      "Trans": {"SC":"切换更多HUD信息","JA":""},
+      "Trans": {"SC":"更多HUD信息 (设为按键切换)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -48471,7 +49320,7 @@
     {
       "NamespaceHash": "GraphLiteral::1907352484",
       "Source": "Movement Speed Limit to Hide Structure Tooltips",
-      "Trans": {"SC":"数值越小移动起来显示建筑信息就会快速隐藏","JA":""},
+      "Trans": {"SC":"隐藏建筑信息的移动速度阈值","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -48520,21 +49369,21 @@
     {
       "NamespaceHash": "GraphLiteral::3954938806",
       "Source": "Always Display Multiuse Text",
-      "Trans": {"SC":"始终显示多用途文本","JA":""},
+      "Trans": {"SC":"始终显示多用途轮盘文本","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
     {
       "NamespaceHash": "GraphLiteral::4066772680",
       "Source": "Hide Structure Placement Crosshair",
-      "Trans": {"SC":"放置建筑隐藏准星","JA":""},
+      "Trans": {"SC":"放置建筑时隐藏准星","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
     {
       "NamespaceHash": "GraphLiteral::1506014098",
       "Source": "Always Fade Mini Map Overlay",
-      "Trans": {"SC":"淡化迷你地图显示","JA":""},
+      "Trans": {"SC":"淡化小地图显示","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -48973,7 +49822,7 @@
     {
       "NamespaceHash": "GraphLiteral::2396922905",
       "Source": "Enable Foliage & Fluid Interaction",
-      "Trans": {"SC":"启用植被&流体的交互","JA":""},
+      "Trans": {"SC":"启用植被与流体的交互","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
     },
@@ -49036,7 +49885,7 @@
     {
       "NamespaceHash": "GraphLiteral::2959821941",
       "Source": "Disable HLOD",
-      "Trans": {"SC":"禁用HLOD","JA":""},
+      "Trans": {"SC":"禁用 HLOD","JA":""},
       //分层细节层次
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置
@@ -49580,7 +50429,7 @@
     {
       "NamespaceHash": "GraphLiteral::640289371",
       "Source": "UNBLOCK ALL MODS",
-      "Trans": {"SC":"疏通全部模组","JA":""},
+      "Trans": {"SC":"解除所有模组屏蔽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -51566,7 +52415,7 @@
     {
       "NamespaceHash": "Content::338807455",
       "Source": "Cryopod Deployment Prevented For",
-      "Trans": {"SC":"低温舱可部署冷却时间","JA":""},
+      "Trans": {"SC":"低温舱部署限制剩余","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -54143,8 +54992,7 @@
     {
       "NamespaceHash": "GraphLiteral::3114998412",
       "Source": "UNBLOCK MODS",
-      "Trans": {"SC":"疏通模组","JA":""},
-      //这个MODS意思不太明确意思, 可能和画质有关; 是模组的意思, 大致和疏通有关应该不会有错。
+      "Trans": {"SC":"解除模组屏蔽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置提示
     },
@@ -54158,7 +55006,7 @@
     {
       "NamespaceHash": "GraphLiteral::2631877003",
       "Source": "Are you sure you want to unblock all mods?",
-      "Trans": {"SC":"你确定要疏通全部模组吗?","JA":""},
+      "Trans": {"SC":"确定要解除所有模组的屏蔽吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //设置提示
     },
@@ -56015,7 +56863,7 @@
     {
       "NamespaceHash": "GraphLiteral::2530406158",
       "Source": "Disable Consumables Transfer To Trough",
-      "Trans": {"SC":"禁用向饲料槽传送消耗品","JA":""},
+      "Trans": {"SC":"禁止向饲料槽传送消耗品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Content可能
     },
@@ -56028,13 +56876,13 @@
     {
       "NamespaceHash": "GraphLiteral::2391785086",
       "Source": "Enable Consumables Transfer To Trough",
-      "Trans": {"SC":"启用向饲料槽传送消耗品","JA":""},
+      "Trans": {"SC":"允许向饲料槽传送消耗品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1359741631",
       "Source": "Disable Ambient Insect VFX (Restart Required)",
-      "Trans": {"SC":"禁用环境昆虫视觉效果 (需要重启)","JA":""},
+      "Trans": {"SC":"禁用环境昆虫特效 (需要重启)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63204,13 +64052,13 @@
       "NamespaceHash": "GraphLiteral::1443311312",
       "Source": "Cinematic Lighting Mode (EXPENSIVE)",
       //设置
-      "Trans": {"SC":"电影级光照模式 (功耗大)","JA":""},
+      "Trans": {"SC":"电影级光照模式 (高功耗)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3951990531",
       "Source": "Hide Enemy Structure Cosmetics:",
-      "Trans": {"SC":"隐藏敌方建筑的皮肤外观:","JA":""},
+      "Trans": {"SC":"隐藏敌方建筑的皮肤:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -69184,7 +70032,7 @@
     {
       "NamespaceHash": "Content::72931944",
       "Source": "Your dog will not gain extra experience unless they are in companion mode.",
-      "Trans": {"SC":"铠护犬没有处于伴随模式, 它将无法获得额外经验。","JA":""},
+      "Trans": {"SC":"只有在伴随模式下，你的小家伙才能获得额外经验。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70235,7 +71083,7 @@
     {
       "NamespaceHash": "Content::2261483315",
       "Source": " in Last Item Slot To Feed!",
-      "Trans": {"SC":" 到最右侧的物品栏来喂养!","JA":""},
+      "Trans": {"SC":" 到最右侧的物品栏来喂食!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -73463,13 +74311,13 @@
     {
       "NamespaceHash": "Content::870036436",
       "Source": "+15% damage from witnessing Dreadnoughtus' accuracy",
-      "Trans": {"SC":"目睹无畏龙的精准度, 可提高15%伤害。","JA":""},
+      "Trans": {"SC":"目睹无畏巨龙的精准度, 可提高15%伤害。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1308429465",
       "Source": "EMP'd creatures are attracted to the Dreadnoughtus",
-      "Trans": {"SC":"受电磁脉冲影响的生物会被无畏龙吸引。","JA":""},
+      "Trans": {"SC":"受电磁脉冲影响的生物会被无畏巨龙吸引。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -74704,7 +75552,7 @@
     {
       "NamespaceHash": "Content::577961099",
       "Source": "Common name:\nBrontosaurus\nSpecies: Brontosaurus lazarus\nTime: Late Cretaceous\nDiet: Herbivore\nTemperament: Docile\n\nWild\nAmong giant creatures I've seen on the Island, Brontosaurus lazarus is larger than any sauropod I've read about. In fact, the dinosaur is so massive that it serenely ignores most other creatures.\n\nI've seen a pack of raptors tear apart small dinosaurs while Brontosaurus continues eating, seemingly oblivious to the hunting pack. \n\nDomesticated\nBecause of how docile it is, the Brontosaurus makes for an ideal pack animal. Peaceful tribes use it to carry incredible quantities of resources, while warring tribes use it to mobilize their army. Its size and strength make it one of the unique creatures on the Island that can support a \"platform\" saddle. Unfortunately, its enormity means that the process of taming a Brontosaurus can take a very long time.\n\nSome may think this is an Apatosaurus, Dreadnoughtus, Argentinosaurus, or some other sauropod, but this is a strange Island, and I'm the one doing the research. I'm convinced that this genus is Brontosaurus, and no one can tell me otherwise. My study, my rules.",
-      "Trans": {"SC":"通用名称: 雷龙\r\n拉丁学名: Brontosaurus lazarus\r\n正式名称: 神佑雷龙\r\n时代: 晚白垩世\r\n食性: 植食\r\n性情: 被动\r\n\r\n\r\n野生\r\n雷龙是我在岛上看到的最大生物, 它比我知道的任何蜥脚类动物都要大。事实上, 这种恐龙太巨大了以至于它们会忽略大多数其他生物。\r\n我曾看到一群迅猛龙在雷龙面前猎杀小型恐龙, 而雷龙却淡定的进食, 就好像猎杀小队不存在一样。\r\n\r\n\r\n家养\r\n由于雷龙温顺的性情, 雷龙是驮兽的不二选择。和平部落用它来携带大量的资源, 而好战部落则用它来运输调动他们的军队。\r\n它的体型和力量使其成为可以承载平台鞍的独特生物之一。唯一的遗憾是, 雷龙的巨大身躯也使驯化过程几乎比岛上其他任何生物都要久。\r\n你也许会认为这应该是一头迷惑龙, 无畏龙, 阿根廷龙, 或其他蜥脚类恐龙--但这是一个奇怪的岛, 而我才是这的研究员。所以我可以肯定的告诉你这绝对是一头雷龙, 绝无其他可能。我的研究我做主!","JA":""},
+      "Trans": {"SC":"通用名称: 雷龙\r\n拉丁学名: Brontosaurus lazarus\r\n正式名称: 神佑雷龙\r\n时代: 晚白垩世\r\n食性: 植食\r\n性情: 被动\r\n\r\n\r\n野生\r\n雷龙是我在岛上看到的最大生物, 它比我知道的任何蜥脚类动物都要大。事实上, 这种恐龙太巨大了以至于它们会忽略大多数其他生物。\r\n我曾看到一群迅猛龙在雷龙面前猎杀小型恐龙, 而雷龙却淡定的进食, 就好像猎杀小队不存在一样。\r\n\r\n\r\n家养\r\n由于雷龙温顺的性情, 雷龙是驮兽的不二选择。和平部落用它来携带大量的资源, 而好战部落则用它来运输调动他们的军队。\r\n它的体型和力量使其成为可以承载平台鞍的独特生物之一。唯一的遗憾是, 雷龙的巨大身躯也使驯化过程几乎比岛上其他任何生物都要久。\r\n你也许会认为这应该是一头迷惑龙, 无畏巨龙, 阿根廷龙, 或其他蜥脚类恐龙--但这是一个奇怪的岛, 而我才是这的研究员。所以我可以肯定的告诉你这绝对是一头雷龙, 绝无其他可能。我的研究我做主!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -75585,7 +76433,7 @@
     {
       "NamespaceHash": "GraphLiteral::640217255",
       "Source": "Harvest 1,000 Raw Meat",
-      "Trans": {"SC":"采集 1,000 份生肉","JA":""},
+      "Trans": {"SC":"采集 1,000 生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -75711,25 +76559,25 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::1786442953",
       "Source": "Kill 1 Neophyte",
-      "Trans": {"SC":"击杀1名新侍徒","JA":""},
+      "Trans": {"SC":"击杀1名猎杀者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2218117884",
       "Source": "Kill 1 Neophyte Assassins at Challenge Tier 1 or above",
-      "Trans": {"SC":"在挑战级别一或以上, 击杀 1 只猎杀者","JA":""},
+      "Trans": {"SC":"击杀 1 只一阶或以上的猎杀者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2928245364",
       "Source": "Kill 1 Neophyte Assassins at Challenge Tier 2 or above",
-      "Trans": {"SC":"在挑战级别二或以上, 击杀 1 只猎杀者","JA":""},
+      "Trans": {"SC":"击杀 1 只二阶或以上的猎杀者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::30271539",
       "Source": "Kill 1 Neophyte Assassins at Challenge Tier 3 or above",
-      "Trans": {"SC":"在挑战级别三或以上, 击杀 1 只猎杀者","JA":""},
+      "Trans": {"SC":"击杀 1 只三阶或以上的猎杀者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -75789,7 +76637,7 @@
     {
       "NamespaceHash": "GraphLiteral::2359371804",
       "Source": "Kill 1 Thrall Snarer",
-      "Trans": {"SC":"杀死 1 名血仆擒拿手","JA":""},
+      "Trans": {"SC":"杀死 1 名血仆擒拿兵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -77526,7 +78374,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::808050534",
       "Source": "Harvest 50,000 Obsidian",
-      "Trans": {"SC":"采集 50,000 份黑曜石","JA":""},
+      "Trans": {"SC":"采集 50,000 黑曜石","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -77898,6 +78746,366 @@
   ],
   //龙之国度技能 & 任务 - 2026-07-17 11:24:53
   "Dragontopia": [
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1691756546",
+      "Source": "Claim 1 baby Gargantar",
+      "Trans": {"SC":"认领 1 只伽甘塔尔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::788027644",
+      "Source": "Claim 2 baby Gargantar",
+      "Trans": {"SC":"认领 2 只伽甘塔尔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2714596713",
+      "Source": "Claim 3 baby Gargantar",
+      "Trans": {"SC":"认领 3 只伽甘塔尔幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2611626622",
+      "Source": "Deal 10000 damage to swallowed enemies with a Gargantar's Acid Reflux",
+      "Trans": {"SC":"用伽甘塔尔的胃酸侵蚀对腹中敌人造成 10000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1708380408",
+      "Source": "Deal 15000 damage with a Gargantar's spit",
+      "Trans": {"SC":"用伽甘塔尔的酸液喷吐造成 15000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::997226138",
+      "Source": "Deal 15000 damage with a Gargantar's vomit",
+      "Trans": {"SC":"用伽甘塔尔的腐液呕吐造成 15000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3936994517",
+      "Source": "Deal 2000 damage to swallowed enemies with a Gargantar's Acid Reflux",
+      "Trans": {"SC":"用伽甘塔尔的胃酸侵蚀对腹中敌人造成 2000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::6613640",
+      "Source": "Deal 2000 damage with a Gargantar's spit",
+      "Trans": {"SC":"用伽甘塔尔的酸液喷吐造成 2000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4025424872",
+      "Source": "Deal 2000 damage with a Gargantar's vomit",
+      "Trans": {"SC":"用伽甘塔尔的腐液呕吐造成 2000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3742415866",
+      "Source": "Deal 250000 damage while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔造成 250000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3703416745",
+      "Source": "Deal 30000 damage to swallowed enemies with a Gargantar's Acid Reflux",
+      "Trans": {"SC":"用伽甘塔尔的胃酸侵蚀对腹中敌人造成 30000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1288940466",
+      "Source": "Deal 5000 damage while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔造成 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3306834579",
+      "Source": "Deal 50000 damage while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4274450928",
+      "Source": "Deal 50000 damage with a Gargantar's spit",
+      "Trans": {"SC":"用伽甘塔尔的酸液喷吐造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2535710330",
+      "Source": "Deal 50000 damage with a Gargantar's vomit",
+      "Trans": {"SC":"用伽甘塔尔的腐液呕吐造成 50000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3393547017",
+      "Source": "Dive for 2500m while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔俯冲 2500 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3496254919",
+      "Source": "Dive for 500m while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔俯冲 500 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1927492623",
+      "Source": "Dive for 7500m while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔俯冲 7500 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3058968618",
+      "Source": "Grab 15 enemy creatures with a Gargantar",
+      "Trans": {"SC":"用伽甘塔尔吞纳 15 只敌对生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2959996789",
+      "Source": "Grab 3 enemy creatures with a Gargantar",
+      "Trans": {"SC":"用伽甘塔尔吞纳 3 只敌对生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1977135172",
+      "Source": "Grab 40 enemy creatures with a Gargantar",
+      "Trans": {"SC":"用伽甘塔尔吞纳 40 只敌对生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::761028522",
+      "Source": "Harvest 100 crystal riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 100 水晶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3441212131",
+      "Source": "Harvest 100 obsidian riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 100 黑曜石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1702124813",
+      "Source": "Harvest 100 raw meat riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 100 生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::673552647",
+      "Source": "Harvest 1000 crystal riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 1000 水晶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3250602007",
+      "Source": "Harvest 1000 raw meat riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 1000 生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1510280365",
+      "Source": "Harvest 10000 metal riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 10000 金属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3393542163",
+      "Source": "Harvest 150 prime meat riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 150 优质生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::91061683",
+      "Source": "Harvest 150 rare mushrooms riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 150 稀有蘑菇","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3511008383",
+      "Source": "Harvest 20000 wood riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 20000 木头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1734474668",
+      "Source": "Harvest 25 prime meat riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 25 优质生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1907224477",
+      "Source": "Harvest 25 rare mushrooms riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 25 稀有蘑菇","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2756025813",
+      "Source": "Harvest 250 metal riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 250 金属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2807693482",
+      "Source": "Harvest 2500 metal riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 2500 金属","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::240602527",
+      "Source": "Harvest 3000 obsidian riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 3000 黑曜石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1464438663",
+      "Source": "Harvest 4000 crystal riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 4000 水晶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::413243373",
+      "Source": "Harvest 500 prime meat riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 500 优质生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2839467347",
+      "Source": "Harvest 500 rare mushrooms riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 500 稀有蘑菇","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3226097621",
+      "Source": "Harvest 500 wood riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 500 木头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::239047899",
+      "Source": "Harvest 5000 raw meat riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 5000 生肉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3626602404",
+      "Source": "Harvest 5000 wood riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 5000 木头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2531130586",
+      "Source": "Harvest 750 obsidian riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔采集 750 黑曜石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4229161970",
+      "Source": "Kill 10 creatures while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔击杀 10 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3599357502",
+      "Source": "Kill 10 wild Gargantar",
+      "Trans": {"SC":"击杀 10 只野生伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2043641432",
+      "Source": "Kill 20 wild Gargantar",
+      "Trans": {"SC":"击杀 20 只野生伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3194323524",
+      "Source": "Kill 250 creatures while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔击杀 250 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1138356543",
+      "Source": "Kill 3 wild Gargantar",
+      "Trans": {"SC":"击杀 3 只野生伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3051651622",
+      "Source": "Kill 75 creatures while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔击杀 75 只生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4215288954",
+      "Source": "Receive 1000 damage while a Gargantar is in Fortress mode",
+      "Trans": {"SC":"让伽甘塔尔在堡垒姿态下承受 1000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3156729522",
+      "Source": "Receive 1000 damage while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔承受 1000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::251764436",
+      "Source": "Receive 15000 damage while a Gargantar is in Fortress mode",
+      "Trans": {"SC":"让伽甘塔尔在堡垒姿态下承受 15000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3861252676",
+      "Source": "Receive 15000 damage while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔承受 15000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3220136931",
+      "Source": "Receive 5000 damage while a Gargantar is in Fortress mode",
+      "Trans": {"SC":"让伽甘塔尔在堡垒姿态下承受 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::654044742",
+      "Source": "Receive 5000 damage while riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔承受 5000 点伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3332562825",
+      "Source": "Tame 1 Gargantar",
+      "Trans": {"SC":"驯服 1 只伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3101333295",
+      "Source": "Tame 2 Gargantar",
+      "Trans": {"SC":"驯服 2 只伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2465378125",
+      "Source": "Tame 3 Gargantar",
+      "Trans": {"SC":"驯服 3 只伽甘塔尔","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3140244624",
+      "Source": "Travel 25000 meters riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔移动 25000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2115800824",
+      "Source": "Travel 5000 meters riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔移动 5000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3292545552",
+      "Source": "Travel 75000 meters riding a Gargantar",
+      "Trans": {"SC":"骑乘伽甘塔尔移动 75000 米","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::1529521308",
       "Source": "Claim 3 baby Umbra",
@@ -79074,25 +80282,25 @@
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::3968953181",
       "Source": "Harvest 100 raw meats (any type) riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 100 块任意类型生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 100 任意类型生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::2259464484",
       "Source": "Harvest 250 raw meats (any type) riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 250 块任意类型生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 250 任意类型生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::1603185768",
       "Source": "Harvest 500 raw meats (any type) riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 500 块任意类型生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 500 任意类型生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::1901469262",
       "Source": "Harvest 50 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
-      "Trans": {"SC":"骑乘幽影仔采集 50 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Trans": {"SC":"骑乘幽影仔采集 50 优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -79422,67 +80630,67 @@
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::1249231440",
       "Source": "Harvest 1000 raw meats (any type) riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 1000 块任意类型生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 1000 任意类型生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::3405635756",
       "Source": "Harvest 150 prime meat riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 150 份优质生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 150 优质生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::2055999818",
       "Source": "Harvest 1500 raw meat riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 1500 份生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 1500 生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::1507014778",
       "Source": "Harvest 250 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
-      "Trans": {"SC":"骑乘幽影仔采集 250 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Trans": {"SC":"骑乘幽影仔采集 250 优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::466836824",
       "Source": "Harvest 2500 raw meats (any type) riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 2500 块任意类型生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 2500 任意类型生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::3892192329",
       "Source": "Harvest 300 prime meat riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 300 份优质生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 300 优质生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::2085012629",
       "Source": "Harvest 3000 raw meat riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 3000 份生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 3000 生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::1477845604",
       "Source": "Harvest 50 prime meat riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 50 份优质生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 50 优质生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::226466361",
       "Source": "Harvest 500 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
-      "Trans": {"SC":"骑乘幽影仔采集 500 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Trans": {"SC":"骑乘幽影仔采集 500 优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::859533292",
       "Source": "Harvest 500 raw meat riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 500 份生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 500 生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::2253563566",
       "Source": "Harvest 5000 raw meats (any type) riding Umbra/Lumina",
-      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 5000 块任意类型生肉","JA":""},
+      "Trans": {"SC":"骑乘幽影仔/皎光仔采集 5000 任意类型生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -81945,7 +83153,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::4091082353",
       "Source": "Kill 1 Dreadnoughtus",
-      "Trans": {"SC":"击杀1只无畏龙","JA":""},
+      "Trans": {"SC":"击杀1只无畏巨龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83817,7 +85025,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::1853145295",
       "Source": "Kill 5 Dreadnoughtus",
-      "Trans": {"SC":"击杀5只无畏龙","JA":""},
+      "Trans": {"SC":"击杀5只无畏巨龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85575,7 +86783,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1394512796",
       "Source": "Kill 25 Dreadnoughtus",
-      "Trans": {"SC":"击杀25只无畏龙","JA":""},
+      "Trans": {"SC":"击杀25只无畏巨龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

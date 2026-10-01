@@ -67,12 +67,12 @@
       "Trans": {"SC":"封禁玩家","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::2445688470",
-      "Source": "Character",
-      "Trans": {"SC":"角色","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2445688470",
+    //  "Source": "Character",
+    //  "Trans": {"SC":"角色","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::609921349",
       "Source": "Kill Player",
@@ -301,18 +301,18 @@
       "Trans": {"SC":"未选中部落","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::3584009128",
-      "Source": "Bases",
-      "Trans": {"SC":"基地","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2896121827",
-      "Source": "Radius",
-      "Trans": {"SC":"半径","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::3584009128",
+    //  "Source": "Bases",
+    //  "Trans": {"SC":"基地","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::2896121827",
+    //  "Source": "Radius",
+    //  "Trans": {"SC":"半径","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::664534613",
       "Source": "Selected Tribe",
@@ -427,12 +427,12 @@
       "Trans": {"SC":"品质等级：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::4158460561",
-      "Source": "Advanced",
-      "Trans": {"SC":"高级","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::4158460561",
+    //  "Source": "Advanced",
+    //  "Trans": {"SC":"高级","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3690853182",
       "Source": "Instant List Load?",
@@ -511,12 +511,12 @@
       "Trans": {"SC":"中立","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::3720490280",
-      "Source": "Colors",
-      "Trans": {"SC":"颜色","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::3720490280",
+    //  "Source": "Colors",
+    //  "Trans": {"SC":"颜色","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3846055636",
       "Source": "Traits",
@@ -715,18 +715,18 @@
       "Trans": {"SC":"高亮模式：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3663844954"}
     },
-    {
-      "NamespaceHash": "Content::2193078702",
-      "Source": "Highlight",
-      "Trans": {"SC":"高亮","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3436284499",
-      "Source": "Cross",
-      "Trans": {"SC":"十字标","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2193078702",
+    //  "Source": "Highlight",
+    //  "Trans": {"SC":"高亮","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::3436284499",
+    //  "Source": "Cross",
+    //  "Trans": {"SC":"十字标","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1586318708",
       "Source": "Scan Speed:",
@@ -1916,48 +1916,48 @@
       "Trans": {"SC":"给予并装备","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::604822831",
-      "Source": "Primary",
-      "Trans": {"SC":"主要","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::604822831",
+    //  "Source": "Primary",
+    //  "Trans": {"SC":"主要","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::772923090",
       "Source": "Bound To Fire",
       "Trans": {"SC":"绑定到开火键","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::3780089940",
-      "Source": "Secondary",
-      "Trans": {"SC":"次要","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::3780089940",
+    //  "Source": "Secondary",
+    //  "Trans": {"SC":"次要","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1016877599",
       "Source": "Bound To Iron Sights",
       "Trans": {"SC":"绑定到瞄准键","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::216312346",
-      "Source": "Tertiary",
-      "Trans": {"SC":"第三","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::216312346",
+    //  "Source": "Tertiary",
+    //  "Trans": {"SC":"第三","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::2481580151",
       "Source": "Bound To Weapon Whip",
       "Trans": {"SC":"绑定到武器挥击键","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::4113650261",
-      "Source": "Quartiary",
-      "Trans": {"SC":"第四","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::4113650261",
+    //  "Source": "Quartiary",
+    //  "Trans": {"SC":"第四","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3640449743",
       "Source": "Bound To Toggle Weapon Attachment",
@@ -2117,7 +2117,7 @@
     {
       "NamespaceHash": "Content::905481885",
       "Source": "Fly",
-      "Trans": {"SC":"飞行","JA":""},
+      "Trans": {"SC":"飞行","JA":""}, //不建议翻译.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2222,12 +2222,12 @@
       "Trans": {"SC":"以低温舱形式生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::1501789510",
-      "Source": "DinoName",
-      "Trans": {"SC":"生物名称","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::1501789510",
+    //  "Source": "DinoName",
+    //  "Trans": {"SC":"生物名称","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3096253765",
       "Source": "bUseExactStats",
@@ -2516,18 +2516,18 @@
       "Trans": {"SC":"需保持在线","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::1971594676",
-      "Source": "Sphere",
-      "Trans": {"SC":"球形","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::13489508",
-      "Source": "Box",
-      "Trans": {"SC":"方形","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::1971594676",
+    //  "Source": "Sphere",
+    //  "Trans": {"SC":"球形","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::13489508",
+    //  "Source": "Box",
+    //  "Trans": {"SC":"方形","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::2717444657",
       "Source": "Information",
@@ -2594,12 +2594,12 @@
       "Trans": {"SC":"在线玩家","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::1907614693",
-      "Source": "Player",
-      "Trans": {"SC":"玩家","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::1907614693",
+    //  "Source": "Player",
+    //  "Trans": {"SC":"玩家","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::2363137679",
       "Source": "Load Uncached Dinos",
@@ -2624,36 +2624,36 @@
       "Trans": {"SC":"已选中的恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::989087735",
-      "Source": "Paste",
-      "Trans": {"SC":"粘贴","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::989087735",
+    //  "Source": "Paste",
+    //  "Trans": {"SC":"粘贴","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::2256692018",
       "Source": "Paste & Possess",
       "Trans": {"SC":"粘贴并占据","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::1732284524",
-      "Source": "Destroy",
-      "Trans": {"SC":"销毁","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1164971707",
-      "Source": "UnLock",
-      "Trans": {"SC":"解锁","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3203963959",
-      "Source": "Claim",
-      "Trans": {"SC":"认领","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::1732284524",
+    //  "Source": "Destroy",
+    //  "Trans": {"SC":"销毁","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::1164971707",
+    //  "Source": "UnLock",
+    //  "Trans": {"SC":"解锁","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::3203963959",
+    //  "Source": "Claim",
+    //  "Trans": {"SC":"认领","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3227875089",
       "Source": "Duplicate",
@@ -2666,24 +2666,24 @@
       "Trans": {"SC":"生成恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::2955836799",
-      "Source": "Possess",
-      "Trans": {"SC":"占据","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::15923404",
-      "Source": "Imprint",
-      "Trans": {"SC":"印记","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::195855522",
-      "Source": "Copy",
-      "Trans": {"SC":"复制","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2955836799",
+    //  "Source": "Possess",
+    //  "Trans": {"SC":"占据","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::15923404",
+    //  "Source": "Imprint",
+    //  "Trans": {"SC":"印记","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::195855522",
+    //  "Source": "Copy",
+    //  "Trans": {"SC":"复制","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::2087491912",
       "Source": "Paste Settings",
@@ -2720,36 +2720,36 @@
       "Trans": {"SC":"自动射击","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::2208731584",
-      "Source": "Download",
-      "Trans": {"SC":"下载","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2973205167",
-      "Source": "Upload",
-      "Trans": {"SC":"上传","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2208731584",
+    //  "Source": "Download",
+    //  "Trans": {"SC":"下载","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::2973205167",
+    //  "Source": "Upload",
+    //  "Trans": {"SC":"上传","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1347912694",
       "Source": "QUICK BUFFS",
       "Trans": {"SC":"快捷BUFFS","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::4196783992",
-      "Source": "Primairy",
-      "Trans": {"SC":"第一","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1086775",
-      "Source": "Secondairy",
-      "Trans": {"SC":"第二","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::4196783992",
+    //  "Source": "Primairy",
+    //  "Trans": {"SC":"第一","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::1086775",
+    //  "Source": "Secondairy",
+    //  "Trans": {"SC":"第二","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1790488426",
       "Source": "Kill the target actor",
@@ -2834,18 +2834,18 @@
       "Trans": {"SC":"退出管理员模式","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::2689354834",
-      "Source": "Mutation",
-      "Trans": {"SC":"突变","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1818931748",
-      "Source": "Server",
-      "Trans": {"SC":"服务器","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2689354834",
+    //  "Source": "Mutation",
+    //  "Trans": {"SC":"突变","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::1818931748",
+    //  "Source": "Server",
+    //  "Trans": {"SC":"服务器","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::315098708",
       "Source": "Search By Player Name Or ID",
@@ -2864,12 +2864,12 @@
       "Trans": {"SC":"扫描服务器以查找新的恐龙类别。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::2705952837",
-      "Source": "Target",
-      "Trans": {"SC":"目标","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2705952837",
+    //  "Source": "Target",
+    //  "Trans": {"SC":"目标","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1087163215",
       "Source": "Exact Stats",
@@ -2945,13 +2945,13 @@
       "Trans": {"SC":"补给信标","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::2045334908",
-      "Source": "Supply Crates",
-      //没生效
-      "Trans": {"SC":"补给箱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2045334908",
+    //  "Source": "Supply Crates",
+    //  //没生效
+    //  "Trans": {"SC":"补给箱","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3724587709",
       "Source": "Any Structure",
@@ -3031,18 +3031,18 @@
       "Trans": {"SC":"邮件","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::539996912",
-      "Source": "Saddled",
-      "Trans": {"SC":"装鞍","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1414990227",
-      "Source": "HP",
-      "Trans": {"SC":"生命","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::539996912",
+    //  "Source": "Saddled",
+    //  "Trans": {"SC":"装鞍","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::1414990227",
+    //  "Source": "HP",
+    //  "Trans": {"SC":"生命","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::4209292217",
       "Source": "ST",
@@ -3375,13 +3375,13 @@
       "Trans": {"SC":"新页面","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::432756454",
-      "Source": "KeyBinds",
-      "Trans": {"SC":"按键绑定","JA":""},
-      //没生效
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::432756454",
+    //  "Source": "KeyBinds",
+    //  "Trans": {"SC":"按键绑定","JA":""},
+    //  //没生效
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3345382766",
       "Source": "Open AATMenu",
@@ -3418,12 +3418,12 @@
       "Trans": {"SC":"使用管理工具第三操作的按键绑定。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::3295386321",
-      "Source": "Quarternary",
-      "Trans": {"SC":"第四","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::3295386321",
+    //  "Source": "Quarternary",
+    //  "Trans": {"SC":"第四","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1536971220",
       "Source": "Keybind to use the quarternary action of the Admin Tool.",
@@ -3598,12 +3598,12 @@
       "Trans": {"SC":"选择时关闭","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::777147404",
-      "Source": "Quaternary",
-      "Trans": {"SC":"第四","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::777147404",
+    //  "Source": "Quaternary",
+    //  "Trans": {"SC":"第四","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1898137728",
       "Source": "No settings available.",
@@ -3744,20 +3744,20 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //以下是玩家页面按钮不生效
-    {
-      "NamespaceHash": "Content::3002416456",
-      "Source": "Online",
-      "Trans": {"SC":"在线","JA":""},
-      //按钮没生效先保留
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3317214507",
-      "Source": "Offline",
-      "Trans": {"SC":"离线","JA":""},
-      //按钮没生效先保留
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::3002416456",
+    //  "Source": "Online",
+    //  "Trans": {"SC":"在线","JA":""},
+    //  //按钮没生效先保留
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::3317214507",
+    //  "Source": "Offline",
+    //  "Trans": {"SC":"离线","JA":""},
+    //  //按钮没生效先保留
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::2721769209",
       "Source": "History",
@@ -3766,13 +3766,13 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //以下是配置页面按钮不生效
-    {
-      "NamespaceHash": "Content::1917945924",
-      "Source": "Configuration",
-      "Trans": {"SC":"配置","JA":""},
-      //按钮没生效先保留
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::1917945924",
+    //  "Source": "Configuration",
+    //  "Trans": {"SC":"配置","JA":""},
+    //  //按钮没生效先保留
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1910380285",
       "Source": "AAT Discord Bot",
@@ -3788,12 +3788,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //区域生成器页面不生效的按钮 Zone Players Dinos Structures
-    {
-      "NamespaceHash": "Content::2783072981",
-      "Source": "Identity",
-      "Trans": {"SC":"身份","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::2783072981",
+    //  "Source": "Identity",
+    //  "Trans": {"SC":"身份","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::2633888391",
       "Source": "Priority Information",
@@ -3812,36 +3812,36 @@
       "Trans": {"SC":"好的，我明白了","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::963322399",
-      "Source": "Priority",
-      "Trans": {"SC":"优先级","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1000361607",
-      "Source": "Dimensions",
-      "Trans": {"SC":"尺寸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::743405946",
-      "Source": "Shape",
-      "Trans": {"SC":"形状","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3120896384",
-      "Source": "Visual",
-      "Trans": {"SC":"视觉","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1666336568",
-      "Source": "foundations",
-      "Trans": {"SC":"基础","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::963322399",
+    //  "Source": "Priority",
+    //  "Trans": {"SC":"优先级","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::1000361607",
+    //  "Source": "Dimensions",
+    //  "Trans": {"SC":"尺寸","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::743405946",
+    //  "Source": "Shape",
+    //  "Trans": {"SC":"形状","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::3120896384",
+    //  "Source": "Visual",
+    //  "Trans": {"SC":"视觉","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::1666336568",
+    //  "Source": "foundations",
+    //  "Trans": {"SC":"基础","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::1613937534",
       "Source": "Affected Structures",
@@ -3872,24 +3872,24 @@
       "Trans": {"SC":"新增一个增益效果","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::438339643",
-      "Source": "Confirm",
-      "Trans": {"SC":"确认","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3882954527",
-      "Source": "Quality",
-      "Trans": {"SC":"品质","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::27200819",
-      "Source": "Blueprint",
-      "Trans": {"SC":"蓝图","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::438339643",
+    //  "Source": "Confirm",
+    //  "Trans": {"SC":"确认","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::3882954527",
+    //  "Source": "Quality",
+    //  "Trans": {"SC":"品质","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::27200819",
+    //  "Source": "Blueprint",
+    //  "Trans": {"SC":"蓝图","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::3540264686",
       "Source": "Quality Tier",
@@ -3902,12 +3902,12 @@
       "Trans": {"SC":"加载新物品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::3245581654",
-      "Source": "Qualitylndex",
-      "Trans": {"SC":"品质索引","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },//不生效，暂时保留
+    //{
+    //  "NamespaceHash": "Content::3245581654",
+    //  "Source": "Qualitylndex",
+    //  "Trans": {"SC":"品质索引","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},//不生效，暂时保留
     {
       "NamespaceHash": "Content::1181567291",
       "Source": "PlayerTarget",
@@ -3920,12 +3920,12 @@
       "Trans": {"SC":"启用调试悬浮层","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "Content::3007997848",
-      "Source": "Visible",
-      "Trans": {"SC":"可见","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "Content::3007997848",
+    //  "Source": "Visible",
+    //  "Trans": {"SC":"可见","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "Content::474714926",
       "Source": "LOAD NEW DINOS",

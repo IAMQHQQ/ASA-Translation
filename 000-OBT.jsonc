@@ -17815,6 +17815,12 @@
       "Trans": {"SC":"高","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
+        {
+      "NamespaceHash": "Globals::546374199",
+      "Source": "High",
+      "Trans": {"SC":"远","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::4239812965",
       "Source": "High (40 KB/s)",
@@ -32386,7 +32392,7 @@
     {
       "NamespaceHash": "Content::4170333872",
       "Source": "Shielded",
-      "Trans": {"SC":"已有护盾","JA":"已有護盾"},
+      "Trans": {"SC":"护盾","JA":"護盾"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55516,7 +55522,7 @@
     {
       "NamespaceHash": "GraphLiteral::3811637939",
       "Source": "+{NumLevels} Available!",
-      "Trans": {"SC":"+{NumLevels}级可用!","JA":""},
+      "Trans": {"SC":"+{NumLevels}点可用!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60632,6 +60638,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "Globals::1546270943",
+      "Source": "TILT: ",
+      "Trans": { "SC": "俯仰: ", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
       "NamespaceHash": "GraphLiteral::1653613316",
       "Source": "MOVE DOWN: ",
       "Trans": {"SC":"向下移动: ","JA":""},
@@ -65228,12 +65240,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2450397291",
-      "Source": "View Harvesting Levels      ",
-      "Trans": {"SC":"查看采集等级        ","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::3371692479",
       "Source": "View Tracking Delay",
       "Trans": {"SC":"视角追踪延迟","JA":""},
@@ -67421,15 +67427,9 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::578500379",
-      "Source": "+Additional ",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::801524908",
       "Source": "ARMOR",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"护甲","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
