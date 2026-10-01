@@ -231,7 +231,7 @@
     {
       "NamespaceHash": "Content::4260182215",
       "Source": "Chibi-Megaraptor",
-      "Trans": {"SC":"袖珍巨盗龙","JA":""},
+      "Trans": {"SC":"袖珍-大盗龙","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
