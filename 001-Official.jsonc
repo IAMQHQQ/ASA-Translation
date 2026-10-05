@@ -1,6 +1,288 @@
 {
   "Official": [
     {
+      "NamespaceHash": "42B88DE64737A93B3EA4D6802B3685FE", //PhotoMode
+      "Source": "Fog",
+      "Trans": {"SC":"大雾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"196192722"}
+    },
+    {
+      "NamespaceHash": "947F108C4437A2FFB72BE5B3E6A55DDD", //PhotoMode
+      "Source": "Heatwave",
+      "Trans": {"SC":"热浪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4235596400"}
+    },
+    {
+      "NamespaceHash": "606D93FD46F2F6002DAE3AA5BC2FC739", //PhotoMode
+      "Source": "Coldfront",
+      "Trans": {"SC":"冷空气","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1078518539"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1619483412", //PhotoMode
+      "Source": "RELATIVE",
+      "Trans": {"SC":"相对","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3947755347", //PhotoMode
+      "Source": "ABSOLUTE",
+      "Trans": {"SC":"绝对","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4200521010",
+      "Source": "Cooldown %s",
+      "Trans": {"SC":"冷却 %s","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::2331047801",
+      "Source": "You are not bonded with this dragon.",
+      "Trans": {"SC":"你还未与这只龙缔结契约。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2992744431",
+      "Source": "Damage received from Cerberax increased by 5% per stack",
+      "Trans": {"SC":"三相狱犬对你造成的伤害每层提高5%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3710952621",
+      "Source": "Cerberax Burn",
+      "Trans": {"SC":"三相狱犬灼烧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4176681895",
+      "Source": "Cerberax Dominion",
+      "Trans": {"SC":"三相狱犬统御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::602440253",
+      "Source": "Cerberax Venom",
+      "Trans": {"SC":"三相狱犬毒液","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1133462860",
+      "Source": "Cerberus Passenger",
+      "Trans": {"SC":"三相狱犬乘客","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3229741455",
+      "Source": "Cerberus Wild Riding",
+      "Trans": {"SC":"骑乘野生三相狱犬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2336559149",
+      "Source": "Venom Breath",
+      "Trans": {"SC":"毒液吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1592947524",
+      "Source": "Inhale Range",
+      "Trans": {"SC":"吞吸范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1411179095",
+      "Source": "Inhale:",
+      "Trans": {"SC":"吞吸:","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1732889933",
+      "Source": "Drop Quality Weapons & Tools to Tame",
+      "Trans": {"SC":"丢下高品质武器或工具进行驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2569636040",
+      "Source": "Dominion Roar",
+      "Trans": {"SC":"统御咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3988036250",
+      "Source": "Assert Dominance Over Cerberax!",
+      "Trans": {"SC":"压服三相狱犬!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2175022073",
+      "Source": "Common name: Cerberax \r\nSpecies:\t\tCerberax tricipitis\r\nTime:\t\t\tUnknown\r\nDiet:\t\t\tCarnivore\r\nTemperament:\tAggressive\r\n\r\nWild\r\nSomething affecting evolution on the ARKs seems to have a knack for mythology! Cerberax tricipitis is a huge three-headed canid, capable of taking on even a Rex or Ossidon in a fair fight. Anything short of a Giga or Carcha is going to have a tough time fighting Cerberax. Its sheer size allows it to take a beating, so be sure to make it bleed if you plan to fight one.\r\n\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\nDomesticated\r\nTaming Cerberax involves winning over not one, but three animals. When subdued by narcotics, all its adrenaline surges to a single head. By quickly mounting that head and placating its anger, you can wear down its reserves of energy. Another head will wake, so repeat until all three collapse and you can feed it into submission.\r\n\r\nOnce finally tamed, Cerberax is best ridden by a team of three Survivors. One Survivor controls the body and main head, while the other Survivors control the left and right heads to maximize combat efficiency. Working as a team, the three heads bolster each other's abilities to their maximum potential!",
+      "Trans": {"SC":"通用名称: 三相狱犬\r\n拉丁学名: Cerberax tricipitis\r\n时代: 未知\r\n食性: 肉食\r\n性情: 好斗\r\n\r\n野生\r\n影响方舟生物演化的那股力量, 看来还真对神话情有独钟! 三相狱犬长着三个头, 是犬类中的庞然大物, 足以与霸王龙或奥西顿正面抗衡。没有南方巨兽龙或鲨齿龙那样的实力, 想与它较量可不轻松。它身躯庞大, 格外耐打, 真要交战, 务必设法让它流血。\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\n驯养\r\n驯服三相狱犬, 等于同时收服三头野兽。麻醉剂将它放倒后, 全身的肾上腺素会涌向其中一个头。赶紧骑上那颗头, 平息它的怒火, 就能逐渐耗尽它的精力。接着, 又会有另一个头苏醒。如此反复, 直到三个头都瘫倒下来, 便可喂食将它驯服。\r\n驯服后的三相狱犬, 最适合由三名生存者共同驾驭。一人操控躯体和中首, 另外两人分别掌控左右二首, 分工协作, 战斗才最有效率。三首彼此助力, 才能将各自的本领发挥到极致!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1694854532",
+      "Source": "Output damage reduced by 5% per stack",
+      "Trans": {"SC":"每层使造成的伤害降低5%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1546270943",
+      "Source": "TILT: ",
+      "Trans": {"SC":"倾斜: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1574827247",
+      "Source": "Board Center Head",
+      "Trans": {"SC":"骑上中首","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2382311697",
+      "Source": "Board Left Head",
+      "Trans": {"SC":"骑上左首","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4248629747",
+      "Source": "Board Right Head",
+      "Trans": {"SC":"骑上右首","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1858514425", //buffname
+      "Source": "Threefold Dominion",
+      "Trans": {"SC":"三首统御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3681481484",
+      "Source": "Threefold Dominion {0}%",
+      "Trans": {"SC":"三首统御 {0}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3646967",
+      "Source": "+10% damage, damage resistance and cooldown reduction for each survivor controlling Cerberax",
+      "Trans": {"SC":"每名操控三相狱犬的生存者，都会使其伤害、伤害抗性与冷却缩减+10%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3987835968", //buffname
+      "Source": "Infernal Empowerment",
+      "Trans": {"SC":"炼狱强化","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::482979029",
+      "Source": "Cerberax Devour abilities gain additional effects",
+      "Trans": {"SC":"三相狱犬的吞噬类技能获得额外效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::42537763",
+      "Source": "Flaming Large Animal Feces",
+      "Trans": {"SC":"燃烧的大型动物粪便","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::518439347",
+      "Source": "Gargantar eats more than he can ever digest. That insatiable hunger makes him a voracious harvester and walking stockpile. Your steeds and supplies will enjoy the protection of his ample and sturdy gut.\r\n\r\nThe way into Gargantar's heart is through his stomach. Let him swallow you whole, then force him to gag and vomit you back up. While he is still queasy, take control and guide him to more appealing food.",
+      "Trans": {"SC":"伽甘塔尔的胃口永远填不满, 吃下的东西也远超它的消化能力。它既是采集好手, 又是一座移动仓库, 宽大厚实的肚腹还能为你的坐骑和物资提供庇护。\r\n\r\n想收服伽甘塔尔, 先得从它的胃下手。让它将你一口吞下, 再折腾得它反胃, 把你吐出来。趁它还没缓过劲, 骑上去, 带它寻找更合胃口的食物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2617446870",
+      "Source": "Devour Burn",
+      "Trans": {"SC":"吞噬烈焰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2851310957",
+      "Source": "Devour Venom",
+      "Trans": {"SC":"吞噬毒液","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3024993928",
+      "Source": "Burn Breath",
+      "Trans": {"SC":"烈焰吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1599237476",
+      "Source": "Ingest Cooldown",
+      "Trans": {"SC":"吞食冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1707025796",
+      "Source": "At 3 Swallow stacks, Gargantar can swallow you.",
+      "Trans": {"SC":"吞食印记达到3层后, 伽甘塔尔就能将你吞入腹中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2379497043",
+      "Source": "Inside Gargantar",
+      "Trans": {"SC":"身处伽甘塔尔腹中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2582858241",
+      "Source": " to escape!",
+      "Trans": {"SC":" 挣脱逃生!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::717114301",
+      "Source": " to get out",
+      "Trans": {"SC":" 离开腹中","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::215127420",
+      "Source": "Inhalation Mode",
+      "Trans": {"SC":"吞吸模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::847932352",
+      "Source": "Harvest All",
+      "Trans": {"SC":"采集全部","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2473486605",
+      "Source": "FILL",
+      "Trans": {"SC":"饱腹值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "4D715D26443FC76B44E021B66D16648F", //TLC镰刀龙
+      "Source": "Cross Swipe",
+      "Trans": {"SC":"双爪交叉攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1031530222"}
+    },
+    {
+      "NamespaceHash": "B8D3F3D243AA9D41A7E289B911B3118D", //TLC镰刀龙
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "C5B132B2450D86314713F8A1BF3AD446", //TLC镰刀龙
+      "Source": "Power Attack (Hold to repeat)",
+      "Trans": {"SC":"威力攻击 (按住可连续)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2246064815"}
+    },
+    {
+      "NamespaceHash": "E24994A4407ACF2465387C97651A0CA4", //TLC镰刀龙
+      "Source": "Delicate Attack",
+      "Trans": {"SC":"精细采集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"953718607"}
+    },
+    {
       "NamespaceHash": "1B3EDE5840017EE76F73729A9108255E", //OptionsMenu_PC_DLSS避免被二次翻译
       "Source": "Native",
       "Trans": {"SC":"Native","JA":""},
@@ -45,7 +327,7 @@
     {
       "NamespaceHash": "Content::257124096",
       "Source": "You cannot be ingested by Gargantar again",
-      "Trans": {"SC":"你暂时无法再次被伽甘塔尔吞食","JA":""},
+      "Trans": {"SC":"伽甘塔尔短时间内无法再次吞食你","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -64,12 +346,6 @@
       "NamespaceHash": "GraphLiteral::1570142138",
       "Source": "Put Taming Food in Last Item Slot To Feed!",
       "Trans": {"SC":"将驯服食物放到最右侧的物品栏来喂食!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2246064815",
-      "Source": "Power Attack (Hold to repeat)",
-      "Trans": {"SC":"强力攻击 (按住连续攻击)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -199,6 +475,12 @@
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "GraphLiteral::2224435742",
+      "Source": "Gargantar Skill Tree",
+      "Trans": {"SC":"伽甘塔尔技能树","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::1823383452",
       "Source": "Gargantar Skills",
       "Trans": {"SC":"伽甘塔尔技能","JA":""},
@@ -213,7 +495,7 @@
     {
       "NamespaceHash": "GraphLiteral::262169985",
       "Source": "Threat Display",
-      "Trans": {"SC":"威胁展示","JA":""},
+      "Trans": {"SC":"威吓","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -322,6 +604,18 @@
       "NamespaceHash": "GraphLiteral::1925025487",
       "Source": "Too far from the water surface.",
       "Trans": {"SC":"距离水面太远.","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2937507532", //昆卡猎龙
+      "Source": "Enable Trick Score Popups",
+      "Trans": {"SC":"开启特技得分提示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4080524831", //昆卡猎龙
+      "Source": "Disable Trick Score Popups",
+      "Trans": {"SC":"关闭特技得分提示","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -437,6 +731,24 @@
       "Source": "Increases Cosmic Power",
       "Trans": {"SC":"提升宇宙之力","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::80632612", //buffname
+      "Source": "Flameproof Fur",
+      "Trans": {"SC":"耐火防护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "6582691A437821981642269569DC4369",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "F45338C14E563C4137B3EB8D1E2889E3",
+      "Source": "Tusk Gore",
+      "Trans": {"SC":"獠牙攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"871794076"}
     },
     {
       "NamespaceHash": "GraphLiteral::367841375",
@@ -727,51 +1039,69 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "GraphLiteral::1324310646",
+      "Source": "Extra Damage",
+      "Trans": {"SC":"额外伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::381502048",
+      "Source": "Stamina Consumption",
+      "Trans": {"SC":"耐力消耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2951646527",
+      "Source": "Stamina Drain On Hit",
+      "Trans": {"SC":"命中时削减目标耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::392778773",
       "Source": "Dust Cloud",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"沙尘云","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3236526095",
       "Source": "Uppercut (while underground)",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"上挑 (潜入沙中)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3393646006",
       "Source": "Tail Smash (in air)",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"尾部猛击 (空中)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3112767552",
       "Source": "Bury/Unbury",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"潜入/钻出沙地","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3802961328",
       "Source": "Frontflip (in air)",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"前空翻 (空中)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1389160083",
       "Source": "Backflip (in air)",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"后空翻 (空中)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::418515909",
       "Source": "Right Roll (in air)",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"右空翻 (空中)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1820016549",
       "Source": "Left Roll (in air)",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"左空翻 (空中)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2803,7 +3133,7 @@
     {
       "NamespaceHash": "Content::1184948447",
       "Source": "Not bonded Dragon",
-      "Trans": {"SC":"未契约的龙族","JA":"未契約的龙族"},
+      "Trans": {"SC":"未缔结契约的龙族","JA":"未締結契約的龙族"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2821,6 +3151,12 @@
     {
       "NamespaceHash": "GraphLiteral::2492091844",
       "Source": "FURY",
+      "Trans": {"SC":"暴怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3590282068",
+      "Source": "Fury",
       "Trans": {"SC":"暴怒","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -9229,7 +9565,7 @@
     {
       "NamespaceHash": "6C4E74324E585FA247834FA7F2E72491",
       "Source": "Carry", //Rhyni
-      "Trans": {"SC":"携带","JA":""},
+      "Trans": {"SC":"携带       ","JA":""}, //标记-当前是为了文本格式差不多所以加了开个后续若格式正常了就修改回来
       "Config": {"Item":false,"Dino":false,"Default_Hash":"849218775"}
     },
     {
@@ -27948,7 +28284,7 @@
     {
       "NamespaceHash": "GraphLiteral::3177118717",
       "Source": "Harvest 1,000 Flint",
-      "Trans": {"SC":"采集 1,000 块燧石","JA":""},
+      "Trans": {"SC":"采集 1,000 燧石","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -28064,19 +28400,19 @@
     {
       "NamespaceHash": "GraphLiteral::3837703180",
       "Source": "Harvest 1,000 Stone",
-      "Trans": {"SC":"采集 1,000 块石头","JA":""},
+      "Trans": {"SC":"采集 1,000 石头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1491467794",
       "Source": "Harvest 50,000 Stone",
-      "Trans": {"SC":"采集 50,000 块石头","JA":""},
+      "Trans": {"SC":"采集 50,000 石头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::4111512366",
       "Source": "Harvest 250,000 Stone",
-      "Trans": {"SC":"采集 250,000 块石头","JA":""},
+      "Trans": {"SC":"采集 250,000 石头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -55971,13 +56307,13 @@
     {
       "NamespaceHash": "GraphLiteral::723417589",
       "Source": "Switch Resin Armor from: ",
-      "Trans": {"SC":"切换黏脂弹药: ","JA":""},
+      "Trans": {"SC":"开关黏脂护甲: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::4293621601",
       "Source": "Switch Resin Attack from: ",
-      "Trans": {"SC":"切换黏脂攻击: ","JA":""},
+      "Trans": {"SC":"切换黏脂攻击模式: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78747,6 +79083,325 @@
   //龙之国度技能 & 任务 - 2026-07-17 11:24:53
   "Dragontopia": [
     {
+      "NamespaceHash": "GraphLiteral::1409383869",
+      "Source": "Stomach Fill Cost Multiplier",
+      "Trans": {"SC":"饱腹值消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2985498706",
+      "Source": "Creature Weight Multiplier",
+      "Trans": {"SC":"生物重量倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2926926720",
+      "Source": "Range Multiplier",
+      "Trans": {"SC":"范围倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3906802998",
+      "Source": "Speed Increase",
+      "Trans": {"SC":"速度提升","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4218662095",
+      "Source": "Stamina Reduction",
+      "Trans": {"SC":"耐力消耗降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1217123012",
+      "Source": "Grab Flyers",
+      "Trans": {"SC":"吞纳飞行生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3387539828",
+      "Source": "Allows eligible flying creatures to be swallowed.",
+      "Trans": {"SC":"可将符合条件的飞行生物吞入腹中。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::190345981",
+      "Source": "Grab Weight Limit",
+      "Trans": {"SC":"吞纳重量上限","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1004640851",
+      "Source": "Allows Gargantar to swallow creatures up to {Modifier_Gargantar_Grab_Drag} of its maximum drag weight capacity.",
+      "Trans": {"SC":"伽甘塔尔可吞纳生物的拖拽重量上限为最大值的{Modifier_Gargantar_Grab_Drag}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2049164572",
+      "Source": "Grab",
+      "Trans": {"SC":"吞纳","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::65261934",
+      "Source": "Swallow and protect an eligible allied creature. Activate again to spit it out. (Requires to be flying)",
+      "Trans": {"SC":"将符合条件的友方生物吞入腹中加以保护。再次使用即可将其吐出。(需在飞行时使用)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1592947524",
+      "Source": "Inhale Range",
+      "Trans": {"SC":"吞吸范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::791429372",
+      "Source": "Extends Inhale's resource-harvesting range to {Modifier_Gargantar_Inhale_Range} of its maximum reach.",
+      "Trans": {"SC":"吞吸的资源采集范围提升至最大值的{Modifier_Gargantar_Inhale_Range}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2463126044",
+      "Source": "Inhale",
+      "Trans": {"SC":"吞吸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3645072647",
+      "Source": "Inhale nearby resources and corpses. Harvesting resources builds Stomach Filling. Cannot be used while carrying a creature.",
+      "Trans": {"SC":"吞吸附近的资源和尸体。采集资源可积累“饱腹值”。腹中有生物时无法使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::273061275",
+      "Source": "Acid Reflux",
+      "Trans": {"SC":"胃酸侵蚀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1506295816",
+      "Source": "Enemies inside Gargantar take acid damage based on their maximum Health.",
+      "Trans": {"SC":"伽甘塔尔腹中的敌人会受到酸液伤害, 伤害量按各自的最大生命值计算。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1748302199",
+      "Source": "Acid Ingest",
+      "Trans": {"SC":"酸蚀吞食","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3480423300",
+      "Source": "Acid Spit and Vomit apply stacks that increase the target’s damage taken. Enemies require 3 stacks to be swallowed. Enemy swallowing is only available in PvP, wild creatures cannot be swallowed in PvE, and requires to be flying.",
+      "Trans": {"SC":"酸液喷吐与腐液呕吐会施加吞食印记, 使目标受到的伤害提高。敌人身上累积3层印记后, 才能将其吞食。吞食敌人仅限PVP，且必须在飞行时进行; PVE中无法吞食野生生物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::995169682",
+      "Source": "Fortress",
+      "Trans": {"SC":"堡垒之态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1498969062",
+      "Source": "Become immobile and reduce incoming damage while consuming Stomach Filling.",
+      "Trans": {"SC":"持续消耗“饱腹值”, 进入堡垒之态以降低所受伤害, 期间无法移动。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::522752177",
+      "Source": "Vomit Cost",
+      "Trans": {"SC":"腐液呕吐消耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2942123150",
+      "Source": "Uses {Modifier_Gargantar_Vomit_Cost} of Vomit's base Stomach Filling cost.",
+      "Trans": {"SC":"腐液呕吐的“饱腹值”消耗调整为基础值的{Modifier_Gargantar_Vomit_Cost}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1620334191",
+      "Source": "Vomit Range",
+      "Trans": {"SC":"腐液呕吐范围","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2625149790",
+      "Source": "Extends Vomit's range to {Modifier_Gargantar_Vomit_Range} of its maximum reach.",
+      "Trans": {"SC":"腐液呕吐的范围提升至最大值的{Modifier_Gargantar_Vomit_Range}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1952908907",
+      "Source": "Vomit",
+      "Trans": {"SC":"腐液呕吐","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2800029935",
+      "Source": "Spray acid in front of Gargantar, dealing damage and consuming Stomach Filling.",
+      "Trans": {"SC":"消耗“饱腹值”, 伽甘塔尔向前方喷出酸液并造成伤害。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1520037640",
+      "Source": "Stomach Shield",
+      "Trans": {"SC":"饱腹护甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1046697393",
+      "Source": "Harvest resources to build Stomach Filling. A fuller stomach provides greater damage reduction.",
+      "Trans": {"SC":"采集资源可积累“饱腹值”。“饱腹值”越高, 获得的伤害减免越高。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::387141694",
+      "Source": "Sprint Flight Efficiency",
+      "Trans": {"SC":"疾飞耐力消耗降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::590251233",
+      "Source": "Reduces stamina consumed while sprinting in flight by {!!SprintStaminaCost}.",
+      "Trans": {"SC":"疾飞的耐力消耗降低{!!SprintStaminaCost}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1251047676",
+      "Source": "Sprint Flight",
+      "Trans": {"SC":"疾飞","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1433177693", //NEW
+      "Source": "Unlocks sprinting while flying.",
+      "Trans": {"SC":"解锁可在飞行状态下疾速飞行。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //UmbraLumina_DracoSprintFlightMode_SkillDescription
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::321745796",
+      "Source": "Dive Speed",
+      "Trans": {"SC":"俯冲速度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2452623146",
+      "Source": "Increases maximum dive bonus speed by {!DiveBoostMaxCharge}.",
+      "Trans": {"SC":"俯冲速度加成的上限提高{!DiveBoostMaxCharge}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1756043232",
+      "Source": "Quick Turn",
+      "Trans": {"SC":"急转","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1849816434",
+      "Source": "Unlocks the quick turn flight maneuver.",
+      "Trans": {"SC":"解锁飞行机动: 急转。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::856411773",
+      "Source": "Barrel Roll",
+      "Trans": {"SC":"横滚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3466502578",
+      "Source": "Unlocks the barrel roll flight maneuver.",
+      "Trans": {"SC":"解锁飞行机动: 横滚。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1890509445",
+      "Source": "Backflip",
+      "Trans": {"SC":"后空翻","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2053815896",
+      "Source": "Unlocks the backflip flight maneuver.",
+      "Trans": {"SC":"解锁飞行机动: 后空翻。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::816066543",
+      "Source": "Maneuver Efficiency",
+      "Trans": {"SC":"飞行机动耐力消耗降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1301554210",
+      "Source": "Reduces flight maneuver stamina costs by {!!ManeuverStaminaCost}.",
+      "Trans": {"SC":"飞行机动的耐力消耗降低{!!ManeuverStaminaCost}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::4033470264",
+      "Source": "Maneuver Cooldown",
+      "Trans": {"SC":"飞行机动冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2048084042",
+      "Source": "Reduces flight maneuver cooldowns by {!!ManeuverCooldownMultiplier}.",
+      "Trans": {"SC":"飞行机动的冷却时间缩短{!!ManeuverCooldownMultiplier}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1864855984",
+      "Source": "Fly Away & Come Here Cooldown",
+      "Trans": {"SC":"飞离/过来冷却","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::449165934",
+      "Source": "Reduces the Fly Away and Come Here cooldowns by {!!FlyAwayCooldownMultiplier}.",
+      "Trans": {"SC":"“飞离”和“过来”的冷却时间缩短{!!FlyAwayCooldownMultiplier}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1886485806",
+      "Source": "Dragon Horn: Fly Away & Come Here",
+      "Trans": {"SC":"龙之号角: 飞离/过来","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1352272989",
+      "Source": "Send your bonded dragon into the sky for safety, then call it back.",
+      "Trans": {"SC":"让契约之龙飞往高空避险, 之后可将其召回。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::571128859",
+      "Source": "Get Me Range",
+      "Trans": {"SC":"来接我距离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::496700457",
+      "Source": "Sets the Get Me command's range to {GetMeDistanceMultiplier} of its base range.",
+      "Trans": {"SC":"将“来接我”指令的有效距离调整为基础值的{GetMeDistanceMultiplier}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::921587934",
+      "Source": "Get Me Cooldown",
+      "Trans": {"SC":"来接我冷却时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2004351140",
+      "Source": "Reduces the Get Me cooldown by {!!GetMeCooldownMultiplier}.",
+      "Trans": {"SC":"“来接我”的冷却时间缩短{!!GetMeCooldownMultiplier}。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1691756546",
       "Source": "Claim 1 baby Gargantar",
       "Trans": {"SC":"认领 1 只伽甘塔尔幼崽","JA":""},
@@ -79797,6 +80452,12 @@
       "Trans": {"SC":"解锁龙之俯冲能力。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1224873377",
+      "Source": "Unlocks diving during flight.",
+      "Trans": {"SC":"解锁飞行俯冲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::4236762739", //OLD
     //  "Source": "Dive Speed Multiplier",
@@ -79823,13 +80484,13 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //UmbraLumina_DracoDiveSpeedMultiplier_SkillDescription
     },
-    {
-      "NamespaceHash": "9310377E4E00E0597CDB8DBEB3A3659A",
-      "Source": "Speed Increase",
-      "Trans": {"SC":"速度提升","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3906802998"}
-      //DiveBoostMaxCharge
-    },
+    //{
+    //  "NamespaceHash": "9310377E4E00E0597CDB8DBEB3A3659A",
+    //  "Source": "Speed Increase",
+    //  "Trans": {"SC":"速度提升","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":"3906802998"}
+    //  //DiveBoostMaxCharge
+    //},
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::907545013",
       "Source": "Sprint Flight Mode",
@@ -79842,13 +80503,6 @@
     //  "Trans": {"SC":"解锁疾飞模式。","JA":""},
     //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     //},
-    {
-      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1433177693", //NEW
-      "Source": "Unlocks sprinting while flying.",
-      "Trans": {"SC":"解锁可在飞行状态下疾速飞行。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //UmbraLumina_DracoSprintFlightMode_SkillDescription
-    },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3806713421", //OLD
     //  "Source": "Allow Mating",
@@ -79867,6 +80521,12 @@
       "Trans": {"SC":"龙族交配","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //UmbraLumina_DracoAllowMating_SkillName
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::742230626",
+      "Source": "Allows your dragon to mate.",
+      "Trans": {"SC":"解锁该龙族的交配能力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3365180566", //NEW
@@ -79894,6 +80554,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2679074159",
+      "Source": "Bond with a dragon you tamed or hatched and command it using a Dragon Horn.",
+      "Trans": {"SC":"与你驯服或孵化的龙族建立契约, 并使用龙之号角指挥它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3848910335", //NEW
       "Source": "Unlocks the ability to bond to the dragon if you tamed or hatched it. Control your bonded dragon from afar with a Dragon Horn, and even revive it from death.",
       "Trans": {"SC":"解锁与自己驯服或孵化的龙族缔结契约的能力。你可以使用龙之号角来指挥契约龙族, 甚至能在其阵亡后将其复活。","JA":""},
@@ -79917,6 +80583,12 @@
       "Trans": {"SC":"龙之号角: 来接我","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //UmbraLumina_DracoDragonHornGetMe_SkillName
+    },
+    {
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3185792310",
+      "Source": "Call your bonded dragon to pick you up.",
+      "Trans": {"SC":"召唤契约之龙前来接你。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::4254894097", //NEW
@@ -79978,10 +80650,10 @@
       //UmbraLumina_DracoDragonHornGetMeDistance_SkillDescription
     },
     {
-      "NamespaceHash": "A430A0DF4E96EF99707C20A2A4308A5E",
+      "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1749449754",
       "Source": "Distance Increase",
       "Trans": {"SC":"距离增加","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1749449754"}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3952262427", //OLD
@@ -80075,13 +80747,13 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //UmbraLumina_DracoFlightSprintStaminaCostMultiplier_SkillDescription
     },
-    {
-      "NamespaceHash": "DDB1084F4DC86C479B00BE8038F50983",
-      "Source": "Stamina Reduction",
-      "Trans": {"SC":"耐力消耗降低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4218662095"}
-      //SprintStaminaCost
-    },
+    //{
+    //  "NamespaceHash": "DDB1084F4DC86C479B00BE8038F50983",
+    //  "Source": "Stamina Reduction",
+    //  "Trans": {"SC":"耐力消耗降低","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":"4218662095"}
+    //  //SprintStaminaCost
+    //},
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::3294996554", //OLD
     //  "Source": "Maneuver Stamina Cost Multiplier",
@@ -80108,13 +80780,13 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //UmbraLumina_DracoManeuverStaminaCostMultiplier_SkillDescription
     },
-    {
-      "NamespaceHash": "B457996149D38C0562D5589B9340221D",
-      "Source": "Stamina Reduction",
-      "Trans": {"SC":"耐力消耗降低","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4218662095"}
-      //ManeuverStaminaCost
-    },
+    //{
+    //  "NamespaceHash": "B457996149D38C0562D5589B9340221D",
+    //  "Source": "Stamina Reduction",
+    //  "Trans": {"SC":"耐力消耗降低","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":"4218662095"}
+    //  //ManeuverStaminaCost
+    //},
     //{
     //  "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::774051340", //OLD
     //  "Source": "Maneuver Cooldown Multiplier",
@@ -80594,19 +81266,19 @@
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::300342499",
       "Source": "Get 100% imprint on 1 Umbra/Lumina",
-      "Trans": {"SC":"让1只幽影仔/皎光仔达到 100% 印痕","JA":""},
+      "Trans": {"SC":"将 1 只幽影仔/皎光仔的留痕至100%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::928639130",
       "Source": "Get 100% imprint on 2 Umbra/Lumina",
-      "Trans": {"SC":"让2只幽影仔/皎光仔达到 100% 印痕","JA":""},
+      "Trans": {"SC":"将 2 只幽影仔/皎光仔的留痕至100%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::718076749",
       "Source": "Get 100% imprint on 3 Umbra/Lumina",
-      "Trans": {"SC":"让3只幽影仔/皎光仔达到 100% 印痕","JA":""},
+      "Trans": {"SC":"将 3 只幽影仔/皎光仔的留痕至100%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -80624,7 +81296,7 @@
     {
       "NamespaceHash": "DT_Milestones_Dragontopia::3399475020",
       "Source": "Harvest 1000 prime meats (Prime Meat, Mutton, or Prime Fish Meat) while riding Umbra",
-      "Trans": {"SC":"骑乘幽影仔采集 1000 块优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
+      "Trans": {"SC":"骑乘幽影仔采集 1000 优质肉类 (优质生肉/羊肉/优质生鱼肉)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82199,7 +82871,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::1685369372",
       "Source": "Kill 1 Ossidon",
-      "Trans": {"SC":"击杀1只霜獠魌","JA":""},
+      "Trans": {"SC":"击杀1只奥西顿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84371,7 +85043,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::1545923211",
       "Source": "Kill 5 Ossidon",
-      "Trans": {"SC":"击杀5只霜獠魌","JA":""},
+      "Trans": {"SC":"击杀5只奥西顿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84875,7 +85547,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::1888885145",
       "Source": "Kill 25 Ossidon",
-      "Trans": {"SC":"击杀25只霜獠魌","JA":""},
+      "Trans": {"SC":"击杀25只奥西顿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87281,7 +87953,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::663447244",
       "Source": "Kill 50 Ossidon",
-      "Trans": {"SC":"击杀50只霜獠魌","JA":""},
+      "Trans": {"SC":"击杀50只奥西顿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
