@@ -1,23 +1,23 @@
 {
   "Official": [
-    {
-      "NamespaceHash": "42B88DE64737A93B3EA4D6802B3685FE", //PhotoMode
-      "Source": "Fog",
-      "Trans": {"SC":"大雾","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"196192722"}
-    },
-    {
-      "NamespaceHash": "947F108C4437A2FFB72BE5B3E6A55DDD", //PhotoMode
-      "Source": "Heatwave",
-      "Trans": {"SC":"热浪","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"4235596400"}
-    },
-    {
-      "NamespaceHash": "606D93FD46F2F6002DAE3AA5BC2FC739", //PhotoMode
-      "Source": "Coldfront",
-      "Trans": {"SC":"冷空气","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"1078518539"}
-    },
+    //{
+    //  "NamespaceHash": "42B88DE64737A93B3EA4D6802B3685FE", //PhotoMode
+    //  "Source": "Fog",
+    //  "Trans": {"SC":"大雾","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":"196192722"}
+    //},
+    //{
+    //  "NamespaceHash": "947F108C4437A2FFB72BE5B3E6A55DDD", //PhotoMode
+    //  "Source": "Heatwave",
+    //  "Trans": {"SC":"热浪","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":"4235596400"}
+    //},
+    //{
+    //  "NamespaceHash": "606D93FD46F2F6002DAE3AA5BC2FC739", //PhotoMode
+    //  "Source": "Coldfront",
+    //  "Trans": {"SC":"冷空气","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":"1078518539"}
+    //},
     {
       "NamespaceHash": "GraphLiteral::1619483412", //PhotoMode
       "Source": "RELATIVE",
@@ -165,7 +165,7 @@
     {
       "NamespaceHash": "Content::3646967",
       "Source": "+10% damage, damage resistance and cooldown reduction for each survivor controlling Cerberax",
-      "Trans": {"SC":"每名操控三相狱犬的生存者，都会使其伤害、伤害抗性与冷却缩减+10%","JA":""},
+      "Trans": {"SC":"每名操控三相狱犬的生存者, 都会使其伤害、伤害抗性与冷却缩减+10%","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5341,7 +5341,7 @@
     {
       "NamespaceHash": "GraphLiteral::880109212",
       "Source": "Unlock Bob's animated Explorer Notes to hear his legendary ARK saga! Experience 3 epic themes: ride Trains & tame the Oasisaur in the Wild West Frontier Showdown. Pilot Zeppelins with Cosmo & SIR-5rM8 in the subterranean Steampunk Ascent. Drive custom BattleRigs & fight alongside the Armadoggo in the post-apocalyptic Wasteland War!",
-      "Trans": {"SC":"解锁鲍勃的动画探险者笔记, 聆听他的传奇方舟冒险! 体验3大史诗主题: 在荒野西部边境对决中驾驶火车、驯服绿洲龙; 在地下蒸汽朋克崛起中, 与星灵蛛和求生搭档 SIR-5rM8 一同操纵齐柏林飞艇; 在后末日废土战争中驾驶自定义废土战车, 与铠护犬并肩作战!","JA":""},
+      "Trans": {"SC":"解锁鲍勃的动画探险者笔记, 聆听他的传奇方舟冒险! 体验3大史诗主题: 在荒野西部边境对决中驾驶火车、驯服绿洲龙; 在地下蒸汽朋克崛起中, 与宇跳蛛和求生搭档 SIR-5rM8 一同操纵齐柏林飞艇; 在后末日废土战争中驾驶自定义废土战车, 与铠护犬并肩作战!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5443,19 +5443,19 @@
     {
       "NamespaceHash": "Content::1984477660",
       "Source": "Apprentice Abandoned Cargo",
-      "Trans": {"SC":"优秀废弃货箱","JA":""},
+      "Trans": {"SC":"优秀遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3091602274",
       "Source": "Journeyman Abandoned Cargo",
-      "Trans": {"SC":"精良废弃货箱","JA":""},
+      "Trans": {"SC":"精良遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3651082266",
       "Source": "Ramshackle Abandoned Cargo",
-      "Trans": {"SC":"普通废弃货箱","JA":""},
+      "Trans": {"SC":"普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -77576,7 +77576,7 @@
     {
       "NamespaceHash": "GraphLiteral::1631887173",
       "Source": "Active Ability: Spend a Charge to summon a Ghost-Angler. These Ghost-Anglers can be ordered like a tame, or ridden by a survivor, providing infinite oxygen underwater. Can hold up to [Charges] Charges, recharging after [ChargeCooldown] seconds.",
-      "Trans": {"SC":"主动技能: 消耗1次充能, 召唤一只幽灵鮟鱇鱼。这些幽灵安康鱼可像驯养生物一样下令, 也可由生存者骑乘, 并在水下提供无限氧气。最多可储存[Charges]次充能, 每[ChargeCooldown]秒恢复一次。","JA":""},
+      "Trans": {"SC":"主动技能: 消耗1次充能, 召唤一只幽灵鮟鱇鱼。这些幽灵鮟鱇鱼可像驯养生物一样下令, 也可由生存者骑乘, 并在水下提供无限氧气。最多可储存[Charges]次充能, 每[ChargeCooldown]秒恢复一次。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78062,7 +78062,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::1415326515",
       "Source": "Collect 1 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 1 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 1 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78122,7 +78122,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::3263484338",
       "Source": "Catch 10 X-Sabertooth Salmon with Fish Baskets",
-      "Trans": {"SC":"使用鱼篮捕获 10 只X-剑齿鲑","JA":""},
+      "Trans": {"SC":"使用鱼篮捕获 10 只X-剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78146,7 +78146,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::1947720776",
       "Source": "Harvest 1,000 Wood/Fungal Wood",
-      "Trans": {"SC":"采集 1,000 份木头/真菌木","JA":""},
+      "Trans": {"SC":"采集 1,000 木头/真菌木","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78158,7 +78158,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::4034132589",
       "Source": "Harvest 5,000 Wood/Fungal Wood",
-      "Trans": {"SC":"采集 5,000 份木头/真菌木","JA":""},
+      "Trans": {"SC":"采集 5,000 木头/真菌木","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78308,19 +78308,19 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::1877919793",
       "Source": "Collect 5 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 5 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 5 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::1658586834",
       "Source": "Collect 3 Apprentice Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 3 个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 3 个优秀遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::3951526098",
       "Source": "Collect 1 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 1 个精良废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 1 个精良遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78434,19 +78434,19 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::2309292462",
       "Source": "Collect 25 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 25 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 25 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::2286156963",
       "Source": "Collect 15 Apprentice Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 15 个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 15 个优秀遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::3493159888",
       "Source": "Collect 5 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 5 个精良废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 5 个精良遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78872,19 +78872,19 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::3938514540",
       "Source": "Collect 100 Ramshackle Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 100 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 100 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::3711745657",
       "Source": "Collect 75 Apprentice Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 75 个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 75 个优秀遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::914270799",
       "Source": "Collect 25 Journeyman Abandoned Cargo with a ship",
-      "Trans": {"SC":"使用船只收集 25 个精良废弃货箱","JA":""},
+      "Trans": {"SC":"使用船只收集 25 个精良遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -78926,67 +78926,67 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::1716367401",
       "Source": "Catch 10 X-Sabertooth Salmon",
-      "Trans": {"SC":"钓 10 只X-剑齿鲑","JA":""},
+      "Trans": {"SC":"钓 10 只X-剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::2790830260",
       "Source": "Collect 1 Journeyman Abandoned Cargo",
-      "Trans": {"SC":"收集 1 个精良废弃货箱","JA":""},
+      "Trans": {"SC":"收集 1 个精良遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::3347166156",
       "Source": "Collect 1 Ramshackle Abandoned Cargo",
-      "Trans": {"SC":"收集 1 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"收集 1 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::833035279",
       "Source": "Collect 100 Ramshackle Abandoned Cargo",
-      "Trans": {"SC":"收集 100 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"收集 100 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::1997639454",
       "Source": "Collect 15 Apprentice Abandoned Cargo",
-      "Trans": {"SC":"收集 15 个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"收集 15 个优秀遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::3149366936",
       "Source": "Collect 25 Journeyman Abandoned Cargo",
-      "Trans": {"SC":"收集 25 个精良废弃货箱","JA":""},
+      "Trans": {"SC":"收集 25 个精良遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::3664676320",
       "Source": "Collect 25 Ramshackle Abandoned Cargo",
-      "Trans": {"SC":"收集 25 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"收集 25 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::195457652",
       "Source": "Collect 3 Apprentice Abandoned Cargo",
-      "Trans": {"SC":"收集 3 个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"收集 3 个优秀遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::1639477320",
       "Source": "Collect 5 Journeyman Abandoned Cargo",
-      "Trans": {"SC":"收集 5 个精良废弃货箱","JA":""},
+      "Trans": {"SC":"收集 5 个精良遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::6386480",
       "Source": "Collect 5 Ramshackle Abandoned Cargo",
-      "Trans": {"SC":"收集 5 个普通废弃货箱","JA":""},
+      "Trans": {"SC":"收集 5 个普通遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_ToF::1916852590",
       "Source": "Collect 75 Apprentice Abandoned Cargo",
-      "Trans": {"SC":"收集 75 个优秀废弃货箱","JA":""},
+      "Trans": {"SC":"收集 75 个优秀遗弃货物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -81827,7 +81827,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::4170443831",
       "Source": "Kill 1 Aberrant Sabertooth Salmon",
-      "Trans": {"SC":"击杀1只畸变剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀1只畸变剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -81863,7 +81863,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::1406284173",
       "Source": "Kill 1 Angler",
-      "Trans": {"SC":"击杀1只安康鱼","JA":""},
+      "Trans": {"SC":"击杀1只鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -81977,7 +81977,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::1689821572",
       "Source": "Kill 1 Corrupted Carnotaurus",
-      "Trans": {"SC":"击杀1只腐化牛龙","JA":""},
+      "Trans": {"SC":"击杀1只腐化肉食牛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82019,7 +82019,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::2695756905",
       "Source": "Kill 1 Cosmo",
-      "Trans": {"SC":"击杀1只星光织蛛","JA":""},
+      "Trans": {"SC":"击杀1只宇跳蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82193,7 +82193,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::1530107029",
       "Source": "Kill 1 Kairuku",
-      "Trans": {"SC":"击杀1只企鹅","JA":""},
+      "Trans": {"SC":"击杀1只潜觅企鹅","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82373,7 +82373,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::2067539918",
       "Source": "Kill 1 Pulmonoscorpius",
-      "Trans": {"SC":"击杀1只帝王蝎","JA":""},
+      "Trans": {"SC":"击杀1只肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82409,7 +82409,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::3158679827",
       "Source": "Kill 1 Sabertooth Salmon",
-      "Trans": {"SC":"击杀1只剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀1只剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82445,7 +82445,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::2723537151",
       "Source": "Kill 1 Terror Bird",
-      "Trans": {"SC":"击杀1只恐鸟","JA":""},
+      "Trans": {"SC":"击杀1只骇鸟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82475,7 +82475,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::2524226609",
       "Source": "Kill 1 Titanomyrma",
-      "Trans": {"SC":"击杀1只泰坦巨蚁","JA":""},
+      "Trans": {"SC":"击杀1只泰坦蚁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82499,7 +82499,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::2965342969",
       "Source": "Kill 1 Veilwyn",
-      "Trans": {"SC":"击杀1只冰狐","JA":""},
+      "Trans": {"SC":"击杀1只霜灵狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82529,7 +82529,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::1872202502",
       "Source": "Kill 1 Aberrant Angler",
-      "Trans": {"SC":"击杀1只畸变安康鱼","JA":""},
+      "Trans": {"SC":"击杀1只畸变鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82613,7 +82613,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::1654929800",
       "Source": "Kill 1 Aberrant Pulmonoscorpius",
-      "Trans": {"SC":"击杀1只畸变帝王蝎","JA":""},
+      "Trans": {"SC":"击杀1只畸变肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82751,7 +82751,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::2062485577",
       "Source": "Kill 1 Drakeling",
-      "Trans": {"SC":"击杀1只幼龙","JA":""},
+      "Trans": {"SC":"击杀1只精灵龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82835,7 +82835,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::379382676",
       "Source": "Kill 1 Lightning Wyvern",
-      "Trans": {"SC":"击杀1只雷霆飞龙","JA":""},
+      "Trans": {"SC":"击杀1只闪电飞龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82853,7 +82853,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::3098718698",
       "Source": "Kill 1 Megaraptor",
-      "Trans": {"SC":"击杀1只巨盗龙","JA":""},
+      "Trans": {"SC":"击杀1只大盗龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82883,7 +82883,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::838832087",
       "Source": "Kill 1 Poison Wyvern",
-      "Trans": {"SC":"击杀1只毒飞龙","JA":""},
+      "Trans": {"SC":"击杀1只剧毒飞龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82943,7 +82943,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::909528166",
       "Source": "Kill 1 Yi Ling",
-      "Trans": {"SC":"击杀1只翼翎龙","JA":""},
+      "Trans": {"SC":"击杀1只翎翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83057,7 +83057,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::1064512715",
       "Source": "Kill 5 Aberrant Sabertooth Salmon",
-      "Trans": {"SC":"击杀5只畸变剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀5只畸变剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83093,7 +83093,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::576203687",
       "Source": "Kill 5 Angler",
-      "Trans": {"SC":"击杀5只安康鱼","JA":""},
+      "Trans": {"SC":"击杀5只鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83207,7 +83207,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::617622848",
       "Source": "Kill 5 Corrupted Carnotaurus",
-      "Trans": {"SC":"击杀5只腐化牛龙","JA":""},
+      "Trans": {"SC":"击杀5只腐化肉食牛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83249,7 +83249,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::2793015325",
       "Source": "Kill 5 Cosmo",
-      "Trans": {"SC":"击杀5只星光织蛛","JA":""},
+      "Trans": {"SC":"击杀5只宇跳蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83423,7 +83423,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::1667484674",
       "Source": "Kill 5 Kairuku",
-      "Trans": {"SC":"击杀5只企鹅","JA":""},
+      "Trans": {"SC":"击杀5只潜觅企鹅","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83603,7 +83603,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::884687111",
       "Source": "Kill 5 Pulmonoscorpius",
-      "Trans": {"SC":"击杀5只帝王蝎","JA":""},
+      "Trans": {"SC":"击杀5只肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83627,7 +83627,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::2389198304",
       "Source": "Kill 5 Revenant",
-      "Trans": {"SC":"击杀5只亡魂","JA":""},
+      "Trans": {"SC":"击杀5只怨灵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83639,7 +83639,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::3906760488",
       "Source": "Kill 5 Sabertooth Salmon",
-      "Trans": {"SC":"击杀5只剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀5只剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83675,7 +83675,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::3726055050",
       "Source": "Kill 5 Terror Bird",
-      "Trans": {"SC":"击杀5只恐鸟","JA":""},
+      "Trans": {"SC":"击杀5只骇鸟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83705,7 +83705,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::3929428548",
       "Source": "Kill 5 Titanomyrma",
-      "Trans": {"SC":"击杀5只泰坦巨蚁","JA":""},
+      "Trans": {"SC":"击杀5只泰坦蚁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83729,7 +83729,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::2297418350",
       "Source": "Kill 5 Veilwyn",
-      "Trans": {"SC":"击杀5只冰狐","JA":""},
+      "Trans": {"SC":"击杀5只霜灵狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -83999,7 +83999,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::674265",
       "Source": "Kill 25 Aberrant Sabertooth Salmon",
-      "Trans": {"SC":"击杀25只畸变剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀25只畸变剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84035,7 +84035,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::1819005866",
       "Source": "Kill 25 Angler",
-      "Trans": {"SC":"击杀25只安康鱼","JA":""},
+      "Trans": {"SC":"击杀25只鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84149,7 +84149,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::76465494",
       "Source": "Kill 25 Corrupted Carnotaurus",
-      "Trans": {"SC":"击杀25只腐化牛龙","JA":""},
+      "Trans": {"SC":"击杀25只腐化肉食牛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84191,7 +84191,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::259764208",
       "Source": "Kill 25 Cosmo",
-      "Trans": {"SC":"击杀25只星光织蛛","JA":""},
+      "Trans": {"SC":"击杀25只宇跳蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84365,7 +84365,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::1339113232",
       "Source": "Kill 25 Kairuku",
-      "Trans": {"SC":"击杀25只企鹅","JA":""},
+      "Trans": {"SC":"击杀25只潜觅企鹅","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84545,7 +84545,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::233903619",
       "Source": "Kill 25 Pulmonoscorpius",
-      "Trans": {"SC":"击杀25只帝王蝎","JA":""},
+      "Trans": {"SC":"击杀25只肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84569,7 +84569,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::668055460",
       "Source": "Kill 25 Revenant",
-      "Trans": {"SC":"击杀25只亡魂","JA":""},
+      "Trans": {"SC":"击杀25只怨灵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84581,7 +84581,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::2283160854",
       "Source": "Kill 25 Sabertooth Salmon",
-      "Trans": {"SC":"击杀25只剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀25只剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84617,7 +84617,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::104452332",
       "Source": "Kill 25 Terror Bird",
-      "Trans": {"SC":"击杀25只恐鸟","JA":""},
+      "Trans": {"SC":"击杀25只骇鸟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84647,7 +84647,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::840471586",
       "Source": "Kill 25 Titanomyrma",
-      "Trans": {"SC":"击杀25只泰坦巨蚁","JA":""},
+      "Trans": {"SC":"击杀25只泰坦蚁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84671,7 +84671,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::2757566844",
       "Source": "Kill 25 Veilwyn",
-      "Trans": {"SC":"击杀25只冰狐","JA":""},
+      "Trans": {"SC":"击杀25只霜灵狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84701,7 +84701,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::537980367",
       "Source": "Kill 5 Aberrant Angler",
-      "Trans": {"SC":"击杀5只畸变安康鱼","JA":""},
+      "Trans": {"SC":"击杀5只畸变鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84785,7 +84785,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::1348418108",
       "Source": "Kill 5 Aberrant Pulmonoscorpius",
-      "Trans": {"SC":"击杀5只畸变帝王蝎","JA":""},
+      "Trans": {"SC":"击杀5只畸变肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -84923,7 +84923,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::3528452545",
       "Source": "Kill 5 Drakeling",
-      "Trans": {"SC":"击杀5只幼龙","JA":""},
+      "Trans": {"SC":"击杀5只精灵龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85007,7 +85007,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::3273830151",
       "Source": "Kill 5 Lightning Wyvern",
-      "Trans": {"SC":"击杀5只雷霆飞龙","JA":""},
+      "Trans": {"SC":"击杀5只闪电飞龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85025,7 +85025,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::1316291226",
       "Source": "Kill 5 Megaraptor",
-      "Trans": {"SC":"击杀5只巨盗龙","JA":""},
+      "Trans": {"SC":"击杀5只大盗龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85115,7 +85115,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::241571057",
       "Source": "Kill 5 Yi Ling",
-      "Trans": {"SC":"击杀5只翼翎龙","JA":""},
+      "Trans": {"SC":"击杀5只翎翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85205,7 +85205,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::425376459",
       "Source": "Kill 25 Aberrant Angler",
-      "Trans": {"SC":"击杀25只畸变安康鱼","JA":""},
+      "Trans": {"SC":"击杀25只畸变鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85289,7 +85289,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::195036314",
       "Source": "Kill 25 Aberrant Pulmonoscorpius",
-      "Trans": {"SC":"击杀25只畸变帝王蝎","JA":""},
+      "Trans": {"SC":"击杀25只畸变肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85427,7 +85427,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::3933507496",
       "Source": "Kill 25 Drakeling",
-      "Trans": {"SC":"击杀25只幼龙","JA":""},
+      "Trans": {"SC":"击杀25只精灵龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85511,7 +85511,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::1881157602",
       "Source": "Kill 25 Lightning Wyvern",
-      "Trans": {"SC":"击杀25只雷霆飞龙","JA":""},
+      "Trans": {"SC":"击杀25只闪电飞龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85529,7 +85529,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::1353800231",
       "Source": "Kill 25 Megaraptor",
-      "Trans": {"SC":"击杀25只巨盗龙","JA":""},
+      "Trans": {"SC":"击杀25只大盗龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85619,7 +85619,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::584378339",
       "Source": "Kill 25 Yi Ling",
-      "Trans": {"SC":"击杀25只翼翎龙","JA":""},
+      "Trans": {"SC":"击杀25只翎翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85733,7 +85733,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::3137058582",
       "Source": "Kill 5 Neophyte",
-      "Trans": {"SC":"击杀5只新侍徒","JA":""},
+      "Trans": {"SC":"击杀5只猎杀者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85877,7 +85877,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::4074473858",
       "Source": "Kill 50 Aberrant Sabertooth Salmon",
-      "Trans": {"SC":"击杀50只畸变剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀50只畸变剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85913,7 +85913,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::2961960771",
       "Source": "Kill 50 Angler",
-      "Trans": {"SC":"击杀50只安康鱼","JA":""},
+      "Trans": {"SC":"击杀50只鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86027,7 +86027,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::612286766",
       "Source": "Kill 50 Corrupted Carnotaurus",
-      "Trans": {"SC":"击杀50只腐化牛龙","JA":""},
+      "Trans": {"SC":"击杀50只腐化肉食牛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86069,7 +86069,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::2962011148",
       "Source": "Kill 50 Cosmo",
-      "Trans": {"SC":"击杀50只星光织蛛","JA":""},
+      "Trans": {"SC":"击杀50只宇跳蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86243,7 +86243,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::416038981",
       "Source": "Kill 50 Kairuku",
-      "Trans": {"SC":"击杀50只企鹅","JA":""},
+      "Trans": {"SC":"击杀50只潜觅企鹅","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86423,7 +86423,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::3684261510",
       "Source": "Kill 50 Pulmonoscorpius",
-      "Trans": {"SC":"击杀50只帝王蝎","JA":""},
+      "Trans": {"SC":"击杀50只肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86447,7 +86447,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::2395787026",
       "Source": "Kill 50 Revenant",
-      "Trans": {"SC":"击杀50只亡魂","JA":""},
+      "Trans": {"SC":"击杀50只怨灵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86459,7 +86459,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::104591992",
       "Source": "Kill 50 Sabertooth Salmon",
-      "Trans": {"SC":"击杀50只剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀50只剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86495,7 +86495,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::1130144177",
       "Source": "Kill 50 Terror Bird",
-      "Trans": {"SC":"击杀50只恐鸟","JA":""},
+      "Trans": {"SC":"击杀50只骇鸟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86525,7 +86525,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::2004739455",
       "Source": "Kill 50 Titanomyrma",
-      "Trans": {"SC":"击杀50只泰坦巨蚁","JA":""},
+      "Trans": {"SC":"击杀50只泰坦蚁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86549,7 +86549,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::4081081897",
       "Source": "Kill 50 Veilwyn",
-      "Trans": {"SC":"击杀50只冰狐","JA":""},
+      "Trans": {"SC":"击杀50只霜灵狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86687,7 +86687,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1641494677",
       "Source": "Kill 100 Aberrant Sabertooth Salmon",
-      "Trans": {"SC":"击杀100只畸变剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀100只畸变剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86723,7 +86723,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::463806683",
       "Source": "Kill 100 Angler",
-      "Trans": {"SC":"击杀100只安康鱼","JA":""},
+      "Trans": {"SC":"击杀100只鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86837,7 +86837,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1660282248",
       "Source": "Kill 100 Corrupted Carnotaurus",
-      "Trans": {"SC":"击杀100只腐化牛龙","JA":""},
+      "Trans": {"SC":"击杀100只腐化肉食牛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -86879,7 +86879,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::437201023",
       "Source": "Kill 100 Cosmo",
-      "Trans": {"SC":"击杀100只星光织蛛","JA":""},
+      "Trans": {"SC":"击杀100只宇跳蛛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87053,7 +87053,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::2965908287",
       "Source": "Kill 100 Kairuku",
-      "Trans": {"SC":"击杀100只企鹅","JA":""},
+      "Trans": {"SC":"击杀100只潜觅企鹅","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87233,7 +87233,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1519918183",
       "Source": "Kill 100 Pulmonoscorpius",
-      "Trans": {"SC":"击杀100只帝王蝎","JA":""},
+      "Trans": {"SC":"击杀100只肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87269,7 +87269,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::3708811600",
       "Source": "Kill 100 Sabertooth Salmon",
-      "Trans": {"SC":"击杀100只剑齿鲑","JA":""},
+      "Trans": {"SC":"击杀100只剑齿鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87305,7 +87305,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::2767747341",
       "Source": "Kill 100 Terror Bird",
-      "Trans": {"SC":"击杀100只恐鸟","JA":""},
+      "Trans": {"SC":"击杀100只骇鸟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87335,7 +87335,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::2430156227",
       "Source": "Kill 100 Titanomyrma",
-      "Trans": {"SC":"击杀100只泰坦巨蚁","JA":""},
+      "Trans": {"SC":"击杀100只泰坦蚁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87359,7 +87359,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1531196755",
       "Source": "Kill 100 Veilwyn",
-      "Trans": {"SC":"击杀100只冰狐","JA":""},
+      "Trans": {"SC":"击杀100只霜灵狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87491,7 +87491,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::323110226",
       "Source": "Kill 25 Neophyte",
-      "Trans": {"SC":"击杀25只新侍徒","JA":""},
+      "Trans": {"SC":"击杀25只猎杀者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87611,7 +87611,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::3476222542",
       "Source": "Kill 50 Aberrant Angler",
-      "Trans": {"SC":"击杀50只畸变安康鱼","JA":""},
+      "Trans": {"SC":"击杀50只畸变鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87695,7 +87695,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::193105448",
       "Source": "Kill 50 Aberrant Pulmonoscorpius",
-      "Trans": {"SC":"击杀50只畸变帝王蝎","JA":""},
+      "Trans": {"SC":"击杀50只畸变肺蝎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87833,7 +87833,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::3639201878",
       "Source": "Kill 50 Drakeling",
-      "Trans": {"SC":"击杀50只幼龙","JA":""},
+      "Trans": {"SC":"击杀50只精灵龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87917,7 +87917,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::381297629",
       "Source": "Kill 50 Lightning Wyvern",
-      "Trans": {"SC":"击杀50只雷霆飞龙","JA":""},
+      "Trans": {"SC":"击杀50只闪电飞龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87935,7 +87935,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1573976041",
       "Source": "Kill 50 Megaraptor",
-      "Trans": {"SC":"击杀50只巨盗龙","JA":""},
+      "Trans": {"SC":"击杀50只大盗龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -88025,7 +88025,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1976146102",
       "Source": "Kill 50 Yi Ling",
-      "Trans": {"SC":"击杀50只翼翎龙","JA":""},
+      "Trans": {"SC":"击杀50只翎翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
