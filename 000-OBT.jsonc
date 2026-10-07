@@ -47939,7 +47939,7 @@
       "NamespaceHash": "Content::2514861773",
       "Source": "Zombie",
       "Trans": {"SC":"丧尸","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::47221376",
@@ -57044,12 +57044,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::1078518539",
-      "Source": "Coldfront",
-      "Trans": {"SC":"冷空气","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1852779579",
       "Source": "Colliding With Something",
       "Trans": {"SC":"与其他东西碰撞","JA":""},
@@ -59303,18 +59297,6 @@
       "NamespaceHash": "GraphLiteral::4107576908",
       "Source": "Health too high to start taming",
       "Trans": {"SC":"生命值太高以至于无法开始驯服","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1958308545",
-      "Source": "Heatstroke",
-      "Trans": {"SC":"中暑","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::4235596400",
-      "Source": "Heatwave",
-      "Trans": {"SC":"炎热","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61690,7 +61672,7 @@
     {
       "NamespaceHash": "GraphLiteral::3159824447",
       "Source": "Photo Mode Settings",
-      "Trans": {"SC":"照相模式设置","JA":""},
+      "Trans": {"SC":"拍照模式设置","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63436,7 +63418,7 @@
     {
       "NamespaceHash": "GraphLiteral::3779412665",
       "Source": "TOGGLE PHOTO MODE",
-      "Trans": {"SC":"开关照相模式","JA":""},
+      "Trans": {"SC":"开关拍照模式","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
