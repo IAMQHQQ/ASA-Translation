@@ -1,5 +1,29 @@
 {
   "Official": [
+    {
+      "NamespaceHash": "Globals::SaveUpgradeWarningTitle",
+      "Source": "Save Will Be Upgraded",
+      "Trans": {"SC":"存档将被升级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2943573995"}
+    },
+    {
+      "NamespaceHash": "Globals::SaveUpgradeWarningMessage",
+      "Source": "This ARK was last saved on an older version of the game. After it is loaded here, it may no longer load correctly in the current live game.\n\nA backup will be made before loading. If needed, you can restore it by selecting this ARK and choosing the SAVE BACKUPS option.\n\nDo you want to continue?",
+      "Trans": {"SC":"此方舟存档是在较旧版本中保存的。在此版本中载入后, 该存档可能无法再在当前正式版游戏中正常载入。\n\n载入前将自动创建备份。如有需要, 可选择此方舟并使用 “保存的备份” 选项进行恢复。\n\n你确定要继续吗?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4180615996"}
+    },
+    {
+      "NamespaceHash": "Globals::StopForOutdatedModsTitle",
+      "Source": "Outdated Mods",
+      "Trans": {"SC":"模组已过时","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1581792357"}
+    },
+    {
+      "NamespaceHash": "Globals::StopForOutdatedModsMessage",
+      "Source": "The following mods were built for an older version of ARK and can't be loaded. Disable them or wait for the mod author to update them:\n\n{0}",
+      "Trans": {"SC":"下列模组已不适配新版本方舟, 无法载入。请禁用这些模组, 或等待模组作者更新:\n\n{0}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2346246152"}
+    },
     //{
     //  "NamespaceHash": "42B88DE64737A93B3EA4D6802B3685FE", //PhotoMode
     //  "Source": "Fog",
