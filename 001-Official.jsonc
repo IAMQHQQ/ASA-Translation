@@ -1,6 +1,66 @@
 {
   "Official": [
     {
+      "NamespaceHash": "GraphLiteral::3715975335", //Rhyni
+      "Source": " (Insufficient Resin)",
+      "Trans": {"SC":" (黏脂不足)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2900585851",
+      "Source": "Change Shape to Cube",
+      "Trans": {"SC":"切换为立方体形状","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1846903359",
+      "Source": "Change Shape to Dome",
+      "Trans": {"SC":"切换为穹顶形状","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //{
+    //  "NamespaceHash": "GraphLiteral::2051392343",
+    //  "Source": "Not allowed to spawn in this map", //没有本地化
+    //  "Trans": {"SC":"不允许在此地图中生成","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    {
+      "NamespaceHash": "GraphLiteral::226223090",
+      "Source": "Everyone",
+      "Trans": {"SC":"全部","JA":""}, //标记-翻译不确定有没有bug, 先试试看.
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //{
+    //  "NamespaceHash": "Globals::2255500423",
+    //  "Source": "Cannot Upload, Too many items in inventory. You cannot transfer with more than a maximum of {0} items. You have {1} items. ",
+    //  "Trans": {"SC":"","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    {
+      "NamespaceHash": "Globals::1028944218",
+      "Source": "+%d Planned Structures",
+      "Trans": {"SC":"+%d 规划建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1228960407",
+      "Source": "Everyone {0}",
+      "Trans": {"SC":"全部 {0}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::599806569",
+      "Source": "Do Nothing",
+      "Trans": {"SC":"无操作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4270743819",
+      "Source": "Plan Converted to Template!",
+      "Trans": {"SC":"规划已转换为模板!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Globals::SaveUpgradeWarningTitle",
       "Source": "Save Will Be Upgraded",
       "Trans": {"SC":"存档将被升级","JA":""},
@@ -73,21 +133,21 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3710952621",
+      "NamespaceHash": "Content::3710952621", //buffname
       "Source": "Cerberax Burn",
-      "Trans": {"SC":"三相狱犬灼烧","JA":""},
+      "Trans": {"SC":"三相狱犬灼烧","JA":"三相獄犬灼燒"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::4176681895",
+      "NamespaceHash": "Content::4176681895", //buffname
       "Source": "Cerberax Dominion",
-      "Trans": {"SC":"三相狱犬统御","JA":""},
+      "Trans": {"SC":"三相狱犬统御","JA":"三相獄犬統御"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::602440253",
+      "NamespaceHash": "Content::602440253", //buffname
       "Source": "Cerberax Venom",
-      "Trans": {"SC":"三相狱犬毒液","JA":""},
+      "Trans": {"SC":"三相狱犬毒液","JA":"三相獄犬毒液"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -195,7 +255,7 @@
     {
       "NamespaceHash": "Content::3987835968", //buffname
       "Source": "Infernal Empowerment",
-      "Trans": {"SC":"炼狱强化","JA":""},
+      "Trans": {"SC":"炼狱强化","JA":"煉獄强化"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -235,7 +295,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1599237476",
+      "NamespaceHash": "Content::1599237476", //为什么显示是吞下?
       "Source": "Ingest Cooldown",
       "Trans": {"SC":"吞食冷却","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -281,11 +341,12 @@
       "Source": "FILL",
       "Trans": {"SC":"饱腹值","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //281E300B4EDBA871C29D9C8F1B174338
     },
     {
       "NamespaceHash": "4D715D26443FC76B44E021B66D16648F", //TLC镰刀龙
       "Source": "Cross Swipe",
-      "Trans": {"SC":"双爪交叉攻击","JA":""},
+      "Trans": {"SC":"双爪攻击","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1031530222"}
     },
     {
@@ -541,23 +602,23 @@
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Globals::3471968616",
+      "NamespaceHash": "Content::3471968616",
       "Source": "You must own {0} to use this {ItemToReference}", //标记-修补
       "Trans": {"SC":"你必须拥有 {0} 才能使用 {ItemToReference}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Globals::362820317",
+      "NamespaceHash": "Content::362820317",
       "Source": "You must own {0} to use this ItemToReference",
       "Trans": {"SC":"你必须拥有 {0} 才能使用 ItemToReference","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "GraphLiteral::1154576369",
-      "Source": "Back",
-      "Trans": {"SC":"背部","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "GraphLiteral::1154576369",
+    //  "Source": "Back",
+    //  "Trans": {"SC":"背部","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "GraphLiteral::1088341150",
       "Source": "{0}\n\n<RichColor Color=\"0, 1, 1, 1\"> Accessory Slot: {1}</>",
@@ -759,7 +820,7 @@
     {
       "NamespaceHash": "Content::80632612", //buffname
       "Source": "Flameproof Fur",
-      "Trans": {"SC":"耐火防护","JA":""},
+      "Trans": {"SC":"耐火防护","JA":"耐火防護"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -870,12 +931,12 @@
       "Trans": {"SC":"冷却缩减","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "GraphLiteral::3159826618",
-      "Source": "Collect",
-      "Trans": {"SC":"收集","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "GraphLiteral::3159826618",
+    //  "Source": "Collect",
+    //  "Trans": {"SC":"收集","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "GraphLiteral::3180066867",
       "Source": "Cargo Expires: {3}",
@@ -918,24 +979,24 @@
       "Trans": {"SC":"悬赏已由{Name}取消 - {Bounty Desc}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    {
-      "NamespaceHash": "GraphLiteral::3769461038",
-      "Source": "Bounty Desc",
-      "Trans": {"SC":"悬赏描述","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2269529243",
-      "Source": "BountyCompleted",
-      "Trans": {"SC":"悬赏已完成","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::513293675",
-      "Source": "BountyExpired",
-      "Trans": {"SC":"悬赏已过期","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
+    //{
+    //  "NamespaceHash": "GraphLiteral::3769461038",
+    //  "Source": "Bounty Desc",
+    //  "Trans": {"SC":"悬赏描述","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "GraphLiteral::2269529243",
+    //  "Source": "BountyCompleted",
+    //  "Trans": {"SC":"悬赏已完成","JA":""}, //这是变量, 之前导入官方翻译, 没注意看疏忽了
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "GraphLiteral::513293675",
+    //  "Source": "BountyExpired",
+    //  "Trans": {"SC":"悬赏已过期","JA":""}, //这是变量, 之前导入官方翻译, 没注意看疏忽了
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
     {
       "NamespaceHash": "GraphLiteral::1206066995",
       "Source": "Butcher",
@@ -1131,7 +1192,7 @@
     {
       "NamespaceHash": "Content::3749445839", //buffname
       "Source": "Windshield",
-      "Trans": {"SC":"挡风防护","JA":""},
+      "Trans": {"SC":"挡风防护","JA":"擋风防護"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2029,7 +2090,7 @@
     {
       "NamespaceHash": "Content::916694487",
       "Source": "Eclipsar Synergy", //buffname
-      "Trans": {"SC":"幽皎共鸣","JA":""},
+      "Trans": {"SC":"幽皎共鸣","JA":"幽皎共鳴"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2263,7 +2324,7 @@
     {
       "NamespaceHash": "GraphLiteral::2394301790",
       "Source": "Not enough ",
-      "Trans": {"SC":"材料不足","JA":""},
+      "Trans": {"SC":"材料不足 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9162,7 +9223,7 @@
     {
       "NamespaceHash": "Content::3966097884",
       "Source": "Blinded Camouflage", //buffname
-      "Trans": {"SC":"致盲伪装","JA":""},
+      "Trans": {"SC":"致盲伪装","JA":"致盲偽装"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10238,7 +10299,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3522144800"}
     },
     {
-      "NamespaceHash": "DiscordFriendsUI::ChatsTabLabel", //ChatsTabLabel
+      "NamespaceHash": "DiscordFriendsUI::ChatsTabLabel",
       "Source": "Chats",
       "Trans": {"SC":"聊天","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1035064550"}
@@ -31423,6 +31484,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "GraphLiteral::3177824282",
+      "Source": "Complete one milestone path to gain experience",
+      "Trans": {"SC":"达成一项目标成就以获取经验值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::1919414118",
       "Source": "Complete one milestone path to unlock these skill points",
       "Trans": {"SC":"达成一项目标成就以解锁技能点","JA":""},
@@ -36580,12 +36647,6 @@
       "NamespaceHash": "Globals::3885227461",
       "Source": "You found all the Bob's Tall Tales Explorer Notes on Extinction! +5 Max Levels",
       "Trans": {"SC":"你找到了灭绝所有的\"鲍勃的传奇故事\"笔记! +5 等级上限","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2711966127",
-      "Source": " Planned Structures",
-      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

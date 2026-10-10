@@ -36722,7 +36722,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1293510324",
+      "NamespaceHash": "Content::1293510324", //变量不可翻译
       "Source": "Targeting",
       "Trans": {"SC":"Targeting","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
