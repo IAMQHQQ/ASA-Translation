@@ -32836,7 +32836,7 @@
     {
       "NamespaceHash": "Content::685800777",
       "Source": "Sleeping And Dead Players Will Not Be Teleported",
-      "Trans": {"SC":"沉睡和死亡的玩家将不会被传送","JA":""},
+      "Trans": {"SC":"处于沉睡和死亡的玩家不会被传送","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -48620,6 +48620,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
+      "NamespaceHash": "GraphLiteral::1826389978",
+      "Source": "(Unconscious)",
+      "Trans": { "SC": "(昏迷)", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
       "NamespaceHash": "Globals::2004853569",
       "Source": " (Unconscious)",
       "Trans": {"SC":" (昏迷)","JA":""},
@@ -55174,7 +55180,7 @@
     {
       "NamespaceHash": "GraphLiteral::3747873812",
       "Source": " Egg!",
-      "Trans": {"SC":" Egg!","JA":""},
+      "Trans": {"SC":" 蛋!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

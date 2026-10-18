@@ -1,6 +1,18 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::877338054", //Gen1Msn
+      "Source": "Chained Megachelon",
+      "Trans": {"SC":"被锁住的岛巨龟","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1028458245",
+      "Source": "(Full Repair)",
+      "Trans": {"SC":"(完全修复)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "GraphLiteral::3715975335", //Rhyni
       "Source": " (Insufficient Resin)",
       "Trans": {"SC":" (黏脂不足)","JA":""},
@@ -30,12 +42,6 @@
       "Trans": {"SC":"全部","JA":""}, //标记-翻译不确定有没有bug, 先试试看.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Globals::2255500423",
-    //  "Source": "Cannot Upload, Too many items in inventory. You cannot transfer with more than a maximum of {0} items. You have {1} items. ",
-    //  "Trans": {"SC":"","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
     {
       "NamespaceHash": "Globals::1028944218",
       "Source": "+%d Planned Structures",
@@ -59,6 +65,18 @@
       "Source": "Plan Converted to Template!",
       "Trans": {"SC":"规划已转换为模板!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::NewerSaveWarningTitle",
+      "Source": "Save From a Newer Version",
+      "Trans": {"SC":"较新版本的存档","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1251607978"}
+    },
+    {
+      "NamespaceHash": "Globals::NewerSaveWarningMessageWithBackup",
+      "Source": "This ARK was last saved on the Test Realm client and may not load correctly in this version of the game.\n\nIf you encounter problems, you can restore the backup made before it was upgraded by selecting this ARK and choosing the SAVE BACKUPS option. Any progress made on the upgraded Test Realm save will be lost if the backup is restored.",
+      "Trans": {"SC":"此方舟存档最近一次是在测试版客户端中保存的, 可能无法在当前游戏版本中正常载入。\n\n如果遇到问题, 可选择此方舟, 并使用“保存的备份”选项恢复升级前自动创建的备份。恢复备份后, 测试版存档所取得的所有进度都将丢失。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2058221705"}
     },
     {
       "NamespaceHash": "Globals::SaveUpgradeWarningTitle",
@@ -199,12 +217,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2175022073",
-      "Source": "Common name: Cerberax \r\nSpecies:\t\tCerberax tricipitis\r\nTime:\t\t\tUnknown\r\nDiet:\t\t\tCarnivore\r\nTemperament:\tAggressive\r\n\r\nWild\r\nSomething affecting evolution on the ARKs seems to have a knack for mythology! Cerberax tricipitis is a huge three-headed canid, capable of taking on even a Rex or Ossidon in a fair fight. Anything short of a Giga or Carcha is going to have a tough time fighting Cerberax. Its sheer size allows it to take a beating, so be sure to make it bleed if you plan to fight one.\r\n\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\nDomesticated\r\nTaming Cerberax involves winning over not one, but three animals. When subdued by narcotics, all its adrenaline surges to a single head. By quickly mounting that head and placating its anger, you can wear down its reserves of energy. Another head will wake, so repeat until all three collapse and you can feed it into submission.\r\n\r\nOnce finally tamed, Cerberax is best ridden by a team of three Survivors. One Survivor controls the body and main head, while the other Survivors control the left and right heads to maximize combat efficiency. Working as a team, the three heads bolster each other's abilities to their maximum potential!",
-      "Trans": {"SC":"通用名称: 三相狱犬\r\n拉丁学名: Cerberax tricipitis\r\n时代: 未知\r\n食性: 肉食\r\n性情: 好斗\r\n\r\n野生\r\n影响方舟生物演化的那股力量, 看来还真对神话情有独钟! 三相狱犬长着三个头, 是犬类中的庞然大物, 足以与霸王龙或奥西顿正面抗衡。没有南方巨兽龙或鲨齿龙那样的实力, 想与它较量可不轻松。它身躯庞大, 格外耐打, 真要交战, 务必设法让它流血。\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\n驯养\r\n驯服三相狱犬, 等于同时收服三头野兽。麻醉剂将它放倒后, 全身的肾上腺素会涌向其中一个头。赶紧骑上那颗头, 平息它的怒火, 就能逐渐耗尽它的精力。接着, 又会有另一个头苏醒。如此反复, 直到三个头都瘫倒下来, 便可喂食将它驯服。\r\n驯服后的三相狱犬, 最适合由三名生存者共同驾驭。一人操控躯体和中首, 另外两人分别掌控左右二首, 分工协作, 战斗才最有效率。三首彼此助力, 才能将各自的本领发挥到极致!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1694854532",
       "Source": "Output damage reduced by 5% per stack",
       "Trans": {"SC":"每层使造成的伤害降低5%","JA":""},
@@ -273,7 +285,7 @@
     {
       "NamespaceHash": "GraphLiteral::518439347",
       "Source": "Gargantar eats more than he can ever digest. That insatiable hunger makes him a voracious harvester and walking stockpile. Your steeds and supplies will enjoy the protection of his ample and sturdy gut.\r\n\r\nThe way into Gargantar's heart is through his stomach. Let him swallow you whole, then force him to gag and vomit you back up. While he is still queasy, take control and guide him to more appealing food.",
-      "Trans": {"SC":"伽甘塔尔的胃口永远填不满, 吃下的东西也远超它的消化能力。它既是采集好手, 又是一座移动仓库, 宽大厚实的肚腹还能为你的坐骑和物资提供庇护。\r\n\r\n想收服伽甘塔尔, 先得从它的胃下手。让它将你一口吞下, 再折腾得它反胃, 把你吐出来。趁它还没缓过劲, 骑上去, 带它寻找更合胃口的食物。","JA":""},
+      "Trans": {"SC":"吞岳龙的胃口永远填不满, 吃下的东西也远超它的消化能力。它既是采集好手, 又是一座移动仓库, 宽大厚实的肚腹还能为你的坐骑和物资提供庇护。\r\n\r\n想收服吞岳龙, 先得从它的胃下手。让它将你一口吞下, 再折腾得它反胃, 把你吐出来。趁它还没缓过劲, 骑上去, 带它寻找更合胃口的食物。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -303,13 +315,13 @@
     {
       "NamespaceHash": "Content::1707025796",
       "Source": "At 3 Swallow stacks, Gargantar can swallow you.",
-      "Trans": {"SC":"吞食印记达到3层后, 伽甘塔尔就能将你吞入腹中。","JA":""},
+      "Trans": {"SC":"吞食印记达到3层后, 吞岳龙就能将你吞入腹中。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2379497043",
       "Source": "Inside Gargantar",
-      "Trans": {"SC":"身处伽甘塔尔腹中","JA":""},
+      "Trans": {"SC":"身处吞岳龙腹中","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -412,7 +424,7 @@
     {
       "NamespaceHash": "Content::257124096",
       "Source": "You cannot be ingested by Gargantar again",
-      "Trans": {"SC":"伽甘塔尔短时间内无法再次吞食你","JA":""},
+      "Trans": {"SC":"吞岳龙短时间内无法再次吞食你","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -496,7 +508,7 @@
     {
       "NamespaceHash": "GraphLiteral::3096529390",
       "Source": "Gargantar",
-      "Trans": {"SC":"伽甘塔尔","JA":""},
+      "Trans": {"SC":"吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -508,7 +520,7 @@
     {
       "NamespaceHash": "GraphLiteral::2237861791",
       "Source": "Feed Gargantar",
-      "Trans": {"SC":"喂食伽甘塔尔","JA":""},
+      "Trans": {"SC":"喂食吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -538,37 +550,37 @@
     {
       "NamespaceHash": "Content::1099891526",
       "Source": "Gargantar Saddle",
-      "Trans": {"SC":"伽甘塔尔鞍","JA":""},
+      "Trans": {"SC":"吞岳龙鞍","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3595022346",
       "Source": "Equip a Gargantar with this to ride it.",
-      "Trans": {"SC":"装备到伽甘塔尔上以骑乘。","JA":""},
+      "Trans": {"SC":"装备到吞岳龙上以骑乘。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::504498961",
       "Source": "Gargantar Dossier",
-      "Trans": {"SC":"伽甘塔尔图鉴","JA":"伽甘塔尔圖鑒"},
+      "Trans": {"SC":"吞岳龙图鉴","JA":"吞岳龙圖鑒"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1572539705",
       "Source": "Fertilized Gargantar Egg",
-      "Trans": {"SC":"受精的伽甘塔尔蛋","JA":""},
+      "Trans": {"SC":"受精的吞岳龙蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2224435742",
       "Source": "Gargantar Skill Tree",
-      "Trans": {"SC":"伽甘塔尔技能树","JA":""},
+      "Trans": {"SC":"吞岳龙技能树","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1823383452",
       "Source": "Gargantar Skills",
-      "Trans": {"SC":"伽甘塔尔技能","JA":""},
+      "Trans": {"SC":"吞岳龙技能","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -578,7 +590,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::262169985",
+      "NamespaceHash": "GraphLiteral::262169985", //TLC镰刀龙
       "Source": "Threat Display",
       "Trans": {"SC":"威吓","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -676,7 +688,7 @@
     {
       "NamespaceHash": "GraphLiteral::2753950723",
       "Source": "Teleport In: {0} Up to 20 {1} allowed.",
-      "Trans": {"SC":"开始传送: {0} 最多允许20只 {1}。","JA":""},
+      "Trans": {"SC":"开始传送: {0} 最多允许20 {1}。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1284,6 +1296,8 @@
       "Source": "Embark on an epic odyssey with Astraeos, a colossal 260km² world steeped in Greek mythology! Majestic mountain ridges & marble cliffs meet pristine white beaches, and ancient ruins rise over sacred temples. Face powerful new enemies and gigantic new mythical bosses, and tame unique creatures found only on Astraeos: the nimble Maeguana, the Grand Tortugar, and the fiery Boratos! Sail the new physical seas upon Triremes, confront enemy fleets and the gargantuan Kraken itself! Will you bow to fate, or rise in defiance of Olympus?",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //Boratos
+      //Boaratos
       //GraphLiteral::4070555597
       //Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!
       //一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!
@@ -2658,9 +2672,15 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Globals::2890436803",
+      "NamespaceHash": "GraphLiteral::2890436803",
       "Source": "To Use, you must own ARK: ",
       "Trans": {"SC":"使用需拥有方舟: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1533743335",
+      "Source": "To Use, you must own ARK:",
+      "Trans": {"SC":"使用需拥有方舟:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2916,7 +2936,14 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "BFD61DC147B2F147E2BE38B0754EB7A7",
+      "NamespaceHash": "Content::2023264989",
+      "Source": "Camouflage", //buffname
+      "Trans": {"SC":"伪装","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //BFD61DC147B2F147E2BE38B0754EB7A7
+    },
+    {
+      "NamespaceHash": "BFD61DC147B2F147E2BE38B0754EB7A7", //古蛸
       "Source": "Camouflage",
       "Trans": {"SC":"伪装","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2023264989"}
@@ -3210,7 +3237,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::4015192923",
+      "NamespaceHash": "GraphLiteral::4015192923",
       "Source": "New Dragon Skill Points!",
       "Trans": {"SC":"新龙族技能点数!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -18281,14 +18308,13 @@
     {
       "NamespaceHash": "GraphLiteral::2105229573",
       "Source": "Let them keep coming! You’ve planned for this.",
-      "Trans": {"SC":"尽管放他们过来! 一切都在你的计划当中。","JA":""},
+      "Trans": {"SC":"让他们尽管来吧! 一切都在你的计划当中。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //标记-用“你早有准备”这个翻译我感觉有点怪怪的, 因为我没有玩过这个任务所以我不太懂, 后续看需不需要修改.
     },
     {
       "NamespaceHash": "GraphLiteral::2528259500",
       "Source": "You do have a plan, right?",
-      "Trans": {"SC":"你确实有计划, 对吧?","JA":""},
+      "Trans": {"SC":"你确实有个计划, 对吧?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27098,12 +27124,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::440971890",
-      "Source": "Species: Osto silvanimus\r\nTime: Unknown\r\nDiet: Carnivore\r\nTemperament: Passive\r\n\r\nWild\r\nThis time it feels like I’m trying to describe a supernatural entity, instead of the usual living fossil. Crossing paths with Osto Silvanimus (commonly called Elderclaw) is like communing with a forest’s soul. As much flora as fauna, this ursine avatar seems attuned to local plant life.\r\n\r\nAlthough Elderclaw rarely attacks unprovoked, it won’t shy away from a fight. It instinctively controls nearby vegetation to wrap itself in a thick tangle of protective vines, while sending out roots to entangle any aggressor... assuming it doesn't just knock them into a stupor with its massive paws.\r\n\r\nA nettled Elderclaw will conjure up a Spirit Echo to help ward off threats. This ethereal talisman will then emanate vibrations that weaken threats while invigorating those in its protection. A Spirit Echo collects the energies of nearby violence and imbues its Elderclaw master with enough fury and power to trigger explosive growth.\r\n\r\nWhile Spirit Echoes generally stay immaterial, they can also become tangible long enough to explode. The resulting cloud of charged spores will affect friend and foe differently, burning aggressors but closing wounds on allies.\r\n\r\n\r\nDomesticated\r\nWhile I've yet to see a tame adult Elderclaw, their cubs (or shrubs?) seem much more impressionable. Sadly, this has led Survivors to hunt and kill these lumbering giants for their seeds. Propagating your own is a long, difficult process, but once a sproutling has grown enough to leave its garden, you’ll gain a protective forest warden that can use its roots to sustainably harvest nearby trees.\r\n\r\n",
-      "Trans": {"SC":"通用名称: 远古之爪\r\n拉丁学名: Osto silvanimus\r\n时代: 未知\r\n食性: 肉食\r\n性情: 温顺\r\n\r\n野生\r\nThis time it feels like I’m trying to describe a supernatural entity, instead of the usual living fossil. Crossing paths with Osto Silvanimus (commonly called Elderclaw) is like communing with a forest’s soul. As much flora as fauna, this ursine avatar seems attuned to local plant life.\r\n\r\nAlthough Elderclaw rarely attacks unprovoked, it won’t shy away from a fight. It instinctively controls nearby vegetation to wrap itself in a thick tangle of protective vines, while sending out roots to entangle any aggressor... assuming it doesn't just knock them into a stupor with its massive paws.\r\n\r\nA nettled Elderclaw will conjure up a Spirit Echo to help ward off threats. This ethereal talisman will then emanate vibrations that weaken threats while invigorating those in its protection. A Spirit Echo collects the energies of nearby violence and imbues its Elderclaw master with enough fury and power to trigger explosive growth.\r\n\r\nWhile Spirit Echoes generally stay immaterial, they can also become tangible long enough to explode. The resulting cloud of charged spores will affect friend and foe differently, burning aggressors but closing wounds on allies.\r\n\r\n\r\n家养\r\nWhile I've yet to see a tame adult Elderclaw, their cubs (or shrubs?) seem much more impressionable. Sadly, this has led Survivors to hunt and kill these lumbering giants for their seeds. Propagating your own is a long, difficult process, but once a sproutling has grown enough to leave its garden, you’ll gain a protective forest warden that can use its roots to sustainably harvest nearby trees.\r\n\r\n","JA":""}, //偷懒晚一点翻译.
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::2099632241",
       "Source": "Adjust Corpseblossom Resource",
       "Trans": {"SC":"调节骸骨之花资源","JA":""},
@@ -28767,61 +28787,61 @@
     {
       "NamespaceHash": "GraphLiteral::1204627036",
       "Source": "Obtain 5 Allosaurus Brains",
-      "Trans": {"SC":"获取 5 个异特龙大脑","JA":""},
+      "Trans": {"SC":"获得 5 异特龙大脑","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2223344102",
       "Source": "Obtain 5 Sarchosuchus Skins",
-      "Trans": {"SC":"获取 5 个帝鳄皮肤","JA":""},
+      "Trans": {"SC":"获得 5 帝鳄皮肤","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1266946770",
       "Source": "Obtain 15 Spinosaurus Sails",
-      "Trans": {"SC":"获取 15 个棘龙背鳍","JA":""},
+      "Trans": {"SC":"获得 15 棘龙背鳍","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1348548773",
       "Source": "Obtain 15 Thylacoleo Hook-Claws",
-      "Trans": {"SC":"获取 15 个袋狮钩爪","JA":""},
+      "Trans": {"SC":"获得 15 袋狮钩爪","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2827780338",
       "Source": "Obtain 100 Giant Bee Honey",
-      "Trans": {"SC":"获取 100 个巨型蜜蜂的蜂蜜","JA":""},
+      "Trans": {"SC":"获得 100 巨型蜜蜂的蜂蜜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::4173837519",
       "Source": "Obtain 3 Giganotosaurus Hearts",
-      "Trans": {"SC":"获取 3 个南方巨兽龙心脏","JA":""},
+      "Trans": {"SC":"获得 3 南方巨兽龙心脏","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::130242961",
       "Source": "Obtain 20 Nameless Venom",
-      "Trans": {"SC":"获取 20 个无名毒液","JA":""},
+      "Trans": {"SC":"获得 20 无名毒液","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::634177801",
       "Source": "Obtain 8 Basilisk Scales",
-      "Trans": {"SC":"获取 8 个帝蟒鳞片","JA":""},
+      "Trans": {"SC":"获得 8 帝蟒鳞片","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::4067600930",
       "Source": "Obtain 5,000 Black Pearls",
-      "Trans": {"SC":"获取 5,000 个黑珍珠","JA":""},
+      "Trans": {"SC":"获得 5,000 黑珍珠","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::667741873",
       "Source": "Obtain 1,000 Black Pearls",
-      "Trans": {"SC":"获取 1,000 个黑珍珠","JA":""},
+      "Trans": {"SC":"获得 1,000 黑珍珠","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61983,18 +62003,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::4255304429",
-      "Source": "Species: Ignis leoforma\r\nTime: Unknown\r\nDiet: Carnivore\r\nTemperament: Aggressive\r\n\r\nWild\r\nIs Pyromane a cat that controls fire, or living fire that can make itself look like a cat? It does seem to have more in common with the Phoenix from that desert ARK than any lion. An author named Clarke said sufficiently advanced technology would be indistinguishable from magic… I’d say that whatever engineered this creature was plenty advanced.\r\n\r\n\r\nAn unruffled Pyromane will stay at a low burn and shrink its profile. But when provoked, that small cat can suddenly flare itself up into a lion-sized inferno. It seems to drink in any nearby fire, using that power to cauterize its own wounds and power up its arsenal of incendiary attacks.\r\n\r\nDomesticated\r\nI've only seen one tame Pyromane so far. Its rider seemed unbothered by the beast’s flames, and beyond that immune to heat in general while mounted. She claimed it could even carry her safely across a lava field. That Survivor said she spent ages trying to win her cat over, before noticing it seemed more sluggish in the rain.\r\n\r\n\r\nIn its smaller form, her pet doubled as a shoulder-mounted, feline flamethrower. And back at their campsite, she showed me how her pet could fuel a forge and dry meat into jerky. I can definitely see why such an improbable but versatile creature might have been engineered, even if I don’t understand how.\r\n\r\n\r\n",
-      "Trans": {"SC":"通用名称: 炽炎猫\r\n拉丁学名: Ignis leoforma\r\n正式名称: 狮形炽炎猫\r\n时代: 未知\r\n食性: 肉食\r\n性情: 好战\r\n\r\n\r\n野生\r\n狮形炽炎猫究竟是一种能够控制火焰的猫, 还是一团拟态成猫的生命之火? 因为相比较已知的狮子, 它似乎与方舟荒漠中栖息的凤凰共享着更多特征。一位名叫克拉克 (Clarke) 的作家曾言: 足够进步的科技与魔法没有明确的界限...因此我不得不承认, 不管是什么东西, 这种生物的造物主一定掌握着十分先进水平。\r\n尽管常态稳定的炽炎猫时刻保持着较低的燃值以及娇小的身形, 而一旦将这只小猫激怒, 你会突然感受到它爆发出狮子般的怒焰。它平日饮火解渴, 受伤时能够借助火焰的能量缓解伤痛, 并为其侵略性的火库进行充能。\r\n\r\n\r\n家养\r\n我迄今为止只见过一只驯化的炽炎猫, 它的骑手似乎不受其炽炎的影响, 可以安然无恙地骑乘其上。她甚至称自己曾骑乘炽炎猫安然穿越熔岩区域。而她还说自己曾花费大量精力取信于“猫”, 直到她发现炽炎猫在雨中会十分懈怠。\r\n而当转变为娇小形态时, 炽炎猫在她的肩上还可以兼任火焰喷射器一职。到达他们的营地之后, 她还向我展示了她的宠物为熔炉填充燃料, 并将肉迅速制成肉干。我完全理解为什么会有这样一种令人无与伦比且全才全能的生物被制造出来, 尽管我根本不明白其中的原理。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2441929722",
-      "Source": "Species: Shastasaurus carmentellum\r\nTime: Late Triassic\r\nDiet: Carnivore\r\nTemperament: Curious\r\n\r\nWild\r\nThis odd variant of Shastasaurus seems as curious about humans as its distant relative Ichthyosaur. It sure got my attention when one of these sea monsters swam up to have a look at me! Luckily, its bulk turns out to be worse than its bite.\r\n\r\n\r\nShastasaurus has weaponized the ultrasonic chirps it uses for echolocation. It can focus those sounds into a tight cone that disorients prey, or widen the effect to blast apart a school of fish in a concussive wave.\r\n\r\nDomesticated\r\nTaming a Shastasaurus was one of the most rewarding experiences of my life. I brought along some Ichthyosaur pals to entertain their larger cousin while I used a sickle to clear away some of its troublesome parasites. From then on, I had a gigantic escort in deep water.\r\n\r\n\r\nSome tribes manage to kit out their finny friend with a periscope, torpedo bays, and even a cargo hold… Those Shastasaurs end up looking like something from the old kids’ cartoon with cavemen who turned dinos into cars and submarines!\r\n",
-      "Trans": {"SC":"通用名称: 沙斯塔鱼龙\r\n拉丁学名: Shastasaurus carmentellum\r\n正式名称: 歌武沙斯塔鱼龙\r\n时代: 晚三叠世\r\n食性: 肉食\r\n性情: 好奇\r\n\r\n野生\r\n这种奇特的沙斯塔龙变种似乎和它的远亲鱼龙一样对人类充满好奇。\r\n当这群海怪中的一只朝我上浮, 并看向我时, 它便引起了我的注意! 幸好, 它硕大的体形远比它的噬咬更吓人。\r\n沙斯塔鱼龙已经能够将用于回声定位的超声波噪音用作武器, 当它们将声音聚焦为紧密的锥形便能使猎物丧失方向感, 而将其效果扩大为震荡波, 则可以震散鱼群。\r\n\r\n家养\r\n驯化一头沙斯塔鱼龙是我这一生收益最高的经历之一。我只是带着一支鱼龙小队来取悦它们的巨型远亲, 同时还使用镰刀刮去了令他瘙痒的寄生虫。之后, 一支庞大的深水舰队便从属我的调遣了。\r\n一些部落设法为这些大鳍的家伙装配有潜望镜、鱼雷舱, 甚至还有货舱...最后, 整只沙斯塔鱼龙看上去就像是被改造成了一艘潜艇...就像过去少年漫画中, 那些把恐龙改造成交通工具的穴居人一样!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1839848680",
       "Source": "Submarine Boarding Blocked",
       "Trans": {"SC":"登入潜艇受阻","JA":""},
@@ -63159,12 +63167,6 @@
       "Source": "Melee/ Fire Torpedo",
       //沙斯塔鱼龙
       "Trans": {"SC":"近战攻击/ 发射鱼雷","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1279054806",
-      "Source": "Species: Gigantoraptor nutritor\r\nTime: Late Cretaceous\r\nDiet: Omnivore\r\nTemperament: Territorial\r\n\r\nWild\r\nUnless you’re planning to raid its nest, you shouldn’t let this creature’s imposing size worry you. Gigantoraptor may be fiercely protective of its brood, but it’s much more of a caregiver than a fighter.\r\n\r\nDon’t get me wrong -- this theropod will use its sharp claws and surprising speed to defend its young when threatened. But Gigantoraptor has a soft heart for young ones -- it’ll even take in the orphaned babies of rival species.\r\n\r\nDomesticated\r\nNow for the bad news: to my knowledge, no one’s been able to figure out how to tame an adult Gigantoraptor -- its unique disposition seems resistant to behavioral conditioning. However, Survivors bolder than me were able to sneak into nests to win the trust of their young, and they claim that reward is well worth the risk.\r\n\r\nOnce matured to adulthood, your tamed Gigantoraptor will happily look after any of your tribe’s young creatures, nurturing them and teaching them how to fight. It can even use its call to help you find orphaned baby animals out in the wild. If you bring those orphans home, then your Gigantoraptor will happily add them to its brood.\r\n\r\nGigantoraptor forms an inseparable bond with its young charges. Bring them into a fight together and they will defend each other, and your tribe, far more effectively than when apart.",
-      "Trans": {"SC":"通用名称: 巨盗龙\r\n拉丁学名: Gigantoraptor nutritor\r\n正式名称: 博爱巨盗龙\r\n时代: 晚白垩世\r\n食性: 杂食\r\n性情: 强领地意识\r\n\r\n野生\r\n如果你没有袭击它的巢穴的打算的话, 自然不必为这种生物的巨大体型感到担心。巨盗龙虽然对其幼崽极为保护, 但更多时候它更像一个看护的角色, 而不是一个战斗角色。\r\n但是千万不要误会, 这种兽脚类恐龙在受到威胁时, 会用它锋利的爪子和惊人的速度来保护它的幼崽。但巨盗龙对幼崽有一颗柔软的心 -- 它甚至会收养敌对物种的遗孤。\r\n\r\n家养\r\n坏消息是: 据我所知, 还没有人能找到驯服成年巨盗龙的方法 -- 它独特的性情似乎对行为条件反射有抵抗力。然而, 比我更大胆的幸存者们能够偷偷进入巢穴赢得幼崽的信任, 他们说这份回报是值得冒险的。\r\n一旦成熟到成年, 你驯养的巨盗龙将乐于照顾你部落中的任何幼小生物, 培养它们并教它们如何战斗。它甚至可以通过呼唤帮助你找到野外的孤儿动物。如果你把这些孤儿带回家, 你的巨盗龙会乐意将它们加入自己的幼崽群体。\r\n巨盗龙与其幼崽形成一种不可分割的纽带。让它们一起参与战斗时, 它们会比分开时更加有效地保护彼此和你的部落。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70183,13 +70185,6 @@
       //未知-暂时不翻译
     },
     {
-      "NamespaceHash": "GraphLiteral::1977359039",
-      "Source": "Species: Umbris phasmequester\r\nTime: Unknown\r\nDiet: Carrion Feeder\r\nTemperament: Aggressive near carcasses\r\n\r\nWild \r\nI’d have thought an apex predator like T. Rex or Giganotosaurus would be the scariest thing on the ARK, until I first saw this vision from a heavy metal album cover spread its wings. Dreadmare can induce an acute threat response in literally anything. All the better to scare away other scavengers from the dead meat it’s drawn to.\r\n\r\n\r\nThose wings can focus gusts to create pressure blasts at the point of impact. Dreadmare also has an uncanny way of disrupting a target’s healing abilities while boosting its own. And there’s no outnumbering this terror, since its dreadful aura seems to drain the will to live from everything around it. \r\n\r\n\r\nDomesticated\r\nYou aren’t going to break this beast the usual way. The only way to gain a Dreadmare’s respect is by killing it a few times. Yes, you read that right -- you will need to respawn one to fight again and again until you prove yourself worthy. \r\n\r\n\r\nOnce you’ve won its favor, your Dreadmare will reveal its greatest ability: to tuck another of your war-beasts into a pocket dimension for later access. Soon you’ll be riding into battle on a shadowy pegasus that can bring along surprise backup!\r\n",
-      "Trans": {"SC":"","JA":""},
-      //标记-翻译未完成.
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1271715080",
       "Source": "Toggle Primary Ability",
       "Trans": {"SC":"切换主要技能","JA":""},
@@ -70400,12 +70395,6 @@
       "Trans": {"SC":"鲍勃的故事\r\n废土篇10","JA":"鮑勃的故事\r\n廢土篇10"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
-    },
-    {
-      "NamespaceHash": "GraphLiteral::482619303",
-      "Source": "Species: Dreadnoughtus recalcitrans\r\nTime: Late Cretaceous\r\nDiet: Herbivore\r\nTemperament: Territorial\r\n\r\nWild\r\nDreadnoughtus was a newly-described fossil genus in my day, named for the idea that it was so large it must’ve had nothing to fear in its own time. The current species does its namesake proud, and may even be able to defy the Titans ruling our post-apocalyptic world.\r\n\r\n\r\nA big believer in picking on creatures its own size, Dreadnoughtus will ignore anything smaller than a Spinosaur to focus on larger threats. It absorbs the fury of incoming attacks to charge up its uncanny, Element-disrupting bellow. Even then, this bruiser shows extraordinary patience, waiting until the last possible moment to come roaring back.\r\n\r\nDomesticated\r\nOnce tamed, Dreadnoughtus will gladly shoulder your heaviest artillery and carry it -- and you -- into battle, on a platform big enough to earn that ‘dreadnought’ name. Your walking war-machine will swallow boulders (or cannonballs!) to spit back up as acid-coated ammo.\r\n\r\n\r\nIf you’re going to war with Titans, it just makes sense to recruit a titanic creature with a grudge against them. Your Dreadnoughtus ally may go down fighting, but not before softening up the adversary for a killing blow. Best of luck, and give ‘em Hell for me!\r\n",
-      "Trans": {"SC":"通用名称: 无畏巨龙\r\n拉丁学名: Dreadnoughtus recalcitrans\r\n正式名称: 不屈无畏巨龙\r\n时代: 晚白垩纪\r\n食性: 植食\r\n性情: 强领地意识\r\n\r\n\r\n野生\r\n无畏巨龙是一个在我的时代新描述的化石属, 顾名思义, 巨大的体型一定让它在身处的时代无所畏惧。而如今的物种则将延续这一名称的荣耀, 它甚至绝不屈从于我们后灾变时代泰坦的高压统治。\r\n无与伦比的体型赋予了无畏巨龙极大的自信, 它漠视任何小于棘龙尺寸的生物, 专注迎战更大的威胁。通过承受来势汹汹的怒火攻势, 无畏巨龙能为其难以理解解释的元素干扰咆哮进行充能。即便如此, 这位勇猛的无畏悍将仍然保持了超凡的克制力, 直到最后一刻才会咆哮反击。\r\n\r\n\r\n家养\r\n一旦驯化, 无畏巨龙将义不容辞地肩负起你最沉重的火力, 名副其实地如同“无畏舰”般巨大的战争平台驶向战场。你的行走战争机器将吞下巨石(或炮弹!), 在转化成覆酸弹药之后喷吐出去。\r\n如果你准备向泰坦宣战, 将这样一个和泰坦不共戴天的无畏巨兽纳入麾下, 完全满足你的需要。虽然你的无畏巨龙盟友随时可能在战斗中倒下, 但绝对足以助你削弱对手, 由你予以剩下的致命一击, 并实现最终的胜利。代我将它们送入地狱, 祝君武运昌隆。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::278771044",
@@ -75488,8 +75477,57 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     }
   ],
-  //生物图鉴 - 2026-07-14 17:46:42
+  //生物图鉴 - 2026-10-18 12:40:45
   "CreatureDossier": [
+    {
+      "NamespaceHash": "Content::4156877957",
+      "Source": "Species:\tPalaeoctopus aquacaptor\r\nTime:\tLate Cretaceous\r\nDiet:\tCarnivore\r\nTemperament:\tMercurial and acquisitive\r\n \r\nWild\r\n\r\nIt seems we Survivors have delved too far, and roused a phantasmic new sea-monster from the depths. Palaeoctopus aquacaptor uses its chromatic camouflage to strike from out of nowhere, seizing the unwary in its crushing tentacles, two at a time. Its fearsome beak can crack the toughest shell or armor to devour the soft innards of its captives.\r\n\r\nIn the rare event it needs to retreat underwater, Palaeoctopus can use its siphon to blast a threat backwards and jet away with surprising speed. Those tentacles let Palaeoctopus scale sheer cliffs to drag itself out of the sea, though it’s understandably much less agile on land.\r\n\r\n\r\nDomesticated\r\n\r\nIts natural toxicity makes Palaeoctopus especially difficult to tranquilize and tame, so sedating one isn’t for the faint of heart… You have to let it drag you in close for a crushing bite, and feed narcotics into its maw while keeping clear of that deadly beak.\r\n\r\nManage to tame a Palaeoctopus, and you’ll never want for ink again. Your new cephalopod supplier can be gently coaxed to provide any color of ink your heart desires. \r\n\r\nWhile it may not set any land speed records, Palaeoctopus can get you up cliffs and over walls… or even onto a moving Ship or platform saddle! Above or below the sea, this formidable mollusk can take a lot of punishment. Just make sure to hold on tight if it uses its underwater jet-propulsion.",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1977359039",
+      "Source": "Species: Umbris phasmequester\r\nTime: Unknown\r\nDiet: Carrion Feeder\r\nTemperament: Aggressive near carcasses\r\n\r\nWild \r\nI’d have thought an apex predator like T. Rex or Giganotosaurus would be the scariest thing on the ARK, until I first saw this vision from a heavy metal album cover spread its wings. Dreadmare can induce an acute threat response in literally anything. All the better to scare away other scavengers from the dead meat it’s drawn to.\r\n\r\n\r\nThose wings can focus gusts to create pressure blasts at the point of impact. Dreadmare also has an uncanny way of disrupting a target’s healing abilities while boosting its own. And there’s no outnumbering this terror, since its dreadful aura seems to drain the will to live from everything around it. \r\n\r\n\r\nDomesticated\r\nYou aren’t going to break this beast the usual way. The only way to gain a Dreadmare’s respect is by killing it a few times. Yes, you read that right -- you will need to respawn one to fight again and again until you prove yourself worthy. \r\n\r\n\r\nOnce you’ve won its favor, your Dreadmare will reveal its greatest ability: to tuck another of your war-beasts into a pocket dimension for later access. Soon you’ll be riding into battle on a shadowy pegasus that can bring along surprise backup!\r\n",
+      "Trans": {"SC":"","JA":""},
+      //标记-翻译未完成.
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4255304429",
+      "Source": "Species: Ignis leoforma\r\nTime: Unknown\r\nDiet: Carnivore\r\nTemperament: Aggressive\r\n\r\nWild\r\nIs Pyromane a cat that controls fire, or living fire that can make itself look like a cat? It does seem to have more in common with the Phoenix from that desert ARK than any lion. An author named Clarke said sufficiently advanced technology would be indistinguishable from magic… I’d say that whatever engineered this creature was plenty advanced.\r\n\r\n\r\nAn unruffled Pyromane will stay at a low burn and shrink its profile. But when provoked, that small cat can suddenly flare itself up into a lion-sized inferno. It seems to drink in any nearby fire, using that power to cauterize its own wounds and power up its arsenal of incendiary attacks.\r\n\r\nDomesticated\r\nI've only seen one tame Pyromane so far. Its rider seemed unbothered by the beast’s flames, and beyond that immune to heat in general while mounted. She claimed it could even carry her safely across a lava field. That Survivor said she spent ages trying to win her cat over, before noticing it seemed more sluggish in the rain.\r\n\r\n\r\nIn its smaller form, her pet doubled as a shoulder-mounted, feline flamethrower. And back at their campsite, she showed me how her pet could fuel a forge and dry meat into jerky. I can definitely see why such an improbable but versatile creature might have been engineered, even if I don’t understand how.\r\n\r\n\r\n",
+      "Trans": {"SC":"通用名称: 炽炎猫\r\n拉丁学名: Ignis leoforma\r\n正式名称: 狮形炽炎猫\r\n时代: 未知\r\n食性: 肉食\r\n性情: 好战\r\n\r\n\r\n野生\r\n狮形炽炎猫究竟是一种能够控制火焰的猫, 还是一团拟态成猫的生命之火? 因为相比较已知的狮子, 它似乎与方舟荒漠中栖息的凤凰共享着更多特征。一位名叫克拉克 (Clarke) 的作家曾言: 足够进步的科技与魔法没有明确的界限...因此我不得不承认, 不管是什么东西, 这种生物的造物主一定掌握着十分先进水平。\r\n尽管常态稳定的炽炎猫时刻保持着较低的燃值以及娇小的身形, 而一旦将这只小猫激怒, 你会突然感受到它爆发出狮子般的怒焰。它平日饮火解渴, 受伤时能够借助火焰的能量缓解伤痛, 并为其侵略性的火库进行充能。\r\n\r\n\r\n家养\r\n我迄今为止只见过一只驯化的炽炎猫, 它的骑手似乎不受其炽炎的影响, 可以安然无恙地骑乘其上。她甚至称自己曾骑乘炽炎猫安然穿越熔岩区域。而她还说自己曾花费大量精力取信于“猫”, 直到她发现炽炎猫在雨中会十分懈怠。\r\n而当转变为娇小形态时, 炽炎猫在她的肩上还可以兼任火焰喷射器一职。到达他们的营地之后, 她还向我展示了她的宠物为熔炉填充燃料, 并将肉迅速制成肉干。我完全理解为什么会有这样一种令人无与伦比且全才全能的生物被制造出来, 尽管我根本不明白其中的原理。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2441929722",
+      "Source": "Species: Shastasaurus carmentellum\r\nTime: Late Triassic\r\nDiet: Carnivore\r\nTemperament: Curious\r\n\r\nWild\r\nThis odd variant of Shastasaurus seems as curious about humans as its distant relative Ichthyosaur. It sure got my attention when one of these sea monsters swam up to have a look at me! Luckily, its bulk turns out to be worse than its bite.\r\n\r\n\r\nShastasaurus has weaponized the ultrasonic chirps it uses for echolocation. It can focus those sounds into a tight cone that disorients prey, or widen the effect to blast apart a school of fish in a concussive wave.\r\n\r\nDomesticated\r\nTaming a Shastasaurus was one of the most rewarding experiences of my life. I brought along some Ichthyosaur pals to entertain their larger cousin while I used a sickle to clear away some of its troublesome parasites. From then on, I had a gigantic escort in deep water.\r\n\r\n\r\nSome tribes manage to kit out their finny friend with a periscope, torpedo bays, and even a cargo hold… Those Shastasaurs end up looking like something from the old kids’ cartoon with cavemen who turned dinos into cars and submarines!\r\n",
+      "Trans": {"SC":"通用名称: 沙斯塔鱼龙\r\n拉丁学名: Shastasaurus carmentellum\r\n正式名称: 歌武沙斯塔鱼龙\r\n时代: 晚三叠世\r\n食性: 肉食\r\n性情: 好奇\r\n\r\n野生\r\n这种奇特的沙斯塔龙变种似乎和它的远亲鱼龙一样对人类充满好奇。\r\n当这群海怪中的一只朝我上浮, 并看向我时, 它便引起了我的注意! 幸好, 它硕大的体形远比它的噬咬更吓人。\r\n沙斯塔鱼龙已经能够将用于回声定位的超声波噪音用作武器, 当它们将声音聚焦为紧密的锥形便能使猎物丧失方向感, 而将其效果扩大为震荡波, 则可以震散鱼群。\r\n\r\n家养\r\n驯化一头沙斯塔鱼龙是我这一生收益最高的经历之一。我只是带着一支鱼龙小队来取悦它们的巨型远亲, 同时还使用镰刀刮去了令他瘙痒的寄生虫。之后, 一支庞大的深水舰队便从属我的调遣了。\r\n一些部落设法为这些大鳍的家伙装配有潜望镜、鱼雷舱, 甚至还有货舱...最后, 整只沙斯塔鱼龙看上去就像是被改造成了一艘潜艇...就像过去少年漫画中, 那些把恐龙改造成交通工具的穴居人一样!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1279054806",
+      "Source": "Species: Gigantoraptor nutritor\r\nTime: Late Cretaceous\r\nDiet: Omnivore\r\nTemperament: Territorial\r\n\r\nWild\r\nUnless you’re planning to raid its nest, you shouldn’t let this creature’s imposing size worry you. Gigantoraptor may be fiercely protective of its brood, but it’s much more of a caregiver than a fighter.\r\n\r\nDon’t get me wrong -- this theropod will use its sharp claws and surprising speed to defend its young when threatened. But Gigantoraptor has a soft heart for young ones -- it’ll even take in the orphaned babies of rival species.\r\n\r\nDomesticated\r\nNow for the bad news: to my knowledge, no one’s been able to figure out how to tame an adult Gigantoraptor -- its unique disposition seems resistant to behavioral conditioning. However, Survivors bolder than me were able to sneak into nests to win the trust of their young, and they claim that reward is well worth the risk.\r\n\r\nOnce matured to adulthood, your tamed Gigantoraptor will happily look after any of your tribe’s young creatures, nurturing them and teaching them how to fight. It can even use its call to help you find orphaned baby animals out in the wild. If you bring those orphans home, then your Gigantoraptor will happily add them to its brood.\r\n\r\nGigantoraptor forms an inseparable bond with its young charges. Bring them into a fight together and they will defend each other, and your tribe, far more effectively than when apart.",
+      "Trans": {"SC":"通用名称: 巨盗龙\r\n拉丁学名: Gigantoraptor nutritor\r\n正式名称: 博爱巨盗龙\r\n时代: 晚白垩世\r\n食性: 杂食\r\n性情: 强领地意识\r\n\r\n野生\r\n如果你没有袭击它的巢穴的打算的话, 自然不必为这种生物的巨大体型感到担心。巨盗龙虽然对其幼崽极为保护, 但更多时候它更像一个看护的角色, 而不是一个战斗角色。\r\n但是千万不要误会, 这种兽脚类恐龙在受到威胁时, 会用它锋利的爪子和惊人的速度来保护它的幼崽。但巨盗龙对幼崽有一颗柔软的心 -- 它甚至会收养敌对物种的遗孤。\r\n\r\n家养\r\n坏消息是: 据我所知, 还没有人能找到驯服成年巨盗龙的方法 -- 它独特的性情似乎对行为条件反射有抵抗力。然而, 比我更大胆的幸存者们能够偷偷进入巢穴赢得幼崽的信任, 他们说这份回报是值得冒险的。\r\n一旦成熟到成年, 你驯养的巨盗龙将乐于照顾你部落中的任何幼小生物, 培养它们并教它们如何战斗。它甚至可以通过呼唤帮助你找到野外的孤儿动物。如果你把这些孤儿带回家, 你的巨盗龙会乐意将它们加入自己的幼崽群体。\r\n巨盗龙与其幼崽形成一种不可分割的纽带。让它们一起参与战斗时, 它们会比分开时更加有效地保护彼此和你的部落。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::482619303",
+      "Source": "Species: Dreadnoughtus recalcitrans\r\nTime: Late Cretaceous\r\nDiet: Herbivore\r\nTemperament: Territorial\r\n\r\nWild\r\nDreadnoughtus was a newly-described fossil genus in my day, named for the idea that it was so large it must’ve had nothing to fear in its own time. The current species does its namesake proud, and may even be able to defy the Titans ruling our post-apocalyptic world.\r\n\r\n\r\nA big believer in picking on creatures its own size, Dreadnoughtus will ignore anything smaller than a Spinosaur to focus on larger threats. It absorbs the fury of incoming attacks to charge up its uncanny, Element-disrupting bellow. Even then, this bruiser shows extraordinary patience, waiting until the last possible moment to come roaring back.\r\n\r\nDomesticated\r\nOnce tamed, Dreadnoughtus will gladly shoulder your heaviest artillery and carry it -- and you -- into battle, on a platform big enough to earn that ‘dreadnought’ name. Your walking war-machine will swallow boulders (or cannonballs!) to spit back up as acid-coated ammo.\r\n\r\n\r\nIf you’re going to war with Titans, it just makes sense to recruit a titanic creature with a grudge against them. Your Dreadnoughtus ally may go down fighting, but not before softening up the adversary for a killing blow. Best of luck, and give ‘em Hell for me!\r\n",
+      "Trans": {"SC":"通用名称: 无畏巨龙\r\n拉丁学名: Dreadnoughtus recalcitrans\r\n正式名称: 不屈无畏巨龙\r\n时代: 晚白垩纪\r\n食性: 植食\r\n性情: 强领地意识\r\n\r\n\r\n野生\r\n无畏巨龙是一个在我的时代新描述的化石属, 顾名思义, 巨大的体型一定让它在身处的时代无所畏惧。而如今的物种则将延续这一名称的荣耀, 它甚至绝不屈从于我们后灾变时代泰坦的高压统治。\r\n无与伦比的体型赋予了无畏巨龙极大的自信, 它漠视任何小于棘龙尺寸的生物, 专注迎战更大的威胁。通过承受来势汹汹的怒火攻势, 无畏巨龙能为其难以理解解释的元素干扰咆哮进行充能。即便如此, 这位勇猛的无畏悍将仍然保持了超凡的克制力, 直到最后一刻才会咆哮反击。\r\n\r\n\r\n家养\r\n一旦驯化, 无畏巨龙将义不容辞地肩负起你最沉重的火力, 名副其实地如同“无畏舰”般巨大的战争平台驶向战场。你的行走战争机器将吞下巨石(或炮弹!), 在转化成覆酸弹药之后喷吐出去。\r\n如果你准备向泰坦宣战, 将这样一个和泰坦不共戴天的无畏巨兽纳入麾下, 完全满足你的需要。虽然你的无畏巨龙盟友随时可能在战斗中倒下, 但绝对足以助你削弱对手, 由你予以剩下的致命一击, 并实现最终的胜利。代我将它们送入地狱, 祝君武运昌隆。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::440971890",
+      "Source": "Species: Osto silvanimus\r\nTime: Unknown\r\nDiet: Carnivore\r\nTemperament: Passive\r\n\r\nWild\r\nThis time it feels like I’m trying to describe a supernatural entity, instead of the usual living fossil. Crossing paths with Osto Silvanimus (commonly called Elderclaw) is like communing with a forest’s soul. As much flora as fauna, this ursine avatar seems attuned to local plant life.\r\n\r\nAlthough Elderclaw rarely attacks unprovoked, it won’t shy away from a fight. It instinctively controls nearby vegetation to wrap itself in a thick tangle of protective vines, while sending out roots to entangle any aggressor... assuming it doesn't just knock them into a stupor with its massive paws.\r\n\r\nA nettled Elderclaw will conjure up a Spirit Echo to help ward off threats. This ethereal talisman will then emanate vibrations that weaken threats while invigorating those in its protection. A Spirit Echo collects the energies of nearby violence and imbues its Elderclaw master with enough fury and power to trigger explosive growth.\r\n\r\nWhile Spirit Echoes generally stay immaterial, they can also become tangible long enough to explode. The resulting cloud of charged spores will affect friend and foe differently, burning aggressors but closing wounds on allies.\r\n\r\n\r\nDomesticated\r\nWhile I've yet to see a tame adult Elderclaw, their cubs (or shrubs?) seem much more impressionable. Sadly, this has led Survivors to hunt and kill these lumbering giants for their seeds. Propagating your own is a long, difficult process, but once a sproutling has grown enough to leave its garden, you’ll gain a protective forest warden that can use its roots to sustainably harvest nearby trees.\r\n\r\n",
+      "Trans": {"SC":"通用名称: 远古之爪\r\n拉丁学名: Osto silvanimus\r\n时代: 未知\r\n食性: 肉食\r\n性情: 温顺\r\n\r\n野生\r\nThis time it feels like I’m trying to describe a supernatural entity, instead of the usual living fossil. Crossing paths with Osto Silvanimus (commonly called Elderclaw) is like communing with a forest’s soul. As much flora as fauna, this ursine avatar seems attuned to local plant life.\r\n\r\nAlthough Elderclaw rarely attacks unprovoked, it won’t shy away from a fight. It instinctively controls nearby vegetation to wrap itself in a thick tangle of protective vines, while sending out roots to entangle any aggressor... assuming it doesn't just knock them into a stupor with its massive paws.\r\n\r\nA nettled Elderclaw will conjure up a Spirit Echo to help ward off threats. This ethereal talisman will then emanate vibrations that weaken threats while invigorating those in its protection. A Spirit Echo collects the energies of nearby violence and imbues its Elderclaw master with enough fury and power to trigger explosive growth.\r\n\r\nWhile Spirit Echoes generally stay immaterial, they can also become tangible long enough to explode. The resulting cloud of charged spores will affect friend and foe differently, burning aggressors but closing wounds on allies.\r\n\r\n\r\n家养\r\nWhile I've yet to see a tame adult Elderclaw, their cubs (or shrubs?) seem much more impressionable. Sadly, this has led Survivors to hunt and kill these lumbering giants for their seeds. Propagating your own is a long, difficult process, but once a sproutling has grown enough to leave its garden, you’ll gain a protective forest warden that can use its roots to sustainably harvest nearby trees.\r\n\r\n","JA":""}, //偷懒晚一点翻译.
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2175022073",
+      "Source": "Common name: Cerberax \r\nSpecies:\t\tCerberax tricipitis\r\nTime:\t\t\tUnknown\r\nDiet:\t\t\tCarnivore\r\nTemperament:\tAggressive\r\n\r\nWild\r\nSomething affecting evolution on the ARKs seems to have a knack for mythology! Cerberax tricipitis is a huge three-headed canid, capable of taking on even a Rex or Ossidon in a fair fight. Anything short of a Giga or Carcha is going to have a tough time fighting Cerberax. Its sheer size allows it to take a beating, so be sure to make it bleed if you plan to fight one.\r\n\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\nDomesticated\r\nTaming Cerberax involves winning over not one, but three animals. When subdued by narcotics, all its adrenaline surges to a single head. By quickly mounting that head and placating its anger, you can wear down its reserves of energy. Another head will wake, so repeat until all three collapse and you can feed it into submission.\r\n\r\nOnce finally tamed, Cerberax is best ridden by a team of three Survivors. One Survivor controls the body and main head, while the other Survivors control the left and right heads to maximize combat efficiency. Working as a team, the three heads bolster each other's abilities to their maximum potential!",
+      "Trans": {"SC":"通用名称: 三相狱犬\r\n拉丁学名: Cerberax tricipitis\r\n时代: 未知\r\n食性: 肉食\r\n性情: 好斗\r\n\r\n野生\r\n影响方舟生物演化的那股力量, 看来还真对神话情有独钟! 三相狱犬长着三个头, 是犬类中的庞然大物, 足以与霸王龙或奥西顿正面抗衡。没有南方巨兽龙或鲨齿龙那样的实力, 想与它较量可不轻松。它身躯庞大, 格外耐打, 真要交战, 务必设法让它流血。\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\n驯养\r\n驯服三相狱犬, 等于同时收服三头野兽。麻醉剂将它放倒后, 全身的肾上腺素会涌向其中一个头。赶紧骑上那颗头, 平息它的怒火, 就能逐渐耗尽它的精力。接着, 又会有另一个头苏醒。如此反复, 直到三个头都瘫倒下来, 便可喂食将它驯服。\r\n驯服后的三相狱犬, 最适合由三名生存者共同驾驭。一人操控躯体和中首, 另外两人分别掌控左右二首, 分工协作, 战斗才最有效率。三首彼此助力, 才能将各自的本领发挥到极致!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "GraphLiteral::2136251779",
       "Source": "Common Name: Ossidon\r\nSpecies: Cryopithecus Dominus\r\nTime: Necrocene\r\nDiet: Carnivore\r\nTemperament: Relentless\r\n\r\nOverview\r\nProject Ossidon has already yielded the ideal apex protector for our people! Experimentation with Red Element infusion of creatures engineered for hardiness has given us a truly fearsome anthropoid that can dominate the Antarctic wastes. \r\n\r\nNote Information\r\nBy design, these noble snow-beasts can be sorted at a distance by adaption. Each specimen morphologically expresses its most useful genomic trait. The healthiest Ossidon will grow largest, while the deadliest will flash the longest claws.\r\n\r\nApplications\r\nBiotech teams are laboring around the clock to gestate and domesticate as many Ossidons as possible, for the day they may be needed to keep a Titan at bay. In the near term, these glorious behemoths will be employed as our peacekeepers and guardians.\r\n\r\nVisual Attachment\r\nOssidon was engineered to produce excessive quantities of cryogenic mucus. This foul substance is the creature's greatest weapon, whether rolled into an icy wrecking ball or spit in a shower of bone-chilling slush.\r\n\r\nAny rider will feel unstoppable astride one of these imposing brutes! Our mounted forces will soon become as integral to the defense of this outpost as our shielding.",
@@ -79218,7 +79256,7 @@
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1004640851",
       "Source": "Allows Gargantar to swallow creatures up to {Modifier_Gargantar_Grab_Drag} of its maximum drag weight capacity.",
-      "Trans": {"SC":"伽甘塔尔可吞纳生物的拖拽重量上限为最大值的{Modifier_Gargantar_Grab_Drag}。","JA":""},
+      "Trans": {"SC":"吞岳龙可吞纳生物的拖拽重量上限为最大值的{Modifier_Gargantar_Grab_Drag}。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -79266,7 +79304,7 @@
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::1506295816",
       "Source": "Enemies inside Gargantar take acid damage based on their maximum Health.",
-      "Trans": {"SC":"伽甘塔尔腹中的敌人会受到酸液伤害, 伤害量按各自的最大生命值计算。","JA":""},
+      "Trans": {"SC":"吞岳龙腹中的敌人会受到酸液伤害, 伤害量按各自的最大生命值计算。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -79326,7 +79364,7 @@
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::2800029935",
       "Source": "Spray acid in front of Gargantar, dealing damage and consuming Stomach Filling.",
-      "Trans": {"SC":"消耗“饱腹值”, 伽甘塔尔向前方喷出酸液并造成伤害。","JA":""},
+      "Trans": {"SC":"消耗“饱腹值”, 吞岳龙向前方喷出酸液并造成伤害。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -79489,361 +79527,361 @@
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1691756546",
       "Source": "Claim 1 baby Gargantar",
-      "Trans": {"SC":"认领 1 只伽甘塔尔幼崽","JA":""},
+      "Trans": {"SC":"认领 1 只吞岳龙幼崽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::788027644",
       "Source": "Claim 2 baby Gargantar",
-      "Trans": {"SC":"认领 2 只伽甘塔尔幼崽","JA":""},
+      "Trans": {"SC":"认领 2 只吞岳龙幼崽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2714596713",
       "Source": "Claim 3 baby Gargantar",
-      "Trans": {"SC":"认领 3 只伽甘塔尔幼崽","JA":""},
+      "Trans": {"SC":"认领 3 只吞岳龙幼崽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2611626622",
       "Source": "Deal 10000 damage to swallowed enemies with a Gargantar's Acid Reflux",
-      "Trans": {"SC":"用伽甘塔尔的胃酸侵蚀对腹中敌人造成 10000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的胃酸侵蚀对腹中敌人造成 10000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1708380408",
       "Source": "Deal 15000 damage with a Gargantar's spit",
-      "Trans": {"SC":"用伽甘塔尔的酸液喷吐造成 15000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的酸液喷吐造成 15000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::997226138",
       "Source": "Deal 15000 damage with a Gargantar's vomit",
-      "Trans": {"SC":"用伽甘塔尔的腐液呕吐造成 15000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的腐液呕吐造成 15000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3936994517",
       "Source": "Deal 2000 damage to swallowed enemies with a Gargantar's Acid Reflux",
-      "Trans": {"SC":"用伽甘塔尔的胃酸侵蚀对腹中敌人造成 2000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的胃酸侵蚀对腹中敌人造成 2000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::6613640",
       "Source": "Deal 2000 damage with a Gargantar's spit",
-      "Trans": {"SC":"用伽甘塔尔的酸液喷吐造成 2000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的酸液喷吐造成 2000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4025424872",
       "Source": "Deal 2000 damage with a Gargantar's vomit",
-      "Trans": {"SC":"用伽甘塔尔的腐液呕吐造成 2000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的腐液呕吐造成 2000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3742415866",
       "Source": "Deal 250000 damage while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔造成 250000 点伤害","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙造成 250000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3703416745",
       "Source": "Deal 30000 damage to swallowed enemies with a Gargantar's Acid Reflux",
-      "Trans": {"SC":"用伽甘塔尔的胃酸侵蚀对腹中敌人造成 30000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的胃酸侵蚀对腹中敌人造成 30000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1288940466",
       "Source": "Deal 5000 damage while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔造成 5000 点伤害","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙造成 5000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3306834579",
       "Source": "Deal 50000 damage while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔造成 50000 点伤害","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙造成 50000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4274450928",
       "Source": "Deal 50000 damage with a Gargantar's spit",
-      "Trans": {"SC":"用伽甘塔尔的酸液喷吐造成 50000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的酸液喷吐造成 50000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2535710330",
       "Source": "Deal 50000 damage with a Gargantar's vomit",
-      "Trans": {"SC":"用伽甘塔尔的腐液呕吐造成 50000 点伤害","JA":""},
+      "Trans": {"SC":"用吞岳龙的腐液呕吐造成 50000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3393547017",
       "Source": "Dive for 2500m while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔俯冲 2500 米","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙俯冲 2500 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3496254919",
       "Source": "Dive for 500m while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔俯冲 500 米","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙俯冲 500 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1927492623",
       "Source": "Dive for 7500m while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔俯冲 7500 米","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙俯冲 7500 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3058968618",
       "Source": "Grab 15 enemy creatures with a Gargantar",
-      "Trans": {"SC":"用伽甘塔尔吞纳 15 只敌对生物","JA":""},
+      "Trans": {"SC":"用吞岳龙吞纳 15 只敌对生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2959996789",
       "Source": "Grab 3 enemy creatures with a Gargantar",
-      "Trans": {"SC":"用伽甘塔尔吞纳 3 只敌对生物","JA":""},
+      "Trans": {"SC":"用吞岳龙吞纳 3 只敌对生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1977135172",
       "Source": "Grab 40 enemy creatures with a Gargantar",
-      "Trans": {"SC":"用伽甘塔尔吞纳 40 只敌对生物","JA":""},
+      "Trans": {"SC":"用吞岳龙吞纳 40 只敌对生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::761028522",
       "Source": "Harvest 100 crystal riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 100 水晶","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 100 水晶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3441212131",
       "Source": "Harvest 100 obsidian riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 100 黑曜石","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 100 黑曜石","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1702124813",
       "Source": "Harvest 100 raw meat riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 100 生肉","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 100 生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::673552647",
       "Source": "Harvest 1000 crystal riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 1000 水晶","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 1000 水晶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3250602007",
       "Source": "Harvest 1000 raw meat riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 1000 生肉","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 1000 生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1510280365",
       "Source": "Harvest 10000 metal riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 10000 金属","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 10000 金属","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3393542163",
       "Source": "Harvest 150 prime meat riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 150 优质生肉","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 150 优质生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::91061683",
       "Source": "Harvest 150 rare mushrooms riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 150 稀有蘑菇","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 150 稀有蘑菇","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3511008383",
       "Source": "Harvest 20000 wood riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 20000 木头","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 20000 木头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1734474668",
       "Source": "Harvest 25 prime meat riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 25 优质生肉","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 25 优质生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1907224477",
       "Source": "Harvest 25 rare mushrooms riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 25 稀有蘑菇","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 25 稀有蘑菇","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2756025813",
       "Source": "Harvest 250 metal riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 250 金属","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 250 金属","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2807693482",
       "Source": "Harvest 2500 metal riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 2500 金属","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 2500 金属","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::240602527",
       "Source": "Harvest 3000 obsidian riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 3000 黑曜石","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 3000 黑曜石","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1464438663",
       "Source": "Harvest 4000 crystal riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 4000 水晶","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 4000 水晶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::413243373",
       "Source": "Harvest 500 prime meat riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 500 优质生肉","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 500 优质生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2839467347",
       "Source": "Harvest 500 rare mushrooms riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 500 稀有蘑菇","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 500 稀有蘑菇","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3226097621",
       "Source": "Harvest 500 wood riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 500 木头","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 500 木头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::239047899",
       "Source": "Harvest 5000 raw meat riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 5000 生肉","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 5000 生肉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3626602404",
       "Source": "Harvest 5000 wood riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 5000 木头","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 5000 木头","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2531130586",
       "Source": "Harvest 750 obsidian riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔采集 750 黑曜石","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙采集 750 黑曜石","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4229161970",
       "Source": "Kill 10 creatures while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔击杀 10 只生物","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙击杀 10 只生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3599357502",
       "Source": "Kill 10 wild Gargantar",
-      "Trans": {"SC":"击杀 10 只野生伽甘塔尔","JA":""},
+      "Trans": {"SC":"击杀 10 只野生吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2043641432",
       "Source": "Kill 20 wild Gargantar",
-      "Trans": {"SC":"击杀 20 只野生伽甘塔尔","JA":""},
+      "Trans": {"SC":"击杀 20 只野生吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3194323524",
       "Source": "Kill 250 creatures while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔击杀 250 只生物","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙击杀 250 只生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::1138356543",
       "Source": "Kill 3 wild Gargantar",
-      "Trans": {"SC":"击杀 3 只野生伽甘塔尔","JA":""},
+      "Trans": {"SC":"击杀 3 只野生吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3051651622",
       "Source": "Kill 75 creatures while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔击杀 75 只生物","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙击杀 75 只生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::4215288954",
       "Source": "Receive 1000 damage while a Gargantar is in Fortress mode",
-      "Trans": {"SC":"让伽甘塔尔在堡垒姿态下承受 1000 点伤害","JA":""},
+      "Trans": {"SC":"让吞岳龙在堡垒姿态下承受 1000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3156729522",
       "Source": "Receive 1000 damage while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔承受 1000 点伤害","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙承受 1000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::251764436",
       "Source": "Receive 15000 damage while a Gargantar is in Fortress mode",
-      "Trans": {"SC":"让伽甘塔尔在堡垒姿态下承受 15000 点伤害","JA":""},
+      "Trans": {"SC":"让吞岳龙在堡垒姿态下承受 15000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3861252676",
       "Source": "Receive 15000 damage while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔承受 15000 点伤害","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙承受 15000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3220136931",
       "Source": "Receive 5000 damage while a Gargantar is in Fortress mode",
-      "Trans": {"SC":"让伽甘塔尔在堡垒姿态下承受 5000 点伤害","JA":""},
+      "Trans": {"SC":"让吞岳龙在堡垒姿态下承受 5000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::654044742",
       "Source": "Receive 5000 damage while riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔承受 5000 点伤害","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙承受 5000 点伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3332562825",
       "Source": "Tame 1 Gargantar",
-      "Trans": {"SC":"驯服 1 只伽甘塔尔","JA":""},
+      "Trans": {"SC":"驯服 1 只吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3101333295",
       "Source": "Tame 2 Gargantar",
-      "Trans": {"SC":"驯服 2 只伽甘塔尔","JA":""},
+      "Trans": {"SC":"驯服 2 只吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2465378125",
       "Source": "Tame 3 Gargantar",
-      "Trans": {"SC":"驯服 3 只伽甘塔尔","JA":""},
+      "Trans": {"SC":"驯服 3 只吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3140244624",
       "Source": "Travel 25000 meters riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔移动 25000 米","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙移动 25000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::2115800824",
       "Source": "Travel 5000 meters riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔移动 5000 米","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙移动 5000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "DT_Milestones_Dragontopia_Gargantar::3292545552",
       "Source": "Travel 75000 meters riding a Gargantar",
-      "Trans": {"SC":"骑乘伽甘塔尔移动 75000 米","JA":""},
+      "Trans": {"SC":"骑乘吞岳龙移动 75000 米","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
