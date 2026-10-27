@@ -5176,7 +5176,7 @@
     {
       "NamespaceHash": "Content::1226454150",
       "Source": "Being healed by TekPistol beams",
-      "Trans": {"SC":"被泰克相枪光束治愈","JA":""},
+      "Trans": {"SC":"被泰克相位手枪光束治愈","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36850,7 +36850,7 @@
     {
       "NamespaceHash": "Content::1016250831",
       "Source": "Tek Phase Pistol Record",
-      "Trans": {"SC":"泰克相枪笔记","JA":""},
+      "Trans": {"SC":"泰克相位手枪笔记","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

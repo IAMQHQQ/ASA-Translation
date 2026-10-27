@@ -1,6 +1,146 @@
 {
   "Official": [
     {
+      "NamespaceHash": "GraphLiteral::2874717746", //TLC GIGA
+      "Source": "Fight to regain control!",
+      "Trans": {"SC":"争取夺回掌控权!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1864835403", //BUFFNAME
+      "Source": "Wounded Fury",
+      "Trans": {"SC":"负伤之怒","JA":"負傷之怒"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::430968029", //BUFFNAME
+      "Source": "Wounded Fury (Ally)",
+      "Trans": {"SC":"负伤之怒 (友军)","JA":"負傷之怒 (友軍)"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3292605363",
+      "Source": " Wounded Fury Display",
+      "Trans": {"SC":" 负伤之怒显示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3100046365", //TLC GIGA
+      "Source": "Strength increases as ",
+      "Trans": {"SC":"力量会随着 ","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2327012473", //TLC GIGA
+      "Source": " loses health.",
+      "Trans": {"SC":" 血量过低时爆发得更加强大。","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::93284996", //TLC GIGA
+      "Source": "Currently Receiving: ",
+      "Trans": {"SC":"当前获得: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "9E40CCB54014E7C8CB9ED891689CA3AF", //TLC GIGA
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3062973045",
+      "Source": "Heavy Stomp",
+      "Trans": {"SC":"重踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //730C09E44C05E8CE031CCB86D74BDAF7 //TLC GIGA
+    },
+    {
+      "NamespaceHash": "GraphLiteral::162446308",
+      "Source": "Tail Slam",
+      "Trans": {"SC":"尾部猛砸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //33B6994E4DF68414026EAC90161D40C9 //TLC GIGA
+    },
+    {
+      "NamespaceHash": "Content::3702768662",
+      "Source": "(Aim Forward) {Targeting}",
+      "Trans": {"SC":"(向前瞄准) {Targeting}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3460877388",
+      "Source": "(Aim Backward) {Targeting}",
+      "Trans": {"SC":"(向后瞄准) {Targeting}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3154296713",
+      "Source": "Increased damage and reduced damage taken when a lone Dreadnoughtus is around powerful creatures",
+      "Trans": {"SC":"当附近存在强大生物, 且没有其他无畏巨龙时, 无畏巨龙造成的伤害提高, 受到的伤害降低。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3386493628",
+      "Source": "Apex Offering",
+      "Trans": {"SC":"巅峰贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2273068180",
+      "Source": "An offering assembled from the trophies of powerful Alpha creatures. Carry it near a wild Giganotosaurus to initiate an Apex Challenge.",
+      "Trans": {"SC":"由强大精英生物的战利品组合而成的贡品。携带它靠近野生南方巨兽龙, 即可发起巅峰挑战。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2391644990",
+      "Source": "Lost Colony Seats",
+      "Trans": {"SC":"失落之地座椅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3567202684",
+      "Source": "Lost Colony Sign",
+      "Trans": {"SC":"失落之地告示牌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1257264201", //BUFFNAME
+      "Source": "Hades Flames",
+      "Trans": {"SC":"冥焰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1976340111", //BUFFNAME
+      "Source": "Suffocation",
+      "Trans": {"SC":"窒息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::662235340", //BUFFNAME
+      "Source": "Palaeoctopus's Grasp",
+      "Trans": {"SC":"古蛸抓握","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::214606667",
+      "Source": "MOD BROWSER",
+      "Trans": {"SC":"浏览模组界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3269975731",
+      "Source": "Force: ",
+      "Trans": {"SC":"功率: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::994933563",
+      "Source": "Mod ID",
+      "Trans": {"SC":"模组ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::877338054", //Gen1Msn
       "Source": "Chained Megachelon",
       "Trans": {"SC":"被锁住的岛巨龟","JA":""},
@@ -1856,7 +1996,7 @@
     //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     //},
     {
-      "NamespaceHash": "Globals::4259966480",
+      "NamespaceHash": "Globals::4259966480", //不可被驯服的龙
       "Source": "Feral ",
       "Trans": {"SC":"野化 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -2117,6 +2257,12 @@
       "NamespaceHash": "GraphLiteral::3823894590",
       "Source": " Resistance",
       "Trans": {"SC":" 抗性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3864804050",
+      "Source": " Damage",
+      "Trans": {"SC":" 伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7605,9 +7751,9 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3364339961",
+      "NamespaceHash": "Globals::3364339961",
       "Source": "你好，我叫HLN-A，是一种分形人格。我将全程引导你。听我的话，兴许能让你好好活着——因为我也是新手。", //?
-      "Trans": {"SC":"你好, 我叫HLN-A, 是一种分形人格。我将全程引导你。听我的话, 兴许能让你好好活着——因为我也是新手。","JA":""},
+      "Trans": {"SC":"你好, 我叫HLN-A, 是一种分形人格。我将全程引导你。听我的话, 兴许能让你好好活着 —— 因为我也是新手。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36843,7 +36989,7 @@
     {
       "NamespaceHash": "Content::53037306",
       "Source": "But in our time together, I got to\nbecome something new, someone new.\nNot Helena -- HLN-A.",
-      "Trans": {"SC":"但在与你共度的时光里, 我蜕变\n成了全新的存在, 新的个体。\n不再是海莲娜 -- 而是HLN-A。","JA":""},
+      "Trans": {"SC":"但在我们相伴的这段时光里, 我得以\n成了全新的存在, 新的个体。\n不再是海莲娜 -- 而是HLN-A。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36863,8 +37009,7 @@
     {
       "NamespaceHash": "Content::3936488373",
       "Source": "And who knows?\nMaybe two lost souls can still meet again\nsomewhere, out among the stars.",
-      "Trans": {"SC":"","JA":""},
-      //待翻译
+      "Trans": {"SC":"谁知道呢?\n也许两个迷失的灵魂\n还能在群星之间的某个地方重逢。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -46116,7 +46261,7 @@
     {
       "NamespaceHash": "Content::4236036844",
       "Source": "Tek Phase Pistol",
-      "Trans": {"SC":"泰克相枪","JA":""},
+      "Trans": {"SC":"泰克相位手枪","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -52900,7 +53045,7 @@
     {
       "NamespaceHash": "GraphLiteral::3363853372",
       "Source": "Want your own ARK server?",
-      "Trans": {"SC":"想拥有自己的方舟服务器吗?","JA":""}, //标记-123
+      "Trans": {"SC":"想拥有自己的方舟服务器吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -57164,8 +57309,8 @@
     },
     {
       "NamespaceHash": "GraphLiteral::1651445276",
-      "Source": "Sound The Alarm",
-      "Trans": {"SC":"拉响警报","JA":""},
+      "Source": "Sound The Alarm", //buffname
+      "Trans": {"SC":"拉响警报","JA":"拉响警報"},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -59234,7 +59379,7 @@
       "NamespaceHash": "Content::4034103428",
       "Source": "Odermann Cove",
       //标记-可能是地名
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"奥德曼海湾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -59449,7 +59594,7 @@
       "NamespaceHash": "Content::4057833658",
       "Source": "Valley of The Sun",
       //标记-可能是地名
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"旭日山谷","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60954,7 +61099,7 @@
       "NamespaceHash": "Content::1862883508",
       "Source": "Barrel",
       //奇怪! 突然找不到了, 曾出现在储物桶。
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"桶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -71358,7 +71503,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1803085135",
+      "NamespaceHash": "GraphLiteral::1803085135",
       "Source": " for ",
       "Trans": {"SC":" 持续 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -75139,6 +75284,8 @@
       "Source": "Beelzebufo",
       "Trans": {"SC":"魔鬼蛙","JA":""}, //魔鬼蟾-未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      //Beelze: 源自Beelzebub(别西卜), 引申为恶魔/魔鬼
+      //bufo: 蟾蜍
     },
     {
       "NamespaceHash": "Content::423168591",
