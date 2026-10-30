@@ -1,5 +1,6 @@
 {
-  "GuiShan Collection": [     //2026.8.15
+  "GuiShan Collection": [
+    //2026.10.29
     {
       "NamespaceHash": "Content::2545223253",
       "Source": "Arganodus",
@@ -69,7 +70,7 @@
     {
       "NamespaceHash": "Content::4159296085",
       "Source": "Alpha Ichthyostega Laugher",
-      "Trans": {"SC":"精英鱼石螈嘲谑者","JA":"精英鱼石螈嘲謔者"},
+      "Trans": {"SC":"精英奶笑·鱼石螈","JA":""}, //精英奶螈、精英奶笑·鱼石螈
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -315,7 +316,7 @@
     {
       "NamespaceHash": "Content::2707604193",
       "Source": "Nai Long Costume",
-      "Trans": {"SC":"奶龙外观皮肤","JA":""},
+      "Trans": {"SC":"奶龙外观皮肤","JA":""}, //奶螈
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
