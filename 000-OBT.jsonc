@@ -10750,7 +10750,7 @@
     {
       "NamespaceHash": "Content::3822798819",
       "Source": "Dilophosaurus Dossier",
-      "Trans": {"SC":"双嵴龙图鉴","JA":"双嵴龙圖鑒"},
+      "Trans": {"SC":"双嵴龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -17815,7 +17815,7 @@
       "Trans": {"SC":"高","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-        {
+    {
       "NamespaceHash": "Globals::546374199",
       "Source": "High",
       "Trans": {"SC":"远","JA":""},
@@ -18424,7 +18424,7 @@
     {
       "NamespaceHash": "Content::1107421618",
       "Source": "Hyperdrive",
-      "Trans": {"SC":"时空跃迁","JA":"時空躍迁"},
+      "Trans": {"SC":"时空跃迁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -21754,7 +21754,7 @@
     {
       "NamespaceHash": "Content::3318471538",
       "Source": "Level {1}",
-      "Trans": {"SC":"等级 {1}","JA":"等級 {1}"},
+      "Trans": {"SC":"等级 {1}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22564,7 +22564,7 @@
     {
       "NamespaceHash": "Content::3475015102",
       "Source": "Magmasaur Prevent Freezing",
-      "Trans": {"SC":"熔岩龙免疫冰冻","JA":"熔岩龙免疫冰凍"},
+      "Trans": {"SC":"熔岩龙免疫冰冻","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23230,7 +23230,7 @@
     {
       "NamespaceHash": "Content::3591006515",
       "Source": "Mission Area",
-      "Trans": {"SC":"任务区域","JA":"任務区域"},
+      "Trans": {"SC":"任务区域","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -26032,7 +26032,7 @@
     {
       "NamespaceHash": "Content::2699347341",
       "Source": "Outdoor Radiation",
-      "Trans": {"SC":"室外辐射","JA":"室外輻射"},
+      "Trans": {"SC":"室外辐射","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32392,7 +32392,7 @@
     {
       "NamespaceHash": "Content::4170333872",
       "Source": "Shielded",
-      "Trans": {"SC":"护盾","JA":"護盾"},
+      "Trans": {"SC":"护盾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -35146,8 +35146,8 @@
     {
       "NamespaceHash": "Content::3709355382",
       "Source": "You can use this to skin the appearance of pants into a bikini bottom. Something funnyabout something relevant !",
-      "Trans": { "SC": "你可以使用这个皮肤将裤子的外观更改为比基尼下装。\n穿上后，好像随时准备去沙滩派对!", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"你可以使用这个皮肤将裤子的外观更改为比基尼下装。\n穿上后，好像随时准备去沙滩派对!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::575961963",
@@ -48622,8 +48622,8 @@
     {
       "NamespaceHash": "GraphLiteral::1826389978",
       "Source": "(Unconscious)",
-      "Trans": { "SC": "(昏迷)", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"(昏迷)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::2004853569",
@@ -60628,8 +60628,8 @@
     {
       "NamespaceHash": "Globals::1546270943",
       "Source": "TILT: ",
-      "Trans": { "SC": "俯仰: ", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+      "Trans": {"SC":"俯仰: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1653613316",
@@ -66538,7 +66538,7 @@
     {
       "NamespaceHash": "Content::43697864",
       "Source": "X-Argentavis",
-      "Trans": {"SC":"X-阿根廷鹫","JA":"X-阿根廷鷲"},
+      "Trans": {"SC":"X-阿根廷鹫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -66550,7 +66550,7 @@
     {
       "NamespaceHash": "Content::781178755",
       "Source": "X-Dunkleosteus",
-      "Trans": {"SC":"X-邓氏鱼","JA":"X-鄧氏鱼"},
+      "Trans": {"SC":"X-邓氏鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -66568,13 +66568,13 @@
     {
       "NamespaceHash": "Content::1788900844",
       "Source": "X-Mosasaurus",
-      "Trans": {"SC":"X-沧龙","JA":"X-滄龙"},
+      "Trans": {"SC":"X-沧龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::54944711",
       "Source": "X-Otter",
-      "Trans": {"SC":"X-水獭","JA":"X-水獺"},
+      "Trans": {"SC":"X-水獭","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -66586,7 +66586,7 @@
     {
       "NamespaceHash": "Content::2698650470",
       "Source": "X-Parasaur",
-      "Trans": {"SC":"X-副栉龙","JA":"X-副櫛龙"},
+      "Trans": {"SC":"X-副栉龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -66688,13 +66688,13 @@
     {
       "NamespaceHash": "Content::1357362504",
       "Source": "R-Megatherium",
-      "Trans": {"SC":"R-大地懒","JA":"R-大地懶"},
+      "Trans": {"SC":"R-大地懒","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1599176790",
       "Source": "R-Parasaur",
-      "Trans": {"SC":"R-副栉龙","JA":"R-副櫛龙"},
+      "Trans": {"SC":"R-副栉龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -66712,13 +66712,13 @@
     {
       "NamespaceHash": "Content::1547325176",
       "Source": "R-Snow Owl",
-      "Trans": {"SC":"R-雪鸮","JA":"R-雪鴞"},
+      "Trans": {"SC":"R-雪鸮","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1981186552",
       "Source": "R-Thylacoleo",
-      "Trans": {"SC":"R-袋狮","JA":"R-袋獅"},
+      "Trans": {"SC":"R-袋狮","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -67019,7 +67019,7 @@
     {
       "NamespaceHash": "Content::1285064016",
       "Source": "Phoenix",
-      "Trans": {"SC":"凤凰","JA":"鳳凰"},
+      "Trans": {"SC":"凤凰","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -68038,7 +68038,7 @@
     {
       "NamespaceHash": "Content::3480201776",
       "Source": "Corrupted Dilophosaur",
-      "Trans": {"SC":"腐化双嵴龙","JA":"腐化双脊龙"},
+      "Trans": {"SC":"腐化双嵴龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68050,7 +68050,7 @@
     {
       "NamespaceHash": "Content::365598476",
       "Source": "R-Dilophosaur",
-      "Trans": {"SC":"R-双嵴龙","JA":"R-双脊龙"},
+      "Trans": {"SC":"R-双嵴龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -68068,7 +68068,7 @@
     {
       "NamespaceHash": "Content::2961161727",
       "Source": "VR Dilophosaur",
-      "Trans": {"SC":"VR 双嵴龙","JA":"VR 双脊龙"},
+      "Trans": {"SC":"VR 双嵴龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -68176,13 +68176,13 @@
     {
       "NamespaceHash": "Content::1431728353",
       "Source": "VR Argentavis",
-      "Trans": {"SC":"VR 阿根廷鹫","JA":"VR 阿根廷鷲"},
+      "Trans": {"SC":"VR 阿根廷鹫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1330378407",
       "Source": "Corrupted Arthropluera",
-      "Trans": {"SC":"腐化节胸虫","JA":"腐化節胸虫"},
+      "Trans": {"SC":"腐化节胸虫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68242,7 +68242,7 @@
     {
       "NamespaceHash": "Content::911365967",
       "Source": "VR Chalicotherium",
-      "Trans": {"SC":"VR 爪兽","JA":"VR 爪獸"},
+      "Trans": {"SC":"VR 爪兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -68521,7 +68521,7 @@
     {
       "NamespaceHash": "Content::2244923478",
       "Source": "Molleratops",
-      "Trans": {"SC":"驼峰龙","JA":"駝峰龙"},
+      "Trans": {"SC":"驼峰龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68803,7 +68803,7 @@
     {
       "NamespaceHash": "Content::988418302",
       "Source": "VR Titanoboa",
-      "Trans": {"SC":"VR 泰坦蚺","JA":"VR 泰坦蟒"},
+      "Trans": {"SC":"VR 泰坦蚺","JA":""},
       //蟒是字库缺失的妥协
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
@@ -69642,24 +69642,24 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
-    // 2025-10-09 18:52:29 //繁&修
+  // 2025-10-09 18:52:29 //繁&修
   "TC": [
     {
       "NamespaceHash": "Content::717402219",
       "Source": "Empowered",
-      "Trans": {"SC":"伤害激增","JA":"傷害激增"},
+      "Trans": {"SC":"伤害激增","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4014918171",
       "Source": "You are regaining Health!",
-      "Trans": {"SC":"获得生命恢復!","JA":"獲得生命恢復!"},
+      "Trans": {"SC":"获得生命恢復!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3430849830",
       "Source": "Rooted",
-      "Trans": {"SC":"树根缠绕","JA":"樹根纏繞"},
+      "Trans": {"SC":"树根缠绕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -69677,13 +69677,13 @@
     {
       "NamespaceHash": "Content::686569656",
       "Source": "XP",
-      "Trans": {"SC":"经验","JA":"經驗"},
+      "Trans": {"SC":"经验","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2723993491",
       "Source": "Ready",
-      "Trans": {"SC":"准备","JA":"准備"},
+      "Trans": {"SC":"准备","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -69725,25 +69725,25 @@
     {
       "NamespaceHash": "Content::2462717973",
       "Source": "Party Dodo",
-      "Trans": {"SC":"派对渡渡鸟","JA":"派對渡渡鸟"},
+      "Trans": {"SC":"派对渡渡鸟","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1334304490",
       "Source": "Giganotosaurus",
-      "Trans": {"SC":"南方巨兽龙","JA":"南方巨獸龙"},
+      "Trans": {"SC":"南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2078043573",
       "Source": "Hyaenodon",
-      "Trans": {"SC":"鬣齿兽","JA":"鬣齿獸"},
+      "Trans": {"SC":"鬣齿兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::26195038",
       "Source": "Hyaenodon ",
-      "Trans": {"SC":"鬣齿兽","JA":"鬣齿獸"},
+      "Trans": {"SC":"鬣齿兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -69755,7 +69755,7 @@
     {
       "NamespaceHash": "Content::2663492657",
       "Source": "Diseased Leech",
-      "Trans": {"SC":"病变水蛭","JA":"病變水蛭"},
+      "Trans": {"SC":"病变水蛭","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -69768,31 +69768,31 @@
     {
       "NamespaceHash": "Content::860261664",
       "Source": "Alpha Tusoteuthis",
-      "Trans": {"SC":"精英托斯特巨鱿","JA":"精英托斯特巨魷"},
+      "Trans": {"SC":"精英托斯特巨鱿","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2090365094",
       "Source": "Achatina",
-      "Trans": {"SC":"玛瑙螺","JA":"瑪瑙螺"},
+      "Trans": {"SC":"玛瑙螺","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::537730960",
       "Source": "Alpha Megalodon",
-      "Trans": {"SC":"精英巨齿鲨","JA":"精英巨齿鯊"},
+      "Trans": {"SC":"精英巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1353830480",
       "Source": "Alpha Mosasaur",
-      "Trans": {"SC":"精英沧龙","JA":"精英滄龙"},
+      "Trans": {"SC":"精英沧龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1528545522",
       "Source": "Attack Drone",
-      "Trans": {"SC":"攻击无人机","JA":"攻擊无人机"},
+      "Trans": {"SC":"攻击无人机","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -69804,134 +69804,134 @@
     {
       "NamespaceHash": "Content::2970694674",
       "Source": "Basilo",
-      "Trans": {"SC":"龙王鲸","JA":"龙王鯨"},
+      "Trans": {"SC":"龙王鲸","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::783650700",
       "Source": "Compy",
-      "Trans": {"SC":"美颌龙","JA":"美頜龙"},
+      "Trans": {"SC":"美颌龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::640414393",
       "Source": "Compsognathus",
-      "Trans": {"SC":"美颌龙","JA":"美頜龙"},
+      "Trans": {"SC":"美颌龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1975233688",
       "Source": "Defense Unit",
-      "Trans": {"SC":"防御单元","JA":"防御單元"},
+      "Trans": {"SC":"防御单元","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::863813721",
       "Source": "Doedicurus",
-      "Trans": {"SC":"星尾兽","JA":"星尾獸"},
+      "Trans": {"SC":"星尾兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1345966506",
       "Source": "Dunkleosteus",
-      "Trans": {"SC":"邓氏鱼","JA":"鄧氏鱼"},
+      "Trans": {"SC":"邓氏鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1025890611",
       "Source": "Dunkles",
-      "Trans": {"SC":"邓氏鱼","JA":"鄧氏鱼"},
+      "Trans": {"SC":"邓氏鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::192929200",
       "Source": "Electrophorus",
-      "Trans": {"SC":"电鳗","JA":"電鰻"},
+      "Trans": {"SC":"电鳗","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::988733675",
       "Source": "Eel",
-      "Trans": {"SC":"电鳗","JA":"電鰻"},
+      "Trans": {"SC":"电鳗","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1098559342",
       "Source": "Equus",
-      "Trans": {"SC":"庞马","JA":"龐马"},
+      "Trans": {"SC":"庞马","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1697332452",
       "Source": "Eurypterid",
-      "Trans": {"SC":"广翅鲎","JA":"广翅鱟"},
+      "Trans": {"SC":"广翅鲎","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2764681415",
       "Source": "Euryp",
-      "Trans": {"SC":"广翅鲎","JA":"广翅鱟"},
+      "Trans": {"SC":"广翅鲎","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2578463657",
       "Source": "Gallimimus",
-      "Trans": {"SC":"似鸡龙","JA":"似雞龙"},
+      "Trans": {"SC":"似鸡龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4178705559",
       "Source": "Lystrosaurus",
-      "Trans": {"SC":"水龙兽","JA":"水龙獸"},
+      "Trans": {"SC":"水龙兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2617064017",
       "Source": "Mammoth",
-      "Trans": {"SC":"猛犸象","JA":"猛瑪象"},
+      "Trans": {"SC":"猛犸象","JA":""},
       //瑪是犸字库缺失的妥协
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1907790138",
       "Source": "Manta",
-      "Trans": {"SC":"蝠鲼","JA":"蝠鱝"},
+      "Trans": {"SC":"蝠鲼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4283385789",
       "Source": "Megalodon",
-      "Trans": {"SC":"巨齿鲨","JA":"巨齿鯊"},
+      "Trans": {"SC":"巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1771124918",
       "Source": "Megatherium",
-      "Trans": {"SC":"大地懒","JA":"大地懶"},
+      "Trans": {"SC":"大地懒","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::195844702",
       "Source": "Mosasaurus",
-      "Trans": {"SC":"沧龙","JA":"滄龙"},
+      "Trans": {"SC":"沧龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2291069800",
       "Source": "Mosasaur",
-      "Trans": {"SC":"沧龙","JA":"滄龙"},
+      "Trans": {"SC":"沧龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3889244888",
       "Source": "Moschops",
-      "Trans": {"SC":"麝足兽","JA":"麝足獸"},
+      "Trans": {"SC":"麝足兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::865388647",
       "Source": "Otter",
-      "Trans": {"SC":"水獭","JA":"水獺"},
+      "Trans": {"SC":"水獭","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -69949,19 +69949,19 @@
     {
       "NamespaceHash": "Content::121071176",
       "Source": "Pachy",
-      "Trans": {"SC":"肿头龙","JA":"腫頭龙"},
+      "Trans": {"SC":"肿头龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2141533652",
       "Source": "Parasaur",
-      "Trans": {"SC":"副栉龙","JA":"副櫛龙"},
+      "Trans": {"SC":"副栉龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2433409248",
       "Source": "Pegomastax",
-      "Trans": {"SC":"双坚颌龙","JA":"双堅頜龙"},
+      "Trans": {"SC":"双坚颌龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -69974,31 +69974,31 @@
     {
       "NamespaceHash": "Content::389783044",
       "Source": "Sarco",
-      "Trans": {"SC":"帝鳄","JA":"帝鱷"},
+      "Trans": {"SC":"帝鳄","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2889049955",
       "Source": "Stegosaurus",
-      "Trans": {"SC":"剑龙","JA":"劍龙"},
+      "Trans": {"SC":"剑龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::807119549",
       "Source": "Tek Parasaur",
-      "Trans": {"SC":"泰克副栉龙","JA":"泰克副櫛龙"},
+      "Trans": {"SC":"泰克副栉龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1718223748",
       "Source": "Terror Bird",
-      "Trans": {"SC":"骇鸟","JA":"駭鸟"},
+      "Trans": {"SC":"骇鸟","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1105509364",
       "Source": "Therizinosaur",
-      "Trans": {"SC":"镰刀龙","JA":"鐮刀龙"},
+      "Trans": {"SC":"镰刀龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -70010,7 +70010,7 @@
     {
       "NamespaceHash": "Content::1518802771",
       "Source": "Thylacoleo",
-      "Trans": {"SC":"袋狮","JA":"袋獅"},
+      "Trans": {"SC":"袋狮","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -70022,157 +70022,157 @@
     {
       "NamespaceHash": "Content::2729890515",
       "Source": "Titanomyrma Drone",
-      "Trans": {"SC":"泰坦雄蚁","JA":"泰坦雄蟻"},
+      "Trans": {"SC":"泰坦雄蚁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1252419251",
       "Source": "Titanomyrma Soldier",
-      "Trans": {"SC":"泰坦兵蚁","JA":"泰坦兵蟻"},
+      "Trans": {"SC":"泰坦兵蚁","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3815981833",
       "Source": "Unicorn",
-      "Trans": {"SC":"独角兽","JA":"独角獸"},
+      "Trans": {"SC":"独角兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2475404577",
       "Source": "Troodon",
-      "Trans": {"SC":"伤齿龙","JA":"傷齿龙"},
+      "Trans": {"SC":"伤齿龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::138026648",
       "Source": "Tusoteuthis",
-      "Trans": {"SC":"托斯特巨鱿","JA":"托斯特巨魷"},
+      "Trans": {"SC":"托斯特巨鱿","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::228608116",
       "Source": "Tuso",
-      "Trans": {"SC":"托斯特巨鱿","JA":"托斯特巨魷"},
+      "Trans": {"SC":"托斯特巨鱿","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3824582671",
       "Source": "{0} Damage / {1} Seconds = {2} DPS",
-      "Trans": {"SC":"{0} 伤害 / {1} 秒 = {2} DPS","JA":"{0} 傷害 / {1} 秒 = {2} DPS"},
+      "Trans": {"SC":"{0} 伤害 / {1} 秒 = {2} DPS","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2667189335",
       "Source": "Taunt",
-      "Trans": {"SC":"嘲讽","JA":"嘲諷"},
+      "Trans": {"SC":"嘲讽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2114095774",
       "Source": "You are losing Health due to bad food!",
-      "Trans": {"SC":"你正因为过期食物流失生命值!","JA":"你正因為過期食物流失生命點數!"},
+      "Trans": {"SC":"你正因为过期食物流失生命值!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3422193986",
       "Source": "You are regaining Food!",
-      "Trans": {"SC":"你正获得食物!","JA":"你正獲得食物!"},
+      "Trans": {"SC":"你正获得食物!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::453930882",
       "Source": "Corrupted Giganotosaurus",
-      "Trans": {"SC":"腐化南方巨兽龙","JA":"腐化南方巨獸龙"},
+      "Trans": {"SC":"腐化南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1492077454",
       "Source": "Camouflaged",
-      "Trans": {"SC":"伪装","JA":"偽装"},
+      "Trans": {"SC":"伪装","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1041694551",
       "Source": "Tractor Beam",
-      "Trans": {"SC":"牵引光束","JA":"牽引光束"},
+      "Trans": {"SC":"牵引光束","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2150941112",
       "Source": "Hover Skiff",
-      "Trans": {"SC":"悬浮艇","JA":"懸浮艇"},
+      "Trans": {"SC":"悬浮艇","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3040951984",
       "Source": "Alpha ",
-      "Trans": {"SC":"甲级 ","JA":"甲級 "},
+      "Trans": {"SC":"甲级 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::683976726",
       "Source": "Beta ",
-      "Trans": {"SC":"乙级 ","JA":"乙級 "},
+      "Trans": {"SC":"乙级 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3303235994",
       "Source": "Gamma ",
-      "Trans": {"SC":"丙级 ","JA":"丙級 "},
+      "Trans": {"SC":"丙级 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::751014492",
       "Source": "Alpha King Titan",
-      "Trans": {"SC":"君王泰坦 (困难)","JA":"君王泰坦 (困難)"},
+      "Trans": {"SC":"君王泰坦 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2668516310",
       "Source": "Gamma King Titan",
-      "Trans": {"SC":"君王泰坦 (简单)","JA":"君王泰坦 (簡單)"},
+      "Trans": {"SC":"君王泰坦 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2050740136",
       "Source": "MODULE",
-      "Trans": {"SC":"模块","JA":"模塊"},
+      "Trans": {"SC":"模块","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4231461968",
       "Source": "DERMIS",
-      "Trans": {"SC":"标本","JA":"標本"},
+      "Trans": {"SC":"标本","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3540504895",
       "Source": "Desert Titan Flock",
-      "Trans": {"SC":"沙漠泰坦兽群","JA":"沙漠泰坦獸群"},
+      "Trans": {"SC":"沙漠泰坦兽群","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2514788316",
       "Source": "Mek Cockpit",
-      "Trans": {"SC":"机甲驾驶舱","JA":"机甲駕駛艙"},
+      "Trans": {"SC":"机甲驾驶舱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::663427118",
       "Source": "R-Giganotosaurus",
-      "Trans": {"SC":"R-南方巨兽龙","JA":"R-南方巨獸龙"},
+      "Trans": {"SC":"R-南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1774488354",
       "Source": "Zombie Lightning Wyvern",
-      "Trans": {"SC":"僵尸闪电飞龙","JA":"僵尸閃電飞龙"},
+      "Trans": {"SC":"僵尸闪电飞龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3235043899",
       "Source": "Zombie Poison Wyvern",
-      "Trans": {"SC":"僵尸剧毒飞龙","JA":"僵尸劇毒飞龙"},
+      "Trans": {"SC":"僵尸剧毒飞龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -70184,367 +70184,367 @@
     {
       "NamespaceHash": "Content::3258139444",
       "Source": "Tek Stegosaurus",
-      "Trans": {"SC":"泰克剑龙","JA":"泰克劍龙"},
+      "Trans": {"SC":"泰克剑龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2776681226",
       "Source": "Tek Giganotosaurus",
-      "Trans": {"SC":"泰克南方巨兽龙","JA":"泰克南方巨獸龙"},
+      "Trans": {"SC":"泰克南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2264733680",
       "Source": "Electrified!",
-      "Trans": {"SC":"触电了!","JA":"触電了!"},
+      "Trans": {"SC":"触电了!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1878278625",
       "Source": "Electrocuted!",
-      "Trans": {"SC":"触电!","JA":"触電!"},
+      "Trans": {"SC":"触电!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::863068452",
       "Source": "Flashbang'd",
-      "Trans": {"SC":"闪光弹","JA":"閃光彈"},
+      "Trans": {"SC":"闪光弹","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2115940118",
       "Source": "Cocooned",
-      "Trans": {"SC":"茧化","JA":"繭化"},
+      "Trans": {"SC":"茧化","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2836125396",
       "Source": "Output damage reduced",
-      "Trans": {"SC":"伤害输出降低","JA":"傷害輸出降低"},
+      "Trans": {"SC":"伤害输出降低","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::297838039",
       "Source": "Encapsulated",
-      "Trans": {"SC":"禁锢","JA":"禁錮"},
+      "Trans": {"SC":"禁锢","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::168354486",
       "Source": "Frozen",
-      "Trans": {"SC":"冰冻","JA":"冰凍"},
+      "Trans": {"SC":"冰冻","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::643145929",
       "Source": "Ejected",
-      "Trans": {"SC":"弹射","JA":"彈射"},
+      "Trans": {"SC":"弹射","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::633869689",
       "Source": "Gas Bursts",
-      "Trans": {"SC":"瓦斯爆发","JA":"瓦斯爆發"},
+      "Trans": {"SC":"瓦斯爆发","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3712172200",
       "Source": "Hallucinogenic Spores",
-      "Trans": {"SC":"致幻孢子","JA":"致幻胞子"},
+      "Trans": {"SC":"致幻孢子","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1149209250",
       "Source": "Freezing Spores",
-      "Trans": {"SC":"冰冻孢子","JA":"冰凍胞子"},
+      "Trans": {"SC":"冰冻孢子","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::492811536",
       "Source": "Poison Spores",
-      "Trans": {"SC":"剧毒孢子","JA":"劇毒胞子"},
+      "Trans": {"SC":"剧毒孢子","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2574886920",
       "Source": "Mushroom Spores",
-      "Trans": {"SC":"蘑菇孢子","JA":"蘑菇胞子"},
+      "Trans": {"SC":"蘑菇孢子","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::121996405",
       "Source": "Radiation",
-      "Trans": {"SC":"辐射","JA":"輻射"},
+      "Trans": {"SC":"辐射","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3063492779",
       "Source": "Radiation Sickness",
-      "Trans": {"SC":"辐射病","JA":"輻射病"},
+      "Trans": {"SC":"辐射病","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1673540717",
       "Source": "Poison Immunity",
-      "Trans": {"SC":"剧毒免疫","JA":"劇毒免疫"},
+      "Trans": {"SC":"剧毒免疫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1405082509",
       "Source": "Poison Immunity Biolum",
-      "Trans": {"SC":"蓝色剧毒免疫","JA":"藍色劇毒免疫"},
+      "Trans": {"SC":"蓝色剧毒免疫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1560886594",
       "Source": "Poison Immunity Element",
-      "Trans": {"SC":"红色剧毒免疫","JA":"紅色劇毒免疫"},
+      "Trans": {"SC":"红色剧毒免疫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2578129932",
       "Source": "Poison Immunity Fertile",
-      "Trans": {"SC":"绿色剧毒免疫","JA":"綠色劇毒免疫"},
+      "Trans": {"SC":"绿色剧毒免疫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2055379915",
       "Source": "Slot: ",
-      "Trans": {"SC":"栏位: ","JA":"欄位: "},
+      "Trans": {"SC":"栏位: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2284621703",
       "Source": "Gestation Monitoring",
-      "Trans": {"SC":"妊娠监测","JA":"妊娠監測"},
+      "Trans": {"SC":"妊娠监测","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4205145312",
       "Source": "Max Level Wild Dino Detected",
-      "Trans": {"SC":"侦测到最高等级野生恐龙","JA":"偵測到最高等級野生恐龙"},
+      "Trans": {"SC":"侦测到最高等级野生恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1348649689",
       "Source": "Enlightened!",
-      "Trans": {"SC":"醍醐灌顶!","JA":"醍醐灌頂!"},
+      "Trans": {"SC":"醍醐灌顶!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::407799998",
       "Source": "Malfunctioned Attack Drone",
-      "Trans": {"SC":"发生故障的攻击无人机","JA":"發生故障的攻擊无人机"},
+      "Trans": {"SC":"发生故障的攻击无人机","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::921625812",
       "Source": "Malfunctioned Defense Unit",
-      "Trans": {"SC":"发生故障的防御单元","JA":"發生故障的防御單元"},
+      "Trans": {"SC":"发生故障的防御单元","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4037030139",
       "Source": "Malfunctioned Enforcer",
-      "Trans": {"SC":"发生故障的执行者","JA":"發生故障的執行者"},
+      "Trans": {"SC":"发生故障的执行者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3888649222",
       "Source": "Malfunctioned Mek Knight",
-      "Trans": {"SC":"发生故障的机甲骑士","JA":"發生故障的机甲騎士"},
+      "Trans": {"SC":"发生故障的机甲骑士","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2599131164",
       "Source": "Malfunctioned Tek Giganotosaurus",
-      "Trans": {"SC":"发生故障的泰克南方巨兽龙","JA":"發生故障的泰克南方巨獸龙"},
+      "Trans": {"SC":"发生故障的泰克南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1934549745",
       "Source": "Malfunctioned Tek Parasaur",
-      "Trans": {"SC":"发生故障的泰克副栉龙","JA":"發生故障的泰克副櫛龙"},
+      "Trans": {"SC":"发生故障的泰克副栉龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::351750808",
       "Source": "Malfunctioned Tek Quetzal",
-      "Trans": {"SC":"发生故障的泰克风神翼龙","JA":"發生故障的泰克风神翼龙"},
+      "Trans": {"SC":"发生故障的泰克风神翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4189064012",
       "Source": "Malfunctioned Tek Raptor",
-      "Trans": {"SC":"发生故障的泰克迅猛龙","JA":"發生故障的泰克迅猛龙"},
+      "Trans": {"SC":"发生故障的泰克迅猛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1383457331",
       "Source": "Malfunctioned Tek Rex",
-      "Trans": {"SC":"发生故障的泰克霸王龙","JA":"發生故障的泰克霸王龙"},
+      "Trans": {"SC":"发生故障的泰克霸王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::603140897",
       "Source": "Malfunctioned Tek Stegosaurus",
-      "Trans": {"SC":"发生故障的泰克剑龙","JA":"發生故障的泰克劍龙"},
+      "Trans": {"SC":"发生故障的泰克剑龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1339329246",
       "Source": "Malfunctioned Tek Stryder",
-      "Trans": {"SC":"发生故障的泰克跨步者","JA":"發生故障的泰克跨步者"},
+      "Trans": {"SC":"发生故障的泰克跨步者","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1660292254",
       "Source": "Malfunctioned Tek Triceratops",
-      "Trans": {"SC":"发生故障的泰克三角龙","JA":"發生故障的泰克三角龙"},
+      "Trans": {"SC":"发生故障的泰克三角龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4039518408",
       "Source": "Dragon",
-      "Trans": {"SC":"喷火龙","JA":"噴火龙"},
+      "Trans": {"SC":"喷火龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1417146548",
       "Source": "Get Ready to Race!",
-      "Trans": {"SC":"准备比赛","JA":"准備比賽"},
+      "Trans": {"SC":"准备比赛","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2010044292",
       "Source": "Get Ready!",
-      "Trans": {"SC":"做好准备!","JA":"做好准備!"},
+      "Trans": {"SC":"做好准备!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1461249502",
       "Source": "Freeze Immunity",
-      "Trans": {"SC":"免疫冻结","JA":"免疫凍結"},
+      "Trans": {"SC":"免疫冻结","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2839665237",
       "Source": "Insulating Warmth!",
-      "Trans": {"SC":"隔热!","JA":"隔熱!"},
+      "Trans": {"SC":"隔热!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2357388882",
       "Source": "Predator Vision",
-      "Trans": {"SC":"捕猎视觉","JA":"捕獵視覺"},
+      "Trans": {"SC":"捕猎视觉","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2816427773",
       "Source": "Sand Storm",
-      "Trans": {"SC":"沙尘暴","JA":"沙塵暴"},
+      "Trans": {"SC":"沙尘暴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1846819818",
       "Source": "SuperHeat",
-      "Trans": {"SC":"极热","JA":"极熱"},
+      "Trans": {"SC":"极热","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3642485823",
       "Source": "Refreshed!",
-      "Trans": {"SC":"浑身舒畅!","JA":"渾身舒暢!"},
+      "Trans": {"SC":"浑身舒畅!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2651101357",
       "Source": "Stunned by Charge!",
-      "Trans": {"SC":"电晕!","JA":"電暈!"},
+      "Trans": {"SC":"电晕!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1656911045",
       "Source": "Stunned!",
-      "Trans": {"SC":"击晕!","JA":"擊暈!"},
+      "Trans": {"SC":"击晕!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1544748788",
       "Source": "TROPHY",
-      "Trans": {"SC":"战利品","JA":"戰利品"},
+      "Trans": {"SC":"战利品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::185116153",
       "Source": "ADDED: ",
-      "Trans": {"SC":"已获得: ","JA":"已獲得: "},
+      "Trans": {"SC":"已获得: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::415843139",
       "Source": "Lvl {1}, {0}",
-      "Trans": {"SC":"等级 {1}, {0}","JA":"等級 {1}, {0}"},
+      "Trans": {"SC":"等级 {1}, {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3318471538",
       "Source": "Level {1}",
-      "Trans": {"SC":"等级 {1}","JA":"等級 {1}"},
+      "Trans": {"SC":"等级 {1}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::4081360609",
       "Source": "Admin Only Access",
-      "Trans": {"SC":"仅管理员","JA":"僅管理員"},
+      "Trans": {"SC":"仅管理员","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::224701412",
       "Source": "Killing Frenzy",
-      "Trans": {"SC":"杀戮狂潮","JA":"殺戮狂潮"},
+      "Trans": {"SC":"杀戮狂潮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3433192556",
       "Source": "CHRG",
-      "Trans": {"SC":"充电中","JA":"充電中"},
+      "Trans": {"SC":"充电中","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1935653659",
       "Source": "DiminishCC",
-      "Trans": {"SC":"减少受控","JA":"减少受控"},
+      "Trans": {"SC":"减少受控","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1678416656",
       "Source": "Insect Killer",
-      "Trans": {"SC":"昆虫杀手","JA":"昆虫殺手"},
+      "Trans": {"SC":"昆虫杀手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::204939738",
       "Source": "LVL",
-      "Trans": {"SC":"等级","JA":"等級"},
+      "Trans": {"SC":"等级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::227976722",
       "Source": " - Lvl ",
-      "Trans": {"SC":"-等级","JA":"-等級"},
+      "Trans": {"SC":"-等级","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::2962130451",
       "Source": "Baby ",
-      "Trans": {"SC":"婴儿 ","JA":"嬰兒 "},
+      "Trans": {"SC":"婴儿 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3898076953",
       "Source": "HEAD",
-      "Trans": {"SC":"头部","JA":"頭部"},
+      "Trans": {"SC":"头部","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70556,104 +70556,104 @@
     {
       "NamespaceHash": "Content::1656539167",
       "Source": "PET",
-      "Trans": {"SC":"宠物","JA":"寵物"},
+      "Trans": {"SC":"宠物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::1689457118",
       "Source": " (Sleeping)",
-      "Trans": {"SC":" (睡觉中)","JA":" (睡覺中)"},
+      "Trans": {"SC":" (睡觉中)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::3744346101",
       "Source": " (Sleeping) ",
-      "Trans": {"SC":" (睡觉中) ","JA":" (睡覺中) "},
+      "Trans": {"SC":" (睡觉中) ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::942621222",
       "Source": "Explorer Note Found!",
-      "Trans": {"SC":"发现探险者笔记!","JA":"發現探險者筆記!"},
+      "Trans": {"SC":"发现探险者笔记!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3604192541",
       "Source": "Special Explorer Note Found!",
-      "Trans": {"SC":"发现特殊探险者笔记!","JA":"發現特殊探險者筆記!"},
+      "Trans": {"SC":"发现特殊探险者笔记!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2687271613",
       "Source": "Hot",
-      "Trans": {"SC":"炎热","JA":"炎熱"},
+      "Trans": {"SC":"炎热","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::1719074039",
       "Source": "Earned Shared %s XP: ",
-      "Trans": {"SC":"获得 %s 的共享经验值: ","JA":"穫得 %s 的共享經驗値: "},
+      "Trans": {"SC":"获得 %s 的共享经验值: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3710131629",
       "Source": "Poop Hit",
-      "Trans": {"SC":"大便攻击","JA":"大便攻擊"},
+      "Trans": {"SC":"大便攻击","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1480925784",
       "Source": "Race!",
-      "Trans": {"SC":"比赛开始!","JA":"比賽开始!"},
+      "Trans": {"SC":"比赛开始!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2109103834",
       "Source": "Spitter Plant Venom",
-      "Trans": {"SC":"喷吐植物毒液","JA":"噴吐植物毒液"},
+      "Trans": {"SC":"喷吐植物毒液","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1059873287",
       "Source": "Bog Plant Venom",
-      "Trans": {"SC":"沼泽植物毒液","JA":"沼澤植物毒液"},
+      "Trans": {"SC":"沼泽植物毒液","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1222898644",
       "Source": "Teleporting",
-      "Trans": {"SC":"正在传送","JA":"正在傳送"},
+      "Trans": {"SC":"正在传送","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1604285766",
       "Source": "Pack Leader",
-      "Trans": {"SC":"兽群领袖","JA":"獸群領袖"},
+      "Trans": {"SC":"兽群领袖","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2814843053",
       "Source": "Pack Mate",
-      "Trans": {"SC":"兽群伙伴","JA":"獸群伙伴"},
+      "Trans": {"SC":"兽群伙伴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2135291963",
       "Source": "Full Hazard Protection",
-      "Trans": {"SC":"全套辐射防护","JA":"全套輻射防護"},
+      "Trans": {"SC":"全套辐射防护","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1040505036",
       "Source": "Server Password",
-      "Trans": {"SC":"服务器密码","JA":"伺服器密碼"},
+      "Trans": {"SC":"服务器密码","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //服务器管理员信息界面
     },
     {
       "NamespaceHash": "Content::3698193459",
       "Source": "Acid Burn!",
-      "Trans": {"SC":"酸液腐蚀!","JA":"酸液蝕!"},
+      "Trans": {"SC":"酸液腐蚀!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70665,20 +70665,20 @@
     {
       "NamespaceHash": "Content::2539302418",
       "Source": "Charged!",
-      "Trans": {"SC":"带电!","JA":"帶電!"},
+      "Trans": {"SC":"带电!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2200070408",
       "Source": "The Island Prologue",
-      "Trans": {"SC":" 孤岛序幕\n","JA":" 孤島序幕\n"},
+      "Trans": {"SC":" 孤岛序幕\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //飞升图鉴标题
     },
     {
       "NamespaceHash": "Content::2910695435",
       "Source": "The Island Epilogue",
-      "Trans": {"SC":" 孤岛尾声\n","JA":" 孤島尾声\n"},
+      "Trans": {"SC":" 孤岛尾声\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //飞升图鉴标题
     },
@@ -70699,3502 +70699,3502 @@
     {
       "NamespaceHash": "Content::691875804",
       "Source": "Aberration Prologue",
-      "Trans": {"SC":" 畸变序幕\n","JA":" 畸變序幕\n"},
+      "Trans": {"SC":" 畸变序幕\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //飞升图鉴标题
     },
     {
       "NamespaceHash": "Content::123926239",
       "Source": "Aberration Epilogue",
-      "Trans": {"SC":" 畸变尾声\n","JA":" 畸變尾声\n"},
+      "Trans": {"SC":" 畸变尾声\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //飞升图鉴标题
     },
     {
       "NamespaceHash": "Content::3251012539",
       "Source": "Extinction Prologue",
-      "Trans": {"SC":"灭绝序幕\n","JA":"滅絕序幕\n"},
+      "Trans": {"SC":"灭绝序幕\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //飞升图鉴标题
     },
     {
       "NamespaceHash": "Globals::2572523768",
       "Source": "Recipe: ",
-      "Trans": {"SC":"食谱: ","JA":"食譜: "},
+      "Trans": {"SC":"食谱: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1175330063",
       "Source": "Fasolasuchus",
-      "Trans": {"SC":"法索拉鳄","JA":"法索拉鱷"},
+      "Trans": {"SC":"法索拉鳄","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::629395049",
       "Source": "Oasisaur",
-      "Trans": {"SC":"绿洲龙","JA":"綠洲龙"},
+      "Trans": {"SC":"绿洲龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3794208778",
       "Source": "Baby Call",
-      "Trans": {"SC":"呼唤幼崽","JA":"呼喚幼崽"},
+      "Trans": {"SC":"呼唤幼崽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::912471248",
       "Source": "Love Bug",
-      "Trans": {"SC":"小爱虫","JA":"小愛虫"},
+      "Trans": {"SC":"小爱虫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::89186579",
       "Source": "Pheromonally Attractive",
-      "Trans": {"SC":"费洛蒙吸引力","JA":"費洛蒙吸引力"},
+      "Trans": {"SC":"费洛蒙吸引力","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::183330888",
       "Source": "Abberant Coelacanth",
-      "Trans": {"SC":"畸变腔棘鱼","JA":"畸變腔棘鱼"},
+      "Trans": {"SC":"畸变腔棘鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1621058252",
       "Source": "Aberrant Achatina",
-      "Trans": {"SC":"畸变玛瑙螺","JA":"畸變瑪瑙羅"},
+      "Trans": {"SC":"畸变玛瑙螺","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::677671683",
       "Source": "Aberrant Anglerfish",
-      "Trans": {"SC":"畸变鮟鱇鱼","JA":"畸變鮟鱇鱼"},
+      "Trans": {"SC":"畸变鮟鱇鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2468460652",
       "Source": "Aberrant Ankylosaurus",
-      "Trans": {"SC":"畸变甲龙","JA":"畸變甲龙"},
+      "Trans": {"SC":"畸变甲龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4191882268",
       "Source": "Aberrant Araneo",
-      "Trans": {"SC":"畸变蜘蛛","JA":"畸變蜘蛛"},
+      "Trans": {"SC":"畸变蜘蛛","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2938218416",
       "Source": "Aberrant Arthropluera",
-      "Trans": {"SC":"畸变节胸虫","JA":"畸變節胸虫"},
+      "Trans": {"SC":"畸变节胸虫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::815840985",
       "Source": "Aberrant Baryonyx",
-      "Trans": {"SC":"畸变重爪龙","JA":"畸變重爪龙"},
+      "Trans": {"SC":"畸变重爪龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3339621888",
       "Source": "Aberrant Beelzebufo",
-      "Trans": {"SC":"畸变魔鬼蛙","JA":"畸變魔鬼蛙"},
+      "Trans": {"SC":"畸变魔鬼蛙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::273052128",
       "Source": "Aberrant Carbonemys",
-      "Trans": {"SC":"畸变碳龟","JA":"畸變碳龟"},
+      "Trans": {"SC":"畸变碳龟","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3941674277",
       "Source": "Aberrant Carnotaurus",
-      "Trans": {"SC":"畸变肉食牛龙","JA":"畸變肉食牛龙"},
+      "Trans": {"SC":"畸变肉食牛龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::319395843",
       "Source": "Aberrant Cnidaria",
-      "Trans": {"SC":"畸变水母","JA":"畸變水母"},
+      "Trans": {"SC":"畸变水母","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1865064083",
       "Source": "Aberrant Coelacanth",
-      "Trans": {"SC":"畸变腔棘鱼","JA":"畸變腔棘鱼"},
+      "Trans": {"SC":"畸变腔棘鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1866449876",
       "Source": "Aberrant Dimetrodon",
-      "Trans": {"SC":"畸变异齿龙","JA":"畸變异齿龙"},
+      "Trans": {"SC":"畸变异齿龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1145101744",
       "Source": "Aberrant Dimorphodon",
-      "Trans": {"SC":"畸变双型齿翼龙","JA":"畸變双型齿翼龙"},
+      "Trans": {"SC":"畸变双型齿翼龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::609603874",
       "Source": "Aberrant Diplocaulus",
-      "Trans": {"SC":"畸变盗首螈","JA":"畸變盗首螈"},
+      "Trans": {"SC":"畸变盗首螈","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3073705065",
       "Source": "Aberrant Diplodocus",
-      "Trans": {"SC":"畸变梁龙","JA":"畸變梁龙"},
+      "Trans": {"SC":"畸变梁龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2165895884",
       "Source": "Aberrant Dire Bear",
-      "Trans": {"SC":"畸变恐熊","JA":"畸變恐熊"},
+      "Trans": {"SC":"畸变恐熊","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1063211289",
       "Source": "Aberrant Dodo",
-      "Trans": {"SC":"畸变渡渡鸟","JA":"畸變渡渡鸟"},
+      "Trans": {"SC":"畸变渡渡鸟","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::973323254",
       "Source": "Aberrant Doedicurus",
-      "Trans": {"SC":"畸变星尾兽","JA":"畸變星尾獸"},
+      "Trans": {"SC":"畸变星尾兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2803409849",
       "Source": "Aberrant Dung Beetle",
-      "Trans": {"SC":"畸变蜣螂","JA":"畸變蜣螂"},
+      "Trans": {"SC":"畸变蜣螂","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2013219616",
       "Source": "Aberrant Electrophorus",
-      "Trans": {"SC":"畸变电鳗","JA":"畸變電鰻"},
+      "Trans": {"SC":"畸变电鳗","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1256234841",
       "Source": "Aberrant Equus",
-      "Trans": {"SC":"畸变庞马","JA":"畸變龐马"},
+      "Trans": {"SC":"畸变庞马","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2291231478",
       "Source": "Aberrant Gigantopithecus",
-      "Trans": {"SC":"畸变巨猿","JA":"畸變巨猿"},
+      "Trans": {"SC":"畸变巨猿","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1029301672",
       "Source": "Aberrant Iguanodon",
-      "Trans": {"SC":"畸变禽龙","JA":"畸變禽龙"},
+      "Trans": {"SC":"畸变禽龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2474070019",
       "Source": "Aberrant Lystrosaurus",
-      "Trans": {"SC":"畸变水龙兽","JA":"畸變水龙獸"},
+      "Trans": {"SC":"畸变水龙兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2049745165",
       "Source": "Aberrant Manta",
-      "Trans": {"SC":"畸变蝠鲼","JA":"畸變蝠鱝"},
+      "Trans": {"SC":"畸变蝠鲼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3146771031",
       "Source": "Aberrant Megalania",
-      "Trans": {"SC":"畸变古巨蜥","JA":"畸變古巨蜥"},
+      "Trans": {"SC":"畸变古巨蜥","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2621699864",
       "Source": "Aberrant Megalosaurus",
-      "Trans": {"SC":"畸变巨齿龙","JA":"畸變巨齿龙"},
+      "Trans": {"SC":"畸变巨齿龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4180391123",
       "Source": "Aberrant Meganeura",
-      "Trans": {"SC":"畸变巨脉蜻蜓","JA":"畸變巨脉蜻蜓"},
+      "Trans": {"SC":"畸变巨脉蜻蜓","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4225120434",
       "Source": "Aberrant Moschops",
-      "Trans": {"SC":"畸变麝足兽","JA":"畸變麝足獸"},
+      "Trans": {"SC":"畸变麝足兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::940505168",
       "Source": "Aberrant Otter",
-      "Trans": {"SC":"畸变水獭","JA":"畸變水獺"},
+      "Trans": {"SC":"畸变水獭","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1979666495",
       "Source": "Aberrant Ovis",
-      "Trans": {"SC":"畸变绵羊","JA":"畸變綿羊"},
+      "Trans": {"SC":"畸变绵羊","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4170321601",
       "Source": "Aberrant Paraceratherium",
-      "Trans": {"SC":"畸变巨犀","JA":"畸變巨犀"},
+      "Trans": {"SC":"畸变巨犀","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1671571390",
       "Source": "Aberrant Parasaur",
-      "Trans": {"SC":"畸变副栉龙","JA":"畸變副櫛龙"},
+      "Trans": {"SC":"畸变副栉龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1122427633",
       "Source": "Aberrant Piranha",
-      "Trans": {"SC":"畸变食人鱼","JA":"畸變食人鱼"},
+      "Trans": {"SC":"畸变食人鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1112776898",
       "Source": "Aberrant Pulmonoscorpius",
-      "Trans": {"SC":"畸变肺蝎","JA":"畸變肺蝎"},
+      "Trans": {"SC":"畸变肺蝎","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2554737031",
       "Source": "Aberrant Purlovia",
-      "Trans": {"SC":"畸变普雷兽","JA":"畸變普雷獸"},
+      "Trans": {"SC":"畸变普雷兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::202507774",
       "Source": "Aberrant Raptor",
-      "Trans": {"SC":"畸变迅猛龙","JA":"畸變迅猛龙"},
+      "Trans": {"SC":"畸变迅猛龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1196208837",
       "Source": "Aberrant Salmon",
-      "Trans": {"SC":"畸变鲑鱼","JA":"畸變鮭鱼"},
+      "Trans": {"SC":"畸变鲑鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::480357939",
       "Source": "Aberrant Sarco",
-      "Trans": {"SC":"畸变帝鳄","JA":"畸變帝鱷"},
+      "Trans": {"SC":"畸变帝鳄","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2992725279",
       "Source": "Aberrant Spino",
-      "Trans": {"SC":"畸变棘龙","JA":"畸變棘龙"},
+      "Trans": {"SC":"畸变棘龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::820261916",
       "Source": "Aberrant Stegosaurus",
-      "Trans": {"SC":"畸变剑龙","JA":"畸變劍龙"},
+      "Trans": {"SC":"畸变剑龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::489214232",
       "Source": "Aberrant Titanoboa",
-      "Trans": {"SC":"畸变泰坦蚺","JA":"畸變泰坦蟒"},
+      "Trans": {"SC":"畸变泰坦蚺","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1910573987",
       "Source": "Aberrant Triceratops",
-      "Trans": {"SC":"畸变三角龙","JA":"畸變三角龙"},
+      "Trans": {"SC":"畸变三角龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2999587766",
       "Source": "Aberrant Trilobite",
-      "Trans": {"SC":"畸变三叶虫","JA":"畸變三叶虫"},
+      "Trans": {"SC":"畸变三叶虫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2831099522",
       "Source": "Lightning Wyvern",
-      "Trans": {"SC":"闪电飞龙","JA":"閃電飞龙"},
+      "Trans": {"SC":"闪电飞龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::456410616",
       "Source": "Poison Wyvern",
-      "Trans": {"SC":"剧毒飞龙","JA":"劇毒飞龙"},
+      "Trans": {"SC":"剧毒飞龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4177952709",
       "Source": "Griffin",
-      "Trans": {"SC":"狮鹫","JA":"獅鷲"},
+      "Trans": {"SC":"狮鹫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1320948213",
       "Source": "Carcharodontosaurus",
-      "Trans": {"SC":"鲨齿龙","JA":"鯊齿龙"},
+      "Trans": {"SC":"鲨齿龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3402233733",
       "Source": "Murder Turkey",
-      "Trans": {"SC":"火鸡恶霸","JA":"火雞惡霸"},
+      "Trans": {"SC":"火鸡恶霸","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4160898405",
       "Source": "Turkey",
-      "Trans": {"SC":"火鸡","JA":"火雞"},
+      "Trans": {"SC":"火鸡","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::430887436",
       "Source": "Santa's Big Helper",
-      "Trans": {"SC":"圣诞老人小助手","JA":"圣誕老人小助手"},
+      "Trans": {"SC":"圣诞老人小助手","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2898326977",
       "Source": "Swamp Fever",
-      "Trans": {"SC":"沼泽流感","JA":"沼澤流感"},
+      "Trans": {"SC":"沼泽流感","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3625109509",
       "Source": "Manticore",
-      "Trans": {"SC":"狮身蝎尾兽","JA":"獅身蝎尾獸"},
+      "Trans": {"SC":"狮身蝎尾兽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3798855673",
       "Source": "Sinomacrops",
-      "Trans": {"SC":"中华大眼翼龙","JA":"中華大眼翼龙"},
+      "Trans": {"SC":"中华大眼翼龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2093939578",
       "Source": "Snow Owl",
-      "Trans": {"SC":"雪鸮","JA":"雪鴞"},
+      "Trans": {"SC":"雪鸮","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2874151644",
       "Source": "Summoner",
-      "Trans": {"SC":"召唤师","JA":"召喚師"},
+      "Trans": {"SC":"召唤师","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::652461157",
       "Source": "Tropeognathus",
-      "Trans": {"SC":"脊颌翼龙","JA":"脊頜翼龙"},
+      "Trans": {"SC":"脊颌翼龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2432956663",
       "Source": "Andrewsarchus",
-      "Trans": {"SC":"安氏兽","JA":"安氏獸"},
+      "Trans": {"SC":"安氏兽","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3206960854",
       "Source": "Lamprey",
-      "Trans": {"SC":"七鳃鳗","JA":"七鰓鰻"},
+      "Trans": {"SC":"七鳃鳗","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1071693639",
       "Source": "Scout",
-      "Trans": {"SC":"侦察机","JA":"偵察机"},
+      "Trans": {"SC":"侦察机","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3374564450",
       "Source": "Parakeet Fish School",
-      "Trans": {"SC":"鹦鹉鱼群","JA":"鸚鵡鱼群"},
+      "Trans": {"SC":"鹦鹉鱼群","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3665283878",
       "Source": "Enforcer",
-      "Trans": {"SC":"执行者","JA":"執行者"},
+      "Trans": {"SC":"执行者","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2467828878",
       "Source": "Gacha",
-      "Trans": {"SC":"嘎查","JA":"嘎査"},
+      "Trans": {"SC":"嘎查","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3958371875",
       "Source": "Jug Bug",
-      "Trans": {"SC":"壶虫","JA":"壺虫"},
+      "Trans": {"SC":"壶虫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3830699704",
       "Source": "Oil Jug Bug",
-      "Trans": {"SC":"油壶虫","JA":"油壺虫"},
+      "Trans": {"SC":"油壶虫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3905649051",
       "Source": "Water Jug Bug",
-      "Trans": {"SC":"水壶虫","JA":"水壺虫"},
+      "Trans": {"SC":"水壶虫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::736133879",
       "Source": "Managarmr",
-      "Trans": {"SC":"玛纳加尔姆","JA":"瑪納加尔姆"},
+      "Trans": {"SC":"玛纳加尔姆","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1225503132",
       "Source": "Noglin",
-      "Trans": {"SC":"诺格林","JA":"諾格林"},
+      "Trans": {"SC":"诺格林","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1668612741",
       "Source": "Rubble Golem",
-      "Trans": {"SC":"遗迹魔像","JA":"遺迹魔像"},
+      "Trans": {"SC":"遗迹魔像","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3794606359",
       "Source": "Rockwell",
-      "Trans": {"SC":"罗克韦尔","JA":"羅克韦尔"},
+      "Trans": {"SC":"罗克韦尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3842218205",
       "Source": "Seeker",
-      "Trans": {"SC":"追寻者","JA":"追尋者"},
+      "Trans": {"SC":"追寻者","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1272761845",
       "Source": "Sköll",
-      "Trans": {"SC":"斯库尔","JA":"斯庫尔"},
+      "Trans": {"SC":"斯库尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::900726444",
       "Source": "Steinbjörn",
-      "Trans": {"SC":"斯坦比约恩","JA":"斯坦比約恩"},
+      "Trans": {"SC":"斯坦比约恩","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::51860787",
       "Source": "Forest Titan Hologram",
-      "Trans": {"SC":"森林泰坦全息图","JA":"森林泰坦全息圖"},
+      "Trans": {"SC":"森林泰坦全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4094282102",
       "Source": "Ice Titan Hologram",
-      "Trans": {"SC":"冰原泰坦全息图","JA":"冰原泰坦全息圖"},
+      "Trans": {"SC":"冰原泰坦全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3646242672",
       "Source": "King Titan Hologram",
-      "Trans": {"SC":"君王泰坦全息图","JA":"君王泰坦全息圖"},
+      "Trans": {"SC":"君王泰坦全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3205490749",
       "Source": "Manticore Hologram",
-      "Trans": {"SC":"狮身蝎尾兽全息图","JA":"獅身蝎尾獸全息圖"},
+      "Trans": {"SC":"狮身蝎尾兽全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1670618516",
       "Source": "Mecha King Titan Hologram",
-      "Trans": {"SC":"机械君王泰坦全息图","JA":"机械君王泰坦全息圖"},
+      "Trans": {"SC":"机械君王泰坦全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4212826322",
       "Source": "Megapithecus Hologram",
-      "Trans": {"SC":"银背金刚全息图","JA":"銀背金剛全息圖"},
+      "Trans": {"SC":"银背金刚全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3282338835",
       "Source": "Overseer Hologram",
-      "Trans": {"SC":"监察者全息图","JA":"監察者全息圖"},
+      "Trans": {"SC":"监察者全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::125434177",
       "Source": "Rockwell Hologram",
-      "Trans": {"SC":"罗克韦尔全息图","JA":"羅克韦尔全息圖"},
+      "Trans": {"SC":"罗克韦尔全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2054991881",
       "Source": "Broodmother Hologram",
-      "Trans": {"SC":"育母蜘蛛全息图","JA":"育母蜘蛛全息圖"},
+      "Trans": {"SC":"育母蜘蛛全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2233257267",
       "Source": "Desert Titan Hologram",
-      "Trans": {"SC":"沙漠泰坦全息图","JA":"沙漠泰坦全息圖"},
+      "Trans": {"SC":"沙漠泰坦全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2351864885",
       "Source": "Dragon Hologram",
-      "Trans": {"SC":"喷火龙全息图","JA":"噴火龙全息圖"},
+      "Trans": {"SC":"喷火龙全息图","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3504498536",
       "Source": "Achatina Dossier",
-      "Trans": {"SC":"玛瑙螺图鉴","JA":"玛瑙螺圖鑒"},
+      "Trans": {"SC":"玛瑙螺图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1286122934",
       "Source": "Allosaurus Dossier",
-      "Trans": {"SC":"异特龙图鉴","JA":"异特龙圖鑒"},
+      "Trans": {"SC":"异特龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2031718631",
       "Source": "Amargasaurus Dossier",
-      "Trans": {"SC":"阿马加龙图鉴","JA":"阿马加龙圖鑒"},
+      "Trans": {"SC":"阿马加龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3430096824",
       "Source": "Ammonite Dossier",
-      "Trans": {"SC":"菊石图鉴","JA":"菊石圖鑒"},
+      "Trans": {"SC":"菊石图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3392490095",
       "Source": "Andrewsarchus Dossier",
-      "Trans": {"SC":"安氏兽图鉴","JA":"安氏兽圖鑒"},
+      "Trans": {"SC":"安氏兽图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2231940381",
       "Source": "Anglerfish Dossier",
-      "Trans": {"SC":"鮟鱇鱼图鉴","JA":"鮟鱇鱼圖鑒"},
+      "Trans": {"SC":"鮟鱇鱼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::746537234",
       "Source": "Ankylosaurus Dossier",
-      "Trans": {"SC":"甲龙图鉴","JA":"甲龙圖鑒"},
+      "Trans": {"SC":"甲龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3567880661",
       "Source": "Aranaeo Dossier",
-      "Trans": {"SC":"蜘蛛图鉴","JA":"蜘蛛圖鑒"},
+      "Trans": {"SC":"蜘蛛图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2828827066",
       "Source": "Archaeopteryx Dossier",
-      "Trans": {"SC":"始祖鸟图鉴","JA":"始祖鸟圖鑒"},
+      "Trans": {"SC":"始祖鸟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::576433397",
       "Source": "Argentavis Dossier",
-      "Trans": {"SC":"阿根廷鹫图鉴","JA":"阿根廷鹫圖鑒"},
+      "Trans": {"SC":"阿根廷鹫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2258036570",
       "Source": "Arthropleura Dossier",
-      "Trans": {"SC":"节胸虫图鉴","JA":"节胸虫圖鑒"},
+      "Trans": {"SC":"节胸虫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2185839289",
       "Source": "Astrodelphis Dossier",
-      "Trans": {"SC":"星辰海豚图鉴","JA":"星辰海豚圖鑒"},
+      "Trans": {"SC":"星辰海豚图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::302282614",
       "Source": "Baryonyx Dossier",
-      "Trans": {"SC":"重爪龙图鉴","JA":"重爪龙圖鑒"},
+      "Trans": {"SC":"重爪龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3486227948",
       "Source": "Basilisk Dossier",
-      "Trans": {"SC":"帝蟒图鉴","JA":"帝蟒圖鑒"},
+      "Trans": {"SC":"帝蟒图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3379651247",
       "Source": "Basilosaurus Dossier",
-      "Trans": {"SC":"龙王鲸图鉴","JA":"龙王鲸圖鑒"},
+      "Trans": {"SC":"龙王鲸图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3806515496",
       "Source": "Bee Dossier",
-      "Trans": {"SC":"巨型蜜蜂图鉴","JA":"巨型蜜蜂圖鑒"},
+      "Trans": {"SC":"巨型蜜蜂图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3354158689",
       "Source": "Beelzebufo Dossier",
-      "Trans": {"SC":"魔鬼蛙图鉴","JA":"魔鬼蛙圖鑒"},
+      "Trans": {"SC":"魔鬼蛙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2421694375",
       "Source": "Brontosaurus Dossier",
-      "Trans": {"SC":"雷龙图鉴","JA":"雷龙圖鑒"},
+      "Trans": {"SC":"雷龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::550934935",
       "Source": "Bulbdog Dossier",
-      "Trans": {"SC":"灯泡犬图鉴","JA":"灯泡犬圖鑒"},
+      "Trans": {"SC":"灯泡犬图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2468976582",
       "Source": "Carbonemys Dossier",
-      "Trans": {"SC":"碳龟图鉴","JA":"碳龟圖鑒"},
+      "Trans": {"SC":"碳龟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4056850890",
       "Source": "Carcharodontosaurus Dossier",
-      "Trans": {"SC":"鲨齿龙图鉴","JA":"鲨齿龙圖鑒"},
+      "Trans": {"SC":"鲨齿龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3523643872",
       "Source": "Carnotaurus Dossier",
-      "Trans": {"SC":"肉食牛龙图鉴","JA":"肉食牛龙圖鑒"},
+      "Trans": {"SC":"肉食牛龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1042433839",
       "Source": "Castoroides Dossier",
-      "Trans": {"SC":"巨河狸图鉴","JA":"巨河狸圖鑒"},
+      "Trans": {"SC":"巨河狸图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3499091426",
       "Source": "Chalicotherium Dossier",
-      "Trans": {"SC":"爪兽图鉴","JA":"爪兽圖鑒"},
+      "Trans": {"SC":"爪兽图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3445333005",
       "Source": "Cnidaria Dossier",
-      "Trans": {"SC":"水母图鉴","JA":"水母圖鑒"},
+      "Trans": {"SC":"水母图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::190538132",
       "Source": "Coelacanth Dossier",
-      "Trans": {"SC":"腔棘鱼图鉴","JA":"腔棘鱼圖鑒"},
+      "Trans": {"SC":"腔棘鱼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3035140036",
       "Source": "Compy Dossier",
-      "Trans": {"SC":"美颌龙图鉴","JA":"美颌龙圖鑒"},
+      "Trans": {"SC":"美颌龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1983489540",
       "Source": "Corrupted Dossier",
-      "Trans": {"SC":"腐化图鉴","JA":"腐化圖鑒"},
+      "Trans": {"SC":"腐化图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::248089162",
       "Source": "Daeodon Dossier",
-      "Trans": {"SC":"凶齿豨图鉴","JA":"凶齿豨圖鑒"},
+      "Trans": {"SC":"凶齿豨图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2214742754",
       "Source": "Deathworm Dossier",
-      "Trans": {"SC":"死亡蠕虫图鉴","JA":"死亡蠕虫圖鑒"},
+      "Trans": {"SC":"死亡蠕虫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::969280894",
       "Source": "Deinonychus Dossier",
-      "Trans": {"SC":"恐爪龙图鉴","JA":"恐爪龙圖鑒"},
+      "Trans": {"SC":"恐爪龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::814425958",
       "Source": "Desmodus Dossier",
-      "Trans": {"SC":"吸血蝠图鉴","JA":"吸血蝠圖鑒"},
+      "Trans": {"SC":"吸血蝠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1259494512",
       "Source": "Dilophosaur Dossier",
-      "Trans": {"SC":"双嵴龙图鉴","JA":"双脊龙圖鑒"},
+      "Trans": {"SC":"双嵴龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3632603968",
       "Source": "Dimetrodon Dossier",
-      "Trans": {"SC":"异齿龙图鉴","JA":"异齿龙圖鑒"},
+      "Trans": {"SC":"异齿龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3321260212",
       "Source": "Dimorphodon Dossier",
-      "Trans": {"SC":"双型齿翼龙图鉴","JA":"双型齿翼龙圖鑒"},
+      "Trans": {"SC":"双型齿翼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2977397952",
       "Source": "Dinopithecus Dossier",
-      "Trans": {"SC":"恐狒图鉴","JA":"恐狒圖鑒"},
+      "Trans": {"SC":"恐狒图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1533012090",
       "Source": "Diplocaulus Dossier",
-      "Trans": {"SC":"盗首螈图鉴","JA":"盗首螈圖鑒"},
+      "Trans": {"SC":"盗首螈图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3155086425",
       "Source": "Diplodocus Dossier",
-      "Trans": {"SC":"梁龙图鉴","JA":"梁龙圖鑒"},
+      "Trans": {"SC":"梁龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3467122179",
       "Source": "Direbear Dossier",
-      "Trans": {"SC":"恐熊图鉴","JA":"恐熊圖鑒"},
+      "Trans": {"SC":"恐熊图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1793415124",
       "Source": "Direwolf Dossier",
-      "Trans": {"SC":"恐狼图鉴","JA":"恐狼圖鑒"},
+      "Trans": {"SC":"恐狼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1788296102",
       "Source": "Dodo Dossier",
-      "Trans": {"SC":"渡渡鸟图鉴","JA":"渡渡鸟圖鑒"},
+      "Trans": {"SC":"渡渡鸟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3623273148",
       "Source": "Doedicurus Dossier",
-      "Trans": {"SC":"星尾兽图鉴","JA":"星尾兽圖鑒"},
+      "Trans": {"SC":"星尾兽图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3638371459",
       "Source": "Dung Beetle Dossier",
-      "Trans": {"SC":"蜣螂图鉴","JA":"蜣螂圖鑒"},
+      "Trans": {"SC":"蜣螂图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2521694340",
       "Source": "Dunkleosteus Dossier",
-      "Trans": {"SC":"邓氏鱼图鉴","JA":"邓氏鱼圖鑒"},
+      "Trans": {"SC":"邓氏鱼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1984435077",
       "Source": "Electrophorus Dossier",
-      "Trans": {"SC":"电鳗图鉴","JA":"电鳗圖鑒"},
+      "Trans": {"SC":"电鳗图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1983958255",
       "Source": "Equus Dossier",
-      "Trans": {"SC":"庞马图鉴","JA":"庞马圖鑒"},
+      "Trans": {"SC":"庞马图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1912541400",
       "Source": "Eurypterid Dossier",
-      "Trans": {"SC":"广翅鲎图鉴","JA":"广翅鲎圖鑒"},
+      "Trans": {"SC":"广翅鲎图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3155800348",
       "Source": "Exo-Mek Dossier",
-      "Trans": {"SC":"外骨骼机甲图鉴","JA":"外骨骼机甲圖鑒"},
+      "Trans": {"SC":"外骨骼机甲图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2554909601",
       "Source": "Featherlight Dossier",
-      "Trans": {"SC":"光羽鸟图鉴","JA":"光羽鸟圖鑒"},
+      "Trans": {"SC":"光羽鸟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::648523486",
       "Source": "Fjordhawk Dossier",
-      "Trans": {"SC":"峡鹰图鉴","JA":"峡鹰圖鑒"},
+      "Trans": {"SC":"峡鹰图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::440759990",
       "Source": "Gacha Dossier",
-      "Trans": {"SC":"嘎查图鉴","JA":"嘎查圖鑒"},
+      "Trans": {"SC":"嘎查图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1083737170",
       "Source": "Gallimimus Dossier",
-      "Trans": {"SC":"似鸡龙图鉴","JA":"似鸡龙圖鑒"},
+      "Trans": {"SC":"似鸡龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::920647176",
       "Source": "Gasbags Dossier",
-      "Trans": {"SC":"气囊虫图鉴","JA":"气囊虫圖鑒"},
+      "Trans": {"SC":"气囊虫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2001918496",
       "Source": "Giganotosaurus Dossier",
-      "Trans": {"SC":"南方巨兽龙图鉴","JA":"南方巨兽龙圖鑒"},
+      "Trans": {"SC":"南方巨兽龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2030890166",
       "Source": "Gigantopithecus Dossier",
-      "Trans": {"SC":"巨猿图鉴","JA":"巨猿圖鑒"},
+      "Trans": {"SC":"巨猿图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1878473859",
       "Source": "Glowbug Dossier",
-      "Trans": {"SC":"电光萤图鉴","JA":"电光萤圖鑒"},
+      "Trans": {"SC":"电光萤图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2320624326",
       "Source": "Light Bug Dossier",
-      "Trans": {"SC":"电光萤图鉴","JA":"电光萤圖鑒"},
+      "Trans": {"SC":"电光萤图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3321491250",
       "Source": "Glowtail Dossier",
-      "Trans": {"SC":"耀尾蜥图鉴","JA":"耀尾蜥圖鑒"},
+      "Trans": {"SC":"耀尾蜥图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::552769508",
       "Source": "Griffin Dossier",
-      "Trans": {"SC":"狮鹫图鉴","JA":"狮鹫圖鑒"},
+      "Trans": {"SC":"狮鹫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2648925454",
       "Source": "Hesperornis Dossier",
-      "Trans": {"SC":"黄昏鸟图鉴","JA":"黄昏鸟圖鑒"},
+      "Trans": {"SC":"黄昏鸟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3015308007",
       "Source": "Hyaenodon Dossier",
-      "Trans": {"SC":"鬣齿兽图鉴","JA":"鬣齿兽圖鑒"},
+      "Trans": {"SC":"鬣齿兽图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3092909057",
       "Source": "Ichthyornis Dossier",
-      "Trans": {"SC":"鱼鸟图鉴","JA":"鱼鸟圖鑒"},
+      "Trans": {"SC":"鱼鸟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3900815992",
       "Source": "Ichthyosaurus Dossier",
-      "Trans": {"SC":"鱼龙图鉴","JA":"鱼龙圖鑒"},
+      "Trans": {"SC":"鱼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2397286355",
       "Source": "Iguanodon Dossier",
-      "Trans": {"SC":"禽龙图鉴","JA":"禽龙圖鑒"},
+      "Trans": {"SC":"禽龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2801004990",
       "Source": "Jerboa Dossier",
-      "Trans": {"SC":"跳鼠图鉴","JA":"跳鼠圖鑒"},
+      "Trans": {"SC":"跳鼠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3903842295",
       "Source": "Jugbug Dossier",
-      "Trans": {"SC":"壶虫图鉴","JA":"壶虫圖鑒"},
+      "Trans": {"SC":"壶虫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::591591707",
       "Source": "Kairuku Dossier",
-      "Trans": {"SC":"潜觅企鹅图鉴","JA":"潜觅企鹅圖鑒"},
+      "Trans": {"SC":"潜觅企鹅图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::722654287",
       "Source": "Kaprosuchus Dossier",
-      "Trans": {"SC":"猪鳄图鉴","JA":"猪鳄圖鑒"},
+      "Trans": {"SC":"猪鳄图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4264019636",
       "Source": "Karkinos Dossier",
-      "Trans": {"SC":"巨蟹图鉴","JA":"巨蟹圖鑒"},
+      "Trans": {"SC":"巨蟹图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1932832852",
       "Source": "Kentrosaurus Dossier",
-      "Trans": {"SC":"钉状龙图鉴","JA":"钉状龙圖鑒"},
+      "Trans": {"SC":"钉状龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2364069312",
       "Source": "Lamprey Dossier",
-      "Trans": {"SC":"七鳃鳗图鉴","JA":"七鳃鳗圖鑒"},
+      "Trans": {"SC":"七鳃鳗图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3887982779",
       "Source": "Leech Dossier",
-      "Trans": {"SC":"水蛭图鉴","JA":"水蛭圖鑒"},
+      "Trans": {"SC":"水蛭图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3537544424",
       "Source": "Leedsichthys Dossier",
-      "Trans": {"SC":"利兹鱼图鉴","JA":"利兹鱼圖鑒"},
+      "Trans": {"SC":"利兹鱼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3302632120",
       "Source": "Liopleurodon Dossier",
-      "Trans": {"SC":"滑齿龙图鉴","JA":"滑齿龙圖鑒"},
+      "Trans": {"SC":"滑齿龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3101528689",
       "Source": "Lystrosaurus Dossier",
-      "Trans": {"SC":"水龙兽图鉴","JA":"水龙兽圖鑒"},
+      "Trans": {"SC":"水龙兽图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1025320284",
       "Source": "Maewing Dossier",
-      "Trans": {"SC":"鸭嘴飞鼠图鉴","JA":"鸭嘴飞鼠圖鑒"},
+      "Trans": {"SC":"鸭嘴飞鼠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1047859752",
       "Source": "Mammoth Dossier",
-      "Trans": {"SC":"猛犸象图鉴","JA":"猛犸象圖鑒"},
+      "Trans": {"SC":"猛犸象图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::529377339",
       "Source": "Managarmr Dossier",
-      "Trans": {"SC":"玛纳加尔姆图鉴","JA":"玛纳加尔姆圖鑒"},
+      "Trans": {"SC":"玛纳加尔姆图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1744092963",
       "Source": "Manta Dossier",
-      "Trans": {"SC":"蝠鲼图鉴","JA":"蝠鲼圖鑒"},
+      "Trans": {"SC":"蝠鲼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1373102069",
       "Source": "Mantis Dossier",
-      "Trans": {"SC":"螳螂图鉴","JA":"螳螂圖鑒"},
+      "Trans": {"SC":"螳螂图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2655054756",
       "Source": "Megalania Dossier",
-      "Trans": {"SC":"古巨蜥图鉴","JA":"古巨蜥圖鑒"},
+      "Trans": {"SC":"古巨蜥图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3001921660",
       "Source": "Megaloceros Dossier",
-      "Trans": {"SC":"大角鹿图鉴","JA":"大角鹿圖鑒"},
+      "Trans": {"SC":"大角鹿图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2182326031",
       "Source": "Megalodon Dossier",
-      "Trans": {"SC":"巨齿鲨图鉴","JA":"巨齿鲨圖鑒"},
+      "Trans": {"SC":"巨齿鲨图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2190029720",
       "Source": "Megalosaurus Dossier",
-      "Trans": {"SC":"巨齿龙图鉴","JA":"巨齿龙圖鑒"},
+      "Trans": {"SC":"巨齿龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::611226451",
       "Source": "Meganeura Dossier",
-      "Trans": {"SC":"巨脉蜻蜓图鉴","JA":"巨脉蜻蜓圖鑒"},
+      "Trans": {"SC":"巨脉蜻蜓图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::53197874",
       "Source": "Megatherium Dossier",
-      "Trans": {"SC":"大地懒图鉴","JA":"大地懒圖鑒"},
+      "Trans": {"SC":"大地懒图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1516630174",
       "Source": "Mesopithecus Dossier",
-      "Trans": {"SC":"中猴图鉴","JA":"中猴圖鑒"},
+      "Trans": {"SC":"中猴图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2437404253",
       "Source": "Microraptor Dossier",
-      "Trans": {"SC":"小盗龙图鉴","JA":"小盗龙圖鑒"},
+      "Trans": {"SC":"小盗龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::287815013",
       "Source": "Mole Rat Dossier",
-      "Trans": {"SC":"翻滚鼠图鉴","JA":"翻滚鼠圖鑒"},
+      "Trans": {"SC":"翻滚鼠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2816992472",
       "Source": "Roll Rat Dossier",
-      "Trans": {"SC":"翻滚鼠图鉴","JA":"翻滚鼠圖鑒"},
+      "Trans": {"SC":"翻滚鼠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3447472536",
       "Source": "Morellatops Dossier",
-      "Trans": {"SC":"驼峰龙图鉴","JA":"驼峰龙圖鑒"},
+      "Trans": {"SC":"驼峰龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1384630690",
       "Source": "Mosasaurus Dossier",
-      "Trans": {"SC":"沧龙图鉴","JA":"沧龙圖鑒"},
+      "Trans": {"SC":"沧龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3741858625",
       "Source": "Moschops Dossier",
-      "Trans": {"SC":"麝足兽图鉴","JA":"麝足兽圖鑒"},
+      "Trans": {"SC":"麝足兽图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3381630796",
       "Source": "Moth Dossier",
-      "Trans": {"SC":"沙蛾图鉴","JA":"沙蛾圖鑒"},
+      "Trans": {"SC":"沙蛾图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2822993946",
       "Source": "Nameless Dossier",
-      "Trans": {"SC":"无名怪图鉴","JA":"无名怪圖鑒"},
+      "Trans": {"SC":"无名怪图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1385730998",
       "Source": "Noglin Dossier",
-      "Trans": {"SC":"诺格林图鉴","JA":"诺格林圖鑒"},
+      "Trans": {"SC":"诺格林图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2301815841",
       "Source": "Onyc Dossier",
-      "Trans": {"SC":"爪蝠图鉴","JA":"爪蝠圖鑒"},
+      "Trans": {"SC":"爪蝠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3717556410",
       "Source": "Otter Dossier",
-      "Trans": {"SC":"水獭图鉴","JA":"水獭圖鑒"},
+      "Trans": {"SC":"水獭图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3948452959",
       "Source": "Oviraptor Dossier",
-      "Trans": {"SC":"窃蛋龙图鉴","JA":"窃蛋龙圖鑒"},
+      "Trans": {"SC":"窃蛋龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3652502577",
       "Source": "Ovis Dossier",
-      "Trans": {"SC":"绵羊图鉴","JA":"绵羊圖鑒"},
+      "Trans": {"SC":"绵羊图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1741260851",
       "Source": "Pachy Dossier",
-      "Trans": {"SC":"肿头龙图鉴","JA":"肿头龙圖鑒"},
+      "Trans": {"SC":"肿头龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1776692756",
       "Source": "Pachyrhinosaurus Dossier",
-      "Trans": {"SC":"厚鼻龙图鉴","JA":"厚鼻龙圖鑒"},
+      "Trans": {"SC":"厚鼻龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3074506878",
       "Source": "Paraceratherium Dossier",
-      "Trans": {"SC":"巨犀图鉴","JA":"巨犀圖鑒"},
+      "Trans": {"SC":"巨犀图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1096830966",
       "Source": "Parasaur Dossier",
-      "Trans": {"SC":"副栉龙图鉴","JA":"副栉龙圖鑒"},
+      "Trans": {"SC":"副栉龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4071489666",
       "Source": "Pegomastax Dossier",
-      "Trans": {"SC":"双坚颌龙图鉴","JA":"双坚颌龙圖鑒"},
+      "Trans": {"SC":"双坚颌龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3950152344",
       "Source": "Pelagornis Dossier",
-      "Trans": {"SC":"伪齿鸟图鉴","JA":"伪齿鸟圖鑒"},
+      "Trans": {"SC":"伪齿鸟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::617477467",
       "Source": "Phiomia Dossier",
-      "Trans": {"SC":"法尤姆象图鉴","JA":"法尤姆象圖鑒"},
+      "Trans": {"SC":"法尤姆象图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3160542572",
       "Source": "Phoenix Dossier",
-      "Trans": {"SC":"凤凰图鉴","JA":"凤凰圖鑒"},
+      "Trans": {"SC":"凤凰图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::999555436",
       "Source": "Piranha Dossier",
-      "Trans": {"SC":"食人鱼图鉴","JA":"食人鱼圖鑒"},
+      "Trans": {"SC":"食人鱼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1198996578",
       "Source": "Plesiosaurus Dossier",
-      "Trans": {"SC":"蛇颈龙图鉴","JA":"蛇颈龙圖鑒"},
+      "Trans": {"SC":"蛇颈龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2591606966",
       "Source": "Procoptodon Dossier",
-      "Trans": {"SC":"短面袋鼠图鉴","JA":"短面袋鼠圖鑒"},
+      "Trans": {"SC":"短面袋鼠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3668017098",
       "Source": "Pteranodon Dossier",
-      "Trans": {"SC":"无齿翼龙图鉴","JA":"无齿翼龙圖鑒"},
+      "Trans": {"SC":"无齿翼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4130763667",
       "Source": "Pulmonoscorpius Dossier",
-      "Trans": {"SC":"肺蝎图鉴","JA":"肺蝎圖鑒"},
+      "Trans": {"SC":"肺蝎图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1163763907",
       "Source": "Purlovia Dossier",
-      "Trans": {"SC":"普雷兽图鉴","JA":"普雷兽圖鑒"},
+      "Trans": {"SC":"普雷兽图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1283167696",
       "Source": "Quetzal Dossier",
-      "Trans": {"SC":"风神翼龙图鉴","JA":"风神翼龙圖鑒"},
+      "Trans": {"SC":"风神翼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4179329015",
       "Source": "Raptor Dossier",
-      "Trans": {"SC":"迅猛龙图鉴","JA":"迅猛龙圖鑒"},
+      "Trans": {"SC":"迅猛龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3316106760",
       "Source": "Ravager Dossier",
-      "Trans": {"SC":"劫掠者图鉴","JA":"劫掠者圖鑒"},
+      "Trans": {"SC":"劫掠者图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2185225892",
       "Source": "Reaper Dossier",
-      "Trans": {"SC":"死神图鉴","JA":"死神圖鑒"},
+      "Trans": {"SC":"死神图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::288555707",
       "Source": "Rex Dossier",
-      "Trans": {"SC":"霸王龙图鉴","JA":"霸王龙圖鑒"},
+      "Trans": {"SC":"霸王龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4068257376",
       "Source": "Rhyniognatha Dossier",
-      "Trans": {"SC":"莱尼颚虫图鉴","JA":"莱尼颚虫圖鑒"},
+      "Trans": {"SC":"莱尼颚虫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2443577380",
       "Source": "Rock Drake Dossier",
-      "Trans": {"SC":"岩龙图鉴","JA":"岩龙圖鑒"},
+      "Trans": {"SC":"岩龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3572159843",
       "Source": "Rock Elemental Dossier",
-      "Trans": {"SC":"岩石巨人图鉴","JA":"岩石巨人圖鑒"},
+      "Trans": {"SC":"岩石巨人图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2577521962",
       "Source": "Sabertooth Dossier",
-      "Trans": {"SC":"刃齿虎图鉴","JA":"刃齿虎圖鑒"},
+      "Trans": {"SC":"刃齿虎图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1026811905",
       "Source": "Sabertooth Salmon Dossier",
-      "Trans": {"SC":"剑齿鲑鱼图鉴","JA":"剑齿鲑鱼圖鑒"},
+      "Trans": {"SC":"剑齿鲑鱼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1089117298",
       "Source": "Sarco Dossier",
-      "Trans": {"SC":"帝鳄图鉴","JA":"帝鳄圖鑒"},
+      "Trans": {"SC":"帝鳄图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1379223319",
       "Source": "Seeker Dossier",
-      "Trans": {"SC":"追寻者图鉴","JA":"追寻者圖鑒"},
+      "Trans": {"SC":"追寻者图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::121412537",
       "Source": "Shadowmane Dossier",
-      "Trans": {"SC":"影鬃图鉴","JA":"影鬃圖鑒"},
+      "Trans": {"SC":"影鬃图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2854593157",
       "Source": "Shinehorn Dossier",
-      "Trans": {"SC":"闪角鹿图鉴","JA":"闪角鹿圖鑒"},
+      "Trans": {"SC":"闪角鹿图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1830510762",
       "Source": "Sinomacrops Dossier",
-      "Trans": {"SC":"中华大眼翼龙图鉴","JA":"中华大眼翼龙圖鑒"},
+      "Trans": {"SC":"中华大眼翼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1539532055",
       "Source": "Snow Owl Dossier",
-      "Trans": {"SC":"雪鸮图鉴","JA":"雪鸮圖鑒"},
+      "Trans": {"SC":"雪鸮图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::776593567",
       "Source": "Spino Dossier",
-      "Trans": {"SC":"棘龙图鉴","JA":"棘龙圖鑒"},
+      "Trans": {"SC":"棘龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3091382992",
       "Source": "Stegosaurus Dossier",
-      "Trans": {"SC":"剑龙图鉴","JA":"剑龙圖鑒"},
+      "Trans": {"SC":"剑龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1068314637",
       "Source": "Stryder Dossier",
-      "Trans": {"SC":"泰克跨步者图鉴","JA":"泰克跨步者圖鑒"},
+      "Trans": {"SC":"泰克跨步者图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1314948464",
       "Source": "Tapejara Dossier",
-      "Trans": {"SC":"古神翼龙图鉴","JA":"古神翼龙圖鑒"},
+      "Trans": {"SC":"古神翼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::167462221",
       "Source": "Terror Bird Dossier",
-      "Trans": {"SC":"骇鸟图鉴","JA":"骇鸟圖鑒"},
+      "Trans": {"SC":"骇鸟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2142848762",
       "Source": "Therizinosaur Dossier",
-      "Trans": {"SC":"镰刀龙图鉴","JA":"镰刀龙圖鑒"},
+      "Trans": {"SC":"镰刀龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2716201296",
       "Source": "Thorny Dragon Dossier",
-      "Trans": {"SC":"棘蜥图鉴","JA":"棘蜥圖鑒"},
+      "Trans": {"SC":"棘蜥图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1928199746",
       "Source": "Thylacoleo Dossier",
-      "Trans": {"SC":"袋狮图鉴","JA":"袋狮圖鑒"},
+      "Trans": {"SC":"袋狮图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4074443929",
       "Source": "Titanoboa Dossier",
-      "Trans": {"SC":"泰坦蚺图鉴","JA":"泰坦蟒圖鑒"},
+      "Trans": {"SC":"泰坦蚺图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3531037151",
       "Source": "Titanomyrma Dossier",
-      "Trans": {"SC":"泰坦蚁图鉴","JA":"泰坦蚁圖鑒"},
+      "Trans": {"SC":"泰坦蚁图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2309288164",
       "Source": "Titanosaur Dossier",
-      "Trans": {"SC":"泰坦龙图鉴","JA":"泰坦龙圖鑒"},
+      "Trans": {"SC":"泰坦龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1087169911",
       "Source": "Triceratops Dossier",
-      "Trans": {"SC":"三角龙图鉴","JA":"三角龙圖鑒"},
+      "Trans": {"SC":"三角龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1400704185",
       "Source": "Trilobite Dossier",
-      "Trans": {"SC":"三叶虫图鉴","JA":"三叶虫圖鑒"},
+      "Trans": {"SC":"三叶虫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::443105737",
       "Source": "Troodon Dossier",
-      "Trans": {"SC":"伤齿龙图鉴","JA":"伤齿龙圖鑒"},
+      "Trans": {"SC":"伤齿龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::663137764",
       "Source": "Tropeognathus Dossier",
-      "Trans": {"SC":"脊颌翼龙图鉴","JA":"脊颌翼龙圖鑒"},
+      "Trans": {"SC":"脊颌翼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3720640571",
       "Source": "Tusoteuthis Dossier",
-      "Trans": {"SC":"托斯特巨鱿图鉴","JA":"托斯特巨鱿圖鑒"},
+      "Trans": {"SC":"托斯特巨鱿图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2259145660",
       "Source": "Velonasaur Dossier",
-      "Trans": {"SC":"刺面龙图鉴","JA":"刺面龙圖鑒"},
+      "Trans": {"SC":"刺面龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3210578640",
       "Source": "Voidwyrm Dossier",
-      "Trans": {"SC":"虚空飞龙图鉴","JA":"虚空飞龙圖鑒"},
+      "Trans": {"SC":"虚空飞龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2750979307",
       "Source": "Vulture Dossier",
-      "Trans": {"SC":"秃鹫图鉴","JA":"秃鹫圖鑒"},
+      "Trans": {"SC":"秃鹫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1873099927",
       "Source": "Woolly Rhino Dossier",
-      "Trans": {"SC":"披毛犀图鉴","JA":"披毛犀圖鑒"},
+      "Trans": {"SC":"披毛犀图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1884886582",
       "Source": "Wyvern Dossier",
-      "Trans": {"SC":"双足飞龙图鉴","JA":"双足飞龙圖鑒"},
+      "Trans": {"SC":"双足飞龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3667766089",
       "Source": "Yutyrannus Dossier",
-      "Trans": {"SC":"羽王龙图鉴","JA":"羽王龙圖鑒"},
+      "Trans": {"SC":"羽王龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2739696817",
       "Source": "Helena Note #1",
-      "Trans": {"SC":"海莲娜的笔记#1","JA":"海蓮娜的笔記#1"},
+      "Trans": {"SC":"海莲娜的笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::877280405",
       "Source": "Helena Note #10",
-      "Trans": {"SC":"海莲娜的笔记#10","JA":"海蓮娜的笔記#10"},
+      "Trans": {"SC":"海莲娜的笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2364955632",
       "Source": "Helena Note #11",
-      "Trans": {"SC":"海莲娜的笔记#11","JA":"海蓮娜的笔記#11"},
+      "Trans": {"SC":"海莲娜的笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2655253534",
       "Source": "Helena Note #12",
-      "Trans": {"SC":"海莲娜的笔记#12","JA":"海蓮娜的笔記#12"},
+      "Trans": {"SC":"海莲娜的笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::654283643",
       "Source": "Helena Note #13",
-      "Trans": {"SC":"海莲娜的笔记#13","JA":"海蓮娜的笔記#13"},
+      "Trans": {"SC":"海莲娜的笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3140004802",
       "Source": "Helena Note #14",
-      "Trans": {"SC":"海莲娜的笔记#14","JA":"海蓮娜的笔記#14"},
+      "Trans": {"SC":"海莲娜的笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::60083367",
       "Source": "Helena Note #15",
-      "Trans": {"SC":"海莲娜的笔记#15","JA":"海蓮娜的笔記#15"},
+      "Trans": {"SC":"海莲娜的笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::287400777",
       "Source": "Helena Note #16",
-      "Trans": {"SC":"海莲娜的笔记#16","JA":"海蓮娜的笔記#16"},
+      "Trans": {"SC":"海莲娜的笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2845639724",
       "Source": "Helena Note #17",
-      "Trans": {"SC":"海莲娜的笔记#17","JA":"海蓮娜的笔記#17"},
+      "Trans": {"SC":"海莲娜的笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4059960442",
       "Source": "Helena Note #18",
-      "Trans": {"SC":"海莲娜的笔记#18","JA":"海蓮娜的笔記#18"},
+      "Trans": {"SC":"海莲娜的笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1229091615",
       "Source": "Helena Note #19",
-      "Trans": {"SC":"海莲娜的笔记#19","JA":"海蓮娜的笔記#19"},
+      "Trans": {"SC":"海莲娜的笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2985941855",
       "Source": "Helena Note #2",
-      "Trans": {"SC":"海莲娜的笔记#2","JA":"海蓮娜的笔記#2"},
+      "Trans": {"SC":"海莲娜的笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3133487990",
       "Source": "Helena Note #20",
-      "Trans": {"SC":"海莲娜的笔记#20","JA":"海蓮娜的笔記#20"},
+      "Trans": {"SC":"海莲娜的笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::41507859",
       "Source": "Helena Note #21",
-      "Trans": {"SC":"海莲娜的笔记#21","JA":"海蓮娜的笔記#21"},
+      "Trans": {"SC":"海莲娜的笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::281867261",
       "Source": "Helena Note #22",
-      "Trans": {"SC":"海莲娜的笔记#22","JA":"海蓮娜的笔記#22"},
+      "Trans": {"SC":"海莲娜的笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2825950360",
       "Source": "Helena Note #23",
-      "Trans": {"SC":"海莲娜的笔记#23","JA":"海蓮娜的笔記#23"},
+      "Trans": {"SC":"海莲娜的笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::900181025",
       "Source": "Helena Note #24",
-      "Trans": {"SC":"海莲娜的笔记#24","JA":"海蓮娜的笔記#24"},
+      "Trans": {"SC":"海莲娜的笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2367408964",
       "Source": "Helena Note #25",
-      "Trans": {"SC":"海莲娜的笔记#25","JA":"海蓮娜的笔記#25"},
+      "Trans": {"SC":"海莲娜的笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2679006378",
       "Source": "Helena Note #26",
-      "Trans": {"SC":"海莲娜的笔记#26","JA":"海蓮娜的笔記#26"},
+      "Trans": {"SC":"海莲娜的笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::655492047",
       "Source": "Helena Note #27",
-      "Trans": {"SC":"海莲娜的笔记#27","JA":"海蓮娜的笔記#27"},
+      "Trans": {"SC":"海莲娜的笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2138117017",
       "Source": "Helena Note #28",
-      "Trans": {"SC":"海莲娜的笔记#28","JA":"海蓮娜的笔記#28"},
+      "Trans": {"SC":"海莲娜的笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3352130812",
       "Source": "Helena Note #29",
-      "Trans": {"SC":"海莲娜的笔记#29","JA":"海蓮娜的笔記#29"},
+      "Trans": {"SC":"海莲娜的笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::155565114",
       "Source": "Helena Note #3",
-      "Trans": {"SC":"海莲娜的笔记#3","JA":"海蓮娜的笔記#3"},
+      "Trans": {"SC":"海莲娜的笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1987001320",
       "Source": "Helena Note #30",
-      "Trans": {"SC":"海莲娜的笔记#30","JA":"海蓮娜的笔記#30"},
+      "Trans": {"SC":"海莲娜的笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2492630147",
       "Source": "Helena Note #4",
-      "Trans": {"SC":"海莲娜的笔记#4","JA":"海蓮娜的笔記#4"},
+      "Trans": {"SC":"海莲娜的笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::741270502",
       "Source": "Helena Note #5",
-      "Trans": {"SC":"海莲娜的笔记#5","JA":"海蓮娜的笔記#5"},
+      "Trans": {"SC":"海莲娜的笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1050364936",
       "Source": "Helena Note #6",
-      "Trans": {"SC":"海莲娜的笔记#6","JA":"海蓮娜的笔記#6"},
+      "Trans": {"SC":"海莲娜的笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2250713965",
       "Source": "Helena Note #7",
-      "Trans": {"SC":"海莲娜的笔记#7","JA":"海蓮娜的笔記#7"},
+      "Trans": {"SC":"海莲娜的笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3729013563",
       "Source": "Helena Note #8",
-      "Trans": {"SC":"海莲娜的笔记#8","JA":"海蓮娜的笔記#8"},
+      "Trans": {"SC":"海莲娜的笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1727552606",
       "Source": "Helena Note #9",
-      "Trans": {"SC":"海莲娜的笔记#9","JA":"海蓮娜的笔記#9"},
+      "Trans": {"SC":"海莲娜的笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3420076320",
       "Source": "Rockwell Record #1",
-      "Trans": {"SC":"罗克韦尔的笔记#1","JA":"羅克韦尔的笔記#1"},
+      "Trans": {"SC":"罗克韦尔的笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::763781169",
       "Source": "Rockwell Record #10",
-      "Trans": {"SC":"罗克韦尔的笔记#10","JA":"羅克韦尔的笔記#10"},
+      "Trans": {"SC":"罗克韦尔的笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2503608148",
       "Source": "Rockwell Record #11",
-      "Trans": {"SC":"罗克韦尔的笔记#11","JA":"羅克韦尔的笔記#11"},
+      "Trans": {"SC":"罗克韦尔的笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2274339002",
       "Source": "Rockwell Record #12",
-      "Trans": {"SC":"罗克韦尔的笔记#12","JA":"羅克韦尔的笔記#12"},
+      "Trans": {"SC":"罗克韦尔的笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1060360159",
       "Source": "Rockwell Record #13",
-      "Trans": {"SC":"罗克韦尔的笔记#13","JA":"羅克韦尔的笔記#13"},
+      "Trans": {"SC":"罗克韦尔的笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2732914534",
       "Source": "Rockwell Record #14",
-      "Trans": {"SC":"罗克韦尔的笔记#14","JA":"羅克韦尔的笔記#14"},
+      "Trans": {"SC":"罗克韦尔的笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::442011651",
       "Source": "Rockwell Record #15",
-      "Trans": {"SC":"罗克韦尔的笔记#15","JA":"羅克韦尔的笔記#15"},
+      "Trans": {"SC":"罗克韦尔的笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::149766125",
       "Source": "Rockwell Record #16",
-      "Trans": {"SC":"罗克韦尔的笔记#16","JA":"羅克韦尔的笔記#16"},
+      "Trans": {"SC":"罗克韦尔的笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2958121096",
       "Source": "Rockwell Record #17",
-      "Trans": {"SC":"罗克韦尔的笔记#17","JA":"羅克韦尔的笔記#17"},
+      "Trans": {"SC":"罗克韦尔的笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3895609566",
       "Source": "Rockwell Record #18",
-      "Trans": {"SC":"罗克韦尔的笔记#18","JA":"羅克韦尔的笔記#18"},
+      "Trans": {"SC":"罗克韦尔的笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1351495611",
       "Source": "Rockwell Record #19",
-      "Trans": {"SC":"罗克韦尔的笔记#19","JA":"羅克韦尔的笔記#19"},
+      "Trans": {"SC":"罗克韦尔的笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3647968974",
       "Source": "Rockwell Record #2",
-      "Trans": {"SC":"罗克韦尔的笔记#2","JA":"羅克韦尔的笔記#2"},
+      "Trans": {"SC":"罗克韦尔的笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2735302610",
       "Source": "Rockwell Record #20",
-      "Trans": {"SC":"罗克韦尔的笔记#20","JA":"羅克韦尔的笔記#20"},
+      "Trans": {"SC":"罗克韦尔的笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::464847031",
       "Source": "Rockwell Record #21",
-      "Trans": {"SC":"罗克韦尔的笔记#21","JA":"羅克韦尔的笔記#21"},
+      "Trans": {"SC":"罗克韦尔的笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::151039833",
       "Source": "Rockwell Record #22",
-      "Trans": {"SC":"罗克韦尔的笔记#22","JA":"羅克韦尔的笔記#22"},
+      "Trans": {"SC":"罗克韦尔的笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2981939260",
       "Source": "Rockwell Record #23",
-      "Trans": {"SC":"罗克韦尔的笔记#23","JA":"羅克韦尔的笔記#23"},
+      "Trans": {"SC":"罗克韦尔的笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::745271429",
       "Source": "Rockwell Record #24",
-      "Trans": {"SC":"罗克韦尔的笔记#24","JA":"羅克韦尔的笔記#24"},
+      "Trans": {"SC":"罗克韦尔的笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2497157088",
       "Source": "Rockwell Record #25",
-      "Trans": {"SC":"罗克韦尔的笔记#25","JA":"羅克韦尔的笔記#25"},
+      "Trans": {"SC":"罗克韦尔的笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2254583822",
       "Source": "Rockwell Record #26",
-      "Trans": {"SC":"罗克韦尔的笔记#26","JA":"羅克韦尔的笔記#26"},
+      "Trans": {"SC":"罗克韦尔的笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1054760811",
       "Source": "Rockwell Record #27",
-      "Trans": {"SC":"罗克韦尔的笔记#27","JA":"羅克韦尔的笔記#27"},
+      "Trans": {"SC":"罗克韦尔的笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1723682621",
       "Source": "Rockwell Record #28",
-      "Trans": {"SC":"罗克韦尔的笔记#28","JA":"羅克韦尔的笔記#28"},
+      "Trans": {"SC":"罗克韦尔的笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3724617816",
       "Source": "Rockwell Record #29",
-      "Trans": {"SC":"罗克韦尔的笔记#29","JA":"羅克韦尔的笔記#29"},
+      "Trans": {"SC":"罗克韦尔的笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1641279915",
       "Source": "Rockwell Record #3",
-      "Trans": {"SC":"罗克韦尔的笔记#3","JA":"羅克韦尔的笔記#3"},
+      "Trans": {"SC":"罗克韦尔的笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1872979788",
       "Source": "Rockwell Record #30",
-      "Trans": {"SC":"罗克韦尔的笔记#30","JA":"羅克韦尔的笔記#30"},
+      "Trans": {"SC":"罗克韦尔的笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4228172050",
       "Source": "Rockwell Record #4",
-      "Trans": {"SC":"罗克韦尔的笔记#4","JA":"羅克韦尔的笔記#4"},
+      "Trans": {"SC":"罗克韦尔的笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1152953975",
       "Source": "Rockwell Record #5",
-      "Trans": {"SC":"罗克韦尔的笔记#5","JA":"羅克韦尔的笔記#5"},
+      "Trans": {"SC":"罗克韦尔的笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1443692953",
       "Source": "Rockwell Record #6",
-      "Trans": {"SC":"罗克韦尔的笔记#6","JA":"羅克韦尔的笔記#6"},
+      "Trans": {"SC":"罗克韦尔的笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4004603644",
       "Source": "Rockwell Record #7",
-      "Trans": {"SC":"罗克韦尔的笔记#7","JA":"羅克韦尔的笔記#7"},
+      "Trans": {"SC":"罗克韦尔的笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3067246250",
       "Source": "Rockwell Record #8",
-      "Trans": {"SC":"罗克韦尔的笔记#8","JA":"羅克韦尔的笔記#8"},
+      "Trans": {"SC":"罗克韦尔的笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::242094543",
       "Source": "Rockwell Record #9",
-      "Trans": {"SC":"罗克韦尔的笔记#9","JA":"羅克韦尔的笔記#9"},
+      "Trans": {"SC":"罗克韦尔的笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::945209020",
       "Source": "Meiyin Note #1",
-      "Trans": {"SC":"美盈的笔记#1","JA":"美盈的笔記#1"},
+      "Trans": {"SC":"美盈的笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2380810185",
       "Source": "Meiyin Note #10",
-      "Trans": {"SC":"美盈的笔记#10","JA":"美盈的笔記#10"},
+      "Trans": {"SC":"美盈的笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::894705836",
       "Source": "Meiyin Note #11",
-      "Trans": {"SC":"美盈的笔记#11","JA":"美盈的笔記#11"},
+      "Trans": {"SC":"美盈的笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::669093698",
       "Source": "Meiyin Note #12",
-      "Trans": {"SC":"美盈的笔记#12","JA":"美盈的笔記#12"},
+      "Trans": {"SC":"美盈的笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2673731623",
       "Source": "Meiyin Note #13",
-      "Trans": {"SC":"美盈的笔记#13","JA":"美盈的笔記#13"},
+      "Trans": {"SC":"美盈的笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::42651806",
       "Source": "Meiyin Note #14",
-      "Trans": {"SC":"美盈的笔记#14","JA":"美盈的笔記#14"},
+      "Trans": {"SC":"美盈的笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3124148219",
       "Source": "Meiyin Note #15",
-      "Trans": {"SC":"美盈的笔记#15","JA":"美盈的笔記#15"},
+      "Trans": {"SC":"美盈的笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2827163669",
       "Source": "Meiyin Note #16",
-      "Trans": {"SC":"美盈的笔记#16","JA":"美盈的笔記#16"},
+      "Trans": {"SC":"美盈的笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::272596848",
       "Source": "Meiyin Note #17",
-      "Trans": {"SC":"美盈的笔记#17","JA":"美盈的笔記#17"},
+      "Trans": {"SC":"美盈的笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1214017318",
       "Source": "Meiyin Note #18",
-      "Trans": {"SC":"美盈的笔记#18","JA":"美盈的笔記#18"},
+      "Trans": {"SC":"美盈的笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4041214019",
       "Source": "Meiyin Note #19",
-      "Trans": {"SC":"美盈的笔记#19","JA":"美盈的笔記#19"},
+      "Trans": {"SC":"美盈的笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::719524178",
       "Source": "Meiyin Note #2",
-      "Trans": {"SC":"美盈的笔记#2","JA":"美盈的笔記#2"},
+      "Trans": {"SC":"美盈的笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::57098282",
       "Source": "Meiyin Note #20",
-      "Trans": {"SC":"美盈的笔记#20","JA":"美盈的笔記#20"},
+      "Trans": {"SC":"美盈的笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3151701839",
       "Source": "Meiyin Note #21",
-      "Trans": {"SC":"美盈的笔记#21","JA":"美盈的笔記#21"},
+      "Trans": {"SC":"美盈的笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2842593441",
       "Source": "Meiyin Note #22",
-      "Trans": {"SC":"美盈的笔记#22","JA":"美盈的笔記#22"},
+      "Trans": {"SC":"美盈的笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::299036612",
       "Source": "Meiyin Note #23",
-      "Trans": {"SC":"美盈的笔记#23","JA":"美盈的笔記#23"},
+      "Trans": {"SC":"美盈的笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2349193085",
       "Source": "Meiyin Note #24",
-      "Trans": {"SC":"美盈的笔记#24","JA":"美盈的笔記#24"},
+      "Trans": {"SC":"美盈的笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::884584472",
       "Source": "Meiyin Note #25",
-      "Trans": {"SC":"美盈的笔记#25","JA":"美盈的笔記#25"},
+      "Trans": {"SC":"美盈的笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::638328822",
       "Source": "Meiyin Note #26",
-      "Trans": {"SC":"美盈的笔记#26","JA":"美盈的笔記#26"},
+      "Trans": {"SC":"美盈的笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2662365331",
       "Source": "Meiyin Note #27",
-      "Trans": {"SC":"美盈的笔记#27","JA":"美盈的笔記#27"},
+      "Trans": {"SC":"美盈的笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3335743685",
       "Source": "Meiyin Note #28",
-      "Trans": {"SC":"美盈的笔记#28","JA":"美盈的笔記#28"},
+      "Trans": {"SC":"美盈的笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2121207712",
       "Source": "Meiyin Note #29",
-      "Trans": {"SC":"美盈的笔记#29","JA":"美盈的笔記#29"},
+      "Trans": {"SC":"美盈的笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2455729719",
       "Source": "Meiyin Note #3",
-      "Trans": {"SC":"美盈的笔记#3","JA":"美盈的笔記#3"},
+      "Trans": {"SC":"美盈的笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3486335156",
       "Source": "Meiyin Note #30",
-      "Trans": {"SC":"美盈的笔记#30","JA":"美盈的笔記#30"},
+      "Trans": {"SC":"美盈的笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2003904465",
       "Source": "Meiyin Note #31",
-      "Trans": {"SC":"美盈的笔记#31","JA":"美盈的笔記#31"},
+      "Trans": {"SC":"美盈的笔记#31","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::260591246",
       "Source": "Meiyin Note #4",
-      "Trans": {"SC":"美盈的笔记#4","JA":"美盈的笔記#4"},
+      "Trans": {"SC":"美盈的笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3073649131",
       "Source": "Meiyin Note #5",
-      "Trans": {"SC":"美盈的笔记#5","JA":"美盈的笔記#5"},
+      "Trans": {"SC":"美盈的笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2776729093",
       "Source": "Meiyin Note #6",
-      "Trans": {"SC":"美盈的笔记#6","JA":"美盈的笔記#6"},
+      "Trans": {"SC":"美盈的笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::490594656",
       "Source": "Meiyin Note #7",
-      "Trans": {"SC":"美盈的笔记#7","JA":"美盈的笔記#7"},
+      "Trans": {"SC":"美盈的笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1163850038",
       "Source": "Meiyin Note #8",
-      "Trans": {"SC":"美盈的笔记#8","JA":"美盈的笔記#8"},
+      "Trans": {"SC":"美盈的笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4259485267",
       "Source": "Meiyin Note #9",
-      "Trans": {"SC":"美盈的笔记#9","JA":"美盈的笔記#9"},
+      "Trans": {"SC":"美盈的笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3534868562",
       "Source": "Nerva Note #1",
-      "Trans": {"SC":"涅尔瓦的笔记#1","JA":"涅尔瓦的笔記#1"},
+      "Trans": {"SC":"涅尔瓦的笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2833381797",
       "Source": "Nerva Note #10",
-      "Trans": {"SC":"涅尔瓦的笔记#10","JA":"涅尔瓦的笔記#10"},
+      "Trans": {"SC":"涅尔瓦的笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::274570944",
       "Source": "Nerva Note #11",
-      "Trans": {"SC":"涅尔瓦的笔记#11","JA":"涅尔瓦的笔記#11"},
+      "Trans": {"SC":"涅尔瓦的笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::48771374",
       "Source": "Nerva Note #12",
-      "Trans": {"SC":"涅尔瓦的笔记#12","JA":"涅尔瓦的笔記#12"},
+      "Trans": {"SC":"涅尔瓦的笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3126089291",
       "Source": "Nerva Note #13",
-      "Trans": {"SC":"涅尔瓦的笔记#13","JA":"涅尔瓦的笔記#13"},
+      "Trans": {"SC":"涅尔瓦的笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::662925042",
       "Source": "Nerva Note #14",
-      "Trans": {"SC":"涅尔瓦的笔记#14","JA":"涅尔瓦的笔記#14"},
+      "Trans": {"SC":"涅尔瓦的笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2671708567",
       "Source": "Nerva Note #15",
-      "Trans": {"SC":"涅尔瓦的笔记#15","JA":"涅尔瓦的笔記#15"},
+      "Trans": {"SC":"涅尔瓦的笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2374674041",
       "Source": "Nerva Note #16",
-      "Trans": {"SC":"涅尔瓦的笔记#16","JA":"涅尔瓦的笔記#16"},
+      "Trans": {"SC":"涅尔瓦的笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::892780828",
       "Source": "Nerva Note #17",
-      "Trans": {"SC":"涅尔瓦的笔记#17","JA":"涅尔瓦的笔記#17"},
+      "Trans": {"SC":"涅尔瓦的笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1834340682",
       "Source": "Nerva Note #18",
-      "Trans": {"SC":"涅尔瓦的笔记#18","JA":"涅尔瓦的笔記#18"},
+      "Trans": {"SC":"涅尔瓦的笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3588863535",
       "Source": "Nerva Note #19",
-      "Trans": {"SC":"涅尔瓦的笔记#19","JA":"涅尔瓦的笔記#19"},
+      "Trans": {"SC":"涅尔瓦的笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3221520316",
       "Source": "Nerva Note #2",
-      "Trans": {"SC":"涅尔瓦的笔记#2","JA":"涅尔瓦的笔記#2"},
+      "Trans": {"SC":"涅尔瓦的笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::644808262",
       "Source": "Nerva Note #20",
-      "Trans": {"SC":"涅尔瓦的笔记#20","JA":"涅尔瓦的笔記#20"},
+      "Trans": {"SC":"涅尔瓦的笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2664601891",
       "Source": "Nerva Note #21",
-      "Trans": {"SC":"涅尔瓦的笔记#21","JA":"涅尔瓦的笔記#21"},
+      "Trans": {"SC":"涅尔瓦的笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2355574477",
       "Source": "Nerva Note #22",
-      "Trans": {"SC":"涅尔瓦的笔记#22","JA":"涅尔瓦的笔記#22"},
+      "Trans": {"SC":"涅尔瓦的笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::886788520",
       "Source": "Nerva Note #23",
-      "Trans": {"SC":"涅尔瓦的笔记#23","JA":"涅尔瓦的笔記#23"},
+      "Trans": {"SC":"涅尔瓦的笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2836162833",
       "Source": "Nerva Note #24",
-      "Trans": {"SC":"涅尔瓦的笔记#24","JA":"涅尔瓦的笔記#24"},
+      "Trans": {"SC":"涅尔瓦的笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::296750708",
       "Source": "Nerva Note #25",
-      "Trans": {"SC":"涅尔瓦的笔记#25","JA":"涅尔瓦的笔記#25"},
+      "Trans": {"SC":"涅尔瓦的笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::50700698",
       "Source": "Nerva Note #26",
-      "Trans": {"SC":"涅尔瓦的笔记#26","JA":"涅尔瓦的笔記#26"},
+      "Trans": {"SC":"涅尔瓦的笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3149514495",
       "Source": "Nerva Note #27",
-      "Trans": {"SC":"涅尔瓦的笔记#27","JA":"涅尔瓦的笔記#27"},
+      "Trans": {"SC":"涅尔瓦的笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3822769833",
       "Source": "Nerva Note #28",
-      "Trans": {"SC":"涅尔瓦的笔记#28","JA":"涅尔瓦的笔記#28"},
+      "Trans": {"SC":"涅尔瓦的笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1533456844",
       "Source": "Nerva Note #29",
-      "Trans": {"SC":"涅尔瓦的笔记#29","JA":"涅尔瓦的笔記#29"},
+      "Trans": {"SC":"涅尔瓦的笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2025330905",
       "Source": "Nerva Note #3",
-      "Trans": {"SC":"涅尔瓦的笔记#3","JA":"涅尔瓦的笔記#3"},
+      "Trans": {"SC":"涅尔瓦的笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3938778840",
       "Source": "Nerva Note #30",
-      "Trans": {"SC":"涅尔瓦的笔记#30","JA":"涅尔瓦的笔記#30"},
+      "Trans": {"SC":"涅尔瓦的笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3849265248",
       "Source": "Nerva Note #4",
-      "Trans": {"SC":"涅尔瓦的笔记#4","JA":"涅尔瓦的笔記#4"},
+      "Trans": {"SC":"涅尔瓦的笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1574127365",
       "Source": "Nerva Note #5",
-      "Trans": {"SC":"涅尔瓦的笔记#5","JA":"涅尔瓦的笔記#5"},
+      "Trans": {"SC":"涅尔瓦的笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1332144363",
       "Source": "Nerva Note #6",
-      "Trans": {"SC":"涅尔瓦的笔记#6","JA":"涅尔瓦的笔記#6"},
+      "Trans": {"SC":"涅尔瓦的笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4158295950",
       "Source": "Nerva Note #7",
-      "Trans": {"SC":"涅尔瓦的笔记#7","JA":"涅尔瓦的笔記#7"},
+      "Trans": {"SC":"涅尔瓦的笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2948177880",
       "Source": "Nerva Note #8",
-      "Trans": {"SC":"涅尔瓦的笔记#8","JA":"涅尔瓦的笔記#8"},
+      "Trans": {"SC":"涅尔瓦的笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::386267325",
       "Source": "Nerva Note #9",
-      "Trans": {"SC":"涅尔瓦的笔记#9","JA":"涅尔瓦的笔記#9"},
+      "Trans": {"SC":"涅尔瓦的笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::588006784",
       "Source": "Dahkeya Note #1",
-      "Trans": {"SC":"达奇亚的笔记#1","JA":"达奇亞的笔記#1"},
+      "Trans": {"SC":"达奇亚的笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1152770259",
       "Source": "Dahkeya Note #10",
-      "Trans": {"SC":"达奇亚的笔记#10","JA":"达奇亞的笔記#10"},
+      "Trans": {"SC":"达奇亚的笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4228482998",
       "Source": "Dahkeya Note #11",
-      "Trans": {"SC":"达奇亚的笔记#11","JA":"达奇亞的笔記#11"},
+      "Trans": {"SC":"达奇亚的笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4005308504",
       "Source": "Dahkeya Note #12",
-      "Trans": {"SC":"达奇亚的笔记#12","JA":"达奇亞的笔記#12"},
+      "Trans": {"SC":"达奇亚的笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1442860861",
       "Source": "Dahkeya Note #13",
-      "Trans": {"SC":"达奇亚的笔记#13","JA":"达奇亞的笔記#13"},
+      "Trans": {"SC":"达奇亚的笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3419895684",
       "Source": "Dahkeya Note #14",
-      "Trans": {"SC":"达奇亚的笔记#14","JA":"达奇亞的笔記#14"},
+      "Trans": {"SC":"达奇亚的笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1936396513",
       "Source": "Dahkeya Note #15",
-      "Trans": {"SC":"达奇亚的笔记#15","JA":"达奇亞的笔記#15"},
+      "Trans": {"SC":"达奇亚的笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1641987855",
       "Source": "Dahkeya Note #16",
-      "Trans": {"SC":"达奇亚的笔记#16","JA":"达奇亞的笔記#16"},
+      "Trans": {"SC":"达奇亚的笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3647133802",
       "Source": "Dahkeya Note #17",
-      "Trans": {"SC":"达奇亚的笔记#17","JA":"达奇亞的笔記#17"},
+      "Trans": {"SC":"达奇亚的笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2164377660",
       "Source": "Dahkeya Note #18",
-      "Trans": {"SC":"达奇亚的笔记#18","JA":"达奇亞的笔記#18"},
+      "Trans": {"SC":"达奇亚的笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::968732505",
       "Source": "Dahkeya Note #19",
-      "Trans": {"SC":"达奇亚的笔记#19","JA":"达奇亞的笔記#19"},
+      "Trans": {"SC":"达奇亚的笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::834267758",
       "Source": "Dahkeya Note #2",
-      "Trans": {"SC":"达奇亚的笔记#2","JA":"达奇亞的笔記#2"},
+      "Trans": {"SC":"达奇亚的笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3392857904",
       "Source": "Dahkeya Note #20",
-      "Trans": {"SC":"达奇亚的笔记#20","JA":"达奇亞的笔記#20"},
+      "Trans": {"SC":"达奇亚的笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1921417301",
       "Source": "Dahkeya Note #21",
-      "Trans": {"SC":"达奇亚的笔记#21","JA":"达奇亞的笔記#21"},
+      "Trans": {"SC":"达奇亚的笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1613967291",
       "Source": "Dahkeya Note #22",
-      "Trans": {"SC":"达奇亚的笔记#22","JA":"达奇亞的笔記#22"},
+      "Trans": {"SC":"达奇亚的笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3633268958",
       "Source": "Dahkeya Note #23",
-      "Trans": {"SC":"达奇亚的笔记#23","JA":"达奇亞的笔記#23"},
+      "Trans": {"SC":"达奇亚的笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1163423847",
       "Source": "Dahkeya Note #24",
-      "Trans": {"SC":"达奇亚的笔记#24","JA":"达奇亞的笔記#24"},
+      "Trans": {"SC":"达奇亚的笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4259583746",
       "Source": "Dahkeya Note #25",
-      "Trans": {"SC":"达奇亚的笔记#25","JA":"达奇亞的笔記#25"},
+      "Trans": {"SC":"达奇亚的笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4015110380",
       "Source": "Dahkeya Note #26",
-      "Trans": {"SC":"达奇亚的笔记#26","JA":"达奇亞的笔記#26"},
+      "Trans": {"SC":"达奇亚的笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1475207049",
       "Source": "Dahkeya Note #27",
-      "Trans": {"SC":"达奇亚的笔记#27","JA":"达奇亞的笔記#27"},
+      "Trans": {"SC":"达奇亚的笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::261017567",
       "Source": "Dahkeya Note #28",
-      "Trans": {"SC":"达奇亚的笔记#28","JA":"达奇亞的笔記#28"},
+      "Trans": {"SC":"达奇亚的笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3073550522",
       "Source": "Dahkeya Note #29",
-      "Trans": {"SC":"达奇亚的笔记#29","JA":"达奇亞的笔記#29"},
+      "Trans": {"SC":"达奇亚的笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2298842379",
       "Source": "Dahkeya Note #3",
-      "Trans": {"SC":"达奇亚的笔记#3","JA":"达奇亞的笔記#3"},
+      "Trans": {"SC":"达奇亚的笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::110159790",
       "Source": "Dahkeya Note #30",
-      "Trans": {"SC":"达奇亚的笔记#30","JA":"达奇亞的笔記#30"},
+      "Trans": {"SC":"达奇亚的笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::349353394",
       "Source": "Dahkeya Note #4",
-      "Trans": {"SC":"达奇亚的笔记#4","JA":"达奇亞的笔記#4"},
+      "Trans": {"SC":"达奇亚的笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2892944087",
       "Source": "Dahkeya Note #5",
-      "Trans": {"SC":"达奇亚的笔记#5","JA":"达奇亞的笔記#5"},
+      "Trans": {"SC":"达奇亚的笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3202055481",
       "Source": "Dahkeya Note #6",
-      "Trans": {"SC":"达奇亚的笔记#6","JA":"达奇亞的笔記#6"},
+      "Trans": {"SC":"达奇亚的笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::107420252",
       "Source": "Dahkeya Note #7",
-      "Trans": {"SC":"达奇亚的笔记#7","JA":"达奇亞的笔記#7"},
+      "Trans": {"SC":"达奇亚的笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1577323018",
       "Source": "Dahkeya Note #8",
-      "Trans": {"SC":"达奇亚的笔记#8","JA":"达奇亞的笔記#8"},
+      "Trans": {"SC":"达奇亚的笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3870846319",
       "Source": "Dahkeya Note #9",
-      "Trans": {"SC":"达奇亚的笔记#9","JA":"达奇亞的笔記#9"},
+      "Trans": {"SC":"达奇亚的笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2385496622",
       "Source": "Grad Journal Boris #1",
-      "Trans": {"SC":"鲍里斯的毕业日记#1","JA":"鮑里斯的畢業日記#1"},
+      "Trans": {"SC":"鲍里斯的毕业日记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2627364288",
       "Source": "Grad Journal Boris #2",
-      "Trans": {"SC":"鲍里斯的毕业日记#2","JA":"鮑里斯的畢業日記#2"},
+      "Trans": {"SC":"鲍里斯的毕业日记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::606470821",
       "Source": "Grad Journal Boris #3",
-      "Trans": {"SC":"鲍里斯的毕业日记#3","JA":"鮑里斯的畢業日記#3"},
+      "Trans": {"SC":"鲍里斯的毕业日记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3119594012",
       "Source": "Grad Journal Boris #4",
-      "Trans": {"SC":"鲍里斯的毕业日记#4","JA":"鮑里斯的畢業日記#4"},
+      "Trans": {"SC":"鲍里斯的毕业日记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::21847417",
       "Source": "Grad Journal Boris #5",
-      "Trans": {"SC":"鲍里斯的毕业日记#5","JA":"鮑里斯的畢業日記#5"},
+      "Trans": {"SC":"鲍里斯的毕业日记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1269268164",
       "Source": "Grad Journal Emilia #1",
-      "Trans": {"SC":"伊米莉亚的毕业日记#1","JA":"伊米莉亞的畢業日記#1"},
+      "Trans": {"SC":"伊米莉亚的毕业日记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1494405418",
       "Source": "Grad Journal Emilia #2",
-      "Trans": {"SC":"伊米莉亚的毕业日记#2","JA":"伊米莉亞的畢業日記#2"},
+      "Trans": {"SC":"伊米莉亚的毕业日记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3786323535",
       "Source": "Grad Journal Emilia #3",
-      "Trans": {"SC":"伊米莉亚的毕业日记#3","JA":"伊米莉亞的畢業日記#3"},
+      "Trans": {"SC":"伊米莉亚的毕业日记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2088341238",
       "Source": "Grad Journal Emilia #4",
-      "Trans": {"SC":"伊米莉亚的毕业日记#4","JA":"伊米莉亞的畢業日記#4"},
+      "Trans": {"SC":"伊米莉亚的毕业日记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3301304723",
       "Source": "Grad Journal Emilia #5",
-      "Trans": {"SC":"伊米莉亚的毕业日记#5","JA":"伊米莉亞的畢業日記#5"},
+      "Trans": {"SC":"伊米莉亚的毕业日记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2638633047",
       "Source": "Grad Journal Imamu #1",
-      "Trans": {"SC":"伊玛目的毕业日记#1","JA":"伊瑪目的畢業日記#1"},
+      "Trans": {"SC":"伊玛目的毕业日记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2415130553",
       "Source": "Grad Journal Imamu #2",
-      "Trans": {"SC":"伊玛目的毕业日记#2","JA":"伊瑪目的畢業日記#2"},
+      "Trans": {"SC":"伊玛目的毕业日记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::927961308",
       "Source": "Grad Journal Imamu #3",
-      "Trans": {"SC":"伊玛目的毕业日记#3","JA":"伊瑪目的畢業日記#3"},
+      "Trans": {"SC":"伊玛目的毕业日记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2862131301",
       "Source": "Grad Journal Imamu #4",
-      "Trans": {"SC":"伊玛目的毕业日记#4","JA":"伊瑪目的畢業日記#4"},
+      "Trans": {"SC":"伊玛目的毕业日记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::304402176",
       "Source": "Grad Journal Imamu #5",
-      "Trans": {"SC":"伊玛目的毕业日记#5","JA":"伊瑪目的畢業日記#5"},
+      "Trans": {"SC":"伊玛目的毕业日记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2783712582",
       "Source": "Grad Journal Rusty #1",
-      "Trans": {"SC":"罗斯提的毕业日记#1","JA":"羅斯提的畢業日記#1"},
+      "Trans": {"SC":"罗斯提的毕业日记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3076111016",
       "Source": "Grad Journal Rusty #2",
-      "Trans": {"SC":"罗斯提的毕业日记#2","JA":"羅斯提的畢業日記#2"},
+      "Trans": {"SC":"罗斯提的毕业日记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::266722765",
       "Source": "Grad Journal Rusty #3",
-      "Trans": {"SC":"罗斯提的毕业日记#3","JA":"羅斯提的畢業日記#3"},
+      "Trans": {"SC":"罗斯提的毕业日记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2452809076",
       "Source": "Grad Journal Rusty #4",
-      "Trans": {"SC":"罗斯提的毕业日记#4","JA":"羅斯提的畢業日記#4"},
+      "Trans": {"SC":"罗斯提的毕业日记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::713982481",
       "Source": "Grad Journal Rusty #5",
-      "Trans": {"SC":"罗斯提的毕业日记#5","JA":"羅斯提的畢業日記#5"},
+      "Trans": {"SC":"罗斯提的毕业日记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::340811190",
       "Source": "Grad Journal Skye #1",
-      "Trans": {"SC":"斯凯的毕业日记#1","JA":"斯凱的畢業日記#1"},
+      "Trans": {"SC":"斯凯的毕业日记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2573571333",
       "Source": "Grad Journal Trent #1",
-      "Trans": {"SC":"特伦特的毕业日记#1","JA":"特倫特的畢業日記#1"},
+      "Trans": {"SC":"特伦特的毕业日记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2345679595",
       "Source": "Grad Journal Trent #2",
-      "Trans": {"SC":"特伦特的毕业日记#2","JA":"特倫特的畢業日記#2"},
+      "Trans": {"SC":"特伦特的毕业日记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::862739854",
       "Source": "Grad Journal Trent #3",
-      "Trans": {"SC":"特伦特的毕业日记#3","JA":"特倫特的畢業日記#3"},
+      "Trans": {"SC":"特伦特的毕业日记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2931516727",
       "Source": "Grad Journal Trent #4",
-      "Trans": {"SC":"特伦特的毕业日记#4","JA":"特倫特的畢業日記#4"},
+      "Trans": {"SC":"特伦特的毕业日记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::369558098",
       "Source": "Grad Journal Trent #5",
-      "Trans": {"SC":"特伦特的毕业日记#5","JA":"特倫特的畢業日記#5"},
+      "Trans": {"SC":"特伦特的毕业日记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3809095299",
       "Source": "Genesis 2 Chronicles #1",
-      "Trans": {"SC":"创世纪2编年史#1","JA":"創世紀2編年史#1"},
+      "Trans": {"SC":"创世纪2编年史#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3753643722",
       "Source": "Genesis 2 Chronicles #10",
-      "Trans": {"SC":"创世纪2编年史#10","JA":"創世紀2編年史#10"},
+      "Trans": {"SC":"创世纪2编年史#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1728080303",
       "Source": "Genesis 2 Chronicles #11",
-      "Trans": {"SC":"创世纪2编年史#11","JA":"創世紀2編年史#11"},
+      "Trans": {"SC":"创世纪2编年史#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1974847041",
       "Source": "Genesis 2 Chronicles #12",
-      "Trans": {"SC":"创世纪2编年史#12","JA":"創世紀2編年史#12"},
+      "Trans": {"SC":"创世纪2编年史#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3439960356",
       "Source": "Genesis 2 Chronicles #13",
-      "Trans": {"SC":"创世纪2编年史#13","JA":"創世紀2編年史#13"},
+      "Trans": {"SC":"创世纪2编年史#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1356765597",
       "Source": "Genesis 2 Chronicles #14",
-      "Trans": {"SC":"创世纪2编年史#14","JA":"創世紀2編年史#14"},
+      "Trans": {"SC":"创世纪2编年史#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3898801912",
       "Source": "Genesis 2 Chronicles #15",
-      "Trans": {"SC":"创世纪2编年史#15","JA":"創世紀2編年史#15"},
+      "Trans": {"SC":"创世纪2编年史#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4208414998",
       "Source": "Genesis 2 Chronicles #16",
-      "Trans": {"SC":"创世纪2编年史#16","JA":"創世紀2編年史#16"},
+      "Trans": {"SC":"创世纪2编年史#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1114322547",
       "Source": "Genesis 2 Chronicles #17",
-      "Trans": {"SC":"创世纪2编年史#17","JA":"創世紀2編年史#17"},
+      "Trans": {"SC":"创世纪2编年史#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::436741669",
       "Source": "Genesis 2 Chronicles #18",
-      "Trans": {"SC":"创世纪2编年史#18","JA":"創世紀2編年史#18"},
+      "Trans": {"SC":"创世纪2编年史#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2729722176",
       "Source": "Genesis 2 Chronicles #19",
-      "Trans": {"SC":"创世纪2编年史#19","JA":"創世紀2編年史#19"},
+      "Trans": {"SC":"创世纪2编年史#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4055859565",
       "Source": "Genesis 2 Chronicles #2",
-      "Trans": {"SC":"创世纪2编年史#2","JA":"創世紀2編年史#2"},
+      "Trans": {"SC":"创世纪2编年史#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1362299177",
       "Source": "Genesis 2 Chronicles #20",
-      "Trans": {"SC":"创世纪2编年史#20","JA":"創世紀2編年史#20"},
+      "Trans": {"SC":"创世纪2编年史#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3918491212",
       "Source": "Genesis 2 Chronicles #21",
-      "Trans": {"SC":"创世纪2编年史#21","JA":"創世紀2編年史#21"},
+      "Trans": {"SC":"创世纪2编年史#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4214931874",
       "Source": "Genesis 2 Chronicles #22",
-      "Trans": {"SC":"创世纪2编年史#22","JA":"創世紀2編年史#22"},
+      "Trans": {"SC":"创世纪2编年史#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1132897991",
       "Source": "Genesis 2 Chronicles #23",
-      "Trans": {"SC":"创世纪2编年史#23","JA":"創世紀2編年史#23"},
+      "Trans": {"SC":"创世纪2编年史#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3729890942",
       "Source": "Genesis 2 Chronicles #24",
-      "Trans": {"SC":"创世纪2编年史#24","JA":"創世紀2編年史#24"},
+      "Trans": {"SC":"创世纪2编年史#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1726871835",
       "Source": "Genesis 2 Chronicles #25",
-      "Trans": {"SC":"创世纪2编年史#25","JA":"創世紀2編年史#25"},
+      "Trans": {"SC":"创世纪2编年史#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1224992264",
       "Source": "Genesis 2 Chronicles #3",
-      "Trans": {"SC":"创世纪2编年史#3","JA":"創世紀2編年史#3"},
+      "Trans": {"SC":"创世纪2编年史#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3570720433",
       "Source": "Genesis 2 Chronicles #4",
-      "Trans": {"SC":"创世纪2编年史#4","JA":"創世紀2編年史#4"},
+      "Trans": {"SC":"创世纪2编年史#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1818802644",
       "Source": "Genesis 2 Chronicles #5",
-      "Trans": {"SC":"创世纪2编年史#5","JA":"創世紀2編年史#5"},
+      "Trans": {"SC":"创世纪2编年史#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2128418362",
       "Source": "Genesis 2 Chronicles #6",
-      "Trans": {"SC":"创世纪2编年史#6","JA":"創世紀2編年史#6"},
+      "Trans": {"SC":"创世纪2编年史#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3328274783",
       "Source": "Genesis 2 Chronicles #7",
-      "Trans": {"SC":"创世纪2编年史#7","JA":"創世紀2編年史#7"},
+      "Trans": {"SC":"创世纪2编年史#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2650956041",
       "Source": "Genesis 2 Chronicles #8",
-      "Trans": {"SC":"创世纪2编年史#8","JA":"創世紀2編年史#8"},
+      "Trans": {"SC":"创世纪2编年史#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::649987692",
       "Source": "Genesis 2 Chronicles #9",
-      "Trans": {"SC":"创世纪2编年史#9","JA":"創世紀2編年史#9"},
+      "Trans": {"SC":"创世纪2编年史#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1008760881",
       "Source": "Explorer Note Santiago 1",
-      "Trans": {"SC":"圣地亚哥探险者笔记#1","JA":"圣地亞哥探險者笔記#1"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2045893044",
       "Source": "Explorer Note Santiago 10",
-      "Trans": {"SC":"圣地亚哥探险者笔记#10","JA":"圣地亞哥探險者笔記#10"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3243097809",
       "Source": "Explorer Note Santiago 11",
-      "Trans": {"SC":"圣地亚哥探险者笔记#11","JA":"圣地亞哥探險者笔記#11"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3556249919",
       "Source": "Explorer Note Santiago 12",
-      "Trans": {"SC":"圣地亚哥探险者笔记#12","JA":"圣地亞哥探險者笔記#12"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1799648858",
       "Source": "Explorer Note Santiago 13",
-      "Trans": {"SC":"圣地亚哥探险者笔记#13","JA":"圣地亞哥探險者笔記#13"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4136849123",
       "Source": "Explorer Note Santiago 14",
-      "Trans": {"SC":"圣地亚哥探险者笔记#14","JA":"圣地亞哥探險者笔記#14"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1311713670",
       "Source": "Explorer Note Santiago 15",
-      "Trans": {"SC":"圣地亚哥探险者笔记#15","JA":"圣地亞哥探險者笔記#15"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1553630824",
       "Source": "Explorer Note Santiago 16",
-      "Trans": {"SC":"圣地亚哥探险者笔记#16","JA":"圣地亞哥探險者笔記#16"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3827753229",
       "Source": "Explorer Note Santiago 17",
-      "Trans": {"SC":"圣地亚哥探险者笔记#17","JA":"圣地亞哥探險者笔記#17"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3158700379",
       "Source": "Explorer Note Santiago 18",
-      "Trans": {"SC":"圣地亚哥探险者笔记#18","JA":"圣地亞哥探險者笔記#18"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::83465790",
       "Source": "Explorer Note Santiago 19",
-      "Trans": {"SC":"圣地亚哥探险者笔记#19","JA":"圣地亞哥探險者笔記#19"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::781572063",
       "Source": "Explorer Note Santiago 2",
-      "Trans": {"SC":"圣地亚哥探险者笔记#2","JA":"圣地亞哥探險者笔記#2"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4152286807",
       "Source": "Explorer Note Santiago 20",
-      "Trans": {"SC":"圣地亚哥探险者笔记#20","JA":"圣地亞哥探險者笔記#20"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1338161458",
       "Source": "Explorer Note Santiago 21",
-      "Trans": {"SC":"圣地亚哥探险者笔记#21","JA":"圣地亞哥探險者笔記#21"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1568085724",
       "Source": "Explorer Note Santiago 22",
-      "Trans": {"SC":"圣地亚哥探险者笔记#22","JA":"圣地亞哥探險者笔記#22"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3855315385",
       "Source": "Explorer Note Santiago 23",
-      "Trans": {"SC":"圣地亚哥探险者笔记#23","JA":"圣地亞哥探險者笔記#23"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2015119616",
       "Source": "Explorer Note Santiago 24",
-      "Trans": {"SC":"圣地亚哥探险者笔记#24","JA":"圣地亞哥探險者笔記#24"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3231723109",
       "Source": "Explorer Note Santiago 25",
-      "Trans": {"SC":"圣地亚哥探险者笔记#25","JA":"圣地亞哥探險者笔記#25"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3524624779",
       "Source": "Explorer Note Santiago 26",
-      "Trans": {"SC":"圣地亚哥探险者笔记#26","JA":"圣地亞哥探險者笔記#26"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1789519598",
       "Source": "Explorer Note Santiago 27",
-      "Trans": {"SC":"圣地亚哥探险者笔记#27","JA":"圣地亞哥探險者笔記#27"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::852162232",
       "Source": "Explorer Note Santiago 28",
-      "Trans": {"SC":"圣地亚哥探险者笔记#28","JA":"圣地亞哥探險者笔記#28"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2323026397",
       "Source": "Explorer Note Santiago 29",
-      "Trans": {"SC":"圣地亚哥探险者笔记#29","JA":"圣地亞哥探險者笔記#29"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2519314618",
       "Source": "Explorer Note Santiago 3",
-      "Trans": {"SC":"圣地亚哥探险者笔记#3","JA":"圣地亞哥探險者笔記#3"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1003806409",
       "Source": "Explorer Note Santiago 30",
-      "Trans": {"SC":"圣地亚哥探险者笔记#30","JA":"圣地亞哥探險者笔記#30"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::201230339",
       "Source": "Explorer Note Santiago 4",
-      "Trans": {"SC":"圣地亚哥探险者笔记#4","JA":"圣地亞哥探險者笔記#4"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3007508326",
       "Source": "Explorer Note Santiago 5",
-      "Trans": {"SC":"圣地亚哥探险者笔记#5","JA":"圣地亞哥探險者笔記#5"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2717335688",
       "Source": "Explorer Note Santiago 6",
-      "Trans": {"SC":"圣地亚哥探险者笔记#6","JA":"圣地亞哥探險者笔記#6"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::424355821",
       "Source": "Explorer Note Santiago 7",
-      "Trans": {"SC":"圣地亚哥探险者笔记#7","JA":"圣地亞哥探險者笔記#7"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1093154747",
       "Source": "Explorer Note Santiago 8",
-      "Trans": {"SC":"圣地亚哥探险者笔记#8","JA":"圣地亞哥探險者笔記#8"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4187246814",
       "Source": "Explorer Note Santiago 9",
-      "Trans": {"SC":"圣地亚哥探险者笔记#9","JA":"圣地亞哥探險者笔記#9"},
+      "Trans": {"SC":"圣地亚哥探险者笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4190763055",
       "Source": "Santiago's Log #1",
-      "Trans": {"SC":"圣地亚哥的日志#1","JA":"圣地亞哥的日志#1"},
+      "Trans": {"SC":"圣地亚哥的日志#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1286642690",
       "Source": "Santiago's Log #10",
-      "Trans": {"SC":"圣地亚哥的日志#10","JA":"圣地亞哥的日志#10"},
+      "Trans": {"SC":"圣地亚哥的日志#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4094491495",
       "Source": "Santiago's Log #11",
-      "Trans": {"SC":"圣地亚哥的日志#11","JA":"圣地亞哥的日志#11"},
+      "Trans": {"SC":"圣地亚哥的日志#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3870905481",
       "Source": "Santiago's Log #12",
-      "Trans": {"SC":"圣地亚哥的日志#12","JA":"圣地亞哥的日志#12"},
+      "Trans": {"SC":"圣地亚哥的日志#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1577399276",
       "Source": "Santiago's Log #13",
-      "Trans": {"SC":"圣地亚哥的日志#13","JA":"圣地亞哥的日志#13"},
+      "Trans": {"SC":"圣地亚哥的日志#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3285322581",
       "Source": "Santiago's Log #14",
-      "Trans": {"SC":"圣地亚哥的日志#14","JA":"圣地亞哥的日志#14"},
+      "Trans": {"SC":"圣地亚哥的日志#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2070834224",
       "Source": "Santiago's Log #15",
-      "Trans": {"SC":"圣地亚哥的日志#15","JA":"圣地亞哥的日志#15"},
+      "Trans": {"SC":"圣地亚哥的日志#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1776010206",
       "Source": "Santiago's Log #16",
-      "Trans": {"SC":"圣地亚哥的日志#16","JA":"圣地亞哥的日志#16"},
+      "Trans": {"SC":"圣地亚哥的日志#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3513230523",
       "Source": "Santiago's Log #17",
-      "Trans": {"SC":"圣地亚哥的日志#17","JA":"圣地亞哥的日志#17"},
+      "Trans": {"SC":"圣地亚哥的日志#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2298787053",
       "Source": "Santiago's Log #18",
-      "Trans": {"SC":"圣地亚哥的日志#18","JA":"圣地亞哥的日志#18"},
+      "Trans": {"SC":"圣地亚哥的日志#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::834196360",
       "Source": "Santiago's Log #19",
-      "Trans": {"SC":"圣地亚哥的日志#19","JA":"圣地亞哥的日志#19"},
+      "Trans": {"SC":"圣地亚哥的日志#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3950794689",
       "Source": "Santiago's Log #2",
-      "Trans": {"SC":"圣地亚哥的日志#2","JA":"圣地亞哥的日志#2"},
+      "Trans": {"SC":"圣地亚哥的日志#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3258948577",
       "Source": "Santiago's Log #20",
-      "Trans": {"SC":"圣地亚哥的日志#20","JA":"圣地亞哥的日志#20"},
+      "Trans": {"SC":"圣地亚哥的日志#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2055470212",
       "Source": "Santiago's Log #21",
-      "Trans": {"SC":"圣地亚哥的日志#21","JA":"圣地亞哥的日志#21"},
+      "Trans": {"SC":"圣地亚哥的日志#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1748390762",
       "Source": "Santiago's Log #22",
-      "Trans": {"SC":"圣地亚哥的日志#22","JA":"圣地亞哥的日志#22"},
+      "Trans": {"SC":"圣地亚哥的日志#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3498718223",
       "Source": "Santiago's Log #23",
-      "Trans": {"SC":"圣地亚哥的日志#23","JA":"圣地亞哥的日志#23"},
+      "Trans": {"SC":"圣地亚哥的日志#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1297943734",
       "Source": "Santiago's Log #24",
-      "Trans": {"SC":"圣地亚哥的日志#24","JA":"圣地亞哥的日志#24"},
+      "Trans": {"SC":"圣地亚哥的日志#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4125191123",
       "Source": "Santiago's Log #25",
-      "Trans": {"SC":"圣地亚哥的日志#25","JA":"圣地亞哥的日志#25"},
+      "Trans": {"SC":"圣地亚哥的日志#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3881092157",
       "Source": "Santiago's Log #26",
-      "Trans": {"SC":"圣地亚哥的日志#26","JA":"圣地亞哥的日志#26"},
+      "Trans": {"SC":"圣地亚哥的日志#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1609081688",
       "Source": "Santiago's Log #27",
-      "Trans": {"SC":"圣地亚哥的日志#27","JA":"圣地亞哥的日志#27"},
+      "Trans": {"SC":"圣地亚哥的日志#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::126595854",
       "Source": "Santiago's Log #28",
-      "Trans": {"SC":"圣地亚哥的日志#28","JA":"圣地亞哥的日志#28"},
+      "Trans": {"SC":"圣地亚哥的日志#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3208107115",
       "Source": "Santiago's Log #29",
-      "Trans": {"SC":"圣地亚哥的日志#29","JA":"圣地亞哥的日志#29"},
+      "Trans": {"SC":"圣地亚哥的日志#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1405104292",
       "Source": "Santiago's Log #3",
-      "Trans": {"SC":"圣地亚哥的日志#3","JA":"圣地亞哥的日志#3"},
+      "Trans": {"SC":"圣地亚哥的日志#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::244685695",
       "Source": "Santiago's Log #30",
-      "Trans": {"SC":"圣地亚哥的日志#30","JA":"圣地亞哥的日志#30"},
+      "Trans": {"SC":"圣地亚哥的日志#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3457615901",
       "Source": "Santiago's Log #4",
-      "Trans": {"SC":"圣地亚哥的日志#4","JA":"圣地亞哥的日志#4"},
+      "Trans": {"SC":"圣地亚哥的日志#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1990946680",
       "Source": "Santiago's Log #5",
-      "Trans": {"SC":"圣地亚哥的日志#5","JA":"圣地亞哥的日志#5"},
+      "Trans": {"SC":"圣地亚哥的日志#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1679736982",
       "Source": "Santiago's Log #6",
-      "Trans": {"SC":"圣地亚哥的日志#6","JA":"圣地亞哥的日志#6"},
+      "Trans": {"SC":"圣地亚哥的日志#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3701647347",
       "Source": "Santiago's Log #7",
-      "Trans": {"SC":"圣地亚哥的日志#7","JA":"圣地亞哥的日志#7"},
+      "Trans": {"SC":"圣地亚哥的日志#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2227287973",
       "Source": "Santiago's Log #8",
-      "Trans": {"SC":"圣地亚哥的日志#8","JA":"圣地亞哥的日志#8"},
+      "Trans": {"SC":"圣地亚哥的日志#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1014878400",
       "Source": "Santiago's Log #9",
-      "Trans": {"SC":"圣地亚哥的日志#9","JA":"圣地亞哥的日志#9"},
+      "Trans": {"SC":"圣地亚哥的日志#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2836678843",
       "Source": "Explorer Note Nida 1",
-      "Trans": {"SC":"妮达探险者笔记#1","JA":"妮达探險者笔記#1"},
+      "Trans": {"SC":"妮达探险者笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3828481607",
       "Source": "Explorer Note Nida 10",
-      "Trans": {"SC":"妮达探险者笔记#10","JA":"妮达探險者笔記#10"},
+      "Trans": {"SC":"妮达探险者笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1552783650",
       "Source": "Explorer Note Nida 11",
-      "Trans": {"SC":"妮达探险者笔记#11","JA":"妮达探險者笔記#11"},
+      "Trans": {"SC":"妮达探险者笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1312306892",
       "Source": "Explorer Note Nida 12",
-      "Trans": {"SC":"妮达探险者笔记#12","JA":"妮达探險者笔記#12"},
+      "Trans": {"SC":"妮达探险者笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4135866793",
       "Source": "Explorer Note Nida 13",
-      "Trans": {"SC":"妮达探险者笔记#13","JA":"妮达探險者笔記#13"},
+      "Trans": {"SC":"妮达探险者笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1800628496",
       "Source": "Explorer Note Nida 14",
-      "Trans": {"SC":"妮达探险者笔记#14","JA":"妮达探險者笔記#14"},
+      "Trans": {"SC":"妮达探险者笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3555659381",
       "Source": "Explorer Note Nida 15",
-      "Trans": {"SC":"妮达探险者笔记#15","JA":"妮达探險者笔記#15"},
+      "Trans": {"SC":"妮达探险者笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3243942299",
       "Source": "Explorer Note Nida 16",
-      "Trans": {"SC":"妮达探险者笔记#16","JA":"妮达探險者笔記#16"},
+      "Trans": {"SC":"妮达探险者笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2045167358",
       "Source": "Explorer Note Nida 17",
-      "Trans": {"SC":"妮达探险者笔记#17","JA":"妮达探險者笔記#17"},
+      "Trans": {"SC":"妮达探险者笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::562419368",
       "Source": "Explorer Note Nida 18",
-      "Trans": {"SC":"妮达探险者笔记#18","JA":"妮达探險者笔記#18"},
+      "Trans": {"SC":"妮达探险者笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2570695117",
       "Source": "Explorer Note Nida 19",
-      "Trans": {"SC":"妮达探险者笔记#19","JA":"妮达探險者笔記#19"},
+      "Trans": {"SC":"妮达探险者笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3147949909",
       "Source": "Explorer Note Nida 2",
-      "Trans": {"SC":"妮达探险者笔记#2","JA":"妮达探險者笔記#2"},
+      "Trans": {"SC":"妮达探险者笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1790900644",
       "Source": "Explorer Note Nida 20",
-      "Trans": {"SC":"妮达探险者笔记#20","JA":"妮达探險者笔記#20"},
+      "Trans": {"SC":"妮达探险者笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3523387073",
       "Source": "Explorer Note Nida 21",
-      "Trans": {"SC":"妮达探险者笔记#21","JA":"妮达探險者笔記#21"},
+      "Trans": {"SC":"妮达探险者笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3233231151",
       "Source": "Explorer Note Nida 22",
-      "Trans": {"SC":"妮达探险者笔记#22","JA":"妮达探險者笔記#22"},
+      "Trans": {"SC":"妮达探险者笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2014008906",
       "Source": "Explorer Note Nida 23",
-      "Trans": {"SC":"妮达探险者笔记#23","JA":"妮达探險者笔記#23"},
+      "Trans": {"SC":"妮达探险者笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3856428787",
       "Source": "Explorer Note Nida 24",
-      "Trans": {"SC":"妮达探险者笔记#24","JA":"妮达探險者笔記#24"},
+      "Trans": {"SC":"妮达探险者笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1566574998",
       "Source": "Explorer Note Nida 25",
-      "Trans": {"SC":"妮达探险者笔记#25","JA":"妮达探險者笔記#25"},
+      "Trans": {"SC":"妮达探险者笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1339401848",
       "Source": "Explorer Note Nida 26",
-      "Trans": {"SC":"妮达探险者笔记#26","JA":"妮达探險者笔記#26"},
+      "Trans": {"SC":"妮达探险者笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4150903069",
       "Source": "Explorer Note Nida 27",
-      "Trans": {"SC":"妮达探险者笔记#27","JA":"妮达探險者笔記#27"},
+      "Trans": {"SC":"妮达探险者笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2936721739",
       "Source": "Explorer Note Nida 28",
-      "Trans": {"SC":"妮达探险者笔记#28","JA":"妮达探險者笔記#28"},
+      "Trans": {"SC":"妮达探险者笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::397850158",
       "Source": "Explorer Note Nida 29",
-      "Trans": {"SC":"妮达探险者笔记#29","JA":"妮达探險者笔記#29"},
+      "Trans": {"SC":"妮达探险者笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::52265008",
       "Source": "Explorer Note Nida 3",
-      "Trans": {"SC":"妮达探险者笔记#3","JA":"妮达探險者笔記#3"},
+      "Trans": {"SC":"妮达探险者笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2786392378",
       "Source": "Explorer Note Nida 30",
-      "Trans": {"SC":"妮达探险者笔记#30","JA":"妮达探險者笔記#30"},
+      "Trans": {"SC":"妮达探险者笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2664085641",
       "Source": "Explorer Note Nida 4",
-      "Trans": {"SC":"妮达探险者笔记#4","JA":"妮达探險者笔記#4"},
+      "Trans": {"SC":"妮达探险者笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::645324780",
       "Source": "Explorer Note Nida 5",
-      "Trans": {"SC":"妮达探险者笔记#5","JA":"妮达探險者笔記#5"},
+      "Trans": {"SC":"妮达探险者笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::885223426",
       "Source": "Explorer Note Nida 6",
-      "Trans": {"SC":"妮达探险者笔记#6","JA":"妮达探險者笔記#6"},
+      "Trans": {"SC":"妮达探险者笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2357139303",
       "Source": "Explorer Note Nida 7",
-      "Trans": {"SC":"妮达探险者笔记#7","JA":"妮达探險者笔記#7"},
+      "Trans": {"SC":"妮达探险者笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3558606641",
       "Source": "Explorer Note Nida 8",
-      "Trans": {"SC":"妮达探险者笔记#8","JA":"妮达探險者笔記#8"},
+      "Trans": {"SC":"妮达探险者笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1822449748",
       "Source": "Explorer Note Nida 9",
-      "Trans": {"SC":"妮达探险者笔记#9","JA":"妮达探險者笔記#9"},
+      "Trans": {"SC":"妮达探险者笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::502811300",
       "Source": "Explorer Note Gabriel 1",
-      "Trans": {"SC":"加百列探险者笔记#1","JA":"加百列探險者笔記#1"},
+      "Trans": {"SC":"加百列探险者笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3507005077",
       "Source": "Explorer Note Gabriel 10",
-      "Trans": {"SC":"加百列探险者笔记#10","JA":"加百列探險者笔記#10"},
+      "Trans": {"SC":"加百列探险者笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1773453808",
       "Source": "Explorer Note Gabriel 11",
-      "Trans": {"SC":"加百列探险者笔记#11","JA":"加百列探險者笔記#11"},
+      "Trans": {"SC":"加百列探险者笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2063691294",
       "Source": "Explorer Note Gabriel 12",
-      "Trans": {"SC":"加百列探险者笔记#12","JA":"加百列探險者笔記#12"},
+      "Trans": {"SC":"加百列探险者笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3283945851",
       "Source": "Explorer Note Gabriel 13",
-      "Trans": {"SC":"加百列探险者笔记#13","JA":"加百列探險者笔記#13"},
+      "Trans": {"SC":"加百列探险者笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1584017858",
       "Source": "Explorer Note Gabriel 14",
-      "Trans": {"SC":"加百列探险者笔记#14","JA":"加百列探險者笔記#14"},
+      "Trans": {"SC":"加百列探险者笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3872806567",
       "Source": "Explorer Note Gabriel 15",
-      "Trans": {"SC":"加百列探险者笔记#15","JA":"加百列探險者笔記#15"},
+      "Trans": {"SC":"加百列探险者笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4100192585",
       "Source": "Explorer Note Gabriel 16",
-      "Trans": {"SC":"加百列探险者笔记#16","JA":"加百列探險者笔記#16"},
+      "Trans": {"SC":"加百列探险者笔记#16","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1289723436",
       "Source": "Explorer Note Gabriel 17",
-      "Trans": {"SC":"加百列探险者笔记#17","JA":"加百列探險者笔記#17"},
+      "Trans": {"SC":"加百列探险者笔记#17","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::347901562",
       "Source": "Explorer Note Gabriel 18",
-      "Trans": {"SC":"加百列探险者笔记#18","JA":"加百列探險者笔記#18"},
+      "Trans": {"SC":"加百列探险者笔记#18","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2885740831",
       "Source": "Explorer Note Gabriel 19",
-      "Trans": {"SC":"加百列探险者笔记#19","JA":"加百列探險者笔記#19"},
+      "Trans": {"SC":"加百列探险者笔记#19","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::256763210",
       "Source": "Explorer Note Gabriel 2",
-      "Trans": {"SC":"加百列探险者笔记#2","JA":"加百列探險者笔記#2"},
+      "Trans": {"SC":"加百列探险者笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1602724214",
       "Source": "Explorer Note Gabriel 20",
-      "Trans": {"SC":"加百列探险者笔记#20","JA":"加百列探險者笔記#20"},
+      "Trans": {"SC":"加百列探险者笔记#20","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3879454227",
       "Source": "Explorer Note Gabriel 21",
-      "Trans": {"SC":"加百列探险者笔记#21","JA":"加百列探險者笔記#21"},
+      "Trans": {"SC":"加百列探险者笔记#21","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4119751165",
       "Source": "Explorer Note Gabriel 22",
-      "Trans": {"SC":"加百列探险者笔记#22","JA":"加百列探險者笔記#22"},
+      "Trans": {"SC":"加百列探险者笔记#22","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1295126168",
       "Source": "Explorer Note Gabriel 23",
-      "Trans": {"SC":"加百列探险者笔记#23","JA":"加百列探險者笔記#23"},
+      "Trans": {"SC":"加百列探险者笔记#23","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3504682529",
       "Source": "Explorer Note Gabriel 24",
-      "Trans": {"SC":"加百列探险者笔记#24","JA":"加百列探險者笔記#24"},
+      "Trans": {"SC":"加百列探险者笔记#24","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1750683972",
       "Source": "Explorer Note Gabriel 25",
-      "Trans": {"SC":"加百列探险者笔记#25","JA":"加百列探險者笔記#25"},
+      "Trans": {"SC":"加百列探险者笔记#25","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2062352042",
       "Source": "Explorer Note Gabriel 26",
-      "Trans": {"SC":"加百列探险者笔记#26","JA":"加百列探險者笔記#26"},
+      "Trans": {"SC":"加百列探险者笔记#26","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3260062159",
       "Source": "Explorer Note Gabriel 27",
-      "Trans": {"SC":"加百列探险者笔记#27","JA":"加百列探險者笔記#27"},
+      "Trans": {"SC":"加百列探险者笔记#27","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2587068825",
       "Source": "Explorer Note Gabriel 28",
-      "Trans": {"SC":"加百列探险者笔记#28","JA":"加百列探險者笔記#28"},
+      "Trans": {"SC":"加百列探险者笔记#28","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::579858172",
       "Source": "Explorer Note Gabriel 29",
-      "Trans": {"SC":"加百列探险者笔记#29","JA":"加百列探險者笔記#29"},
+      "Trans": {"SC":"加百列探险者笔记#29","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3086058031",
       "Source": "Explorer Note Gabriel 3",
-      "Trans": {"SC":"加百列探险者笔记#3","JA":"加百列探險者笔記#3"},
+      "Trans": {"SC":"加百列探险者笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2469241320",
       "Source": "Explorer Note Gabriel 30",
-      "Trans": {"SC":"加百列探险者笔记#30","JA":"加百列探險者笔記#30"},
+      "Trans": {"SC":"加百列探险者笔记#30","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::707181206",
       "Source": "Explorer Note Gabriel 4",
-      "Trans": {"SC":"加百列探险者笔记#4","JA":"加百列探險者笔記#4"},
+      "Trans": {"SC":"加百列探险者笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2459622899",
       "Source": "Explorer Note Gabriel 5",
-      "Trans": {"SC":"加百列探险者笔记#5","JA":"加百列探險者笔記#5"},
+      "Trans": {"SC":"加百列探险者笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2150593053",
       "Source": "Explorer Note Gabriel 6",
-      "Trans": {"SC":"加百列探险者笔记#6","JA":"加百列探險者笔記#6"},
+      "Trans": {"SC":"加百列探险者笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::949163384",
       "Source": "Explorer Note Gabriel 7",
-      "Trans": {"SC":"加百列探险者笔记#7","JA":"加百列探險者笔記#7"},
+      "Trans": {"SC":"加百列探险者笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1626342702",
       "Source": "Explorer Note Gabriel 8",
-      "Trans": {"SC":"加百列探险者笔记#8","JA":"加百列探險者笔記#8"},
+      "Trans": {"SC":"加百列探险者笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3628884555",
       "Source": "Explorer Note Gabriel 9",
-      "Trans": {"SC":"加百列探险者笔记#9","JA":"加百列探險者笔記#9"},
+      "Trans": {"SC":"加百列探险者笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::526502129",
       "Source": "??? #1",
-      "Trans": {"SC":"神秘笔记#1","JA":"神秘笔記#1"},
+      "Trans": {"SC":"神秘笔记#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2179450516",
       "Source": "??? #10",
-      "Trans": {"SC":"神秘笔记#10","JA":"神秘笔記#10"},
+      "Trans": {"SC":"神秘笔记#10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::962306545",
       "Source": "??? #11",
-      "Trans": {"SC":"神秘笔记#11","JA":"神秘笔記#11"},
+      "Trans": {"SC":"神秘笔记#11","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::737021471",
       "Source": "??? #12",
-      "Trans": {"SC":"神秘笔记#12","JA":"神秘笔記#12"},
+      "Trans": {"SC":"神秘笔记#12","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2471651706",
       "Source": "??? #13",
-      "Trans": {"SC":"神秘笔记#13","JA":"神秘笔記#13"},
+      "Trans": {"SC":"神秘笔记#13","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::243618243",
       "Source": "??? #14",
-      "Trans": {"SC":"神秘笔记#14","JA":"神秘笔記#14"},
+      "Trans": {"SC":"神秘笔记#14","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3057202854",
       "Source": "??? #15",
-      "Trans": {"SC":"神秘笔记#15","JA":"神秘笔記#15"},
+      "Trans": {"SC":"神秘笔记#15","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::232023839",
       "Source": "??? #2",
-      "Trans": {"SC":"神秘笔记#2","JA":"神秘笔記#2"},
+      "Trans": {"SC":"神秘笔记#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3043491962",
       "Source": "??? #3",
-      "Trans": {"SC":"神秘笔记#3","JA":"神秘笔記#3"},
+      "Trans": {"SC":"神秘笔记#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::683620547",
       "Source": "??? #4",
-      "Trans": {"SC":"神秘笔记#4","JA":"神秘笔記#4"},
+      "Trans": {"SC":"神秘笔记#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2416140198",
       "Source": "??? #5",
-      "Trans": {"SC":"神秘笔记#5","JA":"神秘笔記#5"},
+      "Trans": {"SC":"神秘笔记#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2193027144",
       "Source": "??? #6",
-      "Trans": {"SC":"神秘笔记#6","JA":"神秘笔記#6"},
+      "Trans": {"SC":"神秘笔记#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::973772589",
       "Source": "??? #7",
-      "Trans": {"SC":"神秘笔记#7","JA":"神秘笔記#7"},
+      "Trans": {"SC":"神秘笔记#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1651083131",
       "Source": "??? #8",
-      "Trans": {"SC":"神秘笔记#8","JA":"神秘笔記#8"},
+      "Trans": {"SC":"神秘笔记#8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3671449630",
       "Source": "??? #9",
-      "Trans": {"SC":"神秘笔记#9","JA":"神秘笔記#9"},
+      "Trans": {"SC":"神秘笔记#9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

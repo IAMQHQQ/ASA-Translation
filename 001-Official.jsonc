@@ -1,5 +1,114 @@
 {
   "Official": [
+    
+    {
+      "NamespaceHash": "Content::1710291044",
+      "Source": "Tidepup Ghost",
+      "Trans": { "SC": "幽灵潮佑螈", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3626192161",
+      "Source": "Bloodstalker Ghost",
+      "Trans": { "SC": "幽灵血蛛", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::207720944",
+      "Source": "Gargantar Ghost",
+      "Trans": { "SC": "幽灵吞岳龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::4277680835",
+      "Source": "Burrowbuck Ghost",
+      "Trans": { "SC": "幽灵穴角兔", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::56376236",
+      "Source": "Therizinosaurus Ghost",
+      "Trans": { "SC": "幽灵镰刀龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1741889432",
+      "Source": "Megaraptor Ghost",
+      "Trans": { "SC": "幽灵大盗龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::252011217",
+      "Source": "Ectoplasm (Tidepup)",
+      "Trans": {"SC":"灵质 (潮佑螈)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3530005692",
+      "Source": "Ectoplasm (Bloodstalker)",
+      "Trans": {"SC":"灵质 (血蛛)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1699521126",
+      "Source": "Ectoplasm (Gargantar)",
+      "Trans": {"SC":"灵质 (吞岳龙)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969549293",
+      "Source": "Ectoplasm (Burrowbuck)",
+      "Trans": {"SC":"灵质 (穴角兔)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1365773616",
+      "Source": "Ectoplasm (Therizinosaurus)",
+      "Trans": {"SC":"灵质 (镰刀龙)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3773321953",
+      "Source": "Ectoplasm (Megaraptor)",
+      "Trans": {"SC":"灵质 (大盗龙)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::208100646",
+      "Source": "A paranormal substance dropped from a ghostly Tidepup.",
+      "Trans": {"SC":"一种从幽灵潮佑螈身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4228058482",
+      "Source": "A paranormal substance dropped from a ghostly Bloodstalker.",
+      "Trans": {"SC":"一种从幽灵血蛛身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::622489401",
+      "Source": "A paranormal substance dropped from a ghostly Gargantar.",
+      "Trans": {"SC":"一种从幽灵吞岳龙身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3953923048",
+      "Source": "A paranormal substance dropped from a ghostly Burrowbuck.",
+      "Trans": {"SC":"一种从幽灵穴角兔身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::41227613",
+      "Source": "A paranormal substance dropped from a ghostly Therizinosaurus.",
+      "Trans": {"SC":"一种从幽灵镰刀龙身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3890135780",
+      "Source": "A paranormal substance dropped from a ghostly Megaraptor.",
+      "Trans": {"SC":"一种从幽灵大盗龙身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::331924423",
       "Source": "Collect Treasure Map",
@@ -658,7 +767,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3096529390",
+      "NamespaceHash": "Content::3096529390",
       "Source": "Gargantar",
       "Trans": {"SC":"吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
