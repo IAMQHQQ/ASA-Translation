@@ -1,0 +1,1174 @@
+{
+  "Extra Bosses": [//2026.9.10  Dream作者不想翻译这个单词
+    {
+      "NamespaceHash": "Content::2363600586",
+      "Source": "Dream Dodoreaper",
+      "Trans": { "SC": "Dream渡渡死神", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2934219804",
+      "Source": "Ex-Enraged Corrupted Rex",
+      "Trans": { "SC": "Ex-暴怒腐化霸王龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1117717208",
+      "Source": "Meganeura Minion",
+      "Trans": { "SC": "巨脉蜻蜓仆从", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::4080351696",
+      "Source": "Giant Bee Minion",
+      "Trans": { "SC": "巨型蜜蜂仆从", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3257078583",
+      "Source": "Healing Tree",
+      "Trans": { "SC": "治愈之树", "JA": "治愈之樹" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3490543555",
+      "Source": "Kongyouwuyi,the Enormous",
+      "Trans": { "SC": "空游无依", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2867316476",
+      "Source": "Dream Broodmother Lysrix",
+      "Trans": { "SC": "Dream育母蜘蛛", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3795227433",
+      "Source": "Dream Dragon",
+      "Trans": { "SC": "Dream喷火龙", "JA": "Dream噴火龙" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2625672448",
+      "Source": "X-Dream Dragon",
+      "Trans": { "SC": "X-Dream喷火龙", "JA": "X-Dream噴火龙" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3596673726",
+      "Source": "Scion of Forest",
+      "Trans": { "SC": "森林神嗣", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::32604762",
+      "Source": "Ex-Corrupt Tumor",
+      "Trans": { "SC": "Ex-腐化瘤体", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1244126810",
+      "Source": "Ex-Corrupted Giganotosaurus",
+      "Trans": { "SC": "Ex-腐化南方巨兽龙", "JA": "Ex-腐化南方巨獸龙" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::925716256",
+      "Source": "Scion of Frost",
+      "Trans": { "SC": "寒霜神嗣", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2772611053",
+      "Source": "Dream Megapithecus",
+      "Trans": { "SC": "Dream银背金刚", "JA": "Dream銀背金剛" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2693300036",
+      "Source": "Dream DodoRex",
+      "Trans": { "SC": "Dream渡渡霸王龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::701985919",
+      "Source": "Dune Heir",
+      "Trans": { "SC": "", "JA": "" },//未制作模型暂不翻译
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1902191320",
+      "Source": "Ex-DodoRex",
+      "Trans": { "SC": "Ex-渡渡霸王龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2374905551",
+      "Source": "Dream Megaraptor",
+      "Trans": { "SC": "Dream大盗龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3354616451",
+      "Source": "Scion of Degeneration",
+      "Trans": { "SC": "堕落神嗣", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2039820178",
+      "Source": "Bob,The Ancient DodoRex",
+      "Trans": { "SC": "Bob,远古渡渡霸王龙", "JA": "Bob,遠古渡渡霸王龙" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2077060382",
+      "Source": "Corrupted Scion of Degeneration",
+      "Trans": { "SC": "腐化堕落神嗣", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::497887438",
+      "Source": "Ex-Corrupted Wyvern",
+      "Trans": { "SC": "Ex-腐化飞龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::4254945853",
+      "Source": "Dream Hydra",
+      "Trans": { "SC": "Dream海德拉科斯", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2624338972",
+      "Source": "Dream Nunatak",
+      "Trans": { "SC": "Dream冰峰飞龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2660598453",
+      "Source": "Ex-Dodoreaper",
+      "Trans": { "SC": "Ex-渡渡死神", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::2997344369",
+      "Source": "Zomdodo Minion",
+      "Trans": { "SC": "僵尸渡渡鸟仆从", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3857881131",
+      "Source": "Dream Manticore",
+      "Trans": { "SC": "Dream狮身蝎尾兽", "JA": "Dream獅身蝎尾獸" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1821691523",
+      "Source": "The King's Mecha Heart",
+      "Trans": {"SC":"机械君王之心","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2434541752",
+      "Source": "<RichColor Color=\"12.8, 0, 12.8, 1\">A Mecha Heart cursed by the corruption, allowing corrupt element to deeply influence The King.</>",
+      "Trans": {"SC":"<RichColor Color=\"12.8, 0, 12.8, 1\">一颗被腐化诅咒的机械核心，腐化元素可借此深度影响君王。</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::930169950",
+      "Source": "Fertilized X-Dragon Egg",
+      "Trans": {"SC":"受精的X-喷火龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2585277860",
+      "Source": "Fertilized Dream Megaraptor Egg",
+      "Trans": {"SC":"受精的Dream大盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::644837879",
+      "Source": "Ex-Experience Canteen(Full)",
+      "Trans": {"SC":"Ex-经验水壶（已满）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3114315881",
+      "Source": "Ex-Experience Canteen(Empty)",
+      "Trans": {"SC":"Ex-经验水壶（空）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3606134278",
+      "Source": "Use it to help you gain extra XP in the process of gaining XP.Dinos only",
+      "Trans": {"SC":"使用它可在获取经验时获得额外经验值。仅恐龙可用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2985553457",
+      "Source": "Reaper Inducer",
+      "Trans": {"SC":"死神诱导器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1370145776",
+      "Source": "<RichColor Color=\"0, 1, 12.8, 1\">A Inducer can effect RockWell, allowing he to summon some strange things.</><#RN#>Maximum 6 uses.",
+      "Trans": {"SC":"<RichColor Color=\"0, 1, 12.8, 1\">该诱导器可作用于罗克韦尔，使其召唤一些奇特生物。</><#RN#> 最多可使用 6 次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1701062591",
+      "Source": "Extra Loot Box",
+      "Trans": {"SC":"Ex 战利品箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2226398454",
+      "Source": "Apex Drop Box",
+      "Trans": {"SC":"顶尖掉落宝箱","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2542723790",
+      "Source": "Element Cluster",
+      "Trans": {"SC":"元素包","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4235181166",
+      "Source": "Drops some element",
+      "Trans": {"SC":"掉落若干元素","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::960263067",
+      "Source": "Resource Cluster",
+      "Trans": {"SC":"资源包","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::756872449",
+      "Source": "Dodorex(Tamed) Summoner",
+      "Trans": {"SC":"渡渡霸王龙（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3687905700",
+      "Source": "Summon a tamed baby dodorex",
+      "Trans": {"SC":"召唤一只已驯服的幼崽渡渡霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2417198955",
+      "Source": "Dragon(Tamed) Summoner",
+      "Trans": {"SC":"喷火龙（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1695574628",
+      "Source": "Summon a tamed baby dragon",
+      "Trans": {"SC":"召唤一只已驯服的幼崽喷火龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1184776017",
+      "Source": "Scion of Forest(Tamed) Summoner",
+      "Trans": {"SC":"森林神嗣（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::207496097",
+      "Source": "Summon a tamed baby Forest Titan",
+      "Trans": {"SC":"召唤一只已驯服的幼崽森林神嗣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2018943009",
+      "Source": "Scion of Frost(Tamed) Summoner",
+      "Trans": {"SC":"寒霜神嗣（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1057404218",
+      "Source": "Summon a tamed baby Ice Titan",
+      "Trans": {"SC":"召唤一只已驯服的幼崽寒霜神嗣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2162624259",
+      "Source": "Gorilla(Tamed) Summoner",
+      "Trans": {"SC":"金刚（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::263340011",
+      "Source": "Summon a tamed baby Gorilla",
+      "Trans": {"SC":"召唤一只已驯服的幼崽金刚","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::559211744",
+      "Source": "Nunatak(Tamed) Summoner",
+      "Trans": {"SC":"冰峰飞龙（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3384459940",
+      "Source": "Summon a tamed baby Nunatak",
+      "Trans": {"SC":"召唤一只已驯服的幼崽冰峰飞龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3155205961",
+      "Source": "Scion of Degeneration(Tamed) Summoner",
+      "Trans": {"SC":"堕落神嗣（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::567126386",
+      "Source": "Summon a tamed baby King Titan",
+      "Trans": {"SC":"召唤一只已驯服的幼崽堕落神嗣","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::165649387",
+      "Source": "Manticore(Tamed) Summoner",
+      "Trans": {"SC":"狮蝎（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3761548084",
+      "Source": "Summon a tamed baby Manticore",
+      "Trans": {"SC":"召唤一只已驯服的幼崽狮蝎","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3618239531",
+      "Source": "Dream MegaRaptor(Tamed) Summoner",
+      "Trans": {"SC":"Dream大盗龙（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2263488673",
+      "Source": "Summon a tamed baby Dream MegaRaptor",
+      "Trans": {"SC":"召唤一只已驯服的幼崽Dream大盗龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1200020104",
+      "Source": "Broodmother(Tamed) Summoner",
+      "Trans": {"SC":"育母蜘蛛（已驯服）召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1247412013",
+      "Source": "Summon a tamed baby Broodmother",
+      "Trans": {"SC":"召唤一只已驯服的幼崽育母蜘蛛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1067475655",
+      "Source": "Dodorex Boss Summoner",
+      "Trans": {"SC":"渡渡霸王龙BOSS召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4230850054",
+      "Source": "Use this item in your dinos inventory, then kill wild creatures to draw the attention of the Dodorex.When sufficiently angered, it will appear.<#RN#>The buff icon will show the progress.<#RN#> <RichColor Color=\"1, 0.65, 0, 1\">Ancient Dodorex appears only when u defeat the Ex-Dodorex during the day with temperatures exceeding 40℃</>",
+      "Trans": {"SC":"将此物品放在恐龙背包内，击杀野生生物来吸引渡渡霸王龙的注意。积累足够怒气后它将会现身。<#RN#> 增益图标会显示进度。<#RN#> <RichColor Color=\"1, 0.65, 0, 1\">远古渡渡霸王龙仅可在白天、气温超过 40℃的条件下，击败Ex渡渡霸王龙后才会出现 </>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3561799486",
+      "Source": "Element(Ex)",
+      "Trans": {"SC":"Ex元素","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3924637143",
+      "Source": "A strange, highly advanced material humming with energy. ",
+      "Trans": {"SC":"一种奇特的高阶材料，蕴含能量并发出嗡鸣。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3252604484",
+      "Source": "Extra Boss Essence",
+      "Trans": {"SC":"Ex BOSS精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1956875781",
+      "Source": "The Essence drops when a Extra Boss is defeated and can be used to summon a world boss",
+      "Trans": {"SC":"击败Ex BOSS可掉落此精华，可用于召唤世界BOSS","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1756808055",
+      "Source": "Kongyouwuyi's Essence",
+      "Trans": {"SC":"空游无依精华","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1723344349",
+      "Source": "The Essence drops when a Kongyouwuyi is defeated and can be used to craft something",
+      "Trans": {"SC":"击败空游无依可掉落此精华，可用于制作物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2893623385",
+      "Source": "Chibi-BroodMother(EX)",
+      "Trans": {"SC":"Chibi-育母蜘蛛（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2080908473",
+      "Source": "Chibi-Dodorex(Ex)",
+      "Trans": {"SC":"Chibi-渡渡霸王龙（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3282322726",
+      "Source": "Chibi-Dodorex(Bob)",
+      "Trans": {"SC":"Chibi-渡渡霸王龙（Bob）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1203782758",
+      "Source": "Chibi-Dragon(EX)",
+      "Trans": {"SC":"Chibi-喷火龙（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2822770535",
+      "Source": "Chibi-Forest Titan(EX)",
+      "Trans": {"SC":"Chibi-森林泰坦（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::258306728",
+      "Source": "Chibi-Ice Titan(EX)",
+      "Trans": {"SC":"Chibi-冰霜泰坦（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4040325892",
+      "Source": "Chibi-Kongyou(Ex)",
+      "Trans": {"SC":"Chibi-空游无依（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1121862771",
+      "Source": "Chibi-Manticore(EX)",
+      "Trans": {"SC":"Chibi-狮蝎（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1185876086",
+      "Source": "Chibi-Megapithecus(EX)",
+      "Trans": {"SC":"Chibi-金刚（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::547602861",
+      "Source": "Chibi-MegaRaptor(EX)",
+      "Trans": {"SC":"Chibi-大盗龙（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::868091543",
+      "Source": "Chibi-King Titan(EX)",
+      "Trans": {"SC":"Chibi-君王泰坦（Ex）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4236425410",
+      "Source": "Chibi-Dodoreaper",
+      "Trans": {"SC":"Chibi-渡渡死神","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3793110931",
+      "Source": "Chibi-Ice Wyvern",
+      "Trans": {"SC":"Chibi-寒冰飞龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4278775180",
+      "Source": "Kongyouwuyi,the Enormous Summoner",
+      "Trans": {"SC":"空游无依召唤物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4020286795",
+      "Source": "Summon the Boss<#RN#>Warning:This boss has extremely high Health!!!<#RN#>Just for fun<#RN#>A maximum of two Kongyou is allowed in a map",
+      "Trans": {"SC":"召唤该 BOSS<#RN#> 警告：此 BOSS 生命值极高！！！<#RN#> 仅供娱乐 <#RN#> 单张地图最多允许存在两只空游无依","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3772530279",
+      "Source": "Scion of Forest has natural armor.",
+      "Trans": {"SC":"森林神嗣拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::65203988",
+      "Source": "Scion of Frost has natural armor.",
+      "Trans": {"SC":"寒霜神嗣拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1953904150",
+      "Source": "Nunatak has natural armor.",
+      "Trans": {"SC":"冰峰飞龙拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3768676251",
+      "Source": "Scion of Degeneration has natural armor.",
+      "Trans": {"SC":"堕落神嗣拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1020856840",
+      "Source": "BroodMother has natural armor.",
+      "Trans": {"SC":"育母蜘蛛拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1403978979",
+      "Source": "Ultimate Acro Aura",
+      "Trans": {"SC":"终极高棘龙光环","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1500528291",
+      "Source": "Your acro will gain<RichColor Color=\"10, 0.65, 0, 1\">Former Power</>,which brings victory and hope!",
+      "Trans": {"SC":"你的高棘龙将获得<RichColor Color=\"10, 0.65, 0, 1\">往昔之力 </>，带来胜利与希望！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2662594269",
+      "Source": "Fertilized Nunatak Egg",
+      "Trans": {"SC":"受精的冰峰飞龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2633582801",
+      "Source": "Ultimate Flame Aura",
+      "Trans": {"SC":"终极烈焰光环","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2686978311",
+      "Source": "Transform your dodorex to <RichColor Color=\"10, 0.65, 0, 1\">Ultimate Flame Mode</>,which brings victory and hope!",
+      "Trans": {"SC":"将你的渡渡霸王龙转变为<RichColor Color=\"10, 0.65, 0, 1\">终极烈焰形态 </>，带来胜利与希望！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1152009177",
+      "Source": "Ultimate Beast Aura",
+      "Trans": {"SC":"终极黑魂光环","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2176970546",
+      "Source": "Transform your dodorex to <RichColor Color=\"10, 0.65, 0, 1\">Ultimate Flame Mode</>,which brings victory and hope!<#RN#>Make your dodorex looks like The Beast of Darkness!!",
+      "Trans": {"SC":"将你的渡渡霸王龙转变为<RichColor Color=\"10, 0.65, 0, 1\">终极烈焰形态 </>，带来胜利与希望！<#RN#> 让你的渡渡霸王龙看起来像黑暗之魂！！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2312631873",
+      "Source": "Cursed Token",
+      "Trans": {"SC":"诅咒信物","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1501794482",
+      "Source": "<RichColor Color=\"12.8, 0, 12.8, 1\">A token cursed by the King Titan, allowing corrupt element to deeply influence other Titans.</><#RN#>Maximum 6 uses.",
+      "Trans": {"SC":"<RichColor Color=\"12.8, 0, 12.8, 1\">一枚被君王泰坦诅咒的信物，腐化元素可借此深度影响其它泰坦。</><#RN#> 最多可使用 6 次。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2053125798",
+      "Source": "Creature Template Saddle",
+      "Trans": {"SC":"生物模板鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3721649186",
+      "Source": "Ultimate Lightning Aura",
+      "Trans": {"SC":"终极雷霆光环","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::174036465",
+      "Source": "Transform your dodoreaper to gain<RichColor Color=\"0, 0, 1, 1\">Power of Thunder</>,which brings victory and hope!",
+      "Trans": {"SC":"使你的渡渡死神获得<RichColor Color=\"0, 0, 1, 1\">雷霆之力 </>，带来胜利与希望！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2741491418",
+      "Source": "Dodorex has natural armor.",
+      "Trans": {"SC":"渡渡霸王龙拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::48076606",
+      "Source": "Apex Titan!",
+      "Trans": {"SC":"顶尖泰坦！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::331231514",
+      "Source": "Increased speed and immunity to stuns.30% Melee Bonus and 20% Extra Defence",
+      "Trans": {"SC":"提升移速，免疫眩晕。增加 30% 近战伤害与 20% 额外防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1597960353",
+      "Source": "You are recovering health,10% extra damage and defence",
+      "Trans": {"SC":"正在恢复生命值，获得 10% 额外伤害与防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4038553430",
+      "Source": "Degeneration!",
+      "Trans": {"SC":"堕落！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1743503444",
+      "Source": "MechaKing!",
+      "Trans": {"SC":"机械君王！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3554440994",
+      "Source": "30% Extra Defence and Damage,enable extra attack abilities",
+      "Trans": {"SC":"增加 30% 额外防御与伤害，解锁额外攻击技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1747726293",
+      "Source": "Dodoreaper Gestation",
+      "Trans": {"SC":"渡渡死神孕育","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3154677364",
+      "Source": "Burning!",
+      "Trans": {"SC":"灼烧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1606611959",
+      "Source": "Sleepy!",
+      "Trans": {"SC":"困倦！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::68789209",
+      "Source": "Unstable",
+      "Trans": {"SC":"不稳定","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3434409914",
+      "Source": "Protection",
+      "Trans": {"SC":"保护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3156705720",
+      "Source": "Your Dino Got 10% Defence Bonus and  recover 10 stamina per second",
+      "Trans": {"SC":"你的恐龙获得 10% 防御加成，每秒恢复 10 点耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4204762349",
+      "Source": "The ominous aura may cause a change in the RockWell",
+      "Trans": {"SC":"不祥光环可能会使罗克韦尔产生异变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3844516972",
+      "Source": "Absolute Zero!",
+      "Trans": {"SC":"绝对零度！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4117642729",
+      "Source": "30% Extra Defence and Damage,enable ice armor and enhance attack abilities",
+      "Trans": {"SC":"增加 30% 额外防御与伤害，开启冰甲并强化攻击技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2851911070",
+      "Source": "Dodorex Bonus!",
+      "Trans": {"SC":"渡渡霸王龙增益！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1537046209",
+      "Source": "Ultimate Flame!",
+      "Trans": {"SC":"终极烈焰！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2531057347",
+      "Source": "Supreme Dodorex!And your Dodorex will adapt the buffs it suffered!",
+      "Trans": {"SC":"至尊渡渡霸王龙！你的渡渡霸王龙将适配自身受到的各类增益效果！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2442030272",
+      "Source": "Sheer Cold",
+      "Trans": {"SC":"极寒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3879334225",
+      "Source": "Enable ice armor and enhance attack abilities",
+      "Trans": {"SC":"开启冰甲并强化攻击技能","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2447189459",
+      "Source": "Insulation and protection",
+      "Trans": {"SC":"隔热防护","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4072134709",
+      "Source": "Increases hyper & hypothermic insulation and protection",
+      "Trans": {"SC":"提升高温、低温抗性与防护效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2894974693",
+      "Source": "Extra Chibi Bonus",
+      "Trans": {"SC":"Ex Chibi增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::754860804",
+      "Source": "Increases hyper & hypothermic insulation and Weight Reduction",
+      "Trans": {"SC":"提升高温、低温抗性并降低负重","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2507188906",
+      "Source": "Kongyou Bonus",
+      "Trans": {"SC":"空游无依增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::509700034",
+      "Source": "The Ultimate Thunder",
+      "Trans": {"SC":"终极雷霆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1237619131",
+      "Source": "20% Extra Defence",
+      "Trans": {"SC":"20% 额外防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::27357275",
+      "Source": "Thornmail Poisoned!",
+      "Trans": {"SC":"荆棘甲中毒！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::190929254",
+      "Source": "Uncomfortable!",
+      "Trans": {"SC":"不适！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::372275903",
+      "Source": "Apex warriors do not rely on many teammates!",
+      "Trans": {"SC":"顶尖强者无需依靠大量队友！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::47520245",
+      "Source": "Lightning Cocooned",
+      "Trans": {"SC":"雷霆茧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3613435676",
+      "Source": "ADBoss",
+      "Trans": {"SC":"","JA":""},//不翻译
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4179245251",
+      "Source": "Bob explosion",
+      "Trans": {"SC":"Bob自爆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2042962539",
+      "Source": "Blaze!",
+      "Trans": {"SC":"烈焰！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3046161238",
+      "Source": "Prevent Inventory Access!",
+      "Trans": {"SC":"禁止打开背包！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2556563029",
+      "Source": "Chaos!",
+      "Trans": {"SC":"混乱！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1895167156",
+      "Source": "It doesn't distinguish between enemy and ourselves.",
+      "Trans": {"SC":"无法区分敌我。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::303502530",
+      "Source": "Extra Chibi Bonus!",
+      "Trans": {"SC":"Ex Chibi增益！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3868066999",
+      "Source": "Your Dino Got 10% Damage Bonus and  recover 10 stamina per second",
+      "Trans": {"SC":"你的恐龙获得 10% 伤害加成，每秒恢复 10 点耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1726666800",
+      "Source": "Dodorex Chibi Bonus!",
+      "Trans": {"SC":"渡渡霸王龙Chibi增益！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3110629593",
+      "Source": "Your Dino Got 10% Damage and Defence Bonus and  recover 10 stamina and 10 Health per second",
+      "Trans": {"SC":"你的恐龙获得 10% 伤害与防御加成，每秒恢复 10 点耐力、10 点生命值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::896571040",
+      "Source": "Your Dino Got 6% Damage and Defence Bonus and  recover 20 stamina per second",
+      "Trans": {"SC":"你的恐龙获得 6% 伤害与防御加成，每秒恢复 20 点耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4107422007",
+      "Source": "Ex-King Chibi Bonus!",
+      "Trans": {"SC":"Ex-君王泰坦Chibi增益！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3063157340",
+      "Source": "Mecha Curse",
+      "Trans": {"SC":"机械诅咒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2201834736",
+      "Source": "The ominous aura may cause a change in the King",
+      "Trans": {"SC":"不祥光环可能会使君王产生异变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4038386355",
+      "Source": "Bad Omen",
+      "Trans": {"SC":"凶兆","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1610672675",
+      "Source": "The ominous aura may cause a change in the Titans.",
+      "Trans": {"SC":"不祥光环可能会使泰坦产生异变。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2620550333",
+      "Source": "Destroy Minions",
+      "Trans": {"SC":"摧毁仆从","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::478419191",
+      "Source": "Pet Protection!",
+      "Trans": {"SC":"宠物保护！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::683242329",
+      "Source": "Your dragon is Invincible!30% Defence bonus!",
+      "Trans": {"SC":"你的巨龙处于无敌状态！获得 30% 防御加成！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::371897123",
+      "Source": "Drain!",
+      "Trans": {"SC":"汲取！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::779531910",
+      "Source": "There are too many Ultimate dodorex nearby!",
+      "Trans": {"SC":"附近存在过多的终极渡渡霸王龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3546704156",
+      "Source": "EX Boss",
+      "Trans": {"SC":"","JA":""},//不翻译
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3284938391",
+      "Source": "Extra Boss",
+      "Trans": {"SC":"Ex-Boss","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::963329885",
+      "Source": "Extra Acro",
+      "Trans": {"SC":"Ex-高棘龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2869124578",
+      "Source": "luxuriant",
+      "Trans": {"SC":"繁茂","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::331159572",
+      "Source": "Enable Supre Harvesting.20% extra damage and 50% Extra Defence!",
+      "Trans": {"SC":"开启高级采集。增加 20% 额外伤害与 50% 额外防御！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::779571210",
+      "Source": "Your movement speed is decreased,and immune Impulse!",
+      "Trans": {"SC":"移动速度降低，免疫冲击！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3029307010",
+      "Source": "Absolute Zero",
+      "Trans": {"SC":"绝对零度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2179127807",
+      "Source": "King Titan's Pressure",
+      "Trans": {"SC":"堕落神嗣的威压","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3087154514",
+      "Source": "Reducing Stamina unless land.",
+      "Trans": {"SC":"不在地面上时持续消耗耐力。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2528518274",
+      "Source": "MilkGlider Imprint",
+      "Trans": {"SC":"","JA":""},//搞不懂暂不翻译
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1104331034",
+      "Source": "From S+",
+      "Trans": {"SC":"来自S+","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::362084157",
+      "Source": "Activate Special Ability and 20% extra defence",
+      "Trans": {"SC":"激活特殊能力，获得 20% 额外防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "89A0D6844FC15840FF435684BB0A2FCB",
+      "Source": "Remaining Time: {Test}Challenger:{Test2}",
+      "Trans": {"SC":"剩余时间:{Test} 挑战者:{Test2}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3977279083"}
+    },
+    {
+      "NamespaceHash": "86CE04AF48B03352D1EE2ABCAE0B884C",
+      "Source": "Gigant",
+      "Trans": {"SC":"","JA":""},//未知位置暂不翻译，南巨
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"902744796"}
+    },
+    {
+      "NamespaceHash": "06F0BC1E4405D45D70B19EB40DC53591",
+      "Source": "Kongyouwuyi,the Enormous",
+      "Trans": {"SC":"空游无依","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3490543555"}
+    },
+    {
+      "NamespaceHash": "A62666024C5CC94910D315A663FC083B",
+      "Source": "Melee/Attack",
+      "Trans": {"SC":"近战 / 攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2287377377"}
+    },
+    {
+      "NamespaceHash": "C13B608B4DA98C85D445C28FB002811E",
+      "Source": "Smash",
+      "Trans": {"SC":"重击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"720599890"}
+    },
+    {
+      "NamespaceHash": "8A18713542D67DA070162EBD19AAEB35",
+      "Source": "Element Ball",
+      "Trans": {"SC":"元素球","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3286139647"}
+    },
+    {
+      "NamespaceHash": "6274D794456576C507AE6BB3AD220B62",
+      "Source": "Meteor",
+      "Trans": {"SC":"陨石","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3370576343"}
+    },
+    {
+      "NamespaceHash": "5AB9101742572AF0695C7888217F3C75",
+      "Source": "Wipe Out",
+      "Trans": {"SC":"肃清","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1756611411"}
+    },
+    {
+      "NamespaceHash": "E46C7885474232017E2D83B9DF74C179",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "C139021F45FE21E19DA789BD82968BC4",
+      "Source": "Charging",
+      "Trans": {"SC":"蓄力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3186620602"}
+    },
+    {
+      "NamespaceHash": "7DCD636C419370D57525E79B9CFDDF65",
+      "Source": "Punch",
+      "Trans": {"SC":"拳击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"507590931"}
+    },
+    {
+      "NamespaceHash": "57EB6D08407414AE189A80A654615C78",
+      "Source": "Dash",
+      "Trans": {"SC":"冲刺","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2035194064"}
+    },
+    {
+      "NamespaceHash": "B38D557E4E348F8A762A72999C049376",
+      "Source": "Claw(Directional) ",
+      "Trans": {"SC":"爪击（定向）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3772168202"}
+    },
+    {
+      "NamespaceHash": "406371094C824DED50818DB9B10AAF85",
+      "Source": "Punch(Directional)",
+      "Trans": {"SC":"拳击（定向）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3486090031"}
+    },
+    {
+      "NamespaceHash": "0C9D3B33408378735DB8619795C5D49D",
+      "Source": "Swat",
+      "Trans": {"SC":"横扫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2783234134"}
+    },
+    {
+      "NamespaceHash": "3499073A47103B664DB3EC91A99173C7",
+      "Source": "Plant Tree",
+      "Trans": {"SC":"栽植树木","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1665037789"}
+    },
+    {
+      "NamespaceHash": "C3A257BA42CAF847C7C05088D6AF9A2C",
+      "Source": "Stomp(Directional)",
+      "Trans": {"SC":"踩踏（定向）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3514181424"}
+    },
+    {
+      "NamespaceHash": "6334A42348268D9760A45AA205D01C8C",
+      "Source": "Weight Attack",
+      "Trans": {"SC":"重压攻击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1418645048"}
+    },
+    {
+      "NamespaceHash": "FA09307142139A850D794D92D990BB28",
+      "Source": "Toggle Mode",
+      "Trans": {"SC":"切换模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1738272253"}
+    },
+    {
+      "NamespaceHash": "E978FC204946D73281F6CA9AFC4C0B3C",
+      "Source": "Smash",
+      "Trans": {"SC":"重击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"720599890"}
+    },
+    {
+      "NamespaceHash": "348F85854B10452FAD0A1DBC8D0BE4C1",
+      "Source": "Punch(Directional)",
+      "Trans": {"SC":"拳击（定向）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3486090031"}
+    },
+    {
+      "NamespaceHash": "84E2A7A84DA8EC9A36807090CCA4C600",
+      "Source": "Ice spit",
+      "Trans": {"SC":"冰唾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4101478856"}
+    },
+    {
+      "NamespaceHash": "2404B30A4A9555C9BB67BB94454474C7",
+      "Source": "Ice Breath",
+      "Trans": {"SC":"寒冰吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"853926062"}
+    },
+    {
+      "NamespaceHash": "C17D230B4976A01957BB9A83C155E914",
+      "Source": "Leap",
+      "Trans": {"SC":"跃起","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2724754886"}
+    },
+    {
+      "NamespaceHash": "C899672042B8C77FBCD318AB211B4A79",
+      "Source": "Roar/Rage",
+      "Trans": {"SC":"咆哮 / 狂暴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"893540222"}
+    },
+    {
+      "NamespaceHash": "0709916B4488A3F423B920AC41621BA7",
+      "Source": "Tail Swipe",
+      "Trans": {"SC":"尾部横扫","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2847699287"}
+    },
+    {
+      "NamespaceHash": "37B4D1944E1679269906FABF044BFC04",
+      "Source": "Ice Spike",
+      "Trans": {"SC":"冰刺","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"156120835"}
+    },
+    {
+      "NamespaceHash": "F33D21F3454EA8447C14EFB6A46CA676",
+      "Source": "Ice Armor",
+      "Trans": {"SC":"冰甲","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3999569258"}
+    },
+    {
+      "NamespaceHash": "Content::2889083114",
+      "Source": "Kill dinos to gain xp for World boss summoning!",
+      "Trans": {"SC":"击杀恐龙获取经验，用于召唤世界 BOSS！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

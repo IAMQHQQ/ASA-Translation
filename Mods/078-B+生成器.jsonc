@@ -1,76 +1,82 @@
 {
-  "BPlus_Spawners": [//2026.3.23
+  "BPlus_Spawners": [//2026.9.6
     {
       "NamespaceHash": "Content::3655528930",
       "Source": "B+ Beaver Dam Spawner",
-      "Trans": {"SC":"B+河狸窝生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"B+河狸窝生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3879798296",
       "Source": "B+ Egg Spawner",
-      "Trans": {"SC":"B+龙蛋生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"B+龙蛋生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1919416915",
       "Source": "B+ Element Vein Spawner",
-      "Trans": {"SC":"B+元素矿脉生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"B+元素矿脉生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1391151894",
       "Source": "B+ OSD Spawner",
-      "Trans": {"SC":"B+空投生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"B+空投生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3825432399",
       "Source": "B+ Loot Crate Spawner",
-      "Trans": {"SC":"B+战利品箱生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"B+战利品箱生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::772023723",
       "Source": "B+ Dino Spawner",
-      "Trans": {"SC":"B+恐龙生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"B+恐龙生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1617241868",
+      "Source": "Dino Spawner",
+      "Trans": {"SC":"恐龙生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1602771481",
       "Source": "Placeable Beaver Dam Spawner",
       "Trans": {"SC":"可放置河狸坝生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3928445774",
       "Source": "Placeable Egg Spawner",
       "Trans": {"SC":"可放置龙蛋生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1706464416",
       "Source": "Placeable Element Vein Spawner - Spawns a Element Vein every 1-2 hours",
       "Trans": {"SC":"可放置元素矿脉生成器 - 每1-2小时生成一个元素矿脉","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2076925575",
       "Source": "Placeable OSD Spawner - Spawns a OSD every 1-2 hours",
       "Trans": {"SC":"可放置空投生成器 - 每1-2小时生成一个空投","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1651104948",
       "Source": "Placeable Loot Crate Spawner",
       "Trans": {"SC":"可放置战利品箱生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3875744018",
       "Source": "Placeable Dino Spawner",
       "Trans": {"SC":"可放置恐龙生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },//2026.3.23
     {
       "NamespaceHash": "Content::2391758543",
@@ -135,7 +141,7 @@
     {
       "NamespaceHash": "Content::2335298903",
       "Source": "Element Vein Spawner",
-      "Trans": {"SC":"元素矿脉生成器","JA":""},
+      "Trans": {"SC":"元素矿脉生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -195,19 +201,19 @@
     {
       "NamespaceHash": "Content::1340407710",
       "Source": "SOD Spawner",
-      "Trans": {"SC":"幼龙生成器","JA":""},
+      "Trans": {"SC":"幼龙生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4029606954",
       "Source": "Loot Spawner",
-      "Trans": {"SC":"战利品生成器","JA":""},
+      "Trans": {"SC":"战利品生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3302263529",
       "Source": "Beaver Dam Spawner",
-      "Trans": {"SC":"河狸窝生成器","JA":""},
+      "Trans": {"SC":"河狸坝生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -225,50 +231,50 @@
     {
       "NamespaceHash": "Content::3669447214",
       "Source": "B+ Loot Container Spawner",
-      "Trans": {"SC":"B + 战利品生成器","JA":""},
+      "Trans": {"SC":"B + 战利品生成","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4235302522",
       "Source": "OSD Spawner",
-      "Trans": {"SC":"空投生成器","JA":""},
+      "Trans": {"SC":"空投生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3681688404",
       "Source": "B+ Boss Tribute",
       "Trans": {"SC":"B+BOSS贡品台","JA":"B+BOSS貢品台"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1798662336",
       "Source": "B+ Gas Vein",
       "Trans": {"SC":"B+气矿","JA":"B+气礦"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::435208328",
       "Source": "B+ Oil Vein",
       "Trans": {"SC":"B+油矿","JA":"B+油礦"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3692017815",
       "Source": "B+ Large Beaver Dam Spawner",
-      "Trans": {"SC":"B+大型河狸坝生成器","JA":"B+大型河狸壩生成器"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Trans": {"SC":"B+大型河狸坝生成","JA":"B+大型河狸壩生成"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2826483847",
       "Source": "B+ Water Vein",
       "Trans": {"SC":"B+泉眼","JA":""},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3944177367",
       "Source": "B+ Oil Vein Spawner",
-      "Trans": {"SC":"B+油矿生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"B+油矿生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1168637251",
@@ -280,6 +286,210 @@
       "NamespaceHash": "Content::309663725",
       "Source": "Placeable Boss Tribute",
       "Trans": {"SC":"可放置BOSS贡品台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3255482791",
+      "Source": "Boss Spawn In: {0} ",
+      "Trans": {"SC":"生成倒计时: {0} ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2316558340",
+      "Source": "Spawn Spawner Item",
+      "Trans": {"SC":"生成器物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1920791564",
+      "Source": "Water Veins",
+      "Trans": {"SC":"泉眼矿点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1239145332",
+      "Source": "Egg Spawner",
+      "Trans": {"SC":"蛋生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2636372475",
+      "Source": "Oil Veins",
+      "Trans": {"SC":"石油矿点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::477009642",
+      "Source": "Gas Veins",
+      "Trans": {"SC":"瓦斯矿点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::744896733",
+      "Source": "Weight to spawn 0.0 - 1.0",
+      "Trans": {"SC":"生成权重 0.0‑1.0","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4072649553",
+      "Source": "Spawn Weight:",
+      "Trans": {"SC":"生成权重：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3997574857",
+      "Source": "Dino to Spawn:",
+      "Trans": {"SC":"待生成恐龙：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::182325629",
+      "Source": "Select ....:",
+      "Trans": {"SC":"选择....：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1560664412",
+      "Source": "Test This",
+      "Trans": {"SC":"测试此项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3720235667",
+      "Source": "Select Trait To Give",
+      "Trans": {"SC":"选择要赋予的特性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4089658368",
+      "Source": "(Put Items In Player Inventory)",
+      "Trans": {"SC":"（物品放入玩家背包）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4286535904",
+      "Source": "Required Items",
+      "Trans": {"SC":"所需贡品物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3294737454",
+      "Source": "Current Trait:",
+      "Trans": {"SC":"当前特性：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1422803361",
+      "Source": "Trait",
+      "Trans": {"SC":"特性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1838275164",
+      "Source": "Disable Taming",
+      "Trans": {"SC":"禁止驯服","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3030230215",
+      "Source": "Chance To Spawn With Baby(Must Support Wild Baby)",
+      "Trans": {"SC":"生成幼崽概率（需要模组支持野生幼崽）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1799037322",
+      "Source": "Adds Dino Entry",
+      "Trans": {"SC":"添加恐龙条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3973141088",
+      "Source": "Will always spawn an egg with random stats (No dino needs to be in the area for an egg to spawn)",
+      "Trans": {"SC":"始终生成一枚随机属性的蛋（区域内无需存在恐龙即可生成蛋）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::735329947",
+      "Source": "Will spawn an egg from a random dino in the area using its stats (Has to be any dino in the area for an egg to spawn)",
+      "Trans": {"SC":"使用区域内随机恐龙的属性生成蛋（区域内必须存在任意恐龙才会生成蛋）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::789513022",
+      "Source": "Will only only spawn an egg from the dino type selected thats in the area using its stats (Has to be that specific dino in the area for an egg to spawn)",
+      "Trans": {"SC":"仅使用区域内选中种类恐龙的属性生成蛋（区域内必须存在该特定恐龙才会生成蛋）","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1272561997",
+      "Source": "Spawn Egg From List If That Dino Is In Area",
+      "Trans": {"SC":"若该恐龙存在于区域内，则从列表生成蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3094404075",
+      "Source": "Spawn Egg From List",
+      "Trans": {"SC":"从列表生成蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2593056270",
+      "Source": "Use Server Dino Levels",
+      "Trans": {"SC":"使用服务器恐龙等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::558755714",
+      "Source": "Spawn Settings",
+      "Trans": {"SC":"生成设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4146197186",
+      "Source": "Chance Percent To Spawn",
+      "Trans": {"SC":"生成百分比概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::731319927",
+      "Source": "Teleport to spawner",
+      "Trans": {"SC":"传送到生成器位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2252969377",
+      "Source": "Are you sure you want to teleport to this structure?",
+      "Trans": {"SC":"确定要传送到该建筑吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3036183381",
+      "Source": "Cooldown Timer",
+      "Trans": {"SC":"冷却计时器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2353956846",
+      "Source": "Tribute Items",
+      "Trans": {"SC":"贡品物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1569146941",
+      "Source": "Adds Spawn Entry",
+      "Trans": {"SC":"添加生成条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3806680004",
+      "Source": "Delete",
+      "Trans": {"SC":"删除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3403731464",
+      "Source": "Chance To Spawn With Baby (Must Support Wild Baby)",
+      "Trans": {"SC":"野生刷出幼崽概率（该生物必须支持野生幼崽生成）","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

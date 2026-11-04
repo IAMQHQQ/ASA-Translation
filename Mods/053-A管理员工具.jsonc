@@ -1,6 +1,6 @@
 {
   "Awesome Admin Tools": [
-    //2026-8-15
+    //2026-11-4
     {
       "NamespaceHash": "Content::2805398202",
       "Source": "Spawn Items",
@@ -67,12 +67,12 @@
       "Trans": {"SC":"封禁玩家","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::2445688470",
-    //  "Source": "Character",
-    //  "Trans": {"SC":"角色","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2445688470",
+      "Source": "Character",
+      "Trans": {"SC":"角色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::609921349",
       "Source": "Kill Player",
@@ -301,18 +301,18 @@
       "Trans": {"SC":"未选中部落","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::3584009128",
-    //  "Source": "Bases",
-    //  "Trans": {"SC":"基地","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::2896121827",
-    //  "Source": "Radius",
-    //  "Trans": {"SC":"半径","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::3584009128",
+      "Source": "Bases",
+      "Trans": {"SC":"基地","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2896121827",
+      "Source": "Radius",
+      "Trans": {"SC":"半径","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::664534613",
       "Source": "Selected Tribe",
@@ -427,12 +427,12 @@
       "Trans": {"SC":"品质等级：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::4158460561",
-    //  "Source": "Advanced",
-    //  "Trans": {"SC":"高级","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::4158460561",
+      "Source": "Advanced",
+      "Trans": {"SC":"高级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3690853182",
       "Source": "Instant List Load?",
@@ -511,12 +511,12 @@
       "Trans": {"SC":"中立","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::3720490280",
-    //  "Source": "Colors",
-    //  "Trans": {"SC":"颜色","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::3720490280",
+      "Source": "Colors",
+      "Trans": {"SC":"颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3846055636",
       "Source": "Traits",
@@ -629,31 +629,31 @@
       "NamespaceHash": "Content::3742267440",
       "Source": "Admin Tek Generator",
       "Trans": {"SC":"管理员泰克发电机","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1965925050",
       "Source": "Admin Storage",
       "Trans": {"SC":"管理员储物箱","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3214947856",
       "Source": "Admin Sign",
       "Trans": {"SC":"管理员标识牌","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4173623616",
       "Source": "Admin Tek Teleporters",
       "Trans": {"SC":"管理员泰克传送器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4068499",
       "Source": "Zone Generator",
       "Trans": {"SC":"区域生成器","JA":""},
-      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4025864974",
@@ -715,18 +715,18 @@
       "Trans": {"SC":"高亮模式：","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"3663844954"}
     },
-    //{
-    //  "NamespaceHash": "Content::2193078702",
-    //  "Source": "Highlight",
-    //  "Trans": {"SC":"高亮","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::3436284499",
-    //  "Source": "Cross",
-    //  "Trans": {"SC":"十字标","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2193078702",
+      "Source": "Highlight",
+      "Trans": {"SC":"高亮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3436284499",
+      "Source": "Cross",
+      "Trans": {"SC":"十字标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1586318708",
       "Source": "Scan Speed:",
@@ -1031,12 +1031,6 @@
       "NamespaceHash": "Content::3649103837",
       "Source": "1 foundation.",
       "Trans": {"SC":"1 个地基。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3722739572",
-      "Source": "Onboarding",
-      "Trans": {"SC":"初始设置","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1521,12 +1515,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::176079536",
-      "Source": "Location",
-      "Trans": {"SC":"位置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::4236425322",
       "Source": "Base Radius",
       "Trans": {"SC":"基地半径","JA":""},
@@ -1916,48 +1904,48 @@
       "Trans": {"SC":"给予并装备","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::604822831",
-    //  "Source": "Primary",
-    //  "Trans": {"SC":"主要","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::604822831",
+      "Source": "Primary",
+      "Trans": {"SC":"主要","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::772923090",
       "Source": "Bound To Fire",
       "Trans": {"SC":"绑定到开火键","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::3780089940",
-    //  "Source": "Secondary",
-    //  "Trans": {"SC":"次要","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::3780089940",
+      "Source": "Secondary",
+      "Trans": {"SC":"次要","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1016877599",
       "Source": "Bound To Iron Sights",
       "Trans": {"SC":"绑定到瞄准键","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::216312346",
-    //  "Source": "Tertiary",
-    //  "Trans": {"SC":"第三","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::216312346",
+      "Source": "Tertiary",
+      "Trans": {"SC":"第三","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2481580151",
       "Source": "Bound To Weapon Whip",
       "Trans": {"SC":"绑定到武器挥击键","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::4113650261",
-    //  "Source": "Quartiary",
-    //  "Trans": {"SC":"第四","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::4113650261",
+      "Source": "Quartiary",
+      "Trans": {"SC":"第四","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3640449743",
       "Source": "Bound To Toggle Weapon Attachment",
@@ -2117,7 +2105,7 @@
     {
       "NamespaceHash": "Content::905481885",
       "Source": "Fly",
-      "Trans": {"SC":"飞行","JA":""}, //不建议翻译.
+      "Trans": {"SC":"飞行","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2142,12 +2130,6 @@
       "NamespaceHash": "Content::1769416026",
       "Source": "scriptcommand AAT SpawnItem",
       "Trans": {"SC":"脚本命令 AAT 生成物品","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2675385460",
-      "Source": "ItemClass*",
-      "Trans": {"SC":"物品类*","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2193,12 +2175,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::2405494194",
-      "Source": "DinoClass*",
-      "Trans": {"SC":"生物类*","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::884497905",
       "Source": "bTamed",
       "Trans": {"SC":"是否驯服","JA":""},
@@ -2222,12 +2198,12 @@
       "Trans": {"SC":"以低温舱形式生成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::1501789510",
-    //  "Source": "DinoName",
-    //  "Trans": {"SC":"生物名称","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::1501789510",
+      "Source": "DinoName",
+      "Trans": {"SC":"生物名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3096253765",
       "Source": "bUseExactStats",
@@ -2516,18 +2492,18 @@
       "Trans": {"SC":"需保持在线","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::1971594676",
-    //  "Source": "Sphere",
-    //  "Trans": {"SC":"球形","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::13489508",
-    //  "Source": "Box",
-    //  "Trans": {"SC":"方形","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::1971594676",
+      "Source": "Sphere",
+      "Trans": {"SC":"球形","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::13489508",
+      "Source": "Box",
+      "Trans": {"SC":"方形","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2717444657",
       "Source": "Information",
@@ -2594,12 +2570,12 @@
       "Trans": {"SC":"在线玩家","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::1907614693",
-    //  "Source": "Player",
-    //  "Trans": {"SC":"玩家","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::1907614693",
+      "Source": "Player",
+      "Trans": {"SC":"玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2363137679",
       "Source": "Load Uncached Dinos",
@@ -2624,36 +2600,36 @@
       "Trans": {"SC":"已选中的恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::989087735",
-    //  "Source": "Paste",
-    //  "Trans": {"SC":"粘贴","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::989087735",
+      "Source": "Paste",
+      "Trans": {"SC":"粘贴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2256692018",
       "Source": "Paste & Possess",
       "Trans": {"SC":"粘贴并占据","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::1732284524",
-    //  "Source": "Destroy",
-    //  "Trans": {"SC":"销毁","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::1164971707",
-    //  "Source": "UnLock",
-    //  "Trans": {"SC":"解锁","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::3203963959",
-    //  "Source": "Claim",
-    //  "Trans": {"SC":"认领","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::1732284524",
+      "Source": "Destroy",
+      "Trans": {"SC":"销毁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1164971707",
+      "Source": "UnLock",
+      "Trans": {"SC":"解锁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3203963959",
+      "Source": "Claim",
+      "Trans": {"SC":"认领","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3227875089",
       "Source": "Duplicate",
@@ -2666,24 +2642,24 @@
       "Trans": {"SC":"生成恐龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::2955836799",
-    //  "Source": "Possess",
-    //  "Trans": {"SC":"占据","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::15923404",
-    //  "Source": "Imprint",
-    //  "Trans": {"SC":"印记","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::195855522",
-    //  "Source": "Copy",
-    //  "Trans": {"SC":"复制","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2955836799",
+      "Source": "Possess",
+      "Trans": {"SC":"占据","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::15923404",
+      "Source": "Imprint",
+      "Trans": {"SC":"印记","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::195855522",
+      "Source": "Copy",
+      "Trans": {"SC":"复制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2087491912",
       "Source": "Paste Settings",
@@ -2720,36 +2696,36 @@
       "Trans": {"SC":"自动射击","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::2208731584",
-    //  "Source": "Download",
-    //  "Trans": {"SC":"下载","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::2973205167",
-    //  "Source": "Upload",
-    //  "Trans": {"SC":"上传","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2208731584",
+      "Source": "Download",
+      "Trans": {"SC":"下载","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2973205167",
+      "Source": "Upload",
+      "Trans": {"SC":"上传","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1347912694",
       "Source": "QUICK BUFFS",
       "Trans": {"SC":"快捷BUFFS","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::4196783992",
-    //  "Source": "Primairy",
-    //  "Trans": {"SC":"第一","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::1086775",
-    //  "Source": "Secondairy",
-    //  "Trans": {"SC":"第二","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::4196783992",
+      "Source": "Primairy",
+      "Trans": {"SC":"第一","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1086775",
+      "Source": "Secondairy",
+      "Trans": {"SC":"第二","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1790488426",
       "Source": "Kill the target actor",
@@ -2834,18 +2810,18 @@
       "Trans": {"SC":"退出管理员模式","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::2689354834",
-    //  "Source": "Mutation",
-    //  "Trans": {"SC":"突变","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::1818931748",
-    //  "Source": "Server",
-    //  "Trans": {"SC":"服务器","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2689354834",
+      "Source": "Mutation",
+      "Trans": {"SC":"突变","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1818931748",
+      "Source": "Server",
+      "Trans": {"SC":"服务器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::315098708",
       "Source": "Search By Player Name Or ID",
@@ -2864,16 +2840,15 @@
       "Trans": {"SC":"扫描服务器以查找新的恐龙类别。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::2705952837",
-    //  "Source": "Target",
-    //  "Trans": {"SC":"目标","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2705952837",
+      "Source": "Target",
+      "Trans": {"SC":"目标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1087163215",
       "Source": "Exact Stats",
-      //没生效
       "Trans": {"SC":"精确属性","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -2945,13 +2920,13 @@
       "Trans": {"SC":"补给信标","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::2045334908",
-    //  "Source": "Supply Crates",
-    //  //没生效
-    //  "Trans": {"SC":"补给箱","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2045334908",
+      "Source": "Supply Crates",
+      //没生效
+      "Trans": {"SC":"补给箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3724587709",
       "Source": "Any Structure",
@@ -3031,18 +3006,18 @@
       "Trans": {"SC":"邮件","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::539996912",
-    //  "Source": "Saddled",
-    //  "Trans": {"SC":"装鞍","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::1414990227",
-    //  "Source": "HP",
-    //  "Trans": {"SC":"生命","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::539996912",
+      "Source": "Saddled",
+      "Trans": {"SC":"装鞍","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1414990227",
+      "Source": "HP",
+      "Trans": {"SC":"生命","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::4209292217",
       "Source": "ST",
@@ -3375,13 +3350,13 @@
       "Trans": {"SC":"新页面","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::432756454",
-    //  "Source": "KeyBinds",
-    //  "Trans": {"SC":"按键绑定","JA":""},
-    //  //没生效
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::432756454",
+      "Source": "KeyBinds",
+      "Trans": {"SC":"按键绑定","JA":""},
+      //没生效
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3345382766",
       "Source": "Open AATMenu",
@@ -3418,12 +3393,12 @@
       "Trans": {"SC":"使用管理工具第三操作的按键绑定。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::3295386321",
-    //  "Source": "Quarternary",
-    //  "Trans": {"SC":"第四","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::3295386321",
+      "Source": "Quarternary",
+      "Trans": {"SC":"第四","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1536971220",
       "Source": "Keybind to use the quarternary action of the Admin Tool.",
@@ -3598,12 +3573,12 @@
       "Trans": {"SC":"选择时关闭","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::777147404",
-    //  "Source": "Quaternary",
-    //  "Trans": {"SC":"第四","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::777147404",
+      "Source": "Quaternary",
+      "Trans": {"SC":"第四","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1898137728",
       "Source": "No settings available.",
@@ -3638,13 +3613,6 @@
       "NamespaceHash": "Content::2956041424",
       "Source": "Current Location",
       "Trans": {"SC":"当前位置","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2415122682",
-      "Source": "Bottom Rlght Corner",
-      "Trans": {"SC":"右下角","JA":""},
-      //其他按钮都生效就这个不生效 奇奇怪怪
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3744,20 +3712,20 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //以下是玩家页面按钮不生效
-    //{
-    //  "NamespaceHash": "Content::3002416456",
-    //  "Source": "Online",
-    //  "Trans": {"SC":"在线","JA":""},
-    //  //按钮没生效先保留
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::3317214507",
-    //  "Source": "Offline",
-    //  "Trans": {"SC":"离线","JA":""},
-    //  //按钮没生效先保留
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::3002416456",
+      "Source": "Online",
+      "Trans": {"SC":"在线","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3317214507",
+      "Source": "Offline",
+      "Trans": {"SC":"离线","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2721769209",
       "Source": "History",
@@ -3766,13 +3734,13 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //以下是配置页面按钮不生效
-    //{
-    //  "NamespaceHash": "Content::1917945924",
-    //  "Source": "Configuration",
-    //  "Trans": {"SC":"配置","JA":""},
-    //  //按钮没生效先保留
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::1917945924",
+      "Source": "Configuration",
+      "Trans": {"SC":"配置","JA":""},
+      //按钮没生效先保留
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1910380285",
       "Source": "AAT Discord Bot",
@@ -3788,12 +3756,12 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //区域生成器页面不生效的按钮 Zone Players Dinos Structures
-    //{
-    //  "NamespaceHash": "Content::2783072981",
-    //  "Source": "Identity",
-    //  "Trans": {"SC":"身份","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::2783072981",
+      "Source": "Identity",
+      "Trans": {"SC":"身份","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2633888391",
       "Source": "Priority Information",
@@ -3812,36 +3780,36 @@
       "Trans": {"SC":"好的，我明白了","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::963322399",
-    //  "Source": "Priority",
-    //  "Trans": {"SC":"优先级","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::1000361607",
-    //  "Source": "Dimensions",
-    //  "Trans": {"SC":"尺寸","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::743405946",
-    //  "Source": "Shape",
-    //  "Trans": {"SC":"形状","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::3120896384",
-    //  "Source": "Visual",
-    //  "Trans": {"SC":"视觉","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::1666336568",
-    //  "Source": "foundations",
-    //  "Trans": {"SC":"基础","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::963322399",
+      "Source": "Priority",
+      "Trans": {"SC":"优先级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1000361607",
+      "Source": "Dimensions",
+      "Trans": {"SC":"尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::743405946",
+      "Source": "Shape",
+      "Trans": {"SC":"形状","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3120896384",
+      "Source": "Visual",
+      "Trans": {"SC":"视觉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1666336568",
+      "Source": "foundations",
+      "Trans": {"SC":"基础","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1613937534",
       "Source": "Affected Structures",
@@ -3872,24 +3840,24 @@
       "Trans": {"SC":"新增一个增益效果","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::438339643",
-    //  "Source": "Confirm",
-    //  "Trans": {"SC":"确认","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::3882954527",
-    //  "Source": "Quality",
-    //  "Trans": {"SC":"品质","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::27200819",
-    //  "Source": "Blueprint",
-    //  "Trans": {"SC":"蓝图","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::438339643",
+      "Source": "Confirm",
+      "Trans": {"SC":"确认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3882954527",
+      "Source": "Quality",
+      "Trans": {"SC":"品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::27200819",
+      "Source": "Blueprint",
+      "Trans": {"SC":"蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::3540264686",
       "Source": "Quality Tier",
@@ -3902,12 +3870,12 @@
       "Trans": {"SC":"加载新物品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::3245581654",
-    //  "Source": "Qualitylndex",
-    //  "Trans": {"SC":"品质索引","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},//不生效，暂时保留
+    {
+      "NamespaceHash": "Content::4026869058",
+      "Source": "QualityIndex",
+      "Trans": {"SC":"品质索引","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1181567291",
       "Source": "PlayerTarget",
@@ -3920,12 +3888,12 @@
       "Trans": {"SC":"启用调试悬浮层","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::3007997848",
-    //  "Source": "Visible",
-    //  "Trans": {"SC":"可见","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::3007997848",
+      "Source": "Visible",
+      "Trans": {"SC":"可见","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::474714926",
       "Source": "LOAD NEW DINOS",
@@ -4086,6 +4054,1116 @@
       "NamespaceHash": "Content::2345359466",
       "Source": "Scan Dino Species",
       "Trans": {"SC":"扫描恐龙物种","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4268448502",
+      "Source": "Any AAT Structure",
+      "Trans": {"SC":"任意 AAT 建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::845116621",
+      "Source": "Any AAT Item",
+      "Trans": {"SC":"任意 AAT 物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3067165553",
+      "Source": "Any AAT Weapon",
+      "Trans": {"SC":"任意 AAT 武器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2877270664",
+      "Source": "Spectator",
+      "Trans": {"SC":"上帝模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::429579178",
+      "Source": "Spectator Mode",
+      "Trans": {"SC":"观察者模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::114470210",
+      "Source": "Rescaling Dino Stats",
+      "Trans": {"SC":"恐龙属性重新缩放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2783717572",
+      "Source": "Disable AATMenu For Non Admins",
+      "Trans": {"SC":"为非管理员禁用AAT菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1437579304",
+      "Source": "Reload Configuration",
+      "Trans": {"SC":"重新加载配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2422785704",
+      "Source": "Save Changes",
+      "Trans": {"SC":"保存更改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2702670942",
+      "Source": "Only Show Non-Default",
+      "Trans": {"SC":"仅显示非默认项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1554206293",
+      "Source": "Import/Export",
+      "Trans": {"SC":"导入/导出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::218438484",
+      "Source": "AATMenu Overview Tabs Visibility",
+      "Trans": {"SC":"AAT 菜单总览标签页可见性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::826493348",
+      "Source": "Server Discord Button Name",
+      "Trans": {"SC":"服务器 Discord 按钮名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2202828708",
+      "Source": "Player Activity Webhook",
+      "Trans": {"SC":"玩家活动 Webhook","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::860722613",
+      "Source": "Remove Mod Logo",
+      "Trans": {"SC":"移除模组标识","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3339026363",
+      "Source": "Player Whitelist",
+      "Trans": {"SC":"玩家白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1784481472",
+      "Source": "Saddle Quality",
+      "Trans": {"SC":"鞍具品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1062403299",
+      "Source": "Custom Savegames Directory",
+      "Trans": {"SC":"自定义存档目录","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::560995956",
+      "Source": "Language Override",
+      "Trans": {"SC":"语言强制覆盖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "327B4BA04C31348B50456E859507A957",
+      "Source": "Structures",
+      "Trans": {"SC":"建筑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"26084577"}
+    },
+    {
+      "NamespaceHash": "A23A895B46CA38340397219214CF6284",
+      "Source": "Players",
+      "Trans": {"SC":"玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4196512588"}
+    },
+    {
+      "NamespaceHash": "803B1B544B3CCA5B8A25E8B3E65E49B4",
+      "Source": "Dinos",
+      "Trans": {"SC":"生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"567824872"}
+    },
+    {
+      "NamespaceHash": "7FF6B6A04F6B2EF2AEC9968DF0A02E27",
+      "Source": "TribeID",
+      "Trans": {"SC":"部落 ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1976638025"}
+    },
+    {
+      "NamespaceHash": "DD54374040E3DE988FBE0D859075F10B",
+      "Source": "PlayerID",
+      "Trans": {"SC":"玩家ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3860002542"}
+    },
+    {
+      "NamespaceHash": "C030D8EB434F3801F05CCC94679E5D68",
+      "Source": "PlayerName",
+      "Trans": {"SC":"玩家名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"656511216"}
+    },
+    {
+      "NamespaceHash": "A671C6A8413A8FAEE2591FB11E7A5EEC",
+      "Source": "Time",
+      "Trans": {"SC":"时间","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"37628788"}
+    },
+    {
+      "NamespaceHash": "8019978E449E047565281B898FD2DD75",
+      "Source": "DinoClass",
+      "Trans": {"SC":"恐龙类","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3091480461"}
+    },
+    {
+      "NamespaceHash": "0005E2744A1B83B342D87FBF8682E0D9",
+      "Source": "ItemClass",
+      "Trans": {"SC":"物品类","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3448988764"}
+    },
+    {
+      "NamespaceHash": "66BA3717452CB807DEF375BC2028A9CF",
+      "Source": "ChangeButtonColor",
+      "Trans": {"SC":"修改按钮颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1171555383"}
+    },
+    {
+      "NamespaceHash": "E90E5BF5480A2F53F41710921582A5FC",
+      "Source": "ChangeChildColor",
+      "Trans": {"SC":"修改子控件颜色","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"32086707"}
+    },
+    {
+      "NamespaceHash": "85C4E2A6415B25952E09259395A74822",
+      "Source": "Normal",
+      "Trans": {"SC":"普通","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"926731589"}
+    },
+    {
+      "NamespaceHash": "A688B4E24CF03D0FC7ECCF846E81CDA4",
+      "Source": "Cosmetics",
+      "Trans": {"SC":"外观","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"340712543"}
+    },
+    {
+      "NamespaceHash": "99E267154B6E1917167F76B46AAB175F",
+      "Source": "Mission",
+      "Trans": {"SC":"任务","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2649553369"}
+    },
+    {
+      "NamespaceHash": "D58ABBF941D1792F4D85AC8D916B17DE",
+      "Source": "MoreLogging",
+      "Trans": {"SC":"增强日志输出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2725943808"}
+    },
+    {
+      "NamespaceHash": "7EA8BA19400F1162AFA262AB85B2C14B",
+      "Source": "DisableAATMenuButton",
+      "Trans": {"SC":"隐藏 AAT 菜单按钮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"618248700"}
+    },
+    {
+      "NamespaceHash": "8603281E41EAD11F0450B1AAAB64BFBD",
+      "Source": "DisableAdminToolButton",
+      "Trans": {"SC":"隐藏管理员工具按钮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3948794639"}
+    },
+    {
+      "NamespaceHash": "C79848914EE35EA39BBB23AE26762C1D",
+      "Source": "AATMenuAdminOnly",
+      "Trans": {"SC":"AAT 菜单仅管理员可用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3986659854"}
+    },
+    {
+      "NamespaceHash": "301F95E044D8461E98B1B49322EF508A",
+      "Source": "AATMenuButtonOffset",
+      "Trans": {"SC":"AAT 菜单按钮偏移量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1158100074"}
+    },
+    {
+      "NamespaceHash": "DF30F6D042B3DD4EA7349C9207188A7F",
+      "Source": "AdminToolButtonOffset",
+      "Trans": {"SC":"管理员工具按钮偏移量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"83498706"}
+    },
+    {
+      "NamespaceHash": "3B6C7525439744D294B5F2862A5683C3",
+      "Source": "MaxReplicationCount",
+      "Trans": {"SC":"最大同步复制数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"667146226"}
+    },
+    {
+      "NamespaceHash": "35E10A6341E69E86B0EA1985CC78750A",
+      "Source": "AllowUnreleasedDinos",
+      "Trans": {"SC":"允许使用未正式实装恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4023651658"}
+    },
+    {
+      "NamespaceHash": "B8382D084095B8A1A54968A50EACEE0D",
+      "Source": "AdminWhitelist",
+      "Trans": {"SC":"管理员白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1219356466"}
+    },
+    {
+      "NamespaceHash": "AD2DAC394DA878AE041319BDEE2BA988",
+      "Source": "AdminWhitelistRequired",
+      "Trans": {"SC":"强制启用管理员白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"197642435"}
+    },
+    {
+      "NamespaceHash": "2C9C8B15469B0E8ECA2277ACB6DAE800",
+      "Source": "AdminLoggingWebhook",
+      "Trans": {"SC":"管理员日志 Webhook","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"351104861"}
+    },
+    {
+      "NamespaceHash": "70FD15CB46A167D42535539B4B993950",
+      "Source": "CryopodClass",
+      "Trans": {"SC":"低温舱类","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2701785466"}
+    },
+    {
+      "NamespaceHash": "522AFE4046D6F221FD9674A1583FBC33",
+      "Source": "ForcePreventCheatFly",
+      "Trans": {"SC":"强制禁止作弊飞行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2196197052"}
+    },
+    {
+      "NamespaceHash": "A8131D7F4FF66B84F0B383B3CCEBCC88",
+      "Source": "DC_ConnectionUrl",
+      "Trans": {"SC":"DC 连接地址","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"818501709"}
+    },
+    {
+      "NamespaceHash": "B9C50D1B4574C039566B03AE3585A66E",
+      "Source": "AATMenuButtonName",
+      "Trans": {"SC":"AAT 菜单按钮名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3671242759"}
+    },
+    {
+      "NamespaceHash": "EEBF6E134E7B44C1EEA0818477DA906C",
+      "Source": "DC_IgnorePrefix",
+      "Trans": {"SC":"DC 忽略前缀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3912057852"}
+    },
+    {
+      "NamespaceHash": "AA67C63E48EDECFFECC9AEAF95E465FC",
+      "Source": "WDM_RandomLocationOffset",
+      "Trans": {"SC":"WDM 随机位置偏移","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1593862943"}
+    },
+    {
+      "NamespaceHash": "2931EE774CA803C58A56DB9523731AB8",
+      "Source": "DinoTraitsAdminOnly",
+      "Trans": {"SC":"恐龙特性仅管理员修改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1050674890"}
+    },
+    {
+      "NamespaceHash": "4710DC944888ABA8A425AEBDA5D95EE7",
+      "Source": "DinoTraitsQualityAdminOnly",
+      "Trans": {"SC":"恐龙特性品质仅管理员修改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1367747491"}
+    },
+    {
+      "NamespaceHash": "3B656FF543788B20EB587AA2AFBF3B40",
+      "Source": "LiveTrackingAdminOnly",
+      "Trans": {"SC":"实时追踪仅管理员可用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4179746668"}
+    },
+    {
+      "NamespaceHash": "24FAAD0C4EA48F50EA76518CE98302E2",
+      "Source": "LiveTrackingPoiAdminOnly",
+      "Trans": {"SC":"实时追踪地标仅管理员查看","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2860359174"}
+    },
+    {
+      "NamespaceHash": "351272D040693CA8C98D9D8E1F182BE0",
+      "Source": "LiveTrackingUseCompassArrow",
+      "Trans": {"SC":"实时追踪启用罗盘箭头","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1410473152"}
+    },
+    {
+      "NamespaceHash": "09C69ABB49F7EEC312B6F3AA418DA9B5",
+      "Source": "DinoLevelAdminOnly",
+      "Trans": {"SC":"恐龙等级仅管理员修改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1530479398"}
+    },
+    {
+      "NamespaceHash": "3F6101054900CB4B04BA2E9D8137343E",
+      "Source": "TribesTabCoordsAdminOnly",
+      "Trans": {"SC":"部落标签页坐标仅管理员查看","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1635428818"}
+    },
+    {
+      "NamespaceHash": "D51C33694D03F89390C9639B525D08CD",
+      "Source": "WelcomeMessage",
+      "Trans": {"SC":"欢迎消息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3963243913"}
+    },
+    {
+      "NamespaceHash": "593FE25D469F51C17314A69205FD29A9",
+      "Source": "IgnoredChatMessagesWebhook",
+      "Trans": {"SC":"忽略聊天消息 Webhook","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2479408766"}
+    },
+    {
+      "NamespaceHash": "28350BEB466B48EFFAF844B29C85109C",
+      "Source": "WelcomePanelPosition",
+      "Trans": {"SC":"欢迎面板位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2886015557"}
+    },
+    {
+      "NamespaceHash": "81B1E20747D458D99664C99987EF5EE6",
+      "Source": "WelcomePanelSize",
+      "Trans": {"SC":"欢迎面板尺寸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1893387123"}
+    },
+    {
+      "NamespaceHash": "359CC5654069B758F8E97DB65C327DD8",
+      "Source": "AllowTribeOwnerPickup",
+      "Trans": {"SC":"允许部落所有者拾取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1305820523"}
+    },
+    {
+      "NamespaceHash": "A559BFF44BB0F3E9B8AD7E9BD0F0F9B8",
+      "Source": "DiscordInviteButtonName",
+      "Trans": {"SC":"Discord 邀请按钮名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1244957655"}
+    },
+    {
+      "NamespaceHash": "784035F844CC4921B7377299F1A84353",
+      "Source": "CustomSavegamesDirectory",
+      "Trans": {"SC":"自定义存档目录","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"356301445"}
+    },
+    {
+      "NamespaceHash": "D5E2BF0C4CFE24F8AB598592E14C4E69",
+      "Source": "PauseMenuRemoveModLogo",
+      "Trans": {"SC":"暂停菜单移除模组标识","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2779955986"}
+    },
+    {
+      "NamespaceHash": "0880FE054C1EDEE1E6E2469BB36AFDBC",
+      "Source": "PlayerActivityWebhook",
+      "Trans": {"SC":"玩家活动 Webhook","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1451454763"}
+    },
+    {
+      "NamespaceHash": "41A6F5164E04EDFCA6F52BBE6D135DD7",
+      "Source": "PlayerWhitelist",
+      "Trans": {"SC":"玩家白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2579657400"}
+    },
+    {
+      "NamespaceHash": "261E04D8479B392D71B43081B3C43FBA",
+      "Source": "Not Connected",
+      "Trans": {"SC":"未连接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"743244781"}
+    },
+    {
+      "NamespaceHash": "0E26A3EA4AA1866357A5418DC1EF6CD9",
+      "Source": "Connecting",
+      "Trans": {"SC":"正在连接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2077067776"}
+    },
+    {
+      "NamespaceHash": "BCD29E584432030F8E930EAC410E62BE",
+      "Source": "Connected",
+      "Trans": {"SC":"已连接","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3741976958"}
+    },
+    {
+      "NamespaceHash": "151BFF7B45D4D0C0F9E674B778181835",
+      "Source": "Random",
+      "Trans": {"SC":"随机","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2604595566"}
+    },
+    {
+      "NamespaceHash": "5F017A474638EFD9090764AC7B1A6990",
+      "Source": "No Content",
+      "Trans": {"SC":"无内容","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1744192357"}
+    },
+    {
+      "NamespaceHash": "7548254243B5FCFD460B469BA56EEC1A",
+      "Source": "Bad Request",
+      "Trans": {"SC":"错误请求","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2972474580"}
+    },
+    {
+      "NamespaceHash": "93F198C5420FCFBF946B4CBD96773272",
+      "Source": "Unauthorized",
+      "Trans": {"SC":"未授权","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1378908987"}
+    },
+    {
+      "NamespaceHash": "EC9AED2A4E79DEE9FB637A96E34D09AE",
+      "Source": "Forbidden",
+      "Trans": {"SC":"禁止访问","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2490114775"}
+    },
+    {
+      "NamespaceHash": "5C12A87944B8FB9489E958BAE8838D42",
+      "Source": "Not Found",
+      "Trans": {"SC":"未找到","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2269510971"}
+    },
+    {
+      "NamespaceHash": "6BFF4E71428F67D5B268DEA3DB316FEF",
+      "Source": "Internal Server Error",
+      "Trans": {"SC":"服务器内部错误","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"464771111"}
+    },
+    {
+      "NamespaceHash": "D38FF3764F795C4460C536B10BEC6668",
+      "Source": "ServerAdminPassword",
+      "Trans": {"SC":"服务器管理员密码","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"996682855"}
+    },
+    {
+      "NamespaceHash": "133ED71F4AD56A9D3C0A72A9829AA42E",
+      "Source": "SessionName",
+      "Trans": {"SC":"会话名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"82364293"}
+    },
+    {
+      "NamespaceHash": "AD51FEFF4F8438C06F40F892423558B7",
+      "Source": "CheckBox",
+      "Trans": {"SC":"复选框","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1528372719"}
+    },
+    {
+      "NamespaceHash": "59FF335741E36FC34ECB1A8F5600D60D",
+      "Source": "INFO",
+      "Trans": {"SC":"信息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3932771486"}
+    },
+    {
+      "NamespaceHash": "E34304D04422446F29D4419BB7A48ADA",
+      "Source": "CORRECT",
+      "Trans": {"SC":"正常","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"833407825"}
+    },
+    {
+      "NamespaceHash": "E7E3B33D44D8C0B24173AD9FE1559A14",
+      "Source": "Supply Beacons",
+      "Trans": {"SC":"补给信标","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3970178315"}
+    },
+    {
+      "NamespaceHash": "F7066C5244F16AD6DD0CCEAE80D9A39C",
+      "Source": "Item Bags",
+      "Trans": {"SC":"物品包裹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2188536716"}
+    },
+    {
+      "NamespaceHash": "42108ADA4751A1D4BA86C2B0F30273CE",
+      "Source": "Player Corpses",
+      "Trans": {"SC":"玩家尸体","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2658218689"}
+    },
+    {
+      "NamespaceHash": "F67CC4D040DB68E18D672FA8BAB24E60",
+      "Source": "Players",
+      "Trans": {"SC":"玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4196512588"}
+    },
+    {
+      "NamespaceHash": "0CC4D9E64310C4C02A31298FA7A68BCA",
+      "Source": "Structure ->",
+      "Trans": {"SC":"建筑 ->","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4272943732"}
+    },
+    {
+      "NamespaceHash": "C7CFE83C4FBA329C58F56C8578F4C8A4",
+      "Source": "Supply Crates",
+      "Trans": {"SC":"补给箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2045334908"}
+    },
+    {
+      "NamespaceHash": "FFA335284BD17579D38085B3B454B13A",
+      "Source": "QuickCommands",
+      "Trans": {"SC":"快捷指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4115322043"}
+    },
+    {
+      "NamespaceHash": "409F58EF41EC1870D774ADA408E7F85E",
+      "Source": "QuickTeleports_",
+      "Trans": {"SC":"快捷传送_","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"118280553"}
+    },
+    {
+      "NamespaceHash": "208237CB4E068E0DA5B790B33D065D39",
+      "Source": "Onboarding",
+      "Trans": {"SC":"初始引导","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3722739572"}
+    },
+    {
+      "NamespaceHash": "CA14B42A45C7CDBD7FB0F08AF7A99C90",
+      "Source": "ObjectLocator",
+      "Trans": {"SC":"物体定位器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1711524490"}
+    },
+    {
+      "NamespaceHash": "D693B5BF4BE38CB7FE390698D3F7C523",
+      "Source": "ItemKits",
+      "Trans": {"SC":"物品套件","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"22744178"}
+    },
+    {
+      "NamespaceHash": "6DE67998497863627B1991A0ABC5266B",
+      "Source": "Clipboard",
+      "Trans": {"SC":"剪贴板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2883859652"}
+    },
+    {
+      "NamespaceHash": "A9FF78094348F8C7C58BF7ABCC281F27",
+      "Source": "Revert To Default",
+      "Trans": {"SC":"恢复默认","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1825361139"}
+    },
+    {
+      "NamespaceHash": "B4F7F152489C461A6B5387958E0F5313",
+      "Source": "Search Filter",
+      "Trans": {"SC":"搜索筛选","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1059525997"}
+    },
+    {
+      "NamespaceHash": "D160F1264C5477C844BA2182DF3CF2B7",
+      "Source": "Longitute",
+      "Trans": {"SC":"经度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4224852767"}
+    },
+    {
+      "NamespaceHash": "D994BA9C4BDA0F6CAA6D5AA56E1A65E4",
+      "Source": "Undefined",
+      "Trans": {"SC":"未定义","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1068756043"}
+    },
+    {
+      "NamespaceHash": "CBBD2DD74714597CC08662A30766ACC8",
+      "Source": "Latitude",
+      "Trans": {"SC":"纬度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1388085700"}
+    },
+    {
+      "NamespaceHash": "55D7E21C47E693CE4D1770A468C84021",
+      "Source": "Claim for the provided team. -1 to claim for yourself.",
+      "Trans": {"SC":"归属指定部落。填‑1 代表归属自己。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"171614010"}
+    },
+    {
+      "NamespaceHash": "32CB9CE54866B09A37A484A3C8BAB0C7",
+      "Source": "0 to level to next level",
+      "Trans": {"SC":"填 0 代表升至下一等级。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3846985877"}
+    },
+    {
+      "NamespaceHash": "0FB5A15E4D0C542C6983EABA632B201F",
+      "Source": "Seconds until the target will be visible again. 0 to stay invisble until manually made visible again.",
+      "Trans": {"SC":"目标恢复可见的秒数。填 0 则保持隐藏，需手动恢复显示。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"875538822"}
+    },
+    {
+      "NamespaceHash": "36726D8D43CD747201244B8974C121A7",
+      "Source": "Radius of the tertiary action (Select all strcutures around you).",
+      "Trans": {"SC":"第三项操作的作用半径（选中自身周围全部建筑）。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2286613005"}
+    },
+    {
+      "NamespaceHash": "0156CF1145D89696CEB5189959E0794C",
+      "Source": "Seconds until the target will wake up. 0 to never wake up.",
+      "Trans": {"SC":"目标苏醒等待秒数。填 0 则永不苏醒。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3690518391"}
+    },
+    {
+      "NamespaceHash": "64FACAE5475C495E2339609D2336A95A",
+      "Source": "0 for a random level.",
+      "Trans": {"SC":"填 0 为随机等级。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2443388650"}
+    },
+    {
+      "NamespaceHash": "B12E8A344DD3ACB19BCB96A3B779068F",
+      "Source": "Default behavior for tamed dinos.",
+      "Trans": {"SC":"驯服恐龙的默认行为。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"727015199"}
+    },
+    {
+      "NamespaceHash": "252BD1CB4776ED9B0ED88DBF6EF18650",
+      "Source": "Cache saves names, icons and whether or not the actor is visible in the spawn list.\\nClearing cache can be useful after a mod updated and some actors are not visible in the spawn list.",
+      "Trans": {"SC":"缓存保存名称、图标以及实体是否在生成列表可见。\\n 模组更新后部分实体在生成列表不显示时，清理缓存可修复该问题。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2218083720"}
+    },
+    {
+      "NamespaceHash": "F87FC390492F52013203F390C03C6D8E",
+      "Source": "Enable to open subsettings.",
+      "Trans": {"SC":"开启以展开子设置项。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2837101980"}
+    },
+    {
+      "NamespaceHash": "Content::2433679622",
+      "Source": "Show Blacklisted Dinos?",
+      "Trans": {"SC":"显示被列入黑名单的生物？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3413767780",
+      "Source": "(PARTIALLY)PUBLIC",
+      "Trans": {"SC":"（部分）公开","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3505920851",
+      "Source": "Prevent Tek Punch",
+      "Trans": {"SC":"禁用泰克拳套","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2690487266",
+      "Source": "Prevent Tek Run",
+      "Trans": {"SC":"禁用泰克加速奔跑","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2833310290",
+      "Source": "Prevent Tek Landing",
+      "Trans": {"SC":"禁用泰克靴缓降","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2520831958",
+      "Source": "Prevent Tek Jetpack",
+      "Trans": {"SC":"禁用泰克喷气背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3998266977",
+      "Source": "Prevent Tek Helmet",
+      "Trans": {"SC":"禁用泰克头盔扫描","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1287786868",
+      "Source": "Cheat Fly",
+      "Trans": {"SC":"定点飞行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3681458167",
+      "Source": "Destroy Linked Dinos",
+      "Trans": {"SC":"销毁关联恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::37872906",
+      "Source": "Unlock & Customize",
+      "Trans": {"SC":"解锁并自定义","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::978608273",
+      "Source": "Add Spawn Entry",
+      "Trans": {"SC":"添加生成条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::168786199",
+      "Source": "Lock & Reset",
+      "Trans": {"SC":"锁定 & 重置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::343659320",
+      "Source": "Entry Name",
+      "Trans": {"SC":"条目名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3763589401",
+      "Source": "Entry Weight",
+      "Trans": {"SC":"条目权重","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::276258858",
+      "Source": "Dinos To Spawn",
+      "Trans": {"SC":"待生成恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3244093128",
+      "Source": "Spawn Chance",
+      "Trans": {"SC":"生成概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::573254228",
+      "Source": "Spawn Offset",
+      "Trans": {"SC":"生成偏移","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3242478545",
+      "Source": "Min",
+      "Trans": {"SC":"最小值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1741903911",
+      "Source": "Max",
+      "Trans": {"SC":"最大值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3837753135",
+      "Source": "Lvl Offset",
+      "Trans": {"SC":"等级偏移","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2699066882",
+      "Source": "Lvl Multiplier",
+      "Trans": {"SC":"等级倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::914035053",
+      "Source": "Dino Class",
+      "Trans": {"SC":"恐龙类","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2819970004",
+      "Source": "Max Percentage Of Desired Num to Allow",
+      "Trans": {"SC":"允许目标数量最大占比","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1343923280",
+      "Source": "Max Desired Num Enemies Multiplier",
+      "Trans": {"SC":"敌人目标最大数量倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2098943965",
+      "Source": "Add Spawn Limit",
+      "Trans": {"SC":"添加生成限制","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::142008877",
+      "Source": "Enter a Language Code to override all AAT text localization.\\n\\nCurrently supported languages:\\nEnglish (en) - Full\\nChinese (zh) - Partial\\n\\n\\n\\nJoin the Awesome ARK Tools Discord if you would like to help expand localization support: https://discord.gg/MmN7QKrDjq",
+      "Trans": {"SC":"输入语言代码以覆盖全部 AAT 文本本地化.\\n\\n当前支持语言：\\nEnglish (en) - Full\\n中文 (zh) - 部分支持\\n\\n\\n\\n如果你愿意协助扩充本地化翻译支持，请加入 Awesome ARK Tools Discord: https://discord.gg/MmN7QKrDjq","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3704418544",
+      "Source": "Title",
+      "Trans": {"SC":"标题","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1210785431",
+      "Source": "Bottom RIght Corner",//这个生效，作者打错大小写字母
+      "Trans": {"SC":"右下角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "B8A40039403B4D652775B498D6E0597C",
+      "Source": "EditableText",
+      "Trans": {"SC":"可编辑文本","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4119305201"}
+    },
+    {
+      "NamespaceHash": "Content::2611830809",
+      "Source": "Close Without Saving",
+      "Trans": {"SC":"不保存关闭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::262971537",
+      "Source": "Search By Tribe Name Or ID",
+      "Trans": {"SC":"按部落名称或 ID 搜索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3758714265",
+      "Source": "Search By Coords",
+      "Trans": {"SC":"按坐标搜索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3017152661",
+      "Source": "Search By Dino Name Or ID",
+      "Trans": {"SC":"按恐龙名称或 ID 搜索","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3752897276",
+      "Source": "Leveled",
+      "Trans": {"SC":"升级加点","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3358479470",
+      "Source": "User Preferences apply only to you and do not affect the server.",
+      "Trans": {"SC":"用户偏好设置仅对自身生效，不会对服务器产生任何影响。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3953100235",
+      "Source": "If you type the correct admin password of the current server, you will be automatically logged in as admin on server join.",
+      "Trans": {"SC":"如果你输入当前服务器正确的管理员密码，加入服务器时将自动登录为管理员。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3123570103",
+      "Source": "Select which tabs are visible from the AATMenu sidebar. Admin only tab will only appear while you are logged in as admin.",
+      "Trans": {"SC":"选择 AAT 菜单侧边栏哪些标签页可见。仅管理员标签页只会在你以管理员身份登录时显示。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3825485089",
+      "Source": "Can non-admins see anything useful in the AATMenu or not?\\n\\nPlayers：Admin Only\\nTribes：Admin Only\\nWild Dinos：Admin Only",
+      "Trans": {"SC":"非管理员是否可以在 AAT 菜单看到可用内容？\\n\\n 玩家：仅管理员 \\n 部落：仅管理员 \\n 野生恐龙：仅管理员","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::440799848",
+      "Source": "Prevent non-admins from scanning the blacklisted types.\\n\\n\\nOff: Only admins can see the type.\\n\\nOn: Everyone can see the type.",
+      "Trans": {"SC":"阻止非管理员扫描黑名单内的类型。\\n\\n\\n 关闭：仅管理员可以查看该类型。\\n\\n 开启：所有人都可以查看该类型。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2410801702",
+      "Source": "A Server Discord button will appear in the pause menu.",
+      "Trans": {"SC":"暂停菜单中将显示服务器 Discord 按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2622802966",
+      "Source": "Renames the Server Discord button to a custom name.",
+      "Trans": {"SC":"将服务器 Discord 按钮重命名为自定义名称。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1202257742",
+      "Source": "All logs about player connections will get sent to this webhook.\\nLogs include player joined, player left and player died.",
+      "Trans": {"SC":"所有玩家连接相关日志会发送至该 Webhook。\\n 日志包含玩家加入、玩家离开、玩家死亡事件。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2577443786",
+      "Source": "Removes the mod logo panel in the Pause Menu.",
+      "Trans": {"SC":"移除暂停菜单内的模组 LOGO 面板。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::695527993",
+      "Source": "A comma-seperated list of EoslDs of players.\\nIf not empty, only players from this list will be able to join the server. (Others can still join the server but will be kicked on join.)\\n\\n\\n\\n[AwesomeAdminTools]\\nPlayerWhitelist=w8u7gbls9gtggks5gls, w7g8bs55h7d1fbd,e7g9b1s7f9gv1",
+      "Trans": {"SC":"使用逗号分隔的玩家 EOSID 列表。\\n 不为空时，只有列表内玩家可以正常留存服务器。（其他玩家仍可连接服务器，但加入后会被踢出）\\n\\n\\n\\n [AwesomeAdminTools]\\nPlayerWhitelist=w8u7gbls9gtggks5gls, w7g8bs55h7d1fbd,e7g9b1s7f9gv1","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2230824710",
+      "Source": "Hides the AATMenu button from the inventory for non admins.\\n\\nTHIS DOES NOT MAKE IT ADMIN ONLY\\n\\nSet all individual tabs to admin only for true admin only.\\n\\n\\nOff:Everone can see the AATMenu button in the inventory.\\n\\nOn：Only admins can see the AATMenu button in the inventory.",
+      "Trans": {"SC":"对非管理员隐藏物品栏内的 AAT 菜单按钮。\\n\\n该选项不会将菜单设置为仅管理员可用\\n\\n 需要把各个标签页单独设为仅管理员，才能实现真正权限限制。\\n\\n 关闭：所有人都可以在物品栏看见 AAT 菜单按钮。\\n\\n 开启：只有管理员可以在物品栏看见 AAT 菜单按钮。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1826586648",
+      "Source": "Vulnerability: AATMenu is admin only but the (some) overview tabs are not set to admin only.",
+      "Trans": {"SC":"漏洞：AAT 菜单设置为仅管理员可用，但部分总览标签页并未设置为仅管理员权限。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3749495027",
+      "Source": "(PARTIALLY) PUBLIC",
+      "Trans": {"SC":"（部分）公开","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3566207069",
+      "Source": "A comma-seperated list of EoslDs of players.\\nIf not empty，only players from this list will be able to join the server.(Others can still join the server but will be kicked on join.)\\n\\n\\n[AwesomeAdminTools]\\nPlayerWhitelist=w8u7gbls9gtggks5gls，w7g8bs55h7d1fbd，e7g9b1s7f9gv1",
+      "Trans": { "SC": "使用逗号分隔的玩家 EOSID 列表。\\n 不为空时，只有列表内玩家可以正常留存服务器。（其他玩家仍可连接服务器，但加入后会被踢出）\\n\\n\\n [AwesomeAdminTools]\\nPlayerWhitelist=w8u7gbls9gtggks5gls, w7g8bs55h7d1fbd,e7g9b1s7f9gv1", "JA": "" },
+      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1267361510",
+      "Source": "Changes the location of all savegames of Awesome ARK Tools.\\nREQUIRED when multiple servers target the same savegames directory.\\n\\nMANUALLY MOVE ALL FILES TO THE NEW LOCATION.\\n\\n\\nLocation if empty：shootergame/saved/savegames/awesomeadmintools/\\n\\nLocation if not empty (server3)：shootergame/saved/savegames/awesomeadmintools/server3/",
+      "Trans": {"SC":"修改 Awesome ARK Tools 全部存档文件存放路径。\\n 多台服务器共用同一个存档目录时**必须配置此项**。\\n\\n 需要手动将全部文件移动至新路径。\\n\\n\\n 留空时路径：shootergame/saved/savegames/awesomeadmintools/\\n\\n 填写内容示例 (server3) 路径：shootergame/saved/savegames/awesomeadmintools/server3/","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1718446767",
+      "Source": "Set Command",
+      "Trans": {"SC":"设置指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1524871734",
+      "Source": "Is Client Side Command",
+      "Trans": {"SC":"是否为客户端指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2322216289",
+      "Source": "New Quick Command",
+      "Trans": {"SC":"新建快捷指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4217019108",
+      "Source": "Quick Commands",
+      "Trans": {"SC":"快捷指令","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1261071472",
+      "Source": "Can non-admins see anything useful in the AATMenu or not?\\n\\nPlayers：Public\\nTribes：PublicPublic\\nWild Dinos：Public",
+      "Trans": {"SC":"非管理员是否可以在 AAT 菜单看到可用内容？\\\\n\\\\n 玩家：公开 \\\\n 部落：公开 \\\\n 野生恐龙：公开","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1057807057",
+      "Source": "DEACTIVATED",
+      "Trans": {"SC":"已停用","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3995402876",
+      "Source": "ACTIVATED",
+      "Trans": {"SC":"已激活","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1082891220",
+      "Source": "HEIGHT",
+      "Trans": {"SC":"高度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1760035078",
+      "Source": "Spectate Player",
+      "Trans": {"SC":"旁观玩家","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3973930061",
+      "Source": "Quick Teleports",
+      "Trans": {"SC":"快速传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1506728939",
+      "Source": "No Quick Teleports",
+      "Trans": {"SC":"无快速传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::680833070",
+      "Source": "New Quick Teleport",
+      "Trans": {"SC":"新建快速传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4024723096",
+      "Source": "LAT",
+      "Trans": {"SC":"纬度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3318399825",
+      "Source": "LON",
+      "Trans": {"SC":"经度","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3429143675",
+      "Source": "New",
+      "Trans": {"SC":"新建","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1380248082",
+      "Source": "Instant Teleport",
+      "Trans": {"SC":"瞬间传送","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::245735639",
+      "Source": "Spectator mode",
+      "Trans": {"SC":"观察者模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "92C4DC9F4323084CFE7978848F7FB191",
+      "Source": "Male",
+      "Trans": {"SC":"公","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4089736532"}
+    },
+    {
+      "NamespaceHash": "C63D2A294258F843644889BCD2E9D414",
+      "Source": "Female",
+      "Trans": {"SC":"母","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"971907003"}
+    },
+    {
+      "NamespaceHash": "81571CFF4268A8D1FF27C98FA5E36B8F",
+      "Source": "AdminToolSettings",
+      "Trans": {"SC":"管理员工具设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2879527966"}
+    },
+    {
+      "NamespaceHash": "802C203A4B467FAE33399F9FB2E6B3EC",
+      "Source": "UserPreferences",
+      "Trans": {"SC":"用户首选项","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"651186789"}
+    },
+    {
+      "NamespaceHash": "7390AA5E41B597D5A5F65C820E8F6CBE",
+      "Source": "ModConfiguration",
+      "Trans": {"SC":"模组配置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2063215466"}
+    },
+    {
+      "NamespaceHash": "351EEA6B451EA7144EF29CBBB8B26547",
+      "Source": "Credentials",
+      "Trans": {"SC":"凭证","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"654289766"}
+    },
+    {
+      "NamespaceHash": "88CFF6B64A074DA7461A1694C95BC115",
+      "Source": "CustomPages",
+      "Trans": {"SC":"自定义页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1756398164"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1948376327",
+      "Source": "OPEN PLAYERS LIST",
+      "Trans": {"SC":"打开玩家列表","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1079452489",
+      "Source": "STOP SPECTATING",
+      "Trans": {"SC":"停止观察者模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3572106730",
+      "Source": "Start Spectator Mode",
+      "Trans": {"SC":"开启观察者模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2430899496",
+      "Source": "Keybind to start spectating.",
+      "Trans": {"SC":"开启观察者模式的按键绑定","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "Mysterious: Geno Pack": [
+  "Mysterious: Geno Pack": [//2026.9.10
     {
       "NamespaceHash": "Content::1117721575",
       "Source": "Genoraptor",
@@ -461,6 +461,48 @@
       "Source": "Toggle Keybind Help UI",
       "Trans": {"SC":"切换按键提示界面","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "Content::3328682484",
+      "Source": "Scorched Genotyrant",
+      "Trans": {"SC":"焦土基因暴君","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1859654463",
+      "Source": "Tek Genoraptor",
+      "Trans": {"SC":"泰克基因迅猛龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2082121538",
+      "Source": "Aberrant Genotyrant",
+      "Trans": {"SC":"畸变基因暴君","JA":"畸變基因暴君"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3923550835",
+      "Source": "Artificial Tek Genoraptor Egg",
+      "Trans": {"SC":"人工泰克基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1397278565",
+      "Source": "Fertilized Tek Genoraptor Egg",
+      "Trans": {"SC":"受精的泰克基因迅猛龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4008987019",
+      "Source": "Fertilized Aberrant Genotyrant  Egg",
+      "Trans": {"SC":"受精的畸变基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3840974175",
+      "Source": "Fertilized Scorched Genotyrant  Egg",
+      "Trans": {"SC":"受精的焦土基因暴君蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     }
   ]
 }

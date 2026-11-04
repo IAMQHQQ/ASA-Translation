@@ -1419,6 +1419,72 @@
       "Source": "Sneeze",
       "Trans": {"SC":"打喷嚏","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2207497359",
+      "Source": "Paleo Evotherizinosaurus",
+      "Trans": {"SC":"远古EVO镰刀龙","JA":"遠古EVO鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1927637449",
+      "Source": "Bronto Saddle Canopy (Large)",
+      "Trans": {"SC":"雷龙鞍遮阳棚(大型)","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2686778304",
+      "Source": "Bronto Saddle Canopy (Medium)",
+      "Trans": {"SC":"雷龙鞍遮阳棚(中型)","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2627671455",
+      "Source": "Bronto Saddle Canopy (Small)",
+      "Trans": {"SC":"雷龙鞍遮阳棚(小型)","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::565025543",
+      "Source": "Evotherizinosaurus",
+      "Trans": {"SC":"EVO镰刀龙","JA":"EVO鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3632348396",
+      "Source": "Revenant Evotherizinosaurus",
+      "Trans": {"SC":"怨灵EVO镰刀龙","JA":"怨灵EVO鐮刀龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1263767607",
+      "Source": "EVO Bronto Saddle Canopy",
+      "Trans": {"SC":"EVO雷龙鞍遮阳棚","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1616564619",
+      "Source": "The canopy from an EVO Bronto saddle. Use it to spruce up your base!",
+      "Trans": {"SC":"EVO雷龙鞍的顶棚。用它来装点你的基地！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "9BB123A64BD5843854B653AC998FD16B",
+      "Source": "Bellow",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"347113836"}
+    },
+    {
+      "NamespaceHash": "A1C2041F41C2B308BB8E0A869DD389AD",
+      "Source": "Sit",
+      "Trans": {"SC":"坐下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"466207432"}
+    },
+    {
+      "NamespaceHash": "C2CB547D42A955D4C59B6AB9E3DC05F3",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"切换按键提示页面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
     }
   ],
   "帝王龙.巨雷龙": [
