@@ -1,5 +1,266 @@
 {
   "Official": [
+    
+    {
+      "NamespaceHash": "Content::1710291044",
+      "Source": "Tidepup Ghost",
+      "Trans": { "SC": "幽灵潮佑螈", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::3626192161",
+      "Source": "Bloodstalker Ghost",
+      "Trans": { "SC": "幽灵血蛛", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::207720944",
+      "Source": "Gargantar Ghost",
+      "Trans": { "SC": "幽灵吞岳龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::4277680835",
+      "Source": "Burrowbuck Ghost",
+      "Trans": { "SC": "幽灵穴角兔", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::56376236",
+      "Source": "Therizinosaurus Ghost",
+      "Trans": { "SC": "幽灵镰刀龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::1741889432",
+      "Source": "Megaraptor Ghost",
+      "Trans": { "SC": "幽灵大盗龙", "JA": "" },
+      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+    },
+    {
+      "NamespaceHash": "Content::252011217",
+      "Source": "Ectoplasm (Tidepup)",
+      "Trans": {"SC":"灵质 (潮佑螈)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3530005692",
+      "Source": "Ectoplasm (Bloodstalker)",
+      "Trans": {"SC":"灵质 (血蛛)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1699521126",
+      "Source": "Ectoplasm (Gargantar)",
+      "Trans": {"SC":"灵质 (吞岳龙)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3969549293",
+      "Source": "Ectoplasm (Burrowbuck)",
+      "Trans": {"SC":"灵质 (穴角兔)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1365773616",
+      "Source": "Ectoplasm (Therizinosaurus)",
+      "Trans": {"SC":"灵质 (镰刀龙)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3773321953",
+      "Source": "Ectoplasm (Megaraptor)",
+      "Trans": {"SC":"灵质 (大盗龙)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::208100646",
+      "Source": "A paranormal substance dropped from a ghostly Tidepup.",
+      "Trans": {"SC":"一种从幽灵潮佑螈身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4228058482",
+      "Source": "A paranormal substance dropped from a ghostly Bloodstalker.",
+      "Trans": {"SC":"一种从幽灵血蛛身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::622489401",
+      "Source": "A paranormal substance dropped from a ghostly Gargantar.",
+      "Trans": {"SC":"一种从幽灵吞岳龙身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3953923048",
+      "Source": "A paranormal substance dropped from a ghostly Burrowbuck.",
+      "Trans": {"SC":"一种从幽灵穴角兔身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::41227613",
+      "Source": "A paranormal substance dropped from a ghostly Therizinosaurus.",
+      "Trans": {"SC":"一种从幽灵镰刀龙身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3890135780",
+      "Source": "A paranormal substance dropped from a ghostly Megaraptor.",
+      "Trans": {"SC":"一种从幽灵大盗龙身上掉落的超自然物质。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::331924423",
+      "Source": "Collect Treasure Map",
+      "Trans": {"SC":"收集藏宝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2862436502",
+      "Source": "Chibi-X-Seeker (Flying)",
+      "Trans": {"SC":"袖珍-X-追寻者 (飞行)","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2874717746", //TLC GIGA
+      "Source": "Fight to regain control!",
+      "Trans": {"SC":"争取夺回掌控权!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1864835403", //BUFFNAME
+      "Source": "Wounded Fury",
+      "Trans": {"SC":"负伤之怒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::430968029", //BUFFNAME
+      "Source": "Wounded Fury (Ally)",
+      "Trans": {"SC":"负伤之怒 (友军)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3292605363", //TLC GIGA
+      "Source": " Wounded Fury Display",
+      "Trans": {"SC":" 负伤之怒显示","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3100046365", //TLC GIGA
+      "Source": "Strength increases as ",
+      "Trans": {"SC":"力量会随着 ","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2327012473", //TLC GIGA
+      "Source": " loses health.",
+      "Trans": {"SC":" 血量过低时爆发得更加强大。","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::93284996", //TLC GIGA
+      "Source": "Currently Receiving: ",
+      "Trans": {"SC":"当前获得: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "9E40CCB54014E7C8CB9ED891689CA3AF", //TLC GIGA
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3062973045",
+      "Source": "Heavy Stomp",
+      "Trans": {"SC":"重踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //730C09E44C05E8CE031CCB86D74BDAF7 //TLC GIGA
+    },
+    {
+      "NamespaceHash": "GraphLiteral::162446308",
+      "Source": "Tail Slam",
+      "Trans": {"SC":"尾部猛砸","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //33B6994E4DF68414026EAC90161D40C9 //TLC GIGA
+    },
+    {
+      "NamespaceHash": "Content::3702768662",
+      "Source": "(Aim Forward) {Targeting}",
+      "Trans": {"SC":"(向前瞄准) {Targeting}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3460877388",
+      "Source": "(Aim Backward) {Targeting}",
+      "Trans": {"SC":"(向后瞄准) {Targeting}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3154296713",
+      "Source": "Increased damage and reduced damage taken when a lone Dreadnoughtus is around powerful creatures",
+      "Trans": {"SC":"当附近存在强大生物, 且没有其他无畏巨龙时, 无畏巨龙造成的伤害提高, 受到的伤害降低。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3386493628",
+      "Source": "Apex Offering",
+      "Trans": {"SC":"巅峰贡品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2273068180",
+      "Source": "An offering assembled from the trophies of powerful Alpha creatures. Carry it near a wild Giganotosaurus to initiate an Apex Challenge.",
+      "Trans": {"SC":"由强大精英生物的战利品组合而成的贡品。携带它靠近野生南方巨兽龙, 即可发起巅峰挑战。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2391644990",
+      "Source": "Lost Colony Seats",
+      "Trans": {"SC":"失落之地座椅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3567202684",
+      "Source": "Lost Colony Sign",
+      "Trans": {"SC":"失落之地告示牌","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1257264201", //BUFFNAME
+      "Source": "Hades Flames",
+      "Trans": {"SC":"冥焰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1976340111", //BUFFNAME
+      "Source": "Suffocation",
+      "Trans": {"SC":"窒息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::662235340", //BUFFNAME
+      "Source": "Palaeoctopus's Grasp",
+      "Trans": {"SC":"古蛸抓握","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::214606667",
+      "Source": "MOD BROWSER",
+      "Trans": {"SC":"浏览模组界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3269975731",
+      "Source": "Force: ",
+      "Trans": {"SC":"功率: ","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::994933563",
+      "Source": "Mod ID",
+      "Trans": {"SC":"模组ID","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::877338054", //Gen1Msn
       "Source": "Chained Megachelon",
@@ -153,19 +414,19 @@
     {
       "NamespaceHash": "Content::3710952621", //buffname
       "Source": "Cerberax Burn",
-      "Trans": {"SC":"三相狱犬灼烧","JA":"三相獄犬灼燒"},
+      "Trans": {"SC":"三相狱犬灼烧","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4176681895", //buffname
       "Source": "Cerberax Dominion",
-      "Trans": {"SC":"三相狱犬统御","JA":"三相獄犬統御"},
+      "Trans": {"SC":"三相狱犬统御","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::602440253", //buffname
       "Source": "Cerberax Venom",
-      "Trans": {"SC":"三相狱犬毒液","JA":"三相獄犬毒液"},
+      "Trans": {"SC":"三相狱犬毒液","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -267,7 +528,7 @@
     {
       "NamespaceHash": "Content::3987835968", //buffname
       "Source": "Infernal Empowerment",
-      "Trans": {"SC":"炼狱强化","JA":"煉獄强化"},
+      "Trans": {"SC":"炼狱强化","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -506,7 +767,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3096529390",
+      "NamespaceHash": "Content::3096529390",
       "Source": "Gargantar",
       "Trans": {"SC":"吞岳龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
@@ -562,7 +823,7 @@
     {
       "NamespaceHash": "Content::504498961",
       "Source": "Gargantar Dossier",
-      "Trans": {"SC":"吞岳龙图鉴","JA":"吞岳龙圖鑒"},
+      "Trans": {"SC":"吞岳龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -832,7 +1093,7 @@
     {
       "NamespaceHash": "Content::80632612", //buffname
       "Source": "Flameproof Fur",
-      "Trans": {"SC":"耐火防护","JA":"耐火防護"},
+      "Trans": {"SC":"耐火防护","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1204,7 +1465,7 @@
     {
       "NamespaceHash": "Content::3749445839", //buffname
       "Source": "Windshield",
-      "Trans": {"SC":"挡风防护","JA":"擋风防護"},
+      "Trans": {"SC":"挡风防护","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1856,7 +2117,7 @@
     //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     //},
     {
-      "NamespaceHash": "Globals::4259966480",
+      "NamespaceHash": "Globals::4259966480", //不可被驯服的龙
       "Source": "Feral ",
       "Trans": {"SC":"野化 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -1984,13 +2245,13 @@
     {
       "NamespaceHash": "Content::2465913845",
       "Source": "Aberrant Concavenator",
-      "Trans": {"SC":"畸变昆卡猎龙","JA":"畸變昆卡獵龙"},
+      "Trans": {"SC":"畸变昆卡猎龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4171003745",
       "Source": "Concavenator",
-      "Trans": {"SC":"昆卡猎龙","JA":"昆卡獵龙"},
+      "Trans": {"SC":"昆卡猎龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -2044,7 +2305,7 @@
     {
       "NamespaceHash": "Content::2497818745",
       "Source": "Concavenator Dossier",
-      "Trans": {"SC":"昆卡猎龙图鉴","JA":"昆卡猎龙圖鑒"},
+      "Trans": {"SC":"昆卡猎龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2104,7 +2365,7 @@
     {
       "NamespaceHash": "Content::916694487",
       "Source": "Eclipsar Synergy", //buffname
-      "Trans": {"SC":"幽皎共鸣","JA":"幽皎共鳴"},
+      "Trans": {"SC":"幽皎共鸣","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2117,6 +2378,12 @@
       "NamespaceHash": "GraphLiteral::3823894590",
       "Source": " Resistance",
       "Trans": {"SC":" 抗性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3864804050",
+      "Source": " Damage",
+      "Trans": {"SC":" 伤害","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2224,7 +2491,7 @@
     {
       "NamespaceHash": "GraphLiteral::2018982249",
       "Source": "Don't panic... Ol' HLN-A's got ya. One sec!",
-      "Trans": {"SC":"别慌...有我在呢, 稍等一下!","JA":" "},
+      "Trans": {"SC":"别慌...有我在呢, 稍等一下!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2344,7 +2611,7 @@
     {
       "NamespaceHash": "Content::2789120015",
       "Source": "Astrocetus Turret Ammo",
-      "Trans": {"SC":"星辰鲸炮塔弹药","JA":"星辰鯨炮塔彈藥"},
+      "Trans": {"SC":"星辰鲸炮塔弹药","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2548,7 +2815,7 @@
     {
       "NamespaceHash": "Content::4030699479",
       "Source": "Regenerative Buffer",
-      "Trans": {"SC":"再生缓冲","JA":"再生緩冲"},
+      "Trans": {"SC":"再生缓冲","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3245,7 +3512,7 @@
     {
       "NamespaceHash": "Content::1184948447",
       "Source": "Not bonded Dragon",
-      "Trans": {"SC":"未缔结契约的龙族","JA":"未締結契約的龙族"},
+      "Trans": {"SC":"未缔结契约的龙族","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4421,7 +4688,7 @@
     {
       "NamespaceHash": "Content::2939101451",
       "Source": "Treasure Hunter",
-      "Trans": {"SC":"寻宝猎人","JA":"尋宝獵人"},
+      "Trans": {"SC":"寻宝猎人","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5231,25 +5498,25 @@
     {
       "NamespaceHash": "Content::842825496",
       "Source": "X-Cryolophosaurus",
-      "Trans": {"SC":"X-冰嵴龙","JA":"X-冰脊龙"},
+      "Trans": {"SC":"X-冰嵴龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1539211461",
       "Source": "X-Deinosuchus",
-      "Trans": {"SC":"X-恐鳄","JA":"X-恐鱷"},
+      "Trans": {"SC":"X-恐鳄","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::350972437",
       "Source": "X-Helicoprion",
-      "Trans": {"SC":"X-旋齿鲨","JA":"X-旋齿鯊"},
+      "Trans": {"SC":"X-旋齿鲨","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1484998422",
       "Source": "X-Xiphactinus",
-      "Trans": {"SC":"X-剑射鱼","JA":"X-劍射鱼"},
+      "Trans": {"SC":"X-剑射鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -6521,7 +6788,7 @@
     {
       "NamespaceHash": "Content::2141424953",
       "Source": "Palaeoctopus Dossier",
-      "Trans": {"SC":"古蛸图鉴","JA":"古蛸圖鑒"},
+      "Trans": {"SC":"古蛸图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7181,13 +7448,13 @@
     {
       "NamespaceHash": "Content::3924715766",
       "Source": "Tidepup Dossier",
-      "Trans": {"SC":"潮佑螈图鉴","JA":"潮佑螈圖鑒"},
+      "Trans": {"SC":"潮佑螈图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2908755916",
       "Source": "Tidepup's hunger", //我不理解
-      "Trans": {"SC":"潮佑螈疗愈消耗","JA":"潮佑螈療愈消耗"},
+      "Trans": {"SC":"潮佑螈疗愈消耗","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7605,9 +7872,9 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3364339961",
+      "NamespaceHash": "Globals::3364339961",
       "Source": "你好，我叫HLN-A，是一种分形人格。我将全程引导你。听我的话，兴许能让你好好活着——因为我也是新手。", //?
-      "Trans": {"SC":"你好, 我叫HLN-A, 是一种分形人格。我将全程引导你。听我的话, 兴许能让你好好活着——因为我也是新手。","JA":""},
+      "Trans": {"SC":"你好, 我叫HLN-A, 是一种分形人格。我将全程引导你。听我的话, 兴许能让你好好活着 —— 因为我也是新手。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7673,7 +7940,7 @@
     {
       "NamespaceHash": "Content::3442772030",
       "Source": "Parrot",
-      "Trans": {"SC":"鹦鹉","JA":"鸚鵡"},
+      "Trans": {"SC":"鹦鹉","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -7697,13 +7964,13 @@
     {
       "NamespaceHash": "Content::1606081716",
       "Source": "Parrot Taming Cooldown",
-      "Trans": {"SC":"鹦鹉驯服冷却","JA":"鸚鵡馴服冷却"},
+      "Trans": {"SC":"鹦鹉驯服冷却","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::940797081",
       "Source": "Parrot Taming",
-      "Trans": {"SC":"鹦鹉驯服","JA":"鸚鵡馴服"},
+      "Trans": {"SC":"鹦鹉驯服","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9250,7 +9517,7 @@
     {
       "NamespaceHash": "Content::3966097884",
       "Source": "Blinded Camouflage", //buffname
-      "Trans": {"SC":"致盲伪装","JA":"致盲偽装"},
+      "Trans": {"SC":"致盲伪装","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9611,13 +9878,13 @@
     {
       "NamespaceHash": "Content::1541496319",
       "Source": "Cerberax", //Cerberus
-      "Trans": {"SC":"三相狱犬","JA":"三相獄犬"}, //原型:刻耳柏洛斯
+      "Trans": {"SC":"三相狱犬","JA":""}, //原型:刻耳柏洛斯
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1186908183",
       "Source": "Cerberax Dossier",
-      "Trans": {"SC":"三相狱犬图鉴","JA":"三相狱犬圖鑒"},
+      "Trans": {"SC":"三相狱犬图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9635,13 +9902,13 @@
     {
       "NamespaceHash": "Content::2859169420",
       "Source": "Enigmasaur", //Enigma; saur
-      "Trans": {"SC":"幻隐龙","JA":"幻隱龙"},
+      "Trans": {"SC":"幻隐龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1736217661",
       "Source": "Enigmasaur Dossier",
-      "Trans": {"SC":"幻隐龙图鉴","JA":"幻隐龙圖鑒"},
+      "Trans": {"SC":"幻隐龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9773,7 +10040,7 @@
     {
       "NamespaceHash": "Content::4099231094",
       "Source": "Dirt Camouflage",
-      "Trans": {"SC":"尘土伪装","JA":"塵土偽装"},
+      "Trans": {"SC":"尘土伪装","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -11568,31 +11835,31 @@
     {
       "NamespaceHash": "Content::1476016960",
       "Source": "Skeleton Warden",
-      "Trans": {"SC":"骷髅守卫长","JA":"骷髏守衛长"},
+      "Trans": {"SC":"骷髅守卫长","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1952907113",
       "Source": "Skeleton Snarer",
-      "Trans": {"SC":"骷髅擒拿兵","JA":"骷髏擒拿兵"},
+      "Trans": {"SC":"骷髅擒拿兵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2556626096",
       "Source": "Skeleton Piercer",
-      "Trans": {"SC":"骷髅弩手","JA":"骷髏弩手"},
+      "Trans": {"SC":"骷髅弩手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2152331883", //目前多的预计后续会出
       "Source": "Skeleton Archer",
-      "Trans": {"SC":"骷髅弓手","JA":"骷髏弓手"},
+      "Trans": {"SC":"骷髅弓手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3913920783",
       "Source": "Rhyniognatha Drone",
-      "Trans": {"SC":"莱尼颚虫子体","JA":"莱尼顎虫子体"},
+      "Trans": {"SC":"莱尼颚虫子体","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -11604,19 +11871,19 @@
     {
       "NamespaceHash": "Content::2394229044",
       "Source": "Shark",
-      "Trans": {"SC":"鲨鱼","JA":"鯊鱼"},
+      "Trans": {"SC":"鲨鱼","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3766029119",
       "Source": "Hydraskos the Unbroken (Gamma)",
-      "Trans": {"SC":"海德拉科斯 (简单)","JA":"海德拉科斯 (簡單)"},
+      "Trans": {"SC":"海德拉科斯 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2766899524",
       "Source": "Hydraskos the Unbroken  (Alpha)",
-      "Trans": {"SC":"海德拉科斯 (困难)","JA":"海德拉科斯 (困難)"},
+      "Trans": {"SC":"海德拉科斯 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -11628,7 +11895,7 @@
     {
       "NamespaceHash": "Content::935951294",
       "Source": "Abyssalus the Void Beneath (Gamma)",
-      "Trans": {"SC":"下界北海巨妖 (简单)","JA":"下界北海巨妖 (簡單)"},
+      "Trans": {"SC":"下界北海巨妖 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -11646,7 +11913,7 @@
     {
       "NamespaceHash": "Content::251600000",
       "Source": "Abyssalus the Void Beneath Tentacle",
-      "Trans": {"SC":"下界北海巨妖触手","JA":"下界北海巨妖 (困難)"},
+      "Trans": {"SC":"下界北海巨妖触手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -12229,7 +12496,7 @@
     {
       "NamespaceHash": "Content::3939254804",
       "Source": "Grand Tortugar Dossier",
-      "Trans": {"SC":"巨甲龟图鉴","JA":"巨甲龟圖鑒"},
+      "Trans": {"SC":"巨甲龟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -12541,7 +12808,7 @@
     {
       "NamespaceHash": "Content::3023297480", //buffname
       "Source": "Solwyn Generosity",
-      "Trans": {"SC":"霄光狐的馈赠","JA":"霄光狐的饋贈"},
+      "Trans": {"SC":"霄光狐的馈赠","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -17675,7 +17942,7 @@
     {
       "NamespaceHash": "Content::2124283545",
       "Source": "Taming Aureliax", //buffname
-      "Trans": {"SC":"驯服寒辉雪龙","JA":"馴服寒輝雪龙"},
+      "Trans": {"SC":"驯服寒辉雪龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -18057,7 +18324,7 @@
     {
       "NamespaceHash": "Content::963851472",
       "Source": "Marked for Death", //buffname
-      "Trans": {"SC":"死亡标记","JA":"死亡標記"},
+      "Trans": {"SC":"死亡标记","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Missions\Bossfight\Modules\Fights\LostQueen\Attacks\ThrowScythe\Buff_ScytheTarget
     },
@@ -19028,7 +19295,7 @@
     {
       "NamespaceHash": "Content::1319118831",
       "Source": "Execution Success", //buffname
-      "Trans": {"SC":"处决成功","JA":"處决成功"},
+      "Trans": {"SC":"处决成功","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dinos\BossBat\Attacks\TailExecutionStrike\Buff_ExecutionSucess
     },
@@ -19071,7 +19338,7 @@
     {
       "NamespaceHash": "Content::350962353",
       "Source": "DANGER!", //buffname
-      "Trans": {"SC":"危险!","JA":"危險!"},
+      "Trans": {"SC":"危险!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Missions\Bossfight\Modules\Fights\LostQueen\Barrier\Buff_PlayerBarrierLC
     },
@@ -21334,7 +21601,7 @@
     {
       "NamespaceHash": "Content::3943186490",
       "Source": "Lost Queen Defeat",
-      "Trans": {"SC":"失落王后战败","JA":"失落王后戰敗"},
+      "Trans": {"SC":"失落王后战败","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -21352,193 +21619,193 @@
     {
       "NamespaceHash": "Content::901274756",
       "Source": "Rockwell Note #1",
-      "Trans": {"SC":"罗克韦尔笔记 #1","JA":"羅克韦尔笔記 #1"},
+      "Trans": {"SC":"罗克韦尔笔记 #1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::655225706",
       "Source": "Rockwell Note #2",
-      "Trans": {"SC":"罗克韦尔笔记 #2","JA":"羅克韦尔笔記 #2"},
+      "Trans": {"SC":"罗克韦尔笔记 #2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2679215119",
       "Source": "Rockwell Note #3",
-      "Trans": {"SC":"罗克韦尔笔记 #3","JA":"羅克韦尔笔記 #3"},
+      "Trans": {"SC":"罗克韦尔笔记 #3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::40283318",
       "Source": "Rockwell Note #4",
-      "Trans": {"SC":"罗克韦尔笔记 #4","JA":"羅克韦尔笔記 #4"},
+      "Trans": {"SC":"罗克韦尔笔记 #4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3134901203",
       "Source": "Rockwell Note #5",
-      "Trans": {"SC":"罗克韦尔笔记 #5","JA":"羅克韦尔笔記 #5"},
+      "Trans": {"SC":"罗克韦尔笔记 #5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2825872445",
       "Source": "Rockwell Note #6",
-      "Trans": {"SC":"罗克韦尔笔记 #6","JA":"羅克韦尔笔記 #6"},
+      "Trans": {"SC":"罗克韦尔笔记 #6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::282264408",
       "Source": "Rockwell Note #7",
-      "Trans": {"SC":"罗克韦尔笔记 #7","JA":"羅克韦尔笔記 #7"},
+      "Trans": {"SC":"罗克韦尔笔记 #7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1219498766",
       "Source": "Rockwell Note #8",
-      "Trans": {"SC":"罗克韦尔笔记 #8","JA":"羅克韦尔笔記 #8"},
+      "Trans": {"SC":"罗克韦尔笔记 #8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4027348075",
       "Source": "Rockwell Note #9",
-      "Trans": {"SC":"罗克韦尔笔记 #9","JA":"羅克韦尔笔記 #9"},
+      "Trans": {"SC":"罗克韦尔笔记 #9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2891788694",
       "Source": "Rockwell Note #10",
-      "Trans": {"SC":"罗克韦尔笔记 #10","JA":"羅克韦尔笔記 #10"},
+      "Trans": {"SC":"罗克韦尔笔记 #10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1854290508",
       "Source": "Aureliax Dossier",
-      "Trans": {"SC":"寒辉雪龙图鉴","JA":"寒辉雪龙圖鑒"},
+      "Trans": {"SC":"寒辉雪龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2671116382",
       "Source": "Cryolophosaurus Dossier",
-      "Trans": {"SC":"冰嵴龙图鉴","JA":"冰嵴龙圖鑒"},
+      "Trans": {"SC":"冰嵴龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1030154096",
       "Source": "Gigadesmodus Dossier",
-      "Trans": {"SC":"巨翼魔蝠图鉴","JA":"巨翼魔蝠圖鑒"},
+      "Trans": {"SC":"巨翼魔蝠图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::326110322",
       "Source": "Gloon Dossier",
-      "Trans": {"SC":"咕隆图鉴","JA":"咕隆圖鑒"},
+      "Trans": {"SC":"咕隆图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2632585829",
       "Source": "Malwyn Dossier",
-      "Trans": {"SC":"诡狱狐图鉴","JA":"诡狱狐圖鑒"},
+      "Trans": {"SC":"诡狱狐图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1749171611",
       "Source": "Solwyn Dossier",
-      "Trans": {"SC":"霄光狐图鉴","JA":"霄光狐圖鑒"},
+      "Trans": {"SC":"霄光狐图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1632247637",
       "Source": "Thrall Dossier",
-      "Trans": {"SC":"血仆图鉴","JA":"血仆圖鑒"},
+      "Trans": {"SC":"血仆图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2199939756",
       "Source": "Meiyin Archival Audio #001:  Diana",
-      "Trans": {"SC":"美盈档案音频 #001:  戴安娜","JA":"美盈档案音頻 #001:  戴安娜"},
+      "Trans": {"SC":"美盈档案音频 #001:  戴安娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3888124242",
       "Source": "Meiyin Archival Audio #002:  Diana",
-      "Trans": {"SC":"美盈档案音频 #002:  戴安娜","JA":"美盈档案音頻 #002:  戴安娜"},
+      "Trans": {"SC":"美盈档案音频 #002:  戴安娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1924187591",
       "Source": "Meiyin Archival Audio #003:  Diana",
-      "Trans": {"SC":"美盈档案音频 #003:  戴安娜","JA":"美盈档案音頻 #003:  戴安娜"},
+      "Trans": {"SC":"美盈档案音频 #003:  戴安娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::771810990",
       "Source": "Meiyin Archival Audio #004:  Diana",
-      "Trans": {"SC":"美盈档案音频 #004:  戴安娜","JA":"美盈档案音頻 #004:  戴安娜"},
+      "Trans": {"SC":"美盈档案音频 #004:  戴安娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3144692283",
       "Source": "Meiyin Archival Audio #005:  Diana",
-      "Trans": {"SC":"美盈档案音频 #005:  戴安娜","JA":"美盈档案音頻 #005:  戴安娜"},
+      "Trans": {"SC":"美盈档案音频 #005:  戴安娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::854509999",
       "Source": "Meiyin Archival Audio #006:  Helena",
-      "Trans": {"SC":"美盈档案音频 #006:  海莲娜","JA":"美盈档案音頻 #006:  海蓮娜"},
+      "Trans": {"SC":"美盈档案音频 #006:  海莲娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2645187560",
       "Source": "Meiyin Archival Audio #007:  Helena",
-      "Trans": {"SC":"美盈档案音频 #007:  海莲娜","JA":"美盈档案音頻 #007:  海蓮娜"},
+      "Trans": {"SC":"美盈档案音频 #007:  海莲娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::501492032",
       "Source": "Meiyin Archival Audio #008:  Helena",
-      "Trans": {"SC":"美盈档案音频 #008:  海莲娜","JA":"美盈档案音頻 #008:  海蓮娜"},
+      "Trans": {"SC":"美盈档案音频 #008:  海莲娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2996878087",
       "Source": "Meiyin Archival Audio #009:  Helena",
-      "Trans": {"SC":"美盈档案音频 #009:  海莲娜","JA":"美盈档案音頻 #009:  海蓮娜"},
+      "Trans": {"SC":"美盈档案音频 #009:  海莲娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1304400093",
       "Source": "Meiyin Archival Audio #010:  Helena",
-      "Trans": {"SC":"美盈档案音频 #010:  海莲娜","JA":"美盈档案音頻 #010:  海蓮娜"},
+      "Trans": {"SC":"美盈档案音频 #010:  海莲娜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2195901900",
       "Source": "Darius Archival Audio #001:  Rockwell",
-      "Trans": {"SC":"达瑞斯档案音频 #001:  罗克韦尔","JA":"达瑞斯档案音頻 #001:  羅克韦尔"},
+      "Trans": {"SC":"达瑞斯档案音频 #001:  罗克韦尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3291543720",
       "Source": "Darius Archival Audio #002:  Rockwell",
-      "Trans": {"SC":"达瑞斯档案音频 #002:  罗克韦尔","JA":"达瑞斯档案音頻 #002:  羅克韦尔"},
+      "Trans": {"SC":"达瑞斯档案音频 #002:  罗克韦尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4185986164",
       "Source": "Darius Archival Audio #003:  Rockwell",
-      "Trans": {"SC":"达瑞斯档案音频 #003:  罗克韦尔","JA":"达瑞斯档案音頻 #003:  羅克韦尔"},
+      "Trans": {"SC":"达瑞斯档案音频 #003:  罗克韦尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1234473568",
       "Source": "Darius Archival Audio #004:  Rockwell",
-      "Trans": {"SC":"达瑞斯档案音频 #004:  罗克韦尔","JA":"达瑞斯档案音頻 #004:  羅克韦尔"},
+      "Trans": {"SC":"达瑞斯档案音频 #004:  罗克韦尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1948614332",
       "Source": "Darius Archival Audio #005:  Rockwell",
-      "Trans": {"SC":"达瑞斯档案音频 #005:  罗克韦尔","JA":"达瑞斯档案音頻 #005:  羅克韦尔"},
+      "Trans": {"SC":"达瑞斯档案音频 #005:  罗克韦尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -21714,7 +21981,7 @@
     {
       "NamespaceHash": "Content::1451316583",
       "Source": "Grounded", //BUFFNAME
-      "Trans": {"SC":"缚地","JA":"縛地"},
+      "Trans": {"SC":"缚地","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dinos\Neophyte\Buffs\Buff_Neophyte_Grounded
     },
@@ -22198,7 +22465,7 @@
     {
       "NamespaceHash": "Content::1655692691",
       "Source": "Prey", //BUFFNAME
-      "Trans": {"SC":"猎物","JA":"獵物"},
+      "Trans": {"SC":"猎物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dinos\Neophyte\Buffs\Buff_Neophyte_Prey
     },
@@ -22217,7 +22484,7 @@
     {
       "NamespaceHash": "Content::952184491",
       "Source": "Watched", //buffname
-      "Trans": {"SC":"你被盯上了!","JA":"你已被注視!"},
+      "Trans": {"SC":"你被盯上了!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //Dinos\Thrall\Buffs\Buff_Thrall_HostileMaxStacks
     },
@@ -22230,7 +22497,7 @@
     {
       "NamespaceHash": "Content::510912614",
       "Source": "Bloodtaint", //BUFFNAME
-      "Trans": {"SC":"血之侵蚀","JA":"血之侵蝕"},
+      "Trans": {"SC":"血之侵蚀","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22292,13 +22559,13 @@
     {
       "NamespaceHash": "Content::1768395783",
       "Source": "Revenant Malwyn",
-      "Trans": {"SC":"怨灵诡狱狐","JA":"怨灵詭獄狐"},
+      "Trans": {"SC":"怨灵诡狱狐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::827978694",
       "Source": "Revenant Dilophosaur",
-      "Trans": {"SC":"怨灵双嵴龙","JA":"怨灵双脊龙"},
+      "Trans": {"SC":"怨灵双嵴龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22328,13 +22595,13 @@
     {
       "NamespaceHash": "Content::3747927794",
       "Source": "Revenant Mammoth",
-      "Trans": {"SC":"怨灵猛犸象","JA":"怨灵猛瑪象"},
+      "Trans": {"SC":"怨灵猛犸象","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1370562081",
       "Source": "Revenant Parasaur",
-      "Trans": {"SC":"怨灵副栉龙","JA":"怨灵副櫛龙"},
+      "Trans": {"SC":"怨灵副栉龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22370,7 +22637,7 @@
     {
       "NamespaceHash": "Content::578348432",
       "Source": "Revenant Ossidon",
-      "Trans": {"SC":"怨灵奥西顿","JA":"怨灵奥西頓"},
+      "Trans": {"SC":"怨灵奥西顿","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22382,19 +22649,19 @@
     {
       "NamespaceHash": "Content::2983628375",
       "Source": "Revenant Stegosaurus",
-      "Trans": {"SC":"怨灵剑龙","JA":"怨灵劍龙"},
+      "Trans": {"SC":"怨灵剑龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::144891061",
       "Source": "Revenant Therizinosaur",
-      "Trans": {"SC":"怨灵镰刀龙","JA":"怨灵鐮刀龙"},
+      "Trans": {"SC":"怨灵镰刀龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3608297858",
       "Source": "Revenant Troodon",
-      "Trans": {"SC":"怨灵伤齿龙","JA":"怨灵傷齿龙"},
+      "Trans": {"SC":"怨灵伤齿龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22424,7 +22691,7 @@
     {
       "NamespaceHash": "Content::3433853118",
       "Source": "Bloated Revenant",
-      "Trans": {"SC":"臃肿怨灵","JA":"臃腫怨灵"},
+      "Trans": {"SC":"臃肿怨灵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22442,7 +22709,7 @@
     {
       "NamespaceHash": "Content::1800428555",
       "Source": "Nocturnal Hunter", //BUFFNAME
-      "Trans": {"SC":"夜行猎手","JA":"夜行獵手"},
+      "Trans": {"SC":"夜行猎手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22672,7 +22939,7 @@
     {
       "NamespaceHash": "Content::3450896761",
       "Source": "Rapid Stamina Recovery", //BUFFNAME
-      "Trans": {"SC":"快速恢复耐力","JA":"快速恢復耐力"},
+      "Trans": {"SC":"快速恢复耐力","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -22900,7 +23167,7 @@
     {
       "NamespaceHash": "Content::4137569181",
       "Source": "Blood Sustenance", //buffname
-      "Trans": {"SC":"鲜血滋养","JA":"鮮血滋养"},
+      "Trans": {"SC":"鲜血滋养","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23014,19 +23281,19 @@
     {
       "NamespaceHash": "Content::3478221504",
       "Source": "EYE BEAM",
-      "Trans": {"SC":"眼射线","JA":"眼射線"},
+      "Trans": {"SC":"眼射线","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2808528882",
       "Source": "Necrotic Mark", //buffname
-      "Trans": {"SC":"坏死标记","JA":"坏死標記"},
+      "Trans": {"SC":"坏死标记","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2704111405",
       "Source": "NECROTIC MARK",
-      "Trans": {"SC":"坏死标记","JA":"坏死標記"},
+      "Trans": {"SC":"坏死标记","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23135,7 +23402,7 @@
     {
       "NamespaceHash": "Content::4105245145",
       "Source": "Small Creature Protected", //buffname
-      "Trans": {"SC":"受保护的小型生物","JA":"受保護的小型生物"},
+      "Trans": {"SC":"受保护的小型生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23309,7 +23576,7 @@
     {
       "NamespaceHash": "Content::4014506823",
       "Source": "Attached To Medical Stand", //buffname
-      "Trans": {"SC":"附在医疗支架上","JA":"附在医療支架上"},
+      "Trans": {"SC":"附在医疗支架上","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23456,7 +23723,7 @@
     {
       "NamespaceHash": "Content::2233728432",
       "Source": "Cold Snap", //buffname
-      "Trans": {"SC":"寒袭","JA":"寒襲"},
+      "Trans": {"SC":"寒袭","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23474,7 +23741,7 @@
     {
       "NamespaceHash": "Content::2860573256",
       "Source": "Hyper State", //buffname
-      "Trans": {"SC":"超频状态","JA":"超頻状態"},
+      "Trans": {"SC":"超频状态","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -24968,7 +25235,7 @@
     {
       "NamespaceHash": "Content::1634925388",
       "Source": "Watcher Suppression", //buffname
-      "Trans": {"SC":"监视压制","JA":"監視壓制"},
+      "Trans": {"SC":"监视压制","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -24980,7 +25247,7 @@
     {
       "NamespaceHash": "Content::1250965594",
       "Source": "Thrall Enforcer",
-      "Trans": {"SC":"血仆执法者","JA":"血仆執法者"},
+      "Trans": {"SC":"血仆执法者","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -24992,7 +25259,7 @@
     {
       "NamespaceHash": "Content::2247501338",
       "Source": "Thrall Warden",
-      "Trans": {"SC":"血仆守卫长","JA":"血仆守衛长"},
+      "Trans": {"SC":"血仆守卫长","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -25022,7 +25289,7 @@
     {
       "NamespaceHash": "Content::3207869928",
       "Source": "Thrall Herald",
-      "Trans": {"SC":"血仆喷火兵","JA":"血仆噴火兵"},
+      "Trans": {"SC":"血仆喷火兵","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -25034,25 +25301,25 @@
     {
       "NamespaceHash": "Content::825277595",
       "Source": "Thrall Scattershot",
-      "Trans": {"SC":"血仆霰弹兵","JA":"血仆霰彈兵"},
+      "Trans": {"SC":"血仆霰弹兵","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3095065189",
       "Source": "Thrall Deadeye",
-      "Trans": {"SC":"血仆狙击手","JA":"血仆狙擊手"},
+      "Trans": {"SC":"血仆狙击手","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2602482577",
       "Source": "Thrall Subjugator",
-      "Trans": {"SC":"血仆镇压者","JA":"血仆鎮壓者"},
+      "Trans": {"SC":"血仆镇压者","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3180085683",
       "Source": "Thrall Forgemaster",
-      "Trans": {"SC":"血仆锻造大师","JA":"血仆鍛造師"},
+      "Trans": {"SC":"血仆锻造大师","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -25064,19 +25331,19 @@
     {
       "NamespaceHash": "Content::3616881488",
       "Source": "Thrall Bounty Hunter",
-      "Trans": {"SC":"血仆赏金猎手","JA":"血仆賞金獵手"},
+      "Trans": {"SC":"血仆赏金猎手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::451310304",
       "Source": "Thrall Miniboss",
-      "Trans": {"SC":"血仆小首领","JA":"血仆小首領"},
+      "Trans": {"SC":"血仆小首领","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2734968886",
       "Source": "Thrall Cavalry Commander",
-      "Trans": {"SC":"血仆骑兵统帅","JA":"血仆騎兵統帥"},
+      "Trans": {"SC":"血仆骑兵统帅","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -25088,7 +25355,7 @@
     {
       "NamespaceHash": "Content::969826437",
       "Source": "Aureliax",
-      "Trans": {"SC":"寒辉雪龙","JA":"寒輝雪龙"},
+      "Trans": {"SC":"寒辉雪龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -25100,13 +25367,13 @@
     {
       "NamespaceHash": "Content::3105375523",
       "Source": "Neophyte",
-      "Trans": {"SC":"猎杀者","JA":"獵殺者"},
+      "Trans": {"SC":"猎杀者","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1392967863",
       "Source": "Malwyn",
-      "Trans": {"SC":"诡狱狐","JA":"詭獄狐"},
+      "Trans": {"SC":"诡狱狐","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -25124,7 +25391,7 @@
     {
       "NamespaceHash": "Content::3835213579",
       "Source": "Cryolophosaurus",
-      "Trans": {"SC":"冰嵴龙","JA":"冰脊龙"},
+      "Trans": {"SC":"冰嵴龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -25160,7 +25427,7 @@
     {
       "NamespaceHash": "Content::882927201",
       "Source": "Lost Cryolophosaurus",
-      "Trans": {"SC":"失落冰嵴龙","JA":"失落冰脊龙"},
+      "Trans": {"SC":"失落冰嵴龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -25172,7 +25439,7 @@
     {
       "NamespaceHash": "Content::3058903183",
       "Source": "Lost Malwyn",
-      "Trans": {"SC":"失落诡狱狐","JA":"失落詭獄狐"},
+      "Trans": {"SC":"失落诡狱狐","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -25250,7 +25517,7 @@
     {
       "NamespaceHash": "Content::2750900705",
       "Source": "Glacial Serenity", //buffname
-      "Trans": {"SC":"冰川谧境","JA":"冰川謐境"},
+      "Trans": {"SC":"冰川谧境","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -25262,7 +25529,7 @@
     {
       "NamespaceHash": "Content::2395265655",
       "Source": "Hostile", //buffname
-      "Trans": {"SC":"敌对","JA":"敵對"},
+      "Trans": {"SC":"敌对","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -25274,7 +25541,7 @@
     {
       "NamespaceHash": "Content::4126916568",
       "Source": "Arctic Armor", //buffname
-      "Trans": {"SC":"极地护甲","JA":"极地護甲"},
+      "Trans": {"SC":"极地护甲","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -25896,7 +26163,7 @@
     {
       "NamespaceHash": "Content::4178853527",
       "Source": "Frostbite",
-      "Trans": {"SC":"冻疮","JA":"凍瘡"},
+      "Trans": {"SC":"冻疮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -25908,7 +26175,7 @@
     {
       "NamespaceHash": "Content::561651484",
       "Source": "Monstrous Affection",
-      "Trans": {"SC":"偏爱","JA":"偏愛"}, //这个Monstrous个人觉得不加是最好的, 加了在中文语境可能就会很奇怪.
+      "Trans": {"SC":"偏爱","JA":""}, //这个Monstrous个人觉得不加是最好的, 加了在中文语境可能就会很奇怪.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -26244,7 +26511,7 @@
     {
       "NamespaceHash": "Content::1952468974", //buff
       "Source": "Ectoplasm Shield",
-      "Trans": {"SC":"灵质护盾","JA":"靈質護盾"},
+      "Trans": {"SC":"灵质护盾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -26709,7 +26976,7 @@
     {
       "NamespaceHash": "Content::3897019499",
       "Source": "Argentavis Ghost",
-      "Trans": {"SC":"幽灵阿根廷鹫","JA":"幽灵阿根廷鷲"},
+      "Trans": {"SC":"幽灵阿根廷鹫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -26721,13 +26988,13 @@
     {
       "NamespaceHash": "Content::2589660012",
       "Source": "Megalodon Ghost",
-      "Trans": {"SC":"幽灵巨齿鲨","JA":"幽灵巨齿鯊"},
+      "Trans": {"SC":"幽灵巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2780890177",
       "Source": "Otter Ghost",
-      "Trans": {"SC":"幽灵水獭","JA":"幽灵水獺"},
+      "Trans": {"SC":"幽灵水獭","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -26739,13 +27006,13 @@
     {
       "NamespaceHash": "Content::1542116106",
       "Source": "Ossidon Dossier",
-      "Trans": {"SC":"奥西顿图鉴","JA":"奥西顿圖鑒"},
+      "Trans": {"SC":"奥西顿图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1726023987",
       "Source": "Ossidon",
-      "Trans": {"SC":"奥西顿","JA":"奥西頓"},
+      "Trans": {"SC":"奥西顿","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -27108,7 +27375,7 @@
     {
       "NamespaceHash": "Content::3809701484",
       "Source": "Near Enemy Sprit Totem",
-      "Trans": {"SC":"敌对的灵魂图腾","JA":"敵對的灵魂圖騰"},
+      "Trans": {"SC":"敌对的灵魂图腾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27156,7 +27423,7 @@
     {
       "NamespaceHash": "Content::407539129",
       "Source": "Bark Shield",
-      "Trans": {"SC":"古树护盾","JA":"古樹護盾"},
+      "Trans": {"SC":"古树护盾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27180,7 +27447,7 @@
     {
       "NamespaceHash": "Content::3039487937",
       "Source": "Near Spirit Totem",
-      "Trans": {"SC":"灵魂图腾","JA":"灵魂圖騰"},
+      "Trans": {"SC":"灵魂图腾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27385,7 +27652,7 @@
     {
       "NamespaceHash": "Content::1143093125",
       "Source": "Hunting",
-      "Trans": {"SC":"狩猎状态","JA":"狩獵状態"},
+      "Trans": {"SC":"狩猎状态","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27397,7 +27664,7 @@
     {
       "NamespaceHash": "Content::2711128096",
       "Source": "Hunted",
-      "Trans": {"SC":"猎杀标记","JA":"獵殺標記"},
+      "Trans": {"SC":"猎杀标记","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27474,7 +27741,7 @@
     {
       "NamespaceHash": "Content::2349456915",
       "Source": "Creepy Camouflage",
-      "Trans": {"SC":"诡秘伪装","JA":"詭秘偽装"},
+      "Trans": {"SC":"诡秘伪装","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27486,7 +27753,7 @@
     {
       "NamespaceHash": "Content::3899483794",
       "Source": "Invigoration",
-      "Trans": {"SC":"激奋","JA":"激奮"},
+      "Trans": {"SC":"激奋","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27498,7 +27765,7 @@
     {
       "NamespaceHash": "Content::2203407245",
       "Source": "Isolator",
-      "Trans": {"SC":"孤立猎杀","JA":"孤立獵殺"},
+      "Trans": {"SC":"孤立猎杀","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -27534,25 +27801,25 @@
     {
       "NamespaceHash": "Content::1220451898",
       "Source": "Grendel",
-      "Trans": {"SC":"格伦德尔","JA":"格倫德尔"},
+      "Trans": {"SC":"格伦德尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2524406359",
       "Source": "Grendel (Gamma)",
-      "Trans": {"SC":"格伦德尔 (简单)","JA":"格倫德尔 (簡單)"},
+      "Trans": {"SC":"格伦德尔 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3889511805",
       "Source": "Grendel (Alpha)",
-      "Trans": {"SC":"格伦德尔 (困难)","JA":"格倫德尔 (困難)"},
+      "Trans": {"SC":"格伦德尔 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3609436608",
       "Source": "Grendel (Beta)",
-      "Trans": {"SC":"格伦德尔 (中等)","JA":"格倫德尔 (中等)"},
+      "Trans": {"SC":"格伦德尔 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -29201,13 +29468,13 @@
       "NamespaceHash": "Content::2524057926",
       "Source": "Elderclaw",
       //Elder(古老的); Claw(可能表示像爪一样的树缠绕敌人使其难以移动的能力)
-      "Trans": {"SC":"远古之爪","JA":"遠古之爪"},
+      "Trans": {"SC":"远古之爪","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3728746546",
       "Source": "Elderclaw Dossier",
-      "Trans": {"SC":"远古之爪图鉴","JA":"遠古之爪圖鑒"},
+      "Trans": {"SC":"远古之爪图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -29916,7 +30183,7 @@
     {
       "NamespaceHash": "Content::2303652484",
       "Source": "Slidy 'N Slippery Kairuku",
-      "Trans": {"SC":"涡轮企鹅","JA":"涡轮企鵝"},
+      "Trans": {"SC":"涡轮企鹅","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -30136,7 +30403,7 @@
     {
       "NamespaceHash": "GraphLiteral::3275935894",
       "Source": "ATTACK",
-      "Trans": {"SC":"攻击","JA":"攻擊"},
+      "Trans": {"SC":"攻击","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30192,7 +30459,7 @@
     {
       "NamespaceHash": "GraphLiteral::1792781769",
       "Source": " + Dragon Hoard Key",
-      "Trans": {"SC":" + 龙之秘宝钥匙","JA":" + 龙之秘宝鑰匙"},
+      "Trans": {"SC":" + 龙之秘宝钥匙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30216,7 +30483,7 @@
     {
       "NamespaceHash": "Content::1875487165",
       "Source": "Stored XP",
-      "Trans": {"SC":"存储的经验","JA":"存儲的經驗"},
+      "Trans": {"SC":"存储的经验","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30246,31 +30513,31 @@
     {
       "NamespaceHash": "GraphLiteral::260508089",
       "Source": "Gift of Spring:",
-      "Trans": {"SC":"春日赐福:","JA":"春日賜福:"},
+      "Trans": {"SC":"春日赐福:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3926261251",
       "Source": "Gift of Summer:",
-      "Trans": {"SC":"夏日赐福:","JA":"夏日賜福:"},
+      "Trans": {"SC":"夏日赐福:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1382506611",
       "Source": "Gift of Autumn:",
-      "Trans": {"SC":"秋日赐福:","JA":"秋日賜福:"},
+      "Trans": {"SC":"秋日赐福:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3158813217",
       "Source": "Gift of Winter:",
-      "Trans": {"SC":"冬日赐福:","JA":"冬日賜福:"},
+      "Trans": {"SC":"冬日赐福:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2543570462",
       "Source": "Breath Attack:",
-      "Trans": {"SC":"吐息攻击:","JA":"吐息攻擊:"},
+      "Trans": {"SC":"吐息攻击:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30282,7 +30549,7 @@
     {
       "NamespaceHash": "Content::3342087925",
       "Source": "Received XP",
-      "Trans": {"SC":"获得经验值","JA":"存儲的經驗:"},
+      "Trans": {"SC":"获得经验值","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30360,7 +30627,7 @@
     {
       "NamespaceHash": "Content::842787156",
       "Source": "Draconic Knowledge",
-      "Trans": {"SC":"龙的知识","JA":"龙的知識"},
+      "Trans": {"SC":"龙的知识","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30456,7 +30723,7 @@
     {
       "NamespaceHash": "Content::3768384508",
       "Source": "Frosting",
-      "Trans": {"SC":"结霜","JA":"結霜"},
+      "Trans": {"SC":"结霜","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30722,7 +30989,7 @@
     {
       "NamespaceHash": "Content::1818857720",
       "Source": "Drakeling Dossier",
-      "Trans": {"SC":"精灵龙图鉴","JA":"精灵龙圖鑒"},
+      "Trans": {"SC":"精灵龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30736,7 +31003,7 @@
     {
       "NamespaceHash": "Content::4287334178",
       "Source": "Veilwyn Dossier",
-      "Trans": {"SC":"霜灵狐图鉴","JA":"霜灵狐圖鑒"},
+      "Trans": {"SC":"霜灵狐图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31706,7 +31973,7 @@
     {
       "NamespaceHash": "Content::450773495",
       "Source": "Nunatak (Alpha)",
-      "Trans": {"SC":"冰峰飞龙 (困难)","JA":"冰峰飞龙 (困難)"},
+      "Trans": {"SC":"冰峰飞龙 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31718,7 +31985,7 @@
     {
       "NamespaceHash": "Content::1803296477",
       "Source": "Nunatak (Gamma)",
-      "Trans": {"SC":"冰峰飞龙 (简单)","JA":"冰峰飞龙 (簡單)"},
+      "Trans": {"SC":"冰峰飞龙 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -31737,7 +32004,7 @@
     {
       "NamespaceHash": "Content::3475747775",
       "Source": "Teleport Cooldown",
-      "Trans": {"SC":"传送冷却","JA":"傳送冷却"},
+      "Trans": {"SC":"传送冷却","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -32667,7 +32934,7 @@
     {
       "NamespaceHash": "Content::1749205423",
       "Source": "Astral Mammoth",
-      "Trans": {"SC":"星界猛犸象","JA":"星界猛瑪象"},
+      "Trans": {"SC":"星界猛犸象","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -33720,7 +33987,7 @@
     {
       "NamespaceHash": "Content::537457052",
       "Source": "Bison Dossier",
-      "Trans": {"SC":"野牛图鉴","JA":"野牛圖鑒"},
+      "Trans": {"SC":"野牛图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -34168,7 +34435,7 @@
     {
       "NamespaceHash": "Content::1819941980",
       "Source": "Cat Dossier",
-      "Trans": {"SC":"猫图鉴","JA":"猫圖鑒"},
+      "Trans": {"SC":"猫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -34205,7 +34472,7 @@
     {
       "NamespaceHash": "Content::2774324639",
       "Source": "Taunting!",
-      "Trans": {"SC":"嘲讽!","JA":"嘲諷!"},
+      "Trans": {"SC":"嘲讽!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -34229,7 +34496,7 @@
     {
       "NamespaceHash": "Content::3210467654",
       "Source": "Attack Rally!",
-      "Trans": {"SC":"进攻鼓舞!","JA":"進攻鼓舞"},
+      "Trans": {"SC":"进攻鼓舞!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -35078,7 +35345,7 @@
       "NamespaceHash": "Content::3424353939",
       "Source": "Kalydonios",
       //star-miniboss
-      "Trans": {"SC":"卡吕冬野猪","JA":"卡呂冬野猪"},
+      "Trans": {"SC":"卡吕冬野猪","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -35196,7 +35463,7 @@
     {
       "NamespaceHash": "Content::2094388626",
       "Source": "Megaraptor Dossier",
-      "Trans": {"SC":"大盗龙图鉴","JA":"大盗龙圖鑒"},
+      "Trans": {"SC":"大盗龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -35437,103 +35704,103 @@
     {
       "NamespaceHash": "Content::2220211388",
       "Source": "Lightning Arthropluera",
-      "Trans": {"SC":"闪电节胸虫","JA":"閃電節胸虫"},
+      "Trans": {"SC":"闪电节胸虫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1759239701",
       "Source": "Lightning Carnotaurus",
-      "Trans": {"SC":"闪电肉食牛龙","JA":"閃電肉食牛龙"},
+      "Trans": {"SC":"闪电肉食牛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4255707617",
       "Source": "Lightning Chalicotherium",
-      "Trans": {"SC":"闪电爪兽","JA":"閃電爪獸"},
+      "Trans": {"SC":"闪电爪兽","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::843168445",
       "Source": "Lightning Dilophosaur",
-      "Trans": {"SC":"闪电双嵴龙","JA":"閃電双脊龙"},
+      "Trans": {"SC":"闪电双嵴龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3328847488",
       "Source": "Lightning Dimorphodon",
-      "Trans": {"SC":"闪电双型齿翼龙","JA":"閃電双型齿翼龙"},
+      "Trans": {"SC":"闪电双型齿翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2109592297",
       "Source": "Lightning Giganotosaurus",
-      "Trans": {"SC":"闪电南方巨兽龙","JA":"閃電南方巨獸龙"},
+      "Trans": {"SC":"闪电南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::484314632",
       "Source": "Lightning Infused Rex",
-      "Trans": {"SC":"闪电注能霸王龙","JA":"閃電注能霸王龙"},
+      "Trans": {"SC":"闪电注能霸王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2403940691",
       "Source": "Lightning Paraceratherium",
-      "Trans": {"SC":"闪电巨犀","JA":"閃電巨犀"},
+      "Trans": {"SC":"闪电巨犀","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::803870935",
       "Source": "Lightning Pteranodon",
-      "Trans": {"SC":"闪电无齿翼龙","JA":"閃電无齿翼龙"},
+      "Trans": {"SC":"闪电无齿翼龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::81568967",
       "Source": "Lightning Raptor",
-      "Trans": {"SC":"闪电迅猛龙","JA":"閃電迅猛龙"},
+      "Trans": {"SC":"闪电迅猛龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3541938614",
       "Source": "Lightning Reaper King",
-      "Trans": {"SC":"闪电死神国王","JA":"閃電死神国王"},
+      "Trans": {"SC":"闪电死神国王","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3482102789",
       "Source": "Lightning Rock Drake",
-      "Trans": {"SC":"闪电岩龙","JA":"閃電岩龙"},
+      "Trans": {"SC":"闪电岩龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3214640853",
       "Source": "Lightning Spino",
-      "Trans": {"SC":"闪电棘龙","JA":"閃電棘龙"},
+      "Trans": {"SC":"闪电棘龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2999895852",
       "Source": "Lightning Stegosaurus",
-      "Trans": {"SC":"闪电剑龙","JA":"閃電劍龙"},
+      "Trans": {"SC":"闪电剑龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4090230931",
       "Source": "Lightning Triceratops",
-      "Trans": {"SC":"闪电三角龙","JA":"閃電三角龙"},
+      "Trans": {"SC":"闪电三角龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2655417375",
       "Source": "Enraged Lightning Rex",
-      "Trans": {"SC":"暴怒闪电霸王龙","JA":"暴怒閃電霸王龙"},
+      "Trans": {"SC":"暴怒闪电霸王龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2872112212",
       "Source": "Enraged Lightning Triceratops",
-      "Trans": {"SC":"暴怒闪电三角龙","JA":"暴怒閃電三角龙"},
+      "Trans": {"SC":"暴怒闪电三角龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -35809,7 +36076,7 @@
     {
       "NamespaceHash": "Content::739604818",
       "Source": "Love Bird",
-      "Trans": {"SC":"爱情鸟","JA":"愛情鸟"},
+      "Trans": {"SC":"爱情鸟","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -35857,7 +36124,7 @@
     {
       "NamespaceHash": "Content::4036310018",
       "Source": "Excited",
-      "Trans": {"SC":"兴奋","JA":"興奮"},
+      "Trans": {"SC":"兴奋","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -35869,7 +36136,7 @@
     {
       "NamespaceHash": "Content::3025017779",
       "Source": "Astral Argentavis",
-      "Trans": {"SC":"星界阿根廷鹫","JA":"星界阿根廷鷲"},
+      "Trans": {"SC":"星界阿根廷鹫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -35881,7 +36148,7 @@
     {
       "NamespaceHash": "Content::2777094041",
       "Source": "Astral Deinosuchus",
-      "Trans": {"SC":"星界恐鳄","JA":"星界恐鱷"},
+      "Trans": {"SC":"星界恐鳄","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -35893,13 +36160,13 @@
     {
       "NamespaceHash": "Content::2548016331",
       "Source": "Astral Megalodon",
-      "Trans": {"SC":"星界巨齿鲨","JA":"星界巨齿鯊"},
+      "Trans": {"SC":"星界巨齿鲨","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::273620764",
       "Source": "Astral Mosasaur",
-      "Trans": {"SC":"星界沧龙","JA":"星界滄龙"},
+      "Trans": {"SC":"星界沧龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -35917,13 +36184,13 @@
     {
       "NamespaceHash": "Content::3832090826",
       "Source": "Astral Tusoteuthis",
-      "Trans": {"SC":"星界托斯特巨鱿","JA":"星界托斯特巨魷"},
+      "Trans": {"SC":"星界托斯特巨鱿","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3407110820",
       "Source": "Scrap Elemental",
-      "Trans": {"SC":"废土岩石巨人","JA":"廢土岩石巨人"},
+      "Trans": {"SC":"废土岩石巨人","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -35986,14 +36253,14 @@
     {
       "NamespaceHash": "Content::2047500601",
       "Source": "Wrong!",
-      "Trans": {"SC":"错误!","JA":"錯誤!"},
+      "Trans": {"SC":"错误!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //未生效
     },
     {
       "NamespaceHash": "Content::884548424",
       "Source": "Hit!",
-      "Trans": {"SC":"打击!","JA":"打擊!"},
+      "Trans": {"SC":"打击!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //未生效
     },
@@ -36036,25 +36303,25 @@
     {
       "NamespaceHash": "Content::3150100746",
       "Source": "Natrix The Devious (Gamma)",
-      "Trans": {"SC":"蛇发女妖 (简单)","JA":"蛇髮女妖 (簡單)"},
+      "Trans": {"SC":"蛇发女妖 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1026896121",
       "Source": "Natrix The Devious (Beta)",
-      "Trans": {"SC":"蛇发女妖 (中等)","JA":"蛇髮女妖 (中等)"},
+      "Trans": {"SC":"蛇发女妖 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3395348000",
       "Source": "Natrix The Devious (Alpha)",
-      "Trans": {"SC":"蛇发女妖 (困难)","JA":"蛇髮女妖 (困難)"},
+      "Trans": {"SC":"蛇发女妖 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::832611844",
       "Source": "Gorgon",
-      "Trans": {"SC":"蛇发女妖","JA":"蛇髮女妖"},
+      "Trans": {"SC":"蛇发女妖","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36066,13 +36333,13 @@
     {
       "NamespaceHash": "Content::745993935",
       "Source": "Minotaur",
-      "Trans": {"SC":"弥诺陶洛斯","JA":"弥諾陶洛斯"},
+      "Trans": {"SC":"弥诺陶洛斯","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2915342080",
       "Source": "Cave Minotaur",
-      "Trans": {"SC":"洞穴弥诺陶洛斯","JA":"洞穴弥諾陶洛斯"},
+      "Trans": {"SC":"洞穴弥诺陶洛斯","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -36843,7 +37110,7 @@
     {
       "NamespaceHash": "Content::53037306",
       "Source": "But in our time together, I got to\nbecome something new, someone new.\nNot Helena -- HLN-A.",
-      "Trans": {"SC":"但在与你共度的时光里, 我蜕变\n成了全新的存在, 新的个体。\n不再是海莲娜 -- 而是HLN-A。","JA":""},
+      "Trans": {"SC":"但在我们相伴的这段时光里, 我得以\n成了全新的存在, 新的个体。\n不再是海莲娜 -- 而是HLN-A。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36863,8 +37130,7 @@
     {
       "NamespaceHash": "Content::3936488373",
       "Source": "And who knows?\nMaybe two lost souls can still meet again\nsomewhere, out among the stars.",
-      "Trans": {"SC":"","JA":""},
-      //待翻译
+      "Trans": {"SC":"谁知道呢?\n也许两个迷失的灵魂\n还能在群星之间的某个地方重逢。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -37686,7 +37952,7 @@
     {
       "NamespaceHash": "Content::1890687142",
       "Source": "Deinotherium Dossier",
-      "Trans": {"SC":"恐象图鉴","JA":"恐象圖鑒"},
+      "Trans": {"SC":"恐象图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //恐象
     },
@@ -37996,7 +38262,7 @@
     {
       "NamespaceHash": "Content::199063438",
       "Source": "Archelon Dossier",
-      "Trans": {"SC":"古巨龟图鉴","JA":"古巨龟圖鑒"},
+      "Trans": {"SC":"古巨龟图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //古巨龟
     },
@@ -38038,7 +38304,7 @@
     {
       "NamespaceHash": "Content::551640427",
       "Source": "Jellyfish Killer",
-      "Trans": {"SC":"水母杀手","JA":"水母殺手"},
+      "Trans": {"SC":"水母杀手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //古巨龟
     },
@@ -46116,7 +46382,7 @@
     {
       "NamespaceHash": "Content::4236036844",
       "Source": "Tek Phase Pistol",
-      "Trans": {"SC":"泰克相枪","JA":""},
+      "Trans": {"SC":"泰克相位手枪","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -46429,7 +46695,7 @@
     {
       "NamespaceHash": "Content::1660710515",
       "Source": "Titanosaur Platform Saddle",
-      "Trans": {"SC":"泰坦龙平台鞍","JA":""},
+      "Trans": {"SC":"泰坦巨龙平台鞍","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -48823,7 +49089,7 @@
     {
       "NamespaceHash": "GraphLiteral::2949745814",
       "Source": "No Tribute Downloads",
-      "Trans": {"SC":"禁止下载贡品","JA":"禁止下载貢品"},
+      "Trans": {"SC":"禁止下载贡品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //创建
     },
@@ -52900,7 +53166,7 @@
     {
       "NamespaceHash": "GraphLiteral::3363853372",
       "Source": "Want your own ARK server?",
-      "Trans": {"SC":"想拥有自己的方舟服务器吗?","JA":""}, //标记-123
+      "Trans": {"SC":"想拥有自己的方舟服务器吗?","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -53925,7 +54191,7 @@
     {
       "NamespaceHash": "GraphLiteral::2130884695",
       "Source": "Imprinting\nAffinity",
-      "Trans": {"SC":"留痕骑手","JA":"留痕騎手"},
+      "Trans": {"SC":"留痕骑手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -57153,7 +57419,7 @@
     {
       "NamespaceHash": "Content::3477501652",
       "Source": "Gaia's Embrace",
-      "Trans": {"SC":"盖亚的拥抱","JA":"盖亞的擁抱"},
+      "Trans": {"SC":"盖亚的拥抱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -57164,7 +57430,7 @@
     },
     {
       "NamespaceHash": "GraphLiteral::1651445276",
-      "Source": "Sound The Alarm",
+      "Source": "Sound The Alarm", //buffname
       "Trans": {"SC":"拉响警报","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -58092,7 +58358,7 @@
     {
       "NamespaceHash": "GraphLiteral::390671908",
       "Source": "Sand Storm (Inside)",
-      "Trans": {"SC":"沙尘暴 (室内)","JA":"沙塵暴 (室内)"},
+      "Trans": {"SC":"沙尘暴 (室内)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -58301,7 +58567,7 @@
       "NamespaceHash": "Content::1904859542",
       "Source": "Buzzed",
       //啤酒
-      "Trans": {"SC":"嗡嗡的","JA":"懵懵的"},
+      "Trans": {"SC":"嗡嗡的","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -58446,13 +58712,13 @@
     {
       "NamespaceHash": "Content::505706342",
       "Source": "Pegomastax Grouch",
-      "Trans": {"SC":"圣诞双坚颌龙","JA":"圣誕双堅頜龙"},
+      "Trans": {"SC":"圣诞双坚颌龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2889063040",
       "Source": "Reindeer",
-      "Trans": {"SC":"驯鹿","JA":"馴鹿"},
+      "Trans": {"SC":"驯鹿","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -58466,7 +58732,7 @@
       "NamespaceHash": "GraphLiteral::3243150316",
       "Source": "He sees you when you're sleeping...",
       //圣诞节活动
-      "Trans": {"SC":"ohohoh\n准备好了嘛...","JA":"ohohoh\n准備好了嘛..."},
+      "Trans": {"SC":"ohohoh\n准备好了嘛...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -58560,7 +58826,7 @@
     {
       "NamespaceHash": "Content::3651685258",
       "Source": "Snow Owl Ghost",
-      "Trans": {"SC":"幽灵雪鸮","JA":"幽灵雪鴞"},
+      "Trans": {"SC":"幽灵雪鸮","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -58614,7 +58880,7 @@
     {
       "NamespaceHash": "Content::1649185466",
       "Source": "Skeletal Stego",
-      "Trans": {"SC":"骨架剑龙","JA":"骨架劍龙"},
+      "Trans": {"SC":"骨架剑龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -58656,7 +58922,7 @@
     {
       "NamespaceHash": "Content::3954154212",
       "Source": "Skeletal Giganotosaurus",
-      "Trans": {"SC":"骨架南方巨兽龙","JA":"骨架南方巨獸龙"},
+      "Trans": {"SC":"骨架南方巨兽龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -58898,98 +59164,98 @@
     {
       "NamespaceHash": "Content::3309155697",
       "Source": "Bob's Prologue 1",
-      "Trans": {"SC":" 鲍勃传奇序幕 1 ","JA":" 鮑勃傳奇序幕 1 "},
+      "Trans": {"SC":" 鲍勃传奇序幕 1 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3616021151",
       "Source": "Bob's Prologue 2",
-      "Trans": {"SC":" 鲍勃传奇序幕 2 ","JA":" 鮑勃傳奇序幕 2 "},
+      "Trans": {"SC":" 鲍勃传奇序幕 2 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::892075943",
       "Source": "Bob's Tales 1",
-      "Trans": {"SC":"鲍勃传奇 1","JA":"鮑勃傳奇 1"},
+      "Trans": {"SC":"鲍勃传奇 1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2676493222",
       "Source": "Bob's Tales 10",
-      "Trans": {"SC":"鲍勃传奇10","JA":"鮑勃傳奇10"},
+      "Trans": {"SC":"鲍勃传奇10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::664686665",
       "Source": "Bob's Tales 2",
-      "Trans": {"SC":"鲍勃传奇 2","JA":"鮑勃傳奇 2"},
+      "Trans": {"SC":"鲍勃传奇 2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2669819692",
       "Source": "Bob's Tales 3",
-      "Trans": {"SC":"鲍勃传奇 3","JA":"鮑勃傳奇 3"},
+      "Trans": {"SC":"鲍勃传奇 3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::49614741",
       "Source": "Bob's Tales 4",
-      "Trans": {"SC":"鲍勃传奇 4","JA":"鮑勃傳奇 4"},
+      "Trans": {"SC":"鲍勃传奇 4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3125373168",
       "Source": "Bob's Tales 5",
-      "Trans": {"SC":"鲍勃传奇 5","JA":"鮑勃傳奇 5"},
+      "Trans": {"SC":"鲍勃传奇 5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2835138334",
       "Source": "Bob's Tales 6",
-      "Trans": {"SC":"鲍勃传奇 6","JA":"鮑勃傳奇 6"},
+      "Trans": {"SC":"鲍勃传奇 6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::272670843",
       "Source": "Bob's Tales 7",
-      "Trans": {"SC":"鲍勃传奇 7","JA":"鮑勃傳奇 7"},
+      "Trans": {"SC":"鲍勃传奇 7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1210298413",
       "Source": "Bob's Tales 8",
-      "Trans": {"SC":"鲍勃传奇 8","JA":"鮑勃傳奇 8"},
+      "Trans": {"SC":"鲍勃传奇 8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::4037007176",
       "Source": "Bob's Tales 9",
-      "Trans": {"SC":"鲍勃传奇 9","JA":"鮑勃傳奇 9"},
+      "Trans": {"SC":"鲍勃传奇 9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::4139835203",
       "Source": "Bob's Epilogue 1",
-      "Trans": {"SC":"鲍勃传奇尾声 1","JA":"鮑勃傳奇尾声 1 "},
+      "Trans": {"SC":"鲍勃传奇尾声 1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3832901805",
       "Source": "Bob's Epilogue 2",
-      "Trans": {"SC":"鲍勃传奇尾声 2","JA":"鮑勃傳奇尾声 2 "},
+      "Trans": {"SC":"鲍勃传奇尾声 2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
@@ -59215,7 +59481,7 @@
     {
       "NamespaceHash": "Content::2214195601",
       "Source": "Oasisaur Dossier",
-      "Trans": {"SC":"绿洲龙图鉴","JA":"绿洲龙圖鑒"},
+      "Trans": {"SC":"绿洲龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -59234,7 +59500,7 @@
       "NamespaceHash": "Content::4034103428",
       "Source": "Odermann Cove",
       //标记-可能是地名
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"奥德曼海湾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -59449,7 +59715,7 @@
       "NamespaceHash": "Content::4057833658",
       "Source": "Valley of The Sun",
       //标记-可能是地名
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"旭日山谷","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -59620,7 +59886,7 @@
     {
       "NamespaceHash": "Content::2823858614",
       "Source": "Fasolasuchus Dossier",
-      "Trans": {"SC":"法索拉鳄图鉴","JA":"法索拉鳄圖鑒"},
+      "Trans": {"SC":"法索拉鳄图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -60790,7 +61056,7 @@
       "NamespaceHash": "Content::2403138402",
       "Source": "Stinky Hemogoblin Stench",
       //鸡尾酒
-      "Trans": {"SC":"血腥恶臭","JA":"血腥惡臭"},
+      "Trans": {"SC":"血腥恶臭","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //角鼻龙
     },
@@ -60820,21 +61086,21 @@
     {
       "NamespaceHash": "Content::2351572916",
       "Source": "Ceratosaurus Dossier",
-      "Trans": {"SC":"角鼻龙图鉴","JA":"角鼻龙圖鑒"},
+      "Trans": {"SC":"角鼻龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //角鼻龙
     },
     {
       "NamespaceHash": "Content::1256840728",
       "Source": "Xiphactinus",
-      "Trans": {"SC":"剑射鱼","JA":"劍射鱼"},
+      "Trans": {"SC":"剑射鱼","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //剑射鱼
     },
     {
       "NamespaceHash": "Content::2341914987",
       "Source": "Xiphactinus Dossier",
-      "Trans": {"SC":"剑射鱼图鉴","JA":"剑射鱼圖鑒"},
+      "Trans": {"SC":"剑射鱼图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //剑射鱼
     },
@@ -60870,7 +61136,7 @@
     {
       "NamespaceHash": "Content::587068505",
       "Source": "LANDLUBBER",
-      "Trans": {"SC":"旱鸭子","JA":"旱鴨子"},
+      "Trans": {"SC":"旱鸭子","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //剑射鱼
     },
@@ -60898,7 +61164,7 @@
     {
       "NamespaceHash": "Content::1654381248",
       "Source": "Picked!",
-      "Trans": {"SC":"被捕获!","JA":"被捕獲!"},
+      "Trans": {"SC":"被捕获!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //剑射鱼
     },
@@ -60954,7 +61220,7 @@
       "NamespaceHash": "Content::1862883508",
       "Source": "Barrel",
       //奇怪! 突然找不到了, 曾出现在储物桶。
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"桶","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61147,7 +61413,7 @@
     {
       "NamespaceHash": "GraphLiteral::2130158371",
       "Source": "Bonded + Imprinting +",
-      "Trans": {"SC":"已联结 + 留痕 +","JA":"已聯結 + 留痕 +"},
+      "Trans": {"SC":"已联结 + 留痕 +","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //巨盗龙
     },
@@ -61168,14 +61434,14 @@
     {
       "NamespaceHash": "Content::3107632371",
       "Source": "Adopted Love",
-      "Trans": {"SC":"养子的爱","JA":"养子的愛"},
+      "Trans": {"SC":"养子的爱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //巨盗龙
     },
     {
       "NamespaceHash": "Content::650092141",
       "Source": "Adopted Rage",
-      "Trans": {"SC":"养子的愤怒","JA":"养子的憤怒"},
+      "Trans": {"SC":"养子的愤怒","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //巨盗龙
     },
@@ -61574,14 +61840,14 @@
     {
       "NamespaceHash": "Content::944538942",
       "Source": "Cuddled by Fire",
-      "Trans": {"SC":"炽焰依偎","JA":"熾焰依偎"},
+      "Trans": {"SC":"炽焰依偎","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //火猫buff
     },
     {
       "NamespaceHash": "GraphLiteral::2898183431",
       "Source": "Wreathed in Fire",
-      "Trans": {"SC":"炽焰萦绕","JA":"熾焰縈繞"},
+      "Trans": {"SC":"炽焰萦绕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //火猫buff
     },
@@ -61695,20 +61961,20 @@
     {
       "NamespaceHash": "Content::1511509477",
       "Source": "Pyromane",
-      "Trans": {"SC":"炽炎猫","JA":"熾炎猫"},
+      "Trans": {"SC":"炽炎猫","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::575385314",
       "Source": "Pyromane Dossier",
-      "Trans": {"SC":"炽炎猫图鉴","JA":"炽炎猫圖鑒"},
+      "Trans": {"SC":"炽炎猫图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1397982571",
       "Source": "Pyromane Enflamed!",
       //炽炎猫攻击buff
-      "Trans": {"SC":"炽炎灼身!","JA":"熾炎灼身!"},
+      "Trans": {"SC":"炽炎灼身!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61741,7 +62007,7 @@
     {
       "NamespaceHash": "Content::871973912",
       "Source": "Shastasaurus Dossier",
-      "Trans": {"SC":"沙斯塔鱼龙图鉴","JA":"沙斯塔鱼龙圖鑒"},
+      "Trans": {"SC":"沙斯塔鱼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -61968,7 +62234,7 @@
     {
       "NamespaceHash": "GraphLiteral::2313572537",
       "Source": "Lvl ",
-      "Trans": {"SC":"等级 ","JA":"等級 "},
+      "Trans": {"SC":"等级 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63031,7 +63297,7 @@
     {
       "NamespaceHash": "Content::1238637003",
       "Source": "Deinosuchus",
-      "Trans": {"SC":"恐鳄","JA":"恐鱷"},
+      "Trans": {"SC":"恐鳄","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -63055,7 +63321,7 @@
     {
       "NamespaceHash": "Content::944303843",
       "Source": "Deinosuchus Dossier",
-      "Trans": {"SC":"恐鳄图鉴","JA":"恐鳄圖鑒"},
+      "Trans": {"SC":"恐鳄图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63104,7 +63370,7 @@
     {
       "NamespaceHash": "Content::3921157096",
       "Source": "Gigantoraptor Dossier",
-      "Trans": {"SC":"巨盗龙图鉴","JA":"巨盗龙圖鑒"},
+      "Trans": {"SC":"巨盗龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63415,7 +63681,7 @@
     {
       "NamespaceHash": "Content::924164073",
       "Source": "DOOR OPEN",
-      "Trans": {"SC":"门开了","JA":"門开了"},
+      "Trans": {"SC":"门开了","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //D493ADD64445FE435789E5B4715DF3F7 & 7A66B9894674FAA3D6C53A90E60CCC39
     },
@@ -63490,7 +63756,7 @@
       "NamespaceHash": "Globals::660956755",
       "Source": "WARNING! YOUR SURVIVOR IS NOT BEING UPLOADED. IT WILL GO UNCONSCIOUS WHERE YOU ARE STANDING.",
       //前往俱乐部提示
-      "Trans": {"SC":"警告! 生存者不会不会被上传, 而是在原地失去意识。","JA":""},
+      "Trans": {"SC":"警告! 生存者不会被上传, 而是在原地失去意识。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63935,13 +64201,13 @@
     {
       "NamespaceHash": "Content::2327116926",
       "Source": "Dreadnoughtus Dossier",
-      "Trans": {"SC":"无畏巨龙图鉴","JA":"无畏巨龙圖鑒"},
+      "Trans": {"SC":"无畏巨龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::762724174",
       "Source": "Yi Ling Dossier",
-      "Trans": {"SC":"翎翼龙图鉴","JA":"翎翼龙圖鑒"},
+      "Trans": {"SC":"翎翼龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -63962,14 +64228,14 @@
     {
       "NamespaceHash": "Content::3572011267",
       "Source": "Cosmo Dossier",
-      "Trans": {"SC":"宇跳蛛图鉴","JA":"宇跳蛛圖鑒"},
+      "Trans": {"SC":"宇跳蛛图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2299500600",
       "Source": "Capture Cooldown",
       //被攻击会获得该Buff
-      "Trans": {"SC":"捕获冷却","JA":"捕獲冷却"},
+      "Trans": {"SC":"捕获冷却","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -64026,13 +64292,13 @@
     {
       "NamespaceHash": "Content::826518295",
       "Source": "Threat Sense",
-      "Trans": {"SC":"威胁感应","JA":"威脅感應"},
+      "Trans": {"SC":"威胁感应","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1053080323",
       "Source": "ChargeLight-infused Webs",
-      "Trans": {"SC":"电荷蛛丝","JA":"電荷蛛絲"},
+      "Trans": {"SC":"电荷蛛丝","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -64062,7 +64328,7 @@
     {
       "NamespaceHash": "Content::3623669855",
       "Source": "SWING",
-      "Trans": {"SC":"荡丝","JA":"蕩絲"},
+      "Trans": {"SC":"荡丝","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -64117,7 +64383,7 @@
     {
       "NamespaceHash": "Content::1304495968",
       "Source": "Zapped!",
-      "Trans": {"SC":"击中!","JA":"擊中!"},
+      "Trans": {"SC":"击中!","JA":""},
       //避免其它通词不同意思
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -64130,7 +64396,7 @@
     {
       "NamespaceHash": "Content::367076804",
       "Source": "Tesla Coil Shock Immunity",
-      "Trans": {"SC":"特斯拉电塔麻痹免疫","JA":"特斯拉電塔麻痹免疫"},
+      "Trans": {"SC":"特斯拉电塔麻痹免疫","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -64143,14 +64409,14 @@
       "NamespaceHash": "Content::1986862643",
       "Source": "Volatile",
       //特斯拉电塔&翎翼龙都有出现.
-      "Trans": {"SC":"跃动","JA":"躍動"},
+      "Trans": {"SC":"跃动","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2116426724",
       "Source": "Overloaded!",
       //BuffName
-      "Trans": {"SC":"承受过载!","JA":"承受過載!"},
+      "Trans": {"SC":"承受过载!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -64294,7 +64560,7 @@
     {
       "NamespaceHash": "Content::1681277570",
       "Source": "Aberrant Gigantoraptor",
-      "Trans": {"SC":"畸变巨盗龙","JA":"畸變巨盗龙"},
+      "Trans": {"SC":"畸变巨盗龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -64306,7 +64572,7 @@
     {
       "NamespaceHash": "Content::768429584",
       "Source": "Aberrant Oviraptor",
-      "Trans": {"SC":"畸变窃蛋龙","JA":"畸變窃蛋龙"},
+      "Trans": {"SC":"畸变窃蛋龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -64318,7 +64584,7 @@
     {
       "NamespaceHash": "Content::745058715",
       "Source": "Aberrant Fasolasuchus",
-      "Trans": {"SC":"畸变法索拉鳄","JA":"畸變法索拉鱷"},
+      "Trans": {"SC":"畸变法索拉鳄","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -65822,182 +66088,182 @@
     {
       "NamespaceHash": "Content::2783470888",
       "Source": "Bob's Island Prologue",
-      "Trans": {"SC":" 鲍勃的故事\r\n 孤岛序幕","JA":" 鮑勃的故事\r\n 孤島序幕"},
+      "Trans": {"SC":" 鲍勃的故事\r\n 孤岛序幕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2344074283",
       "Source": "Bob's Island Epilogue",
-      "Trans": {"SC":" 鲍勃的故事\r\n孤岛尾声","JA":" 鮑勃的故事\r\n孤島尾声"},
+      "Trans": {"SC":" 鲍勃的故事\r\n孤岛尾声","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::928501763",
       "Source": "Bob's Frontier Prologue",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部序幕","JA":"鮑勃的故事\r\n 西部序幕"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部序幕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::759474441",
       "Source": "Bob's Frontier Tales 1",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 1","JA":"鮑勃的故事\r\n 西部篇 1"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1072760551",
       "Source": "Bob's Frontier Tales 2",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 2","JA":"鮑勃的故事\r\n 西部篇 2"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2269995394",
       "Source": "Bob's Frontier Tales 3",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 3","JA":"鮑勃的故事\r\n 西部篇 3"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::446323003",
       "Source": "Bob's Frontier Tales 4",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 4","JA":"鮑勃的故事\r\n 西部篇 4"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2720415326",
       "Source": "Bob's Frontier Tales 5",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 5","JA":"鮑勃的故事\r\n 西部篇 5"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2962461104",
       "Source": "Bob's Frontier Tales 6",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 6","JA":"鮑勃的故事\r\n 西部篇 6"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::137361109",
       "Source": "Bob's Frontier Tales 7",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 7","JA":"鮑勃的故事\r\n 西部篇 7"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1347217027",
       "Source": "Bob's Frontier Tales 8",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 8","JA":"鮑勃的故事\r\n 西部篇 8"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3908076006",
       "Source": "Bob's Frontier Tales 9",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 9","JA":"鮑勃的故事\r\n 西部篇 9"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇 9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2869221548",
       "Source": "Bob's Frontier Tales 10",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部篇10","JA":"鮑勃的故事\r\n 西部篇10"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部篇10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::419956992",
       "Source": "Bob's Frontier Epilogue",
-      "Trans": {"SC":"鲍勃的故事\r\n 西部尾声","JA":"鮑勃的故事\r\n 西部尾声"},
+      "Trans": {"SC":"鲍勃的故事\r\n 西部尾声","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1122910528",
       "Source": "Bob's Steampunk Prologue",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克序幕","JA":"鮑勃的故事\r\n蒸汽朋克序幕"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克序幕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::4217999046",
       "Source": "Bob's Steampunk Tale 1",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 1","JA":"鮑勃的故事\r\n蒸汽朋克篇 1"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3923517736",
       "Source": "Bob's Steampunk Tale 2",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 2","JA":"鮑勃的故事\r\n蒸汽朋克篇 2"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1365263949",
       "Source": "Bob's Steampunk Tale 3",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 3","JA":"鮑勃的故事\r\n蒸汽朋克篇 3"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3434577652",
       "Source": "Bob's Steampunk Tale 4",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 4","JA":"鮑勃的故事\r\n蒸汽朋克篇 4"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1946884497",
       "Source": "Bob's Steampunk Tale 5",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 5","JA":"鮑勃的故事\r\n蒸汽朋克篇 5"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1723774591",
       "Source": "Bob's Steampunk Tale 6",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 6","JA":"鮑勃的故事\r\n蒸汽朋克篇 6"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3724726554",
       "Source": "Bob's Steampunk Tale 7",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 7","JA":"鮑勃的故事\r\n蒸汽朋克篇 7"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2254553420",
       "Source": "Bob's Steampunk Tale 8",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 8","JA":"鮑勃的故事\r\n蒸汽朋克篇 8"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1054713385",
       "Source": "Bob's Steampunk Tale 9",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 9","JA":"鮑勃的故事\r\n蒸汽朋克篇 9"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇 9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::4155661207",
       "Source": "Bob's Steampunk Tale 10",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇10","JA":"鮑勃的故事\r\n蒸汽朋克篇10"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克篇10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1823578179",
       "Source": "Bob's Steampunk Epilogue",
-      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克尾声","JA":"鮑勃的故事\r\n蒸汽朋克尾声"},
+      "Trans": {"SC":"鲍勃的故事\r\n蒸汽朋克尾声","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
@@ -67189,7 +67455,7 @@
       "NamespaceHash": "Content::420437912",
       "Source": "Rider Protection",
       //生物特性-BuffName
-      "Trans": {"SC":"骑手保护","JA":"騎手保護"},
+      "Trans": {"SC":"骑手保护","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68272,7 +68538,7 @@
     {
       "NamespaceHash": "Content::405602432",
       "Source": "Motorized Zipline",
-      "Trans": {"SC":"机动滑索","JA":"机動滑索"},
+      "Trans": {"SC":"机动滑索","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68308,7 +68574,7 @@
     {
       "NamespaceHash": "Content::3678938782",
       "Source": "Numbed",
-      "Trans": {"SC":"迟钝","JA":"遲鈍"},
+      "Trans": {"SC":"迟钝","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68556,7 +68822,7 @@
     {
       "NamespaceHash": "GraphLiteral::2193845757",
       "Source": "POWER ACTIVATED",
-      "Trans": {"SC":"电源已激活","JA":"電源已激活"},
+      "Trans": {"SC":"电源已激活","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68598,7 +68864,7 @@
     {
       "NamespaceHash": "Content::3369129492",
       "Source": "Helper Mad",
-      "Trans": {"SC":"疯狂助理","JA":"疯狂助理"},
+      "Trans": {"SC":"疯狂助理","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68835,14 +69101,14 @@
       "NamespaceHash": "Content::241140602",
       "Source": "Dreadmare",
       //mare母马
-      "Trans": {"SC":"梦魇马","JA":"梦魘马"},
+      "Trans": {"SC":"梦魇马","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2662416210",
       "Source": "Dreadstallion",
       ////stallion公种马
-      "Trans": {"SC":" 梦魇马 ","JA":" 梦魘马 "},
+      "Trans": {"SC":" 梦魇马 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68893,13 +69159,13 @@
     {
       "NamespaceHash": "Content::3017166261",
       "Source": "Terror Shield",
-      "Trans": {"SC":"恐惧护盾","JA":"恐惧護盾"},
+      "Trans": {"SC":"恐惧护盾","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1745775740",
       "Source": "Aura of Hate",
-      "Trans": {"SC":"仇恨光环","JA":"仇恨光環"},
+      "Trans": {"SC":"仇恨光环","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68912,7 +69178,7 @@
       "NamespaceHash": "Content::1787822783",
       "Source": "Athletic Cooldown",
       //生物特性-BuffName
-      "Trans": {"SC":"运动冷却","JA":"运動冷却"},
+      "Trans": {"SC":"运动冷却","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70199,7 +70465,7 @@
     {
       "NamespaceHash": "GraphLiteral::8721543",
       "Source": "Who's There?",
-      "Trans": {"SC":"嗅探周围","JA":"嗅探周圍"},
+      "Trans": {"SC":"嗅探周围","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70315,97 +70581,97 @@
     {
       "NamespaceHash": "Content::1200177310",
       "Source": "Bob's Wasteland Prologue",
-      "Trans": {"SC":"鲍勃的故事\r\n废土序幕","JA":"鮑勃的故事\r\n廢土序幕"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土序幕","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1775671709",
       "Source": "Bob's Wasteland Epilogue",
-      "Trans": {"SC":"鲍勃的故事\r\n废土尾声","JA":"鮑勃的故事\r\n廢土尾声"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土尾声","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::843149838",
       "Source": "Bob's Wasteland Tale 1",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 1","JA":"鮑勃的故事\r\n廢土篇 1"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::552918496",
       "Source": "Bob's Wasteland Tale 2",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 2","JA":"鮑勃的故事\r\n廢土篇 2"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2554903173",
       "Source": "Bob's Wasteland Tale 3",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 3","JA":"鮑勃的故事\r\n廢土篇 3"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::94339644",
       "Source": "Bob's Wasteland Tale 4",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 4","JA":"鮑勃的故事\r\n廢土篇 4"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::3173246297",
       "Source": "Bob's Wasteland Tale 5",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 5","JA":"鮑勃的故事\r\n廢土篇 5"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::2945862327",
       "Source": "Bob's Wasteland Tale 6",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 6","JA":"鮑勃的故事\r\n廢土篇 6"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::388640210",
       "Source": "Bob's Wasteland Tale 7",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 7","JA":"鮑勃的故事\r\n廢土篇 7"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1330199940",
       "Source": "Bob's Wasteland Tale 8",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 8","JA":"鮑勃的故事\r\n廢土篇 8"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 8","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::4160051937",
       "Source": "Bob's Wasteland Tale 9",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇 9","JA":"鮑勃的故事\r\n廢土篇 9"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇 9","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::1198572404",
       "Source": "Bob's Wasteland Tale 10",
-      "Trans": {"SC":"鲍勃的故事\r\n废土篇10","JA":"鮑勃的故事\r\n廢土篇10"},
+      "Trans": {"SC":"鲍勃的故事\r\n废土篇10","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //鲍勃故事-图鉴标题
     },
     {
       "NamespaceHash": "Content::278771044",
       "Source": "Armadoggo Dossier",
-      "Trans": {"SC":"铠护犬图鉴","JA":"铠护犬圖鑒"},
+      "Trans": {"SC":"铠护犬图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2645276728",
       "Source": "Armadoggo",
-      "Trans": {"SC":"铠护犬","JA":"鎧護犬"},
+      "Trans": {"SC":"铠护犬","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -70448,13 +70714,13 @@
     {
       "NamespaceHash": "Content::801524908",
       "Source": "ARMOR",
-      "Trans": {"SC":"护甲","JA":"護甲"},
+      "Trans": {"SC":"护甲","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::332365920",
       "Source": "GEAR",
-      "Trans": {"SC":"装备","JA":"装備"},
+      "Trans": {"SC":"装备","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70496,7 +70762,7 @@
     {
       "NamespaceHash": "Content::4253858013",
       "Source": "Armadoggo Companion",
-      "Trans": {"SC":"铠护犬伴随","JA":"鎧護犬伴随"},
+      "Trans": {"SC":"铠护犬伴随","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70881,7 +71147,7 @@
     {
       "NamespaceHash": "Content::1270016670",
       "Source": "Gacha Claus",
-      "Trans": {"SC":"圣诞嘎查","JA":"圣誕嘎査"},
+      "Trans": {"SC":"圣诞嘎查","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -71021,7 +71287,7 @@
     {
       "NamespaceHash": "Content::3050306118",
       "Source": "Extinguished",
-      "Trans": {"SC":"扑灭","JA":"扑滅"},
+      "Trans": {"SC":"扑灭","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -71106,7 +71372,7 @@
     {
       "NamespaceHash": "Content::1816768700",
       "Source": "Swarmed!",
-      "Trans": {"SC":"蜂拥!","JA":"蜂擁!"},
+      "Trans": {"SC":"蜂拥!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -71318,7 +71584,7 @@
     {
       "NamespaceHash": "Content::4282755196",
       "Source": "Titan Slayer",
-      "Trans": {"SC":"泰坦杀手","JA":"泰坦殺手"},
+      "Trans": {"SC":"泰坦杀手","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -71358,7 +71624,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1803085135",
+      "NamespaceHash": "GraphLiteral::1803085135",
       "Source": " for ",
       "Trans": {"SC":" 持续 ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -71427,7 +71693,7 @@
     {
       "NamespaceHash": "Content::4056936997",
       "Source": "Dilo Venom",
-      "Trans": {"SC":"双嵴龙毒液","JA":"双脊龙毒液"},
+      "Trans": {"SC":"双嵴龙毒液","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -71706,7 +71972,7 @@
     {
       "NamespaceHash": "Content::2564616871",
       "Source": "BattleRig",
-      "Trans": {"SC":"战车","JA":"戰车"},
+      "Trans": {"SC":"战车","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -71874,13 +72140,13 @@
     {
       "NamespaceHash": "GraphLiteral::959486086",
       "Source": "CHARGING",
-      "Trans": {"SC":"充能中","JA":"充能中"},
+      "Trans": {"SC":"充能中","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::959486086",
       "Source": "CHARGING",
-      "Trans": {"SC":"充能中","JA":"充能中"},
+      "Trans": {"SC":"充能中","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -73025,70 +73291,70 @@
     {
       "NamespaceHash": "Content::2316525172",
       "Source": "Ambusher's (Projectile Trait)",
-      "Trans": {"SC":"伏击 (弹药特性)","JA":"伏擊 (彈藥特性)"},
+      "Trans": {"SC":"伏击 (弹药特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::1362056023",
       "Source": "Antigrav (Projectile Trait)",
-      "Trans": {"SC":"反重力 (弹药特性)","JA":"反重力 (彈藥特性)"},
+      "Trans": {"SC":"反重力 (弹药特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::3165053031",
       "Source": "Assassin's (Projectile Trait)",
-      "Trans": {"SC":"刺客 (弹药特性)","JA":"刺客 (彈藥特性)"},
+      "Trans": {"SC":"刺客 (弹药特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::3220279353",
       "Source": "Berserker's (Melee Trait)",
-      "Trans": {"SC":"狂战士 (近战特性)","JA":"狂戰士 (近戰特性)"},
+      "Trans": {"SC":"狂战士 (近战特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::539166734",
       "Source": "Big Game Hunter’s (Projectile Trait)",
-      "Trans": {"SC":"王牌猎人 (弹药特性)","JA":"王牌獵人 (彈藥特性)"},
+      "Trans": {"SC":"王牌猎人 (弹药特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::140985896",
       "Source": "Cannibalizing (Gun Trait)",
-      "Trans": {"SC":"拆用 (枪械特性)","JA":"拆用 (槍械特性)"},
+      "Trans": {"SC":"拆用 (枪械特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::2805760610",
       "Source": "Catching (Armor Trait)",
-      "Trans": {"SC":"捕获 (护甲特性)","JA":"捕獲 (護甲特性)"},
+      "Trans": {"SC":"捕获 (护甲特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::679652092",
       "Source": "Cleansing (Armor Trait)",
-      "Trans": {"SC":"净化 (护甲特性)","JA":"凈化 (護甲特性)"},
+      "Trans": {"SC":"净化 (护甲特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::3318363339",
       "Source": "Echoing (Projectile Trait)",
-      "Trans": {"SC":"连锁 (弹药特性)","JA":"連鎖 (彈藥特性)"},
+      "Trans": {"SC":"连锁 (弹药特性)","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::1928121893",
       "Source": "Focusing (Gun Trait)",
-      "Trans": {"SC":"专注 (枪械特性)","JA":"專注 (槍械特性)"},
+      "Trans": {"SC":"专注 (枪械特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
@@ -73375,70 +73641,70 @@
     {
       "NamespaceHash": "Content::1883948066",
       "Source": "Lifedrinking (Melee Trait)",
-      "Trans": {"SC":"汲取生命 (近战特性)","JA":"汲取生命 (近戰特性)"},
+      "Trans": {"SC":"汲取生命 (近战特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::1427427074",
       "Source": "Marathon (Armor Trait)",
-      "Trans": {"SC":"运动健将 (护甲特性)","JA":"運動健將 (護甲特性)"},
+      "Trans": {"SC":"运动健将 (护甲特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::1349318482",
       "Source": "Medical (Armor Trait)",
-      "Trans": {"SC":"治疗 (护甲特性)","JA":"治療 (護甲特性)"},
+      "Trans": {"SC":"治疗 (护甲特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::2079150329",
       "Source": "Mobile (Armor Trait)",
-      "Trans": {"SC":"高机动 (护甲特性)","JA":"高機動 (護甲特性)"},
+      "Trans": {"SC":"高机动 (护甲特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::3165552737",
       "Source": "Protecting (Gun Trait)",
-      "Trans": {"SC":"保护 (枪械特性)","JA":"保護 (槍械特性)"},
+      "Trans": {"SC":"保护 (枪械特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::1115403349",
       "Source": "Ricocheting (Gun Trait)",
-      "Trans": {"SC":"跳弹 (枪械特性)","JA":"跳彈 (槍械特性)"},
+      "Trans": {"SC":"跳弹 (枪械特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::1895760773",
       "Source": "Rogue's (Melee Trait)",
-      "Trans": {"SC":"背刺 (近战特性)","JA":"背刺 (近戰特性)"},
+      "Trans": {"SC":"背刺 (近战特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::2167315173",
       "Source": "Shielding (Melee Trait)",
-      "Trans": {"SC":"护盾 (近战特性)","JA":"護盾 (近戰特性)"},
+      "Trans": {"SC":"护盾 (近战特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::868776689",
       "Source": "Tracker's (Gun Trait)",
-      "Trans": {"SC":"追踪 (枪械特性)","JA":"追蹤 (槍械特性)"},
+      "Trans": {"SC":"追踪 (枪械特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
     {
       "NamespaceHash": "Content::931347546",
       "Source": "Worker's (Melee Trait)",
-      "Trans": {"SC":"工匠 (近战特性)","JA":"工匠 (近戰特性)"},
+      "Trans": {"SC":"工匠 (近战特性)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //装备特性-BUFF
     },
@@ -75122,14 +75388,14 @@
     {
       "NamespaceHash": "Content::1670834554",
       "Source": "Argentavis",
-      "Trans": {"SC":"阿根廷鹫","JA":"阿根廷鷲"}, //原: 阿根廷巨鹰
+      "Trans": {"SC":"阿根廷鹫","JA":""}, //原: 阿根廷巨鹰
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //(阿根廷鹫, Argentavis是一种美洲鹫类, 而不是鹰)
     },
     {
       "NamespaceHash": "Content::3309767460",
       "Source": "Arthropluera",
-      "Trans": {"SC":"节胸虫","JA":"節胸虫"}, //原: 古马陆
+      "Trans": {"SC":"节胸虫","JA":""}, //原: 古马陆
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //(节胸虫, Arthropluera意为环节的胸部, 该物种与马陆没有较近的亲缘关系)
       //Arthropluera,Arthro-, 意为“分节的”; Pluera, 意为“胸骨”, 这种动物有多种译名, 如“节胸蜈蚣”、“节胸马陆”、“古马陆”等等, 但是均无法反映实际分类地位, 这里采用“节胸虫”一意.
@@ -75139,6 +75405,8 @@
       "Source": "Beelzebufo",
       "Trans": {"SC":"魔鬼蛙","JA":""}, //魔鬼蟾-未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      //Beelze: 源自Beelzebub(别西卜), 引申为恶魔/魔鬼
+      //bufo: 蟾蜍
     },
     {
       "NamespaceHash": "Content::423168591",
@@ -75150,7 +75418,7 @@
     {
       "NamespaceHash": "Content::3482516962",
       "Source": "Chalicotherium",
-      "Trans": {"SC":"爪兽","JA":"爪獸"}, //原: 砂犷兽
+      "Trans": {"SC":"爪兽","JA":""}, //原: 砂犷兽
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //(爪兽, 中国大陆官方译名, 指其用脚爪行走的特征)
     },
@@ -75176,14 +75444,14 @@
     {
       "NamespaceHash": "Content::1504063418",
       "Source": "Kairuku",
-      "Trans": {"SC":"潜觅企鹅","JA":"潜覓企鵝"}, //原: 远古企鹅
+      "Trans": {"SC":"潜觅企鹅","JA":""}, //原: 远古企鹅
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //(潜觅企鹅, Kairuku来自毛利语, 意为带着食物返回的“潜水者”)
     },
     {
       "NamespaceHash": "Content::1440055584",
       "Source": "Kentrosaurus",
-      "Trans": {"SC":"钉状龙","JA":"釘状龙"}, //原: 肯氏龙
+      "Trans": {"SC":"钉状龙","JA":""}, //原: 肯氏龙
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //(kentron来自希腊语, 意为“刺状的” , 如非纪念人名不建议音译为“肯氏”)
     },
@@ -75197,7 +75465,7 @@
     {
       "NamespaceHash": "Content::3984558531",
       "Source": "Pelagornis",
-      "Trans": {"SC":"伪齿鸟","JA":"偽齿鸟"}, //掠海翁-暂未更改
+      "Trans": {"SC":"伪齿鸟","JA":""}, //掠海翁-暂未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //Pelagornis意为“来自远洋的鸟类” , 而伪齿鸟Pseudodontornis是另一属鸟类的名称, 该名称现被认为可能为无效名称.
     },
@@ -75211,19 +75479,19 @@
     {
       "NamespaceHash": "Content::791795043",
       "Source": "Plesiosaur",
-      "Trans": {"SC":"蛇颈龙","JA":"蛇頸龙"}, //薄板龙-未更改
+      "Trans": {"SC":"蛇颈龙","JA":""}, //薄板龙-未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3127500046",
       "Source": "Plesio",
-      "Trans": {"SC":"蛇颈龙","JA":"蛇頸龙"}, //薄板龙-未更改
+      "Trans": {"SC":"蛇颈龙","JA":""}, //薄板龙-未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4160327451",
       "Source": "Plessie",
-      "Trans": {"SC":"蛇颈龙","JA":"蛇頸龙"}, //薄板龙-未更改
+      "Trans": {"SC":"蛇颈龙","JA":""}, //薄板龙-未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -75243,7 +75511,7 @@
     {
       "NamespaceHash": "Content::2218861549",
       "Source": "Purlovia",
-      "Trans": {"SC":"普雷兽","JA":"普雷獸"}, //原: 兽头兽
+      "Trans": {"SC":"普雷兽","JA":""}, //原: 兽头兽
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //Purly来自俄罗斯西部的普雷地区, 兽头兽通常指兽头亚目Therocephalia
     },
@@ -75256,7 +75524,7 @@
     {
       "NamespaceHash": "Content::3257943465",
       "Source": "Sabertooth Salmon",
-      "Trans": {"SC":"剑齿鲑鱼","JA":"劍齿鮭鱼"}, //暂未更改
+      "Trans": {"SC":"剑齿鲑鱼","JA":""}, //暂未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -75269,13 +75537,13 @@
     {
       "NamespaceHash": "Content::223443945",
       "Source": "Titanoboa",
-      "Trans": {"SC":"泰坦蚺","JA":"泰坦蟒"}, //原: 泰坦巨蟒 //ja蟒是字库缺失的妥协.
+      "Trans": {"SC":"泰坦蚺","JA":""}, //原: 泰坦巨蟒 //ja蟒是字库缺失的妥协.
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1380665162",
       "Source": "Titanomyrma",
-      "Trans": {"SC":"泰坦蚁","JA":"泰坦蟻"}, //原: 巨型蚂蚁
+      "Trans": {"SC":"泰坦蚁","JA":""}, //原: 巨型蚂蚁
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //Titan意为泰坦, 与泰坦巨龙Titanosaurus保持统一
     },
@@ -75290,7 +75558,7 @@
     {
       "NamespaceHash": "Content::3730882816",
       "Source": "Morellatops",
-      "Trans": {"SC":"驼峰龙","JA":"駝峰龙"}, //原: 驼峰兽
+      "Trans": {"SC":"驼峰龙","JA":""}, //原: 驼峰兽
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //莫雷拉角龙, Morella+ceratops, 海莲娜在图鉴中明确指出该物种是一种恐龙, 而不是兽, 怀疑由莫雷拉齿龙Morelladon和角龙类ceratops杂交形成;
       //为了减少割裂感译为驼峰龙.
@@ -75298,7 +75566,7 @@
     {
       "NamespaceHash": "Content::2730132218",
       "Source": "Camelsaurus",
-      "Trans": {"SC":"驼峰龙","JA":"駝峰龙"}, //原: 驼峰兽
+      "Trans": {"SC":"驼峰龙","JA":""}, //原: 驼峰兽
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //莫雷拉角龙, Morella+ceratops, 海莲娜在图鉴中明确指出该物种是一种恐龙, 而不是兽, 怀疑由莫雷拉齿龙Morelladon和角龙类ceratops杂交形成;
       //为了减少割裂感译为驼峰龙.
@@ -75314,7 +75582,7 @@
     {
       "NamespaceHash": "Content::363805421",
       "Source": "Vulture",
-      "Trans": {"SC":"秃鹫","JA":"禿鷲"}, //皱脸秃鹫  //未更改
+      "Trans": {"SC":"秃鹫","JA":""}, //皱脸秃鹫  //未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -75351,7 +75619,7 @@
     {
       "NamespaceHash": "Content::2924472279",
       "Source": "Astrocetus",
-      "Trans": {"SC":"星辰鲸","JA":"星辰鯨"}, //原: 虚空鲸
+      "Trans": {"SC":"星辰鲸","JA":""}, //原: 虚空鲸
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //Astro-, 意为星辰;-cetus, 意为鲸
     },
@@ -75365,7 +75633,7 @@
     {
       "NamespaceHash": "Content::765329612",
       "Source": "Megachelon",
-      "Trans": {"SC":"岛巨龟","JA":"島巨龟"}, //原: 岛龟
+      "Trans": {"SC":"岛巨龟","JA":""}, //原: 岛龟
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //Mega-, 意为巨大的;-chelon, 意为龟
     },
@@ -75385,33 +75653,33 @@
     {
       "NamespaceHash": "Content::1318580228",
       "Source": "Maewing",
-      "Trans": {"SC":"鸭嘴飞鼠","JA":"鴨嘴飞鼠"}, //慈母翼鼠-未更改
+      "Trans": {"SC":"鸭嘴飞鼠","JA":""}, //慈母翼鼠-未更改
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //Mae-, 拉丁语词缀, 有母亲的意思; wing, 翼
     },
     {
       "NamespaceHash": "Content::3360748354",
       "Source": "Rhyniognatha",
-      "Trans": {"SC":"莱尼颚虫","JA":"莱尼顎虫"}, //原: 莱尼虫
+      "Trans": {"SC":"莱尼颚虫","JA":""}, //原: 莱尼虫
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       ///gnatha, 有颚&颌骨的意思
     },
     {
       "NamespaceHash": "Content::4199880234",
       "Source": "Fjordhawk",
-      "Trans": {"SC":"峡鹰","JA":"峡鷹"}, //原: 菲尤尔峡鹰; 菲尤尔多余.
+      "Trans": {"SC":"峡鹰","JA":""}, //原: 菲尤尔峡鹰; 菲尤尔多余.
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::750525170",
       "Source": "Dilophosaur",
-      "Trans": {"SC":"双嵴龙","JA":"双脊龙"}, //脊是错误的, 繁体没有嵴, 因此使用脊来代替
+      "Trans": {"SC":"双嵴龙","JA":""}, //脊是错误的, 繁体没有嵴, 因此使用脊来代替
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4022439507",
       "Source": "Dilophosaurus",
-      "Trans": {"SC":"双嵴龙","JA":"双脊龙"}, //脊是错误的, 繁体没有嵴, 因此使用脊来代替
+      "Trans": {"SC":"双嵴龙","JA":""}, //脊是错误的, 繁体没有嵴, 因此使用脊来代替
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -75424,7 +75692,7 @@
     {
       "NamespaceHash": "Content::2099973213",
       "Source": "Glowbug",
-      "Trans": {"SC":"电光萤","JA":"電光螢"}, //原: 发光虫
+      "Trans": {"SC":"电光萤","JA":""}, //原: 发光虫
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //电光萤, 根据设定, Lampyridae sublimis实际是一种萤火虫
     },
@@ -75449,7 +75717,7 @@
     {
       "NamespaceHash": "Content::3158651133",
       "Source": "Shinehorn",
-      "Trans": {"SC":"闪角鹿","JA":"閃角鹿"}, //原: 闪角兽
+      "Trans": {"SC":"闪角鹿","JA":""}, //原: 闪角兽
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -82520,7 +82788,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier1::1592329791",
       "Source": "Kill 1 Revenant",
-      "Trans": {"SC":"击杀1只亡魂","JA":""},
+      "Trans": {"SC":"击杀1只怨灵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82892,7 +83160,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::2738728566",
       "Source": "Kill 1 Elderclaw",
-      "Trans": {"SC":"击杀1只古爪兽","JA":""},
+      "Trans": {"SC":"击杀1只远古之爪","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -82934,7 +83202,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier2::636236170",
       "Source": "Kill 1 Grand Tortugar",
-      "Trans": {"SC":"击杀1只巨甲陆龟","JA":""},
+      "Trans": {"SC":"击杀1只巨甲龟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85064,7 +85332,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::194859006",
       "Source": "Kill 5 Elderclaw",
-      "Trans": {"SC":"击杀5只古爪兽","JA":""},
+      "Trans": {"SC":"击杀5只远古之爪","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85106,7 +85374,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier3::1957399837",
       "Source": "Kill 5 Grand Tortugar",
-      "Trans": {"SC":"击杀5只巨甲陆龟","JA":""},
+      "Trans": {"SC":"击杀5只巨甲龟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85322,7 +85590,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::2286205701",
       "Source": "Kill 1 Titanosaur",
-      "Trans": {"SC":"击杀1只泰坦龙","JA":""},
+      "Trans": {"SC":"击杀1只泰坦巨龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85568,7 +85836,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::866527639",
       "Source": "Kill 25 Elderclaw",
-      "Trans": {"SC":"击杀25只古爪兽","JA":""},
+      "Trans": {"SC":"击杀25只远古之爪","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -85610,7 +85878,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier4::76771972",
       "Source": "Kill 25 Grand Tortugar",
-      "Trans": {"SC":"击杀25只巨甲陆龟","JA":""},
+      "Trans": {"SC":"击杀25只巨甲龟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87380,7 +87648,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::1923958261",
       "Source": "Kill 100 Revenant",
-      "Trans": {"SC":"击杀100只亡魂","JA":""},
+      "Trans": {"SC":"击杀100只怨灵","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87728,7 +87996,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::2122516597",
       "Source": "Kill 5 Titanosaur",
-      "Trans": {"SC":"击杀5只泰坦龙","JA":""},
+      "Trans": {"SC":"击杀5只泰坦巨龙","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -87974,7 +88242,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::20674153",
       "Source": "Kill 50 Elderclaw",
-      "Trans": {"SC":"击杀50只古爪兽","JA":""},
+      "Trans": {"SC":"击杀50只远古之爪","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -88016,7 +88284,7 @@
     {
       "NamespaceHash": "DT_Bounties_Tier5::975187241",
       "Source": "Kill 50 Grand Tortugar",
-      "Trans": {"SC":"击杀50只巨甲陆龟","JA":""},
+      "Trans": {"SC":"击杀50只巨甲龟","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
