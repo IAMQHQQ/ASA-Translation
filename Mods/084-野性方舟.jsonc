@@ -1,5 +1,5 @@
 {
-  "Additional Creatures: Wild Ark": [//更新于2026年3月4日
+  "Additional Creatures: Wild Ark": [//更新于2026年11月5日
     {
       "NamespaceHash": "Content::1009625081",
       "Source": "Varanidae",
@@ -219,19 +219,19 @@
     {
       "NamespaceHash": "Content::3767069476",
       "Source": "Kaikaifilu",
-      "Trans": {"SC":"海蛇神龙","JA":""},
+      "Trans": {"SC":"埃氏海神龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3925315723",
       "Source": "Aberrant Kaikaifilu",
-      "Trans": {"SC":"畸变海蛇神龙","JA":"畸變海蛇神龙"},
+      "Trans": {"SC":"畸变埃氏海神龙","JA":"畸變海蛇神龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::477812237",
       "Source": "Dragon of Cedar Mountain",
-      "Trans": {"SC":"雪松山之龙","JA":""},
+      "Trans": {"SC":"雪松山龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -513,7 +513,7 @@
     {
       "NamespaceHash": "Content::3806052353",
       "Source": "Equip a Cedarosaurus with this to ride it.",
-      "Trans": {"SC":"给雪松龙装备此物，即可骑乘。","JA":""},
+      "Trans": {"SC":"装备到雪松龙上以骑乘。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -531,13 +531,13 @@
     {
       "NamespaceHash": "Content::3829121423",
       "Source": "Cedardraco Saddle",
-      "Trans": {"SC":"雪松龙翼龙鞍","JA":""},
+      "Trans": {"SC":"雪松山龙鞍","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2551817164",
       "Source": "Equip a Cedardraco with this to ride it.",
-      "Trans": {"SC":"给雪松龙翼龙装备此物，即可骑乘。","JA":""},
+      "Trans": {"SC":"装备到雪松山龙上以骑乘。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -597,7 +597,7 @@
     {
       "NamespaceHash": "Content::1494072043",
       "Source": "Equip a Eryops with this to ride it.",
-      "Trans": {"SC":"给引螈装备此物，即可骑乘。","JA":""},
+      "Trans": {"SC":"装备到引螈上以骑乘。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -651,13 +651,13 @@
     {
       "NamespaceHash": "Content::3495565156",
       "Source": "Kaikaifilu Saddle",
-      "Trans": {"SC":"海蛇神龙鞍","JA":""},
+      "Trans": {"SC":"埃氏海神龙鞍","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2194548761",
       "Source": "Equip a Kaikaifilu with this to ride it.",
-      "Trans": {"SC":"给海蛇神龙装备此物，即可骑乘。","JA":""},
+      "Trans": {"SC":"给埃氏海神龙装备此物，即可骑乘。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -795,37 +795,37 @@
     {
       "NamespaceHash": "Content::2451167974",
       "Source": "Vallibonavenatrix Gauntlets",
-      "Trans": {"SC":"瓦利波纳盗龙爪套","JA":""},
+      "Trans": {"SC":"巴利沃那女猎龙爪套","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3511423240",
       "Source": "Equip a Vallibonavenatrix with these gauntlets in order to boost its claw attack power and new attributes to the attacks.",
-      "Trans": {"SC":"给瓦利波纳盗龙装备该爪套，可提升其爪击威力，并为攻击附加全新属性。","JA":""},
+      "Trans": {"SC":"给巴利沃那女猎龙装备该爪套，可提升其爪击威力，并为攻击附加全新属性。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1400586777",
       "Source": "Vallibonavenatrix Muzzle",
-      "Trans": {"SC":"瓦利波纳盗龙口套","JA":""},
+      "Trans": {"SC":"巴利沃那女猎龙口套","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3594886136",
       "Source": "Equip a Vallibonavenatrix with this to increase its biting strength.",
-      "Trans": {"SC":"给瓦利波纳盗龙装备该口套，可提升其撕咬力度。","JA":""},
+      "Trans": {"SC":"给巴利沃那女猎龙装备该口套，可提升其撕咬力度。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3280463201",
       "Source": "Vallibonavenatrix Saddle",
-      "Trans": {"SC":"瓦利波纳盗龙鞍","JA":""},
+      "Trans": {"SC":"巴利沃那女猎龙鞍","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2612567858",
       "Source": "Equip a Vallibonavenatrix with this to ride it.",
-      "Trans": {"SC":"给瓦利波纳盗龙装备此物，即可骑乘。","JA":""},
+      "Trans": {"SC":"给巴利沃那女猎龙装备此物，即可骑乘。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1731,7 +1731,7 @@
     {
       "NamespaceHash": "Content::820846244",
       "Source": "Valli Gauntlets",
-      "Trans": {"SC":"瓦利爪套","JA":""},
+      "Trans": {"SC":"巴利沃那女猎龙爪套","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1743,7 +1743,7 @@
     {
       "NamespaceHash": "Content::4183162353",
       "Source": "Valli Muzzle",
-      "Trans": {"SC":"瓦利口套","JA":""},
+      "Trans": {"SC":"巴利沃那女猎龙口套","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -2782,6 +2782,246 @@
       "NamespaceHash": "Content::3584501150",
       "Source": "Ragdolled",
       "Trans": {"SC":"瘫软","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1465749569",
+      "Source": "Thalassodromeus",
+      "Trans": {"SC":"掠海翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::447744597",
+      "Source": "X-Albertosaurus",
+      "Trans": {"SC":"X-阿尔伯托龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::229378785",
+      "Source": "Rhizodus",
+      "Trans": {"SC":"根齿鱼","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2870759696",
+      "Source": "X-Xuanhanosaurus",
+      "Trans": {"SC":"X-宣汉龙","JA":"X-宣漢龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4225628371",
+      "Source": "Aberrant Spinoraptor",
+      "Trans": {"SC":"畸变棘盗龙","JA":"畸變棘盗龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1108162189",
+      "Source": "Nigersaurus",
+      "Trans": {"SC":"尼日尔龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3427493341",
+      "Source": "Rhizodus Nest",
+      "Trans": {"SC":"根齿鱼巢穴","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4044755176",
+      "Source": "X-Iguanacolossus",
+      "Trans": {"SC":"X-巨禽龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3090242551",
+      "Source": "X-Deinocheirus",
+      "Trans": {"SC":"X-恐手龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3902933680",
+      "Source": "X-Eryops",
+      "Trans": {"SC":"X-引螈","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1969238690",
+      "Source": "X-Spinoraptor",
+      "Trans": {"SC":"X-棘盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4141362771",
+      "Source": "X-Brachauchenius",
+      "Trans": {"SC":"X-短颈龙","JA":"X - 短頸龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2172961942",
+      "Source": "X-Kaikaifilu",
+      "Trans": {"SC":"X-埃氏海神龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2170393706",
+      "Source": "Spinoraptor Saddle",
+      "Trans": {"SC":"棘盗龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3087059151",
+      "Source": "Equip a Spinoraptor with this to ride it",
+      "Trans": {"SC":"装备到棘盗龙上以骑乘","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2374072424",
+      "Source": "Nigersaurus Saddle",
+      "Trans": {"SC":"尼日尔龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3445754939",
+      "Source": "Equip a Nigersaurus with this to ride it.",
+      "Trans": {"SC":"装备到尼日尔龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4280085219",
+      "Source": "Rhizodus Saddle",
+      "Trans": {"SC":"根齿鱼鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3953920013",
+      "Source": "Equip a Rhizodus with this to ride it.",
+      "Trans": {"SC":"装备到根齿鱼上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3344381938",
+      "Source": "Thalassodromeus Saddle",
+      "Trans": {"SC":"掠海翼龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1487421665",
+      "Source": "Equip a Thalassodromeus with this to ride it.",
+      "Trans": {"SC":"装备到掠海翼龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::902250961",
+      "Source": "Equip a Nothronychus with this to ride it.",
+      "Trans": {"SC":"装备到懒爪龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2457134045",
+      "Source": "An Ultimate Challenge (Unrestricted)",
+      "Trans": {"SC":"终极挑战（无限制）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3672268685",
+      "Source": "This item allows you to challenge a Smok, but allows any creature to be a valid challenger.<#RN#><#RN#>Cannot be obtained in normal gameplay, but intended to be used by players how they wish.",
+      "Trans": {"SC":"使用该物品可挑战斯莫克，且任意生物均可作为挑战者。<#RN#><#RN#> 无法在正常游戏流程中获取，供玩家自由使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2652448592",
+      "Source": "Fertilized Nothronychus Egg",
+      "Trans": {"SC":"受精的懒爪龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2816214991",
+      "Source": "Fertilized X-Iguanacolossus Egg",
+      "Trans": {"SC":"受精的X-巨禽龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4283934446",
+      "Source": "Fertilized X-Deinocheirus Egg",
+      "Trans": {"SC":"受精的X-恐手龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1483231702",
+      "Source": "Fertilized Nigersaurus Egg",
+      "Trans": {"SC":"受精的尼日尔龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::127582366",
+      "Source": "Fertilized Aberrant Spinoraptor Egg",
+      "Trans": {"SC":"受精的畸变棘盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3235568992",
+      "Source": "Fertilized X-Spinoraptor Egg",
+      "Trans": {"SC":"受精的X-棘盗龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3698374789",
+      "Source": "Fertilized Thalassodromeus Egg",
+      "Trans": {"SC":"受精的掠海翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3317099828",
+      "Source": "Fertilized X-Xuanhanosaurus Egg",
+      "Trans": {"SC":"受精的X-宣汉龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3206741279",
+      "Source": "Fertilized Rhizodus Egg",
+      "Trans": {"SC":"受精的根齿鱼蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2705243440",
+      "Source": "Fertilized X-Eryops Egg",
+      "Trans": {"SC":"受精的X-引螈蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::15174694",
+      "Source": "Smok Flag",
+      "Trans": {"SC":"斗蜥龙鳄旗帜","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::533322959",
+      "Source": "This flag is proof that you have defeated Smok saurovindico in battle, and claimed its egg.",
+      "Trans": {"SC":"此旗帜是你在战斗中击败斗蜥龙鳄并夺得它蛋的证明。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::140728424",
+      "Source": "Ocean Runner",
+      "Trans": {"SC":"海洋奔跑者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::170396251",
+      "Source": "Stamina Recovery and boosted speed when not running.",
+      "Trans": {"SC":"非奔跑状态下恢复耐力并提升移速。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1527404634",
+      "Source": "Hydration Cost",
+      "Trans": {"SC":"水分消耗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3932125803",
+      "Source": "Hydrated Sauropod",
+      "Trans": {"SC":"水润蜥脚类","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
