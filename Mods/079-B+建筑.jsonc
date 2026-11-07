@@ -1,5 +1,5 @@
 {
-  "BossMod": [//2026.8.15 新增翻译
+  "BossMod": [//2026.11.4 新增翻译
     {
       "NamespaceHash": "Content::1668916151",
       "Source": "B+Armour",
@@ -4329,7 +4329,7 @@
     {
       "NamespaceHash": "6350EA224D2E2C6207F9C59A6D06DF42",
       "Source": "Collect_Turtles",
-      "Trans": {"SC":"收集_海龟","JA":""},
+      "Trans": {"SC":"收集_龟类","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1594548210"}
     },
     {
@@ -8052,6 +8052,276 @@
       "Source": "DONE",
       "Trans": {"SC":"完成","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1833343489",
+      "Source": "Custom Tek Wall",
+      "Trans": {"SC":"自定义泰克墙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::799661518",
+      "Source": "B+ Bloodforge",
+      "Trans": {"SC":"B+血铸熔炉","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::436139318",
+      "Source": "B+ Metal",
+      "Trans": {"SC":"B+金属","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "9F30EAA043D081FAD9BD08AF46BCF720",
+      "Source": "Claim",
+      "Trans": {"SC":"认领","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3203963959"}
+    },
+    {
+      "NamespaceHash": "20F17F7C4FA888C302DA35BFEC000EA1",
+      "Source": "Destroy",
+      "Trans": {"SC":"销毁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1732284524"}
+    },
+    {
+      "NamespaceHash": "A01BAF75423132A60D947DAFD90F4844",
+      "Source": "Hatch Egg",
+      "Trans": {"SC":"孵化蛋","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"543126108"}
+    },
+    {
+      "NamespaceHash": "6361C257445C04E058B5508DDDE668D5",
+      "Source": "Save",
+      "Trans": {"SC":"保存","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3625617538"}
+    },
+    {
+      "NamespaceHash": "AC547B084F8F158D19C62697CCDD8B78",
+      "Source": "Tribe of example tribe here",
+      "Trans": {"SC":"示例部落","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"664692830"}
+    },
+    {
+      "NamespaceHash": "FD5CEB5344239CEC1280E187BB9F126A",
+      "Source": "Pick Up",
+      "Trans": {"SC":"拾取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4035780868"}
+    },
+    {
+      "NamespaceHash": "84A82B2A4DF08DDEC19C148CC4138653",
+      "Source": "Colour Box",
+      "Trans": {"SC":"颜色面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"158083348"}
+    },
+    {
+      "NamespaceHash": "838B4B2C4D6B79BAF0314595094DCF29",
+      "Source": "Colour Box",
+      "Trans": {"SC":"颜色面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"158083348"}
+    },
+    {
+      "NamespaceHash": "F04B79B44CD08123497A628944CDAB45",
+      "Source": "Colour Box",
+      "Trans": {"SC":"颜色面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"158083348"}
+    },
+    {
+      "NamespaceHash": "0494C74F4C30108A973A54A724DEE331",
+      "Source": "Colour Box",
+      "Trans": {"SC":"颜色面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"158083348"}
+    },
+    {
+      "NamespaceHash": "2DAEC1DF487D4739E67A8DBF40463D5A",
+      "Source": "Colour Box",
+      "Trans": {"SC":"颜色面板","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"158083348"}
+    },
+    {
+      "NamespaceHash": "413868F8441CCBE36562869620B89C2A",
+      "Source": "Corrupted Enraged Rex",
+      "Trans": {"SC":"腐化暴怒霸王龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1797935600"}
+    },
+    {
+      "NamespaceHash": "3EE312D544BC61C225EEBAB3903FC531",
+      "Source": "Gender",
+      "Trans": {"SC":"性别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3676425587"}
+    },
+    {
+      "NamespaceHash": "C1C70DA84559D4F0227F62AA57D4A7D3",
+      "Source": "Campfire",
+      "Trans": {"SC":"篝火","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4014294108"}
+    },
+    {
+      "NamespaceHash": "3C1D24BD4F9CBCB4BF99D7BEAC1C6E71",
+      "Source": "Select ....:",
+      "Trans": {"SC":"选择....：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"182325629"}
+    },
+    {
+      "NamespaceHash": "6144E2C54DA9F814C346AEACF09E141E",
+      "Source": "Sort By Distance",
+      "Trans": {"SC":"按距离排序","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3407632243"}
+    },
+    {
+      "NamespaceHash": "ABF2E30D4639E7325C87F79E3F962950",
+      "Source": "B+ Dino Scanner",
+      "Trans": {"SC":"B+生物扫描仪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"841860094"}
+    },
+    {
+      "NamespaceHash": "FA9E17534BFE9C02621572BFA8C1CD44",
+      "Source": "Gender",
+      "Trans": {"SC":"性别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3676425587"}
+    },
+    {
+      "NamespaceHash": "04889A144608A506E0EED19B36EC97C4",
+      "Source": "Include Babies",
+      "Trans": {"SC":"包含幼崽","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4101824698"}
+    },
+    {
+      "NamespaceHash": "79AF5AF74DD55D2A7AC8DE94E73EB0B0",
+      "Source": "TERMINAL WHITELIST",
+      "Trans": {"SC":"终端白名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2980532019"}
+    },
+    {
+      "NamespaceHash": "F66BA9854FC89ECF8BFBD6B33B0AF849",
+      "Source": "DONE",
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3302924665"}
+    },
+    {
+      "NamespaceHash": "C993C7D648A662B84955C1AECDE165B5",
+      "Source": "Restoring disabled engrams requires server restart",
+      "Trans": {"SC":"恢复已禁用印痕需要重启服务器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1710707305"}
+    },
+    {
+      "NamespaceHash": "FAC37F0E4FB61E0E42CD21B3018F4BE0",
+      "Source": "Restore Items",
+      "Trans": {"SC":"恢复物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1739390569"}
+    },
+    {
+      "NamespaceHash": "EA4B9B5A41762F28216F49A5739E555C",
+      "Source": "Player Respawn Item Blacklist",
+      "Trans": {"SC":"玩家重生物品黑名单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1925384232"}
+    },
+    {
+      "NamespaceHash": "64CD6CAA4EAE08CF0C4627A5CCE3EC01",
+      "Source": "B+ Player Backup",
+      "Trans": {"SC":"B+玩家备份","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1024027517"}
+    },
+    {
+      "NamespaceHash": "8AA07CC447470B50DCCA2080D422BC9D",
+      "Source": "Gender",
+      "Trans": {"SC":"性别","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3676425587"}
+    },
+    {
+      "NamespaceHash": "4722D13B45584F748A7899AF5E9090D8",
+      "Source": "Mating Cost",
+      "Trans": {"SC":"交配成本","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1818922589"}
+    },
+    {
+      "NamespaceHash": "335CDDBA41F7EEE6A34AF1837AE6CF83",
+      "Source": "Mating Cost",
+      "Trans": {"SC":"交配成本","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1818922589"}
+    },
+    {
+      "NamespaceHash": "36BFA9294C854705702A4DA8B8EFA2DC",
+      "Source": "Delete",
+      "Trans": {"SC":"删除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3806680004"}
+    },
+    {
+      "NamespaceHash": "E1F69A0144CDB31496F3BBBFCB80BC4C",
+      "Source": "Clear",
+      "Trans": {"SC":"清除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1717697332"}
+    },
+    {
+      "NamespaceHash": "4F8931374A101B86514901A412313F1D",
+      "Source": "B+ PLAYER BACKUP",
+      "Trans": {"SC":"B+玩家备份","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4276671758"}
+    },
+    {
+      "NamespaceHash": "F99A2F9C4E71ED43C5525E8C5933D440",
+      "Source": "DONE",
+      "Trans": {"SC":"完成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3302924665"}
+    },
+    {
+      "NamespaceHash": "6763D6E04EB25AFDB621818B1F9CB303",
+      "Source": "None",
+      "Trans": {"SC":"无","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1897401797"}
+    },
+    {
+      "NamespaceHash": "0081540340E2F6D903336CA093F406DF",
+      "Source": "Increase Damage",
+      "Trans": {"SC":"增加伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3124567907"}
+    },
+    {
+      "NamespaceHash": "58B165BC4BD61A47BD4DECBADB6C2688",
+      "Source": "Decrease Damage",
+      "Trans": {"SC":"降低伤害","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3346818734"}
+    },
+    {
+      "NamespaceHash": "4F599587493B63957A41F1AFB37E78BC",
+      "Source": "10x Increase/Decrease",
+      "Trans": {"SC":"10 倍增加 / 降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1885956585"}
+    },
+    {
+      "NamespaceHash": "BEEE5742493D97B05DB6C7930A391280",
+      "Source": "Swap Direction",
+      "Trans": {"SC":"切换方向","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2675045933"}
+    },
+    {
+      "NamespaceHash": "FDB024134BB4D98DEC32CD9C5A3C757B",
+      "Source": "Destroy Gun",
+      "Trans": {"SC":"拆除枪","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"646540255"}
+    },
+    {
+      "NamespaceHash": "B1FC74034C9ADD5CE0C835B9825136F4",
+      "Source": "Drop Bag",
+      "Trans": {"SC":"掉落包裹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3676000922"}
+    },
+    {
+      "NamespaceHash": "65680B26474326A0B639839124338F7B",
+      "Source": "Player Inventory",
+      "Trans": {"SC":"玩家背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1281874801"}
+    },
+    {
+      "NamespaceHash": "1E59829C4980FE8FC18D7DB31F207CBF",
+      "Source": "Move down",
+      "Trans": {"SC":"下移","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"900461758"}
+    },
+    {
+      "NamespaceHash": "EB2E66E5417BC894A7E5C0B4F6E02C5A",
+      "Source": "Move up",
+      "Trans": {"SC":"上移","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1134210242"}
     }
   ]
 }

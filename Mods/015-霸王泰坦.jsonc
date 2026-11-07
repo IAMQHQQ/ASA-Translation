@@ -663,19 +663,19 @@
     {
       "NamespaceHash": "Content::622995625",
       "Source": "Team Roar",
-      "Trans": {"SC":"团队咆哮","JA":""},
+      "Trans": {"SC":"团队增益咆哮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::230082155",
+      "NamespaceHash": "Content::230082155",//作者设置反了
       "Source": "Heal Roar",
-      "Trans": {"SC":"治愈咆哮","JA":""},
+      "Trans": {"SC":"免疫辐射咆哮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::884289171",
+      "NamespaceHash": "Content::884289171",//作者设置反了
       "Source": "Radiation Roar",
-      "Trans": {"SC":"辐射咆哮","JA":""},
+      "Trans": {"SC":"快速治愈咆哮","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

@@ -1,0 +1,166 @@
+{
+  "B+ Loot Editor": [
+    {
+      "NamespaceHash": "Content::3844296138",
+      "Source": "B+ Loot Editor",
+      "Trans": {"SC":"B+战利品编辑器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "B4EDA5BB465DFB98807C6D87FE5BFC5A",
+      "Source": "Adds a blank item set named \"New\" to the current drop",
+      "Trans": {"SC":"向当前掉落物添加名为 \"新\" 的空白物品组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"471272218"}
+    },
+    {
+      "NamespaceHash": "C9431AA4460BB736548419BEA08F4F68",
+      "Source": "Containers",
+      "Trans": {"SC":"容器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3014941436"}
+    },
+    {
+      "NamespaceHash": "85EF23794B6492D0B6DAF8AB4A20D145",
+      "Source": "Search...",
+      "Trans": {"SC":"搜索...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2696345315"}
+    },
+    {
+      "NamespaceHash": "EC2C18FB4AB2627CFA79FB80E0943AB2",
+      "Source": "Close Menu",
+      "Trans": {"SC":"关闭菜单","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3058544753"}
+    },
+    {
+      "NamespaceHash": "1B0160544E2A3A86E622E5BA290CAD41",
+      "Source": "Save Changes",
+      "Trans": {"SC":"保存更改","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2422785704"}
+    },
+    {
+      "NamespaceHash": "BA8FD89746E94AEA99956B9AB3B8D5A0",
+      "Source": "Add New Item",
+      "Trans": {"SC":"添加新物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3494884486"}
+    },
+    {
+      "NamespaceHash": "3A97C0AA483D8F6F496754AD8A469866",
+      "Source": "Add New Blank Item Set",
+      "Trans": {"SC":"添加新空白物品组","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"793200505"}
+    },
+    {
+      "NamespaceHash": "AFD8A41C4A8A86B989BFD0A6EEF3D856",
+      "Source": "B+ Loot Editor",
+      "Trans": {"SC":"B + 战利品编辑器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3844296138"}
+    },
+    {
+      "NamespaceHash": "AE81B5784835268DAC96D3B2E61AB1CD",
+      "Source": "Delete Entry",
+      "Trans": {"SC":"删除条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"108869682"}
+    },
+    {
+      "NamespaceHash": "154575324B0ECD1C74641C89976F6B30",
+      "Source": "Min Sets",
+      "Trans": {"SC":"最小组数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4173855092"}
+    },
+    {
+      "NamespaceHash": "B4C0B7DC4C0675E1B12AF69E18DF0A3B",
+      "Source": "Max Sets",
+      "Trans": {"SC":"最大组数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"977157361"}
+    },
+    {
+      "NamespaceHash": "59C0BD5B45643D3E89DBA3AE2CBE2E64",
+      "Source": "Min Quantity",
+      "Trans": {"SC":"最小数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1545313773"}
+    },
+    {
+      "NamespaceHash": "2D77FBC64A21765C040CF3887A9D696A",
+      "Source": "Max Quantity",
+      "Trans": {"SC":"最大数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2008365650"}
+    },
+    {
+      "NamespaceHash": "7D40A9CE4A4354F47DE93AB62FA72CC5",
+      "Source": "Min Quality",
+      "Trans": {"SC":"最小品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1292750891"}
+    },
+    {
+      "NamespaceHash": "3385D726485F5DC29715A692B2009EE3",
+      "Source": "Max Quality",
+      "Trans": {"SC":"最大品质","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"536855668"}
+    },
+    {
+      "NamespaceHash": "58A091B441C4BE66CF95E2AD85335442",
+      "Source": "Blueprint",
+      "Trans": {"SC":"蓝图","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"27200819"}
+    },
+    {
+      "NamespaceHash": "7EA913EA43ADA6CC23A49BA34FD9D5F7",
+      "Source": "Entry Weight",
+      "Trans": {"SC":"条目权重","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3763589401"}
+    },
+    {
+      "NamespaceHash": "2E0579414E8F9559819D9FABA77128A4",
+      "Source": "Blueprint Chance",
+      "Trans": {"SC":"蓝图概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1283662880"}
+    },
+    {
+      "NamespaceHash": "B1A85EE14B18D7700384F3A8190C1C31",
+      "Source": "This action is permanent!",
+      "Trans": {"SC":"此操作不可恢复！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"705256834"}
+    },
+    {
+      "NamespaceHash": "DF7F7D764DAC31945DF7059AB1915348",
+      "Source": "This will delete all mod settings, are you sure?",
+      "Trans": {"SC":"这将删除全部模组设置，确定吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2805642083"}
+    },
+    {
+      "NamespaceHash": "601EE7AB4478465BDF02CFA44E9B9899",
+      "Source": "First",
+      "Trans": {"SC":"第一","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1422367684"}
+    },
+    {
+      "NamespaceHash": "24861C6C462D8358D83CC89EDC396F7F",
+      "Source": "Second",
+      "Trans": {"SC":"第二","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2643254867"}
+    },
+    {
+      "NamespaceHash": "CF87DED84DF2840A3DF89883ABE9A6FF",
+      "Source": "Items",
+      "Trans": {"SC":"物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1263765745"}
+    },
+    {
+      "NamespaceHash": "6490DD864C4BD28CF220CD8C22F37829",
+      "Source": "AddItems",
+      "Trans": {"SC":"添加物品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"891843291"}
+    },
+    {
+      "NamespaceHash": "9C42619946D77CE88A4294AC9EA39278",
+      "Source": "FirstDino",
+      "Trans": {"SC":"一号恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"431784922"}
+    },
+    {
+      "NamespaceHash": "17FEF94D44850A4DFDE279A5FD2801CF",
+      "Source": "SecondDino",
+      "Trans": {"SC":"二号恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"856694651"}
+    }
+  ]
+}

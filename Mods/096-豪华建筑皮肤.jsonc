@@ -1,0 +1,208 @@
+{
+  "Deluxe": [//2026-11-4
+    {
+      "NamespaceHash": "Content::3484169485",
+      "Source": "Deluxe Dreamhouse - Alphabet & Numbers Set",
+      "Trans": {"SC":"豪华梦幻小屋 - 字母与数字套件","JA":"豪華梦幻小屋 - 字母与数字套件"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1314241582",
+      "Source": "Deluxe Dreamhouse - Crafting, Utilities & Interior Decor Set",
+      "Trans": {"SC":"豪华梦幻小屋 - 制作、设施与室内装饰套件","JA":"豪華梦幻小屋 - 制作、設施与室内装飾套件"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2631435826",
+      "Source": "Deluxe Dreamhouse - Decor 2",
+      "Trans": {"SC":"豪华梦幻小屋 - 装饰 2","JA":"豪華梦幻小屋 - 装飾 2"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2393167886",
+      "Source": "Deluxe Dreamhouse - Deluxe Ornamental & Exterior Walls Set",
+      "Trans": {"SC":"豪华梦幻小屋 - 豪华装饰外墙套件","JA":"豪華梦幻小屋 - 豪華装飾外牆套件"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1906213073",
+      "Source": "Deluxe Dreamhouse - Deluxe Set",
+      "Trans": {"SC":"豪华梦幻小屋 - 豪华套件","JA":"豪華梦幻小屋 - 豪華套件"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3465847434",
+      "Source": "Deluxe Dreamhouse - Garden Structures Set",
+      "Trans": {"SC":"豪华梦幻小屋 - 园林构筑物套件","JA":"豪華梦幻小屋 - 园林构筑物套件"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2780868244",
+      "Source": "Deluxe Dreamhouse - Gates, External Walls & Fences",
+      "Trans": {"SC":"豪华梦幻小屋 - 大门、外墙与围栏","JA":"豪華梦幻小屋 - 大门、外牆与圍欄"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2458443630",
+      "Source": "Deluxe Dreamhouse - Glamour Ornamental & Exterior Walls Set",
+      "Trans": {"SC":"豪华梦幻小屋 - 华美装饰外墙套件","JA":"豪華梦幻小屋 - 華美装飾外牆套件"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::954233505",
+      "Source": "Deluxe Dreamhouse - Glamour Set",
+      "Trans": {"SC":"豪华梦幻小屋 - 华美套件","JA":"豪華梦幻小屋 - 華美套件"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1830498318",
+      "Source": "Deluxe Dreamhouse - TEK Doors",
+      "Trans": {"SC":"豪华梦幻小屋 - 泰克门","JA":"豪華梦幻小屋 - 泰克门"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2583326671",
+      "Source": "Garden Structures Set",
+      "Trans": {"SC":"园林构筑物套件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4036347761",
+      "Source": "This set contains skins for the <RichColor color=\"1,1,1,1\">Garden Structures Set</> structures. Interact with the structure to change Variants in the radial wheel<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Decor Boxes, Wooden Table, Wooden Chair, Wooden Bench, Simple Bed, Foundations, Ceilings, Walls, Large Walls, Quarter Walls, Roof, Ramp, Triangle Roofs, Corner Roofs, Corner Ramps, Sloped Walls, Double Doorway, Railings, Pillars, Decor Box, Pillars</><#RN#><#RN#>This icon contains skins for <RichColor color=\"0,0.5,0,1\">Garden Structures and Decor</><#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#>Some tips:<#RN#><#RN#>- You can build a Hedge Maze using this set<#RN#>- Pillars have Neon Pillars and they are paintable on the last slot of the spray/brush<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含用于<RichColor color=\"1,1,1,1\">园林构筑物套件 </> 建筑的皮肤。与建筑交互，在环形菜单中切换变体 <#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,0,1\">装饰箱、木桌、木椅、木长凳、简易床、地基、天花板、墙、大型墙、四分之一墙、屋顶、斜坡、三角屋顶、转角屋顶、转角斜坡、斜墙、门框、栏杆、立柱 </><#RN#> 该图标包含<RichColor color=\"0,0.5,0,1\">园林构筑物与装饰 </> 皮肤 <#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#> 一些提示：<#RN#>- 你可以使用本套件搭建树篱迷宫 <#RN#>- 立柱包含霓虹立柱款式，可在喷枪 / 刷子的最后一个色槽上色 <#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3182360420",
+      "Source": "Gates, Walls & Fences ",
+      "Trans": {"SC":"大门、墙体与围栏","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::69408890",
+      "Source": "This set contains skins for the <RichColor color=\"1,1,1,1\">Gates, External Walls & Fencesr</> structures. Interact with the structure to change Variants in the radial wheel<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Wall, Railing, Behemoth Gateway, Behemoth Gate, Dinosaur Gateway, Dinosaur Gate, Pillar</><#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含用于<RichColor color=\"1,1,1,1\">大门、外墙与围栏 </> 建筑的皮肤。与建筑交互，在环形菜单中切换变体 <#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,0,1\">墙、栏杆、巨兽门框、巨兽门、恐龙门框、恐龙门、立柱 </><#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4099938927",
+      "Source": "Alphabet & Numbers Set",
+      "Trans": {"SC":"字母与数字套件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::310092744",
+      "Source": "This set contains skins for the <RichColor color=\"1,1,1,1\">Alphabet Set</> structures. Interact with the structure to change Variants in the radial wheel.<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Decor Boxes</><#RN#><#RN#>This icon contains skins for the Alphabet letters<#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含用于<RichColor color=\"1,1,1,1\">字母套件 </> 建筑的皮肤。与建筑交互，在环形菜单中切换变体。<#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,0,1\">装饰箱 </><#RN#> 该图标包含字母样式皮肤 <#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1733732048",
+      "Source": "Glamour Set - Exterior & Ornamental Walls",
+      "Trans": {"SC":"华美套件 - 外墙与装饰墙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3352567766",
+      "Source": "This set contains <RichColor color=\"1,0,1,1\">Ornamental & Exterior</> skins for the <RichColor color=\"1,0,1,1\">Glamour Set</> structures. Interact with the structure to change Variants in the radial wheel.<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Walls, Quarter Walls, Sloped Walls, Doorways & Windowframes</><#RN#><#RN#>This icon contains the rest of the Glamour wall variants, these being separated into Ornamental and Exterior walls. These were separated to reduce variant count on the main set.<#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#>Some tips:<#RN#><#RN#>- Some variants only glow during nighttime<#RN#>- Walls & Doorways have different <RichColor color=\"1,0,1,1\">Neon Strip</> options, as well as Flat variants<#RN#>- Some Quarter Walls skins need to be flipped to fit correctly<#RN#>- Type 'r.BloomQuality 1' or 'r.BloomQuality 0' in the console commands to lower the brightness<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含<RichColor color=\"1,0,1,1\">装饰与外墙 </> 皮肤，适配<RichColor color=\"1,0,1,1\">华美套件 </> 建筑。与建筑交互，在环形菜单中切换变体。<#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,0,1\">墙、四分之一墙、斜墙、门框与窗框 </><#RN#> 该图标包含华美墙体其余变体，分为装饰墙与外墙两类。拆分是为了减少主套件内变体数量。<#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#> 一些提示：<#RN#>- 部分变体仅在夜晚发光 <#RN#>- 墙体与门框拥有多种<RichColor color=\"1,0,1,1\">霓虹灯带 </> 款式，同时有平面款式 <#RN#>- 部分四分之一墙皮肤需要翻转才能正确贴合 <#RN#>- 在控制台输入 'r.BloomQuality 1' 或 'r.BloomQuality 0' 可以降低亮度 <#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2239346095",
+      "Source": "Glamour Set - Modern & Neon Structures",
+      "Trans": {"SC":"华美套件 - 现代霓虹建筑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1763613174",
+      "Source": "This set contains skins for the <RichColor color=\"1,0,1,1\">Glamour Set</> structures. Interact with the structure to change Variants in the radial wheel.<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Almost all the building structures in the game!</><#RN#><#RN#>Each variant has a small icon on what they're supposed to look like. <#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#>Some tips:<#RN#><#RN#>- Some variants only glow during nighttime<#RN#>- Half Pillars have a Pillar-Base and a Ornamental category<#RN#>- Walls & Doorways have different <RichColor color=\"1,0,1,1\">Neon Strip</> options, as well as Flat variants<#RN#>- Some Quarter Walls skins need to be flipped to fit correctly<#RN#>- Inverted Shallow Sloped Walls have a Pillar-Top category<#RN#>- This icon has only the Wallpaper wall category, use the 'Exterior & Ornamental' icon to see dozens of other designs of walls<#RN#>- Type 'r.BloomQuality 1' or 'r.BloomQuality 0' in the console commands to lower the brightness<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含用于<RichColor color=\"1,0,1,1\">华美套件 </> 建筑的皮肤。与建筑交互，在环形菜单中切换变体。<#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的Discord。<#RN#> 适用建筑列表：<RichColor color=\"0,1,0,1\"> 游戏内几乎全部建造建筑！</><#RN#> 每个变体都配有预览小图标展示样式。<#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#> 一些提示：<#RN#>- 部分变体仅在夜晚发光 <#RN#>- 半立柱包含立柱底座与装饰分类 <#RN#>- 墙体与门框拥有多种<RichColor color=\"1,0,1,1\">霓虹灯带 </> 款式，同时有平面款式 <#RN#>- 部分四分之一墙皮肤需要翻转才能正确贴合 <#RN#>- 倒浅斜墙包含立柱顶盖分类 <#RN#>- 该图标仅包含墙纸墙体分类，请使用 “外墙与装饰墙” 图标查看数十种其他墙体样式 <#RN#>- 在控制台输入 'r.BloomQuality 1' 或 'r.BloomQuality 0' 可以降低亮度 <#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1480260305",
+      "Source": "This set contains skins for the <RichColor color=\"1,1,1,1\">TEK Doors</> If you try to apply this skin on normal doors, it will not work. Interact with the structure to change Variants in the radial wheel<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Each structure in this set will have 2 variants. One to match the Deluxe set, and another to match the Glamour set.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">TEK Double Door, TEK Short Door, TEK Single Door</><#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含用于<RichColor color=\"1,1,1,1\">泰克门 </> 的皮肤。如果你尝试把该皮肤应用在普通门上，将不会生效。与建筑交互，在环形菜单中切换变体 <#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 套件内每个建筑拥有 2 种变体。一款适配豪华套件，另一款适配华美套件。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,0,1\">泰克双开门、泰克矮门、泰克单开门 </><#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1112202719",
+      "Source": "Copy & Paste Tutorial (Not Usable)",
+      "Trans": {"SC":"复制粘贴教程（不可使用）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1292931010",
+      "Source": "This icon is not applyable on any structures. It's just an informatory icon on how the <RichColor color=\"1,1,1,1\">Copy & Paste</> function works in this mod.<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Tutorial:<#RN#><#RN#>- Select the skin in your hotbar as if you were going to equip it in a structure<#RN#>- Aim at the structure you want to <RichColor color=\"1,1,1,1\">COPY</> the desired variant<#RN#>- Press <RichColor color=\"1,1,1,1\">CTRL (PC)</>, or <RichColor color=\"1,1,1,1\">R1 (PS5)</>, or <RichColor color=\"1,1,1,1\">RB (Xbox)</><#RN#>- Aim at the structure you want to  <RichColor color=\"1,1,1,1\">PASTE</> the copied variant<#RN#>- Press <RichColor color=\"1,1,1,1\">ALT (PC)</> , or <RichColor color=\"1,1,1,1\">L1 (PS5)</>, or <RichColor color=\"1,1,1,1\">LB (Xbox)</><#RN#><#RN#><RichColor color=\"1,1,1,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"该图标无法应用在任何建筑上，仅用于说明本模组<RichColor color=\"1,1,1,1\">复制粘贴 </> 功能的使用方法。<#RN#>如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#>教程：<#RN#>- 在快捷栏选中该皮肤，操作如同准备给建筑套用皮肤 <#RN#>- 对准你想要<RichColor color=\"1,1,1,1\">复制</>目标变体的建筑 <#RN#>- 按下<RichColor color=\"1,1,1,1\">CTRL（电脑）</>，或<RichColor color=\"1,1,1,1\">R1（PS5）</>，或<RichColor color=\"1,1,1,1\">RB（Xbox）</><#RN#>- 对准你想要<RichColor color=\"1,1,1,1\">粘贴</>已复制变体的建筑 <#RN#>- 按下<RichColor color=\"1,1,1,1\">ALT（电脑）</>，或<RichColor color=\"1,1,1,1\">L1（PS5）</>，或<RichColor color=\"1,1,1,1\">LB（Xbox）</><#RN#><RichColor color=\"1,1,1,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::336508866",
+      "Source": "Crafting, Utilities & Interior Decor Set",
+      "Trans": {"SC":"制作、设施与室内装饰套件","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3845720933",
+      "Source": "This set contains skins for the <RichColor color=\"1,1,1,1\">Crafting Stations, Utilities & Interior Decor</> structures. Interact with the structure to change Variants in the radial wheel<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Each structure in this set will have 2 variants. One to match the Deluxe set, and another to match the Glamour set.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Transmitter, TEK Cloning Chamber, TEK Teleporter TEK Sleeping Pod, Megalab, TEK Replicator, Tribe Tower, Megalab, Smithy, Fabricator, Large Storage Box, Vault, Simple Bed, TEK Light, Decor Boxes, Omnidirectional Lamppost, Chair, Table, Bench ; Cryo Hospital ; Industrial Cooker ; Steam Forge ; Cryofridge ; Refrigerator ; Cargo Ledger ; Industrial Grinder ; Feeding Trough ; TEK Trough ; Gene Storage</><#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含用于<RichColor color=\"1,1,1,1\">制作台、设施与室内装饰 </> 建筑的皮肤。与建筑交互，在环形菜单中切换变体 <#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 套件内每个建筑拥有 2 种变体。一款适配豪华套件，另一款适配华美套件。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,0,1\">发射器、泰克克隆舱、泰克传送器、泰克睡眠舱、巨型实验室、泰克复制器、部落塔、巨型实验室、铁匠台、机床、大型储物箱、保险柜、简易床、泰克灯、装饰箱、全向路灯、椅子、桌子、长凳、低温护理站、工业大锅、蒸汽熔炉、低温冰箱、冰箱、货物账台、工业研磨机、食槽、泰克食槽、基因储存舱 </><#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3261051345",
+      "Source": "This set contains skins for the <RichColor color=\"1,1,1,1\">Decor</> and can be placed only on Decor Boxes<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#>",
+      "Trans": {"SC":"本套件包含<RichColor color=\"1,1,1,1\">装饰 </> 皮肤，仅可应用于装饰箱 <#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3207766483",
+      "Source": "Deluxe Set - Exterior & Ornamental Walls",
+      "Trans": {"SC":"豪华套件 - 外墙与装饰墙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2390670056",
+      "Source": "This set contains <RichColor color=\"1,1,1,1\">Ornamental & Exterior</> skins for the <RichColor color=\"1,1,1,1\">Deluxe Set</> structures. Interact with the structure to change Variants in the radial wheel.<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Walls, Quarter Walls, Sloped Walls, Doorways & Windowframes</><#RN#><#RN#>This icon contains the rest of the Deluxe wall variants, these being separated into Ornamental and Exterior walls. These were separated to reduce variant count on the main set.<#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#>Some tips:<#RN#><#RN#>- Walls have a Palladian Windows category, if you use the corner variants, make sure to flip on the Y axis<#RN#>- Walls & Doorways have a Boiserie variant and a Flat variant in the wheel<#RN#>- Some Quarter Walls skins need to be flipped to fit correctly<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含<RichColor color=\"1,1,1,1\">装饰与外墙 </> 皮肤，适配<RichColor color=\"1,1,1,1\">豪华套件 </> 建筑。与建筑交互，在环形菜单中切换变体。<#RN#> 如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的 Discord。<#RN#> 适用建筑列表：<#RN#><RichColor color=\"0,1,0,1\">墙、四分之一墙、斜墙、门框与窗框 </><#RN#> 该图标包含豪华墙体其余变体，分为装饰墙与外墙两类。拆分是为了减少主套件内变体数量。<#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#> 一些提示：<#RN#>- 墙体包含帕拉第奥式窗分类，如果你使用转角变体，请沿 Y 轴翻转 <#RN#>- 墙体与门框在环形菜单内拥有镶板款式以及平面款式 <#RN#>- 部分四分之一墙皮肤需要翻转才能正确贴合 <#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3233098364",
+      "Source": "Deluxe Set - Elegant & Classy Structures",
+      "Trans": {"SC":"豪华套件 - 典雅精致建筑","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2780198513",
+      "Source": "This set contains skins for the <RichColor color=\"1,1,1,1\">Deluxe Set</> structures. Interact with the structure to change Variants in the radial wheel.<#RN#><#RN#>Check the mod's discord if you have any questions, suggestions or to get tips on how to use the skin.<#RN#><#RN#>Applicable Structures list:<#RN#><#RN#><RichColor color=\"0,1,0,1\">Almost all the building structures in the game!</><#RN#><#RN#>Each variant has a small icon on what they're supposed to look like. <#RN#><#RN#><RichColor color=\"0,1,1,1\">All skins are paintable!</>.<#RN#><#RN#>Some tips:<#RN#><#RN#>- Horizontal Thin Pillars have a Curtains category<#RN#>- Half Pillars have a Pillar-Base and a Ornamental category<#RN#>- Walls & Doorways have a Boiserie variant and a Flat variant in the wheel<#RN#>- Some Quarter Walls skins need to be flipped to fit correctly<#RN#>- Inverted Shallow Sloped Walls have a Pillar-Top category<#RN#>- This icon has only the Wallpaper wall category, use the 'Exterior & Ornamental' icon to see dozens of other designs of walls, as well as gigantic Palladian Windows<#RN#><#RN#><RichColor color=\"0,0,0,1\">Please, join the discord in the mod's page to ask any other questions!</><#RN#><#RN#>",
+      "Trans": {"SC":"本套件包含用于<RichColor color=\"1,1,1,1\">豪华套件</>建筑的皮肤。与建筑交互，在环形菜单中切换变体。<#RN#>如有疑问、建议，或是想要了解皮肤使用技巧，可以前往模组的Discord。<#RN#> 适用建筑列表：<RichColor color=\"0,1,0,1\">游戏内几乎全部建造建筑！</><#RN#>每个变体都配有预览小图标展示样式。<#RN#><RichColor color=\"0,1,1,1\">全部皮肤均可上色！</>。<#RN#> 一些提示：<#RN#>- 横向细立柱包含窗帘分类 <#RN#>- 半立柱包含立柱底座与装饰分类 <#RN#>- 墙体与门框在环形菜单内拥有镶板款式以及平面款式 <#RN#>- 部分四分之一墙皮肤需要翻转才能正确贴合 <#RN#>- 倒浅斜墙包含立柱顶盖分类 <#RN#>- 该图标仅包含墙纸墙体分类，请使用 “外墙与装饰墙” 图标查看数十种其他墙体样式以及巨型帕拉第奥式窗 <#RN#><RichColor color=\"0,0,0,1\">欢迎前往模组页面的 Discord 提出其他问题！</><#RN#>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::710125152",//不生效，暂时保留
+      "Source": "[Variants]",
+      "Trans": {"SC":"[变体]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::454405439",//不生效，暂时保留
+      "Source": "Brightness Level",
+      "Trans": {"SC":"亮度等级","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4180415067",
+      "Source": "[Rotate Skin]",
+      "Trans": {"SC":"[旋转皮肤]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1439069846",
+      "Source": "[Scale Skin]",
+      "Trans": {"SC":"[缩放皮肤]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

@@ -1,0 +1,256 @@
+{
+  "B+ Spawn Editor": [
+    {
+      "NamespaceHash": "Content::3815465839",
+      "Source": "B+ Spawn Editor",
+      "Trans": {"SC":"B+ 生物刷新编辑器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "6DC331054E7FEA2FDE527184121A8533",
+      "Source": "Edit Name",
+      "Trans": {"SC":"编辑名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3010466215"}
+    },
+    {
+      "NamespaceHash": "C9427CB349D02EC745BF89967692ED82",
+      "Source": "Delete",
+      "Trans": {"SC":"删除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3806680004"}
+    },
+    {
+      "NamespaceHash": "C191124744C0D4E0F1F30C969555E3CF",
+      "Source": "Show spawn zones on map",
+      "Trans": {"SC":"在地图上显示刷新区域","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3548263000"}
+    },
+    {
+      "NamespaceHash": "7FCFD0DD4C5F2FFC8ACA2EA0B909C908",
+      "Source": "Delete",
+      "Trans": {"SC":"删除","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3806680004"}
+    },
+    {
+      "NamespaceHash": "9E3B794743B936CD35BD509FB038093F",
+      "Source": "Chance to spawn 0.0 - 1.0",
+      "Trans": {"SC":"刷新概率 0.0‑1.0","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"472349269"}
+    },
+    {
+      "NamespaceHash": "3AC9C9444619BF56308225959F2EFC92",
+      "Source": "How far apart dinos spawn",
+      "Trans": {"SC":"恐龙生成间隔距离","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3674299530"}
+    },
+    {
+      "NamespaceHash": "7816DD444EFB9C82CBF1FCB40EFA50AC",
+      "Source": "Spawn Chance:",
+      "Trans": {"SC":"刷新概率：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1413094628"}
+    },
+    {
+      "NamespaceHash": "F8ECB3754230DCFAF4E46EBA86ABAE74",
+      "Source": "Offset:",
+      "Trans": {"SC":"偏移量：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3597306649"}
+    },
+    {
+      "NamespaceHash": "F8550CED4469637FB56B6F98CBC18B50",
+      "Source": "Dino to Spawn:",
+      "Trans": {"SC":"待生成恐龙：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3997574857"}
+    },
+    {
+      "NamespaceHash": "7C351018400C76FB7424BCB74B331276",
+      "Source": "Adds Spawn Entry",
+      "Trans": {"SC":"添加刷新条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1569146941"}
+    },
+    {
+      "NamespaceHash": "D851D499469D3F6D8651E484AC98A7D9",
+      "Source": "Adds Dino Entry",
+      "Trans": {"SC":"添加恐龙条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1799037322"}
+    },
+    {
+      "NamespaceHash": "AF663CB049C049660C8445BFBD880B82",
+      "Source": "Search Filter",
+      "Trans": {"SC":"搜索过滤器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1059525997"}
+    },
+    {
+      "NamespaceHash": "6149D40B4717D4BF680828BE0B6791DB",
+      "Source": "Chance of these dino entries spawning",
+      "Trans": {"SC":"这些恐龙条目的刷新概率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3350661237"}
+    },
+    {
+      "NamespaceHash": "45360C0649785FC3CABA12ACB115CE19",
+      "Source": "Absoule minimum amount of dinos from this section to spawn",
+      "Trans": {"SC":"本区域生成恐龙的绝对最小数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2013462683"}
+    },
+    {
+      "NamespaceHash": "1CC1627C462869EA5A164EAC60EF848B",
+      "Source": "Preferred amount of dinos to be spawned from this section",
+      "Trans": {"SC":"本区域期望生成恐龙数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2759638946"}
+    },
+    {
+      "NamespaceHash": "F8C08B004EE49E85380C7FA8BD41E657",
+      "Source": "Add New Item",
+      "Trans": {"SC":"添加新项目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3494884486"}
+    },
+    {
+      "NamespaceHash": "33F7201949EFB584AF048D9407D49A13",
+      "Source": "Destroy Wild Dinos",
+      "Trans": {"SC":"清除野生恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2567942759"}
+    },
+    {
+      "NamespaceHash": "EA469B2E4047723FB18ABE9E9B7C4901",
+      "Source": "Dino Entries",
+      "Trans": {"SC":"恐龙条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"518832519"}
+    },
+    {
+      "NamespaceHash": "5EB203AC4785F703A299728AF970FA3B",
+      "Source": "Spawn Entries",
+      "Trans": {"SC":"刷新条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1742285120"}
+    },
+    {
+      "NamespaceHash": "2A55814F4D6E4E773DAB5E87AEDE2AEF",
+      "Source": "Spawn Container Name",
+      "Trans": {"SC":"刷新容器名称","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3227923891"}
+    },
+    {
+      "NamespaceHash": "D4C868F746D389C2D78D4388075D6CA1",
+      "Source": "Dino Spawn To Block",
+      "Trans": {"SC":"阻止该恐龙生成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2699765613"}
+    },
+    {
+      "NamespaceHash": "FBDE402649D243E8BA9D2DAFD90AD6B3",
+      "Source": "Convert ",
+      "Trans": {"SC":"转换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"93112975"}
+    },
+    {
+      "NamespaceHash": "6B453B7B4E3E7F5AE2C29EAA2ABC7123",
+      "Source": "Reset All Settings",
+      "Trans": {"SC":"重置全部设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"752904111"}
+    },
+    {
+      "NamespaceHash": "7AD8C63B401231CAE0F217A94FE99980",
+      "Source": "Convert/Kill",
+      "Trans": {"SC":"转换 / 击杀","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"570686503"}
+    },
+    {
+      "NamespaceHash": "3533FAAA44D21CBC880772A46F1F622C",
+      "Source": "Exit Without Saving",
+      "Trans": {"SC":"不保存退出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3864668885"}
+    },
+    {
+      "NamespaceHash": "7FB3DC4444D944A6D37A50BBB5BC33B1",
+      "Source": "B+ Spawn Editor",
+      "Trans": {"SC":"B+生物刷新编辑器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3815465839"}
+    },
+    {
+      "NamespaceHash": "EC1ED18A4677264E4E37FCA114D50F80",
+      "Source": "Save and Exit",
+      "Trans": {"SC":"保存并退出","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2842955851"}
+    },
+    {
+      "NamespaceHash": "40011B3E4DC8C541698CDA88F7448F18",
+      "Source": "Min Amount",
+      "Trans": {"SC":"最小数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2164349592"}
+    },
+    {
+      "NamespaceHash": "8B2B05D741D72E36205FA897DE9121EB",
+      "Source": "Preferred Amount",
+      "Trans": {"SC":"期望数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1347463851"}
+    },
+    {
+      "NamespaceHash": "774DA6B04519C0D1917550992D14BD16",
+      "Source": "Entry Weight",
+      "Trans": {"SC":"条目权重","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3763589401"}
+    },
+    {
+      "NamespaceHash": "839F5FCC4A019ADBB3FB06AF669F6A4F",
+      "Source": "Sets whole container active",
+      "Trans": {"SC":"启用整个容器","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4032194805"}
+    },
+    {
+      "NamespaceHash": "CA2660214C4CDD4E41CC00B2A24360BA",
+      "Source": "Delete Entry",
+      "Trans": {"SC":"删除条目","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"108869682"}
+    },
+    {
+      "NamespaceHash": "EB1D48B449FC9DA6F8B95BBB0BC6F8A9",
+      "Source": "This action is permanent!",
+      "Trans": {"SC":"此操作不可恢复！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"705256834"}
+    },
+    {
+      "NamespaceHash": "D6A5FDAF4A288E01EDFA0795ADA4BED7",
+      "Source": "This will delete all mod settings, are you sure?",
+      "Trans": {"SC":"这将删除全部模组设置，确定吗？","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2805642083"}
+    },
+    {
+      "NamespaceHash": "64A6757942A19A5D0315FDB3DC40A145",
+      "Source": "Dinos",
+      "Trans": {"SC":"恐龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"567824872"}
+    },
+    {
+      "NamespaceHash": "2011CE754113F306DD4051960AAF3C3B",
+      "Source": "ConvertTo",
+      "Trans": {"SC":"转换为","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2755997968"}
+    },
+    {
+      "NamespaceHash": "CB0936A645C8157830313C9610467013",
+      "Source": "Destroy",
+      "Trans": {"SC":"销毁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1732284524"}
+    },
+    {
+      "NamespaceHash": "076D83D34CFF93B4D9180AB3666BF15B",
+      "Source": "AddDestroy",
+      "Trans": {"SC":"添加销毁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3909036233"}
+    },
+    {
+      "NamespaceHash": "0BCEEABC480FB834C283038BCDBBD2B2",
+      "Source": "AddConvert",
+      "Trans": {"SC":"添加转换","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1537432468"}
+    },
+    {
+      "NamespaceHash": "60C24002473FC2D7EBE034882761520F",
+      "Source": "Dino to Spawn:",
+      "Trans": {"SC":"待生成恐龙：","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3997574857"}
+    },
+    {
+      "NamespaceHash": "Content::3208169118",
+      "Source": "AB BioCave",
+      "Trans": {"SC":"畸变生物洞穴","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

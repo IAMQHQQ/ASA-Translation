@@ -1,5 +1,5 @@
 {
-  "白石棘龙": [//2025.11.29
+  "白石棘龙": [//2026.9.10
     {
       "NamespaceHash": "Content::2694081948",
       "Source": "Vectispinus",
@@ -106,6 +106,246 @@
       "NamespaceHash": "Content::398770035",
       "Source": "Gives Creatures in the Spinosaur Family plus %25 to everything",
       "Trans": {"SC":"为棘龙科生物提供全属性25%加成","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1082164513",
+      "Source": "Arkology Vectispinus",
+      "Trans": {"SC":"方舟造物白石棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2615737892",
+      "Source": "Alpha Vectispinus",
+      "Trans": {"SC":"精英白石棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2581782626",
+      "Source": "R-Vectispinus",
+      "Trans": {"SC":"R-白石棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3219218310",
+      "Source": "Scorched Vectispinus",
+      "Trans": {"SC":"焦土白石棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3003053202",
+      "Source": "X-Vectispinus",
+      "Trans": {"SC":"X-白石棘龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3520446017",
+      "Source": "Paleo Vectispinus",
+      "Trans": {"SC":"远古白石棘龙","JA":"遠古白石棘龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2776046449",
+      "Source": "Fertilized X Vectispinus Egg",
+      "Trans": {"SC":"受精的X-白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::883153685",
+      "Source": "Blunt Spear Bolt",
+      "Trans": {"SC":"钝矛弩箭","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3133717780",
+      "Source": "A massive bolt with a cast iron Blunt arrowhead. Can only be used in a Ballista Turret or Harpoon Gun. If it doesn't break, you can recover your ammo.",
+      "Trans": {"SC":"带有铸铁钝箭头的巨型弩箭。仅可用于弩炮塔或鱼叉枪。若弹药未损毁，可重复使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3436818722",
+      "Source": "Vectispinus MiniGun Saddle",
+      "Trans": {"SC":"白石棘龙机枪鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1531478422",
+      "Source": "Allows shooting Advanced Rifle Bullets, Advanced Sniper Bullets, and Tranq Darts!",
+      "Trans": {"SC":"可发射高级步枪子弹、高级狙击子弹以及麻醉镖！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2410548551",
+      "Source": "Fertilized Paleo Vectispinus Egg",
+      "Trans": {"SC":"受精的远古白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2365525643",
+      "Source": "Fertilized R-Vectispinus Egg",
+      "Trans": {"SC":"受精的R-白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::349059703",
+      "Source": "Fertilized Scorched Vectispinus Egg",
+      "Trans": {"SC":"受精的焦土白石棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::476557167",
+      "Source": "Vectispinus is slowly producing Water",
+      "Trans": {"SC":"白石棘龙正在缓慢产出水","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::",
+      "Source": "",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4218589412",
+      "Source": "Gives Vecti a 5% Speed and  Defense Buff When Drinking, Last 25 Seconds",
+      "Trans": {"SC":"饮水时为白石棘龙提供 5% 速度与防御增益，持续 25 秒","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1807446060",
+      "Source": "Vecti Team Buff",
+      "Trans": {"SC":"白石棘龙饮水增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1844805494",
+      "Source": "Gives All Allies 15% Buff to Attack and Defense",
+      "Trans": {"SC":"为所有友方单位提供 15% 攻击与防御增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1262702492",
+      "Source": "Vecti Speed Buff",
+      "Trans": {"SC":"白石棘龙速度增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::385027343",
+      "Source": "Gives All Allies 20% Buff to Speed",
+      "Trans": {"SC":"为所有友方单位提供 20% 速度增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2952428033",
+      "Source": "Vecti Spinosauridae Buff",
+      "Trans": {"SC":"白石棘龙棘龙科增益","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1792838433",
+      "Source": "Gives Creatures in the Spinosaur Family plus %15 to Speed, Attack, and Defense",
+      "Trans": {"SC":"为棘龙科生物增加 15% 速度、攻击与防御","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "7301BA0743ED16372789DD957CCFFD5B",
+      "Source": "Advanced Rifle Bullet",
+      "Trans": {"SC":"高级步枪子弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"390687774"}
+    },
+    {
+      "NamespaceHash": "7C1829784633B8FD99E4508589D06FA1",
+      "Source": "Advanced Sniper Bullet",
+      "Trans": {"SC":"制式狙击步枪子弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3228262731"}
+    },
+    {
+      "NamespaceHash": "3298F3BF48F73B87D9F0DF84FB149BB7",
+      "Source": "Tranq Dart",
+      "Trans": {"SC":"麻醉镖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"13099182"}
+    },
+    {
+      "NamespaceHash": "941CA0884AE01EFF23FC9D8E5CF626A0",
+      "Source": "Advanced Rifle Bullet",
+      "Trans": {"SC":"高级步枪子弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"390687774"}
+    },
+    {
+      "NamespaceHash": "FEA6D4194D57EE4A96671A90B42FE612",
+      "Source": "Advanced Sniper Bullet",
+      "Trans": {"SC":"制式狙击步枪子弹","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3228262731"}
+    },
+    {
+      "NamespaceHash": "C51A41B74BD34150B9B0088B8335C4E6",
+      "Source": "Tranq Dart",
+      "Trans": {"SC":"麻醉镖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"13099182"}
+    },
+    {
+      "NamespaceHash": "034264414F240135173BB987798CC576",
+      "Source": "Light Combo String",
+      "Trans": {"SC":"轻连击序列","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"906377167"}
+    },
+    {
+      "NamespaceHash": "D21F538441D78F799D1721A39BB66F8F",
+      "Source": "Drinking",
+      "Trans": {"SC":"饮水","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1446924437"}
+    },
+    {
+      "NamespaceHash": "6DB66B914403FF8240954280CA39B069",
+      "Source": "Wtr Breath",
+      "Trans": {"SC":"水息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4046798582"}
+    },
+    {
+      "NamespaceHash": "F1A2289C48041452F3E56D9BD46B1D86",
+      "Source": "Ult Breath",
+      "Trans": {"SC":"终极吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2892224628"}
+    },
+    {
+      "NamespaceHash": "072389CF44F8E45BD45CEBA79B6CC30E",
+      "Source": "MinigunMode",
+      "Trans": {"SC":"机枪模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1316733038"}
+    },
+    {
+      "NamespaceHash": "54FFFBBF4D53BE89A08802BD82B8EA7F",
+      "Source": "Rev",
+      "Trans": {"SC":"上膛","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2110411619"}
+    },
+    {
+      "NamespaceHash": "65CF72DF4D5B7195554A48B2F743E30F",
+      "Source": "Fire",
+      "Trans": {"SC":"开火","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3324121870"}
+    },
+    {
+      "NamespaceHash": "9BEE28304E63CE17283EE98D9CDCFDD1",
+      "Source": "Switch Ammo",
+      "Trans": {"SC":"切换弹药","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1519553587"}
+    },
+    {
+      "NamespaceHash": "866A585A422458462987068CF6C593A5",
+      "Source": "Roars",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2206643575"}
+    },
+    {
+      "NamespaceHash": "5DC3DC434C91CDB7200085AE1AD71009",
+      "Source": "Minigun Guide",
+      "Trans": {"SC":"机枪操作指引","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2590500623"}
+    },
+    {
+      "NamespaceHash": "Content::2268784233",
+      "Source": "G(Will not work in GCM)",
+      "Trans": {"SC":"G （GCM 模式下无效）","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]

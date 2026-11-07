@@ -1,5 +1,5 @@
 {
-  "方舟降临": [//2026.5.25
+  "方舟降临": [//2026.11.4
     {
       "NamespaceHash": "Content::100256370",
       "Source": "Descended Bionic Quetzal",
@@ -3681,7 +3681,7 @@
     {
       "NamespaceHash": "Content::1534196714",
       "Source": "Kill the ancient god to unlock this engram and collect legendary soul.Give the evo core to the legendary alpha dodorex for the evolution(Must kill 25 dodorexy before using evo core).<#RN#>Then u will get a Alpha Trex.<#RN#>Alpha Trex is a special dino that could level up it's melee and health points through a challenge called\"Legendary Raid\".<#RN#>Use legendary essence in rex's inventory will give it a 900s buff called \"legendary challenge\".if your rex have this buff,all wild flyers and land dinos in 6000 range will have an opportunity to be a stalker.The max quantity of stalkers is 15(to avoid overspawning).if the stalker don't spawn for a long time,u could give a legendary essence to your rex again for a reload.kill the stalkers will gain stalker dust and other resources.<#RN#>Put more than 5 legendary essence in your Rex inventory and try to kill the stalkers to gain extra level up ponits(Once u kill a stalker with alpha rex,it will consume 5 Legendary Essence and Gain a extra level up)<#RN#>Different Stalker gives different quantity of points.<#RN#>there are 6 stalkers in total:<#RN#>raptor:1 points for damage or health<#RN#>carno:2 points for damage or health<#RN#>quetz:3 points for damage or health<#RN#>rex:4 points for damage or health<#RN#>wyvern:5 points for damage or health<#RN#>drake Boss:10 points for damage or health",
-      "Trans": {"SC":"杀死远古神以解锁这个符文并收集传奇灵魂。将进化核心交给传奇精英渡渡霸王龙以进行进化（必须在使用进化核心前杀死25只渡渡霸王龙）。然后你将得到一个精英霸王龙。精英霸王龙是一种特殊的恐龙，可以通过一个名为“传奇突袭”的挑战来提升它的近战和生命值。在霸王龙的库存中使用传奇精华将给予它一个900秒的“传奇挑战”增益。如果你的霸王龙拥有这个增益，所有在6000范围内的野生飞行生物和陆地恐龙都有机会成为潜行者。潜行者的最大数量为15（为了避免过度生成）。如果长时间没有潜行者生成，你可以再次给你的霸王龙一个传奇精华以重新加载。杀死潜行者将获得潜行者尘埃和其他资源。在你的霸王龙库存中放入超过5个传奇精华，并尝试杀死潜行者以获得额外的升级点（一旦你用精英霸王龙杀死一个潜行者，它将消耗5个传奇精华并获得一个额外的升级）。不同的潜行者提供不同数量的点数。总共有6种潜行者：迅猛龙：1点伤害或生命值，南方巨兽龙：2点伤害或生命值，风神翼龙：3点伤害或生命值，霸王龙：4点伤害或生命值，飞龙：5点伤害或生命值，喷火龙：10点伤害或生命值。","JA":""},
+      "Trans": {"SC":"杀死远古神以解锁这个符文并收集传奇灵魂。将进化核心交给传奇精英渡渡霸王龙以进行进化（必须在使用进化核心前杀死25只渡渡霸王龙）。然后你将得到一个精英霸王龙。精英霸王龙是一种特殊的恐龙，可以通过一个名为“传奇突袭”的挑战来提升它的近战和生命值。在霸王龙的背包中使用传奇精华将给予它一个900秒的“传奇挑战”增益。如果你的霸王龙拥有这个增益，所有在6000范围内的野生飞行生物和陆地恐龙都有机会成为潜行者。潜行者的最大数量为15（为了避免过度生成）。如果长时间没有潜行者生成，你可以再次给你的霸王龙一个传奇精华以重新加载。杀死潜行者将获得潜行者尘埃和其他资源。在你的霸王龙库存中放入超过5个传奇精华，并尝试杀死潜行者以获得额外的升级点（一旦你用精英霸王龙杀死一个潜行者，它将消耗5个传奇精华并获得一个额外的升级）。不同的潜行者提供不同数量的点数。总共有6种潜行者：迅猛龙：1点伤害或生命值，南方巨兽龙：2点伤害或生命值，风神翼龙：3点伤害或生命值，霸王龙：4点伤害或生命值，飞龙：5点伤害或生命值，喷火龙：10点伤害或生命值。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -3861,7 +3861,7 @@
     {
       "NamespaceHash": "Content::1602483279",
       "Source": "Bionic Giga has natural armor.",
-      "Trans": {"SC":"仿生南方巨兽龙具有的天然护甲。","JA":""},
+      "Trans": {"SC":"仿生南方巨兽龙拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4251,7 +4251,7 @@
     {
       "NamespaceHash": "Content::1834535197",
       "Source": "Excellent Wyvern  has natural armor.",
-      "Trans": {"SC":"卓越飞龙具有的天然装甲。","JA":""},
+      "Trans": {"SC":"卓越飞龙拥有的天然装甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4557,7 +4557,7 @@
     {
       "NamespaceHash": "Content::2008750801",
       "Source": "Celestial Wyvern  has natural armor.",
-      "Trans": {"SC":"天神飞龙具有的天然装甲。","JA":""},
+      "Trans": {"SC":"天神飞龙拥有的天然装甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4695,7 +4695,7 @@
     {
       "NamespaceHash": "Content::2098317511",
       "Source": "Galaxy has natural armor.",
-      "Trans": {"SC":"银河领主具有的天然护甲。","JA":""},
+      "Trans": {"SC":"银河领主拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4875,7 +4875,7 @@
     {
       "NamespaceHash": "Content::2225853173",
       "Source": "Unreal Dilo has natural armor.",
-      "Trans": {"SC":"虚幻双脊龙具有的天然护甲。","JA":""},
+      "Trans": {"SC":"虚幻双脊龙拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4989,7 +4989,7 @@
     {
       "NamespaceHash": "Content::2276884344",
       "Source": "Beast of Darkness has natural armor.",
-      "Trans": {"SC":"黑暗之魂具有的天然护甲。","JA":""},
+      "Trans": {"SC":"黑暗之魂拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5109,7 +5109,7 @@
     {
       "NamespaceHash": "Content::2364150404",
       "Source": "Griffin has natural armor.",
-      "Trans": {"SC":"狮鹫具有的天然护甲。","JA":""},
+      "Trans": {"SC":"狮鹫拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5175,7 +5175,7 @@
     {
       "NamespaceHash": "Content::2406270406",
       "Source": "Dragon has natural armor.",
-      "Trans": {"SC":"喷火龙具有的天然护甲。","JA":""},
+      "Trans": {"SC":"喷火龙拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5337,7 +5337,7 @@
     {
       "NamespaceHash": "Content::2509090328",
       "Source": "Ascension of Galaxy has natural armor.",
-      "Trans": {"SC":"仙化银河领主具有的天然护甲。","JA":""},
+      "Trans": {"SC":"仙化银河领主拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5403,7 +5403,7 @@
     {
       "NamespaceHash": "Content::2552201324",
       "Source": "Beast of Desperation has natural armor.",
-      "Trans": {"SC":"绝望之翼具有的天然装甲。","JA":""},
+      "Trans": {"SC":"绝望之翼拥有的天然装甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5553,7 +5553,7 @@
     {
       "NamespaceHash": "Content::2658219535",
       "Source": "Griffin  has natural armor.",
-      "Trans": {"SC":"狮鹫具有的天然护甲。","JA":""},
+      "Trans": {"SC":"狮鹫拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -6057,7 +6057,7 @@
     {
       "NamespaceHash": "Content::295675985",
       "Source": "Descension of Eternal Warrior has natural armor.",
-      "Trans": {"SC":"永恒战士具有的天然护甲。","JA":""},
+      "Trans": {"SC":"永恒战士拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -6381,13 +6381,13 @@
     {
       "NamespaceHash": "Content::3173387620",
       "Source": "Enforcer has natural armor.",
-      "Trans": {"SC":"执行者具有的天然护甲。","JA":""},
+      "Trans": {"SC":"执行者拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3176064806",
       "Source": "Legendary Info of Alpha Trex Ascend",
-      "Trans": {"SC":"精英霸王龙升阶的传奇信息","JA":""},
+      "Trans": {"SC":"精英霸王龙仙化的传奇信息","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -6855,7 +6855,7 @@
     {
       "NamespaceHash": "Content::3405806048",
       "Source": "Ascension of Dying light has natural armor.",
-      "Trans": {"SC":"仙化消逝的光芒具有的天然护甲。","JA":""},
+      "Trans": {"SC":"仙化消逝的光芒拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7293,7 +7293,7 @@
     {
       "NamespaceHash": "Content::3688475366",
       "Source": "Megapithecus has natural armor.",
-      "Trans": {"SC":"巨猿具有的天然护甲。","JA":""},
+      "Trans": {"SC":"金刚拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7683,7 +7683,7 @@
     {
       "NamespaceHash": "Content::3947547797",
       "Source": "DodoWyvern  has natural armor.",
-      "Trans": {"SC":"渡渡飞龙具有的天然装甲。","JA":""},
+      "Trans": {"SC":"渡渡飞龙拥有的天然装甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8121,7 +8121,7 @@
     {
       "NamespaceHash": "Content::4171214822",
       "Source": "Alpha DodoRexy has natural armor.",
-      "Trans": {"SC":"精英渡渡霸王龙具有的天然护甲","JA":""},
+      "Trans": {"SC":"精英渡渡霸王龙拥有的天然护甲","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8235,7 +8235,7 @@
     {
       "NamespaceHash": "Content::4238672623",
       "Source": "Excellent DireWolf has natural armor.",
-      "Trans": {"SC":"卓越恐狼具有的天然护甲。","JA":""},
+      "Trans": {"SC":"卓越恐狼拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8253,7 +8253,7 @@
     {
       "NamespaceHash": "Content::4247108414",
       "Source": "Unreal DireWolf has natural armor.",
-      "Trans": {"SC":"虚幻恐狼具有的天然护甲。","JA":""},
+      "Trans": {"SC":"虚幻恐狼拥有的天然护甲。","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8475,7 +8475,7 @@
     {
       "NamespaceHash": "Content::485976159",
       "Source": "Drake  has natural armor.",
-      "Trans": {"SC":"喷火龙具有的天然护甲。","JA":""},
+      "Trans": {"SC":"喷火龙拥有的天然护甲。","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8529,7 +8529,7 @@
     {
       "NamespaceHash": "Content::498238403",
       "Source": "Descension of  Annihilation Tyrant has natural armor.",
-      "Trans": {"SC":"毁灭暴君具有的天然护甲。","JA":""},
+      "Trans": {"SC":"毁灭暴君拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8589,7 +8589,7 @@
     {
       "NamespaceHash": "Content::533722386",
       "Source": "The first step is kill the Legendary drake stalker Boss which could unlock ascended legendary rex tek saddle and drop legendary rex chibi.<#RN#>It will be summoned once u killed 30 stalkers!<#RN#>Ascended legendary rex tek saddle:<#RN#>Give it to a 254 health and 254 melee alpha rex to give it a supreme bonus.it will become as strong as tier8 after equipping that saddle.<#RN#>tips:The saddle can't be removed unless the rex dies.",
-      "Trans": {"SC":"第一步是杀死传奇喷火龙潜行者Boss，这将解锁升阶的传奇霸王龙泰克鞍，并掉落传奇霸王龙小雕像。一旦你杀死30个潜行者，它就会被召唤！升阶的传奇霸王龙泰克鞍：给一个254生命值和254近战的精英霸王龙装备，它将获得至高无上的增益。装备上这个鞍后，它将变得和8级一样强大。提示：除非霸王龙死亡，否则鞍不能被移除。","JA":""},
+      "Trans": {"SC":"第一步是杀死传奇喷火龙潜行者Boss，这将解锁仙化传奇霸王龙泰克鞍，并掉落传奇霸王龙小雕像。一旦你杀死30个潜行者，它就会被召唤！仙化传奇霸王龙泰克鞍：给一个254生命值和254近战的精英霸王龙装备，它将获得至高无上的增益。装备上这个鞍后，它将变得和8级一样强大。提示：除非霸王龙死亡，否则鞍不能被移除。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8769,7 +8769,7 @@
     {
       "NamespaceHash": "Content::640917569",
       "Source": "Titanosaur  has natural armor.",
-      "Trans": {"SC":"泰坦龙具有的天然装甲。","JA":""},
+      "Trans": {"SC":"泰坦龙拥有的天然装甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8859,7 +8859,7 @@
     {
       "NamespaceHash": "Content::707923061",
       "Source": "Paradox has natural armor.",
-      "Trans": {"SC":"悖论终极暴龙具有的天然护甲。","JA":""},
+      "Trans": {"SC":"悖论终极暴龙拥有的天然护甲。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -12496,6 +12496,102 @@
       "NamespaceHash": "Content::1166915669",
       "Source": "Primordial",
       "Trans": {"SC":"原初","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::789160824",
+      "Source": "Descended Acrocanthosaurus",
+      "Trans": {"SC":"降临高棘龙","JA":"降臨高棘龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1608434728",
+      "Source": "Legendary Acro Armor",
+      "Trans": {"SC":"传奇高棘龙护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3005324048",
+      "Source": "Provides Excellent Power that could be comparable to Ascension/Descension Creatures!",
+      "Trans": {"SC":"拥有堪比飞升 / 堕化生物的强大战力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2813484469",
+      "Source": "Excellent Acrocanthosaurus Armor",
+      "Trans": {"SC":"卓越高棘龙护甲","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1608082221",
+      "Source": "Alpha Acro has natural armor.",
+      "Trans": {"SC":"精英高棘龙拥有的天然护甲。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2089361710",
+      "Source": "Kill the ancient god to unlock this engram and collect legendary soul.Give the evo core to the legendary alpha dodorex for the evolution(Must kill 25 dodorexy and Devour a Devilish rex or Unreal Descended acro before using evo core).<#RN#>Then u will get a Alpha Trex/Acro.<#RN#>Alpha Trex is a special dino that could level up it's melee and health points through a challenge called\"Legendary Raid\".<#RN#>Use legendary essence in rex's inventory will give it a 900s buff called \"legendary challenge\".if your rex have this buff,all wild flyers and land dinos in 6000 range will have an opportunity to be a stalker.The max quantity of stalkers is 15(to avoid overspawning).if the stalker don't spawn for a long time,u could give a legendary essence to your rex again for a reload.kill the stalkers will gain stalker dust and other resources.<#RN#>Put more than 5 legendary essence in your Rex inventory and try to kill the stalkers to gain extra level up ponits(Once u kill a stalker with alpha rex,it will consume 5 Legendary Essence and Gain a extra level up)<#RN#>Different Stalker gives different quantity of points.<#RN#>there are 6 stalkers in total:<#RN#>raptor:1 points for damage or health<#RN#>carno:2 points for damage or health<#RN#>quetz:3 points for damage or health<#RN#>rex:4 points for damage or health<#RN#>wyvern:5 points for damage or health<#RN#>drake Boss:10 points for damage or health",
+      "Trans": {"SC":"杀死远古神以解锁这个符文并收集传奇灵魂。将进化核心交给传奇精英渡渡霸王龙以进行进化（必须在使用进化核心前杀死25只渡渡霸王龙和吞噬一只恶魔霸王龙或者虚幻高棘龙）。<#RN#> 之后你将获得一只精英霸王龙/高棘龙。<#RN#> 精英霸王龙是特殊生物，可以通过名为 “传奇突袭” 的挑战提升近战与生命值属性。<#RN#> 在霸王龙背包内使用传奇精华，将给它施加持续 900 秒的 “传奇挑战” 增益。当霸王龙拥有该增益时，6000 范围内所有野生飞行和陆地生物有概率变为潜行者。潜行者最大数量为 15 只（防止过量刷新）。长时间没有刷出潜行者时，可以再次给霸王龙使用传奇精华来重置。击杀潜行者可获得潜行者粉尘以及其他资源。<#RN#> 在霸王龙背包里放置超过 5 份传奇精华再击杀潜行者，可以获得额外属性点（用精英霸王龙击杀一只潜行者，消耗 5 个传奇精华并获得一次额外升级）<#RN#> 不同潜行者提供的属性点数不同。<#RN#> 潜行者一共 6 种：<#RN#> 迅猛龙：1 点伤害或生命 <#RN#> 牛龙：2 点伤害或生命 <#RN#> 风神翼龙：3 点伤害或生命 <#RN#> 霸王龙：4 点伤害或生命 <#RN#> 飞龙：5 点伤害或生命 <#RN#> 岩龙 BOSS：10 点伤害或生命","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1079503408",
+      "Source": "The first step for rex is kill the Legendary drake stalker Boss which could unlock ascended legendary rex tek saddle and drop a legendary rex chibi!<#RN#>The first step for acro is kill the Legendary drake stalker boss which could unlock Legendary acro core and drop a legendary acro chibi!<#RN#>It will be summoned once u killed 30 stalkers!<#RN#>Ascended legendary rex tek saddle:<#RN#>Give it to a 254 health and 254 melee alpha rex to give it a supreme bonus.it will become as strong as tier8 after equipping that saddle.<#RN#>Legendary Acro Core:<#RN#>Give it to a 254 health and 254 melee alpha Acro to give it a supreme bonus.it will become as strong as tier8 after equipping that saddle.<#RN#>tips:The saddle can't be removed unless the rex/acro dies.",
+      "Trans": {"SC":"霸王龙的起步目标是击杀传奇岩龙潜行者 BOSS，可解锁仙化传奇霸王龙泰克鞍，并掉落chibi-传奇霸王龙！<#RN#> 高棘龙的起步目标是击杀传奇岩龙潜行者 BOSS，可解锁传奇高棘龙核心，并掉落chibi-传奇高棘龙！<#RN#> 击杀 30 只潜行者后该 BOSS 将会被召唤！<#RN#> 仙化传奇霸王龙泰克鞍：<#RN#> 给生命 254、近战 254 的精英霸王龙装备，获得极致加成。装备该鞍之后强度达到 8 阶。<#RN#> 传奇高棘龙核心：<#RN#> 给生命 254、近战 254 的精英高棘龙装备，获得极致加成。装备该核心之后强度达到 8 阶。<#RN#> 提示：除非霸王龙 / 高棘龙死亡，否则鞍具无法取下。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2826620530",
+      "Source": "Chibi-Legendary Acro",
+      "Trans": {"SC":"Chibi-传奇高棘龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4024000656",
+      "Source": "Legendary Evolution Core(Acro)",
+      "Trans": {"SC":"传奇进化核心（高棘龙）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2569043406",
+      "Source": "<RichColor Color=\"1,0,0,1\">Want to create your own legend?</><#RN#>Give the core to a Descended Acro to create your own Legend!<#RN#><RichColor Color=\"0,0,1,1\">The process may be hard,the result may also be less than satisfactory!</>",
+      "Trans": {"SC":"<RichColor Color=\"1,0,0,1\">想要缔造属于你自己的传奇吗？</><#RN#> 将核心交给降临高棘龙，缔造属于你的传奇！<#RN#><RichColor Color=\"0,0,1,1\">过程或许艰难，结果也可能不尽人意！</>","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2806334075",
+      "Source": "Legendary Evolution Core(Rex)",
+      "Trans": {"SC":"传奇进化核心（霸王龙）","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3300012037",
+      "Source": "Fertilized Descended Acrocanthosaurus Egg",
+      "Trans": {"SC":"受精的降临高棘龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2671297339",
+      "Source": "Adrenal Ally",
+      "Trans": {"SC":"肾上腺素盟友","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::529859671",
+      "Source": "An Acro is buffing you! 20% defence and 0.2%HP/s recovery",
+      "Trans": {"SC":"高棘龙正在为你提供增益！20% 防御以及每秒 0.2% 生命值恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1841081193",
+      "Source": "50% Ture defence and 0.2%HP/s recovery",
+      "Trans": {"SC":"50% 真实防御以及每秒 0.2% 生命值恢复","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4113761554",
+      "Source": "Legendary Acro!",
+      "Trans": {"SC":"传奇高棘龙！","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ]
