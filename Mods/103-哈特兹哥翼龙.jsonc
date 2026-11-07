@@ -1,0 +1,370 @@
+{
+  "Hatzegopteryx Kukulkan": [
+    {
+      "NamespaceHash": "Content::222383988",
+      "Source": "Aberrant Hatzegopteryx",
+      "Trans": {"SC":"畸变哈特兹哥翼龙","JA":"畸變哈特兹哥翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3169744304",
+      "Source": "Arkology Hatzegopteryx",
+      "Trans": {"SC":"方舟学哈特兹哥翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3531883995",
+      "Source": "Xyphias's Hatzegopteryx",
+      "Trans": {"SC":"Xyphias哈特兹哥翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2131526408",
+      "Source": "Lost Knight Hatzegopteryx",
+      "Trans": {"SC":"失落骑士哈特兹哥翼龙","JA":"失落騎士哈特兹哥翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3268419267",
+      "Source": "Trespasser Hatzegopteryx",
+      "Trans": {"SC":"界越者哈特兹哥翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2481346490",
+      "Source": "Lost Hatzegopteryx",
+      "Trans": {"SC":"失落哈特兹哥翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1908529636",
+      "Source": "Hatzegopteryx",
+      "Trans": {"SC":"哈特兹哥翼龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1984213831",
+      "Source": "Paleo Hatzegopteryx",
+      "Trans": {"SC":"远古哈特兹哥翼龙","JA":"遠古哈特兹哥翼龙"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2062994925",
+      "Source": "Fertilized Trespasser Hatzegopteryx Egg",
+      "Trans": {"SC":"受精的界越者哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3551136584",
+      "Source": "Fertilized Arkology Hatzegopteryx Egg",
+      "Trans": {"SC":"受精的方舟学哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1511983963",
+      "Source": "Fertilized Lost Hatzegopteryx Egg",
+      "Trans": {"SC":"受精的失落哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4133971594",
+      "Source": "Fertilized Paleo Hatzegopteryx Egg",
+      "Trans": {"SC":"受精的远古哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::636904026",
+      "Source": "Fertilized Xyphias's Hatzegopteryx Egg",
+      "Trans": {"SC":"受精的Xyphias哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::220354890",
+      "Source": "Chibi-Hatzegopteryx",
+      "Trans": {"SC":"袖珍-哈特兹哥翼龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::243354194",
+      "Source": "Arkology Chibi-Hatzegopteryx",
+      "Trans": {"SC":"袖珍-方舟学哈特兹哥翼龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1641041474",
+      "Source": "Paleo Chibi-Hatzegopteryx",
+      "Trans": {"SC":"袖珍-远古哈特兹哥翼龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::975924162",
+      "Source": "Xyphias's Chibi-Hatzegopteryx",
+      "Trans": {"SC":"袖珍-Xyphias哈特兹哥翼龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3409032569",
+      "Source": "Hatzegopteryx Trophy",
+      "Trans": {"SC":"哈特兹哥翼龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::526689677",
+      "Source": "Place it on a Trophy Wall-Mount, or drop it to challenge a nearby wild Hatzegopteryx!",
+      "Trans": {"SC":"将它放置在战利品墙挂上，或将其丢下以挑战附近的野生哈特兹哥翼龙！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::884348725",
+      "Source": "Lost Hatzegopteryx Trophy",
+      "Trans": {"SC":"失落哈特兹哥翼龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::319902711",
+      "Source": "Faux Hatzegopteryx Trophy",
+      "Trans": {"SC":"仿制哈特兹哥翼龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1176646135",
+      "Source": "Trailer Prop version. Always max size, doesn't have any taming functionality",
+      "Trans": {"SC":"预告片道具版本。始终最大尺寸，没有任何驯服功能。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::712395727",
+      "Source": "Trespasser Hatzegopteryx Trophy",
+      "Trans": {"SC":"界越者哈特兹哥翼龙战利品","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3712973587",
+      "Source": "Hatz Art Base",
+      "Trans": {"SC":"哈兹艺术基座","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::814684097",
+      "Source": "A piece of art to put on your wall!",
+      "Trans": {"SC":"一件可以挂在墙上的艺术品！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2094615810",
+      "Source": "Fertilized Hatzegopteryx Egg",
+      "Trans": {"SC":"受精的哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3166089847",
+      "Source": "Fertilized Aberrant Hatzegopteryx Egg",
+      "Trans": {"SC":"受精的畸变哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2114354946",
+      "Source": "Hatzegopteryx Saddle",
+      "Trans": {"SC":"哈特兹哥翼龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4208453263",
+      "Source": "Equip a Hatzegopteryx with this to ride it.",
+      "Trans": {"SC":"装备到哈特兹哥翼龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::158633697",
+      "Source": "Hatzegopteryx Warrior Saddle",
+      "Trans": {"SC":"哈特兹哥翼龙战士鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2901364903",
+      "Source": "Use this on a Hatzegopteryx saddle to ride in style.",
+      "Trans": {"SC":"对哈特兹哥翼龙鞍使用此物品，以潇洒地骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3245708754",
+      "Source": "Hatzegopteryx Air Superiority Saddle",
+      "Trans": {"SC":"哈特兹哥翼龙空势鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::536141479",
+      "Source": "Equip a Hatzegopteryx with this to ride it. Saddle is equipped with Element-powered thrusters, enabling the Hatzegopteryx to fly significantly faster while they are active. In addition to Element, the saddle may fall back onto other fuel types with varying efficiency. However, the Hatzegopteryx may be unable to use its grab attacks.",
+      "Trans": {"SC":"装备到哈特兹哥翼龙上以骑乘。该鞍具配备有以元素为动力的推进器，当其激活时可使哈特兹哥翼龙飞行速度显著加快。除了元素，该鞍具还可使用其他燃料，但效率各异。然而，哈特兹哥翼龙可能无法使用其抓取攻击。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3176716341",
+      "Source": "Hatzegopteryx Lost Knight Saddle",
+      "Trans": {"SC":"哈特兹哥翼龙失落骑士鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2077696545",
+      "Source": "Hatzegopteryx Platform Saddle",
+      "Trans": {"SC":"哈特兹哥翼龙平台鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4180095080",
+      "Source": "Equip a Hatzegopteryx with this to ride it.  You can build structures on the platform to make a mobile base.",
+      "Trans": {"SC":"装备到哈特兹哥翼龙上以骑乘。你可以在平台上建造建筑，使其成为一个移动基地。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::758642760",
+      "Source": "Cracked Alpha Karkinos Claw",
+      "Trans": {"SC":"开裂的精英巨蟹鳌","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3538730296",
+      "Source": "A hefty claw cracked open with the help of an Aberrant Hatzegopteryx's beak. This is a meal fit for a king! Eat it yourself, or feed it to a dino. Effects last 15 minutes.",
+      "Trans": {"SC":"在畸变哈特兹哥翼龙的喙的帮助下撬开的巨大蟹鳌。这是一顿适合国王的美餐！你可以自己吃，或者喂给恐龙。效果持续15分钟。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::282977702",
+      "Source": "Hatzegopteryx Egg",
+      "Trans": {"SC":"哈特兹哥翼龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1449721179",
+      "Source": "Challenged!",
+      "Trans": {"SC":"受到挑战！","JA":"受到挑戰！"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2106356867",
+      "Source": "You have challenged a Hatzegopteryx!",
+      "Trans": {"SC":"你向一只哈特兹哥翼龙发起了挑战！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1666281890",
+      "Source": "this is poo poo 2 standing by",
+      "Trans": {"SC":"便便2号待命","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3653838929",
+      "Source": "Bug Hunter",
+      "Trans": {"SC":"虫子猎人","JA":"虫子獵人"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2808944581",
+      "Source": "Exhausted...",
+      "Trans": {"SC":"精疲力竭...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::208457379",
+      "Source": "The Hatzegopteryx bends a knee!",
+      "Trans": {"SC":"哈特兹哥翼龙弯下了膝盖！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2861847797",
+      "Source": "Karkinos's Bulwark",
+      "Trans": {"SC":"巨蟹怪的堡垒","JA":"巨蟹怪的堡壘"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1696234607",
+      "Source": "Combined effects of: Calien Soup, Enduro Stew, Focal Chili, Fria Curry, Lazarus Chowder, and Mushroom Brew",
+      "Trans": {"SC":"组合效果：卡琳汤、耐力炖锅、焦红辣椒、菲拉咖喱、拉撒路杂烩和蘑菇汤","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3563605296",
+      "Source": "Uncooperative",
+      "Trans": {"SC":"不合作","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1450787023",
+      "Source": "Hatzegopteryxes do not enjoy each other's company...",
+      "Trans": {"SC":"哈特兹哥翼龙们不喜欢彼此的陪伴...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3237231916",
+      "Source": "Imposing Presence",
+      "Trans": {"SC":"威严气势","JA":"威嚴气勢"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1352366265",
+      "Source": "Increases outgoing damage by 20%",
+      "Trans": {"SC":"使造成的伤害提高20%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2289182128",
+      "Source": "Imposing Cooldown",
+      "Trans": {"SC":"威严气势冷却","JA":"威嚴气勢冷却"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4072233805",
+      "Source": "Prevents gaining Imposing Presence buff",
+      "Trans": {"SC":"阻止获得威严气势效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "CE6BC406433F2782C17D3AABBB13612A",
+      "Source": "Melee",
+      "Trans": {"SC":"近战","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1993336256"}
+    },
+    {
+      "NamespaceHash": "83F713694A2EC0FA8BAECBB0AF6154B2",
+      "Source": "Stomp",
+      "Trans": {"SC":"践踏","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"67290213"}
+    },
+    {
+      "NamespaceHash": "C2A6FB264DE3D3784E848CB70A434525",
+      "Source": "Grab / Release",
+      "Trans": {"SC":"抓取 / 释放","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3292715659"}
+    },
+    {
+      "NamespaceHash": "19FFCD5E42C085D41518A5812C93322C",
+      "Source": "Roar",
+      "Trans": {"SC":"咆哮","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"619945241"}
+    },
+    {
+      "NamespaceHash": "E38A4EFA4F0C1769068314834ED2DEA2",
+      "Source": "Sit",
+      "Trans": {"SC":"坐下","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"466207432"}
+    },
+    {
+      "NamespaceHash": "8C19273F43EABE20D68773825FCEF704",
+      "Source": "Toggle Soaring/Jetpack",
+      "Trans": {"SC":"切换翱翔/喷气背包","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"755908025"}
+    },
+    {
+      "NamespaceHash": "1819A96742C1A75DCE8A149E20CB245D",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"显隐按键绑定帮助界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "CD95A5D84EDE7ED3DC882AAC886A305A",
+      "Source": "Common Name : HatzegopteryxSpecies : Hatzegoptery kukulkanTime : Late CretaceousDiet : CarnivoreTemperament : Highly Aggressive",
+      "Trans": {"SC":"通用名：哈采格翼龙物种：Hatzegoptery kukulkan时代：晚白垩世食性：肉食性情：高度好斗","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3833332927"}
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+{
+  "Extreme Creatures: Audacoceratops": [
+    {
+      "NamespaceHash": "Content::2972872319",
+      "Source": "Audacoceratops",
+      "Trans": {"SC":"无畏角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2097317967",
+      "Source": "Barbed Wire",
+      "Trans": {"SC":"铁丝网","JA":"鐵絲网"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2410158541",
+      "Source": "Czech Hedgehog",
+      "Trans": {"SC":"捷克刺猬","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::98255901",
+      "Source": "Work Platform",
+      "Trans": {"SC":"工作平台","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3854294807",
+      "Source": "Corrupted Audacoceratops",
+      "Trans": {"SC":"腐化无畏角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::402583217",
+      "Source": "Tempered Audacoceratops",
+      "Trans": {"SC":"淬火无畏角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3198848254",
+      "Source": "X-Audacoceratops",
+      "Trans": {"SC":"X-无畏角龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3021192130",
+      "Source": "Armor-Piercing Shell",
+      "Trans": {"SC":"穿甲弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3049753915",
+      "Source": "Once the Audacoceratops saddle is equipped with a cannon, this shell  can be used.",
+      "Trans": {"SC":"一旦无畏角龙鞍装备了大炮，就可以使用这种炮弹。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::680131768",
+      "Source": "High-Explosive Shell",
+      "Trans": {"SC":"高爆弹","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1231038416",
+      "Source": "Audacoceratops Saddle",
+      "Trans": {"SC":"无畏角龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::264850274",
+      "Source": "Equip a Audacoceratops with this to ride it.",
+      "Trans": {"SC":"装备到无畏角龙上以骑乘。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2286234806",
+      "Source": "Audacoceratops modifiable Saddle",
+      "Trans": {"SC":"可改装的无畏角龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::141527075",
+      "Source": "Can be modified and equip a Audacoceratops with this to ride it.",
+      "Trans": {"SC":"可以改装并为无畏角龙装备此鞍来骑乘它。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3781660353",
+      "Source": "Audacoceratops Egg",
+      "Trans": {"SC":"无畏角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3563971644",
+      "Source": "Fertilized Audacoceratops Egg",
+      "Trans": {"SC":"受精的无畏角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3319261248",
+      "Source": "Fertilized X-Audacoceratops Egg",
+      "Trans": {"SC":"受精的X-无畏角龙蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2659562484",
+      "Source": "Mutation Catalyst",
+      "Trans": {"SC":"变异催化剂","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::659688144",
+      "Source": "There is a 1 % chance for a dino to get one health stat mutation, provided the following conditions are met:<#RN#>‑ It is a baby with maturation progress < 5 %.<#RN#>‑ Health mutation points < 254.<#RN#>‑ Total level < 360.",
+      "Trans": {"SC":"恐龙有1%的几率获得一个生命值属性变异，前提是满足以下条件：<#RN#>‑ 它是幼崽且发育进度 < 5%。<#RN#>‑ 生命值变异点数 < 254。<#RN#>‑ 总等级 < 360。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1014791456",
+      "Source": "Audacoceratops Ghost Costume",
+      "Trans": {"SC":"幽灵无畏角龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2882775901",
+      "Source": "Use this spectrally spooky costume to get your Audacoceratops into the spirit of the season!",
+      "Trans": {"SC":"使用这款幽灵般诡异的服装，让你的无畏角龙融入节日气氛！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3776463881",
+      "Source": "Tempered Audacoceratops Costume",
+      "Trans": {"SC":"淬火无畏角龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2766771384",
+      "Source": "This costume makes your Audacoceratops look battle-hardened!",
+      "Trans": {"SC":"这套服装让你的无畏角龙看起来久经沙场！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4272587009",
+      "Source": "Triceratops Pheromone",
+      "Trans": {"SC":"角龙信息素","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::489809957",
+      "Source": "Used to craft a Mutation Catalyst.",
+      "Trans": {"SC":"用于制作变异催化剂。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3511912177",
+      "Source": "Chibi-Audacoceratops",
+      "Trans": {"SC":"袖珍-无畏角龙","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::502672837",
+      "Source": "Used to craft and modify the Audacoceratops saddle. Requires power and the Audacoceratops must be parked on it to use.",
+      "Trans": {"SC":"用于制作和改装无畏角龙鞍。需要电力，并且必须将无畏角龙停放在上面才能使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3434409914",
+      "Source": "Protection",
+      "Trans": {"SC":"保护","JA":"保護"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::593986528",
+      "Source": "Can't Locking Horns.",
+      "Trans": {"SC":"无法锁定角","JA":"无法鎖定角"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2004651470",
+      "Source": "Shield",
+      "Trans": {"SC":"护盾","JA":"護盾"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2653206426",
+      "Source": "Gain a shield and become immune to fear!",
+      "Trans": {"SC":"获得护盾并免疫恐惧！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}

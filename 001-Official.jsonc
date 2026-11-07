@@ -1,41 +1,622 @@
 {
   "Official": [
-    
+    {
+      "NamespaceHash": "75CC67264DA0360892BD4CBCD984F4E3", //谜影龙
+      "Source": "Empty",
+      "Trans": {"SC":"空的","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1003214290"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2859169420",
+      "Source": "Enigmasaur",
+      "Trans": {"SC":"谜影龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3519849218",
+      "Source": "Enigmasaur Mimic",
+      "Trans": {"SC":"谜影龙拟态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::185446264",
+      "Source": "Enigmasaur is currently taking the form of another creature",
+      "Trans": {"SC":"谜影龙当前正拟态为其他生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1171764931",
+      "Source": "Mimic Settings",
+      "Trans": {"SC":"拟态设置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1764361903", //buffname
+      "Source": "Enigmasaur Study",
+      "Trans": {"SC":"谜影龙研究","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4286310777",
+      "Source": "Allows Enigmasaur to study and store creature types for mimic transformation",
+      "Trans": {"SC":"谜影龙能够研究并记录不同种类生物的形态, 以供拟态变形使用。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2793395308",
+      "Source": "Studying {0} {1}%",
+      "Trans": {"SC":"正在研究 {0} {1}%","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4148360236",
+      "Source": "{0} stored to Mimic Slot {1}",
+      "Trans": {"SC":"{0} 已存入 {1}号 拟态槽位","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1258585846",
+      "Source": "{0} updated in Mimic Slot {1}",
+      "Trans": {"SC":"拟态 {1}号 槽位中的 {0} 已更新","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "FCDCDB7C4615AEB477C0ED8E1105B0B6",
+      "Source": "Predator",
+      "Trans": {"SC":"掠食者","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"463132548"}
+    },
+    {
+      "NamespaceHash": "8FC9336B4F480CAE9C101186B4BD9E0F",
+      "Source": "Tank",
+      "Trans": {"SC":"肉盾","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1784819034"}
+    },
+    {
+      "NamespaceHash": "8B66EF0C43A63E4A1F9C258C20B3D868",
+      "Source": "Flyer",
+      "Trans": {"SC":"飞行","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3232990636"}
+    },
+    {
+      "NamespaceHash": "E286D4184A6D1D610402C2BD776114C2",
+      "Source": "Aquatic",
+      "Trans": {"SC":"水栖","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2028215718"}
+    },
+    {
+      "NamespaceHash": "89481B804083DF55B26923A8422F7003",
+      "Source": "Endurance",
+      "Trans": {"SC":"耐力","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"41042171"}
+    },
+    {
+      "NamespaceHash": "38B13AD140A3DC994C8BF3A4AB06CD82",
+      "Source": "Venomous",
+      "Trans": {"SC":"毒性","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2056076394"}
+    },
+    {
+      "NamespaceHash": "83D3690245E5ED000B6AECBC73599B09",
+      "Source": "Harvester",
+      "Trans": {"SC":"采集","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1325750487"}
+    },
+    {
+      "NamespaceHash": "3C7C17614AFB6B4A073B3C8B488E73BA",
+      "Source": "Flame",
+      "Trans": {"SC":"火焰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3565972029"}
+    },
+    {
+      "NamespaceHash": "B3F9B2F3450367AA41C86BBC42B6A301",
+      "Source": "Freeze",
+      "Trans": {"SC":"冰冻","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4071460497"}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2646888393",
+      "Source": "Study Prevented: Requires DLC",
+      "Trans": {"SC":"无法研究: 需要对应的DLC","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::415165410",
+      "Source": "Study Prevented: Recently Studied",
+      "Trans": {"SC":"无法研究: 最近已研究过","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1067487177",
+      "Source": "Study Prevented: Dino Prohibited",
+      "Trans": {"SC":"无法研究: 该生物被禁止","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2504061896",
+      "Source": "Transform Prevented: Requires DLC",
+      "Trans": {"SC":"无法变形: 需要对应的DLC","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2953293919",
+      "Source": "Transform Prevented: Invalid Area",
+      "Trans": {"SC":"无法变形: 当前区域不允许变形","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2300275055",
+      "Source": "ransform Prevented: Insufficient Space",
+      "Trans": {"SC":"无法变形: 空间不足","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2778866817",
+      "Source": "Transform Prevented: Dino Prohibited",
+      "Trans": {"SC":"无法变形: 该生物被禁止","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3047887456",
+      "Source": "Transform Prevented: Dino Invalid",
+      "Trans": {"SC":"无法变形: 目标生物无效","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::257747133",
+      "Source": "Transform Prevented: Too Close To Ground",
+      "Trans": {"SC":"无法变形: 距离地面过近","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3578543366",
+      "Source": " (Mimic)",
+      "Trans": {"SC":" (拟态)","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3230919013",
+      "Source": "Untransform Mimic",
+      "Trans": {"SC":"解除拟态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4072856774",
+      "Source": "You must own Fantastic Tames: Season 1 to interact with this creature",
+      "Trans": {"SC":"你必须拥有 奇幻驯兽: 第一季 才能与该生物互动","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3509984173",
+      "Source": "Predator Adaptation",
+      "Trans": {"SC":"掠食适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::795215360",
+      "Source": "Increased Melee Damage",
+      "Trans": {"SC":"近战伤害提高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::427172863",
+      "Source": "Tank Adaptation",
+      "Trans": {"SC":"防御适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1815457972",
+      "Source": "Increased Damage Resistance",
+      "Trans": {"SC":"伤害抗性提高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3050092864",
+      "Source": "Fire Adaptation",
+      "Trans": {"SC":"火焰适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1540371262",
+      "Source": "Attacks Inflict Fire",
+      "Trans": {"SC":"攻击附加燃烧效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2148833191",
+      "Source": "Frost Adaptation",
+      "Trans": {"SC":"冰霜适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::450801778",
+      "Source": "Attacks Inflict Frost",
+      "Trans": {"SC":"攻击附加冰霜效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1934372363",
+      "Source": "Attacks Inflict Extra Effects",
+      "Trans": {"SC":"攻击附加额外效果","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4013943217",
+      "Source": "Flyer Adaptation",
+      "Trans": {"SC":"飞行适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2463031038",
+      "Source": "Increased Movement Speed",
+      "Trans": {"SC":"移动速度提高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1745230215",
+      "Source": "Aquatic Adaptation",
+      "Trans": {"SC":"水生适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::301063710",
+      "Source": "Increased Oxygen + Swim Speed",
+      "Trans": {"SC":"氧气值和游泳速度提高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::481466703",
+      "Source": "Endurance Adaptation",
+      "Trans": {"SC":"耐力适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3687431523",
+      "Source": "Reduced Stamina Consumption",
+      "Trans": {"SC":"耐力消耗降低","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::253664997",
+      "Source": "Venomous Adaptation",
+      "Trans": {"SC":"毒性适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1327934743",
+      "Source": "Attacks Inflict Torpor",
+      "Trans": {"SC":"攻击附加麻醉值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1338789300",
+      "Source": "Harvester Adaptation",
+      "Trans": {"SC":"采集适应特征","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2244164796",
+      "Source": "Reduced Weight + Increased Harvesting",
+      "Trans": {"SC":"重量降低 + 采集效率提高","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1730661952",
+      "Source": "[Selected]",
+      "Trans": {"SC":"[已选择]","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3973668911",
+      "Source": "Select a slot to transform into creature",
+      "Trans": {"SC":"选择一个槽位以变形为对应生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1866717256",
+      "Source": "Select a slot to store creature",
+      "Trans": {"SC":"选择一个槽位以存储该生物的形态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "437C4541435656C5B09F09955296ADBB",
+      "Source": "Bite",
+      "Trans": {"SC":"啃咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "173321D74E585A5C09B3C18689AC4E3A",
+      "Source": "Tongue Lash",
+      "Trans": {"SC":"吐舌突袭","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1447292419"}
+    },
+    {
+      "NamespaceHash": "098F8BC740ABCBACE3DBF891BB5B0189",
+      "Source": "Study",
+      "Trans": {"SC":"研究","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2154468697"}
+    },
+    {
+      "NamespaceHash": "667FA83F4202CFFE8EC94A965FC6E623",
+      "Source": "Mimic",
+      "Trans": {"SC":"拟态","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"948711668"}
+    },
+    {
+      "NamespaceHash": "Content::3615165314",
+      "Source": "Hold {Reload}",
+      "Trans": {"SC":"按 {Reload}","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    //{
+    //  "NamespaceHash": "Content::617023935",
+    //  "Source": "Enigmasaur Mimic Controller",
+    //  "Trans": {"SC":"","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    //{
+    //  "NamespaceHash": "Content::3948270001",
+    //  "Source": "Use this to control Enigmasaur Mimic transformations while on your hotbar.\r\n\r\nTap on Enigmasaur to transform between it and previous mimic.\r\nTap on mimic to transform into it.\r\nHold for mimic selection.\r\nPress item slot hotkey while hovered over a mimic to create a hotbar shortcut.",
+    //  "Trans": {"SC":"","JA":""},
+    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    //},
+    {
+      "NamespaceHash": "Content::2533671363",
+      "Source": "Chibi-Gigadesmodus",
+      "Trans": {"SC":"袖珍-巨翼魔蝠","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::972027172",
+      "Source": "Plushie Decor",
+      "Trans": {"SC":"装饰玩偶","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::21646304",
+      "Source": "You can use this to skin the appearance of many Furniture pieces including:\r\n\r\nSmall, Medium and Large Decor Boxes",
+      "Trans": {"SC":"你可以用它来更换以多种家具的外观皮肤:\r\n\r\n小型、中型和大型装饰箱","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2151107136",
+      "Source": "Dragon Costume",
+      "Trans": {"SC":"龙龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::237072045",
+      "Source": "Companion Gear",
+      "Trans": {"SC":"随行宠装备","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4275627512",
+      "Source": "Fake Death Emote",
+      "Trans": {"SC":"装死表情","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4233494036",
+      "Source": "Fake Death",
+      "Trans": {"SC":"装死","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3440856984",
+      "Source": "Consume this to permanently unlock the \"Fake Death\" emote. ",
+      "Trans": {"SC":"使用这个可以永久解锁 \"装死\" 表情。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2050183066",
+      "Source": "Tidepup Ghost Costume",
+      "Trans": {"SC":"幽灵潮佑螈套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2611854036",
+      "Source": "Use this spectrally spooky costume to get your Tidepup into the spirit of the season!",
+      "Trans": {"SC":"使用这件幽灵般诡异的服装, 让你的潮佑螈拥有节日的气氛!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2001523112",
+      "Source": "Bloodstalker Ghost Costume",
+      "Trans": {"SC":"幽灵血蛛套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2061022005",
+      "Source": "Use this spectrally spooky costume to get your Bloodstalker into the spirit of the season!",
+      "Trans": {"SC":"使用这件幽灵般诡异的服装, 让你的血蛛拥有节日的气氛!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2648886121",
+      "Source": "Gargantar Ghost Costume",
+      "Trans": {"SC":"幽灵吞岳龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::231747904",
+      "Source": "Use this spectrally spooky costume to get your Gargantar into the spirit of the season!",
+      "Trans": {"SC":"使用这件幽灵般诡异的服装, 让你的吞岳龙拥有节日的气氛!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1177562901",
+      "Source": "Burrowbuck Ghost Costume",
+      "Trans": {"SC":"幽灵穴角兔套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::136513830",
+      "Source": "Use this spectrally spooky costume to get your Burrowbuck into the spirit of the season!",
+      "Trans": {"SC":"使用这件幽灵般诡异的服装, 让你的穴角兔拥有节日的气氛!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::739718053",
+      "Source": "Therizinosaurus Ghost Costume",
+      "Trans": {"SC":"幽灵镰刀龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1324228722",
+      "Source": "Use this spectrally spooky costume to get your Therizinosaurus into the spirit of the season!",
+      "Trans": {"SC":"使用这件幽灵般诡异的服装, 让你的镰刀龙拥有节日的气氛!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::227360375",
+      "Source": "Megaraptor Ghost Costume",
+      "Trans": {"SC":"幽灵大盗龙套装","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::246976946",
+      "Source": "Use this spectrally spooky costume to get your Megaraptor into the spirit of the season!",
+      "Trans": {"SC":"使用这件幽灵般诡异的服装, 让你的大盗龙拥有节日的气氛!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3266749060",
+      "Source": "Smashable Pumpkins",
+      "Trans": {"SC":"可敲碎的南瓜","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3248536960",
+      "Source": "Give small decor boxes a goo-filled pumpkin appearance! Choose from multiple faces, then smash it open with a hit to unleash the goo inside.",
+      "Trans": {"SC":"将小型装饰箱变成装满黏液的南瓜！可选择多种不同的面孔造型，随后通过敲击将其砸开，释放里面的黏液。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::915619176",
+      "Source": "Pumpkin Chandelier",
+      "Trans": {"SC":"南瓜吊灯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1962523385",
+      "Source": "Fear Plush Decor",
+      "Trans": {"SC":"万圣节装饰玩偶","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2337239619",
+      "Source": "Transform a small decor box into a spooky plush toy! Choose from three cuddly designs: a ghost, a Frankie, or a pumpkin.",
+      "Trans": {"SC":"将小型装饰箱变成诡异又可爱的装饰玩偶！可从三种软萌造型中选择: 幽灵、弗兰奇或南瓜。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3122395792",
+      "Source": "Pumpkin Stack Decor",
+      "Trans": {"SC":"南瓜堆装饰","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::553164776",
+      "Source": "Decorate with pumpkin stacks in different sizes! Use this skin to change the appearance of Small, Medium, and Large Decor Boxes.",
+      "Trans": {"SC":"用不同大小的南瓜堆来装饰你的家园！使用此皮肤可改变小型、中型和大型装饰箱的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2893512371",
+      "Source": "Coffin Industrial Cauldrons",
+      "Trans": {"SC":"棺木式工业巫术锅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3238085704",
+      "Source": "Brew up something spooky with two giant bubbling cauldrons! Use this skin to change the appearance of an Industrial Cooker.",
+      "Trans": {"SC":"用两口不断冒泡的巨型巫术锅熬制一些诡异的东西吧！使用此皮肤可改变工业大锅的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1596317270",
+      "Source": "Coffin Cookers",
+      "Trans": {"SC":"棺木式炉具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1464239325",
+      "Source": "Bring a haunting glow to your home with coffin-inspired designs! Use this skin to change the appearance of a Forge, Fireplace, or Campfire.",
+      "Trans": {"SC":"用棺木造型的设计为你的家园增添一抹诡异的光芒! 使用此皮肤可改变精炼炉、壁炉或篝火的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4290502943",
+      "Source": "Coffin Furniture",
+      "Trans": {"SC":"棺木式家具","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2433539767",
+      "Source": "Furnish your haunted home with coffin-inspired designs! Use this skin to change the appearance of Small and Large Storage Boxes, Bookshelf, or Smithy.",
+      "Trans": {"SC":"用棺木造型的家具装点你那阴森的家园! 使用此皮肤可改变小型储物箱、大型储物箱、书架或铁匠台的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2824436729",
+      "Source": "Coffin Lamp",
+      "Trans": {"SC":"棺木式灯","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::885145117",
+      "Source": "Light up your haunted home with a pumpkin head topped with a witch’s hat! Use this skin to change the appearance of an Omnilight or Lamp Post.",
+      "Trans": {"SC":"用戴着女巫帽的南瓜头照亮你那阴森的家园! 使用此皮肤可改变全向灯或路灯的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2721626717",
+      "Source": "Coffin Bed",
+      "Trans": {"SC":"棺木床","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3957702006",
+      "Source": "Give your haunted home a spooky touch! Use this skin to change the appearance of a Simple Bed, Chair, Bench, or Table.",
+      "Trans": {"SC":"为你那阴森的家园增添一丝诡异气息! 使用此皮肤可改变简易床、椅子、长椅或桌子的外观。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::1710291044",
       "Source": "Tidepup Ghost",
-      "Trans": { "SC": "幽灵潮佑螈", "JA": "" },
-      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+      "Trans": {"SC":"幽灵潮佑螈","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3626192161",
       "Source": "Bloodstalker Ghost",
-      "Trans": { "SC": "幽灵血蛛", "JA": "" },
-      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+      "Trans": {"SC":"幽灵血蛛","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::207720944",
       "Source": "Gargantar Ghost",
-      "Trans": { "SC": "幽灵吞岳龙", "JA": "" },
-      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+      "Trans": {"SC":"幽灵吞岳龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4277680835",
       "Source": "Burrowbuck Ghost",
-      "Trans": { "SC": "幽灵穴角兔", "JA": "" },
-      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+      "Trans": {"SC":"幽灵穴角兔","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::56376236",
       "Source": "Therizinosaurus Ghost",
-      "Trans": { "SC": "幽灵镰刀龙", "JA": "" },
-      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+      "Trans": {"SC":"幽灵镰刀龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1741889432",
       "Source": "Megaraptor Ghost",
-      "Trans": { "SC": "幽灵大盗龙", "JA": "" },
-      "Config": { "Item": false, "Dino": true, "Default_Hash": "" }
+      "Trans": {"SC":"幽灵大盗龙","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::252011217",
@@ -148,13 +729,13 @@
     {
       "NamespaceHash": "GraphLiteral::3100046365", //TLC GIGA
       "Source": "Strength increases as ",
-      "Trans": {"SC":"力量会随着 ","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
+      "Trans": {"SC":"增益强度会随着 ","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2327012473", //TLC GIGA
       "Source": " loses health.",
-      "Trans": {"SC":" 血量过低时爆发得更加强大。","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
+      "Trans": {"SC":" 的血量降低而不断增强。","JA":""}, //标记-此翻译是针对TLC后的南巨所翻译.
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -1807,8 +2388,8 @@
     {
       "NamespaceHash": "Content::3912978562",
       "Source": "Kroaratos", //minibossname
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"焰鬃獠王","JA":""},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::22690445",
@@ -1945,7 +2526,7 @@
     {
       "NamespaceHash": "Content::1250521133",
       "Source": "You can use this to skin the appearance of storage items including:\r\n- Small Storage Box\r\n- Bookshelf\r\n- Large Storage Box\r\n\r\nGet ready for summer fun with bouncy storage!",
-      "Trans": {"SC":"你可以用它来更换以下储物类物品的外观皮肤: \r\n- 小储物箱\r\n- 大储物箱\r\n- 书架\r\n\r\n换上弹力十足的储物外观, 准备好享受夏日乐趣吧!","JA":""},
+      "Trans": {"SC":"你可以用它来更换以下储物类物品的外观皮肤:\r\n- 小储物箱\r\n- 大储物箱\r\n- 书架\r\n\r\n换上弹力十足的储物外观, 准备好享受夏日乐趣吧!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4556,7 +5137,7 @@
     {
       "NamespaceHash": "GraphLiteral::1054011850",
       "Source": "Activate Ability. Consumed Charges: ",
-      "Trans": {"SC":"激活技能。消耗充能：","JA":""},
+      "Trans": {"SC":"激活技能。消耗充能: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5726,7 +6307,7 @@
     {
       "NamespaceHash": "GraphLiteral::2222914419",
       "Source": "Fantastic Tames Season 1 brings three mystical new companions to your tribe: Burrowbuck, Cerberax, and Enigmasaur. Tunnel through the earth, tear through the front lines using multi-headed attacks, or mimic stolen creature-forms!",
-      "Trans": {"SC":"«奇幻驯兽»第一季为你的部落带来三位神秘伙伴: 穴角兔、三相狱犬与谜龙。遁地穿行, 以多头攻势撕开前线, 或化身盗取而来的生物形态!","JA":""},
+      "Trans": {"SC":"«奇幻驯兽»第一季为你的部落带来三位神秘伙伴: 穴角兔、三相狱犬与谜影龙。遁地穿行, 以多头攻势撕开前线, 或化身盗取而来的生物形态!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -7988,7 +8569,7 @@
     {
       "NamespaceHash": "GraphLiteral::2906188161",
       "Source": "PLACING COST:",
-      "Trans": {"SC":"下单费用：","JA":""},
+      "Trans": {"SC":"下单费用:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8060,13 +8641,13 @@
     {
       "NamespaceHash": "GraphLiteral::3940903692",
       "Source": "Sort by:",
-      "Trans": {"SC":"排序方式：","JA":""},
+      "Trans": {"SC":"排序方式:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1205091760",
       "Source": "Filter by:",
-      "Trans": {"SC":"筛选方式：","JA":""},
+      "Trans": {"SC":"筛选方式:","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9414,7 +9995,7 @@
     {
       "NamespaceHash": "Content::3716545345",
       "Source": "ARK: Fantastic Tames - Season 1",
-      "Trans": {"SC":"方舟：奇幻驯兽 - 第一季","JA":""},
+      "Trans": {"SC":"方舟: 奇幻驯兽 - 第一季","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -9902,37 +10483,38 @@
     {
       "NamespaceHash": "Content::2859169420",
       "Source": "Enigmasaur", //Enigma; saur
-      "Trans": {"SC":"幻隐龙","JA":""},
+      "Trans": {"SC":"谜影龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+      //谜影龙, 幻隐龙 ; Proteus mutabilis多态迷幻龙
     },
     {
       "NamespaceHash": "Content::1736217661",
       "Source": "Enigmasaur Dossier",
-      "Trans": {"SC":"幻隐龙图鉴","JA":""},
+      "Trans": {"SC":"谜影龙图鉴","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3496235874",
       "Source": "Enigmasaur Saddle",
-      "Trans": {"SC":"幻隐龙鞍","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      "Trans": {"SC":"谜影龙鞍","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1637052803",
-      "Source": "Equip a Enigmasaur with this to ride it.",
-      "Trans": {"SC":"装备到幻隐龙上以骑乘。","JA":""},
+      "NamespaceHash": "Content::2515131309",
+      "Source": "Equip an Enigmasaur with this to ride it.",
+      "Trans": {"SC":"装备到谜影龙上以骑乘。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2940264073",
       "Source": "Fertilized Enigmasaur Egg",
-      "Trans": {"SC":"受精的幻隐龙蛋","JA":""},
+      "Trans": {"SC":"受精的谜影龙蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::441195186",
       "Source": "Enigmasaur Egg",
-      "Trans": {"SC":"幻隐龙蛋","JA":""},
+      "Trans": {"SC":"谜影龙蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10452,7 +11034,7 @@
     {
       "NamespaceHash": "GraphLiteral::747267381",
       "Source": "Location: {0}",
-      "Trans": {"SC":"位置：{0}","JA":""},
+      "Trans": {"SC":"位置: {0}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     //"In Game",
@@ -12472,7 +13054,7 @@
     {
       "NamespaceHash": "Content::1838293235",
       "Source": "Companion Bed",
-      "Trans": {"SC":"随伴的床","JA":""},
+      "Trans": {"SC":"随行宠的床","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -12664,13 +13246,13 @@
     {
       "NamespaceHash": "Content::113432862",
       "Source": "Lovely Companion Bed",
-      "Trans": {"SC":"甜蜜的随伴床","JA":""},
+      "Trans": {"SC":"甜蜜的随行宠床","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::952436959",
       "Source": "You can use this to skin the appearance of a companion bed.",
-      "Trans": {"SC":"你可以用这个来更换随伴床的外观。","JA":""},
+      "Trans": {"SC":"你可以用这个来更换随行宠床的外观。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23408,7 +23990,7 @@
     {
       "NamespaceHash": "Content::2903951164",
       "Source": "Use this to command your Veilwyn companion.\r\n\r\nVeilwyn will be able to be transferred to Lost Colony servers when the Lost Colony expansion goes live.",
-      "Trans": {"SC":"使用这个来指挥你的随伴霜灵狐。\r\n\r\n失落之地扩展包上线后, 便可将霜灵狐转移至失落之地服务器。","JA":""},
+      "Trans": {"SC":"使用这个来指挥你的随行宠霜灵狐。\r\n\r\n失落之地扩展包上线后, 便可将霜灵狐转移至失落之地服务器。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -23963,7 +24545,7 @@
     {
       "NamespaceHash": "Content::885961712",
       "Source": "These displays are perfect for showing off your Shoulder-pets, tiny Tames, and Companions--all while providing some health and experience over time. Comes in Nest and Bed varieties",
-      "Trans": {"SC":"这个展示架非常适合用来陈列处你的肩宠、小型生物以及你的随伴生物 -- 同时还能持续为它们提供生命值与经验值。可以选择多种小窝的样式哦。","JA":""},
+      "Trans": {"SC":"这个展示架非常适合用来陈列处你的肩宠、小型生物以及你的随行宠 -- 同时还能持续为它们提供生命值与经验值。可以选择多种小窝的样式哦。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30747,7 +31329,7 @@
     {
       "NamespaceHash": "Content::2785856024",
       "Source": "Your Companion is healing you.",
-      "Trans": {"SC":"你的随伴正在治愈你。","JA":""},
+      "Trans": {"SC":"你的随行宠正在治愈你。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -30909,19 +31491,19 @@
     {
       "NamespaceHash": "Content::4186079514",
       "Source": "A nearby Companion is reducing the damage you take.",
-      "Trans": {"SC":"附近随伴正在为你降低受到的伤害。","JA":""},
+      "Trans": {"SC":"附近随行宠正在为你降低受到的伤害。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3347249027",
       "Source": "A nearby Companion is increasing your movespeed.",
-      "Trans": {"SC":"附近的随伴正在提升你的移动速度。","JA":""},
+      "Trans": {"SC":"附近的随行宠正在提升你的移动速度。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::433836446",
       "Source": "A nearby Companion is increasing the damage you deal.",
-      "Trans": {"SC":"附近的随伴正在增强你造成的伤害。","JA":""},
+      "Trans": {"SC":"附近的随行宠正在增强你造成的伤害。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36624,25 +37206,25 @@
     {
       "NamespaceHash": "Content::1943071999",
       "Source": "Your companion is being carried and can't perform this skill.",
-      "Trans": {"SC":"你的随伴正在被携带, 无法使用该技能.","JA":""},
+      "Trans": {"SC":"你的随行宠正在被携带, 无法使用该技能.","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1497909031",
       "Source": "You are too far from your companion to use this gear!",
-      "Trans": {"SC":"你离随伴太远了, 无法使用这个装备!","JA":""},
+      "Trans": {"SC":"你离随行宠太远了, 无法使用这个装备!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::154006182",
       "Source": "The companion gear is currently on cooldown.",
-      "Trans": {"SC":"随伴装备目前正在冷却中.","JA":""},
+      "Trans": {"SC":"随行宠装备目前正在冷却中.","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::156573648",
       "Source": "Your companion found a hidden treasure while digging!",
-      "Trans": {"SC":"你的随伴在挖掘的时候发现了一份隐藏的宝藏!","JA":""},
+      "Trans": {"SC":"你的随行宠在挖掘的时候发现了一份隐藏的宝藏!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -36661,7 +37243,7 @@
     {
       "NamespaceHash": "Content::3371289628",
       "Source": "Your companion can't place the sleeping bag here!",
-      "Trans": {"SC":"你的随伴不能把睡袋放在这里!","JA":""},
+      "Trans": {"SC":"你的随行宠不能把睡袋放在这里!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -69996,7 +70578,7 @@
     {
       "NamespaceHash": "Content::4178283305",
       "Source": "Monster WarWagon",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"怪物战车","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //未知-暂时不翻译
     },
@@ -70678,7 +71260,7 @@
       "NamespaceHash": "Content::1229005984",
       "Source": "Companion Whistle",
       //这个是干啥的来着, 忘记了.
-      "Trans": {"SC":"随伴哨子","JA":""},
+      "Trans": {"SC":"随行宠哨子","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70756,7 +71338,7 @@
     {
       "NamespaceHash": "Content::4125592085",
       "Source": "Use this to command your Armadoggo companion.",
-      "Trans": {"SC":"使用这个来指挥你的随伴铠护犬。","JA":""},
+      "Trans": {"SC":"使用这个来指挥你的随行宠铠护犬。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70774,7 +71356,7 @@
     {
       "NamespaceHash": "Content::3449306389",
       "Source": "Companion Whistle Commands",
-      "Trans": {"SC":"随伴口哨指令","JA":""},
+      "Trans": {"SC":"随行宠口哨指令","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -70951,84 +71533,84 @@
     {
       "NamespaceHash": "Content::1856556997",
       "Source": "Companion Ammo Box",
-      "Trans": {"SC":"随伴的弹药箱","JA":""},
+      "Trans": {"SC":"随行宠弹药箱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::469667260",
       "Source": "Companion Rucksack",
-      "Trans": {"SC":"随伴的背包","JA":""},
+      "Trans": {"SC":"随行宠背包","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::3653431611",
       "Source": "Companion Chibi-carrier",
-      "Trans": {"SC":"随伴的袖珍宠物鞍座","JA":""},
+      "Trans": {"SC":"随行宠袖珍宠物鞍座","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::317699269",
       "Source": "Companion Extra Armor",
-      "Trans": {"SC":"随伴的附加护甲","JA":""},
+      "Trans": {"SC":"随行宠附加护甲","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::3379530732",
       "Source": "Companion Picnic Set",
-      "Trans": {"SC":"随伴的野餐套件","JA":""},
+      "Trans": {"SC":"随行宠的野餐套件","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::485167168",
       "Source": "Companion Bait Trap",
-      "Trans": {"SC":"随伴的诱饵陷阱","JA":""},
+      "Trans": {"SC":"随行宠诱饵陷阱","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::1412001096",
       "Source": "Companion Medpack",
-      "Trans": {"SC":"随伴的医疗包","JA":""},
+      "Trans": {"SC":"随行宠医疗包","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::4053904995",
       "Source": "Companion Speed Booster",
-      "Trans": {"SC":"随伴的助推器","JA":""},
+      "Trans": {"SC":"随行宠助推器","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::608281074",
       "Source": "Companion Oxygen Tank",
-      "Trans": {"SC":"随伴的氧气罐","JA":""},
+      "Trans": {"SC":"随行宠氧气罐","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::1474928242",
       "Source": "Companion Camping Gear",
-      "Trans": {"SC":"随伴的露营套件","JA":""},
+      "Trans": {"SC":"随行宠露营套件","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::128972942",
       "Source": "Companion Battle-spikes",
-      "Trans": {"SC":"随伴的战斗尖刺","JA":""},
+      "Trans": {"SC":"随行宠战斗尖刺","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::243143361",
       "Source": "Companion Spykit",
-      "Trans": {"SC":"随伴的侦察套件","JA":""},
+      "Trans": {"SC":"随行宠侦察套件","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
@@ -71042,77 +71624,77 @@
     {
       "NamespaceHash": "Content::2801271487",
       "Source": "Equip a Companion with this, and it will give you hyperthermic insulation and it can carry food and drink for you.",
-      "Trans": {"SC":"给随伴装备这个, 它能为你携带食物和饮品, 并为你提供高温抗性。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能为你携带食物和饮品, 并为你提供高温抗性。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::192860798",
       "Source": "Equip a Companion with this, and it can carry your ammo for you.",
-      "Trans": {"SC":"给随伴装备这个, 它能为你携带弹药。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能为你携带弹药。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::2794955476",
       "Source": "Equip a Companion with this, and it can distract hostile Creatures.",
-      "Trans": {"SC":"给随伴装备这个, 它能为你分散敌对生物的注意力。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能为你分散敌对生物的注意力。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::2381050063",
       "Source": "Equip a Companion with this, and it can heal you when you're injured.",
-      "Trans": {"SC":"给随伴装备这个, 当你受伤时它可以治愈你。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 当你受伤时它可以治愈你。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::1722953284",
       "Source": "Equip a Companion with this, and it can provide you a temporary speed boost.",
-      "Trans": {"SC":"给随伴装备这个, 它能为你提供暂时的速度提升。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能为你提供暂时的速度提升。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::2903091215",
       "Source": "Equip a Companion with this, and it will allow you to breathe underwater for a time.",
-      "Trans": {"SC":"给随伴装备这个, 它能为你提供短暂的水下呼吸时间。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能为你提供短暂的水下呼吸时间。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::3869104204",
       "Source": "Equip a Companion with this, and it will be even harder to take out.",
-      "Trans": {"SC":"给随伴装备这个, 它就会变得更加难以击倒。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它就会变得更加难以击倒。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::3143274845",
       "Source": "Equip a Companion with this, and it will carry an extra Chibi-pet for you.",
-      "Trans": {"SC":"给随伴装备这个, 它能搭载一只袖珍宠物。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能搭载一只袖珍宠物。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::2590286299",
       "Source": "Equip a Companion with this, and it will carry gear more efficiently. Your Companion will also keep its inventory when it is disabled or killed.",
-      "Trans": {"SC":"给随伴装备这个, 它能更高效地携带物品。当随伴受到很严重的伤害时, 会暂时地躲藏起来。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能更高效地携带物品。当随行宠受到很严重的伤害时, 会暂时地躲藏起来。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::2756129710",
       "Source": "Equip a Companion with this, and it will deal more damage (on offense AND defense).",
-      "Trans": {"SC":"给随伴装备这个, 它的进攻和防御都会对敌人造成额外的伤害。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它的进攻和防御都会对敌人造成额外的伤害。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::933714158",
       "Source": "Equip a Companion with this, and it will give you hypothermic insulation and carry a sleeping bag for you.",
-      "Trans": {"SC":"给随伴装备这个, 它将为你携带一张睡袋, 并为你提供低温抗性。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它将为你携带一张睡袋, 并为你提供低温抗性。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
       //Equip a Companion with this, and it will give you insulation and carry a sleeping bag for you.
@@ -71120,7 +71702,7 @@
     {
       "NamespaceHash": "Content::301203124",
       "Source": "Equip a Companion with this, and it will provide you with basic information about things you focus on.",
-      "Trans": {"SC":"给随伴装备这个, 它能为你提供观察目标的基础信息。","JA":""},
+      "Trans": {"SC":"给随行宠装备这个, 它能为你提供观察目标的基础信息。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
@@ -71134,14 +71716,14 @@
     {
       "NamespaceHash": "Content::2950753429",
       "Source": "Your Companion is providing you with basic information on many things you focus on",
-      "Trans": {"SC":"随伴会为你提供观察目标的基础信息。","JA":""},
+      "Trans": {"SC":"随行宠会为你提供观察目标的基础信息。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //随伴犬-配件
     },
     {
       "NamespaceHash": "Content::3996925509",
       "Source": "Your Companion is giving you a boost of speed",
-      "Trans": {"SC":"随伴正在为你加速","JA":""},
+      "Trans": {"SC":"随行宠正在为你加速","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -71191,7 +71773,7 @@
     {
       "NamespaceHash": "Content::3149416278",
       "Source": "Your Companion is healing you over time",
-      "Trans": {"SC":"你的随伴正在持续为你治疗。","JA":""},
+      "Trans": {"SC":"你的随行宠正在持续为你治疗。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -72741,25 +73323,25 @@
     {
       "NamespaceHash": "Content::3554317453",
       "Source": "Your companion has run out of health and it's recovering.",
-      "Trans": {"SC":"你的随伴受到了很严重的伤害, 它正在修养...","JA":""},
+      "Trans": {"SC":"你的随行宠受到了很严重的伤害, 它正在修养...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2098397181",
       "Source": "Companion Recovery",
-      "Trans": {"SC":"随伴修养中","JA":""},
+      "Trans": {"SC":"随行宠修养中","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1516392613",
       "Source": "Your companion has run out of health and needs to recover!",
-      "Trans": {"SC":"你的随伴受到了严重的伤害, 需要修养!","JA":""},
+      "Trans": {"SC":"你的随行宠受到了严重的伤害, 需要修养!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1401451760",
       "Source": "Your companion can't perform any skills while recovering!",
-      "Trans": {"SC":"你的随伴正在修养中无法施展任何技能!","JA":""},
+      "Trans": {"SC":"你的随行宠正在修养中无法施展任何技能!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -74696,7 +75278,7 @@
     {
       "NamespaceHash": "Content::4293504962",
       "Source": "Use to have certain companion Creatures ping the location of a Hex-infected bit of tech. Have this in your inventory when your companion digs.",
-      "Trans": {"SC":"使用这个让随伴标记一个受浸蚀弃物的位置。当你的随伴挖掘时把它放到你的物品栏。","JA":""},
+      "Trans": {"SC":"使用这个让随行宠标记一个受浸蚀弃物的位置。当你的随行宠挖掘时把它放到你的物品栏。","JA":""},
       //使用这个来定位宝藏埋藏的位置。挖宝的时候记得将此物品放在你的背包里。
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -74727,7 +75309,7 @@
     {
       "NamespaceHash": "Content::4095532483",
       "Source": "This map can only be tracked with a companion!",
-      "Trans": {"SC":"此地图只能和随伴一起追踪!","JA":""},
+      "Trans": {"SC":"此地图只能和随行宠一起追踪!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -75745,10 +76327,22 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     }
   ],
-  //生物图鉴 - 2026-10-18 12:40:45
+  //生物图鉴 - 2026-11-07 16:53:54
   "CreatureDossier": [
     {
-      "NamespaceHash": "Content::4156877957",
+      "NamespaceHash": "GraphLiteral::4253052168",
+      "Source": "Common Name: Enigmasaur\r\nSpecies: Proteus mutabilis\r\nTime: Unknown\r\nDiet: Insectivore\r\nTemperament: Highly adaptable\r\n\r\nWild \r\n\r\nIncreasingly, I find myself struggling to describe the impossible. Until I saw one of these oversized chameleons steal the shape of a nearby Direwolf, I'm not sure I would have believed such an animal could exist. The creature I'm calling an 'Enigmasaur' didn't just appear to become vulpine in response to the Direwolf... it fully transformed into a wolf, enough to be accepted by others and even hunt with its new pack until it could split off and resume its true form and behavior.\r\n\r\nDomesticated \r\n\r\nOnce you know what to look for, you might be able to tell which of the local fauna is really an Enigmasaur in disguise. And if you can manage to tame one, you'll add a living Swiss Army knife to your stable. Impress your target by showing it that you've tamed one of the same creatures it's currently mimicking. Repeat this process as it cycles through multiple forms, until you demonstrate your goodwill.\r\n\r\nOnce you teach your Enigmasaur several forms to pull from its morphic memory, it can retain each creature's useful traits regardless of whichever shape it's currently taken. For example, even after it drops the form of a Pulmonoscorpius to become a Rex, its attacks will stun prey as if it still had a stinger. And returning to its own body will give it access to all of those learned abilities at once! Truly a riddle, wrapped in a mystery, inside an enigma…",
+      "Trans": {"SC":"通用名称: 谜影龙\r\n拉丁学名: Proteus mutabilis\r\n正式名称: 多态谜影龙\r\n时代: 未知\r\n食性: 食虫\r\n性情: 适应性极强\r\n\r\n\r\n野生\r\n我越来越难以描述这些违背常理的事物。在亲眼目睹这种体型庞大的变色龙窃取附近一只恐狼的形态之前, 我恐怕根本不会相信世上竟有这样的生物。我将其命名为“谜影龙”。面对恐狼时, 它并非只是模仿对方的外形...而是彻彻底底地变成了一头狼, 不仅成功得到了狼群的接纳, 甚至能与新加入的狼群一同狩猎, 直到寻得机会脱离群体, 恢复原本的形态与习性。\r\n\r\n\r\n家养 \r\n只要掌握辨识诀窍, 你就有可能看出, 当地野生动物中究竟哪一只才是伪装起来的谜影龙。倘若你成功驯服它, 你的兽群中就相当于多了一把活生生的万能工具。想要赢得目标的认可, 你需要向它展示一只已经被你驯服、且与它当前拟态对象属于同一物种的生物。随着它不断切换不同的形态, 重复这一过程, 直到它充分感受到你的善意。当你教会谜影龙多种生物形态, 并将它们存入形态记忆后, 无论它当前变成何种模样, 都能保留这些生物各自的实用特性。例如, 即使它解除肺蝎形态, 转而变成霸王龙, 它的攻击依然能够像保留着蝎尾毒刺一样, 使猎物陷入眩晕。而当它恢复本体时, 更能同时使用所有已经学会的能力! 这可真是谜影重重, 令人百思不得其解...","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2975294834",
+      "Source": "{\r\n      \"NamespaceHash\": \"GraphLiteral::1613885087\",\r\n      \"Source\": \"Common Name: Veilwyn\r\nSpecies: Vulpes frigus\r\nTime: Necrocene\r\nDiet: Omnivore\r\nTemperament: Affectionately Playful\r\n\r\nOverview\r\nThe Turning of our people has gifted us with longevity, great strength, and freedom from starvation. Maintaining the loyalty of our thralls and the obedience of the clones they police for us may require something more than brute intimidation. To this end, I find myself weighing the potential of mutated local wildlife like the Veilwyn. In these early days of our kingdom, an animal companion capable of comforting and protecting our people through the long Antarctic night might also have an inspirational value.\r\n\r\nApplications\r\nThis playful vulpine beast has many unlikely but uncannily useful talents. One can't help but admire a Veilwyn's ability to generate localized wormholes through which to summon a pack of friends that will help protect its master. And even in more peaceful times, these seemingly friendly foxes could subdue would-be predators with their cryogenic bite.\r\n\r\nI may consider pairing my most trusted servants with Veilwyn companions. Perhaps even a thrall deserves the unwavering fidelity of a valiant familiar. This creature could yet become the symbol of my benevolence that elicits the veneration of my vassals. And in this dark tomorrow, their unwavering devotion could serve to remind us all of the humanity we had to set aside in order to survive.\r\n\",\r\n      \"Trans\": { \"SC\": \"\", \"JA\": \"\" },\r\n      \"Config\": { \"Item\": false, \"Dino\": false, \"Default_Hash\": \"\" }\r\n    },",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4156877957",
       "Source": "Species:\tPalaeoctopus aquacaptor\r\nTime:\tLate Cretaceous\r\nDiet:\tCarnivore\r\nTemperament:\tMercurial and acquisitive\r\n \r\nWild\r\n\r\nIt seems we Survivors have delved too far, and roused a phantasmic new sea-monster from the depths. Palaeoctopus aquacaptor uses its chromatic camouflage to strike from out of nowhere, seizing the unwary in its crushing tentacles, two at a time. Its fearsome beak can crack the toughest shell or armor to devour the soft innards of its captives.\r\n\r\nIn the rare event it needs to retreat underwater, Palaeoctopus can use its siphon to blast a threat backwards and jet away with surprising speed. Those tentacles let Palaeoctopus scale sheer cliffs to drag itself out of the sea, though it’s understandably much less agile on land.\r\n\r\n\r\nDomesticated\r\n\r\nIts natural toxicity makes Palaeoctopus especially difficult to tranquilize and tame, so sedating one isn’t for the faint of heart… You have to let it drag you in close for a crushing bite, and feed narcotics into its maw while keeping clear of that deadly beak.\r\n\r\nManage to tame a Palaeoctopus, and you’ll never want for ink again. Your new cephalopod supplier can be gently coaxed to provide any color of ink your heart desires. \r\n\r\nWhile it may not set any land speed records, Palaeoctopus can get you up cliffs and over walls… or even onto a moving Ship or platform saddle! Above or below the sea, this formidable mollusk can take a lot of punishment. Just make sure to hold on tight if it uses its underwater jet-propulsion.",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -75793,7 +76387,7 @@
     {
       "NamespaceHash": "GraphLiteral::2175022073",
       "Source": "Common name: Cerberax \r\nSpecies:\t\tCerberax tricipitis\r\nTime:\t\t\tUnknown\r\nDiet:\t\t\tCarnivore\r\nTemperament:\tAggressive\r\n\r\nWild\r\nSomething affecting evolution on the ARKs seems to have a knack for mythology! Cerberax tricipitis is a huge three-headed canid, capable of taking on even a Rex or Ossidon in a fair fight. Anything short of a Giga or Carcha is going to have a tough time fighting Cerberax. Its sheer size allows it to take a beating, so be sure to make it bleed if you plan to fight one.\r\n\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\nDomesticated\r\nTaming Cerberax involves winning over not one, but three animals. When subdued by narcotics, all its adrenaline surges to a single head. By quickly mounting that head and placating its anger, you can wear down its reserves of energy. Another head will wake, so repeat until all three collapse and you can feed it into submission.\r\n\r\nOnce finally tamed, Cerberax is best ridden by a team of three Survivors. One Survivor controls the body and main head, while the other Survivors control the left and right heads to maximize combat efficiency. Working as a team, the three heads bolster each other's abilities to their maximum potential!",
-      "Trans": {"SC":"通用名称: 三相狱犬\r\n拉丁学名: Cerberax tricipitis\r\n时代: 未知\r\n食性: 肉食\r\n性情: 好斗\r\n\r\n野生\r\n影响方舟生物演化的那股力量, 看来还真对神话情有独钟! 三相狱犬长着三个头, 是犬类中的庞然大物, 足以与霸王龙或奥西顿正面抗衡。没有南方巨兽龙或鲨齿龙那样的实力, 想与它较量可不轻松。它身躯庞大, 格外耐打, 真要交战, 务必设法让它流血。\r\nThe three heads of Cerberax all use separate tactics, but their real strength is working together. The right head applies fire to subdue its prey, while consuming venom to cripple it. The left head applies venom to weaken it prey, while consuming fire to heal its body. The central head coordinates the other two, resulting in more damage from the side heads, and causing their venom and their flames to spread to nearby targets.\r\n\r\n驯养\r\n驯服三相狱犬, 等于同时收服三头野兽。麻醉剂将它放倒后, 全身的肾上腺素会涌向其中一个头。赶紧骑上那颗头, 平息它的怒火, 就能逐渐耗尽它的精力。接着, 又会有另一个头苏醒。如此反复, 直到三个头都瘫倒下来, 便可喂食将它驯服。\r\n驯服后的三相狱犬, 最适合由三名生存者共同驾驭。一人操控躯体和中首, 另外两人分别掌控左右二首, 分工协作, 战斗才最有效率。三首彼此助力, 才能将各自的本领发挥到极致!","JA":""},
+      "Trans": {"SC":"通用名称: 三相狱犬\r\n拉丁学名: Cerberax tricipitis\r\n时代: 未知\r\n食性: 肉食\r\n性情: 好斗\r\n\r\n\r\n野生\r\n影响方舟生物演化的那股力量, 看来还真对神话情有独钟! 三相狱犬长着三个头, 是犬类中的庞然大物, 足以与霸王龙或奥西顿正面抗衡。没有南方巨兽龙或鲨齿龙那样的实力, 想与它较量可不轻松。它身躯庞大, 格外耐打, 真要交战, 务必设法让它流血。\r\n三颗头颅各有一套本领, 联手才最可怕。右首用烈焰制敌, 还能吞噬毒液, 削弱猎物的反抗能力; 左首施毒削弱猎物, 也能吞噬火焰为自身疗伤。中首则统御左右二首, 让它们的攻势更具威力, 毒液与烈焰也会随之蔓延至附近的目标。\r\n\r\n\r\n驯养\r\n驯服三相狱犬, 等于同时收服三头野兽。麻醉剂将它放倒后, 全身的肾上腺素会涌向其中一个头。赶紧骑上那颗头, 平息它的怒火, 就能逐渐耗尽它的精力。接着, 又会有另一个头苏醒。如此反复, 直到三个头都瘫倒下来, 便可喂食将它驯服。\r\n驯服后的三相狱犬, 最适合由三名生存者共同驾驭。一人操控躯体和中首, 另外两人分别掌控左右二首, 分工协作, 战斗才最有效率。三首彼此助力, 才能将各自的本领发挥到极致!\r\n","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -75918,7 +76512,7 @@
     {
       "NamespaceHash": "GraphLiteral::3586986707",
       "Source": "Common name:\r\nRoll Rat\r\nSpecies: Heterocephalus Magnus\r\nTime: Holocene\r\nDiet: Herbivore\r\nTemperament: Passive\r\n\r\nWild\r\nBearing a strong resemblance to its relative, the naked mole rat, Heterocephalus magnus is a gentle giant that digs for plants and fungi with its imposing front teeth. While foraging, it often uncovers precious resources inadvertently, but survivors should claim them with caution, as this triggers an aggressive response.\r\n\r\nWhen threatened, Heterocephalus rolls up into a ball to shield itself with the armored plates on its back, much like an armadillo. It then rolls around like an oversized bowling ball, smashing through rocks, walls and hopefully its aggressor.\r\n\r\nDomesticated\r\nWhile hardly a ferocious war beast, Heterocephalus is an effective transport that can carry up to three passengers. In theory, it could also be siege weapon, as its rolling attack can dent even metal. Fortunately, most survivors use a special saddle that deploys a protective canopy when it starts spinning, which not only keeps them from getting squished, but provides extra protection to rider and mount alike.",
-      "Trans": {"SC":"通用名称: 翻滚鼠\r\n拉丁学名: Heterocephalus Magnus\r\n正式名称: Heterocephalus Magnus\r\n时代: 全新世\r\n食性: 植食\r\n性情: 温顺\r\n\r\n\r\n野生\r\n与它的亲戚裸鼹鼠有很多相似的地方, 翻滚巨裸鼹鼠是一个用其巨大的门齿挖掘植物和真菌的泥足巨人。在觅食的过程中, 它们经常无意发现珍贵的资源, 但是生存者们应当慎重, 否则会引起它的攻击性反应。\r\n当受到威胁, 翻滚巨裸鼹鼠会蜷成一个巨球, 利用背上的装甲板保护自己, 就像犰狳那样。之后他会像一个保龄球一样到处滚动, 贯穿岩石, 墙壁, 以及对它不怀好意的掠食者。\r\n\r\n\r\n家养\r\n虽然不是凶猛的战兽, 翻滚巨裸鼹鼠仍然是一个高效的交通工具, 它能一次携带三个乘客。理论上它可以成为一个攻城利器, 它的滚球攻击甚至可以造成金属的凹陷。\r\n而幸运的是, 大部分生存者会制作一个特殊的鞍, 当翻滚巨裸鼹鼠开始滚动攻击时, 上面安装的保护罩会保护骑手不会被碾压, 并且还为骑手坐骑都提供了额外的保护。","JA":""},
+      "Trans": {"SC":"通用名称: 翻滚鼠\r\n拉丁学名: Heterocephalus Magnus\r\n正式名称: 巨型裸鼹鼠\r\n时代: 全新世\r\n食性: 植食\r\n性情: 温顺\r\n\r\n\r\n野生\r\n与它的亲戚裸鼹鼠有很多相似的地方, 翻滚巨裸鼹鼠是一个用其巨大的门齿挖掘植物和真菌的泥足巨人。在觅食的过程中, 它们经常无意发现珍贵的资源, 但是生存者们应当慎重, 否则会引起它的攻击性反应。\r\n当受到威胁, 翻滚巨裸鼹鼠会蜷成一个巨球, 利用背上的装甲板保护自己, 就像犰狳那样。之后他会像一个保龄球一样到处滚动, 贯穿岩石, 墙壁, 以及对它不怀好意的掠食者。\r\n\r\n\r\n家养\r\n虽然不是凶猛的战兽, 翻滚巨裸鼹鼠仍然是一个高效的交通工具, 它能一次携带三个乘客。理论上它可以成为一个攻城利器, 它的滚球攻击甚至可以造成金属的凹陷。\r\n而幸运的是, 大部分生存者会制作一个特殊的鞍, 当翻滚巨裸鼹鼠开始滚动攻击时, 上面安装的保护罩会保护骑手不会被碾压, 并且还为骑手坐骑都提供了额外的保护。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76039,7 +76633,7 @@
     {
       "NamespaceHash": "Content::3950200347",
       "Source": "Common name:\nElectrophorus\nSpecies: Electrophorus beluadomito\nTime: Holocene\nDiet: Carnivore\nTemperament: Reactive\n\nWild\nOccupying a space in the low-to-middle end of the food chain, Electrophorus beluadomito is a carnivorous swimmer that feeds mostly off of shellfish and small fish. Despite its common name, it is actually a very long Knifefish, and not an Eel. It does not provide much meat, so many predators simply leave it be.\n\nUnlike most predators, it does not use brute strength to bring down its prey, but instead releases an electrical charge around itself to knock its prey unconscious. Alone, this can take out a small creature. When attacking together, Electrophorus can even bring down the larger ocean lifeforms, and then feed as a group.\n\nDomesticated\nBy far, the most common use of Electrophorus is to subdue large ocean creatures. Knocking out a Plesiosaur or other giant deep-sea leviathan can be incredibly difficult...\n\n...thus many tribes employ small schools of Electrophorus to shock them into submission!",
-      "Trans": {"SC":"通用名称: 电鳗\r\n拉丁学名: Electrophorus beluadomito\r\n正式名称: Electrophorus beluadomito\r\n时代: 全新世\r\n食性: 肉食\r\n性情: 敏感\r\n\r\n\r\n野生\r\n电鳗在食物链的中低端占了一席之地, 它是一种主要以甲壳类动物和小鱼为食的水下肉食动物。虽然它名字这么叫, 它其实是一种非常长的刀鱼, 而不是鳗鱼。它无法提供很多肉类, 因此很多捕食者不回去管它。\r\n电鳗不像大多数捕食者那样用蛮力打倒猎物, 它会在周围释放电流来击晕猎物。如果电鳗单独行动, 它可以击晕小型生物。如果是一群电鳗, 它们可以击倒大型海洋生物, 然后一起进食。\r\n\r\n\r\n家养\r\n至今, 电鳗最常见的用途就是制服大型海洋生物。不过击倒一只薄板龙和其他巨型深海怪兽可能会十分困难...\r\n...因此许多部落会用一小群电鳗来电晕这些目标!","JA":""},
+      "Trans": {"SC":"通用名称: 电鳗\r\n拉丁学名: Electrophorus beluadomito\r\n正式名称: 镇兽电鳗\r\n时代: 全新世\r\n食性: 肉食\r\n性情: 敏感\r\n\r\n\r\n野生\r\n电鳗在食物链的中低端占了一席之地, 它是一种主要以甲壳类动物和小鱼为食的水下肉食动物。虽然它名字这么叫, 它其实是一种非常长的刀鱼, 而不是鳗鱼。它无法提供很多肉类, 因此很多捕食者不回去管它。\r\n电鳗不像大多数捕食者那样用蛮力打倒猎物, 它会在周围释放电流来击晕猎物。如果电鳗单独行动, 它可以击晕小型生物。如果是一群电鳗, 它们可以击倒大型海洋生物, 然后一起进食。\r\n\r\n\r\n家养\r\n至今, 电鳗最常见的用途就是制服大型海洋生物。不过击倒一只薄板龙和其他巨型深海怪兽可能会十分困难...\r\n...因此许多部落会用一小群电鳗来电晕这些目标!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76507,7 +77101,7 @@
     {
       "NamespaceHash": "Content::3968233631",
       "Source": "Common name: \nDimorphodon\nSpecies: Dimorphodon equesica\nTime: Early Jurassic\nDiet: Carnivore\nTemperament: Reactive\n\nWild\nDimorphodon equesica is another of the Island's Jekyll-and-Hyde creatures. It is normally passive, sometimes even friendly. When provoked, it becomes very aggressive, even against larger creatures it has no business fighting...often to its own fatal end. Dimorphodon can make short work of smaller opponents, however, due to its large (but lightweight) skull and teeth.\n\nBarely over a meter tall, Dimorphodon should be low on the food chain, but its incredible speed and surprisingly strong bite make it fairly dangerous, especially en masse as they tend to attack in groups.\n\nA flock of angry or hungry Dimorphodon can take down prey several times their size, so survivors should take care not to hunt near where a flock is gathered.\n\nDomesticated\nDimorphodon is one of the creatures on the Island that is easily domesticated for companionship, but its use in combat is also quite clear: It will hunt in large groups to seek out enemy dino riders directly, harassing them to no end, regardless of the might of their mount!",
-      "Trans": {"SC":"通用名称: 双型齿翼龙\r\n拉丁学名: Dimorphodon equesica\r\n正式名称: 骑士双型齿翼龙\r\n时代: 早侏罗世\r\n食性: 肉食\r\n性情: 敏感\r\n\r\n\r\n野生\r\n双型齿翼龙又是一种岛上的“双重人格”生物。通常来说是它被动攻击型, 有的时候甚至相当友好。然而一旦被激怒, 它就会相当富有攻击性, 即便是面对那些一看就没有胜算的大型生物, 也是不死不休。\r\n得益于自身大型的骨骼和牙齿, 双型齿翼龙通常能快速解决体型小一些的对手。\r\n双型齿翼龙身长还不足一米, 本应处于食物链的底层, 然而它那令人难以置信的速度和出乎意料的强劲咬力使得其相当危险, 尤其是进行群体攻击的时候。\r\n一群愤怒或是饥饿的双型齿翼龙可以狩猎数倍于他们体积的猎物, 所以生存者们需要注意不要在它们群聚时进行狩猎。\r\n\r\n\r\n家养\r\n双型齿翼龙是岛屿上容易被驯化成伙伴的生物之一。但其在战斗中的用途已经相当清晰: 它会以大群规模直接找寻敌对的恐龙骑手, 无尽地搅扰他们, 而不在意对手骑行的究竟是怎样强大的生物。","JA":""},
+      "Trans": {"SC":"通用名称: 双型齿翼龙\r\n拉丁学名: Dimorphodon equesica\r\n正式名称: 猎骑双型齿翼龙\r\n时代: 早侏罗世\r\n食性: 肉食\r\n性情: 敏感\r\n\r\n\r\n野生\r\n双型齿翼龙又是一种岛上的“双重人格”生物。通常来说是它被动攻击型, 有的时候甚至相当友好。然而一旦被激怒, 它就会相当富有攻击性, 即便是面对那些一看就没有胜算的大型生物, 也是不死不休。\r\n得益于自身大型的骨骼和牙齿, 双型齿翼龙通常能快速解决体型小一些的对手。\r\n双型齿翼龙身长还不足一米, 本应处于食物链的底层, 然而它那令人难以置信的速度和出乎意料的强劲咬力使得其相当危险, 尤其是进行群体攻击的时候。\r\n一群愤怒或是饥饿的双型齿翼龙可以狩猎数倍于他们体积的猎物, 所以生存者们需要注意不要在它们群聚时进行狩猎。\r\n\r\n\r\n家养\r\n双型齿翼龙是岛屿上容易被驯化成伙伴的生物之一。但其在战斗中的用途已经相当清晰: 它会以大群规模直接找寻敌对的恐龙骑手, 无尽地搅扰他们, 而不在意对手骑行的究竟是怎样强大的生物。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76519,7 +77113,7 @@
     {
       "NamespaceHash": "Content::2021513180",
       "Source": "Common name:\nCnidaria\nSpecies: Cnidaria omnimorph\nTime: Cambrian-Holocene\nDiet: Herbivore\nTemperament: Passive, but aggressive\nat close range\n\nWild\nCnidaria omnimorph is another example of a creature which should not exist. It has traits that seem derived from many types of jellyfish. It possesses the size and shape of large egg-yolk jellies, the powerful sting of certain box jellies, and the bioluminescence of deep-sea jellies. This all combines to make a dangerous creature that lights up the deepest reaches of the ocean.\n\nCnidaria is not generally aggressive, because it lacks normal perceptive senses. It generally just floats along on the current until something gets close enough to sense, at which point it attacks. While its attacks are not directly powerful, its sting injects an incredibly strong and fast-acting sedative.\n\nDomesticated\nAs Cnidaria is barely more intelligent than a plant, there's no effective method to tame one.\n\nMost tribes kill Cnidaria on sight, then collect its reserve of powerful sedative, to use in technically advanced long-distance tranquilizers.",
-      "Trans": {"SC":"通用名称: 水母\r\n拉丁学名: Cnidaria omnimorph\r\n正式名称: 混合形水母\r\n时代: 寒武纪-全新世\r\n食性: 植食\r\n性情: Passive, but aggressive\r\nat close range\r\n\r\n\r\n野生\r\n混合形水母又是一种本不该存在于此的生物案例。它貌似拥有多种水母的特征, 继承了大型蛋黄水母的体型和形态, 箱形水母的强力针刺, 以及深海水母的生物发光特性。这一切结合而成了一种照亮海洋最深处的危险生物。\r\n混合形水母通常不具有攻击性, 因为它缺乏正常的感知能力。它通常仅仅随着洋流漂浮, 直到某生物足够接近才能让其感知, 并在此时发动攻击。尽管它的攻击并非直接有效, 但其针刺能注入一种尤为强劲且快速生效的镇静剂。\r\n\r\n\r\n家养\r\n由于混合形水母的智商都不如植物高, 所以没有有效的方法可以驯服它。\r\n多数部族都会击杀遇见的混合形水母, 收集其体内的强力镇静剂, 用来制作技术先进的长效镇静剂。","JA":""},
+      "Trans": {"SC":"通用名称: 水母\r\n拉丁学名: Cnidaria omnimorph\r\n正式名称: 混形水母\r\n时代: 寒武纪-全新世\r\n食性: 植食\r\n性情: Passive, but aggressive\r\nat close range\r\n\r\n\r\n野生\r\n混合形水母又是一种本不该存在于此的生物案例。它貌似拥有多种水母的特征, 继承了大型蛋黄水母的体型和形态, 箱形水母的强力针刺, 以及深海水母的生物发光特性。这一切结合而成了一种照亮海洋最深处的危险生物。\r\n混合形水母通常不具有攻击性, 因为它缺乏正常的感知能力。它通常仅仅随着洋流漂浮, 直到某生物足够接近才能让其感知, 并在此时发动攻击。尽管它的攻击并非直接有效, 但其针刺能注入一种尤为强劲且快速生效的镇静剂。\r\n\r\n\r\n家养\r\n由于混合形水母的智商都不如植物高, 所以没有有效的方法可以驯服它。\r\n多数部族都会击杀遇见的混合形水母, 收集其体内的强力镇静剂, 用来制作技术先进的长效镇静剂。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76531,7 +77125,7 @@
     {
       "NamespaceHash": "Content::1711649899",
       "Source": "Common name:\nLeech\nSpecies: Haementeria laetus\nTime: Holocene\nDiet: Sanguinivore\nTemperament: Aggressive\n\nWild\nIt is difficult to be angry with Haementeria laetus, despite its rather terrible nature. The creature has practically no intelligence, and just attaches to any nearby living flesh in an attempt to drain that creature's blood.\n\nRemoving Haementeria requires precision bladework, or access to an open flame. Both of these can be nearly as dangerous to the host as to the leech itself.\n\nOnce Haementeria attaches to a host, it drains blood at a rapid pace, and the host experiences hunger, loss of health, and lowered stamina. Some Haementeria are also carriers for a dangerous disease I've dubbed \"Swamp Fever,\" which persists beyond the leech's own lifespan. Few creatures on the Island are transmitters for this disease, and it can ultimately be cured with a rare medicine.\n\nDomesticated\nWhile Haementeria is not intelligent enough to be tamed, it is always useful to keep a few around for antidotes and fishing lures. When processed properly, Haementeria venom can be made into a powerful antivenom!",
-      "Trans": {"SC":"通用名称: 水蛭\r\n拉丁学名: Haementeria laetus\r\n正式名称: 欣喜水蛭\r\n时代: 全新世\r\n食性: Sanguinivore\r\n性情: 好战\r\n\r\n\r\n野生\r\n我们很难对水蛭生气, 尽管它具有相当可怕的本性。它实际上没有智慧, 它只会吸附在附近的生物来吸其血液。\r\n去除水蛭需要精密的刀工, 或使用明火。但这两种办法都宿主来说也很危险。\r\n当水蛭附着到宿主时, 它快速吸血, 而宿主会经历饥饿、掉血, 并流失耐力。一些水蛭还携带一种危险的疾病, 我称之为“沼泽热”, 这种疾病的存留时间甚至超过水蛭的寿命。岛上的一些动物是这种疾病的传播者, 它只能被一种罕见的药物治愈。\r\n\r\n\r\n家养\r\n虽然水蛭没有足够的智慧被驯服, 但在周围养一些水蛭用于制作解毒剂和鱼饵还是很有用的。如果处理得当, 水蛭毒液可以制成一个强大的抗毒血清!","JA":""},
+      "Trans": {"SC":"通用名称: 水蛭\r\n拉丁学名: Haementeria laetus\r\n正式名称: 喜血巨蛭\r\n时代: 全新世\r\n食性: Sanguinivore\r\n性情: 好战\r\n\r\n\r\n野生\r\n我们很难对水蛭生气, 尽管它具有相当可怕的本性。它实际上没有智慧, 它只会吸附在附近的生物来吸其血液。\r\n去除水蛭需要精密的刀工, 或使用明火。但这两种办法都宿主来说也很危险。\r\n当水蛭附着到宿主时, 它快速吸血, 而宿主会经历饥饿、掉血, 并流失耐力。一些水蛭还携带一种危险的疾病, 我称之为“沼泽热”, 这种疾病的存留时间甚至超过水蛭的寿命。岛上的一些动物是这种疾病的传播者, 它只能被一种罕见的药物治愈。\r\n\r\n\r\n家养\r\n虽然水蛭没有足够的智慧被驯服, 但在周围养一些水蛭用于制作解毒剂和鱼饵还是很有用的。如果处理得当, 水蛭毒液可以制成一个强大的抗毒血清!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76574,7 +77168,7 @@
     {
       "NamespaceHash": "Content::2282618189",
       "Source": "Common name: Mantis\nSpecies: Empusa discipulus\nTime: Holocene\nDiet: Carnivore\nTemperament: Aggressive\nWild\nThe existence of a creature such as Empusa discipulus is both fascinating and frightening. Not only is Empusa the only recorded insect to have developed an opposable digit, allowing it to grip objects and use tools, but it possesses a level of intelligence that is unrivalled among non-human species. I have even found clear patterns in the sounds Empusa makes when communicating with its own kind, as though it is actually using some kind of dialect.\n\nI would love to study these interactions in depth, but observing Empusa up close is extremely dangerous. Its size, intelligence and ability to pounce on its prey from a great distance mean that one could be quickly swarmed and killed upon detection. Caution is recommended.\nDomesticated\nThough a dangerous task, successfully taming Empusa can prove highly beneficial. Its unique claws allow it to wield melee weapons like spears or pikes in battle, and use tools while harvesting resources. This makes it deadly as a mount or footsoldier and highly efficient as a gatherer.",
-      "Trans": {"SC":"通用名称: 螳螂\r\n拉丁学名: Empusa discipulus\r\n正式名称: 学者锥螳\r\n时代: 全新世\r\n食性: 肉食\r\n性情: 好战\r\n\r\n\r\n野生\r\n学者锥螳是如此迷人而又可怕的存在。不仅是有记录的昆虫中, 学者锥螳已经进化出了一个可以抓握的手趾, 允许它抓握并且使用工具, 而且它还具有其它非人类物种无与伦比的智力水平。\r\n我甚至发现学者锥螳模仿声音使当它和自己同类交流时, 好像这种声音实际上是某种方言。\r\n我想深入研究这些昆虫, 但近距离观察学者锥螳非常危险。它的大小, 智力和从远距离突袭猎物的能力意味着它能迅速聚集起来并且在杀死之后检测周围。建议谨慎行动。\r\n\r\n\r\n家养\r\n尽管危险, 成功驯服一只学者锥螳是大有好处的。它独特的爪子让它能在战斗中使用例如枪或矛这样的作战武器, 或者使用工具收集资源, 这使得它就像一个致命的坐骑或者步兵和一种高效采集机器。","JA":""},
+      "Trans": {"SC":"通用名称: 螳螂\r\n拉丁学名: Empusa discipulus\r\n正式名称: 灵巧锥螳\r\n时代: 全新世\r\n食性: 肉食\r\n性情: 好战\r\n\r\n\r\n野生\r\n学者锥螳是如此迷人而又可怕的存在。不仅是有记录的昆虫中, 学者锥螳已经进化出了一个可以抓握的手趾, 允许它抓握并且使用工具, 而且它还具有其它非人类物种无与伦比的智力水平。\r\n我甚至发现学者锥螳模仿声音使当它和自己同类交流时, 好像这种声音实际上是某种方言。\r\n我想深入研究这些昆虫, 但近距离观察学者锥螳非常危险。它的大小, 智力和从远距离突袭猎物的能力意味着它能迅速聚集起来并且在杀死之后检测周围。建议谨慎行动。\r\n\r\n\r\n家养\r\n尽管危险, 成功驯服一只学者锥螳是大有好处的。它独特的爪子让它能在战斗中使用例如枪或矛这样的作战武器, 或者使用工具收集资源, 这使得它就像一个致命的坐骑或者步兵和一种高效采集机器。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76598,7 +77192,7 @@
     {
       "NamespaceHash": "Content::1273355552",
       "Source": "Common name: Morellatops\nSpecies: Morellatops dromedarius\nTime: Early Cretaceous\nDiet: Herbivore\nTemperament: Passive\nWild\nMorellatops dromedarius seems to be to a relative of both the Morelladon and Ceratops genuses, which in itself is rather strange. On top of that, it has developed to ability to store water in its humps like a camel. This makes it a critical part of the desert's food chain, as it provides predators with both food and hydration.\nDomesticated\nWhen survivors discovered how to tap into the water in Morellatops' humps without harming it, the docile creature became the desert's essential pack animal. Not only can it carry a good amount of weight, but it can provide survivors with a large, mobile water source that can mean the difference between life and death on any given journey.\n\nMorellatops has limited options when it comes to self defense, so I would not recommend taking one into combat. However, so long as survivors don't forget to let Morellatops stop by a well every now and then, they will find the creature an invaluable companion.",
-      "Trans": {"SC":"通用名称: 莫雷拉角龙\r\n拉丁学名: Morellatops dromedarius\r\n正式名称: 单峰莫雷拉角龙\r\n时代: 早白垩纪\r\n食性: 植食\r\n性情: Passive\r\n\r\n\r\n野生\r\n莫雷拉角龙似乎是莫雷拉齿龙和角龙二者的亲戚, 它本身就是很奇怪的动物。最重要的是, 它已经进化出骆驼一样的利用驼峰储水的能力。这使得它在沙漠食物链中成为了一个重要的部分, 因为它既给掠食者提供食物, 又提供了水。\r\n\r\n\r\n家养\r\n当生存者们发现如何汲取莫雷拉角龙驼峰中的水分而不伤害它时, 这种温顺的动物一下子变成了这片荒漠中必不可少的动物。\r\n它不仅拥有很好的负重能力, 而且它还可以为生存者们提供一个大的, 移动的水源, 这就意味着生命和死亡之间的差异在任何既定的旅程。\r\n由于莫雷拉角龙只有限的力量当它们自卫时, 所以我不建议将莫雷拉角龙投入战斗。无论如何, 生存者们都不应该忘记让莫雷拉角龙每时每刻都处于安全的情况下, 这样他们就会发现这种生物是一种珍贵的伙伴。","JA":""},
+      "Trans": {"SC":"通用名称: 驼峰龙\r\n拉丁学名: Morellatops dromedarius\r\n正式名称: 单峰驼峰龙\r\n时代: 早白垩纪\r\n食性: 植食\r\n性情: Passive\r\n\r\n\r\n野生\r\n莫雷拉角龙似乎是莫雷拉齿龙和角龙二者的亲戚, 它本身就是很奇怪的动物。最重要的是, 它已经进化出骆驼一样的利用驼峰储水的能力。这使得它在沙漠食物链中成为了一个重要的部分, 因为它既给掠食者提供食物, 又提供了水。\r\n\r\n\r\n家养\r\n当生存者们发现如何汲取莫雷拉角龙驼峰中的水分而不伤害它时, 这种温顺的动物一下子变成了这片荒漠中必不可少的动物。\r\n它不仅拥有很好的负重能力, 而且它还可以为生存者们提供一个大的, 移动的水源, 这就意味着生命和死亡之间的差异在任何既定的旅程。\r\n由于莫雷拉角龙只有限的力量当它们自卫时, 所以我不建议将莫雷拉角龙投入战斗。无论如何, 生存者们都不应该忘记让莫雷拉角龙每时每刻都处于安全的情况下, 这样他们就会发现这种生物是一种珍贵的伙伴。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76634,7 +77228,7 @@
     {
       "NamespaceHash": "Content::1920945244",
       "Source": "Common name:\nDoedicurus\nSpecies: Doedicurus custosaxum\nTime: Pleistocene-Holocene\nDiet: Herbivore\nTemperament: Docile\n\nWild\nDoedicurus custosaxum is one of the Island's non-aggressive herbivores, generally found in the mountains and grasslands. Large and well-armored, it has a supply of fat under its plates to keep it warm and fed in the cold.\n\nDoedicurus has adapted well to the dangers of the Island, perhaps even better than the Ankylosaurus.\n\n\nDoedicurus has two very different reactions to predators. Against smaller foes, it generally uses its spiked tail to inflict as much damage as possible. Against larger predators, however, it pulls its tail underneath itself to form a solid armored ball that is nearly impossible for creatures to pierce, from which it can actually \"roll\" away to relative safety!\n\nDomesticated\nDoedicurus is a highly prized work animal on the island. Its spiked tail is ideal for quickly shattering the large rocks, so Doedicurus is a very efficient quarry worker. In addition, its affinity for rocks has allowed it to carry stone at a reduced weight. In case their quarry gets raided, Doedicurus-riders have a very difficult-to-kill mount!",
-      "Trans": {"SC":"通用名称: 星尾兽\r\n拉丁学名: Doedicurus custosaxum\r\n正式名称: Doedicurus custosaxum\r\n时代: 更新世-全新世\r\n食性: 植食\r\n性情: Docile\r\n\r\n\r\n野生\r\n星尾兽是岛上最不具进攻性的草食生物之一, 主要生活在山地和草原上。星尾兽有又大又厚的硬甲, 它壳下存有的脂肪可以用来在寒冷中保持温暖和提供食物。\r\n星尾兽已经很好的适应了岛上的危险, 甚至可能比甲龙还要生存的更好。\r\n星尾兽对捕食者有两种不同的反应。对于小型对手, 星尾兽会利用它布满尖刺的尾巴来造成尽可能多的伤害。\r\n但对于大型捕食者, 星尾兽会把自己的尾巴缩进自己的甲壳, 从而变成一个让捕食者几乎无法穿透的坚实装甲球, 并且它能以这种形态安全的“滚”走!\r\n\r\n\r\n家养\r\n星尾兽是岛上非常珍贵的工作生物。它布满尖刺的尾巴很适合拍打大型岩石, 因此星尾兽是一种很有效率的采石工人。同时它对岩石的适应性让它能以一个降低的重量携带石头。并且一旦采石场受到攻击, 星尾兽也是一种十分难被击败的坐骑!","JA":""},
+      "Trans": {"SC":"通用名称: 星尾兽\r\n拉丁学名: Doedicurus custosaxum\r\n正式名称: 岩甲星尾兽\r\n时代: 更新世-全新世\r\n食性: 植食\r\n性情: Docile\r\n\r\n\r\n野生\r\n星尾兽是岛上最不具进攻性的草食生物之一, 主要生活在山地和草原上。星尾兽有又大又厚的硬甲, 它壳下存有的脂肪可以用来在寒冷中保持温暖和提供食物。\r\n星尾兽已经很好的适应了岛上的危险, 甚至可能比甲龙还要生存的更好。\r\n星尾兽对捕食者有两种不同的反应。对于小型对手, 星尾兽会利用它布满尖刺的尾巴来造成尽可能多的伤害。\r\n但对于大型捕食者, 星尾兽会把自己的尾巴缩进自己的甲壳, 从而变成一个让捕食者几乎无法穿透的坚实装甲球, 并且它能以这种形态安全的“滚”走!\r\n\r\n\r\n家养\r\n星尾兽是岛上非常珍贵的工作生物。它布满尖刺的尾巴很适合拍打大型岩石, 因此星尾兽是一种很有效率的采石工人。同时它对岩石的适应性让它能以一个降低的重量携带石头。并且一旦采石场受到攻击, 星尾兽也是一种十分难被击败的坐骑!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -76974,7 +77568,7 @@
     {
       "NamespaceHash": "GraphLiteral::1303165955",
       "Source": "Craft 1 Companion Bed",
-      "Trans": {"SC":"制作 1 张随伴的床","JA":""},
+      "Trans": {"SC":"制作 1 张随行宠的床","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -77004,7 +77598,7 @@
     {
       "NamespaceHash": "GraphLiteral::1241246551",
       "Source": "Craft 3 Companion Beds",
-      "Trans": {"SC":"制作 3 张随伴的床","JA":""},
+      "Trans": {"SC":"制作 3 张随行宠的床","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -79777,7 +80371,7 @@
     {
       "NamespaceHash": "DT_Skills_Dragontopia_UmbraLumina::496700457",
       "Source": "Sets the Get Me command's range to {GetMeDistanceMultiplier} of its base range.",
-      "Trans": {"SC":"将“来接我”指令的有效距离调整为基础值的{GetMeDistanceMultiplier}。","JA":""},
+      "Trans": {"SC":"将“来接我”指令的有效距离提升{GetMeDistanceMultiplier}。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
