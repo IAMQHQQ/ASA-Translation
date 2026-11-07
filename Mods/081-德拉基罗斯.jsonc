@@ -1,0 +1,166 @@
+{
+  "Cyrus' Dragons: Drakyros": [
+    {
+      "NamespaceHash": "Content::3160554503",
+      "Source": "Aberrant Drakyros",
+      "Trans": {"SC":"畸变德拉基罗斯","JA":"畸變德拉基羅斯"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2019167573",
+      "Source": "Alpha Drakyros",
+      "Trans": {"SC":"精英德拉基罗斯","JA":"精英德拉基羅斯"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2837721314",
+      "Source": "Spider Cocoon",
+      "Trans": {"SC":"蜘蛛茧","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2690985581",
+      "Source": "Drakyros",
+      "Trans": {"SC":"德拉基罗斯","JA":"德拉基羅斯"},
+      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1632432195",
+      "Source": "Drakyros Egg",
+      "Trans": {"SC":"德拉基罗斯蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2128638225",
+      "Source": "Fertilized Drakyros Egg",
+      "Trans": {"SC":"受精的德拉基罗斯蛋","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2137624197",
+      "Source": "Bond Token",
+      "Trans": {"SC":"羁绊令牌","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4080301688",
+      "Source": "Can only be used on your tamed Drakyros. Use it to establish a deeper connection, forming a Bond that grants powerful benefits.",
+      "Trans": {"SC":"只能在你已驯服的德拉基罗斯上使用。用它建立更深的联系，形成牵绊，赋予强大增益。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2934092443",
+      "Source": "Fish Bait",
+      "Trans": {"SC":"鱼饵","JA":""},
+      "Config": {"Item":true,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::847145946",
+      "Source": "A pungent bundle of fish flesh prepared to attract wild Drakyros. Required to earn their initial attention and begin forming a bond. Can be held and offered by hand… or awkwardly used as a weak improvised weapon.",
+      "Trans": {"SC":"一束气味浓郁的鱼肉，用于吸引野生德拉基罗斯。要获得它们的初步关注并开始形成牵绊，这是必需的。可以手持献上……或者尴尬地用作弱效临时武器。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::732364588",
+      "Source": "Drakyros Bond",
+      "Trans": {"SC":"德拉基罗斯契约","JA":"德拉基羅斯契約"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2882194355",
+      "Source": "You have bonded with your Drakyros, you may now harnest mythical abilities!",
+      "Trans": {"SC":"你已与你的德拉基罗斯建立纽带，现在你可以驾驭神话般的能力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3241127965",
+      "Source": "Drakyros has depleted its charge. Movement speed and charge regeneration are reduced.",
+      "Trans": {"SC":"德拉基罗斯的能量已耗尽。移动速度和能量再生速度降低。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3412165826",
+      "Source": "Charge Surge",
+      "Trans": {"SC":"能量涌动","JA":"能量涌動"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2526041484",
+      "Source": "Lightning is Surging through you, Youve become faster!",
+      "Trans": {"SC":"闪电在你体内涌动，你变得更快了！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::817330205",
+      "Source": "Strike Teleport Cooldown",
+      "Trans": {"SC":"瞬移打击冷却","JA":"瞬移打擊冷却"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3358243511",
+      "Source": "Charge Surge Cooldown",
+      "Trans": {"SC":"能量涌动冷却","JA":"能量涌動冷却"},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1713414257",
+      "Source": "You can no longer activate Charge Surge",
+      "Trans": {"SC":"你无法再激活能量涌动","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "43253E4C453C080B1F5995868FE338DA",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "7C6F41314B4E381BAAE51999DDE1A883",
+      "Source": "Lightning Breath",
+      "Trans": {"SC":"闪电吐息","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"577298167"}
+    },
+    {
+      "NamespaceHash": "B6F74DF84AA09E28ED6088A211A16CD9",
+      "Source": "Plasma Blast",
+      "Trans": {"SC":"等离子冲击","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3585480904"}
+    },
+    {
+      "NamespaceHash": "A33E4C8A47E60E7DD8809D8D83B5DDC0",
+      "Source": "Grab",
+      "Trans": {"SC":"抓取","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2049164572"}
+    },
+    {
+      "NamespaceHash": "15B13FFE4218ECC982BF63BD9CE874C4",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"显隐按键绑定帮助界面","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "80FD4BE9449CB2AEE1605C85E86A420C",
+      "Source": "Bite",
+      "Trans": {"SC":"撕咬2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3564918286"}
+    },
+    {
+      "NamespaceHash": "B9637B4943E005E683CAB59DEE9432BF",
+      "Source": "Plasma Blast",
+      "Trans": {"SC":"等离子冲击2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3585480904"}
+    },
+    {
+      "NamespaceHash": "C425C81F45E9AFDAE9CA2B80D1BD11F2",
+      "Source": "Toggle Keybind Help UI",
+      "Trans": {"SC":"显隐按键绑定帮助界面2","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"500027862"}
+    },
+    {
+      "NamespaceHash": "Content::3249558429",
+      "Source": "Charge Multiplier",
+      "Trans": {"SC":"充能倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ]
+}
