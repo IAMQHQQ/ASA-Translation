@@ -199,12 +199,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::",
-      "Source": "",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::4218589412",
       "Source": "Gives Vecti a 5% Speed and  Defense Buff When Drinking, Last 25 Seconds",
       "Trans": {"SC":"饮水时为白石棘龙提供 5% 速度与防御增益，持续 25 秒","JA":""},
@@ -245,42 +239,6 @@
       "Source": "Gives Creatures in the Spinosaur Family plus %15 to Speed, Attack, and Defense",
       "Trans": {"SC":"为棘龙科生物增加 15% 速度、攻击与防御","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "7301BA0743ED16372789DD957CCFFD5B",
-      "Source": "Advanced Rifle Bullet",
-      "Trans": {"SC":"高级步枪子弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"390687774"}
-    },
-    {
-      "NamespaceHash": "7C1829784633B8FD99E4508589D06FA1",
-      "Source": "Advanced Sniper Bullet",
-      "Trans": {"SC":"制式狙击步枪子弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3228262731"}
-    },
-    {
-      "NamespaceHash": "3298F3BF48F73B87D9F0DF84FB149BB7",
-      "Source": "Tranq Dart",
-      "Trans": {"SC":"麻醉镖","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"13099182"}
-    },
-    {
-      "NamespaceHash": "941CA0884AE01EFF23FC9D8E5CF626A0",
-      "Source": "Advanced Rifle Bullet",
-      "Trans": {"SC":"高级步枪子弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"390687774"}
-    },
-    {
-      "NamespaceHash": "FEA6D4194D57EE4A96671A90B42FE612",
-      "Source": "Advanced Sniper Bullet",
-      "Trans": {"SC":"制式狙击步枪子弹","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3228262731"}
-    },
-    {
-      "NamespaceHash": "C51A41B74BD34150B9B0088B8335C4E6",
-      "Source": "Tranq Dart",
-      "Trans": {"SC":"麻醉镖","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"13099182"}
     },
     {
       "NamespaceHash": "034264414F240135173BB987798CC576",
