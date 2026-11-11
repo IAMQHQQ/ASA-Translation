@@ -1,16 +1,16 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Content::1071672099",
+      "Source": "Coffin Industrial Cooker",
+      "Trans": {"SC":"棺木式工业大锅","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "75CC67264DA0360892BD4CBCD984F4E3", //谜影龙
       "Source": "Empty",
       "Trans": {"SC":"空的","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1003214290"}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2859169420",
-      "Source": "Enigmasaur",
-      "Trans": {"SC":"谜影龙","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3519849218",
@@ -348,18 +348,18 @@
       "Trans": {"SC":"按 {Reload}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
-    //{
-    //  "NamespaceHash": "Content::617023935",
-    //  "Source": "Enigmasaur Mimic Controller",
-    //  "Trans": {"SC":"","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
-    //{
-    //  "NamespaceHash": "Content::3948270001",
-    //  "Source": "Use this to control Enigmasaur Mimic transformations while on your hotbar.\r\n\r\nTap on Enigmasaur to transform between it and previous mimic.\r\nTap on mimic to transform into it.\r\nHold for mimic selection.\r\nPress item slot hotkey while hovered over a mimic to create a hotbar shortcut.",
-    //  "Trans": {"SC":"","JA":""},
-    //  "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    //},
+    {
+      "NamespaceHash": "Content::617023935",
+      "Source": "Enigmasaur Mimic Controller",
+      "Trans": {"SC":"谜影龙拟态调节","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3948270001",
+      "Source": "Use this to control Enigmasaur Mimic transformations while on your hotbar.\r\n\r\nTap on Enigmasaur to transform between it and previous mimic.\r\nTap on mimic to transform into it.\r\nHold for mimic selection.\r\nPress item slot hotkey while hovered over a mimic to create a hotbar shortcut.",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "Content::2533671363",
       "Source": "Chibi-Gigadesmodus",
@@ -525,7 +525,7 @@
     {
       "NamespaceHash": "Content::2893512371",
       "Source": "Coffin Industrial Cauldrons",
-      "Trans": {"SC":"棺木式工业巫术锅","JA":""},
+      "Trans": {"SC":"棺木式巫术锅","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10486,6 +10486,12 @@
       "Trans": {"SC":"谜影龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
       //谜影龙, 幻隐龙 ; Proteus mutabilis多态迷幻龙
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2859169420",
+      "Source": "Enigmasaur",
+      "Trans": {"SC":"谜影龙","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1736217661",
@@ -62364,13 +62370,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3564918286",
-      "Source": "Bite",
-      //出现在跳蛛任务-暂不翻译
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::703831620",
       "Source": "Bloody Feeding Frenzy",
       "Trans": {"SC":"嗜血狂潮","JA":""},
@@ -77403,6 +77402,333 @@
       "NamespaceHash": "Content::2972473069",
       "Source": "Field Manual 31-582\n\nName: Enforcer\nModel Number: AGV MQ-9X\nFuel: Element\nThreat Level: High\nPrimary Function: Direct combat\n\nField Observations\nWith its speed and teleportation capabilities, Autonomous Ground Vehicle MQ-9X is built to close gaps quickly and engage its targets in close quarters. Once in range, it uses refined Element claws with lethal force.\nMQ-9X was clearly designed for urban combat. Its claws and shock absorbers let it scale walls and drop down to street level from significant heights, and we've only seen it patrolling within the city limits. Possibly the remnant of an automated police force or defensive army.\nRecommendations: Isolate, and engage at range in wide open spaces. I've calculated its maximum teleportation distance as roughly 15 meters, so maintain that gap as long as possible\n\nPersonal Use\nEvery MQ-9X I've encountered is stuck on a defensive loop, and overriding its primary directive is impossible. However, if we're able to acquire an intact processing core from a hostile unit, with enough parts I could reverse engineer our own, more loyal model. Could be useful - the grooves on its back are suited for a rider, so we wouldn't even need to build saddles.",
       "Trans": {"SC":"现场手册 31-582\r\n名称: 执行者\r\n型号: AGV MQ-9X\r\n燃料: 能量元素\r\n威胁级别: 高\r\n主要功能: 直接作战\r\n\r\n\r\n野战观察\r\n凭借其速度和传送能力, 自主地面车辆 MQ-9X 旨在快速缩小距离并近距离攻击目标。一旦进入射程, 它就会使用致命的精致元素爪进行攻击。\r\nMQ-9X显然是为城市作战而设计的。它的爪子和减震器可以让它攀爬墙壁并从很高的地方爬下来落到街道上, 我们只能在城市里看到它巡逻。它有可能是残余下来的自动化警察部队或防御部队。\r\n建议: 保持距离并在宽阔的开放空间内活动。我计算出它的最大传送距离约为 15 米, 因此请尽可能长时间地保持该距离。\r\n\r\n\r\n个人使用\r\n我遇到的每个 MQ-9X 都卡在防御循环中, 不可能重写其主程序。\r\n然而, 如果我们能够从敌对单位处获得完整的处理核心, 使我有足够的零件, 我就可以逆向工程出属于我们自己的更忠诚的复制品。它背面的凹槽很适合骑手乘坐, 因此我们甚至不需要鞍座。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ],
+  //2026-11-11 17:50:08
+  "Var": [
+    {
+      "NamespaceHash": "GraphLiteral::3564918286",
+      "Source": "Bite",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3564918286",
+      "Source": "Bite",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::667937672",
+      "Source": "Left",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2965005341",
+      "Source": "Right",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::828250856",
+      "Source": "Down",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::333152855",
+      "Source": "Up",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2965005341",
+      "Source": "Right",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1563507961",
+      "Source": "Heart",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::905481885",
+      "Source": "Fly",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1729077122",
+      "Source": "Claws",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1429333107",
+      "Source": "Deep",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4269506115",
+      "Source": "Text Title",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3704418544",
+      "Source": "Title",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::940523119",
+      "Source": "Default",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::940523119",
+      "Source": "Default",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Globals::4046092849",
+      "Source": "Use",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::971907003",
+      "Source": "Female",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4089736532",
+      "Source": "Male",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3324121870",
+      "Source": "Fire",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::667937672",
+      "Source": "Left",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1334209577",
+      "Source": "Right",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::333152855",
+      "Source": "Up",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::828250856",
+      "Source": "Down",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3919110770",
+      "Source": "Type",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2834167010",
+      "Source": "TYPE",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2834167010",
+      "Source": "TYPE",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::217163825",
+      "Source": "Value",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2997976004",
+      "Source": "MALE",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2997976004",
+      "Source": "MALE",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1968710237",
+      "Source": "FEMALE",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::971907003",
+      "Source": "Female",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::4089736532",
+      "Source": "Male",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3063492174",
+      "Source": "SetBossDifficultyIndex1",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::237324587",
+      "Source": "SetBossDifficultyIndex0",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2754380192",
+      "Source": "SetBossDifficultyIndex2",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2155159936",
+      "Source": "Blue",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1890336389",
+      "Source": "Green",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2505478701",
+      "Source": "Cyan",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::2279263351",
+      "Source": "Red",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3788006343",
+      "Source": "Yellow",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3093239587",
+      "Source": "Pink",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2155159936",
+      "Source": "Blue",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1890336389",
+      "Source": "Green",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2505478701",
+      "Source": "Cyan",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2279263351",
+      "Source": "Red",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3788006343",
+      "Source": "Yellow",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3093239587",
+      "Source": "Pink",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::37628788",
+      "Source": "Time",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3347736421",
+      "Source": "Color",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1965400833",
+      "Source": "Native",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2602279653",
+      "Source": "Auto",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3882954527",
+      "Source": "Quality",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1308466379",
+      "Source": "Balanced",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1668432036",
+      "Source": "Performance",
+      "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],

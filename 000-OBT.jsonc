@@ -56281,12 +56281,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2602279653",
-      "Source": "Auto",
-      "Trans": {"SC":"Auto","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1564499069",
       "Source": "Auto Courage Off",
       "Trans": {"SC":"自动战吼关闭","JA":""},
@@ -60310,12 +60304,6 @@
       "NamespaceHash": "GraphLiteral::2388318802",
       "Source": "Leave 'Remove from Inclusion List'",
       "Trans": {"SC":"离开 [从包含名单中移除恐龙] 菜单","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::667937672",
-      "Source": "Left",
-      "Trans": {"SC":"Left","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -66057,7 +66045,7 @@
     {
       "NamespaceHash": "GraphLiteral::1488706643",
       "Source": "{ItemDescription}{LineBreak}Gasoline: {Current}/{Max}",
-      "Trans": {"SC":"{ItemDescription}{LineBreak}汽油: {当前}/{Max}","JA":""},
+      "Trans": {"SC":"{ItemDescription}{LineBreak}汽油: {Current}/{Max}","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -67150,12 +67138,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::940523119",
-      "Source": "Default",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::214646301",
       "Source": "Found {0} {1}",
       "Trans": {"SC":"发现 {0} {1}","JA":""},
@@ -67170,78 +67152,6 @@
     {
       "NamespaceHash": "Content::206111208",
       "Source": "Rocks",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1968710237",
-      "Source": "FEMALE",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::217163825",
-      "Source": "Value",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3919110770",
-      "Source": "Type",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2834167010",
-      "Source": "TYPE",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2834167010",
-      "Source": "TYPE",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2997976004",
-      "Source": "MALE",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2997976004",
-      "Source": "MALE",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::971907003",
-      "Source": "Female",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::4089736532",
-      "Source": "Male",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3063492174",
-      "Source": "SetBossDifficultyIndex1",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::237324587",
-      "Source": "SetBossDifficultyIndex0",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2754380192",
-      "Source": "SetBossDifficultyIndex2",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -67306,62 +67216,8 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::667937672",
-      "Source": "Left",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1334209577",
-      "Source": "Right",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::333152855",
-      "Source": "Up",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::828250856",
-      "Source": "Down",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1610125578",
       "Source": "Colossal Titan Health",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Globals::4046092849",
-      "Source": "Use",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::971907003",
-      "Source": "Female",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::4089736532",
-      "Source": "Male",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::37628788",
-      "Source": "Time",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3324121870",
-      "Source": "Fire",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -67374,36 +67230,6 @@
     {
       "NamespaceHash": "Content::2605447789",
       "Source": "Presets",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2155159936",
-      "Source": "Blue",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1890336389",
-      "Source": "Green",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2505478701",
-      "Source": "Cyan",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::2279263351",
-      "Source": "Red",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3788006343",
-      "Source": "Yellow",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -67516,18 +67342,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::4269506115",
-      "Source": "Text Title",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::3704418544",
-      "Source": "Title",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::2005963676",
       "Source": "Treatment Runnoff",
       "Trans": {"SC":"","JA":""},
@@ -67558,20 +67372,8 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1729077122",
-      "Source": "Claws",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1550850511",
       "Source": "Danger Noodle",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::1429333107",
-      "Source": "Deep",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -67590,12 +67392,6 @@
     {
       "NamespaceHash": "Content::2992034168",
       "Source": "Floor",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::905481885",
-      "Source": "Fly",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
