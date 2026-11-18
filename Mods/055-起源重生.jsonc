@@ -1352,7 +1352,7 @@
     },
     {
       "NamespaceHash": "Content::199550554",
-      "Source": "Apatosaurus",
+      "Source": "",
       "Trans": {"SC":"雷龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },

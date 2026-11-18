@@ -1,6 +1,288 @@
 {
   "Official": [
     {
+      "NamespaceHash": "Globals::AdminMgmt0",
+      "Source": "Max Structures In Range",
+      "Trans": {"SC":"范围内最大构筑物数量","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1638406048"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt1",
+      "Source": "Difficulty Offset",
+      "Trans": {"SC":"难度系数","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"651668411"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt2",
+      "Source": "Global Voice Chat",
+      "Trans": {"SC":"全服语音聊天","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3702304115"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt3",
+      "Source": "Proximity Chat",
+      "Trans": {"SC":"本地聊天","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"933747434"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt4",
+      "Source": "No Tribute Downloads",
+      "Trans": {"SC":"禁止下载贡品","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2949745814"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt5",
+      "Source": "Allow Third Person Player",
+      "Trans": {"SC":"允许玩家使用第三人称视角","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3098077387"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt6",
+      "Source": "Always Notify Player Left",
+      "Trans": {"SC":"始终提示玩家离开","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"840438957"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt7",
+      "Source": "Dont Always Notify Player Joined",
+      "Trans": {"SC":"不总是提示玩家加入","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1447395503"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt8",
+      "Source": "Server Hardcore",
+      "Trans": {"SC":"服务器硬汉模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3393519516"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt9",
+      "Source": "Server PVE",
+      "Trans": {"SC":"服务器PvE模式","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3682064764"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt10",
+      "Source": "Server Crosshair",
+      "Trans": {"SC":"服务器准星","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3895054811"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt11",
+      "Source": "Server Force No HUD",
+      "Trans": {"SC":"服务器强制隐藏HUD","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1799501303"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt12",
+      "Source": "Show Map Player Location",
+      "Trans": {"SC":"在地图上显示玩家位置","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1068318827"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt13",
+      "Source": "Server Password",
+      "Trans": {"SC":"服务器密码","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1040505036"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt14",
+      "Source": "Server Admin Password",
+      "Trans": {"SC":"服务器管理员密码","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1692116410"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt15",
+      "Source": "Spectator Password",
+      "Trans": {"SC":"观战密码","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"934601517"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt16",
+      "Source": "Day Cycle Speed Scale",
+      "Trans": {"SC":"昼夜循环速度倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3257289198"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt17",
+      "Source": "Day Time Speed Scale",
+      "Trans": {"SC":"白天时间流逝速度倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2751996218"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt18",
+      "Source": "Night Time Speed Scale",
+      "Trans": {"SC":"夜晚时间流逝速度倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2834310113"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt19",
+      "Source": "Dino Damage Multiplier",
+      "Trans": {"SC":"恐龙伤害倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1364038545"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt20",
+      "Source": "Player Damage Multiplier",
+      "Trans": {"SC":"玩家伤害倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1405094966"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt21",
+      "Source": "Structure Damage Multiplier",
+      "Trans": {"SC":"建筑伤害倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1855735126"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt22",
+      "Source": "Player Resistance Multiplier",
+      "Trans": {"SC":"玩家抗性倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1753478364"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt23",
+      "Source": "Dino Resistance Multiplier",
+      "Trans": {"SC":"恐龙抗性倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3556777147"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt24",
+      "Source": "Structure Resistance Multiplier",
+      "Trans": {"SC":"建筑抗性倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2699084456"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt25",
+      "Source": "XP Multiplier",
+      "Trans": {"SC":"经验值倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1491608675"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt26",
+      "Source": "Taming Speed Multiplier",
+      "Trans": {"SC":"驯服速度倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1379059442"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt27",
+      "Source": "Harvest Amount Multiplier",
+      "Trans": {"SC":"资源采集数量倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1841033394"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt28",
+      "Source": "Player Character Water Drain Multiplier",
+      "Trans": {"SC":"玩家水分消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"175883869"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt29",
+      "Source": "Player Character Food Drain Multiplier",
+      "Trans": {"SC":"玩家食物消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2524843640"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt30",
+      "Source": "Dino Character Food Drain Multiplier",
+      "Trans": {"SC":"恐龙食物消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2662550338"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt31",
+      "Source": "Player Character StaminaDrain Multiplier",
+      "Trans": {"SC":"玩家耐力消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1752887417"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt32",
+      "Source": "Dino Character StaminaDrain Multiplier",
+      "Trans": {"SC":"恐龙耐力消耗倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4148339641"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt33",
+      "Source": "Player Character Health Recovery Multiplier",
+      "Trans": {"SC":"玩家生命值恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2385221514"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt34",
+      "Source": "Dino Character Health Recovery Multiplier",
+      "Trans": {"SC":"恐龙生命值恢复倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1373354908"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt35",
+      "Source": "Dino Count Multiplier",
+      "Trans": {"SC":"恐龙数量倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2047388765"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt36",
+      "Source": "Harvest Health Multiplier",
+      "Trans": {"SC":"资源耐久倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1508570456"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt37",
+      "Source": "PvE Structure Decay Period Multiplier",
+      "Trans": {"SC":"PvE建筑物自动损毁倒计时倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2442568182"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt38",
+      "Source": "Resources Respawn Period Multiplier",
+      "Trans": {"SC":"资源刷新间隔倍率","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3358930270"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt39",
+      "Source": "Enable PvP Gamma",
+      "Trans": {"SC":"允许PvP调整伽马值","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"2643613327"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt40",
+      "Source": "Disable Structure Decay PvE",
+      "Trans": {"SC":"禁用PvE建筑物自动损毁","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"4124787898"}
+    },
+    {
+      "NamespaceHash": "Globals::AdminMgmt41",
+      "Source": "Allow Flyer Carry PvE",
+      "Trans": {"SC":"PvE允许飞行宠抓取生物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"1915073516"}
+    },
+    {
+      "NamespaceHash": "Content::4150501563",
+      "Source": "You'rebleeding! You're losing 5% Stamina per second!",
+      "Trans": {"SC":"你在流血！你每秒正在失去 5% 的耐力！","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::821440836",
+      "Source": "Dear Jane",
+      "Trans": {"SC":"亲爱的简","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::1595293977",
+      "Source": "Enhanced Tidepup Mounted",
+      "Trans": {"SC":"强化潮佑螈攀附","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "Content::3927336232",
+      "Source": "Plant Proto Species R",
+      "Trans": {"SC":"原始R异种植物","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::255352088", //GIGA
+      "Source": " is Challenging you!",
+      "Trans": {"SC":" 正向你发起挑战!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
       "NamespaceHash": "Content::1071672099",
       "Source": "Coffin Industrial Cooker",
       "Trans": {"SC":"棺木式工业大锅","JA":""},
@@ -2132,18 +2414,6 @@
       "Source": "Supply Equipped Weapon",
       "Trans": {"SC":"为已装备武器补充弹药","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1548549318",
-      "Source": "Embark on an epic odyssey with Astraeos, a colossal 260km² world steeped in Greek mythology! Majestic mountain ridges & marble cliffs meet pristine white beaches, and ancient ruins rise over sacred temples. Face powerful new enemies and gigantic new mythical bosses, and tame unique creatures found only on Astraeos: the nimble Maeguana, the Grand Tortugar, and the fiery Boratos! Sail the new physical seas upon Triremes, confront enemy fleets and the gargantuan Kraken itself! Will you bow to fate, or rise in defiance of Olympus?",
-      "Trans": {"SC":"","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //Boratos
-      //Boaratos
-      //GraphLiteral::4070555597
-      //Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!
-      //一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!
-      //后续再翻译吧, 最近比较忙0.0
     },
     {
       "NamespaceHash": "Content::1785049897",
@@ -6179,12 +6449,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::3000049680",
-      "Source": "Awaken in a virtual simulation with your robotic companion to survive new exotic worlds! Genesis Ascended introduces a massive ocean biome featuring overhauled water physics, dynamic waves, and epic maritime warfare. Master the Palaeoctopus: a cliff-climbing cephalopod that crushes dual targets and supplies limitless colored ink!",
-      "Trans": {"SC":"在创世模拟中醒来, 身旁是一位奇怪又熟悉的机械伙伴。你需要完成一系列严苛任务, 在数个前所未见、与过往截然不同的异域世界中努力生存! «创世飞升»带来了辽阔的海洋生态群系, 全面重制水体物理效果与动态海浪系统, 并加入史诗级海战玩法。驯服并驾驭古蛸 —— 这种能够攀爬峭壁的头足类生物, 可同时碾碎两个目标, 还能持续产出彩色墨汁。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "GraphLiteral::1746886388",
       "Source": "MODIFY SALE",
       "Trans": {"SC":"调整售卖","JA":""},
@@ -6517,7 +6781,7 @@
     {
       "NamespaceHash": "Content::1562851549",
       "Source": "Carried by Palaeoctpus",
-      "Trans": {"SC":"被古蛸携带","JA":""},
+      "Trans": {"SC":"被古蛸抓取","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -8263,25 +8527,25 @@
     {
       "NamespaceHash": "GraphLiteral::659701140",
       "Source": "\\n<RichColor Color=\"1, 1, 0, 1\">Find all Bob's Arat Tale Explorer Notes on Genesis for +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到创世纪所有\"鲍勃阿拉特故事\"笔记来 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到创世纪所有 \"鲍勃阿拉特故事\" 笔记来 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2623316871",
       "Source": "\\n<RichColor Color=\"1, 1, 1, 1\">All Bob's Arat Tale Explorer Notes from Genesis found +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">创世纪所有\"鲍勃阿拉特故事\"笔记已找到 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">创世纪所有 \"鲍勃阿拉特故事\" 笔记已找到 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1847434364",
       "Source": "\\n<RichColor Color=\"1, 1, 0, 1\">Find all Bob's True Tale Explorer Notes on Genesis for +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到创世纪所有\"鲍勃真传\"笔记来 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到创世纪所有 \"鲍勃真传\" 笔记来 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::3632238898",
       "Source": "\\n<RichColor Color=\"1, 1, 1, 1\">All Bob's True Tale Explorer Notes from Genesis found +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">创世纪所有\"鲍勃真传\"笔记已找到 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">创世纪所有 \"鲍勃真传\" 笔记已找到 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -10532,7 +10796,7 @@
     {
       "NamespaceHash": "6C4E74324E585FA247834FA7F2E72491",
       "Source": "Carry", //Rhyni
-      "Trans": {"SC":"携带       ","JA":""}, //标记-当前是为了文本格式差不多所以加了开个后续若格式正常了就修改回来
+      "Trans": {"SC":"抓取       ","JA":""}, //标记-当前是为了文本格式差不多所以加了开个后续若格式正常了就修改回来
       "Config": {"Item":false,"Dino":false,"Default_Hash":"849218775"}
     },
     {
@@ -12815,13 +13079,6 @@
       "Source": "Equip a Grand Tortugar with this to ride it. You can build structures on the large platform to make a mobile base.",
       "Trans": {"SC":"给巨甲龟装备这个以骑乘它。你可以在大型平台上建造结构来制作移动基地。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "GraphLiteral::4070555597",
-      "Source": "Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!",
-      "Trans": {"SC":"一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //有点费脑子😣
     },
     {
       "NamespaceHash": "Content::2168398223",
@@ -26639,13 +26896,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::22664315",
-      "Source": "A desperate voice calls out to you from across the galaxy... long ago you helped her restored life to the extinct Earth, and now she needs your skills once more. She seeks the engram Codex, hidden in a lost kingdom at the end of the world: Arat Prime. Discover the dark secrets of this forlorn place as you master arcane skills, tame strange cryptofauna, cloaking yourself in powerful accursed gear. Survive its challenges & assemble an army of Thralls, as you seek to dethrone the Lost King and change the fate of the future!",
-      "Trans": {"SC":"一声绝望的呼喊自银河彼端向你传来...很久以前, 你曾帮助她让死寂的地球重获生机, 如今她再度需要你发挥专长。她追寻着印痕元码, 它被藏匿在世界尽头的失落之国 —— 阿拉特·源域。探索这片荒凉之地潜藏的黑暗秘密, 掌握玄奇的技艺, 驯服奇幻的异兽, 用强大的咒缚装备武装自己。在重重挑战中生存, 集结血仆大军, 废黜失落之王, 改写未来的命运!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //失落之地地图介绍
-    },
-    {
       "NamespaceHash": "Content::2893015148",
       "Source": "North Mountains",
       "Trans": {"SC":"北部山脉","JA":""},
@@ -28387,99 +28637,99 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1220451898",
+      "NamespaceHash": "Content::3418058388",
       "Source": "Grendel",
-      "Trans": {"SC":"格伦德尔","JA":""},
+      "Trans": {"SC":"大盗龙王·格伦德尔","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2524406359",
       "Source": "Grendel (Gamma)",
-      "Trans": {"SC":"格伦德尔 (简单)","JA":""},
+      "Trans": {"SC":"大盗龙王·格伦德尔 (简单)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3889511805",
       "Source": "Grendel (Alpha)",
-      "Trans": {"SC":"格伦德尔 (困难)","JA":""},
+      "Trans": {"SC":"大盗龙王·格伦德尔 (困难)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3609436608",
       "Source": "Grendel (Beta)",
-      "Trans": {"SC":"格伦德尔 (中等)","JA":""},
+      "Trans": {"SC":"大盗龙王·格伦德尔 (中等)","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::819629592",
       "Source": "Grendel Flag",
-      "Trans": {"SC":"格伦德尔旗帜","JA":""},
+      "Trans": {"SC":"大盗龙王·格伦德尔旗帜","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2014358837",
       "Source": "This flag is proof that you have defeated Grendel.",
-      "Trans": {"SC":"这面旗帜证明你已经打败了格伦德尔。","JA":""},
+      "Trans": {"SC":"这面旗帜证明你已经打败了大盗龙王·格伦德尔。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2573563120",
       "Source": "Generate Grendel (Gamma) Portal",
-      "Trans": {"SC":"召唤 格伦德尔 (简单) 传送门","JA":""},
+      "Trans": {"SC":"召唤 大盗龙王·格伦德尔 (简单) 传送门","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3392628250",
       "Source": "Use this to generate a portal to Grendel (Easy).",
-      "Trans": {"SC":"使用并召唤格伦德尔传送门 (简单)。","JA":""},
+      "Trans": {"SC":"使用并召唤大盗龙王·格伦德尔传送门 (简单)。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1935344722",
       "Source": "Generate Grendel (Alpha) Portal",
-      "Trans": {"SC":"召唤 格伦德尔 (困难) 传送门","JA":""},
+      "Trans": {"SC":"召唤 大盗龙王·格伦德尔 (困难) 传送门","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::3435584607",
       "Source": "Use this to generate a portal to Grendel (Hard).",
-      "Trans": {"SC":"使用并召唤格伦德尔传送门 (困难)。","JA":""},
+      "Trans": {"SC":"使用并召唤大盗龙王·格伦德尔传送门 (困难)。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::633336098",
       "Source": "Generate Grendel (Beta) Portal",
-      "Trans": {"SC":"召唤 格伦德尔 (中等) 传送门","JA":""},
+      "Trans": {"SC":"召唤 大盗龙王·格伦德尔 (中等) 传送门","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::532787369",
       "Source": "Use this to generate a portal to Grendel (Medium).",
-      "Trans": {"SC":"使用并召唤格伦德尔传送门 (中等)。","JA":""},
+      "Trans": {"SC":"使用并召唤大盗龙王·格伦德尔传送门 (中等)。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::310646311",
       "Source": "Grendel Trophy",
-      "Trans": {"SC":"格伦德尔战利品","JA":""},
+      "Trans": {"SC":"大盗龙王·格伦德尔战利品","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::1619170673",
       "Source": "Alpha Grendel Trophy",
-      "Trans": {"SC":"困难格伦德尔战利品","JA":""},
+      "Trans": {"SC":"困难大盗龙王·格伦德尔战利品","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::735369923",
       "Source": "Beta Grendel Trophy",
-      "Trans": {"SC":"中等格伦德尔战利品","JA":""},
+      "Trans": {"SC":"中等大盗龙王·格伦德尔战利品","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::2594332217",
       "Source": "Gamma Grendel Trophy",
-      "Trans": {"SC":"简单格伦德尔战利品","JA":""},
+      "Trans": {"SC":"简单大盗龙王·格伦德尔战利品","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -37212,7 +37462,7 @@
     {
       "NamespaceHash": "Content::1943071999",
       "Source": "Your companion is being carried and can't perform this skill.",
-      "Trans": {"SC":"你的随行宠正在被携带, 无法使用该技能.","JA":""},
+      "Trans": {"SC":"你的随行宠正在被抓取, 无法使用该技能.","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -37509,19 +37759,19 @@
     {
       "NamespaceHash": "Globals::4034717415",
       "Source": "You found all the Bob's Tall Tales Explorer Notes on Scorched Earth! +5 Max Levels",
-      "Trans": {"SC":"你找到了焦土所有的\"鲍勃的传奇故事\"笔记! +5 等级上限","JA":""},
+      "Trans": {"SC":"你找到了焦土所有的 \"鲍勃的传奇故事\" 笔记! +5 等级上限","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::1468923654",
       "Source": "You found all the Bob's Tall Tales Explorer Notes on Aberration! +5 Max Levels",
-      "Trans": {"SC":"你找到了畸变所有的\"鲍勃的传奇故事\"笔记! +5 等级上限","JA":""},
+      "Trans": {"SC":"你找到了畸变所有的 \"鲍勃的传奇故事\" 笔记! +5 等级上限","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Globals::3885227461",
       "Source": "You found all the Bob's Tall Tales Explorer Notes on Extinction! +5 Max Levels",
-      "Trans": {"SC":"你找到了灭绝所有的\"鲍勃的传奇故事\"笔记! +5 等级上限","JA":""},
+      "Trans": {"SC":"你找到了灭绝所有的 \"鲍勃的传奇故事\" 笔记! +5 等级上限","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -37608,29 +37858,29 @@
     {
       "NamespaceHash": "Globals::1316732856",
       "Source": "Food: ",
-      "Trans": {"SC":"食物 ","JA":""},
+      "Trans": {"SC":"食物: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2817572597"}
       //奇怪的指向
     },
     {
       "NamespaceHash": "Globals::2383823085",
       "Source": "Stamina: ",
-      "Trans": {"SC":"耐力 ","JA":""},
+      "Trans": {"SC":"耐力: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2805067031"}
       //奇怪的指向
     },
     {
       "NamespaceHash": "Globals::3891437097",
       "Source": "Health: ",
-      "Trans": {"SC":"生命值 ","JA":""},
+      "Trans": {"SC":"生命值: ","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"2163809369"}
       //奇怪的指向
     },
     {
       "NamespaceHash": "Globals::2665675784",
       "Source": "Crafting Skill: %.2f",
-      "Trans": {"SC":"制作技能 %.2f","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":"3888210821"}
+      "Trans": {"SC":"制作技能: %.2f","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":"3888210821"} //Crafting Skill %.2f
       //奇怪的指向
     },
     {
@@ -37648,13 +37898,14 @@
     {
       "NamespaceHash": "Content::3435284683",
       "Source": "You did this to me, for wanting the\nsame power she squandered!",
-      "Trans": {"SC":"你这样对我, 无非是我渴望\n得到她所挥霍的那种力量!","JA":""},
+      "Trans": {"SC":"你这样对我, 就因为我渴望得到她白白浪费的那份力量!","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //这里指在老罗的视角海莲娜神人的力量不去干他认为的那所谓"正事"所以他认为这是白白浪费。
     },
     {
       "NamespaceHash": "Content::3075992001",
       "Source": "Well, I've survived worse!\nI promise you I will find a way out of this, I will!",
-      "Trans": {"SC":"罢了, 之前更糟的情况我都活下来了!\n我一定能逃脱出去的, 等着瞧吧!","JA":""},
+      "Trans": {"SC":"罢了, 之前更糟的情况我都活下来了!\n我一定能逃出去的, 等着瞧吧!","JA":""},
       //我需要重新改变语序吗? 是否需要考虑听读, 如果考虑听读可能就不太符合中文语境.
       //罢了, 之前更惨烈的情况我都活下来了,\n我一定能逃脱的, 等着瞧吧!(Louis修改)
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
@@ -37669,7 +37920,7 @@
       "NamespaceHash": "Content::849361075",
       "Source": "It's so bright!\nHelena...?\nI'm afraid!",
       //这里感觉很多应该是害怕而不是抱歉。
-      "Trans": {"SC":"好刺眼啊!\n海莲娜...?\n我好怕!","JA":""},
+      "Trans": {"SC":"好刺眼!\n海莲娜...?\n我害怕!","JA":""},
       //好刺眼啊!\n海莲娜...?\n我好怕!(Louis修改)
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -37682,9 +37933,14 @@
     {
       "NamespaceHash": "Content::1564187030",
       "Source": "Survivor, this is my last message to you, to be\nrelayed in the event of my... deactivation.",
-      "Trans": {"SC":"生存者, 这是我留给你的最后一条讯息\n若你听到了这段转播, 就说明我已经...不存在了。","JA":""},
-      //生存者, 这是我留给你的最后一条讯息, 若你\n收到了这条转播就说明我已经...停止运转了。
+      "Trans": {"SC":"生存者, 这是我留给你的最后一条讯息\n若你听到了这段留言, 就说明我已经...不在了。","JA":""},
       //这样翻译我会觉得更符合中文的语境和通顺; 😄很满意!
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3437976424",
+      "Source": "Survivor, this is my last message to you, to be relayed in the event of my... deactivation.", //提前预判修补
+      "Trans": {"SC":"生存者, 这是我留给你的最后一条讯息, 若你听到了这段留言, 就说明我已经...不在了。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -37698,8 +37954,9 @@
     {
       "NamespaceHash": "Content::53037306",
       "Source": "But in our time together, I got to\nbecome something new, someone new.\nNot Helena -- HLN-A.",
-      "Trans": {"SC":"但在我们相伴的这段时光里, 我得以\n成了全新的存在, 新的个体。\n不再是海莲娜 -- 而是HLN-A。","JA":""},
+      "Trans": {"SC":"但在我们相伴的这段时光里, 我得以\n成为一种全新的存在, 一个全新的自己。\n不是海莲娜 -- 而是HLN-A。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //Human Learning Neural Aid , 好一个双关。
     },
     {
       "NamespaceHash": "Content::2269458368",
@@ -38559,270 +38816,46 @@
       //恐象
     },
     {
-      "NamespaceHash": "Content::4033455826",
-      "Source": "As a man or woman stranded naked, freezing & starving on a mysterious island, you must hunt, harvest, craft items, grow crops, and build shelters to survive. Use skill and cunning to kill, tame, breed, and ride dinosaurs & primeval creatures. Master your environment and explore the hidden depths to uncover ARK's secrets!",
-      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并掌握这片土地的生存之道, 深入探索这座岛屿, 揭开方舟的秘密!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1873623764",
-      "Source": "THE ISLAND:\r\nAs a man or woman stranded naked, freezing & starving on a mysterious island, you must hunt, harvest, craft items, grow crops, and build shelters to survive. Use skill and cunning to kill, tame, breed, and ride dinosaurs & primeval creatures. Master your environment and explore the hidden depths to uncover ARK's secrets!",
-      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并掌握这片土地的生存之道, 深入探索这座岛屿, 揭开方舟的秘密!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::3085151063",
-      "Source": "The Center is a massive new map for survivors to explore, nearly double the size of the playable geography of the Island landscape making it about 70 sq. kilometers. The Center complements the current ARK biomes with a rich, hand-drawn Tolkien-esque aesthetic. Filled with stunning lighting effects, lava rivers, giant picturesque mountains, misty floating islands, ancient underground ice caves, and more!",
-      "Trans": {"SC":"这是一张有着巨大可探索面积的新地图, 其可探索地域的面积之广, 几乎是孤岛的两倍, 约70平方公里。中心岛以其丰富多彩, 充满手绘 \"托尔金美学\" 的元素, 为方舟现有生态系统增添了美学的深度。这里充满了令人叹为观止的光影效果, 蜿蜒流淌的熔岩河流, 风景如画的巨大山脉, 云遮雾绕的浮空岛屿, 古老深幽的地下冰洞, 等多种美景!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3639834756",
-      "Source": "THE CENTER:\r\nThe Center is a massive new map for survivors to explore, nearly double the size of the playable geography of the Island landscape making it about 70 sq. kilometers. The Center complements the current ARK biomes with a rich, hand-drawn Tolkien-esque aesthetic. Filled with stunning lighting effects, lava rivers, giant picturesque mountains, misty floating islands, ancient underground ice caves, and more!",
-      "Trans": {"SC":"这是一张有着巨大可探索面积的新地图, 其可探索地域的面积之广, 几乎是孤岛的两倍, 约70平方公里。中心岛以其丰富多彩, 充满手绘 \"托尔金美学\" 的元素, 为方舟现有生态系统增添了美学的深度。这里充满了令人叹为观止的光影效果, 蜿蜒流淌的熔岩河流, 风景如画的巨大山脉, 云遮雾绕的浮空岛屿, 古老深幽的地下冰洞, 等多种美景!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::2103755951",
-      "Source": "Put your survival skills to the test as you find yourself stranded naked, dehydrated & starving in a vast desert. Even the most seasoned ARK survivors must quickly find water, hunt for food, harvest, craft items, and build shelter to have any chance for survival. Use skills honed on ARK's Island to kill, tame, breed, and ride the fantastical new creatures that have evolved to survive the Desert's ultra harsh conditions, including... DRAGONS!",
-      "Trans": {"SC":"周遭的一切都将会是考验你的生存技巧, 你身无寸缕地被困在一片广袤的沙漠之中, 又饥又渴, 即便是最老练的生存者, 想要存活下来就必须迅速找到水源寻得食物、采集资源、制作物品并且搭建栖身之所。用从遥远的孤岛上磨炼出的技能来击杀或驯养、繁育、骑乘这些在沙漠超严苛条件下进化求存的神秘新生物, 其中包括...飞龙!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2857050577",
-      "Source": "SCORCHED EARTH:\r\nPut your survival skills to the test as you find yourself stranded naked, dehydrated & starving in a vast desert. Even the most seasoned ARK survivors must quickly find water, hunt for food, harvest, craft items, and build shelter to have any chance for survival. Use skills honed on ARK's Island to kill, tame, breed, and ride the fantastical new creatures that have evolved to survive the Desert's ultra harsh conditions, including... DRAGONS!",
-      "Trans": {"SC":"周遭的一切都将会是考验你的生存技巧, 你身无寸缕地被困在一片广袤的沙漠之中, 又饥又渴, 即便是最老练的生存者, 想要存活下来就必须迅速找到水源寻得食物、采集资源、制作物品并且搭建栖身之所。用从遥远的孤岛上磨炼出的技能来击杀或驯养、繁育、骑乘这些在沙漠超严苛条件下进化求存的神秘新生物, 其中包括...飞龙!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::1732919087",
-      "Source": "Journey through an expansive 144 sq. kilometer fantasty highland, where common and all-new biomes are combined to bring the ultimate survivor experience. Whether tackling the extreme cold atop the highest mountains, harvesting resources from an active volcano, or just searching for that perfect base location, Ragnarok plays host to explorers and base builders alike. But survivors beware, Ragnarok houses such creatures as Polar Bears, Ice Wyverns, and a mystical creature many have yet to tame in the ARK universe.",
-      "Trans": {"SC":"踏上这144平方公里广袤天地的旅程, 这里融合了多个生物群, 为你的旅程带来一场极致的体验。无论是在山峰抵御寒冷, 在火山中采集资源, 还是寻找完美的建家位置, 仙境都是探险者和建造爱好者的大本营。不过要切记, 北极熊以及寒冰飞龙都居住此地, 甚至有许多在方舟宇宙中尚未被驯服的神秘生物。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::4272949926",
-      "Source": "RAGNAROK:\r\nJourney through an expansive 144 sq. kilometer fantasty highland, where common and all-new biomes are combined to bring the ultimate survivor experience. Whether tackling the extreme cold atop the highest mountains, harvesting resources from an active volcano, or just searching for that perfect base location, Ragnarok plays host to explorers and base builders alike. But survivors beware, Ragnarok houses such creatures as Polar Bears, Ice Wyverns, and a mystical creature many have yet to tame in the ARK universe.",
-      "Trans": {"SC":"踏上这144平方公里广袤天地的旅程, 这里融合了多个生物群, 为你的旅程带来一场极致的体验。无论是在山峰抵御寒冷, 在火山中采集资源, 还是寻找完美的建家位置, 仙境都是探险者和建造爱好者的大本营。不过要切记, 北极熊以及寒冰飞龙都居住此地, 甚至有许多在方舟宇宙中尚未被驯服的神秘生物。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::2010010883",
-      "Source": "Explore new heights and hidden depths; whether it’s creating your foundations in the White Cliffs or unearthing the secrets of the Aberration Trench, Valguero offers a new experience in the ARK universe. With new biomes, challenging dungeon bosses, and mysterious ruins to discover, there’s always something exciting — and dangerous — on Valguero.",
-      "Trans": {"SC":"来探索这里的角角落落吧。无论是在白色峭壁中建立你的基地, 或是发掘异变海沟中的秘密, 瓦尔盖罗给方舟世界带来了全新的体验。这里拥有新的生态圈、富有挑战性的最终BOSS以及神秘的废墟等待着你的探索。瓦尔盖罗, 一个充满着刺激和危险的神奇世界。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::628308952",
-      "Source": "VALGUERO:\r\nExplore new heights and hidden depths; whether it’s creating your foundations in the White Cliffs or unearthing the secrets of the Aberration Trench, Valguero offers a new experience in the ARK universe. With new biomes, challenging dungeon bosses, and mysterious ruins to discover, there’s always something exciting — and dangerous — on Valguero.",
-      "Trans": {"SC":"来探索这里的角角落落吧。无论是在白色峭壁中建立你的基地, 或是发掘异变海沟中的秘密, 瓦尔盖罗给方舟世界带来了全新的体验。这里拥有新的生态圈、富有挑战性的最终BOSS以及神秘的废墟等待着你的探索。瓦尔盖罗, 一个充满着刺激和危险的神奇世界。","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::3513156799",
-      "Source": "Waking up on Aberration, a derelict, malfunctioning ARK with an elaborate underground biome system, survivors face exotic new challenges unlike anything before: extreme radioactive sunlight and environmental hazards, ziplines, wingsuits, climbing gear, cave dwellings, charge-batteries, and far more, along with a stable of extraordinary new creatures await within the mysterious depths. But beware the 'Nameless': unrelenting, Element-infused humanoids which have evolved into vicious light-hating monstrosities! On Aberration, survivors will uncover the ultimate secrets of the ARKs, and discover what the future holds in store for those strong and clever enough to survive!",
-      "Trans": {"SC":"这是一个因故障而被废弃的方舟。在畸变的地下世界中醒来, 在这里面临异乎寻常的挑战: 极端日照辐射和环境灾害、滑索、滑翔翼、登山镐、穴居生物、蓄电池等等。神秘的深渊里还有各种非凡的新物种等待人们的发现。但是要特别小心 “无名怪” , 这是一种被元素腐蚀且畏光的类人生物! 在畸变的世界中, 只有最坚强聪明的生存者才能发现方舟的终极秘密!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::5209468",
-      "Source": "ABERRATION:\r\nWaking up on Aberration, a derelict, malfunctioning ARK with an elaborate underground biome system, survivors face exotic new challenges unlike anything before: extreme radioactive sunlight and environmental hazards, ziplines, wingsuits, climbing gear, cave dwellings, charge-batteries, and far more, along with a stable of extraordinary new creatures await within the mysterious depths. But beware the 'Nameless': unrelenting, Element-infused humanoids which have evolved into vicious light-hating monstrosities! On Aberration, survivors will uncover the ultimate secrets of the ARKs, and discover what the future holds in store for those strong and clever enough to survive!",
-      "Trans": {"SC":"这是一个因故障而被废弃的方舟。在畸变的地下世界中醒来, 在这里面临异乎寻常的挑战: 极端日照辐射和环境灾害、滑索、滑翔翼、登山镐、穴居生物、蓄电池等等。神秘的深渊里还有各种非凡的新物种等待人们的发现。但是要特别小心 “无名怪” , 这是一种被元素腐蚀且畏光的类人生物! 在畸变的世界中, 只有最坚强聪明的生存者才能发现方舟的终极秘密!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::1246458858",
-      "Source": "Finish your journey through the worlds of ARK in Extinction, where the story began and ends: on Earth itself! An Element-infested, ravaged planet filled with fantastical creatures both organic & technological, Earth holds both the secrets of the past and the keys to its salvation. As a veteran Survivor who has conquered all previous obstacles, your ultimate challenge awaits: can you defeat the gigantic roaming Titans which dominate the planet, and complete the ARK cycle to save Earth's future?",
-      "Trans": {"SC":"你将回到地球, 在这\"灭绝\"的世界中迎来旅程的终点, 因为这里正是一切方舟故事的起源与终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你是否有能力击败肆虐地球的巨型泰坦, 完成方舟计划的最后一环, 最终拯救地球的未来?","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::1338204075",
-      "Source": "EXTINCTION\r\nFinish your journey through the worlds of ARK in Extinction, where the story began and ends: on Earth itself! An Element-infested, ravaged planet filled with fantastical creatures both organic & technological, Earth holds both the secrets of the past and the keys to its salvation. As a veteran Survivor who has conquered all previous obstacles, your ultimate challenge awaits: can you defeat the gigantic roaming Titans which dominate the planet, and complete the ARK cycle to save Earth's future?",
-      "Trans": {"SC":"你将回到地球, 在这\"灭绝\"的世界中迎来旅程的终点, 因为这里正是一切方舟故事的起源与终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你是否有能力击败肆虐地球的巨型泰坦, 完成方舟计划的最后一环, 最终拯救地球的未来?","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::2089050258",
-      "Source": "Continue your quest for ultimate survival and unlock a whole new chapter in the saga of ARK: Survival Evolved! Waking up inside a virtual simulation, with a strangely familiar robotic companion, you must overcome rigorous missions to survive across multiple exotic worlds unlike anything you've seen before!",
-      "Trans": {"SC":"继续你对终极生存的追求之路, 并在 \"方舟:生存飞升\" 开启一个全新的篇章! 你在一个虚拟模拟中醒来, 身边是一位奇怪而熟悉的机械伙伴。你必须完成严苛的任务, 以求在数个前所未见的异域世界中生存, 这些地方与你以往所见完全不同!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::933755097",
-      "Source": "GENESIS: PART 1\r\nContinue your quest for ultimate survival and unlock a whole new chapter in the saga of ARK: Survival Evolved! Waking up inside a virtual simulation, with a strangely familiar robotic companion, you must overcome rigorous missions to survive across multiple exotic worlds unlike anything you've seen before!",
-      "Trans": {"SC":"继续你对终极生存的追求之路, 并在 \"方舟:生存飞升\" 开启一个全新的篇章! 你在一个虚拟模拟中醒来, 身边是一位奇怪而熟悉的机械伙伴。你必须完成严苛的任务, 以求在数个前所未见的异域世界中生存, 这些地方与你以往所见完全不同!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::2304267519",
-      "Source": "Complete the eons-spanning story of ARK: Survival Evolved! Everything that your tribe has built, tamed, and fought for has led to this final challenge. With your faithful artificial companion HLN-A by your side, you’ve emerged from the Genesis simulation to find yourself aboard a gigantic starship being overtaken by a familiar threat from the distant past. Humanity’s future is in your hands, Survivor -- one last time!",
-      "Trans": {"SC":"完成这场 \"方舟生存:飞升\" 中跨时代的故事! 一直以来你所建立的部落, 所驯服的生物和为之奋斗的一切都是为了这一最终挑战。在你忠实的伙伴HLN-A的陪伴下, 你成功从创世模拟中走了出来, 发现自己身处一艘巨大的宇宙飞船上, 一个来自遥远的过去的你所熟悉的威胁正在降临。人类的未来掌握在你手中, 生存者! 最后一战!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3953188457",
-      "Source": "GENESIS: PART 2\r\nComplete the eons-spanning story of ARK: Survival Evolved! Everything that your tribe has built, tamed, and fought for has led to this final challenge. With your faithful artificial companion HLN-A by your side, you’ve emerged from the Genesis simulation to find yourself aboard a gigantic starship being overtaken by a familiar threat from the distant past. Humanity’s future is in your hands, Survivor -- one last time!",
-      "Trans": {"SC":"完成这场 \"方舟生存:飞升\" 中跨时代的故事! 一直以来你所建立的部落, 所驯服的生物和为之奋斗的一切都是为了这一最终挑战。在你忠实的伙伴HLN-A的陪伴下, 你成功从创世模拟中走了出来, 发现自己身处一艘巨大的宇宙飞船上, 一个来自遥远的过去的你所熟悉的威胁正在降临。人类的未来掌握在你手中, 生存者! 最后一战!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::511930998",
-      "Source": "This ARK has been dynamically generated, for a unique, custom experience!",
-      "Trans": {"SC":"这座方舟是随机生成的, 可为你提供一种独一无二, 定制化的体验!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3144997537",
-      "Source": "PROCEDURAL ARK:\r\nThis ARK has been dynamically generated, for a unique, custom experience!",
-      "Trans": {"SC":"随机生成方舟: \r\n这座方舟是随机生成的, 可为你提供一种独一无二, 定制化的体验!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::2423112757",
-      "Source": "This is a user-created ARK!",
-      "Trans": {"SC":"这是一座由用户创建的方舟!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2627230169",
-      "Source": "CUSTOM ARK:\r\nThis is a user-created ARK!",
-      "Trans": {"SC":"自定义方舟:\r\n这是一座由用户创建的方舟!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::326932360",
-      "Source": "A community classic ARK map returns, updated for the Official Server networks! Crystal Isles is 150 square kilometers of awe-inspiring biomes… Build bases high in forest canopy and floating islands, and tame your own Tropeognathus to ride into aerial combat!",
-      "Trans": {"SC":"一张深受广大玩家喜爱的经典的方舟地图在官方服务器回归了! 水晶岛占地150平方公里, 有着令人敬畏的生物群落...在森林的树冠上和浮动的岛屿上建立基地, 并驯服属于你自己的全新脊颌翼龙 -- 骑着它在空中进行战斗!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2047086560",
-      "Source": "CRYSTAL ISLES:\r\nA community classic ARK map returns, updated for the Official Server networks! Crystal Isles is 150 square kilometers of awe-inspiring biomes… Build bases high in forest canopy and floating islands, and tame your own Tropeognathus to ride into aerial combat!",
-      "Trans": {"SC":"一张深受广大玩家喜爱的经典的方舟地图在官方服务器回归了! 水晶岛占地150平方公里, 有着令人敬畏的生物群落...在森林的树冠上和浮动的岛屿上建立基地, 并驯服属于你自己的全新脊颌翼龙 -- 骑着它在空中进行战斗!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::225923269",
-      "Source": "Explore the soaring heights and hidden depths of Lost Island, featuring three powerful new creatures for you to tame. Discover jungle valleys fed by giant waterfalls, build a treehouse high in the forest canopies, get down and dirty in vast mangrove swamps, dive deep underwater, brave treacherous snowy peaks, or spelunk uncharted cave systems in search of treasure... whichever way you go, wild adventure awaits!",
-      "Trans": {"SC":"探索迷失岛霄汉的高空以及深邃的低谷吧! 三种强大的全新的生物可供你驯服! 快来发现由巨大瀑布滋养的丛林山谷, 在高大的森林树冠上建造树屋, 在红树林沼泽里跌打翻滚, 在清凉的水下深潜, 勇敢地挑战险峻的雪峰, 又或是在未知的洞穴中寻宝...总会有一款适合你!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3948051391",
-      "Source": "LOST ISLAND:\r\nExplore the soaring heights and hidden depths of Lost Island, featuring three powerful new creatures for you to tame. Discover jungle valleys fed by giant waterfalls, build a treehouse high in the forest canopies, get down and dirty in vast mangrove swamps, dive deep underwater, brave treacherous snowy peaks, or spelunk uncharted cave systems in search of treasure... whichever way you go, wild adventure awaits!",
-      "Trans": {"SC":"探索迷失岛霄汉的高空以及深邃的低谷吧! 三种强大的全新的生物可供你驯服! 快来发现由巨大瀑布滋养的丛林山谷, 在高大的森林树冠上建造树屋, 在红树林沼泽里跌打翻滚, 在清凉的水下深潜, 勇敢地挑战险峻的雪峰, 又或是在未知的洞穴中寻宝...总会有一款适合你!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::2895813347",
-      "Source": "Explore a magical Norse-inspired world, and travel to the legendary planes of Asgard, Jotunheim, and Vanaheim. Fjordur features four powerful new creatures for you to tame, including Andrewsarchus, Desmodus, Fjordhawk, and even Fenrir itself! Journey across over 75 square kilometers of new biomes, and face new challenges as you discover over 200 Runes to increase your Survivor's power!",
-      "Trans": {"SC":"一起来方舟探索这寒冷又严峻的北欧群岛吧! 前往阿斯加德, 约顿海姆和瓦纳海姆等平行世界! 此次的全新地图维京有着四种全新的生物供你收集! 通过发现200多处符文来增加生存者的力量! 更囊括了超过75平方公里的新生物群落, 新的挑战, 以及不可错过的景致与探险!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::2118878490",
-      "Source": "FJORDUR:\r\nExplore a magical Norse-inspired world, and travel to the legendary planes of Asgard, Jotunheim, and Vanaheim. Fjordur features four powerful new creatures for you to tame, including Andrewsarchus, Desmodus, Fjordhawk, and even Fenrir itself! Journey across over 75 square kilometers of new biomes, and face new challenges as you discover over 200 Runes to increase your Survivor's power!",
-      "Trans": {"SC":"一起来方舟探索这寒冷又严峻的北欧群岛吧! 前往阿斯加德, 约顿海姆和瓦纳海姆等平行世界! 此次的全新地图维京有着四种全新的生物供你收集! 通过发现200多处符文来增加生存者的力量! 更囊括了超过75平方公里的新生物群落, 新的挑战, 以及不可错过的景致与探险!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "Content::3106634666",
-      "Source": "Enter a mysterious simulation of a fantastical “Club” inspired by the worlds of ARK and beyond. As you put up your feet and hang-out, you can dive into a variety of ever-growing mini-games and missions, earning prizes, items and dinos that you can take back \"home\" with you!",
-      "Trans": {"SC":"进入一个充满奇妙色彩的仿真俱乐部, 这奇妙的 \"俱乐部\" 灵感来自方舟和其它世界。您可以沉浸在愉悦的氛围中放松身心, 享受悠闲时光的同时, 您也可以通过投身一系列精彩纷呈的小游戏和任务, 不断挑战自我, 积累积分, 赢取丰厚的奖励、珍稀物资以及恐龙伙伴, 并且你可以带着它们跟你 \"回家\" !","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::3260994849",
-      "Source": "CLUB ARK:\r\nEnter a mysterious simulation of a fantastical “Club” inspired by the worlds of ARK and beyond. As you put up your feet and hang-out, you can dive into a variety of ever-growing mini-games and missions, earning prizes, items and dinos that you can take back \"home\" with you!",
-      "Trans": {"SC":"进入一个充满奇妙色彩的仿真俱乐部, 这奇妙的 \"俱乐部\" 灵感来自方舟和其它世界。您可以沉浸在愉悦的氛围中放松身心, 享受悠闲时光的同时, 您也可以通过投身一系列精彩纷呈的小游戏和任务, 不断挑战自我, 积累积分, 赢取丰厚的奖励、珍稀物资以及恐龙伙伴, 并且你可以带着它们跟你 \"回家\" !","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
-      "NamespaceHash": "GraphLiteral::904789816",
-      "Source": "Discover Astraeos, a colossal ARK map steeped in Greek mythology. Explore 260km² of stunning landscapes, from ancient ruins and majestic marble cliffs to blossoming cherry groves. Face powerful new enemies and tame the Maeguana, a unique, Maewing-like creature found only on Astraeos!",
-      "Trans": {"SC":"一起来探索星耀这张以希腊神话为主题的大型方舟地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底, 从斑驳的古老遗迹, 到巍峨的大理石断崖, 再到樱花盛放的秘境森林。这里有着许多新内容等着你来挑战, 还有一只星耀地图独有且外形酷似鸭嘴飞鼠的神秘生物“风行蜥”正等待着你来驯服!","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //新地图说明
-    },
-    {
       "NamespaceHash": "Content::3043541945",
       "Source": "Dear Jane #1",
       "Trans": {"SC":"亲爱的简#1","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
     },
     {
       "NamespaceHash": "Content::2816306263",
       "Source": "Dear Jane #2",
       "Trans": {"SC":"亲爱的简#2","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
     },
     {
       "NamespaceHash": "Content::526453554",
       "Source": "Dear Jane #3",
       "Trans": {"SC":"亲爱的简#3","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
     },
     {
       "NamespaceHash": "Content::2192978827",
       "Source": "Dear Jane #4",
       "Trans": {"SC":"亲爱的简#4","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
     },
     {
       "NamespaceHash": "Content::973755630",
       "Source": "Dear Jane #5",
       "Trans": {"SC":"亲爱的简#5","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
     },
     {
       "NamespaceHash": "Content::683670272",
       "Source": "Dear Jane #6",
       "Trans": {"SC":"亲爱的简#6","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
     },
     {
       "NamespaceHash": "Content::2416155749",
       "Source": "Dear Jane #7",
       "Trans": {"SC":"亲爱的简#7","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-      //简-图鉴标题
     },
     {
       "NamespaceHash": "GraphLiteral::3071802939",
@@ -49810,14 +49843,14 @@
     {
       "NamespaceHash": "GraphLiteral::1764530057",
       "Source": "Flyer Carry",
-      "Trans": {"SC":"飞行宠抓物","JA":""},
+      "Trans": {"SC":"飞行宠抓取生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //创建
     },
     {
       "NamespaceHash": "3D8406A847A0898D16438FBAEBD4391A",
       "Source": "Flyer Carry",
-      "Trans": {"SC":"飞行宠抓物","JA":""},
+      "Trans": {"SC":"飞行宠抓取生物","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"1764530057"}
       //创建
     },
@@ -50181,7 +50214,7 @@
     {
       "NamespaceHash": "94AFDC1B436EBB0AC0C4BD998BD93BE8",
       "Source": "Harvest Health",
-      "Trans": {"SC":"资源数量","JA":""},
+      "Trans": {"SC":"资源耐久","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"4033538468"}
       //创建
     },
@@ -56715,7 +56748,7 @@
     {
       "NamespaceHash": "GraphLiteral::4084438060",
       "Source": "Cuffed: Reload Respawns",
-      "Trans": {"SC":"","JA":""},
+      "Trans": {"SC":"拷住: 重生后解除","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
       //未知情况-暂时不翻译; 可能和窃蛋龙有关.
     },
@@ -61468,7 +61501,7 @@
     {
       "NamespaceHash": "GraphLiteral::710217613",
       "Source": "MESSAGE  OF THE DAY",
-      "Trans": {"SC":"每日公告","JA":""},
+      "Trans": {"SC":"进服公告","JA":""}, //标记-特定翻译
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -68048,25 +68081,25 @@
     {
       "NamespaceHash": "GraphLiteral::3406759098",
       "Source": "\\n<RichColor Color=\"1, 1, 0, 1\">Find all Bob's Tall Tale Explorer Notes on Aberration for +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到畸变所有\"鲍勃的传奇故事\"笔记来 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到畸变所有 \"鲍勃的传奇故事\" 笔记来 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2037342309",
       "Source": "\\n<RichColor Color=\"1, 1, 0, 1\">Find all Bob's Tall Tale Explorer Notes on Scorched Earth for +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到焦土所有\"鲍勃的传奇故事\"笔记来 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到焦土所有 \"鲍勃的传奇故事\" 笔记来 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1241223607",
       "Source": "\\n<RichColor Color=\"1, 1, 1, 1\">All Bob's Tall Tale Explorer Notes from Aberration found +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">畸变所有\"鲍勃的传奇故事\"笔记已找到 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">畸变所有 \"鲍勃的传奇故事\" 笔记已找到 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::1515954362",
       "Source": "\\n<RichColor Color=\"1, 1, 1, 1\">All Bob's Tall Tale Explorer Notes from Scorched Earth found +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">焦土所有\"鲍勃的传奇故事\"笔记已找到 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">焦土所有 \"鲍勃的传奇故事\" 笔记已找到 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -72250,13 +72283,13 @@
     {
       "NamespaceHash": "GraphLiteral::2040208628",
       "Source": "\\n<RichColor Color=\"1, 1, 1, 1\">All Bob's Tall Tale Explorer Notes from Extinction found +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">灭绝所有\"鲍勃的传奇故事\"笔记已找到 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 1, 1\">灭绝所有 \"鲍勃的传奇故事\" 笔记已找到 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "GraphLiteral::2615009642",
       "Source": "\\n<RichColor Color=\"1, 1, 0, 1\">Find all Bob's Tall Tale Explorer Notes on Extinction for +5 Max Levels</>",
-      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到灭绝所有\"鲍勃的传奇故事\"笔记来 +5 等级上限</>","JA":""},
+      "Trans": {"SC":"\\n<RichColor Color=\"1, 1, 0, 1\">找到灭绝所有 \"鲍勃的传奇故事\" 笔记来 +5 等级上限</>","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -75640,8 +75673,260 @@
     {
       "NamespaceHash": "Content::3711030988",
       "Source": "This costume can be used to make your Giganotosaurus look as if it were corrupted...",
-      "Trans": {"SC":"这套装可以让你的南方巨兽龙看起来好像被腐化了了一样...","JA":""},
+      "Trans": {"SC":"这套装可以让你的南方巨兽龙看起来好像被腐化了一样...","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    }
+  ],
+  //地图介绍 - 2026-11-18 19:23:16
+  "MapIntroduction": [
+    {
+      "NamespaceHash": "GraphLiteral::1548549318",
+      "Source": "Embark on an epic odyssey with Astraeos, a colossal 260km² world steeped in Greek mythology! Majestic mountain ridges & marble cliffs meet pristine white beaches, and ancient ruins rise over sacred temples. Face powerful new enemies and gigantic new mythical bosses, and tame unique creatures found only on Astraeos: the nimble Maeguana, the Grand Tortugar, and the fiery Boratos! Sail the new physical seas upon Triremes, confront enemy fleets and the gargantuan Kraken itself! Will you bow to fate, or rise in defiance of Olympus?",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //Boratos
+      //Boaratos
+      //GraphLiteral::4070555597
+      //Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!
+      //一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!
+      //后续再翻译吧, 最近比较忙0.0
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4070555597",
+      "Source": "Discover Astraeos, a colossal 260km² map steeped in Greek mythology. Explore stunning landscapes, from majestic marble cliffs and blossoming cherry groves to the scorching, shifting sands of the new Pyranthos desert. Face powerful new enemies, and tame unique creatures found only on Astraeos, from the nimble Maeguana and the Grand Tortugar, a massive amphibious living fortress!",
+      "Trans": {"SC":"一起来探索星耀这张以希腊神话为主题的广袤地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底: 从巍峨的大理石断崖, 到樱花盛放的秘境森林, 再到以“火之花”为名的皮兰索斯炽热沙漠。在这里, 有着全新强敌等你来挑战, 更有地图专属生物 —— 迅疾如风的“风行蜥”以及体型超大、水陆两栖、宛如移动堡垒的“巨甲龟”正等待你来驯服!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //有点费脑子😣
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3000049680",
+      "Source": "Awaken in a virtual simulation with your robotic companion to survive new exotic worlds! Genesis Ascended introduces a massive ocean biome featuring overhauled water physics, dynamic waves, and epic maritime warfare. Master the Palaeoctopus: a cliff-climbing cephalopod that crushes dual targets and supplies limitless colored ink!",
+      "Trans": {"SC":"在创世模拟中醒来, 身旁是一位奇怪又熟悉的机械伙伴。你需要完成一系列严苛任务, 在数个前所未见、与过往截然不同的异域世界中努力生存! «创世飞升»带来了辽阔的海洋生态群系, 全面重制水体物理效果与动态海浪系统, 并加入史诗级海战玩法。驯服并驾驭古蛸 —— 这种能够攀爬峭壁的头足类生物, 可同时碾碎两个目标, 还能持续产出彩色墨汁。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
+    {
+      "NamespaceHash": "GraphLiteral::22664315",
+      "Source": "A desperate voice calls out to you from across the galaxy... long ago you helped her restored life to the extinct Earth, and now she needs your skills once more. She seeks the engram Codex, hidden in a lost kingdom at the end of the world: Arat Prime. Discover the dark secrets of this forlorn place as you master arcane skills, tame strange cryptofauna, cloaking yourself in powerful accursed gear. Survive its challenges & assemble an army of Thralls, as you seek to dethrone the Lost King and change the fate of the future!",
+      "Trans": {"SC":"一声绝望的呼喊自银河彼端向你传来...很久以前, 你曾帮助她让死寂的地球重获生机, 如今她再度需要你发挥专长。她追寻着印痕元码, 它被藏匿在世界尽头的失落之国 —— 阿拉特·源域。探索这片荒凉之地潜藏的黑暗秘密, 掌握玄奇的技艺, 驯服奇幻的异兽, 用强大的咒缚装备武装自己。在重重挑战中生存, 集结血仆大军, 废黜失落之王, 改写未来的命运!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //失落之地地图介绍
+    },
+    {
+      "NamespaceHash": "Content::4033455826",
+      "Source": "As a man or woman stranded naked, freezing & starving on a mysterious island, you must hunt, harvest, craft items, grow crops, and build shelters to survive. Use skill and cunning to kill, tame, breed, and ride dinosaurs & primeval creatures. Master your environment and explore the hidden depths to uncover ARK's secrets!",
+      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并掌握这片土地的生存之道, 深入探索这座岛屿, 揭开方舟的秘密!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1873623764",
+      "Source": "THE ISLAND:\r\nAs a man or woman stranded naked, freezing & starving on a mysterious island, you must hunt, harvest, craft items, grow crops, and build shelters to survive. Use skill and cunning to kill, tame, breed, and ride dinosaurs & primeval creatures. Master your environment and explore the hidden depths to uncover ARK's secrets!",
+      "Trans": {"SC":"你孤身一人苏醒在空旷的海岸边, 身无寸缕, 饥寒交迫。面前的这座岛屿环境原始, 危机四伏, 你必须尽快学会狩猎采集资源、制作物品、种植庄稼以及建造栖身之处, 从而让自己更好地生存下去。同时, 你也可以运用技巧和智慧去击杀或驯养、繁育、骑乘那些生活在这片岛屿上的史前巨兽。活下来并掌握这片土地的生存之道, 深入探索这座岛屿, 揭开方舟的秘密!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::3085151063",
+      "Source": "The Center is a massive new map for survivors to explore, nearly double the size of the playable geography of the Island landscape making it about 70 sq. kilometers. The Center complements the current ARK biomes with a rich, hand-drawn Tolkien-esque aesthetic. Filled with stunning lighting effects, lava rivers, giant picturesque mountains, misty floating islands, ancient underground ice caves, and more!",
+      "Trans": {"SC":"这是一张有着巨大可探索面积的新地图, 其可探索地域的面积之广, 几乎是孤岛的两倍, 约70平方公里。中心岛以其丰富多彩, 充满手绘 \"托尔金美学\" 的元素, 为方舟现有生态系统增添了美学的深度。这里充满了令人叹为观止的光影效果, 蜿蜒流淌的熔岩河流, 风景如画的巨大山脉, 云遮雾绕的浮空岛屿, 古老深幽的地下冰洞, 等多种美景!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3639834756",
+      "Source": "THE CENTER:\r\nThe Center is a massive new map for survivors to explore, nearly double the size of the playable geography of the Island landscape making it about 70 sq. kilometers. The Center complements the current ARK biomes with a rich, hand-drawn Tolkien-esque aesthetic. Filled with stunning lighting effects, lava rivers, giant picturesque mountains, misty floating islands, ancient underground ice caves, and more!",
+      "Trans": {"SC":"这是一张有着巨大可探索面积的新地图, 其可探索地域的面积之广, 几乎是孤岛的两倍, 约70平方公里。中心岛以其丰富多彩, 充满手绘 \"托尔金美学\" 的元素, 为方舟现有生态系统增添了美学的深度。这里充满了令人叹为观止的光影效果, 蜿蜒流淌的熔岩河流, 风景如画的巨大山脉, 云遮雾绕的浮空岛屿, 古老深幽的地下冰洞, 等多种美景!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::2103755951",
+      "Source": "Put your survival skills to the test as you find yourself stranded naked, dehydrated & starving in a vast desert. Even the most seasoned ARK survivors must quickly find water, hunt for food, harvest, craft items, and build shelter to have any chance for survival. Use skills honed on ARK's Island to kill, tame, breed, and ride the fantastical new creatures that have evolved to survive the Desert's ultra harsh conditions, including... DRAGONS!",
+      "Trans": {"SC":"周遭的一切都将会是考验你的生存技巧, 你身无寸缕地被困在一片广袤的沙漠之中, 又饥又渴, 即便是最老练的生存者, 想要存活下来就必须迅速找到水源寻得食物、采集资源、制作物品并且搭建栖身之所。用从遥远的孤岛上磨炼出的技能来击杀或驯养、繁育、骑乘这些在沙漠超严苛条件下进化求存的神秘新生物, 其中包括...飞龙!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2857050577",
+      "Source": "SCORCHED EARTH:\r\nPut your survival skills to the test as you find yourself stranded naked, dehydrated & starving in a vast desert. Even the most seasoned ARK survivors must quickly find water, hunt for food, harvest, craft items, and build shelter to have any chance for survival. Use skills honed on ARK's Island to kill, tame, breed, and ride the fantastical new creatures that have evolved to survive the Desert's ultra harsh conditions, including... DRAGONS!",
+      "Trans": {"SC":"周遭的一切都将会是考验你的生存技巧, 你身无寸缕地被困在一片广袤的沙漠之中, 又饥又渴, 即便是最老练的生存者, 想要存活下来就必须迅速找到水源寻得食物、采集资源、制作物品并且搭建栖身之所。用从遥远的孤岛上磨炼出的技能来击杀或驯养、繁育、骑乘这些在沙漠超严苛条件下进化求存的神秘新生物, 其中包括...飞龙!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::1732919087",
+      "Source": "Journey through an expansive 144 sq. kilometer fantasty highland, where common and all-new biomes are combined to bring the ultimate survivor experience. Whether tackling the extreme cold atop the highest mountains, harvesting resources from an active volcano, or just searching for that perfect base location, Ragnarok plays host to explorers and base builders alike. But survivors beware, Ragnarok houses such creatures as Polar Bears, Ice Wyverns, and a mystical creature many have yet to tame in the ARK universe.",
+      "Trans": {"SC":"踏上这144平方公里广袤天地的旅程, 这里融合了多个生物群, 为你的旅程带来一场极致的体验。无论是在山峰抵御寒冷, 在火山中采集资源, 还是寻找完美的建家位置, 仙境都是探险者和建造爱好者的大本营。不过要切记, 北极熊以及寒冰飞龙都居住此地, 甚至有许多在方舟宇宙中尚未被驯服的神秘生物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::4272949926",
+      "Source": "RAGNAROK:\r\nJourney through an expansive 144 sq. kilometer fantasty highland, where common and all-new biomes are combined to bring the ultimate survivor experience. Whether tackling the extreme cold atop the highest mountains, harvesting resources from an active volcano, or just searching for that perfect base location, Ragnarok plays host to explorers and base builders alike. But survivors beware, Ragnarok houses such creatures as Polar Bears, Ice Wyverns, and a mystical creature many have yet to tame in the ARK universe.",
+      "Trans": {"SC":"踏上这144平方公里广袤天地的旅程, 这里融合了多个生物群, 为你的旅程带来一场极致的体验。无论是在山峰抵御寒冷, 在火山中采集资源, 还是寻找完美的建家位置, 仙境都是探险者和建造爱好者的大本营。不过要切记, 北极熊以及寒冰飞龙都居住此地, 甚至有许多在方舟宇宙中尚未被驯服的神秘生物。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::2010010883",
+      "Source": "Explore new heights and hidden depths; whether it’s creating your foundations in the White Cliffs or unearthing the secrets of the Aberration Trench, Valguero offers a new experience in the ARK universe. With new biomes, challenging dungeon bosses, and mysterious ruins to discover, there’s always something exciting — and dangerous — on Valguero.",
+      "Trans": {"SC":"来探索这里的角角落落吧。无论是在白色峭壁中建立你的基地, 或是发掘异变海沟中的秘密, 瓦尔盖罗给方舟世界带来了全新的体验。这里拥有新的生态圈、富有挑战性的最终BOSS以及神秘的废墟等待着你的探索。瓦尔盖罗, 一个充满着刺激和危险的神奇世界。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::628308952",
+      "Source": "VALGUERO:\r\nExplore new heights and hidden depths; whether it’s creating your foundations in the White Cliffs or unearthing the secrets of the Aberration Trench, Valguero offers a new experience in the ARK universe. With new biomes, challenging dungeon bosses, and mysterious ruins to discover, there’s always something exciting — and dangerous — on Valguero.",
+      "Trans": {"SC":"来探索这里的角角落落吧。无论是在白色峭壁中建立你的基地, 或是发掘异变海沟中的秘密, 瓦尔盖罗给方舟世界带来了全新的体验。这里拥有新的生态圈、富有挑战性的最终BOSS以及神秘的废墟等待着你的探索。瓦尔盖罗, 一个充满着刺激和危险的神奇世界。","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::3513156799",
+      "Source": "Waking up on Aberration, a derelict, malfunctioning ARK with an elaborate underground biome system, survivors face exotic new challenges unlike anything before: extreme radioactive sunlight and environmental hazards, ziplines, wingsuits, climbing gear, cave dwellings, charge-batteries, and far more, along with a stable of extraordinary new creatures await within the mysterious depths. But beware the 'Nameless': unrelenting, Element-infused humanoids which have evolved into vicious light-hating monstrosities! On Aberration, survivors will uncover the ultimate secrets of the ARKs, and discover what the future holds in store for those strong and clever enough to survive!",
+      "Trans": {"SC":"这是一个因故障而被废弃的方舟。在畸变的地下世界中醒来, 在这里面临异乎寻常的挑战: 极端日照辐射和环境灾害、滑索、滑翔翼、登山镐、穴居生物、蓄电池等等。神秘的深渊里还有各种非凡的新物种等待人们的发现。但是要特别小心 “无名怪” , 这是一种被元素腐蚀且畏光的类人生物! 在畸变的世界中, 只有最坚强聪明的生存者才能发现方舟的终极秘密!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::5209468",
+      "Source": "ABERRATION:\r\nWaking up on Aberration, a derelict, malfunctioning ARK with an elaborate underground biome system, survivors face exotic new challenges unlike anything before: extreme radioactive sunlight and environmental hazards, ziplines, wingsuits, climbing gear, cave dwellings, charge-batteries, and far more, along with a stable of extraordinary new creatures await within the mysterious depths. But beware the 'Nameless': unrelenting, Element-infused humanoids which have evolved into vicious light-hating monstrosities! On Aberration, survivors will uncover the ultimate secrets of the ARKs, and discover what the future holds in store for those strong and clever enough to survive!",
+      "Trans": {"SC":"这是一个因故障而被废弃的方舟。在畸变的地下世界中醒来, 在这里面临异乎寻常的挑战: 极端日照辐射和环境灾害、滑索、滑翔翼、登山镐、穴居生物、蓄电池等等。神秘的深渊里还有各种非凡的新物种等待人们的发现。但是要特别小心 “无名怪” , 这是一种被元素腐蚀且畏光的类人生物! 在畸变的世界中, 只有最坚强聪明的生存者才能发现方舟的终极秘密!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::1246458858",
+      "Source": "Finish your journey through the worlds of ARK in Extinction, where the story began and ends: on Earth itself! An Element-infested, ravaged planet filled with fantastical creatures both organic & technological, Earth holds both the secrets of the past and the keys to its salvation. As a veteran Survivor who has conquered all previous obstacles, your ultimate challenge awaits: can you defeat the gigantic roaming Titans which dominate the planet, and complete the ARK cycle to save Earth's future?",
+      "Trans": {"SC":"你将回到地球, 在这\"灭绝\"的世界中迎来旅程的终点, 因为这里正是一切方舟故事的起源与终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你是否有能力击败肆虐地球的巨型泰坦, 完成方舟计划的最后一环, 最终拯救地球的未来?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::1338204075",
+      "Source": "EXTINCTION\r\nFinish your journey through the worlds of ARK in Extinction, where the story began and ends: on Earth itself! An Element-infested, ravaged planet filled with fantastical creatures both organic & technological, Earth holds both the secrets of the past and the keys to its salvation. As a veteran Survivor who has conquered all previous obstacles, your ultimate challenge awaits: can you defeat the gigantic roaming Titans which dominate the planet, and complete the ARK cycle to save Earth's future?",
+      "Trans": {"SC":"你将回到地球, 在这\"灭绝\"的世界中迎来旅程的终点, 因为这里正是一切方舟故事的起源与终焉! 地球, 现在是一颗元素泛滥、饱受蹂躏、遍布科技生物和奇异有机体的星球。作为身经百战的精英生存者, 面前摆着一个终极挑战: 你是否有能力击败肆虐地球的巨型泰坦, 完成方舟计划的最后一环, 最终拯救地球的未来?","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::2089050258",
+      "Source": "Continue your quest for ultimate survival and unlock a whole new chapter in the saga of ARK: Survival Evolved! Waking up inside a virtual simulation, with a strangely familiar robotic companion, you must overcome rigorous missions to survive across multiple exotic worlds unlike anything you've seen before!",
+      "Trans": {"SC":"继续你对终极生存的追求之路, 并在 \"方舟:生存飞升\" 开启一个全新的篇章! 你在一个虚拟模拟中醒来, 身边是一位奇怪而熟悉的机械伙伴。你必须完成严苛的任务, 以求在数个前所未见的异域世界中生存, 这些地方与你以往所见完全不同!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::933755097",
+      "Source": "GENESIS: PART 1\r\nContinue your quest for ultimate survival and unlock a whole new chapter in the saga of ARK: Survival Evolved! Waking up inside a virtual simulation, with a strangely familiar robotic companion, you must overcome rigorous missions to survive across multiple exotic worlds unlike anything you've seen before!",
+      "Trans": {"SC":"继续你对终极生存的追求之路, 并在 \"方舟:生存飞升\" 开启一个全新的篇章! 你在一个虚拟模拟中醒来, 身边是一位奇怪而熟悉的机械伙伴。你必须完成严苛的任务, 以求在数个前所未见的异域世界中生存, 这些地方与你以往所见完全不同!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::2304267519",
+      "Source": "Complete the eons-spanning story of ARK: Survival Evolved! Everything that your tribe has built, tamed, and fought for has led to this final challenge. With your faithful artificial companion HLN-A by your side, you’ve emerged from the Genesis simulation to find yourself aboard a gigantic starship being overtaken by a familiar threat from the distant past. Humanity’s future is in your hands, Survivor -- one last time!",
+      "Trans": {"SC":"完成这场 \"方舟生存:飞升\" 中跨时代的故事! 一直以来你所建立的部落, 所驯服的生物和为之奋斗的一切都是为了这一最终挑战。在你忠实的伙伴HLN-A的陪伴下, 你成功从创世模拟中走了出来, 发现自己身处一艘巨大的宇宙飞船上, 一个来自遥远的过去的你所熟悉的威胁正在降临。人类的未来掌握在你手中, 生存者! 最后一战!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3953188457",
+      "Source": "GENESIS: PART 2\r\nComplete the eons-spanning story of ARK: Survival Evolved! Everything that your tribe has built, tamed, and fought for has led to this final challenge. With your faithful artificial companion HLN-A by your side, you’ve emerged from the Genesis simulation to find yourself aboard a gigantic starship being overtaken by a familiar threat from the distant past. Humanity’s future is in your hands, Survivor -- one last time!",
+      "Trans": {"SC":"完成这场 \"方舟生存:飞升\" 中跨时代的故事! 一直以来你所建立的部落, 所驯服的生物和为之奋斗的一切都是为了这一最终挑战。在你忠实的伙伴HLN-A的陪伴下, 你成功从创世模拟中走了出来, 发现自己身处一艘巨大的宇宙飞船上, 一个来自遥远的过去的你所熟悉的威胁正在降临。人类的未来掌握在你手中, 生存者! 最后一战!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::511930998",
+      "Source": "This ARK has been dynamically generated, for a unique, custom experience!",
+      "Trans": {"SC":"这座方舟是随机生成的, 可为你提供一种独一无二, 定制化的体验!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3144997537",
+      "Source": "PROCEDURAL ARK:\r\nThis ARK has been dynamically generated, for a unique, custom experience!",
+      "Trans": {"SC":"随机生成方舟: \r\n这座方舟是随机生成的, 可为你提供一种独一无二, 定制化的体验!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::2423112757",
+      "Source": "This is a user-created ARK!",
+      "Trans": {"SC":"这是一座由用户创建的方舟!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2627230169",
+      "Source": "CUSTOM ARK:\r\nThis is a user-created ARK!",
+      "Trans": {"SC":"自定义方舟:\r\n这是一座由用户创建的方舟!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::326932360",
+      "Source": "A community classic ARK map returns, updated for the Official Server networks! Crystal Isles is 150 square kilometers of awe-inspiring biomes… Build bases high in forest canopy and floating islands, and tame your own Tropeognathus to ride into aerial combat!",
+      "Trans": {"SC":"一张深受广大玩家喜爱的经典的方舟地图在官方服务器回归了! 水晶岛占地150平方公里, 有着令人敬畏的生物群落...在森林的树冠上和浮动的岛屿上建立基地, 并驯服属于你自己的全新脊颌翼龙 -- 骑着它在空中进行战斗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2047086560",
+      "Source": "CRYSTAL ISLES:\r\nA community classic ARK map returns, updated for the Official Server networks! Crystal Isles is 150 square kilometers of awe-inspiring biomes… Build bases high in forest canopy and floating islands, and tame your own Tropeognathus to ride into aerial combat!",
+      "Trans": {"SC":"一张深受广大玩家喜爱的经典的方舟地图在官方服务器回归了! 水晶岛占地150平方公里, 有着令人敬畏的生物群落...在森林的树冠上和浮动的岛屿上建立基地, 并驯服属于你自己的全新脊颌翼龙 -- 骑着它在空中进行战斗!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::225923269",
+      "Source": "Explore the soaring heights and hidden depths of Lost Island, featuring three powerful new creatures for you to tame. Discover jungle valleys fed by giant waterfalls, build a treehouse high in the forest canopies, get down and dirty in vast mangrove swamps, dive deep underwater, brave treacherous snowy peaks, or spelunk uncharted cave systems in search of treasure... whichever way you go, wild adventure awaits!",
+      "Trans": {"SC":"探索迷失岛霄汉的高空以及深邃的低谷吧! 三种强大的全新的生物可供你驯服! 快来发现由巨大瀑布滋养的丛林山谷, 在高大的森林树冠上建造树屋, 在红树林沼泽里跌打翻滚, 在清凉的水下深潜, 勇敢地挑战险峻的雪峰, 又或是在未知的洞穴中寻宝...总会有一款适合你!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3948051391",
+      "Source": "LOST ISLAND:\r\nExplore the soaring heights and hidden depths of Lost Island, featuring three powerful new creatures for you to tame. Discover jungle valleys fed by giant waterfalls, build a treehouse high in the forest canopies, get down and dirty in vast mangrove swamps, dive deep underwater, brave treacherous snowy peaks, or spelunk uncharted cave systems in search of treasure... whichever way you go, wild adventure awaits!",
+      "Trans": {"SC":"探索迷失岛霄汉的高空以及深邃的低谷吧! 三种强大的全新的生物可供你驯服! 快来发现由巨大瀑布滋养的丛林山谷, 在高大的森林树冠上建造树屋, 在红树林沼泽里跌打翻滚, 在清凉的水下深潜, 勇敢地挑战险峻的雪峰, 又或是在未知的洞穴中寻宝...总会有一款适合你!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::2895813347",
+      "Source": "Explore a magical Norse-inspired world, and travel to the legendary planes of Asgard, Jotunheim, and Vanaheim. Fjordur features four powerful new creatures for you to tame, including Andrewsarchus, Desmodus, Fjordhawk, and even Fenrir itself! Journey across over 75 square kilometers of new biomes, and face new challenges as you discover over 200 Runes to increase your Survivor's power!",
+      "Trans": {"SC":"一起来方舟探索这寒冷又严峻的北欧群岛吧! 前往阿斯加德, 约顿海姆和瓦纳海姆等平行世界! 此次的全新地图维京有着四种全新的生物供你收集! 通过发现200多处符文来增加生存者的力量! 更囊括了超过75平方公里的新生物群落, 新的挑战, 以及不可错过的景致与探险!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::2118878490",
+      "Source": "FJORDUR:\r\nExplore a magical Norse-inspired world, and travel to the legendary planes of Asgard, Jotunheim, and Vanaheim. Fjordur features four powerful new creatures for you to tame, including Andrewsarchus, Desmodus, Fjordhawk, and even Fenrir itself! Journey across over 75 square kilometers of new biomes, and face new challenges as you discover over 200 Runes to increase your Survivor's power!",
+      "Trans": {"SC":"一起来方舟探索这寒冷又严峻的北欧群岛吧! 前往阿斯加德, 约顿海姆和瓦纳海姆等平行世界! 此次的全新地图维京有着四种全新的生物供你收集! 通过发现200多处符文来增加生存者的力量! 更囊括了超过75平方公里的新生物群落, 新的挑战, 以及不可错过的景致与探险!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "Content::3106634666",
+      "Source": "Enter a mysterious simulation of a fantastical “Club” inspired by the worlds of ARK and beyond. As you put up your feet and hang-out, you can dive into a variety of ever-growing mini-games and missions, earning prizes, items and dinos that you can take back \"home\" with you!",
+      "Trans": {"SC":"进入一个充满奇妙色彩的仿真俱乐部, 这奇妙的 \"俱乐部\" 灵感来自方舟和其它世界。您可以沉浸在愉悦的氛围中放松身心, 享受悠闲时光的同时, 您也可以通过投身一系列精彩纷呈的小游戏和任务, 不断挑战自我, 积累积分, 赢取丰厚的奖励、珍稀物资以及恐龙伙伴, 并且你可以带着它们跟你 \"回家\" !","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::3260994849",
+      "Source": "CLUB ARK:\r\nEnter a mysterious simulation of a fantastical “Club” inspired by the worlds of ARK and beyond. As you put up your feet and hang-out, you can dive into a variety of ever-growing mini-games and missions, earning prizes, items and dinos that you can take back \"home\" with you!",
+      "Trans": {"SC":"进入一个充满奇妙色彩的仿真俱乐部, 这奇妙的 \"俱乐部\" 灵感来自方舟和其它世界。您可以沉浸在愉悦的氛围中放松身心, 享受悠闲时光的同时, 您也可以通过投身一系列精彩纷呈的小游戏和任务, 不断挑战自我, 积累积分, 赢取丰厚的奖励、珍稀物资以及恐龙伙伴, 并且你可以带着它们跟你 \"回家\" !","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
+    },
+    {
+      "NamespaceHash": "GraphLiteral::904789816",
+      "Source": "Discover Astraeos, a colossal ARK map steeped in Greek mythology. Explore 260km² of stunning landscapes, from ancient ruins and majestic marble cliffs to blossoming cherry groves. Face powerful new enemies and tame the Maeguana, a unique, Maewing-like creature found only on Astraeos!",
+      "Trans": {"SC":"一起来探索星耀这张以希腊神话为主题的大型方舟地图吧! 踏上这片260km²的土地, 将这壮丽景观尽收眼底, 从斑驳的古老遗迹, 到巍峨的大理石断崖, 再到樱花盛放的秘境森林。这里有着许多新内容等着你来挑战, 还有一只星耀地图独有且外形酷似鸭嘴飞鼠的神秘生物“风行蜥”正等待着你来驯服!","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //新地图说明
     }
   ],
   //骨架物品, 可能后续要删除 - 2026-09-05 10:21:23
@@ -76118,7 +76403,7 @@
     {
       "NamespaceHash": "Content::223443945",
       "Source": "Titanoboa",
-      "Trans": {"SC":"泰坦蚺","JA":""}, //原: 泰坦巨蟒 //ja蟒是字库缺失的妥协.
+      "Trans": {"SC":"泰坦蚺","JA":""}, //原: 泰坦巨蟒
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -76254,13 +76539,13 @@
     {
       "NamespaceHash": "Content::750525170",
       "Source": "Dilophosaur",
-      "Trans": {"SC":"双嵴龙","JA":""}, //脊是错误的, 繁体没有嵴, 因此使用脊来代替
+      "Trans": {"SC":"双嵴龙","JA":""}, //脊是错误的
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4022439507",
       "Source": "Dilophosaurus",
-      "Trans": {"SC":"双嵴龙","JA":""}, //脊是错误的, 繁体没有嵴, 因此使用脊来代替
+      "Trans": {"SC":"双嵴龙","JA":""}, //脊是错误的
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -76326,7 +76611,7 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     }
   ],
-  //生物图鉴 - 2026-11-07 16:53:54
+  //生物图鉴 - 2026-11-18 04:37:10
   "CreatureDossier": [
     {
       "NamespaceHash": "GraphLiteral::4253052168",
@@ -76335,8 +76620,8 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "GraphLiteral::2975294834",
-      "Source": "{\r\n      \"NamespaceHash\": \"GraphLiteral::1613885087\",\r\n      \"Source\": \"Common Name: Veilwyn\r\nSpecies: Vulpes frigus\r\nTime: Necrocene\r\nDiet: Omnivore\r\nTemperament: Affectionately Playful\r\n\r\nOverview\r\nThe Turning of our people has gifted us with longevity, great strength, and freedom from starvation. Maintaining the loyalty of our thralls and the obedience of the clones they police for us may require something more than brute intimidation. To this end, I find myself weighing the potential of mutated local wildlife like the Veilwyn. In these early days of our kingdom, an animal companion capable of comforting and protecting our people through the long Antarctic night might also have an inspirational value.\r\n\r\nApplications\r\nThis playful vulpine beast has many unlikely but uncannily useful talents. One can't help but admire a Veilwyn's ability to generate localized wormholes through which to summon a pack of friends that will help protect its master. And even in more peaceful times, these seemingly friendly foxes could subdue would-be predators with their cryogenic bite.\r\n\r\nI may consider pairing my most trusted servants with Veilwyn companions. Perhaps even a thrall deserves the unwavering fidelity of a valiant familiar. This creature could yet become the symbol of my benevolence that elicits the veneration of my vassals. And in this dark tomorrow, their unwavering devotion could serve to remind us all of the humanity we had to set aside in order to survive.\r\n\",\r\n      \"Trans\": { \"SC\": \"\", \"JA\": \"\" },\r\n      \"Config\": { \"Item\": false, \"Dino\": false, \"Default_Hash\": \"\" }\r\n    },",
+      "NamespaceHash": "GraphLiteral::1613885087",
+      "Source": "Common Name: Veilwyn\r\nSpecies: Vulpes frigus\r\nTime: Necrocene\r\nDiet: Omnivore\r\nTemperament: Affectionately Playful\r\n\r\nOverview\r\nThe Turning of our people has gifted us with longevity, great strength, and freedom from starvation. Maintaining the loyalty of our thralls and the obedience of the clones they police for us may require something more than brute intimidation. To this end, I find myself weighing the potential of mutated local wildlife like the Veilwyn. In these early days of our kingdom, an animal companion capable of comforting and protecting our people through the long Antarctic night might also have an inspirational value.\r\n\r\nApplications\r\nThis playful vulpine beast has many unlikely but uncannily useful talents. One can't help but admire a Veilwyn's ability to generate localized wormholes through which to summon a pack of friends that will help protect its master. And even in more peaceful times, these seemingly friendly foxes could subdue would-be predators with their cryogenic bite.\r\n\r\nI may consider pairing my most trusted servants with Veilwyn companions. Perhaps even a thrall deserves the unwavering fidelity of a valiant familiar. This creature could yet become the symbol of my benevolence that elicits the veneration of my vassals. And in this dark tomorrow, their unwavering devotion could serve to remind us all of the humanity we had to set aside in order to survive.\r\n",
       "Trans": {"SC":"","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
@@ -76688,6 +76973,7 @@
       "Source": "Common name:\nParasaur\nSpecies: Parasaurolophus amphibio\nTime: Late Cretaceous\nDiet: Herbivore\nTemperament: Skittish\n\nWild\nParasaurolophus amphibio has one of the more interesting adaptations of any creature I've seen on the Island. Like all Parasaur, it has a signature crest on its head. Very docile at first, I've been able to approach the creature without disturbing it. If startled, however, the creature can vocalize a distress call to the surrounding area that warns of danger.\n\nParasaurolophus appears to be low on the food chain and is hunted by everything, creatures and humans alike, which explains its skittish nature. It is a good source of meat and hide, if you can manage to keep up with it long enough to kill it.\n\nDomesticated\nDespite being what most tribes consider a relatively useless creature to tame, I once met an interesting woman who had tamed an entire herd of them. She informed me that many overlooked the creature's potential. She even graciously gifted me a fancy saddle to put on my own Parasaurolophus one day.\n\nAs a relatively simple creature to domesticate, Parasaurolophus is commonly one of the first mounts a tribe will be able to acquire. Its ability to run relatively fast for lengthy intervals makes it a solid mode of medium-range transportation, though it has almost no ability to defend itself or its rider in a traditional sense. Smaller creatures, however, appear to be frightened by the horn of Parasaurolophus although it doesn't do much damage.  It also has decent weight-bearing capabilities, which could prove useful for nomadic tribes as they work to establish a presence on the Island.",
       "Trans": {"SC":"通用名称: 副栉龙\r\n拉丁学名: Parasaurolophus amphibio\r\n正式名称: 两栖副栉龙\r\n时代: 晚白垩纪\r\n食性: 植食\r\n性情: 易受惊\r\n\r\n\r\n野生\r\n我在岛上见过的许多生物中, 两栖副栉龙有一些很有趣的适应性特征。像所有副栉龙一样, 两栖副栉龙也长有标志性的冠状嵴。\r\n刚开始它十分温顺, 因此我能在不打扰它的情况下接近它。然而, 一旦受到惊吓, 副栉龙就会发出警示信号扩散到周边地区, 警告危险靠近。\r\n副栉龙位于食物链的底层, 这里的一切生物都想杀掉它, 不管是人类还是动物, 这也说明副栉龙天性容易受惊。所以副栉龙就是皮革和鲜肉的绝佳来源, 只要你能追上它并杀死它。\r\n\r\n\r\n家养\r\n大多数部落的人都认为副栉龙是可以驯服的生物中最没用的一种。但我曾认识一个有趣的女士, 她就驯了一群副栉龙。她认为许多人忽视了这个物种的潜力, 有一天她甚至还为我的副栉龙做了一个做工精致的鞍。\r\n作为一种相对简单的驯化生物, 副栉龙通常是许多部落获得的第一个坐骑。它能持久地长距离奔跑, 使它成为了有用的驮畜, 尽管它几乎无力保护自己自己和骑手。\r\n然而, 一些小动物会被副栉龙的号角般的鸣叫吓跑, 尽管它不会造成任何伤害。副栉龙的负重能力也很强, 对于游牧部落来说非常有益, 这也是副栉龙在岛上证明自己存在价值的方式。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+      //实在不理解为什么用amphibio；WIKI: The species name of the Parasaurolophus on the ARK, 'amphibio', is in reference to the species affinity for water?
     },
     {
       "NamespaceHash": "Content::1128533904",
@@ -77405,8 +77691,14 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
-  //2026-11-11 17:50:08
+  //2026-11-11 18:10:53
   "Var": [
+    {
+      "NamespaceHash": "GraphLiteral::1003214290",
+      "Source": "Empty",
+      "Trans": {"SC":"","JA":""},
+      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
+    },
     {
       "NamespaceHash": "GraphLiteral::3564918286",
       "Source": "Bite",
@@ -79589,7 +79881,7 @@
     {
       "NamespaceHash": "DT_Milestones_ToF::648718057",
       "Source": "Craft 1 Shipyard",
-      "Trans": {"SC":"制作1个船坞","JA":""},
+      "Trans": {"SC":"制作 1 个船坞","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
@@ -89346,7 +89638,7 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     }
   ],
-  // 繁体AtoB - 2026-02-17 02:00:21
+  // 繁体AtoB - 2026-11-11 18:18:47
   "TC_A2B": [
     {
       "退出登錄": "登出",
@@ -89358,7 +89650,7 @@
       "胡蘿卜": "胡蘿蔔",
       "采": "採",
       "幾率": "機率",
-      "圣": " 聖",
+      "圣": "聖",
       "尸": "屍",
       "于": "於",
       "并": "並",
