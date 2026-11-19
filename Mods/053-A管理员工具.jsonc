@@ -2109,18 +2109,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::2275793061",
-      "Source": "Tools",
-      "Trans": {"SC":"工具","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::905481885",
-      "Source": "Fly",
-      "Trans": {"SC":"飞行","JA":""}, //不建议翻译.
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::226483457",
       "Source": "Ghost",
       "Trans": {"SC":"隐身","JA":""},

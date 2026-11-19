@@ -282,12 +282,6 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::4131684384",
-      "Source": "Trireme",
-      "Trans": {"SC":"三列桨战船","JA":"三列桨戰船"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1202186210",
       "Source": "Astraeos Boots",
       "Trans": {"SC":"星耀战靴","JA":""},

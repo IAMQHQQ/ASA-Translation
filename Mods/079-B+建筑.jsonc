@@ -5899,12 +5899,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::1739241745",
-      "Source": "Bones",
-      "Trans": {"SC":"骨架","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::1373824443",
       "Source": "Players Only",
       "Trans": {"SC":"仅玩家","JA":""},
@@ -7386,24 +7380,6 @@
       "Source": " Consolidate Blacklist",
       "Trans": {"SC":"整合黑名单","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":"156543381"}
-    },
-    {
-      "NamespaceHash": "Content::4079385560",
-      "Source": "Cryo",
-      "Trans": {"SC":"低温舱","JA":""},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
-      "NamespaceHash": "Content::971907003",
-      "Source": "Female",
-      "Trans": { "SC": "母", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
-    },
-    {
-      "NamespaceHash": "Content::4089736532",
-      "Source": "Male",
-      "Trans": { "SC": "公", "JA": "" },
-      "Config": { "Item": false, "Dino": false, "Default_Hash": "" }
     },
     {
       "NamespaceHash": "Content::1948443821",
