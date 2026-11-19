@@ -429,7 +429,7 @@
     {
       "NamespaceHash": "Content::865375677",
       "Source": "Ancient Apatosaurus",
-      "Trans": {"SC":"远古雷龙","JA":"遠古雷龙"},
+      "Trans": {"SC":"远古迷惑龙","JA":"遠古迷惑龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -1353,7 +1353,7 @@
     {
       "NamespaceHash": "Content::199550554",
       "Source": "Apatosaurus",
-      "Trans": {"SC":"雷龙","JA":""},
+      "Trans": {"SC":"迷惑龙","JA":""},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -1365,7 +1365,7 @@
     {
       "NamespaceHash": "Content::3076999531",
       "Source": "Champion Apatosaurus",
-      "Trans": {"SC":"冠军雷龙","JA":"冠軍雷龙"},
+      "Trans": {"SC":"冠军迷惑龙","JA":"冠軍迷惑龙"},
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
@@ -4071,7 +4071,7 @@
     {
       "NamespaceHash": "Content::1791728754",
       "Source": "Fertilized Apatosaurus Egg",
-      "Trans": {"SC":"受精的雷龙蛋","JA":""},
+      "Trans": {"SC":"受精的迷惑龙蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -4083,7 +4083,7 @@
     {
       "NamespaceHash": "Content::1058153689",
       "Source": "Fertilized Champion Apatosaurus Egg",
-      "Trans": {"SC":"受精的冠军雷龙蛋","JA":""},
+      "Trans": {"SC":"受精的冠军迷惑龙蛋","JA":""},
       "Config": {"Item":true,"Dino":false,"Default_Hash":""}
     },
     {
@@ -5943,13 +5943,13 @@
     {
       "NamespaceHash": "Content::4020805928",
       "Source": "Equip a Bronto, Brachio or Apatosaurus with this to ride it.",
-      "Trans": {"SC":"给雷龙、腕龙或雷龙装备这个以骑乘它。","JA":""},
+      "Trans": {"SC":"给雷龙、腕龙或迷惑龙装备这个以骑乘它。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
       "NamespaceHash": "Content::4046911464",
       "Source": "Equip a Bronto, Brachio or Apatosaurus with this to ride it..  You can build structures on the large platform to make a mobile base.",
-      "Trans": {"SC":"给雷龙、腕龙或雷龙装备这个以骑乘它。 你可以在大型平台上建造结构以制作移动基地。","JA":""},
+      "Trans": {"SC":"给雷龙、腕龙或迷惑龙装备这个以骑乘它。 你可以在大型平台上建造结构以制作移动基地。","JA":""},
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {

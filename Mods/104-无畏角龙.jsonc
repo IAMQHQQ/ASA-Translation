@@ -163,12 +163,6 @@
       "Config": {"Item":false,"Dino":false,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3434409914",
-      "Source": "Protection",
-      "Trans": {"SC":"保护","JA":"保護"},
-      "Config": {"Item":false,"Dino":false,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::593986528",
       "Source": "Can't Locking Horns.",
       "Trans": {"SC":"无法锁定角","JA":"无法鎖定角"},

@@ -37,12 +37,6 @@
       "Config": {"Item":false,"Dino":true,"Default_Hash":""}
     },
     {
-      "NamespaceHash": "Content::3572138083",
-      "Source": "Hunter",
-      "Trans": {"SC":"猎人","JA":"獵人"},
-      "Config": {"Item":false,"Dino":true,"Default_Hash":""}
-    },
-    {
       "NamespaceHash": "Content::2359761432",
       "Source": "Brawler",
       "Trans": {"SC":"格斗者","JA":""},
